@@ -1,0 +1,70 @@
+[
+  {
+    "display_text": "Monkey King Bar, Cost: 4700: Each attack has an 80% chance to pierce evasion (True Strike), guaranteeing the hit against enemies with evasion or blind effects. On successful procs, deals 70 bonus magical damage, adding significant magical DPS on top of its raw physical damage. Stats: CD: Passive, Chance: 80%, Bonus Magic Damage: 70.",
+    "search_text": "true strike item, blind counter item, miss counter, accuracy item, guaranteed hit, evasion counter, pierce evasion, ignore evasion, cannot miss, attack modifier, magic damage proc, DPS item, carry item, damage boost, physical damage, MKB, Monkey King Bar",
+    "tags": [
+      "ITEM_DATA",
+      "MONKEY_KING_BAR",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "TRUE_STRIKE",
+      "VS_EVASION",
+      "MAGICAL_DAMAGE",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Monkey King Bar, Cost: 4700: Provides 40 damage and 45 attack speed, enhancing the raw physical output and attack frequency of right-click carries. The item offers no defensive stats or utility outside of its unique Pierce passive, focusing entirely on offensive power. Stats: Damage: +40, Attack Speed: +45.",
+    "search_text": "MKB stats, damage item, attack speed item, carry stats, DPS stats, physical stats, Monkey King Bar stats, high cost damage",
+    "tags": [
+      "ITEM_DATA",
+      "MONKEY_KING_BAR",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Monkey King Bar, Cost: 4700: Primarily a counter-pick item in team fights, nullifying the defensive value of enemy evasion and blind abilities (Windranger, Solar Crest, Butterfly). The added magic damage burst ensures reliable damage output against high-armor targets. Its high cost makes it a late-game damage spike.",
+    "search_text": "team fight counter, evasion counter item, butterfly counter, windranger counter, high armor counter, magic damage vs armor, late game damage, counter item, Monkey King Bar",
+    "tags": [
+      "ITEM_DATA",
+      "MONKEY_KING_BAR",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "VS_EVASION",
+      "COUNTER_ITEM",
+      "LATE_GAME"
+    ]
+  },
+  {
+    "display_text": "Monkey King Bar, Cost: 4700: Core situational purchase against heroes and items that grant evasion or blind (Phantom Assassin, Brewmaster, Heaven's Halberd). Essential when your primary right-click damage is being consistently missed due to enemy passives or actives. Prioritize after core damage items.",
+    "search_text": "situational vs evasion, counter phantom assassin, counter brewmaster, counter halberd, when to buy MKB, right-click miss, guaranteed hit item, counter evasion build, Monkey King Bar",
+    "tags": [
+      "ITEM_DATA",
+      "MONKEY_KING_BAR",
+      "SITUATIONAL_VS_EVASION",
+      "FULL_ITEM",
+      "COUNTER_ITEM",
+      "VS_EVASION",
+      "TRUE_STRIKE"
+    ]
+  },
+  {
+    "display_text": "Monkey King Bar, Cost: 4700: Synergizes with heroes who have high innate attack speed, as the proc chance is per attack, making it more effective on fast-hitting agility carries. Also complements heroes with built-in magic resistance reduction, as the bonus damage is magical. Not efficient as a first major item due to its cost.",
+    "search_text": "MKB synergy, high attack speed synergy, agility carry item, fast attack hero, magic damage synergy, magic resistance reduction, late game purchase, Monkey King Bar",
+    "tags": [
+      "ITEM_DATA",
+      "MONKEY_KING_BAR",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "ATTACK_SPEED",
+      "MAGICAL_DAMAGE"
+    ]
+  }
+]

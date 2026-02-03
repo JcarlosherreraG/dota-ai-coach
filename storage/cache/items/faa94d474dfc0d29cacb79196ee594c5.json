@@ -1,0 +1,61 @@
+[
+  {
+    "display_text": "Blitz Knuckles, Cost: 1000: Provides a flat +35 bonus attack speed as a passive effect. A pure stat component item with no active ability, designed to accelerate attack rate for heroes reliant on physical damage output. Stats: Attack Speed: +35.",
+    "search_text": "attack speed item, component item, dps component, physical damage component, increase attack speed, auto attack speed, blitz knuckles, attack rate, Blitz Knuckles",
+    "tags": [
+      "ITEM_DATA",
+      "BLITZ_KNUCKLES",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "COMPONENT",
+      "ATTACK_SPEED",
+      "DAMAGE",
+      "DPS",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Blitz Knuckles, Cost: 1000: Grants a singular attribute boost of +35 Attack Speed. Provides no health, mana, damage, armor, or other base stats. A pure offensive component focused on enhancing attack frequency. Stats: Attack Speed: +35.",
+    "search_text": "blitz knuckles stats, attack speed only, pure attack speed, component stats, stat component, no other stats, Blitz Knuckles",
+    "tags": [
+      "ITEM_DATA",
+      "BLITZ_KNUCKLES",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "COMPONENT",
+      "ATTACK_SPEED",
+      "OFFENSIVE_STATS"
+    ]
+  },
+  {
+    "display_text": "Blitz Knuckles, Cost: 1000: Increases damage per second in fights by allowing more frequent physical attacks. The value is linear and does not provide burst or utility; its impact scales directly with the hero's base damage and on-hit effects. A raw DPS increase component.",
+    "search_text": "attack speed dps, team fight dps, physical dps, attack frequency, damage per second, auto attack dps, blitz knuckles dps, dps increase, Blitz Knuckles",
+    "tags": [
+      "ITEM_DATA",
+      "BLITZ_KNUCKLES",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "COMPONENT",
+      "DAMAGE",
+      "DPS",
+      "PHYSICAL_DAMAGE",
+      "OFFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Blitz Knuckles, Cost: 1000: Core building block for attack speed-focused items like Monkey King Bar and Butterfly. Ideal for agility carries, heroes with critical strike passives, or any hero whose damage output scales multiplicatively with attack speed. Best purchased as part of a larger damage item progression.",
+    "search_text": "attack speed component, mk building, butterfly component, carry item component, dps build, agility carry item, damage item component, physical carry, item progression, Blitz Knuckles",
+    "tags": [
+      "ITEM_DATA",
+      "BLITZ_KNUCKLES",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "COMPONENT",
+      "ATTACK_SPEED",
+      "DAMAGE",
+      "CARRY_ITEM",
+      "UPGRADE",
+      "AGILITY"
+    ]
+  }
+]

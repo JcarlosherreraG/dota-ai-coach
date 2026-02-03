@@ -1,0 +1,45 @@
+[
+  {
+    "display_text": "Town Portal Scroll, Cost: 100: Channel for 3 seconds to teleport to any friendly building. Double-click to target your team's fountain. If multiple heroes target the same location, each successive channel time increases. Teleport is interrupted by taking player-based damage or root effects. Stats: CD: 80s, Mana: 75, Channel Time: 3s, Charges: 1.",
+    "search_text": "teleport item, map mobility, global teleport, channel teleport, rotate item, defend tower, split push, base teleport, fountain teleport, tp scroll, tp, town portal, escape, reposition, rotation, map movement, map control, global presence, Town Portal Scroll",
+    "tags": [
+      "ITEM_DATA",
+      "TOWN_PORTAL_SCROLL",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "MOBILITY",
+      "TELEPORT",
+      "MAP_CONTROL",
+      "CHANNELED"
+    ]
+  },
+  {
+    "display_text": "Town Portal Scroll, Cost: 100: Essential starting item for early game rotations and lane sustain. Enables heroes to quickly return to lane after visiting the fountain, minimizing experience loss. Critical for responding to early ganks or dives to turn fights and save allies.",
+    "search_text": "early game tp, starting item, rotation item, lane sustain, return to lane, early gank response, defend tower, save ally, counter gank, map movement early, Town Portal Scroll",
+    "tags": [
+      "ITEM_DATA",
+      "TOWN_PORTAL_SCROLL",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "MOBILITY",
+      "ROTATION",
+      "LANING",
+      "SITUATIONAL_USAGE"
+    ]
+  },
+  {
+    "display_text": "Town Portal Scroll, Cost: 100: Core tactical tool for split-pushing safely and defending structures. Use to escape dangerous situations by channeling to a safe tower. Key for maintaining map pressure and forcing enemy reactions. Remember, roots prevent the channel. Stats: CD: 80s, Mana: 75.",
+    "search_text": "split push item, escape item, defend tower, map pressure, global map control, split push escape, tower defense, forced rotation, root cancel, Town Portal Scroll",
+    "tags": [
+      "ITEM_DATA",
+      "TOWN_PORTAL_SCROLL",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "MOBILITY",
+      "ESCAPE",
+      "SPLIT_PUSH",
+      "DEFENSE",
+      "VS_CONTROL"
+    ]
+  }
+]

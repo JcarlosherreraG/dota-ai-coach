@@ -1,0 +1,188 @@
+[
+  {
+    "display_text": "Underlord is a Melee strength hero with a base attack rate of 1.7. He has high starting strength (25) and low agility (12), indicating a durable, spell-focused hero with slow physical attack speed and lower armor. This makes him reliant on abilities and damage reduction to survive fights.",
+    "search_text": "Underlord stats melee attack rate 1.7 strength 25 agility 12 intelligence 18 base armor health",
+    "tags": [
+      "UNDERLORD",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Demon's Reach. Underlord's attacks cleave while he has bonus damage from Atrophy Aura. This facet turns Underlord into a powerful physical damage and farming threat when he has stacks, synergizing with the bonus damage mechanic from his aura. Choose this for a more core-oriented, farming, and right-click build. Facet 2: Abyssal Horde. Fiend's Gate periodically summons minions. This facet enhances his ultimate's utility, providing extra pushing power, vision, and lane pressure around the portals. Choose this for a more utility-focused, split-pushing, and objective-taking playstyle.",
+    "search_text": "Underlord facet demon's reach cleave attack atrophy aura bonus damage abyssal horde fiend's gate summons minions split push",
+    "tags": [
+      "UNDERLORD",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Firestorm (30/50/70/90 damage per wave, 6 waves over 7 seconds) to secure last hits and harass. Pit of Malice (400 radius, 1.5/1.6/1.7/1.8 second root) provides strong defensive control against ganks. Atrophy Aura reduces enemy hero base damage by 6/14/22/30% in a 900 radius, making trades favorable. Focus on sustaining in lane and creating space with your area denial spells.",
+    "search_text": "Underlord laning phase firestorm last hit harass damage pit of malice root 400 radius atrophy aura damage reduction 900 radius trade",
+    "tags": [
+      "UNDERLORD",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spike 1: Level 6 with Fiend's Gate enables global map movement and gank setups. Power Spike 2: Level 12 with maxed Firestorm and Pit of Malice for strong teamfight presence. Power Spike 3: Level 18 with maxed ultimate and level 20 talent. Power Spike 4: Level 20 talent choice significantly boosts either Firestorm burn damage (+0.6%) or Atrophy Aura effectiveness (+10% reduction/gain). Power Spike 5: Level 25 talent choice between longer root (+0.4s) or massive area damage around portals (125 DPS). Key item spikes include Pipe of Insight for magic resistance and Guardian Greaves for sustain.",
+    "search_text": "Underlord power spike level 6 fiend's gate global level 12 firestorm pit of malice level 20 talent level 25 talent pipe guardian greaves",
+    "tags": [
+      "UNDERLORD",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Break effects (from Silver Edge, Doom) completely disable the Attack Damage Reduction from Atrophy Aura and prevent Underlord from gaining new temporary bonus damage stacks. High mobility heroes that can dodge Pit of Malice and Firestorm are problematic. Instant disables (hex, stuns) can prevent Fiend's Gate channeling or escape.",
+    "search_text": "Underlord counter break silver edge doom disables atrophy aura damage reduction gain stacks mobility dodge pit firestorm hex stun stop fiend's gate",
+    "tags": [
+      "UNDERLORD",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build 1: Pipe of Insight is essential for its team-wide magic barrier, synergizing with Underlord's role as a frontliner. Core Build 2: Guardian Greaves provides crucial mana, health, and dispel for your team. Core Build 3: Crimson Guard offers strong damage block against physical damage, complementing Atrophy Aura's damage reduction.",
+    "search_text": "Underlord core items pipe of insight magic barrier guardian greaves heal mana dispel crimson guard physical damage block",
+    "tags": [
+      "UNDERLORD",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Underlord's role is to be a durable frontliner and area controller. Use Pit of Malice to root multiple enemies in a 400 radius. Cast Firestorm on the rooted or clumped-up enemies for significant damage over time (30/50/70/90 damage per wave, plus 1.5/2/2.5/3 burn damage per second). Stand in the middle of the fight to apply Atrophy Aura's 6/14/22/30% base damage reduction to all enemies in a 900 radius. Use Fiend's Gate to reposition your team or initiate from unexpected angles.",
+    "search_text": "Underlord teamfight frontliner area control pit of malice root firestorm damage over time atrophy aura damage reduction 900 radius fiend's gate reposition",
+    "tags": [
+      "UNDERLORD",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Firestorm. Calls down 6 waves of fire over 7 seconds in a 425 radius area. Each wave deals 30/50/70/90 magical damage. Enemies hit are also burned for 1.5/2/2.5/3 magical damage per second for 2 seconds. Cooldown is 16/15/14/13 seconds. Does NOT pierce BKB unless specified otherwise (pierce_immunity data not present).",
+    "search_text": "Firestorm Q wave 6 radius 425 damage 30 50 70 90 burn 1.5 2 2.5 3 per second cooldown 16 15 14 13",
+    "tags": [
+      "UNDERLORD",
+      "ABILITY_DATA",
+      "Nuke",
+      "Area of Effect"
+    ]
+  },
+  {
+    "display_text": "Ability: Pit of Malice. Creates a 400 radius pit at the target location for 12 seconds. Enemies that enter are damaged for 20/30/40/50 magical damage and rooted for 1.5/1.6/1.7/1.8 seconds. The root can affect each enemy only once every 3.6 seconds. Does NOT pierce BKB unless specified otherwise (pierce_immunity data not present).",
+    "search_text": "Pit of Malice W root 400 radius damage 20 30 40 50 duration 12 seconds root interval 3.6",
+    "tags": [
+      "UNDERLORD",
+      "ABILITY_DATA",
+      "Root",
+      "Area of Effect",
+      "Control"
+    ]
+  },
+  {
+    "display_text": "Ability: Atrophy Aura. Passively reduces the base attack damage of all enemy units within 900 radius by 6/14/22/30%. Lasts 30/40/50/60 seconds. Break disables this aura and prevents new stacks. Does NOT pierce BKB unless specified otherwise (pierce_immunity data not present).",
+    "search_text": "Atrophy Aura E passive damage reduction 6 14 22 30 percent radius 900 duration 30 40 50 60 seconds break disables",
+    "tags": [
+      "UNDERLORD",
+      "ABILITY_DATA",
+      "Passive",
+      "Debuff",
+      "Aura"
+    ]
+  },
+  {
+    "display_text": "Ability: Invading Force. Passive. After an allied hero completes a teleport (Town Portal Scroll or Boots of Travel), they gain 11/14/17/20 bonus movement speed and 4/6/8/10% damage reduction for 5 seconds. If they teleported via Underlord's Fiend's Gate, these bonuses are doubled. Does NOT pierce BKB unless specified otherwise (pierce_immunity data not present).",
+    "search_text": "Invading Force passive teleport movement speed 11 14 17 20 damage reduction 4 6 8 10 percent duration 5 seconds fiend's gate double",
+    "tags": [
+      "UNDERLORD",
+      "ABILITY_DATA",
+      "Passive",
+      "Buff"
+    ]
+  },
+  {
+    "display_text": "Ability: Fiend's Gate. Ultimate. Opens two portals for 20 seconds, one at Underlord's location and one at a target location at least 1500 units away. Allies can channel for 3.5 seconds to teleport between them. Double-cast to target a portal in front of your fountain. Cooldown is 110/105/100 seconds. Does NOT pierce BKB unless specified otherwise (pierce_immunity data not present).",
+    "search_text": "Fiend's Gate R ultimate dark portal channel 3.5 seconds duration 20 cooldown 110 105 100 double click fountain global",
+    "tags": [
+      "UNDERLORD",
+      "ABILITY_DATA",
+      "Ultimate",
+      "Global",
+      "Utility",
+      "Mobility"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing Against High Magic Damage. Prioritize building Pipe of Insight early. Use your high base strength and Atrophy Aura to mitigate physical damage, but Firestorm's long cast time and channeling requirement make you vulnerable to magic burst. Positioning is key; use Pit of Malice defensively to root divers.",
+    "search_text": "Underlord vs high magic damage pipe of insight early build strength aura mitigate physical positioning pit of malice defensive root",
+    "tags": [
+      "UNDERLORD",
+      "SITUATIONAL",
+      "Magic Damage"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on defensive itemization like Guardian Greaves and Crimson Guard. Use Firestorm to safely clear waves under tower. Fiend's Gate becomes a crucial escape and repositioning tool for your team. Avoid fights and use your global presence to split push and create space.",
+    "search_text": "Underlord playing from behind defensive items guardian greaves crimson guard firestorm wave clear fiend's gate escape split push",
+    "tags": [
+      "UNDERLORD",
+      "SITUATIONAL",
+      "Comeback"
+    ]
+  },
+  {
+    "display_text": "Scenario: Pushing High Ground. Use Pit of Malice to control the enemy team's choke points on the ramp. Firestorm can clear enemy creep waves and damage buildings from a safe distance. The Invading Force passive helps allies who teleport in to join the siege. Consider the Abyssal Horde facet for extra minion summons to pressure buildings.",
+    "search_text": "Underlord high ground push pit of malice choke point firestorm clear creep wave building damage invading force teleport bonus abyssal horde minions",
+    "tags": [
+      "UNDERLORD",
+      "SITUATIONAL",
+      "Siege"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion Heroes. Firestorm is effective at clearing illusions due to its area damage over time. Atrophy Aura's damage reduction applies to all enemy units, including illusions, reducing their effectiveness. Pit of Malice can root the real hero if identified among the illusions.",
+    "search_text": "Underlord vs illusions firestorm clear area damage atrophy aura reduces illusion damage pit of malice root real hero",
+    "tags": [
+      "UNDERLORD",
+      "SITUATIONAL",
+      "Illusions"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents. Left Talent: +5% to both the Movement Speed and Damage Reduction bonuses from Invading Force. This enhances your team's survivability and mobility after teleports. Right Talent: +15 seconds to the duration of Atrophy Aura's temporary bonus damage buff. This allows you to maintain your damage stacks for much longer, increasing your right-click threat. Choose the left talent for more team utility and defense. Choose the right talent for more personal damage and farming speed.",
+    "search_text": "Underlord talent level 10 left invading force movement speed damage reduction +5% right atrophy aura duration +15 seconds bonus damage",
+    "tags": [
+      "UNDERLORD",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents. Left Talent: Pit of Malice applies a 20% slow to affected enemies. This adds a slow to the root, making it harder for enemies to escape after the root ends. Right Talent: Reduces Firestorm's cooldown by 4 seconds (from 16/15/14/13 to 12/11/10/9). This increases your wave clear and teamfight damage frequency. Choose the left talent for stronger single-target control and catch. Choose the right talent for more frequent area damage and farming.",
+    "search_text": "Underlord talent level 15 left pit of malice slow 20% right firestorm cooldown -4 seconds",
+    "tags": [
+      "UNDERLORD",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents. Left Talent: Increases Firestorm's burn damage by 0.6% of the target's max health per second. This significantly boosts the spell's damage against high-health heroes. Right Talent: Increases Atrophy Aura's Attack Damage Reduction and Bonus Damage gain by 10%. This makes the aura reduce enemy damage by 16/24/32/40% and increases the bonus damage you gain per hero kill. Choose the left talent for more magic damage output against tanks. Choose the right talent for stronger damage reduction and physical damage potential.",
+    "search_text": "Underlord talent level 20 left firestorm burn damage +0.6% max health right atrophy aura +10% damage reduction gain",
+    "tags": [
+      "UNDERLORD",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents. Left Talent: Increases Pit of Malice root duration by 0.4 seconds (from 1.5/1.6/1.7/1.8 to 1.9/2.0/2.1/2.2). This provides extremely strong crowd control, potentially locking down key targets. Right Talent: Fiend's Gate deals 125 magical damage per second to enemies within a 700 radius. This turns your portals into dangerous area denial zones and adds massive teamfight damage. Choose the left talent for unparalleled control in fights. Choose the right talent for overwhelming area damage and zoning.",
+    "search_text": "Underlord talent level 25 left pit of malice root duration +0.4 seconds right fiend's gate 125 dps 700 radius",
+    "tags": [
+      "UNDERLORD",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

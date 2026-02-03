@@ -1,0 +1,206 @@
+[
+  {
+    "display_text": "Tiny is a Melee Strength hero with exceptionally high base Strength of 30, but 0 base Agility and 17 base Intelligence. His base attack time is slow at 1.7. This makes him very tanky from level 1 with high HP and damage, but very slow and with low armor due to no Agility.",
+    "search_text": "Tiny stats melee strength hero attack type range armor movement speed HP BAT base stats 30 strength 0 agility 17 intelligence 1.7 attack time",
+    "tags": [
+      "TINY",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Tiny has two Facets. 'Crash Landing': Tossed units slow and deal bonus damage to other targets at the Toss destination. This amplifies Tiny's combo damage in teamfights, making him a better initiator/burster. 'Insurmountable': No specific description, but likely provides defensive stats or status resistance, making him a more durable frontliner. Choose Crash Landing for burst damage and combo play. Choose Insurmountable for survivability and sustained right-click.",
+    "search_text": "Tiny facets Crash Landing Insurmountable toss slow bonus damage teamfight initiator durable frontliner burst survivability",
+    "tags": [
+      "TINY",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use your high base damage and HP to secure last hits and trade. Max Avalanche first for burst damage. Coordinate with a support who has a stun to guarantee Avalanche hits, followed by Toss for a full combo. Use Toss on enemy creeps to harass. Be mindful of your low armor and slow attack speed, so avoid taking repeated right-click harass. Mana management is crucial due to high combo cost.",
+    "search_text": "Tiny laning phase last hits trade Avalanche burst combo Toss harass mana low armor attack speed",
+    "tags": [
+      "TINY",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Key Power Spikes: Level 2 (Avalanche + Toss combo), Level 6 (Grow provides significant damage and armor, enabling kill threat). Level 12 (Maxed Grow, major physical damage increase). Level 15 (+8 Strength talent). Level 20 (Toss Requires No Target talent for huge initiation range). Level 25 (2 Toss Charges talent for massive burst). Item spikes: Blink Dagger (initiation), Echo Sabre (mana and burst), Daedalus (critical damage).",
+    "search_text": "Tiny power spikes level 2 6 12 15 20 25 talents blink dagger echo sabre daedalus Grow damage",
+    "tags": [
+      "TINY",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Tiny is hard countered by Break (e.g., Silver Edge, Doom), which disables the application of new Craggy Exterior stacks, reducing his survivability. Heroes with high mobility can dodge his Avalanche+Toss combo. High armor heroes mitigate his physical damage from Grow and Tree Grab. Instant disables like Hex prevent him from initiating with Blink or using his combo.",
+    "search_text": "Tiny counters break Silver Edge Doom Craggy Exterior disable mobility dodge Avalanche Toss combo high armor hex",
+    "tags": [
+      "TINY",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: 1. Blink Dagger is essential for initiating the Avalanche + Toss combo. 2. Echo Sabre solves mana issues and provides a double hit, synergizing with his high base damage. 3. Assault Cuirass addresses his low armor and amplifies his team's physical damage.",
+    "search_text": "Tiny core items Blink Dagger Echo Sabre Assault Cuirass initiation combo mana armor",
+    "tags": [
+      "TINY",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Tiny's role is to initiate and burst key targets. Blink in, use Avalanche on multiple enemies, then Toss a key hero back into your team or into the Avalanche area. Use Tree Grab to deal splash damage in melee. Your high HP and Grow armor make you durable, but avoid being kited. Focus on disabling and eliminating the enemy's core damage dealer.",
+    "search_text": "Tiny teamfight role initiator burst Avalanche Toss combo Tree Grab splash tank frontliner disable core",
+    "tags": [
+      "TINY",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Avalanche. Bombards an area, dealing 100/190/280/370 damage over 1.5 seconds in 5 ticks every 0.3 seconds. Stuns for 0.3 seconds per tick. Has a 600 cast range and a radius of 325/340/355/370. Cooldown is 23/20/17/14 seconds. Projectile speed is 1200. Does NOT pierce BKB.",
+    "search_text": "Q Avalanche spell damage stun 100 190 280 370 1.5 seconds 5 ticks 0.3 stun 600 range 325 340 355 370 radius 23 20 17 14 cooldown",
+    "tags": [
+      "TINY",
+      "ABILITY_DATA",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Toss. Grabs the nearest unit (ally or enemy) within 300 radius and tosses it at a target unit or rune. Deals 90/180/270/360 damage in a 275 radius at the landing point. Toss flight time is 1.25 seconds. Does 33% damage to buildings. Does NOT pierce BKB.",
+    "search_text": "W Toss grab unit toss damage 90 180 270 360 275 radius 300 grab radius 1.25 flight time building damage ally enemy",
+    "tags": [
+      "TINY",
+      "ABILITY_DATA",
+      "W"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Tree Grab. Grants 5 attacks with a bonus 10/20/30/40 damage and 30/40/50/60 bonus damage vs buildings. Increases attack range to 300. Attacks fully splash (70/80/90/100% damage) in a 200 width by 400 range area. Tree can be thrown with a sub-ability (Tree Throw).",
+    "search_text": "E Tree Grab attacks 5 bonus damage 10 20 30 40 building damage 30 40 50 60 attack range 300 splash 70 80 90 100% 400 range 200 width",
+    "tags": [
+      "TINY",
+      "ABILITY_DATA",
+      "E"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Tree Volley. CHANNELED - Channels to throw random trees within 700 range at a targeted 1200 range area. Each tree deals Tiny's attack damage to enemies in a 400 radius at the destination. Projectile speed is 1000. Channels every 0.5 seconds. Does NOT pierce BKB.",
+    "search_text": "R Tree Volley channeled ability throw trees 700 range 1200 target area attack damage 400 radius splash 1000 speed 0.5 interval",
+    "tags": [
+      "TINY",
+      "ABILITY_DATA",
+      "R"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Craggy Exterior (Passive). Enemies that attack Tiny receive a stacking debuff that lowers their attack damage by 2/3/4/5 per stack, up to 10 stacks. Debuff lasts 5 seconds. Break disables the application of new stacks but does not disable existing stacks.",
+    "search_text": "Passive Craggy Exterior attack damage reduction 2 3 4 5 per stack 10 stacks max 5 second duration break disables application",
+    "tags": [
+      "TINY",
+      "ABILITY_DATA",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Grow (Ultimate). Grants 55/110/165 bonus damage, 5/10/15 bonus armor, and 10/15/20 movement speed, but reduces attack speed by 35. Also increases Toss damage by 50/175/300.",
+    "search_text": "Ultimate Grow bonus damage 55 110 165 armor 5 10 15 movement speed 10 15 20 attack speed reduction -35 toss bonus damage 50 175 300",
+    "tags": [
+      "TINY",
+      "ABILITY_DATA",
+      "ULTIMATE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Tree Throw (Sub-ability of Tree Grab). Throws the tree at a target unit up to 1200 range, proccing your attack on it and splashing 100% of that damage in a 275 radius around the target. Also applies a 25% movement slow for 2.5 seconds. Does NOT pierce BKB.",
+    "search_text": "Tree Throw sub ability attack proc 1200 range splash 275 radius 25% slow 2.5 seconds",
+    "tags": [
+      "TINY",
+      "ABILITY_DATA",
+      "SUB_ABILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Armor Heroes. Your physical damage from Grow and Tree Grab will be less effective. Prioritize magic burst with maxed Avalanche and Toss. Consider building items like Ethereal Blade to amplify your magic combo or Shiva's Guard to reduce enemy armor.",
+    "search_text": "Tiny vs high armor magic burst Avalanche Toss combo ethereal blade shiva's guard physical damage ineffective",
+    "tags": [
+      "TINY",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. You are vulnerable due to low armor. Build survivability items like Black King Bar to get your combo off, and Heaven's Halberd to disarm enemy carries. Use Tree Volley to safely clear waves from a distance. Focus on defending high ground with your Avalanche+Toss combo.",
+    "search_text": "Tiny behind losing survivability BKB Heaven's Halberd defend high ground Tree Volley wave clear",
+    "tags": [
+      "TINY",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Wombo-Combo Team. With heroes like Enigma or Magnus, your role is follow-up damage. Blink in after their big ultimate and use Avalanche and Tree Grab to clean up. The Crash Landing facet is excellent here for extra AOE damage from Toss.",
+    "search_text": "Tiny wombo combo Enigma Magnus follow up damage Avalanche Tree Grab cleanup Crash Landing AOE",
+    "tags": [
+      "TINY",
+      "SITUATIONAL",
+      "WITH_COMBO"
+    ]
+  },
+  {
+    "display_text": "Scenario: As a Position 1 Carry. Max Tree Grab after Avalanche for farming speed. Build damage items like Daedalus, Monkey King Bar, and Assault Cuirass. Use Grow's damage and armor to manfight. The Insurmountable facet may be better for late-game survivability.",
+    "search_text": "Tiny carry position 1 farm Tree Grab damage items Daedalus MKB AC manfight Insurmountable facet",
+    "tags": [
+      "TINY",
+      "SITUATIONAL",
+      "AS_CARRY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Illusion Heroes. Your cleave from Tree Grab and Tree Throw splash is effective against illusions. Consider a Battle Fury for more cleave. Avalanche and Toss can help identify and burst the real hero in a crowd.",
+    "search_text": "Tiny vs illusions cleave Tree Grab Tree Throw splash Battle Fury identify real hero burst",
+    "tags": [
+      "TINY",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 10: Left: +200 Avalanche Cast Range. Right: +8 Strength. Choose the Avalanche range if you need safer initiation or wave clear from further away. Choose +8 Strength for more HP, damage, and survivability in fights. Generally, +8 Strength is the more reliable choice.",
+    "search_text": "Tiny talent level 10 left +200 Avalanche cast range right +8 strength initiation HP damage",
+    "tags": [
+      "TINY",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 15: Left: -8% Grow Attack Speed Reduction. Right: +100 Avalanche Damage. Choose the attack speed reduction if you are building as a right-click carry to improve your DPS. Choose the Avalanche damage if you are focusing on magic burst and combo kill potential.",
+    "search_text": "Tiny talent level 15 left -8% Grow attack speed reduction right +100 Avalanche damage right-click DPS magic burst",
+    "tags": [
+      "TINY",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 20: Left: +60 Tree Grab Base Damage. Right: Toss Requires No Target. This is a critical choice. +60 damage significantly boosts your physical DPS and farming. Toss with no target allows you to throw units (including creeps or allies) to any location, enabling incredibly long-range initiations and saves. The no-target Toss is usually game-changing.",
+    "search_text": "Tiny talent level 20 left +60 Tree Grab base damage right Toss requires no target initiation save long-range DPS",
+    "tags": [
+      "TINY",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 25: Left: -8s Avalanche Cooldown. Right: 2 Toss Charges. The cooldown reduction brings Avalanche to a 6-second cooldown (from 14), enabling spammable wave clear and crowd control. Two Toss charges allow for massive burst combos (Avalanche -\u003e Toss -\u003e Toss) or versatile play with saves and displacements. Both are extremely powerful. Choose based on need for control vs. burst.",
+    "search_text": "Tiny talent level 25 left -8s Avalanche cooldown 6s right 2 Toss charges burst combo displacement save control",
+    "tags": [
+      "TINY",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Kunkka Aghanim's Scepter: Ghostship creates a fleet of 2 ships at the target point on a 2.5 second interval. Each ship now also fires 3 waves of cannonballs from the port and starboard side that deal 40% of Ghostship's damage as they pass through enemies. This upgrade enhances AoE control and damage output, forcing enemies to scatter or take significant damage, making it a strong counter to grouped formations and teamfight cluster strategies.",
+    "search_text": "Kunkka Aghanim Scepter AoE control teamfight damage scatter grouped formations",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Kunkka",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Kunkka Aghanim's Shard: Releases a Tidal Wave that spawns behind Kunkka. Deals damage and drags enemies along it. Enemies cannot attack while being dragged. This upgrade introduces a new anti-control mechanic, disrupting enemy positioning and disabling their attack capability, which is particularly effective against melee carries and stationary spellcasters.",
+    "search_text": "Kunkka Aghanim Shard anti-control drag disable positioning attack interrupt",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Kunkka",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

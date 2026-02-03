@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Dimensional Doorway, Cost: 0: Tier 5 Neutral item that creates a one-way portal. Teleports you and nearby allied heroes to a target location after a short delay. Primarily used for strategic repositioning or escapes. Stats: CD: 90s, Charges: 3.",
+    "search_text": "teleport item, portal item, neutral teleport, tier 5 neutral, reposition item, escape neutral, team teleport, global movement, strategic movement, Dimensional Doorway",
+    "tags": [
+      "ITEM_DATA",
+      "DIMENSIONAL_DOORWAY",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_5",
+      "MOBILITY",
+      "TEAM_BUFF",
+      "UTILITY",
+      "ESCAPE",
+      "REPOSITION"
+    ]
+  }
+]

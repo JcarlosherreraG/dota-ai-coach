@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Mirror Shield, Cost: 0: Tier 3 neutral item with a passive Echo Shield effect. Blocks and reflects 75% of most targeted spells back to their caster once every 12 seconds. Provides no attribute bonuses. Stats: Block/Reflect CD: 12s, Reflect Chance: 75%.",
+    "search_text": "reflect item, spell reflect, spell block, neutral item, passive shield, cast reflect, targeted spell counter, magic bounce, spell immunity, defensive neutral, magic defense, spell shield, Mirror Shield, tier 3 neutral, echo shield",
+    "tags": [
+      "ITEM_DATA",
+      "MIRROR_SHIELD",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "DEFENSIVE",
+      "VS_MAGIC",
+      "MAGIC_DEFENSE",
+      "SPELL_BLOCK",
+      "REFLECT"
+    ]
+  }
+]

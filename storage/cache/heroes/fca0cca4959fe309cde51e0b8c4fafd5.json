@@ -1,0 +1,197 @@
+[
+  {
+    "display_text": "Gyrocopter is a Ranged Agility hero with an Attack Time of 1.7 seconds. He has a strong base Agility of 25, paired with 22 Strength and 21 Intelligence. His starting physical survivability is decent, and his good Agility provides a solid foundation for early right-click damage.",
+    "search_text": "Gyrocopter stats Ranged Agility base attack time BAT 1.7 strength 22 agility 25 intelligence 21",
+    "tags": [
+      "GYROCOPTER",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet choice dictates Gyrocopter's mid-fight mobility or his area control. Secondary Strikes: Call Down creates delayed secondary explosions around heroes it hits, significantly increasing its area damage and slow potential, ideal for zoning and controlling teamfights. Afterburner: Every successful hit of a Rocket Barrage rocket on an enemy hero increases Gyrocopter's movement speed for 0 seconds (data shows duration 0, but the mechanic exists), encouraging an aggressive, in-your-face playstyle where you dive into the enemy team to maximize Rocket Barrage and gain a speed boost.",
+    "search_text": "Gyrocopter Facets Secondary Strikes Afterburner Call Down delayed explosions Rocket Barrage movement speed boost teamfight zoning aggressive dive",
+    "tags": [
+      "GYROCOPTER",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Gyrocopter's laning is defined by his high Rocket Barrage damage. At level 1, Rocket Barrage deals 8 damage per rocket, firing 10 rockets per second for 3 seconds, potentially dealing 240 magical damage if the full duration connects. Use this to secure kills or zone enemies. His base damage is decent due to 25 Agility. Use Homing Missile (stun duration 1.3/1.7/2.1/2.5 seconds, 90/180/270/360 damage) from the fog to set up kills or disrupt the enemy core's last hitting. Focus on farming and pressuring the enemy carry.",
+    "search_text": "Gyrocopter laning Rocket Barrage level 1 8 damage 10 rockets per second 3 seconds 240 magical damage Homing Missile stun 1.3 to 2.5 sec damage 90 to 360 zone kill setup",
+    "tags": [
+      "GYROCOPTER",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6: Call Down provides a huge teamfight and ganking power spike with 200 AoE damage and a 50% slow. Level 12: Maxed Rocket Barrage (26 damage per rocket) and Flak Cannon (5 attacks) allow you to farm quickly and melt heroes in close range. Level 18: Maxed Homing Missile provides a 2.5 second stun. Level 20: Talent choice between +14 Rocket Barrage Damage (more burst) or -4s Flak Cannon Cooldown (more sustained AoE). Level 25: Choice between -30s Call Down Cooldown (frequent teamfight ult) or +3 Flak Cannon Attacks (more teamfight physical damage). Key item spike is Black King Bar to safely channel Rocket Barrage.",
+    "search_text": "Gyrocopter power spikes level 6 Call Down 200 damage slow level 12 max Rocket Barrage 26 damage Flak Cannon 5 attacks level 18 Homing Missile 2.5s stun level 20 talent level 25 talent BKB item timing",
+    "tags": [
+      "GYROCOPTER",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Gyrocopter is hard countered by heroes with Break (e.g., Silver Edge, Hoodwink). Break explicitly disables his Side Gunner talent from Flak Cannon, removing a significant portion of his late-game teamfight damage. Instant disables like Hex prevent him from activating Black King Bar or using Rocket Barrage. High magic burst can kill him before he can deal damage due to his average Strength gain. Heroes that can quickly destroy his Homing Missile (which has 3 hits to kill for heroes, 6 for towers) also negate his initiation and stun.",
+    "search_text": "Gyrocounter counters Break Silver Edge disables Side Gunner Flak Cannon Hex instant disable prevent BKB Rocket Barrage magic burst Homing Missile destroy 3 hits to kill",
+    "tags": [
+      "GYROCOPTER",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Black King Bar is absolutely essential. It allows Gyrocopter to dive into the enemy team and use Rocket Barrage without being interrupted or burst down by magic damage. Mjollnir/Maelstrom provides crucial wave clear and magical damage procs that synergize with his Flak Cannon, allowing him to farm and fight effectively. Dragon Lance/Hurricane Pike provides much-needed attack range and survivability, letting him use Flak Cannon safely from a distance.",
+    "search_text": "Gyrocopter core build Black King Bar BKB essential Rocket Barrage channel Mjollnir Maelstrom wave clear Flak Cannon procs Dragon Lance Hurricane Pike attack range survivability",
+    "tags": [
+      "GYROCOPTER",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Gyrocopter's primary role is to deal massive AoE physical and magical damage. Initiate from fog with Homing Missile to stun a key target. Pop Black King Bar, fly into the enemy backline, and activate Rocket Barrage to melt supports and agility cores. Use Flak Cannon to hit all enemy heroes from a safe distance. Use Call Down to slow the enemy team at the fight's start or to cut off escape routes. Your job is to create chaos and output unsustainable damage in a large area.",
+    "search_text": "Gyrocopter teamfight role AoE damage physical magical initiate Homing Missile stun BKB Rocket Barrage dive Flak Cannon safe distance Call Down slow chaos",
+    "tags": [
+      "GYROCOPTER",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Rocket Barrage (Q). Launches a salvo of rockets at nearby enemy units in a 400 radius around Gyrocopter for 3 seconds. It fires rockets every 0.1 seconds (10 rockets per second). Each rocket deals 8/14/20/26 magical damage. Cannot hit units Gyrocopter has no vision over.",
+    "search_text": "Rocket Barrage Q first ability barrage duration 3 seconds radius 400 rocket damage 8 14 20 26 rocket interval 0.1 rockets per second 10 magical damage no vision required",
+    "tags": [
+      "GYROCOPTER",
+      "ABILITY_DATA",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Homing Missile (W). Fires a homing missile that seeks the targeted enemy unit. The missile travels up to 1500 distance at 500 speed, accelerating over 15 acceleration. It has a 2.5 second pre-flight time before launching. Upon impact, it deals 90/180/270/360 magical damage and stuns for 1.3/1.7/2.1/2.5 seconds. Enemy heroes can destroy it in 3 hits; towers take 6 hits. It will follow and hit invisible units.",
+    "search_text": "Homing Missile W second ability max distance 1500 speed 500 acceleration 15 pre flight time 2.5 damage 90 180 270 360 stun duration 1.3 1.7 2.1 2.5 hits to kill 3 tower hits 6 follows invisibile",
+    "tags": [
+      "GYROCOPTER",
+      "ABILITY_DATA",
+      "W"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Flak Cannon (E). Gyrocopter's next attacks hit all enemy units in a 1250 radius around him. Lasts for 12 seconds or 4/5/6/7 attacks. Only the main target receives attack modifiers like Critical Strike. Has a cooldown of 26/24/22/20 seconds. Provides a sidegunner with a fire rate and radius if the talent is taken. Break disables the sidegunner.",
+    "search_text": "Flak Cannon E third ability radius 1250 max attacks 4 5 6 7 duration 12 seconds cooldown 26 24 22 20 sidegunner break disables",
+    "tags": [
+      "GYROCOPTER",
+      "ABILITY_DATA",
+      "E"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Call Down (R). Call down 3 aerial missile strikes in a line, each strike 500 units from the previous. Each strike deals 200/350/500 magical damage in a 400 radius and applies a 50% slow for 4 seconds. There is a 1.0 second delay before the first strike, and 2 seconds between subsequent strikes. Cooldown is 90/75/60 seconds.",
+    "search_text": "Call Down R ultimate ability 3 strikes separation 500 radius 400 damage 200 350 500 slow 50% duration 4 sec strike delay 1.0 missile delay 2 cooldown 90 75 60",
+    "tags": [
+      "GYROCOPTER",
+      "ABILITY_DATA",
+      "ULT"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Chop Shop (Passive). Gyrocopter can disassemble most items. He cannot disassemble Divine Rapier or Hand of Midas. Gyrocopter can always sell recipes for full value.",
+    "search_text": "Chop Shop passive disassemble items cannot disassemble Divine Rapier Hand of Midas sell recipes full value",
+    "tags": [
+      "GYROCOPTER",
+      "ABILITY_DATA",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus High Armor/High HP Cores (e.g., Dragon Knight, Bristleback). Rocket Barrage's magical damage becomes your primary tool. Build to survive and cast it multiple times: Aghanim's Scepter for Call Down upgrade, Black King Bar, and Shiva's Guard for armor and intelligence. Avoid relying solely on Flak Cannon physical damage.",
+    "search_text": "Gyrocopter situational vs high armor high HP magic damage Rocket Barrage Aghanim Scepter Call Down BKB Shiva Guard armor int",
+    "tags": [
+      "GYROCOPTER",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Your farm is slow and you are vulnerable. Focus on defending high ground with Homing Missile stuns and Call Down slows. Build cheap, effective items like Magic Wand, Power Treads, and Drums of Endurance to help in early skirmishes. Use Flak Cannon to safely clear creep waves hitting your towers without showing on the map.",
+    "search_text": "Gyrocopter situational playing from behind defend high ground Homing Missile Call Down slow cheap items Magic Wand Power Treads Drums Flak Cannon clear waves",
+    "tags": [
+      "GYROCOPTER",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Multiple Illusion/Spawn Heroes (e.g., Phantom Lancer, Broodmother). Your Flak Cannon is extremely effective at clearing illusions and spiderlings. Prioritize maxing Flak Cannon after Rocket Barrage. Build Mjollnir for its active and proc damage. Consider a Battle Fury if the game goes very late for even better cleave.",
+    "search_text": "Gyrocopter situational vs illusions spawns PL Broodmother Flak Cannon clear max Flak Cannon Mjollnir chain lightning Battle Fury cleave",
+    "tags": [
+      "GYROCOPTER",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Burst a Key Hero. Combine Homing Missile (2.5 second stun at max level) with instant follow-up. Use Shadow Blade or Blink Dagger to get close, then Rocket Barrage during the stun. Follow up with a point-blank Call Down for maximum damage. Items like Daedalus or Monkey King Bar amplify your burst if you can right-click during the stun.",
+    "search_text": "Gyrocopter situational burst key hero combo Homing Missile stun Rocket Barrage Call Down Shadow Blade Blink Dagger Daedalus MKB",
+    "tags": [
+      "GYROCOPTER",
+      "SITUATIONAL",
+      "BURST_COMBO"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Heavy Silence or Root (e.g., Skywrath, Treant). These prevent you from using Rocket Barrage and Flak Cannon. Itemize for dispels: Manta Style (dispels silence/root, provides stats) or Satanic (dispels silence, provides lifesteal and survivability). Black King Bar remains critical against magical silences.",
+    "search_text": "Gyrocopter situational vs silence root dispel Manta Style dispels stats Satanic dispels lifesteal BKB magical silence",
+    "tags": [
+      "GYROCOPTER",
+      "SITUATIONAL",
+      "VS_SILENCE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your Team Lacks Initiation. You may need to build as an initiator. Build Blink Dagger and Aghanim's Scepter. Initiate with Blink -\u003e Call Down on multiple heroes for a huge slow and damage, then follow up with Homing Missile on a key target. This requires a very tanky build (e.g., Heart of Tarrasque) to survive going in first.",
+    "search_text": "Gyrocopter situational team lacks initiation Blink Dagger Aghanim Scepter Call Down slow Homing Missile stun tanky Heart",
+    "tags": [
+      "GYROCOPTER",
+      "SITUATIONAL",
+      "INITIATOR_BUILD"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 10: Left talent provides +25% Homing Missile Damage, increasing its nuke potential from 90/180/270/360 to 112.5/225/337.5/450. Right talent provides +150 Health, increasing survivability. Choose the damage if you are getting kills with Homing Missile or need burst. Choose the health if you are being focused and need to survive in fights to use Rocket Barrage.",
+    "search_text": "Gyrocopter talent level 10 left +25% Homing Missile Damage right +150 Health burst nuke vs survivability",
+    "tags": [
+      "GYROCOPTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 15: Left talent provides +0.3s Homing Missile Stun Duration, increasing it from 1.3/1.7/2.1/2.5 to 1.6/2.0/2.4/2.8 seconds. Right talent provides +25 Flak Cannon Damage per attack. Choose the stun if your team needs more reliable lockdown to secure kills. Choose the Flak damage if you are farming and fighting with Flak Cannon as your primary damage source.",
+    "search_text": "Gyrocopter talent level 15 left +0.3s Homing Missile Stun Duration right +25 Flak Cannon Damage lockdown vs physical DPS",
+    "tags": [
+      "GYROCOPTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 20: Left talent provides +14 Rocket Barrage Damage per rocket, increasing its total potential damage per full channel by 420 magic damage. Right talent provides -4s Flak Cannon Cooldown, reducing it from 26/24/22/20 to 22/20/18/16 seconds. Choose Rocket Barrage damage if you are playing a magic damage, burst-centric style and can reliably channel the full duration. Choose Flak Cannon cooldown if you are transitioning to a right-click physical damage carry and want more frequent AoE attacks.",
+    "search_text": "Gyrocopter talent level 20 left +14 Rocket Barrage Damage right -4s Flak Cannon Cooldown magic burst vs physical sustain DPS",
+    "tags": [
+      "GYROCOPTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 25: Left talent provides +3 Flak Cannon Attacks, increasing the total from 4/5/6/7 to 7/8/9/10 attacks. Right talent provides -30s Call Down Cooldown, reducing it from 90/75/60 to 60/45/30 seconds. Choose Flak Cannon attacks for extreme late-game teamfight physical damage, especially against multiple heroes. Choose Call Down cooldown to have your ultimate available for nearly every fight, providing consistent area damage and slow for map control and high-ground defense.",
+    "search_text": "Gyrocopter talent level 25 left +3 Flak Cannon Attacks right -30s Call Down Cooldown late game physical DPS vs ultimate uptime teamfight control",
+    "tags": [
+      "GYROCOPTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

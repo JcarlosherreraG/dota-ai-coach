@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Anti-Mage Aghanim's Scepter: Enhances Blink to burn an additional 20% max mana and prevent mana regeneration or gain upon Mana Break. This upgrade counters mana-reliant heroes by severely crippling their ability to cast spells, making Anti-Mage a more effective anti-caster assassin.",
+    "search_text": "Anti-Mage Aghanim Scepter anti-caster mana burn prevent mana regeneration spell cripple",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Anti-Mage",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Anti-Mage Aghanim's Shard: Creates a blinked fragment of Anti-Mage next to enemy casters upon reflecting their spell. This counters spell-reliant heroes by positioning Anti-Mage aggressively during Counterspell activation, enabling immediate counter-pressure.",
+    "search_text": "Anti-Mage Aghanim Shard anti-caster spell reflection counter-pressure",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Anti-Mage",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

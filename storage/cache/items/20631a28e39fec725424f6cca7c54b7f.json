@@ -1,0 +1,37 @@
+[
+  {
+    "display_text": "Block of Cheese, Cost: 2: Consumable item that instantly restores 3000 health and 2000 mana to your hero. Provides 500 shield HP that regenerates at 100 HP/s for 5 seconds. No target, instant cast with a 40-second cooldown. It cannot be dispelled. Stats: CD: 40s, Duration: 5s, Charges: 1, Health Restore: 3000, Mana Restore: 2000, Shield: 500, Shield Regen: 100/s.",
+    "search_text": "consumable heal, massive heal, cheese item, instant heal, huge mana restore, block of cheese, big heal item, restore health mana, emergency heal, full heal, full mana, cheesing, regen shield, cheese heal, heal consumable, mana consumable, instant restore, Royale with Cheese",
+    "tags": [
+      "ITEM_DATA",
+      "ROYALE_WITH_CHEESE",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "INSTANT_CAST",
+      "HEALTH",
+      "MANA",
+      "REGEN",
+      "SUSTAIN",
+      "SHIELD",
+      "DEFENSIVE",
+      "NO_TARGET"
+    ]
+  },
+  {
+    "display_text": "Block of Cheese, Cost: 2: Extremely powerful emergency sustain consumable for the late game or Roshan drops. Best used to instantly recover from near-death situations or to continue fighting after a huge mana expenditure. Its massive 3000 HP restore can fully heal most heroes, while the 2000 mana restore allows immediate casting of high-cost ultimates. Stats: CD: 40s, Health Restore: 3000, Mana Restore: 2000.",
+    "search_text": "emergency heal item, roshan drop, save from death, big mana restore, late game consumable, fight sustain, emergency mana, instant full health, full heal item, roshan cheese, big heal consumable, continue fighting, mana after ult, full restore, Royale with Cheese",
+    "tags": [
+      "ITEM_DATA",
+      "ROYALE_WITH_CHEESE",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "HEALTH",
+      "MANA",
+      "SUSTAIN",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "EMERGENCY",
+      "ROSHAN_DROP"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "display_text": "Mithril Hammer, Cost: 1600: Basic component item providing +24 damage. Pure offensive component used to build into higher-tier damage items like Desolator or Daedalus. Provides no other attributes or utility. Stats: Damage: +24.",
+    "search_text": "damage component, +damage item, mithril hammer, build damage, component for desolator, component for daedalus, pure damage, physical damage, damage stats, mithril hammer damage",
+    "tags": [
+      "ITEM_DATA",
+      "MITHRIL_HAMMER",
+      "CORE_DESCRIPTION",
+      "COMPONENT",
+      "UPGRADE",
+      "DAMAGE",
+      "PHYSICAL_DAMAGE"
+    ]
+  }
+]

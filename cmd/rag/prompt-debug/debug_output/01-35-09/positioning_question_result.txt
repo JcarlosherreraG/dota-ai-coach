@@ -1,0 +1,264 @@
+FILE: positioning_question.json
+QUESTION: Как мне позиционироваться в драках, чтобы не умирать первым?
+GENERATION TIME: 1.54s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: Ability, Damage] | Damage Bonus (400): Massive 400 damage increase, transforming the hero into a late-game physical damage powerhouse.
+---
+[TAGS: STRATEGY, Clockwerk, TEAMFIGHT] | Clockwerk Teamfight: Frontline disruptor isolating key targets with Hookshot + Cogs. Use Rocket Flare for vision. Battery Assault zones supports. Save Overclocking for focus fire scenarios.
+---
+[TAGS: CLOCKWERK, ABILITY_DATA, HOOKSHOT, R, ULTIMATE] | Hookshot: Fires a grappling hook at a target location at 4000/5000/6000 speed. If it hits an enemy, Clockwerk launches to them, dealing 75/175/275 damage and stunning for 1.2/1.4/1.6 seconds to all enemies in a 175 radius around the target. Enemies collided with along the path are also damaged and stunned. Can latch to allies without damaging or stunning them. Cooldown and manacost not specified in provided attributes.
+---
+[TAGS: Ability, Mobility, Positioning] | Movement Speed Bonus: Increases mobility for better positioning and escape. Stats: Speed Bonus: 10/15/100
+---
+[TAGS: JAKIRO, SITUATIONAL, FROM_BEHIND, DEFENSIVE] | When playing from behind, use your spells defensively. Ice Path to stop chases, Dual Breath to slow pursuers, and Macropyre to zone areas you need to defend. Build cheap utility items like Force Staff and Glimmer Cape to save allies and yourself.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MOBILE, SLOW] | Ogre Seal Totem VS_MOBILE: The guaranteed 100% slow for 1.5 seconds on each bounce is exceptionally strong against highly mobile heroes, effectively rooting them in place and preventing escapes. The double bounce can cover significant ground to catch fleeing targets. Stats: Slow: -100% for 1.5s, Bounces: 2, Bounce Distance: 400.
+---
+[TAGS: Ability, Passive, Resistance] | Insurmountable: Grants Tiny resistance to slows and status effects based on Strength. Stats: Strength to Slow Resistance: 20%, Strength to Status Resistance: 10%.
+---
+[TAGS: Ability, Duration, Area Control] | March of the Machines Duration: Extends area control and damage over time. Stats: Duration: +{bonus_duration}s
+---
+[TAGS: Ability, Passive, Burst Damage] | Critical Strike: Occasionally deals devastating critical damage. Stats: Chance: 20%, Critical Damage: 200%
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPELLABLE, NO_BKB_PIERCE] | Orb of Corrosion HARD_COUNTERS: The Corrosion effect is dispellable, meaning items like Manta Style or abilities with basic dispels can remove all debuffs (slow, armor reduction, heal reduction). Its effectiveness is limited against heroes who naturally build dispels or have innate magic resistance/status resistance. The effect does not pierce Spell Immunity. Stats: Dispellable: Yes, Does Not Pierce BKB.
+---
+[TAGS: Ability, Buff, Burst Damage] | Bloodrage: Amplifies attack speed and spell damage at the cost of health, ideal for burst damage setups. Stats: Duration: 8, Attack Speed: 60/90/120/150, Spell Amplification: 15%/20%/25%/30%, Max Health Damage Per Second: 1.4%
+---
+[TAGS: CLOCKWERK, TALENT_LEVEL_DATA, TALENT, TALENT_25] | Level 25 Talents: Left choice is -0.25s Battery Assault Interval (reducing interval from 0.7s to 0.45s). Right choice is Debuff Immunity Inside Power Cogs (also provides 50% magic resistance). Choose the interval for massive, near-permanent ministun lockdown and DPS, especially powerful with Overclocking. Choose the Debuff Immunity to become a BKB-like tank inside your cogs, making you immune to disables while you deal damage.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, RISK_REWARD, POSITIONING] | Nemesis Curse RISK_MANAGEMENT: The user must actively manage the self-debuff, avoiding initiation or being the primary focus target. Best suited for heroes who can apply the debuff from range or have high survivability. The item is a calculated risk, trading personal safety for team-wide damage potential. Stats: Self Damage Taken Increase: 6%.
+---
+[TAGS: DAZZLE, TALENT_LEVEL_DATA, TALENT_10] | Level 10 Talents. Left: +200 Attack Range when attacking an enemy affected by Poison Touch. This synergizes with the Poison Touch refresh mechanic and the Poison Bloom facet, allowing safer stacking of the slow. Right: +1.75 Mana Regeneration. Provides sustain for constant spellcasting, especially Shallow Grave and Shadow Wave. Choose Attack Range for a more aggressive, right-click oriented build (often with Poison Bloom). Choose Mana Regen if you are struggling for mana or playing a pure backline save role.
+---
+[TAGS: ITEM_DATA, FORTITUDE_RING, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SAVE, HEALTH, REGEN, SURVIVAL] | Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_DISABLES, DISPEL, ESCAPE] | Minotaur Horn SITUATIONAL_VS_DISABLES: The basic dispel component allows you to remove many slows, silences, and roots, providing a brief escape or engagement window. While it does not pierce spell immunity, it can cleanse debuffs applied through BKB. The 2-second immunity to new negative effects prevents follow-up control, making it strong against heroes with multiple single-target disables. Stats: Dispel Type: Basic Dispel, Buff Duration: 2s.
+---
+[TAGS: Ability, Defensive, Status Resistance] | Status Resistance Bonus: Reduces the duration of negative status effects. Stats: Status Resistance: 10%
+---
+[TAGS: Ability, Stat, Survivability] | Status Resistance: Enhances survivability by reducing the duration of debuffs. Stats: Status Resistance: 15%/20%/25%
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: Health, Positioning] | Bonus Health (325): Enables aggressive positioning with reduced risk. Stats: Health: 325
+---
+[TAGS: Ability, Attack Range, Positioning] | Special Bonus Attack Range 300: Maximizes a hero's attack range, granting unparalleled positioning freedom. Stats: Attack Range Bonus: 300
+---
+[TAGS: ITEM_DATA, SANGE_AND_YASHA, SITUATIONAL_VS_CONTROL, FULL_ITEM, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, SURVIVABILITY, DEFENSIVE] | Cost: 4200: Excellent against teams with multiple disables and slows. The status resistance reduces stun and silence durations, while the slow resistance reduces the impact of movement impairing effects. The health regen amplification synergizes with other sources of regen and lifesteal. Stats: Status Resistance: +15%, Slow Resistance: +25%, Health Regen Amp: +20%.
+---
+[TAGS: BEASTMASTER, SITUATIONAL, VS_MAGIC_BURST] | Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.
+---
+[TAGS: DAZZLE, TALENT_LEVEL_DATA, TALENT_20] | Level 20 Talents. Left: +75 Poison Touch DPS. Increases the damage per second from 16/28/40/52 to 91/103/115/127. A massive damage increase that makes Poison Touch a serious threat, especially with its long duration and refresh mechanic. Right: +40% Poison Touch Slow. Increases the base slow from 13%/16%/19%/22% to 18.2%/22.4%/26.6%/30.8%, and the attack-increase slow from 2%/2.5%/3%/3.5% to 2.8%/3.5%/4.2%/4.9%. Choose DPS for killing power and wave clear. Choose Slow for unparalleled chase and control, especially against mobile heroes.
+---
+[TAGS: Largo, SITUATIONAL, Vs Disables, Dispel] | Against heroes with powerful single-target disables (e.g., Bane, Shadow Shaman), Largo's value increases. Use Catchy Lick's basic dispel to instantly remove Fiend's Grip or Shackles from allies. Positioning is key; stay at the edge of 700 range to be ready to dispel. Build items like Lotus Orb for additional dispels and survivability.
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, SITUATIONAL_USAGE, CONSUMABLE, MOBILITY, ESCAPE, SPLIT_PUSH, DEFENSE, VS_CONTROL] | Town Portal Scroll, Cost: 100: Core tactical tool for split-pushing safely and defending structures. Use to escape dangerous situations by channeling to a safe tower. Key for maintaining map pressure and forcing enemy reactions. Remember, roots prevent the channel. Stats: CD: 80s, Mana: 75.
+---
+[TAGS: ITEM_DATA, ASCETIC'S_CAP, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SURVIVAL, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, VS_SLOW] | Ascetic's Cap, Cost: 0: Neutral item. Provides a passive effect that grants 40% Status resistance and 40% Slow Resistance for 3 seconds whenever a debuff would be applied to the owner. This makes the user temporarily more resilient to stuns, slows, and other negative effects. Stats: Status Resistance: 40%, Slow Resistance: 40%, Duration: 3s.
+---
+[TAGS: Dazzle, Armor, Scaling] | Weave Armor Reduction/Increase: Enhances Dazzle's Weave armor manipulation by 1 per second. Stats: Armor Change: +1
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BURST, DEFENSIVE] | Mekansm SITUATIONAL_VS_BURST: A direct counter to enemy lineups that rely on physical or magical burst damage to secure kills in a short time window. The 250 health heal can negate a significant portion of a nuke combo, and the +5 armor aura reduces incoming physical damage. It is less effective against damage-over-time or percent-based damage. Stats: Heal: 250 health, Bonus Armor: +5.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: DAZZLE, ABILITY_DATA, WEAVE] | Ability: Weave (R, Ultimate). A passive ability. Whenever Dazzle's abilities (Poison Touch, Shallow Grave, Shadow Wave) affect an ally or enemy, they gain a Weave stack. Each stack increases an ally's armor by 0.5/0.75/1.0/1.25 and reduces an enemy's armor by the same amount. Stacks last 8 seconds and multiple instances stack. This affects both allies and enemies. The armor change per stack is constant at all levels of the ultimate.
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: Ability, Area of Effect, Slow] | Stroke of Fate: A curved path ability that damages and slows enemies, with increased damage per hit. Tactical purpose: Area denial and teamfight damage scaling. Stats: Base damage: 100/160/220/280, Bonus damage per hero: 20/40/60/80, Bonus damage per creep/illusion: 10/20/30/40, Slow: 50%/60%/70%/80%, Slow duration: 1.75.
+---
+[TAGS: ITEM_DATA, ABYSSAL_BLADE, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, BKB_PIERCE, DISABLE, LOCKDOWN, COUNTER_ITEM, LATE_GAME] | Abyssal Blade, Cost: 6250: Situationally built against heroes reliant on spell immunity (Black King Bar) or escape mechanisms that provide debuff immunity. The active 'Overwhelm' stun pierces these immunities, making it a key counter-item for locking down elusive or magic-immune cores who are otherwise difficult to control. Directly counters the defensive power of BKB in the late game.
+---
+[TAGS: Ringmaster, ABILITY_DATA, W, Escape Act] | Ability: Escape Act. Ringmaster packs himself or an ally within 600 range into a box for 2.0/2.4/2.8/3.2 seconds. The boxed unit becomes untargetable, phased, and gains 50/60/70/80% bonus magic resistance, 0/8/16/24 bonus movement speed, and 100% slow resistance. The unit is also muted, silenced, and disarmed. The effect breaks if the box moves more than 500 units away from its creation point.
+---
+[TAGS: ITEM_DATA, VITALITY_BOOSTER, STAT_PROFILE, FULL_ITEM, HEALTH, SURVIVAL, COMPONENT, SECRET_SHOP] | Vitality Booster, Cost: 1000: Purchasable from the Secret Shop. Provides a flat +250 maximum Health, offering raw survivability with no active abilities. A core component for many late-game health-focused items like Heart of Tarrasque. Stats: Health Bonus: +250.
+---
+[TAGS: Ability, Attack Speed] | +70 Attack Speed: Enhances burst potential and sustained damage output. Stat: Attack Speed: 70.
+---
+[TAGS: CLOCKWERK, HARD_COUNTERS, COUNTERS] | Clockwerk is hard countered by heroes with strong dispels (like Oracle, Legion Commander) that can remove Battery Assault. Heroes who can destroy Power Cogs quickly from range (like Sniper, Drow Ranger) negate his control. Instant disables (like Lion Hex, Shadow Shaman Shackles) prevent him from using Hookshot or Power Cogs after initiation. Heroes with high mobility can dodge Hookshot.
+---
+[TAGS: STRATEGY, Clockwerk, FACETS] | Clockwerk Facet Strategy: Hookup is ideal for teamfight-heavy drafts, rewarding coordinated engagements with armor bonuses and cooldown refunds. Expanded Armature suits solo pickoff playstyles by increasing Power Cogs' zoning area. Chainmeal is niche but viable for pos3 builds stacking armor against physical damage.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, STAT_PROFILE, FULL_ITEM, HEALTH, DAMAGE, STRENGTH, SURVIVAL] | Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.
+---
+[TAGS: Ability, Point Target, Crowd Control] | Tendrils of the Deep: Sends a cone of tentacles to damage and stun enemies, effective for crowd control. Stats: Damage: 120-180, Stun Duration: 1.2s, Range: 300, Speed: 725.
+---
+[TAGS: Ability, Damage] | Damage Bonus (70): Grants 70 additional damage, creating strong kill threat against squishy supports.
+---
+[TAGS: Ability, Critical Strike, Burst Damage] | Boundless Strike: Increases critical chance, valuable for high burst damage. Stats: Crit Chance: %
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+---
+[TAGS: Ability, Damage, Burst] | Blade Dance Crit Damage: Enhances Juggernaut's critical strike damage, increasing his burst potential against high-priority targets. Stats: Critical Damage Increase: 10%
+---
+[TAGS: STRATEGY, Clockwerk, WEAKNESS] | Clockwerk Weakness: Vulnerable to Break (Silver Edge) disabling Overclocking's passive, and mobile heroes (Storm Spirit) dodging Hookshot. Heavy magic burst bypasses armor stacking.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: Ursa, Abilities, Survivability] | Ursa Enrage: Grants massive survivability and debuff resistance, making Ursa harder to kill. Stats: Damage Reduction: 80%, Status Resistance: 50%, Duration: 4/4.5/5
+---
+[TAGS: ITEM_DATA, RECIPE_BLACK_KING_BAR, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Black King Bar Recipe. Cost: 1450: Component required to assemble Black King Bar. Does not provide stats or abilities.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, CORE_ITEM] | Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.
+---
+[TAGS: STRATEGY, Clockwerk, TIMING] | Clockwerk Power Spike: Level 6 with Hookshot enables global map pressure. Blink Dagger timing (12-15min) unlocks instant initiation. Aghanim's Scepter at 20min amplifies teamfight disruption.
+---
+[TAGS: Dazzle, Slow, Crowd Control] | Poison Touch Slow: Increases Dazzle's Poison Touch slow effect by 40%. Stats: Slow Bonus: 40%
+---
+[TAGS: Ability, Attack Range, Positioning] | Special Bonus Attack Range 250: Offers a substantial range boost, enabling heroes to dominate from afar. Stats: Attack Range Bonus: 250
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MOBILE, POSITIONING] | Keen Optic SITUATIONAL_VS_MOBILE: The increased cast range allows spellcasters to target or disable elusive heroes from a safer distance, reducing the risk of being caught by counter-initiation. Stats: +75 Cast Range.
+---
+[TAGS: Ability, Control] | God's Rebuke Slow Duration Increase: Prolongs the slow effect of God's Rebuke, providing better control over enemy movement. Stats: Slow Duration: {bonus_knockback_slow_duration}s
+---
+[TAGS: ITEM_DATA, UNRELENTING_EYE, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, SLOW_RESISTANCE, STATUS_RESISTANCE, DEFENSIVE, SURVIVAL] | Unrelenting Eye, Tier 3 Neutral: Provides the Relentless passive, granting 50% slow resistance. This resistance decreases by 10% for each enemy hero within your attack range. A situational defensive tool that is most effective when you are isolated or separated from enemies. Stats: Max Slow Resistance: 50%, Reduction per Enemy Hero: 10%.
+---
+[TAGS: DAZZLE, SITUATIONAL, WITH_MAGIC_DAMAGE] | Scenario: With a Heavy Magic Damage Lineup. Dazzle's utility is still high but his armor reduction is less impactful. Focus on the Nothl Boon facet to maximize healing and disable uptime (hex from Poison Touch). Items like Lotus Orb and Pipe of Insight become more relevant. Your job is to keep magic damage dealers alive long enough to cast their spells multiple times.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, UPGRADE, SUPPORT, UTILITY, AURA] | Built from Buckler, Ring of Basilius, and Headdress, consolidating their component auras into one efficient package. This makes it an ideal mid-game upgrade for supports or utility cores looking to enhance their team's durability and pushing power. Its value is maximized when grouped with multiple heroes.
+---
+[TAGS: Dazzle, Range, Kiting] | Poison Touch Attack Range: Extends Dazzle's Poison Touch attack range by 200. Stats: Range Bonus: 200
+---
+[TAGS: ITEM_DATA, ESSENCE_RING, CORE_DESCRIPTION, NEUTRAL, TIER_2, SURVIVAL, DEFENSIVE, HEALTH, ACTIVE, BURST_HEAL] | Essence Ring, Tier 2: Neutral item that instantly increases your current and maximum health by 240 for 10 seconds upon activation. This burst of survivability provides a temporary health buffer for clutch moments in skirmishes or to survive burst damage. Its substantial mana cost requires careful mana management. Stats: CD: 25s, Mana: 160, Duration: 10s, Health Gain: 240.
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+---
+[TAGS: ITEM_DATA, AETHERIAL_HALO, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, VS_MAGIC, SURVIVAL, SUSTAIN, CONTROL, VS_MOBILITY] | Cost: 5900: Highly effective against magic-resistant enemies and physical burst due to the raw attribute bulk and spell lifesteal sustain. The active burn damage over time and slow helps control mobile heroes and prevent disengages.
+---
+[TAGS: Ability, Buff, Positioning] | Cast Range Bonus: Increases spellcasting safety and initiation range. Stats: Cast Range: +100/125/150/175/200/225/250/275/300/325
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Elusive HARD_COUNTERS: The evasion is countered by items and abilities providing True Strike (e.g., Monkey King Bar, Bloodthorn, certain hero spells), which completely negate its defensive benefit.
+---
+[TAGS: STRATEGY, Dazzle, WEAKNESS] | Dazzle Weakness: Vulnerable to burst damage (bypassing Shallow Grave), Break (disabling Weave's armor manipulation), and Silence (preventing spell usage).
+---
+[TAGS: Ability, Critical Strike, Burst Damage] | Boundless Strike Critical Damage: Amplifies critical damage, enhancing burst potential. Stats: Critical Damage: %
+---
+[TAGS: STRATEGY, Clockwerk, ITEM_BUILD, CORE] | Clockwerk Core Build: Blink Dagger for reliable initiations, Aghanim's Scepter for teamfight control. Boots of Bearing synergizes with Hookup's armor bonuses.
+---
+[TAGS: STRATEGY, Clockwerk, ITEM_BUILD, SITUATIONAL] | Clockwerk Situational: Lotus Orb vs single-target disables, Pipe vs magic damage. Shiva's Guard amplifies armor stacking. Force Staff counters melee counters like Ursa.
+---
+[TAGS: CLOCKWERK, BASE_STATS, MELEE, STATS] | Clockwerk is a Melee strength hero. He has a base strength of 26, agility of 13, and intelligence of 18. His base attack time is 1.7 seconds, which is average. His melee range and low base agility (low armor) mean he must close distance carefully in lane.
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: ITEM_DATA, FORCE_STAFF, FULL_ITEM, SITUATIONAL_VS_CONTROL, VS_CONTROL, ESCAPE, SURVIVAL, DEFENSIVE, REACTIVE] | Cost: 2200: Situational vs aggressive initiators and catch-heavy lineups. Force Staff counters enemy gap-close and allows allies to escape from danger zones. It is a reactive purchase against heroes who rely on getting on top of your team and locking them down, providing a crucial escape tool that can't be interrupted by most disables.
+---
+[TAGS: ITEM_DATA, TRICKSTER_CLOAK, CORE_DESCRIPTION, NON_PURCHASABLE, UTILITY, INVISIBILITY, ESCAPE, INITIATION, MOBILITY] | Trickster Cloak, Cost: 0: Non-purchasable item that grants an active ability to become invisible for 6 seconds. This effect is dispellable and provides a significant window for repositioning, escape, or initiating unseen. Stats: CD: 25s, Duration: 6s.
+---
+[TAGS: ITEM_DATA, BELOVED_MEMORY, CORE_DESCRIPTION, NON_PURCHASABLE, EVENT, UTILITY] | Ofrenda - Beloved Memory, Tier N/A (Non-Purchasable): An Offering that can be placed on an Altar to honor the dead. Its sole ability honors the dead with a memory, targeted on friendly buildings. Provides no stat bonuses. This item is for event or tribute mechanics. Stats: CD: 3s, Cast Speed: 1000.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: DAZZLE, HARD_COUNTERS] | Dazzle is hard countered by heroes with Break (e.g., Hoodwink, Shadow Demon) which disables his Weave passive. Instant hex or silence prevents him from casting Shallow Grave. Pure damage and health removal spells (like Necrophos Heartstopper Aura) can kill through Shallow Grave. Axe's Culling Blade instantly kills a hero under Shallow Grave effect. Anti-heal effects (like Spirit Vessel) reduce the impact of his heals.
+---
+[TAGS: Dazzle, DPS, Damage Over Time] | Poison Touch DPS: Increases Dazzle's Poison Touch damage over time by 75. Stats: DPS Bonus: 75
+---
+[TAGS: PANGOLIER, SITUATIONAL, FROM_BEHIND, FARM, ESCAPE] | Scenario: Playing From Behind. Use Swashbuckle to safely clear waves from a distance. Avoid risky initiations with Rolling Thunder; use it primarily as an escape tool. Build survivability items like BKB or Linken's Sphere. Focus on farming with Swashbuckle and Maelstrom until you hit key item timings.
+---
+[TAGS: ITEM_DATA, EULS_SCEPTER_OF_DIVINITY, CORE_MECHANICS, FULL_ITEM, DISABLE, SAVE, DISPEL, REPOSITION, VS_MAGIC, VS_PHYSICAL] | Eul's Scepter of Divinity, Cost: 2600: Self-targetable tool that sweeps a unit into a cyclone, making it invulnerable for 2.5 seconds. Can be used on enemy units or yourself, dealing 50 magical damage to enemies upon landing. Primarily used to disable an enemy or to dodge projectiles and spells. Has a basic dispel interaction. Stats: CD: 23s, Mana Cost: 175, Duration: 2.5s.
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: Ability, Attack Speed] | +40 Attack Speed: Enhances physical DPS output by increasing attack speed. Stat: Attack Speed: 40.
+
+=== GAME STATE ===
+Match Time: 27:30 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: sniper (Lvl 17) | HP: 1200/1200 | Mana: 600/800 | Alive: true
+Stats: K/D/A 7/4/6 | Gold: 4200 | LastHits: 180
+Inventory: [item_power_treads (CD), item_dragon_lance (CD), item_mask_of_madness, item_maelstrom (CD), item_magic_wand x10, item_tpscroll x2]
+Abilities: [sniper_shrapnel(Lvl4)[Rdy] | sniper_headshot(Lvl4)[NoMana/Silenced] | sniper_take_aim(Lvl4)[Rdy] | sniper_assassinate(Lvl2)[ULTIMATE-READY]]
+User Situation Notes: Враги: Clockwerk, Slark, Queen of Pain, Dazzle, Rubick. У Clockwerk Blink + BKB готовы. У Slark Shadow Blade. QoP постоянно прыгает на меня с Ульта.
+
+=== USER QUESTION ===
+"Как мне позиционироваться в драках, чтобы не умирать первым?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Как мне позиционироваться в драках, чтобы не умирать первым?".**
+========================================
+
+[AI RESPONSE] (5.86s)
+Попробуй использовать Shrapnel для контроля области и замедления врагов, чтобы избежать их подхода. Также, держись позади своей команды, используя Take Aim, чтобы наносить урон на безопасном расстоянии. Если Clockwerk или Queen of Pain начнут нападать, у них будет сложнее добраться до тебя, если ты правильно используешь позиционирование и прячешься за союзниками.

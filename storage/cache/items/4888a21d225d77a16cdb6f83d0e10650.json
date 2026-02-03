@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Ninja Gear, Cost: 0: Non-purchasable item from the void. Casts a single-target Smoke of Deceit effect on yourself, lasting up to 15 seconds. Provides a +15 movement speed bonus while invisible. Excellent for repositioning, initiating ganks, or escaping unnoticed. Stats: CD: 60s, Mana: 100, Duration: 15s.",
+    "search_text": "ninja gear, smoke of deceit, self smoke, invisibility item, gank tool, repositioning, escape item, initiate ganks, stealth item, void item, movement speed bonus, cast smoke, sneak, ambush, Ninja Gear",
+    "tags": [
+      "ITEM_DATA",
+      "NINJA_GEAR",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "UTILITY",
+      "INVISIBILITY",
+      "MOBILITY",
+      "INITIATION",
+      "ESCAPE"
+    ]
+  }
+]

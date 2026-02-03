@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Winter Wyvern Aghanim's Scepter: Turns Arctic Burn into a toggle ability, removing the limit on attacks per target and increasing movement speed. This upgrade counters kiting and evasion mechanics, allowing Winter Wyvern to maintain consistent damage output and chase down fleeing enemies effectively.",
+    "search_text": "Winter Wyvern Aghanim Scepter counter-kiting anti-evasion chase movement speed toggle ability",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Winter Wyvern",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Winter Wyvern Aghanim's Shard: Causes a Splinter Blast to trigger at the end of Cold Embrace, hitting enemies within 1150 range with reduced cooldown. This upgrade counters clustered enemy formations, punishing melee heroes or groups attempting to focus down an ally protected by Cold Embrace.",
+    "search_text": "Winter Wyvern Aghanim Shard counter-cluster anti-melee splash damage Cold Embrace Splinter Blast",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Winter Wyvern",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

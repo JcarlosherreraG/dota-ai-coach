@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Ring of Tarrasque, Cost: 1700: Component item that provides +12 Health Regeneration per second. Offers substantial sustain without active abilities, building into high-tier defensive items like Heart of Tarrasque and Revenant's Brooch. Stats: HP Regen: +12.",
+    "search_text": "health regeneration item, sustain item, hp regen, component item, defensive component, tank component, Heart of Tarrasque component, Revenant's Brooch component, laning regen, early sustain, survivability, Ring of Tarrasque",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_TARRASQUE",
+      "CORE_DESCRIPTION",
+      "COMPONENT",
+      "UPGRADE",
+      "REGEN",
+      "HEALTH",
+      "SUSTAIN",
+      "DEFENSIVE"
+    ]
+  }
+]

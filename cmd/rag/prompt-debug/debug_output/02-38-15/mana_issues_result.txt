@@ -1,0 +1,239 @@
+FILE: mana_issues.json
+QUESTION: Что мне собрать, чтобы решить проблему с маной?
+GENERATION TIME: 2.84s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, SITUATIONAL, HERO_DEPENDENT, ABILITY_UPGRADE] | Aghanim's Scepter SITUATIONAL_VS_[TYPE]: The situational value is hero-defined. It can provide solutions like VS_MOBILE (added lockdown), VS_MAGIC (added magic resistance or barrier), VS_PHYS (added armor or evasion), or VS_BKB (added pierce) based on the specific hero upgrade. Stats: Hero-dependent upgrade.
+---
+[TAGS: ITEM_DATA, MJOLNIR, FULL_ITEM, FARMING_UTILITY, FARMING, WAVECLEAR] | Mjollnir, Cost: 5500: Excellent farming accelerator, allowing heroes to quickly clear waves and jungle camps via Chain Lightning bounces. The high attack speed further increases farming speed. Best purchased by heroes with naturally high attack speed or those who can efficiently build Maelstrom first.
+---
+[TAGS: ITEM_DATA, HAND_OF_MIDAS, FARMING_UTILITY, FULL_ITEM, FARMING, INVESTMENT, GOLD_EFFICIENCY] | Hand of Midas, Cost: 2200: A pure farm acceleration item with minimal combat impact. Its value comes from converting creeps into extra gold and neutral items, requiring efficient usage to justify its cost before key enemy power spikes. Typically bought by cores seeking a fast level and item advantage. Stats: Gold: 160.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, FARMING, UTILITY] | Quelling Blade CORE_MECHANICS: A low-cost utility item that increases attack damage against non-hero units (creeps, wards, buildings). Its active ability 'Chop Tree' allows you to destroy a single target tree within 350 range. This enables pathing, clearing vision blockers, or juke spot access. The passives provide reliable last-hitting power. Stats: Cost: 100 gold, Bonus Damage vs Non-Heroes: 8 for melee heroes / 4 for ranged heroes, Tree Chop Range: 350, Ability Cooldown: 4 seconds.
+---
+[TAGS: ITEM_DATA, BLADE_OF_ALACRITY, STAT_PROFILE, FULL_ITEM, CARRY_ITEM, PHYSICAL_DAMAGE, AGILITY] | Blade of Alacrity, Cost: 1000: Provides a significant boost to Agility for a basic component item. It offers no active abilities or additional stats, serving primarily as a core stat-building item. Stats: Agility: +10.
+---
+[TAGS: ITEM_DATA, HELM_OF_THE_DOMINATOR, FARMING_UTILITY, FULL_ITEM, FARMING, WAVECLEAR, GOLD_EFFICIENCY, VISION, UTILITY] | Helm of the Dominator, Cost: 2550: Enables safe ancient stacking for heroes that can clear them, accelerating farm. Allows heroes to dominate a lane creep during pushes to increase pressure. Can be used to secure jungle bounty during rotations or to gain vision for Roshan attempts.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, UPGRADE] | Aghanim's Blessing Recipe CORE_BUILD / SYNERGIES: This is the final recipe component for Aghanim's Blessing. It builds into Aghanim's Blessing, which requires a pre-existing Aghanim's Scepter. Its sole synergy is with the Aghanim's Scepter effect on a hero. Stats: Component for: Aghanim's Blessing.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, STRATEGIC] | Tome of Aghanim CORE_BUILD / SYNERGIES: Not built from components. Synergizes with heroes whose Aghanim's Scepter upgrade provides a massive teamfight or utility power spike. Can be strategically fed to the most impactful hero on the team. Stats: No components.
+---
+[TAGS: Ability, Magic Resistance, Durability] | Magic Resistance (10%): Reduces magical damage taken by 10%, improving durability against spell-heavy lineups. Stats: Magic Resistance: 10%
+---
+[TAGS: Ability, Magic Resistance, Frontline] | Magic Resistance (25%): Significantly lowers magical damage impact with 25% resistance, ideal for frontline heroes. Stats: Magic Resistance: 25%
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, LATE_GAME, INVENTORY_MANAGEMENT] | Aghanim's Blessing CORE_BUILD / SYNERGIES: Built exclusively by consuming an Ultimate Scepter. Has no build path of its own. Synergizes with the hero's upgraded ultimate or abilities. Allows for a 7th effective item slot, enabling the purchase of another powerful late-game active item.
+---
+[TAGS: Witch Doctor, Mana, Voodoo Restoration] | special_bonus_unique_witch_doctor_4: Reduces Voodoo Restoration Mana Cost per Second. Tactical Analysis: Improves mana efficiency for prolonged healing, enhancing sustain.
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, TEAMFIGHT_ROLE, UTILITY, AURA, BUFF, SUPPORT_ITEM] | Arcane Boots, Cost: 1400: Strong teamfight utility item for sustaining allies' mana pools. The aura passively helps during sieges and stand-offs, while the active can enable key follow-up spells after an engagement. Its value scales with the number of spellcasting allies.
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, CORE_MECHANICS, SUPPORT_ITEM, AURA, MANA_REGEN, UTILITY, TEAM_BUFF] | Arcane Boots, Cost: 1400: Active ability Replenish restores 150 mana to all allies within a large 1200 radius. Also grants a passive aura providing +1 mana regeneration to nearby allies. A core mana-battery for spell-heavy teams. Stats: CD: 55s, Cost: 1400, Radius: 1200, Mana Restore: 150.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, MANA] | Witless Shako HARD_COUNTERS: The mana reduction severely punishes heroes with high mana costs or who rely on multiple spells per fight. This item is a poor choice against mana-burn or mana-draining abilities. Stats: Max Mana Reduction: -400.
+---
+[TAGS: Ability, Mana] | Mana Bonus 1000: Significantly boosts mana pool for sustained spell usage. Stats: Mana: +1000
+---
+[TAGS: Abilities, Buff, Mana Burn] | Special Bonus Unique Antimage (Max Mana Mana Burn): Strengthens mana burn effectiveness by increasing Max Mana Mana Burn percentage. Stats: Max Mana Mana Burn Increase: [VALUE]%
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, MANA_SUSTAIN] | Arcane Boots Recipe CORE_BUILD / SYNERGIES: This is the final component required to build the full Arcane Boots item. It synergizes with a build order that prioritizes mana sustain for spellcasting heroes and their team. The typical build path is Boots of Speed and Energy Booster, followed by this recipe.
+---
+[TAGS: ITEM_DATA, VOID_STONE, STAT_PROFILE, COMPONENT, MANA_REGEN, SUSTAIN, MANA, UTILITY] | Void Stone, Cost: 700: Purchasable component item that provides +1.75 Mana Regeneration, an essential source of mana sustain for spellcasters and heroes with high mana consumption. It serves as a common building block for more advanced mana-focused items. Stats: Bonus Mana Regen: +1.75.
+---
+[TAGS: Witch Doctor, Damage, Voodoo Restoration] | special_bonus_unique_witch_doctor_2_facet_witch_doctor_voodoo_festeration: Converts Voodoo Restoration into Max Health-based Damage. Tactical Analysis: Transforms the ability into an offensive tool against tanky enemies.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Quelling Blade HARD_COUNTERS: The passive quell effect is countered by enemies who can deny or out-last-hit you despite the bonus. The tree chop utility is countered by enemies who do not rely on trees for juking or abilities. The damage bonus does not stack with other quelling blades. Stats: Bonus Damage: 8 melee / 4 ranged, Effects do not stack.
+---
+[TAGS: LESHRAC, SITUATIONAL, PUSH] | Scenario: Need to Push Towers Early. Use the Chronoptic Nourishment facet for mana sustain from attacks on the tower. Max Diabolic Edict first. Use it on cooldown with creep waves to take towers quickly. Build early mana items (Soul Ring, Arcane Boots) to support this. Group with your team to secure objectives.
+---
+[TAGS: Ability, Passive, Mana Regen] | Galvanized: Scales mana regeneration over time based on kills and deaths, enhancing sustainability. Stats: Perma MP per Kill: 0.1, MP per Kill: 0.2, Charges per Ult: 3, Radius: 1200, Charges per Death: 2
+---
+[TAGS: ITEM_DATA, DIFFUSAL_BLADE, STAT_PROFILE, FULL_ITEM, AGILITY, INTELLIGENCE, DAMAGE, ATTACK_SPEED, MANA] | Diffusal Blade, Cost: 2500: Provides +15 Agility and +10 Intelligence, making it efficient for Agility heroes who scale with attack speed and damage. The Intelligence helps support the mana cost of its active ability. Stats: AGI: +15, INT: +10.
+---
+[TAGS: CRYSTAL_MAIDEN, ABILITY_DATA, PASSIVE, MANA_REGEN] | Ability: Arcane Aura. Description: Passive. Gives 0.4/0.6/0.8/1.0 base mana regeneration per second to all friendly units on the map. Allies within 1200 radius of Crystal Maiden receive 3x the mana regeneration (1.2/1.8/2.4/3.0 mana per second).
+---
+[TAGS: ITEM_DATA, LANING_PHASE, EARLY_GAME, MANA] | Robe of the Magi LANING_PHASE: Very early purchase for heroes needing initial mana pool and spell damage for harassment and last-hitting with spells. Can be built in the side shop. Stats: Cost: 450 gold.
+---
+[TAGS: ITEM_DATA, STAFF_OF_WIZARDRY, FULL_ITEM, STAT_PROFILE, COMPONENT, INTELLIGENCE, MANA, MANA_POOL] | Staff of Wizardry, Cost: 1000: Permanent component item providing +10 Intelligence. A foundational piece for building larger intelligence-based items like Scythe of Vyse or Aghanim's Scepter. Provides raw mana pool increase and minor mana regen boost. Stats: Intelligence: +10.
+---
+[TAGS: ITEM_DATA, QUELLING_BLADE, FARMING_UTILITY, COMPONENT, FARMING, WAVECLEAR, UTILITY] | Quelling Blade, Cost: 100: Primarily accelerates early game farming speed for both melee and ranged cores, allowing them to secure last hits more easily and clear jungle camps faster. The tree destruction capability provides utility for creating vision paths, juking, or escaping through forests. It has minimal direct impact on team fights.
+---
+[TAGS: ITEM_DATA, AGHANIMS_BLESSING, CORE_MECHANICS, FULL_ITEM, UPGRADE, ULTIMATE_UPGRADE] | Aghanim's Blessing, Cost: 5800: Purchasable upgrade that permanently improves a hero's ultimate ability and potentially modifies other abilities. It is a powerful late-game power spike that scales hero-specific powers. Consumed on use to bestow the Scepter effect without occupying an inventory slot. Stats: Cost: 5800.
+---
+[TAGS: ITEM_DATA, ULTIMATE_SCEPTER, CORE_MECHANICS, FULL_ITEM, UPGRADE, UTILITY, HEALTH, MANA, ATTRIBUTES] | Cost: 4200: Ultimate Scepter upgrades ultimate and some abilities of all heroes. Core late-game upgrade for heroes with powerful ultimate abilities. Provides attribute bonuses improving survivability and mana pool. Stats: CD: N/A, Mana Cost: N/A, Health: +175, Mana: +175, All Attributes: +10.
+---
+[TAGS: MORPHLING, ABILITY_DATA, MORPH] | Ability: Morph (Ultimate) (R). Target an enemy hero to gain their basic abilities for 24 seconds. Can be toggled between Morphling's form and the replicated enemy's form for the duration. With Aghanim's Scepter, duration increases and stats are stolen. Does not copy Shard/Scepter abilities unless Morphling owns the item. Does not trigger spell reflect.
+---
+[TAGS: Ability, Passive, Mana] | Mana Magnifier: Enhances mana pool for sustained spellcasting. Stats: Aura Radius: 900, Bonus Mana Percentage: 15%
+---
+[TAGS: ITEM_DATA, LANING_PHASE, MIDGAME, FARMING] | Mjollnir LANING_PHASE: Not a laning item. Its timing is a significant mid-to-late game investment (5500 gold). Building its components first provides farming and pushing power. The Maelstrom component accelerates farm earlier in the game, leading to a smoother Mjollnir completion. Stats: Cost: 5500 gold.
+---
+[TAGS: ITEM_DATA, HELM_OF_THE_OVERLORD, FULL_ITEM, FARMING_UTILITY, GOLD_INCOME, EXPERIENCE, JUNGLE, FARM] | Helm of the Overlord, Cost: 5650: Farming utility item; dominated creeps can jungle and stack camps, accelerating your team's net worth. Can also secure safe farm by sending the creep to dangerous lanes. Provides constant gold and experience from the creep's kills, paying for itself over time.
+---
+[TAGS: AGHS_STRATEGY, Kez, COUNTER_MECHANIC, AGHANIM] | Kez Aghanim's Scepter: Switch Discipline allows casting any weapon ability without triggering the alternate cooldown if used within 3 seconds of Switch Discipline, and refreshes Switch Discipline’s cooldown. This enables rapid ability cycling, making Kez highly adaptable in prolonged engagements and countering ability downtime.
+---
+[TAGS: Witch Doctor, Ability, Heal] | Voodoo Restoration: Heals nearby allies for Heal: 20/30/40/50 per second while active. Mana Cost: 25 per second. Radius: 500/550/600/650. Key for sustaining allies during prolonged engagements.
+---
+[TAGS: ITEM_DATA, QUELLING_BLADE, STAT_PROFILE, COMPONENT, UTILITY] | Quelling Blade, Cost: 100: Provides no primary attributes or defensive stats. Its stat profile consists solely of the Quell passive damage bonus against non-hero units, making it purely a farming acceleration and terrain manipulation tool. Value is derived from utility rather than combat stats.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Diffusal Blade Recipe CORE_BUILD / SYNERGIES: This recipe is solely used to build into Diffusal Blade. It must be combined with its requisite components to create the active item. Stats: Cost: 1050 gold.
+---
+[TAGS: TIMBERSAW, CORE_BUILD, ARCANE_BOOTS, BLINK_DAGGER, AGHANIMS_SCEPTER] | Arcane Boots (or a Mana-focused alternative like Bloodstone) are essential to fuel ability spam, especially Chakram. Blink Dagger is core for instant initiation and repositioning with Timber Chain combos. Aghanim's Scepter provides a second Chakram with the Second Chakram facet, doubling area control and damage, or significantly boosts damage with the Shredder facet.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, MANA] | Null Talisman VS_MAGIC: Provides a marginal increase to magic resistance via intelligence. The mana pool and regeneration allow for more frequent spell usage to counter enemy aggression or secure kills. Stats: +5 Intelligence, +1.0 Mana Regeneration, +3% Max Mana.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MANA_DEPLETION, SUSTAIN] | Void Stone SITUATIONAL_VS_MANA_DEPLETION: Counters situations where mana is quickly depleted, such as against spell-spamming opponents or in prolonged skirmishes, by providing consistent regen to sustain pressure. Stats: Mana Regeneration: +1.75.
+---
+[TAGS: ITEM_DATA, MYSTICAL, CORE_DESCRIPTION, NEUTRAL, UPGRADE, MANA_REGEN, MANA, SUSTAIN, VS_MAGIC, MAGIC_RESISTANCE, CAST_RANGE, UTILITY] | Mystical, Tier ?: Enhancement item providing bonus mana regeneration (0.8 / 1.6 / 2.4 / 3.2) and bonus magic resistance (0% / 10% / 13% / 16%). The highest tier (Level 4) also grants +100 cast range. A mid-to-late game upgrade that scales mana sustain and magical survivability for caster-oriented heroes. Stats: Tier: ?, Mana Regen: 0.8-3.2, Magic Resist: 0-16%, Cast Range (T4): +100.
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, STAT_PROFILE, MOBILITY, MANA_REGEN, UPGRADE, SUPPORT_ITEM] | Arcane Boots, Cost: 1400: Provides +45 movement speed and +0.25 base mana regeneration. Built from Boots and Ring of Basilius, transitioning early mana sustain into a team-wide mana restoration tool.
+---
+[TAGS: ITEM_DATA, AGHANIMS_BLESSING, FULL_ITEM, STAT_PROFILE, UPGRADE] | Aghanim's Blessing, Cost: 5800: Provides no raw attribute or stat bonuses. The value comes entirely from the unique ability upgrade effect that permanently improves or alters a hero's ultimate. Does not occupy an inventory slot after use.
+---
+[TAGS: Ability, Utility] | Spectral Blade Curse Cooldown: Reduces curse cooldown, allowing more frequent usage in battles. Stats: Cooldown Reduction: N/A
+---
+[TAGS: Ability, Channeled, Mana Drain] | Sinister Gaze: Channels to hypnotize an enemy, forcing them to move towards a point between you and draining their mana. Tactical for disabling key targets and mana control. Stats: Channel Time: 1.1/1.4/1.7/2s, Distance Moved: 32%/38%/44%/50%, Mana Drain Per Second: 20%, Cast Range: 600, Cooldown: 24/22/20/18s
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, UTILITY] | River Vial: Potion HARD_COUNTERS: The paint effect is likely permanent or long-duration with no direct counterplay from enemies; no dispel or removal mechanics specified. Stats: Paint Duration: 900.0 seconds.
+---
+[TAGS: ITEM_DATA, CORNCOPIA, FARMING_UTILITY, FULL_ITEM, FARMING, SUSTAIN, REGEN] | Cornucopia, Cost: 1200: Accelerates farming by providing the regeneration needed to jungle or lane without having to return to base frequently. The added damage also marginally improves creep clear speed, making it an early investment for heroes aiming to accelerate their net worth.
+---
+[TAGS: ITEM_DATA, ETERNAL_SHROUD, SITUATIONAL_USAGE, FULL_ITEM, MANA_RESTORE, MANA, SUSTAIN, COUNTER_ITEM] | Eternal Shroud, Cost: 3700: Situational counter against mana burn and silence. The mana restoration from Shroud can offset mana drain effects from heroes like Anti-Mage, Pugna, or Invoker. The item provides raw stats without requiring active spellcasting, making it viable even when silenced, unlike items like Eul's Scepter or Lotus Orb. It sustains your ability to use spells through mana restoration, countering attempts to keep you spell-locked.
+---
+[TAGS: AGHS_STRATEGY, Visage, COUNTER_MECHANIC, AGHANIM] | Visage Aghanim's Scepter: Silent as the Grave — Provides invisibility and flying movement to Visage and familiars, countering vision-based detection and terrain obstacles. Upon breaking invisibility, the damage burst allows for surprise engagements or disengagements, shifting Visage into a high-mobility ambush predator.
+---
+[TAGS: Witch Doctor, Heal, Voodoo Restoration] | special_bonus_unique_witch_doctor_2: Boosts Voodoo Restoration Heal based on Target Max Health. Tactical Analysis: Improves sustain for high-HP allies, making it stronger in late-game scenarios.
+---
+[TAGS: Skywrath Mage, ABILITY_DATA, E, Silence, Magic Amp] | Ancient Seal (E) is a single-target silence. It seals an enemy for 3.0/4.0/5.0/6.0 seconds, silencing them and reducing their magic damage resistance by 20/25/30/35%. It has a 14-second cooldown. The magic resistance reduction does not affect creeps. The ability does not inherently pierce spell immunity.
+---
+[TAGS: AXE, ABILITY_DATA, CULLING_BLADE, ULTIMATE, PURE_DAMAGE, EXECUTE] | Culling Blade (R) is an ultimate ability that deals 275/375/475 pure damage to a single enemy. If this damage kills an enemy hero, the cooldown is reset, and all nearby allied units gain 20/25/30 bonus movement speed and 10/15/20 bonus armor for 6 seconds. The ability has a 900 travel speed for its AoE buff. It pierces spell immunity (BKB).
+---
+[TAGS: ITEM_DATA, LANING_PHASE, MIDGAME, CORE_BUILD] | Arcane Boots Recipe LANING_PHASE: This is a late lane or early mid-game purchase that signals the intent to complete the full Arcane Boots. Its cost is relatively low, aiming for a completion timing shortly after the initial basic boots, assuming the other components (Energy Booster, Boots of Speed) are acquired. Stats: Cost: 475 gold.
+---
+[TAGS: ITEM_DATA, MANA_DRAUGHT, CORE_DESCRIPTION, NEUTRAL, TIER_2, CONSUMABLE, MANA, MANA_REGEN, SUSTAIN, UTILITY] | Tier 2: Mana Draught. Neutral consumable that restores 70 mana plus 3% of the user's max mana over 6 seconds. If the hero is attacked by an enemy hero or Roshan during the channel, the effect is lost. Can be cast on allies by holding Control. Stats: CD: 60s, Duration: 6s, Base Heal: 70 Mana, Percentage Heal: 3% Max Mana.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 2: Increases mana regeneration for better spell availability. Stats: Mana Regen: 2
+---
+[TAGS: ITEM_DATA, QUELLING_BLADE, CORE_MECHANICS, COMPONENT, FARMING_UTILITY, FARMING, DAMAGE, UTILITY] | Quelling Blade, Cost: 100: Low-cost utility component that chops down trees and increases attack damage against non-hero units. The Chop ability destroys a targeted tree within 350 range on a 4-second cooldown. The passive Quell effect grants +8 damage for melee heroes and +4 for ranged heroes specifically against creeps and other non-hero units. Useful for clearing paths, farming jungle camps faster, and itemizing against heavy forest area denial. Stats: CD: 4s, Range: 350, Bonus Damage: +8 (Melee) / +4 (Ranged).
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Arcane Boots Recipe TEAMFIGHT_ROLE: This recipe purchase itself has no teamfight impact. It contributes to the completed item's teamfight role, which is to restore mana to the user and nearby allies, enabling more frequent spell usage in engagements. The timing of its purchase influences when this mana sustain becomes available to the team.
+---
+[TAGS: Ability, Mana] | Mana Bonus 125: Provides a moderate increase in mana for more spell options. Stats: Mana: +125
+---
+[TAGS: Ability, Support, Utility] | Mana Drain: A channeling spell that drains mana and slows enemies, while also providing utility to allies. Stats: Mana Drain: 20/40/60/120 per second, Slow: 15%/20%/25%/30%, Cooldown: 15/12/9/6
+---
+[TAGS: WITCH_DOCTOR, ABILITY_DATA, HEAL, SUSTAIN] | W - Voodoo Restoration: A toggleable ability that heals nearby allied units for 20/30/40/50 health every 0.33 seconds, costing 9/12/15/18 mana per second. It has a radius of 500/550/600/650. The heal can affect Spell Immune units. It does not deal damage in its base form.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, SUSTAIN] | Revenant's Brooch VS_MAGIC: The 14% spell lifesteal provides direct survivability and sustain against magic damage output in fights, allowing the carrier to heal from their own magical damage procs. This makes it effective in battles against magic-heavy lineups where sustaining through burst is key. Stats: Spell Lifesteal: 14%.
+---
+[TAGS: ITEM_DATA, DIFFUSAL_BLADE_2, FULL_ITEM, STAT_PROFILE, AGILITY, INTELLIGENCE, DAMAGE, MANA, CARRY_ITEM] | Cost: 3850: Provides significant agility for attack damage and speed, plus intelligence for mana pool. Ideal for agility carries seeking damage and utility. Stats: +35 Agility, +15 Intelligence.
+---
+[TAGS: ITEM_DATA, CLARITY, CORE_MECHANICS, CONSUMABLE, REGEN, SUSTAIN, MANA, MANA_REGEN, DISPELLABLE] | Clarity, Cost: 60: Consumable that grants a target friendly hero 6 mana per second for 25 seconds. The effect is dispellable and is immediately removed if the target is attacked by an enemy hero or Roshan. Useful for recovering mana to cast spells without returning to base. Stats: Charges: 1, Duration: 25s, Mana Regen: 6/sec.
+---
+[TAGS: ITEM_DATA, BLOODSTONE, FARMING_UTILITY, FULL_ITEM, FARMING, SUSTAIN, MANA_REGEN] | Bloodstone, Cost: 4350: Provides solid farming utility through its mana sustain and health pool, allowing heroes to spam spells to clear waves and jungle camps without returning to base. The raw HP also makes tanking jungle camps and Roshan more viable. Stats: Mana Regen: +3, Mana: +450.
+---
+[TAGS: ITEM_DATA, RADIANCE, FARMING_UTILITY, FULL_ITEM, FARMING, WAVECLEAR, JUNGLE, AOE_DAMAGE] | Radiance, Cost: 4700: Farming Utility: The permanent aura dramatically accelerates hero farming speed by damaging all nearby creeps simultaneously. It is a premier farming item that allows the holder to clear camps and waves quickly, generating a significant gold advantage over time.
+---
+[TAGS: ITEM_DATA, PERSEVERANCE, FULL_ITEM, FARMING_UTILITY, LANING, SUSTAIN, FARMING] | Perseverance, Cost: 1400: Core early-game sustain item for heroes who rely heavily on mana and health to farm or trade in lane. The combined regeneration allows for more ability usage and reduces reliance on consumables. It accelerates farm by enabling longer stays in jungle or lane without needing to return to base. Stats: Health Regen: +6.5, Mana Regen: +2.25.
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, SYNERGY_BUILD, SUPPORT_ITEM, VS_MANA_BURN, UTILITY] | Arcane Boots, Cost: 1400: Ideal for support heroes who need mobility and want to empower their team. Excellent in lineups with high mana-cost abilities or long-duration spell spammers. Counters strategies reliant on mana burn by quickly replenishing pools. The active does not work on Meepo clones.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, MANA, INTELLIGENCE] | Robe of the Magi CORE_MECHANICS: Core intelligence-boosting component item. Provides +6 Intelligence, which increases mana pool and spell damage for intelligence-dependent heroes and spellcasters. Stats: Cost: 450 gold, +6 Intelligence.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, UPGRADE_PATH, HIGH_COST] | Guardian Greaves Recipe CORE_BUILD: Builds into Guardian Greaves. Requires Mekansm (2300 gold) and Arcane Boots (1300 gold) to be combined with this 1125 gold recipe. The total investment is a significant gold commitment for a support. Stats: Recipe Cost: 1125 gold.
+
+=== GAME STATE ===
+Match Time: 15:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: earthshaker (Lvl 10) | HP: 1200/1200 | Mana: 80/600 | Alive: true
+Stats: K/D/A 2/1/5 | Gold: 1500 | LastHits: 60
+Inventory: [item_bracer (CD), item_magic_wand x3, item_clarity x1, item_tpscroll x1, item_arcane_boots (CD), item_blink]
+Abilities: [earthshaker_echo_slam(Lvl1)[NoMana/Silenced] | earthshaker_fissure(Lvl4)[NoMana/Silenced] | earthshaker_enchant_totem(Lvl2)[NoMana/Silenced] | earthshaker_aftershock(Lvl2)[NoMana/Silenced]]
+User Situation Notes: Играю на 4-ке Earthshaker. Постоянно не хватает маны на комбо. Враги группируются, но я не могу нормально зайти — после Blink + Ульт у меня нет маны на Fissure.
+
+=== USER QUESTION ===
+"Что мне собрать, чтобы решить проблему с маной?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Что мне собрать, чтобы решить проблему с маной?".**
+========================================
+
+[AI RESPONSE] (2.96s)
+Собери Arcane Boots. Они восстанавливают ману тебе и твоим союзникам, что идеально подходит для твоей ситуации с нехваткой маны. Если у тебя будут проблемы с выполнением комбо, можешь также рассмотреть покупку Mana Potato для быстрого восстановления маны в ближайшее время.

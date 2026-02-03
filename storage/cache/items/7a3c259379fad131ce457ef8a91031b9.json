@@ -1,0 +1,69 @@
+[
+  {
+    "display_text": "Boots of Travel 2, Cost: 4500: Upgrades your Town Portal Scroll, allowing it to target allied heroes and units, reduces cooldown, and does not consume a charge on usage. Essential for global map presence and split-pushing late game. Stats: MS: +110, TP Cooldown: 40s, TP Channel Time: 2s, TP Range: 800.",
+    "search_text": "boots of travel 2, boots of travel upgrade, global teleport, split push item, map mobility, TP upgrade, teleport to heroes, unlimited TP, teleport item, global presence, repositioning, BoT, Travel 2, late game mobility, buyback TP, BoT2",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_TRAVEL_2",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "UPGRADE",
+      "MOBILITY",
+      "GLOBAL_PRESENCE",
+      "SPLIT_PUSH",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Boots of Travel 2, Cost: 4500: Provides no combat stats beyond +110 Movement Speed. The core value is the enhanced Town Portal ability, granting instant global mobility at a fraction of the standard cooldown and channel time.",
+    "search_text": "boots of travel 2 stats, movement speed boots, TP boots stats, BoT stats, no stats boots, utility boots, movement only, Boots of Travel 2",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_TRAVEL_2",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "MOBILITY",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Boots of Travel 2, Cost: 4500: Enables split-pushing by allowing safe, instant teleportation to any allied creep or hero across the map. Critical for ratting strategies and responding to enemy pushes, maximizing map pressure. Its low channel time allows for rapid reaction and escapes.",
+    "search_text": "split push boots, ratting item, map pressure item, global response item, fast teleport, instant TP, escape boots, push and defend, Boots of Travel 2",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_TRAVEL_2",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "SPLIT_PUSH",
+      "MAP_CONTROL",
+      "ESCAPE",
+      "POSITIONING"
+    ]
+  },
+  {
+    "display_text": "Boots of Travel 2, Cost: 4500: Synergizes with heroes who have global abilities (Spectre, Nature's Prophet) or need to split-push (Tinker, Ember Spirit). Core on hard carries and mobile cores who must farm across the map and join fights instantly late game.",
+    "search_text": "BoT carry, boots of travel core, split push core, global hero synergy, NP boots, Tinker boots, carry mobility, late game carry item, Boots of Travel 2",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_TRAVEL_2",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "CORE_ITEM",
+      "LATE_GAME"
+    ]
+  },
+  {
+    "display_text": "Boots of Travel 2, Cost: 4500: Exceptional utility for team fights, enabling buyback-teleport plays to rejoin battles instantly. Its ability to target heroes allows for saves and repositioning of allies during fights, turning buybacks into immediate fight-winning power.",
+    "search_text": "buyback TP, boots of travel buyback, rejoin fight, save ally TP, team fight mobility, buyback rejoin, fight re-engage, Boots of Travel 2",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_TRAVEL_2",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "SAVE",
+      "REPOSITIONING",
+      "UTILITY"
+    ]
+  }
+]

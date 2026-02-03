@@ -1,0 +1,45 @@
+[
+  {
+    "display_text": "Great Healing Lotus, Cost: 0: A non-purchasable item that instantly restores 400 health and 400 mana to you or a nearby allied hero. Can be used while controlling an allied unit. Stats: Heal/MP: 400, CD: 5s, Charges: 1.",
+    "search_text": "healing lotus, great famango, instant heal, instant mana, restore health, restore mana, consumable heal, lotus item, great healing lotus, famango, heal consumable, mana consumable, instant sustain, large heal, burst heal, burst mana",
+    "tags": [
+      "ITEM_DATA",
+      "GREAT_HEALING_LOTUS",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "HEALTH",
+      "MANA",
+      "SUSTAIN",
+      "REGEN",
+      "UTILITY",
+      "NON_PURCHASABLE"
+    ]
+  },
+  {
+    "display_text": "Great Healing Lotus, Cost: 0: A powerful, instant burst of sustain that combines healing and mana restoration into a single action. Ideal for clutch saves or to allow heroes to cast spells and re-engage immediately after a fight. Stats: Heal/MP: 400, CD: 5s.",
+    "search_text": "burst heal, burst mana, clutch heal, re-engage sustain, instant recovery, team fight sustain, emergency heal, emergency mana, great lotus, great healing lotus, famango, combo heal mana",
+    "tags": [
+      "ITEM_DATA",
+      "GREAT_HEALING_LOTUS",
+      "TEAMFIGHT_ROLE",
+      "CONSUMABLE",
+      "SAVE",
+      "SUSTAIN",
+      "BURST_HEAL",
+      "BURST_MANA"
+    ]
+  },
+  {
+    "display_text": "Great Healing Lotus, Cost: 0: Provides massive instant sustain in a single use, efficient for heroes who need both health and mana to function. Key for mana-intensive heroes who also need HP, or as a reliable source of emergency recovery for your entire team. Stats: Heal/MP: 400.",
+    "search_text": "mana intensive, hp mana sustain, emergency item, team utility, support item, carry sustain, great healing lotus, famango, high mana cost heroes, instant recovery item",
+    "tags": [
+      "ITEM_DATA",
+      "GREAT_HEALING_LOTUS",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "UTILITY",
+      "SUPPORT_ITEM",
+      "CARRY_ITEM"
+    ]
+  }
+]

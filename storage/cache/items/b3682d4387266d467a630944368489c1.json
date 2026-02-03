@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Gunpowder Gauntlets, Tier 3: Passive ability 'Beat the Crowd' makes your next attack deal 120 bonus magic damage and splash 50% of the total damage to enemies within 250 units. Cooldown: 6s. Stats: Bonus Magic Damage: 120, Splash Radius: 250, Splash Damage Percentage: 50%, CD: 6s.",
+    "search_text": "splash damage item, AoE attack, magic splash, bonus magic damage, crowd control item, neutral item, tier 3 neutral, gunpowder, gauntlet, Gunpowder Gauntlets, AoE right-click, proc damage, neutral splash, attack modifier, area damage, melee neutral, magic on hit",
+    "tags": [
+      "ITEM_DATA",
+      "GUNPOWDER_GAUNTLETS",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "MAGICAL_DAMAGE",
+      "AOE_DAMAGE",
+      "MULTI_TARGET",
+      "ATTACK_MODIFIER"
+    ]
+  }
+]

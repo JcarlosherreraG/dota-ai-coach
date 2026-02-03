@@ -1,0 +1,20 @@
+[
+  {
+    "display_text": "Mystical, Tier ?: Enhancement item providing bonus mana regeneration (0.8 / 1.6 / 2.4 / 3.2) and bonus magic resistance (0% / 10% / 13% / 16%). The highest tier (Level 4) also grants +100 cast range. A mid-to-late game upgrade that scales mana sustain and magical survivability for caster-oriented heroes. Stats: Tier: ?, Mana Regen: 0.8-3.2, Magic Resist: 0-16%, Cast Range (T4): +100.",
+    "search_text": "mana regen item, magic resist item, caster upgrade, mana sustain, magic defense, cast range bonus, magical survival, caster item, mid game item, late game item, Mystical, enhancement mystical, mana regen enhancement, mystic upgrade",
+    "tags": [
+      "ITEM_DATA",
+      "MYSTICAL",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "UPGRADE",
+      "MANA_REGEN",
+      "MANA",
+      "SUSTAIN",
+      "VS_MAGIC",
+      "MAGIC_RESISTANCE",
+      "CAST_RANGE",
+      "UTILITY"
+    ]
+  }
+]

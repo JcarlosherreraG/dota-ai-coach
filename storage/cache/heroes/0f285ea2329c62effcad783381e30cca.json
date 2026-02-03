@@ -1,0 +1,197 @@
+[
+  {
+    "display_text": "Weaver is an Agility ranged hero with 17 base Agility and 20 base Intelligence. He has a base Attack Rate of 1.8. His starting attributes are balanced, with 16 Strength, 17 Agility, and 20 Intelligence.",
+    "search_text": "Weaver stats Agility ranged hero attack rate 1.8 strength 16 agility 17 intelligence 20",
+    "tags": [
+      "WEAVER",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Weaver has two Facets. Skitterstep enhances Shukuchi, increasing its movespeed and adding a slow effect on enemies passed through. Hivemind provides Weaver with experience each time his Swarm beetles attack enemy heroes.",
+    "search_text": "Weaver facets Skitterstep Shukuchi slow Hivemind Swarm beetles experience gain",
+    "tags": [
+      "WEAVER",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, prioritize Shukuchi (W) for harass and escape, dealing 100/130/160/190 damage per pass. Use Geminate Attack (E) at level 2 or 4 for last hitting and trading, adding 20/35/50/65 bonus damage to the extra hit. Use The Swarm (Q) to pressure enemies and force them to kill beetles, which reduce armor by 1 per beetle.",
+    "search_text": "Weaver laning Shukuchi harass 100 130 160 190 damage Geminate Attack last hit 20 35 50 65 bonus damage The Swarm armor reduction 1",
+    "tags": [
+      "WEAVER",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spike at level 6 with Time Lapse, allowing for aggressive trades. Level 9 with maxed Shukuchi for 290 movement speed and 190 damage. Level 15 talent for +60 Shukuchi Damage significantly boosts burst. Level 25 talent for +1 Geminate Attack provides immense single-target DPS.",
+    "search_text": "Weaver power spikes level 6 Time Lapse level 9 max Shukuchi 290 speed 190 damage level 15 talent +60 Shukuchi Damage level 25 talent +1 Geminate Attack",
+    "tags": [
+      "WEAVER",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: Heroes with Break (e.g., Silver Edge, Doom) disable Weaver's Rewoven passive (attack range stacks). Instant disables like Hex prevent Shukuchi use. AoE damage and control can clear his Swarm beetles, which take 6/7/8/9 attacks (heroes deal double) to kill.",
+    "search_text": "Weaver counters Break Silver Edge Doom Rewoven passive attack range Hex Shukuchi disable AoE damage Swarm beetles 6 7 8 9 attacks heroes double damage",
+    "tags": [
+      "WEAVER",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: Falcon Blade or Wand for early mana sustain. Maelstrom for farming and teamfight waveclear. Dragon Lance into Hurricane Pike for increased attack range and survivability, synergizing with his Rewoven passive.",
+    "search_text": "Weaver core items Falcon Blade Wand Maelstrom Dragon Lance Hurricane Pike attack range Rewoven passive",
+    "tags": [
+      "WEAVER",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Weaver is a mobile, single-target damage dealer and flanker. Use Shukuchi to weave in and out of fights, applying Swarm to multiple enemies for armor reduction. Target isolated supports or backline cores with Geminate Attack procs. Use Time Lapse to reset after taking heavy damage.",
+    "search_text": "Weaver teamfight mobile single target damage flanker Shukuchi Swarm armor reduction Geminate Attack Time Lapse reset",
+    "tags": [
+      "WEAVER",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "The Swarm (Q). Weaver launches 12 young Weavers that latch onto enemies in a 300 spawn radius, moving at 750 speed. Each beetle reduces armor by 1 per hit, deals 18/23/28/33 damage per attack, and requires 6/7/8/9 attacks to kill (heroes deal double damage). Beetles are Spell Immune and last 16 seconds.",
+    "search_text": "The Swarm Q beetles 12 spawn radius 300 speed 750 armor reduction 1 damage 18 23 28 33 attacks to kill 6 7 8 9 heroes double damage Spell Immune duration 16",
+    "tags": [
+      "WEAVER",
+      "ABILITY_DATA",
+      "THE_SWARM"
+    ]
+  },
+  {
+    "display_text": "Shukuchi (W). Cooldown 15/12/9/6. Weaver becomes invisible and gains max movement speed (550) for 4.0 seconds, dealing 100/130/160/190 damage in a 175 radius to enemies he passes through. The fade time is 0.25 seconds. Can only damage the same unit once per cast. Does NOT pierce BKB.",
+    "search_text": "Shukuchi W cooldown 15 12 9 6 invisible max movement speed 550 duration 4.0 damage 100 130 160 190 radius 175 fade time 0.25 Does NOT pierce BKB",
+    "tags": [
+      "WEAVER",
+      "ABILITY_DATA",
+      "SHUKUCHI"
+    ]
+  },
+  {
+    "display_text": "Geminate Attack (E). Passive. Weaver dispatches an extra attack 0.25 seconds after his primary attack. The geminated attack deals an additional 20/35/50/65 bonus damage. Has no range limit.",
+    "search_text": "Geminate Attack E passive extra attack delay 0.25 bonus damage 20 35 50 65 no range limit",
+    "tags": [
+      "WEAVER",
+      "ABILITY_DATA",
+      "GEMINATE_ATTACK"
+    ]
+  },
+  {
+    "display_text": "Time Lapse (R). Ultimate. Cooldown 70/55/40. Weaver warps back to his position 5 seconds earlier, restoring the HP and mana he had at that time. Does not affect cooldowns, gold, or experience. Applies a Strong Dispel on cast.",
+    "search_text": "Time Lapse R ultimate cooldown 70 55 40 rewind 5 seconds restore HP mana Strong Dispel",
+    "tags": [
+      "WEAVER",
+      "ABILITY_DATA",
+      "TIME_LAPSE"
+    ]
+  },
+  {
+    "display_text": "Rewoven (Passive). Every time Weaver casts an ability, he gains 50 bonus attack range for 7.0 seconds. Stacks independently. Break disables gaining new stacks but does not remove existing ones.",
+    "search_text": "Rewoven passive ability cast gain 50 attack range duration 7.0 stacks independent Break disables new stacks",
+    "tags": [
+      "WEAVER",
+      "ABILITY_DATA",
+      "REWOVEN"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Illusion Heroes (e.g., Chaos Knight, Phantom Lancer). Build Maelstrom and Mjollnir to clear illusions. Use The Swarm (Q) on the real hero to provide vision through illusions. Shukuchi (W) to reposition and avoid being surrounded.",
+    "search_text": "Weaver vs illusions Chaos Knight Phantom Lancer Maelstrom Mjollnir Swarm Q vision Shukuchi reposition",
+    "tags": [
+      "WEAVER",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Physical Damage Burst (e.g., Phantom Assassin, Templar Assassin). Build defensive items like Linken's Sphere to block single-target spells and Hurricane Pike for forced distance. Time Lapse (R) timing is critical to survive burst combos.",
+    "search_text": "Weaver vs physical burst Phantom Assassin Templar Assassin Linken's Sphere Hurricane Pike Time Lapse survive",
+    "tags": [
+      "WEAVER",
+      "SITUATIONAL",
+      "VS_BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on split-pushing with Shukuchi (W) for escape. Use Swarm (Q) on waves to farm safely from a distance. Build cost-effective items like Falcon Blade and Magic Wand before committing to bigger items like Manta Style or Butterfly.",
+    "search_text": "Weaver behind split push Shukuchi escape Swarm farm waves Falcon Blade Magic Wand cost-effective",
+    "tags": [
+      "WEAVER",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Disabling Team. When your team has reliable stuns (e.g., Lion, Shadow Shaman), you can build pure damage items like Daedalus or Monkey King Bar. Use Shukuchi (W) to close the gap and safely right-click locked-down targets with Geminate Attack (E).",
+    "search_text": "Weaver with disables Lion Shadow Shaman Daedalus Monkey King Bar Shukuchi gap close Geminate Attack right-click",
+    "tags": [
+      "WEAVER",
+      "SITUATIONAL",
+      "WITH_DISABLES"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Silences and Roots (e.g., Drow Ranger, Skywrath Mage). Itemize for dispel with Manta Style or Eul's Scepter. Level 10 talent +7 Strength provides survivability against magic burst from these heroes.",
+    "search_text": "Weaver vs silence root Drow Skywrath Manta Style Eul's Scepter dispel talent +7 Strength survivability",
+    "tags": [
+      "WEAVER",
+      "SITUATIONAL",
+      "VS_SILENCES"
+    ]
+  },
+  {
+    "display_text": "Scenario: Late Game Scaling. With level 25 +1 Geminate Attack talent and items like Skadi, Butterfly, and Bloodthorn, Weaver becomes one of the highest single-target DPS heroes. Use Time Lapse (R) aggressively to stay in prolonged fights, and keep Rewoven passive stacks high by casting abilities.",
+    "search_text": "Weaver late game scaling level 25 talent +1 Geminate Attack Skadi Butterfly Bloodthorn DPS Time Lapse aggressive Rewoven stacks",
+    "tags": [
+      "WEAVER",
+      "SITUATIONAL",
+      "LATE_GAME"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left choice offers +60 Shukuchi Damage, directly increasing burst from his primary farming and fighting skill. Right choice offers +7 Strength, providing 133 HP and 0.21 HP regen for survivability. Choose Shukuchi Damage for more aggressive play and farm speed, or Strength for safer laning against burst.",
+    "search_text": "Weaver talent level 10 left +60 Shukuchi Damage right +7 Strength HP regen burst survivability",
+    "tags": [
+      "WEAVER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left choice offers +20 Mana Break, causing attacks to burn 20 mana and deal 16 damage per burn. Right choice offers +2 Swarm Attacks to Kill, making beetles require 2 more attacks to destroy (from 6/7/8/9 to 8/9/10/11). Choose Mana Break for anti-carry utility against mana-dependent heroes like Medusa or Wraith King. Choose Swarm Attacks for more durable vision and armor reduction against teams with low attack speed.",
+    "search_text": "Weaver talent level 15 left +20 Mana Break burn 20 mana 16 damage right +2 Swarm Attacks to Kill beetles 8 9 10 11 attacks anti-carry Medusa Wraith King vision armor reduction",
+    "tags": [
+      "WEAVER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left choice offers +70 Bonus Damage On Geminate, significantly boosting the extra attack's damage from 65 to 135 at max level. Right choice offers +0.5 The Swarm Armor Reduction, increasing the per-beetle armor reduction from 1 to 1.5. Choose Geminate Damage for single-target DPS against tanky heroes. Choose Swarm Armor Reduction for teamfight utility against high-armor lineups.",
+    "search_text": "Weaver talent level 20 left +70 Bonus Damage On Geminate 65 to 135 right +0.5 The Swarm Armor Reduction 1 to 1.5 single target DPS teamfight utility high armor",
+    "tags": [
+      "WEAVER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left choice offers -3s Shukuchi Cooldown, reducing cooldown from 6 to 3 seconds at max level for near-permanent invisibility and mobility. Right choice offers +1 Geminate Attack, granting a third attack per volley for massive DPS increase. Choose Shukuchi Cooldown for unparalleled map mobility, split-push, and escape. Choose Geminate Attack for maximum single-target damage in teamfights.",
+    "search_text": "Weaver talent level 25 left -3s Shukuchi Cooldown 6 to 3 seconds mobility escape right +1 Geminate Attack third attack DPS teamfight",
+    "tags": [
+      "WEAVER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

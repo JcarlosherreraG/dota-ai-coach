@@ -1,0 +1,21 @@
+[
+  {
+    "display_text": "Bottomless Chalice, Tier 3: Neutral item providing a charge-based mana restore and healing over time. Using a charge grants 200 health and 70 mana over 3 seconds. Stores up to 6 charges, gaining 1 charge every 10 seconds, with a maximum of 1 charge per enemy hero kill. Passively grants +40 Intelligence, +200 health, +70 mana, +30 movement speed, and the stored Rune duration buff. Stats: CD per charge use: N/A, Max Charges: 6, Recharge Time: 10s, Int: +40, HP: +200, Mana: +70, MS: +30.",
+    "search_text": "neutral item, tier 3 neutral, bottomless chalice, mana restore item, health restore item, sustain item, mana sustain, health sustain, int item, intelligence item, movement speed item, active regen, charge sustain, neutral sustain, rune duration, Bottle alternative, mana regen neutral, Bottomless Chalice",
+    "tags": [
+      "ITEM_DATA",
+      "BOTTOMLESS_CHALICE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "CONSUMABLE",
+      "SUSTAIN",
+      "HEALTH",
+      "MANA",
+      "REGEN",
+      "INTELLIGENCE",
+      "MOBILITY",
+      "UTILITY"
+    ]
+  }
+]

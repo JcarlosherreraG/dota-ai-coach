@@ -1,0 +1,75 @@
+[
+  {
+    "display_text": "Battle Fury, Cost: 3900: Provides an active ability to destroy trees and two key passives: Cleave and Quell. The Cleave passive deals 60% of your attack damage as physical damage in a large cone (up to 650 units wide) behind the target, applying only 40% to creeps and ignoring spell immunity. The Quell passive increases damage dealt to non-hero units. A powerful farming and damage item for melee carries. Stats: CD (Chop): 4s, Cleave Cone Distance: 650, Creep Cleave Damage: 40%.",
+    "search_text": "farming item, cleave item, wave clear item, jungle farming, damage amplification, melee farming, physical damage AOE, creep damage bonus, quell, battle fury, bfury, melee carry item, farm acceleration, fast farming, physical AOE damage, Battle Fury",
+    "tags": [
+      "ITEM_DATA",
+      "BATTLE_FURY",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "PHYSICAL_DAMAGE",
+      "AOE_DAMAGE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Battle Fury, Cost: 3900: Provides a substantial stat profile focused on sustain and raw damage output. Grants +50 Damage for significant right-click power, +7.5 Health Regeneration for lane/jungle sustain, and +2.75 Mana Regeneration to support ability use during farming rotations. Stats: Damage: +50, HP Regen: +7.5, Mana Regen: +2.75.",
+    "search_text": "battle fury stats, bfury damage, fury stats, +50 damage, damage and regen, health regeneration item, mana regen item, sustain stats, carry stat item, Battle Fury",
+    "tags": [
+      "ITEM_DATA",
+      "BATTLE_FURY",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "MANA_REGEN",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Battle Fury, Cost: 3900: Primary role is farming acceleration for melee cores, enabling rapid wave and jungle clear through its AOE Cleave. In team fights, it provides physical damage splash, allowing carries to damage multiple front-line enemies simultaneously. However, its core function is to generate a significant gold advantage by increasing farming efficiency. Stats: Cleave Damage to Heroes: 60%.",
+    "search_text": "battle fury team fight, cleave team fight, physical splash damage, damage multiple enemies, farming acceleration, gold advantage, melee core item, team fight AOE, physical AOE, Battle Fury",
+    "tags": [
+      "ITEM_DATA",
+      "BATTLE_FURY",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "FARMING",
+      "AOE_DAMAGE",
+      "PHYSICAL_DAMAGE",
+      "CARRY_ITEM",
+      "MULTI_TARGET"
+    ]
+  },
+  {
+    "display_text": "Battle Fury, Cost: 3900: Core farming item for melee heroes with high base damage or innate attack modifiers (e.g., Anti-Mage, Juggernaut, Kunkka). Essential on heroes who rely on accelerating their farm to reach key late-game items. The upgraded version provides additional damage and cleave bonuses, making it a scaling option for ultra-late game. Stats: Upgraded Cleave Bonus: +25%, Upgraded Damage Bonus: +15.",
+    "search_text": "battle fury synergy, bfury build, melee core, cleave synergy, anti mage item, juggernaut item, kunkka item, late game upgrade, scaling farming item, high base damage synergy, Battle Fury",
+    "tags": [
+      "ITEM_DATA",
+      "BATTLE_FURY",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "UPGRADE",
+      "MELEE_ITEM"
+    ]
+  },
+  {
+    "display_text": "Battle Fury, Cost: 3900: The primary utility of this item is farming. The Cleave passive allows melee heroes to kill entire creep waves and jungle camps much faster, while the Quell passive (10 bonus damage for melee heroes) further accelerates last-hitting and creep killing. The active tree destruction (Chop) provides minor pathing utility. This makes it a critical timing item for securing a gold lead. Stats: Quell Bonus (Melee): +10, Quell Bonus (Ranged): +5.",
+    "search_text": "battle fury farming, jungle clear, wave clear, creep farming, last hit bonus, quell farming, tree destruction, chop tree, gold lead timing, farming utility, Battle Fury",
+    "tags": [
+      "ITEM_DATA",
+      "BATTLE_FURY",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "JUNGLE",
+      "GOLD_EFFICIENCY"
+    ]
+  }
+]

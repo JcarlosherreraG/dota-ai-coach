@@ -1,0 +1,68 @@
+[
+  {
+    "display_text": "Blade Mail, Cost: 2300: Instantly returns all incoming damage for 5.5 seconds, increasing the percentage by 85%. Also passively returns 10 damage plus 15% of received attack damage. Effective for punishing focus fire. Stats: CD: 25s, Mana Cost: 25, Damage Return: 85% Active / 15% Passive.",
+    "search_text": "damage return item, reflect damage, counter burst, anti focus fire, punish attackers, physical damage return, magic damage return, Blade Mail, defensive item, teamfight item, survival item, armor item, damage item, return damage, damage reflection, reflect attack, reflect spell, counter carry, initiator item, turn fight",
+    "tags": [
+      "ITEM_DATA",
+      "BLADE_MAIL",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "TEAMFIGHT",
+      "PHYSICAL_DAMAGE",
+      "MAGICAL_DAMAGE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Blade Mail, Cost: 2300: Stat Profile: +15 Damage and +6 Armor. The combined offensive and defensive stats provide tankiness for the wielder and amplify the threat of the active return ability.",
+    "search_text": "blade mail stats, blade mail damage, blade mail armor, damage stats, armor stats, tank item, damage item, Blade Mail",
+    "tags": [
+      "ITEM_DATA",
+      "BLADE_MAIL",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "DAMAGE",
+      "ARMOR",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Blade Mail, Cost: 2300: Situational defensive counter-item against high-damage burst heroes. The active ability forces enemies to reconsider targeting the wielder, allowing melee initiators or durable cores to survive and turn fights. It is especially effective versus heroes reliant on high-damage, single-target abilities.",
+    "search_text": "counter burst item, defensive counter, survive burst, turn fight item, anti carry item, Blade Mail counter, Blade Mail situation, vs physical damage, vs magical damage, Blade Mail",
+    "tags": [
+      "ITEM_DATA",
+      "BLADE_MAIL",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_PHYSICAL",
+      "SITUATIONAL_VS_MAGIC",
+      "DEFENSIVE",
+      "COUNTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Blade Mail, Cost: 2300: Synergizes with heroes who have high effective health pools or innate damage reduction. Heroes like Axe, Centaur Warrunner, or Bristleback can survive the initial damage burst and reflect significant damage back. Timing is key for punishing enemy initiation and reversing focus.",
+    "search_text": "blade mail axe, blade mail centaur, blade mail bristleback, tank hero item, initiator blade mail, strength hero item, durability item, Blade Mail build, Blade Mail",
+    "tags": [
+      "ITEM_DATA",
+      "BLADE_MAIL",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "STRENGTH_HERO",
+      "INITIATOR_ITEM"
+    ]
+  },
+  {
+    "display_text": "Blade Mail, Cost: 2300: A critical team fight role item that punishes focused damage. Activating it during key enemy spells or right-click volleys can disrupt enemy coordination and protect high-value allies. Its presence alters enemy targeting priorities.",
+    "search_text": "team fight blade mail, punish focus, disrupt coordination, protect ally, force target switch, defensive aura, Blade Mail team fight, Blade Mail",
+    "tags": [
+      "ITEM_DATA",
+      "BLADE_MAIL",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DEFENSIVE",
+      "UTILITY"
+    ]
+  }
+]

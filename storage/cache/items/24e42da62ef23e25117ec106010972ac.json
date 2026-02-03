@@ -1,0 +1,38 @@
+[
+  {
+    "display_text": "Flying Courier, Cost: 100: Consumable that upgrades the basic courier to a flying unit. The Flying Courier moves faster, is immune to ground-based pathing obstacles, and can transport items instantly to allies. Essential for faster global item delivery once laning phase ends. Stats: Cost: 100.",
+    "search_text": "flying courier, upgrade courier, courier upgrade, buy flying courier, fast courier, global delivery, flying donkey, item delivery, deliver items, flying bird, Flying Courier",
+    "tags": [
+      "ITEM_DATA",
+      "FLYING_COURIER",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "UTILITY",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Flying Courier, Cost: 100: Critical team utility purchase, typically bought by the position 5 support immediately after the laning stage. Enables safe, rapid item transport to heroes anywhere on the map without being blocked by cliffs or terrain, drastically increasing farming and fighting uptime for your core heroes.",
+    "search_text": "buy flying courier, courier upgrade timing, support purchase, position 5 item, laning stage end, global item transport, safe delivery, Flying Courier",
+    "tags": [
+      "ITEM_DATA",
+      "FLYING_COURIER",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Flying Courier, Cost: 100: Purchase immediately after the first core hero has a key item (like Blink Dagger). This allows them to receive it instantly while staying on the map. Never delay this purchase; a slow, grounded courier severely limits your team's map pressure and efficiency.",
+    "search_text": "flying courier timing, when to buy flying courier, key item delivery, blink dagger delivery, courier efficiency, team map pressure, Flying Courier",
+    "tags": [
+      "ITEM_DATA",
+      "FLYING_COURIER",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "UTILITY",
+      "TEAM_ITEM"
+    ]
+  }
+]

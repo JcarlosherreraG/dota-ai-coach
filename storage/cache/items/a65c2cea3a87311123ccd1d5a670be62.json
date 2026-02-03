@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Outworld Staff, Cost: 0: A legendary neutral item providing no stats. Its active ability, Self-Exile, makes the caster invulnerable and untargetable for 0.7 seconds. Upon returning, the caster takes 5% of their max health as damage, which is non-lethal but disables Blink Dagger. Stats: CD: 30s, Mana: 65, Duration: 0.7s, Return Damage: 5% Max HP.",
+    "search_text": "neutral item, outworld staff, invulnerability, invulnerable, untargetable, self exile, disable blink dagger, take damage, non lethal damage, phase out, timed invulnerability, survival tool, defensive item, escape item, reposition, timing invulnerability, avoid damage, Outworld Staff",
+    "tags": [
+      "ITEM_DATA",
+      "OUTWORLD_STAFF",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "INVULNERABILITY",
+      "SURVIVAL",
+      "DEFENSIVE",
+      "UTILITY",
+      "REPOSITIONING"
+    ]
+  }
+]

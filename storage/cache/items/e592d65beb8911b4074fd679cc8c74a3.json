@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Royal Jelly, Tier X: Consumable neutral item that grants a buff providing +2.5 Health Regen and +1.25 Mana Regen per charge consumed for 8 seconds. The buff is lost if the buffed unit is attacked by an enemy hero or Roshan. Contains 5 charges. Stats: Charges: 5, Use CD: 12s, Max Charges: 10, Buff Duration: 8s.",
+    "search_text": "royal jelly, consumable neutral item, regen item, health regen item, mana regen item, neutral regen, buff regen, lane sustain, team regen, heal regen, mana sustain, royal jelly item",
+    "tags": [
+      "ITEM_DATA",
+      "ROYAL_JELLY",
+      "CORE_DESCRIPTION",
+      "CONSUMABLE",
+      "NEUTRAL",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "MANA_REGEN",
+      "BUFF"
+    ]
+  }
+]

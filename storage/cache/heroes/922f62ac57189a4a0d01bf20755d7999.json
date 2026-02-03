@@ -1,0 +1,234 @@
+[
+  {
+    "display_text": "Timbersaw is a Melee Strength hero with a base Attack Time of 1.7 seconds. He starts with 26 base Strength, 16 Agility, and 23 Intelligence. As a melee hero, he has standard 150 attack range and benefits from the durability provided by his high starting Strength, but his low starting Agility results in poor base armor.",
+    "search_text": "Timbersaw stats melee attack type base strength 26 agility 16 intelligence 23 attack rate 1.7",
+    "tags": [
+      "TIMBERSAW",
+      "BASE_STATS",
+      "MELEE",
+      "STRENGTH_HERO"
+    ]
+  },
+  {
+    "display_text": "Shredder: Timber Chain splinters the tree into fragments that fly out in all directions, dealing 45/100/155/210 damage to enemies hit. This facet significantly boosts Timber Chain's area damage, especially effective in teamfights where you can chain into multiple enemies. Second Chakram: Grants a second, fully independent Chakram to cast. This facet is ideal for maximizing area control, slow application, and raw damage output, particularly against mobile heroes or in long, drawn-out fights.",
+    "search_text": "Timbersaw facets Shredder Timber Chain tree splinter damage 45 100 155 210 Second Chakram extra chakram",
+    "tags": [
+      "TIMBERSAW",
+      "FACET_STRATEGY",
+      "SHREDDER",
+      "SECOND_CHAKRAM"
+    ]
+  },
+  {
+    "display_text": "Focus on securing last hits with high base damage. Skill Whirling Death (Q) for trading and denying, as it reduces enemy heroes' primary attribute. A point in Timber Chain (W) at level 2 or 3 is essential for escape or chase. Prioritize Reactive Armor (E) against harass-heavy lanes; each stack provides 0.4/0.5/0.6/0.7 bonus armor and HP regen. Your goal is to survive, stack Reactive Armor on creep waves, and reach level 6 with enough mana for kill potential.",
+    "search_text": "Timbersaw laning phase whirling death stat loss timber chain escape reactive armor regen armor per stack 0.4 0.5 0.6 0.7",
+    "tags": [
+      "TIMBERSAW",
+      "LANING_PHASE",
+      "LAST_HITS",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Level 6: Chakram provides huge kill threat and wave clear. Level 12: Maxed Whirling Death and Timber Chain for high magic burst damage and mobility. Level 18: Level 3 Chakram and maxed Flamethrower for maximum sustained damage and slow. Level 20: Talent choice of +5% Chakram Slow or +75% Timber Chain Range/Projectile Speed drastically improves control or initiation. Level 25: +75 Whirling Death Tree Bonus Damage or Exposure Therapy Heals for 10 HP Per Tree Destroyed for massive damage or sustain. Item spikes include Arcane Boots for mana, then Blink Dagger, Aghanim's Scepter, and Shiva's Guard.",
+    "search_text": "Timbersaw power spikes level 6 chakram level 12 whirling death timber chain level 18 flamethrower level 20 talent chakram slow timber chain range level 25 talent",
+    "tags": [
+      "TIMBERSAW",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_18",
+      "LEVEL_20",
+      "LEVEL_25"
+    ]
+  },
+  {
+    "display_text": "Break effects (e.g., Silver Edge, Doom) prevent gaining new Reactive Armor stacks, removing his core lane sustainability. Heavy magical burst damage bypasses his physical damage reduction from Reactive Armor. Heroes with instant, undodgeable lockdown (e.g., Hex, Primal Roar) can stop his Timber Chain escape. Heroes who build and apply Spirit Vessel or Skadi counter his high HP regen. Pure damage ignores his armor stacking.",
+    "search_text": "Timbersaw counters break reactive armor silver edge doom magic burst hex instant disable spirit vessel skadi pure damage",
+    "tags": [
+      "TIMBERSAW",
+      "HARD_COUNTERS",
+      "BREAK",
+      "MAGIC_DAMAGE",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Arcane Boots (or a Mana-focused alternative like Bloodstone) are essential to fuel ability spam, especially Chakram. Blink Dagger is core for instant initiation and repositioning with Timber Chain combos. Aghanim's Scepter provides a second Chakram with the Second Chakram facet, doubling area control and damage, or significantly boosts damage with the Shredder facet.",
+    "search_text": "Timbersaw core items arcane boots mana bloodstone blink dagger aghanim scepter second chakram shredder",
+    "tags": [
+      "TIMBERSAW",
+      "CORE_BUILD",
+      "ARCANE_BOOTS",
+      "BLINK_DAGGER",
+      "AGHANIMS_SCEPTER"
+    ]
+  },
+  {
+    "display_text": "Initiate with Blink Dagger and Timber Chain into the enemy backline. Use Chakram to create large, slowing zones that split the enemy team and shred their health. Use Whirling Death on key Strength or Agility cores to reduce their damage output. Use Flamethrower to apply a long-duration slow and damage over time. Your high mobility and durability from Reactive Armor allow you to weave in and out of fights, constantly applying pressure with Chakram retracts.",
+    "search_text": "Timbersaw teamfight role initiator blink dagger timber chain chakram slow zone whirling death stat loss flamethrower slow damage reactive armor tank",
+    "tags": [
+      "TIMBERSAW",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "DISRUPTOR",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Whirling Death (Q): Timbersaw whirls sharp edges, dealing 75/120/165/210 damage in a 325 radius around him. Destroys trees. If an enemy hero is hit, they lose 13% of their primary attribute plus 5 universal stat loss for 11/12/13/14 seconds. Deals an additional 9/16/23/30 damage per tree destroyed. Does NOT pierce BKB.",
+    "search_text": "Whirling Death Q nuke aoe 325 radius damage 75 120 165 210 stat loss 13% primary attribute 5 universal duration 11 12 13 14 tree bonus damage 9 16 23 30",
+    "tags": [
+      "TIMBERSAW",
+      "ABILITY_DATA",
+      "WHIRLING_DEATH",
+      "NUKE",
+      "STAT_LOSS"
+    ]
+  },
+  {
+    "display_text": "Timber Chain (W): Fires a chain up to 750/900/1050/1200 units that pulls Timbersaw to the first tree it hits. Enemies in the path take 45/100/155/210 damage. Chain travels at 2200/2400/2600/2800 speed. With the Shredder facet, the tree splinters on impact, dealing damage in an area. Does NOT pierce BKB.",
+    "search_text": "Timber Chain W mobility escape initiation damage 45 100 155 210 cast range 750 900 1050 1200 speed 2200 2400 2600 2800 shredder facet tree splinter",
+    "tags": [
+      "TIMBERSAW",
+      "ABILITY_DATA",
+      "TIMBER_CHAIN",
+      "MOBILITY",
+      "ESCAPE",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Reactive Armor (E): Passive. Each time Timbersaw is attacked, he gains a stack lasting 10/12/14/16 seconds, up to a max of 10/20/30/40 stacks. Each stack grants 0.4/0.5/0.6/0.7 bonus armor and 0.4/0.5/0.6/0.7 HP regeneration. Hero attacks grant 4 stacks. Break disables gaining new stacks but does not remove existing ones.",
+    "search_text": "Reactive Armor E passive defensive armor per stack 0.4 0.5 0.6 0.7 hp regen per stack 0.4 0.5 0.6 0.7 stack duration 10 12 14 16 max stacks 10 20 30 40 hero attacks give 4 stacks break disables",
+    "tags": [
+      "TIMBERSAW",
+      "ABILITY_DATA",
+      "REACTIVE_ARMOR",
+      "PASSIVE",
+      "DEFENSIVE",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Flamethrower (D): Timbersaw releases a flame in a direction, creating a 400-length, 275-width line for 8 seconds. Enemies in the area are slowed by 30% and take 70 damage per second. Debuff lingers for 2 seconds. Affects buildings for 50% damage. Does NOT pierce BKB.",
+    "search_text": "Flamethrower D shard slow 30% damage per second 70 duration 8 seconds length 400 width 275 building damage 50% debuff linger 2 seconds",
+    "tags": [
+      "TIMBERSAW",
+      "ABILITY_DATA",
+      "FLAMETHROWER",
+      "SLOW",
+      "DAMAGE_OVER_TIME",
+      "SHARD"
+    ]
+  },
+  {
+    "display_text": "Chakram (R): Fires a saw blade that travels 2000 units, dealing 100/150/200 damage and cutting trees along its path. Upon landing, it spins in a 200 radius for up to 8 seconds, dealing 50/75/100 damage per second (applied every 0.5 seconds) and slowing enemies by 5% plus an additional 5% slow for every 5% of health the enemy is missing. Costs 14/22/30 mana per second while active and disables Timbersaw's right-click attacks. Retracting Chakram deals the pass damage again. Does NOT pierce BKB.",
+    "search_text": "Chakram R ultimate area damage slow 200 radius pass damage 100 150 200 dps 50 75 100 mana cost per second 14 22 30 slow scaling with missing health 5% per 5% health missing",
+    "tags": [
+      "TIMBERSAW",
+      "ABILITY_DATA",
+      "CHAKRAM",
+      "ULTIMATE",
+      "AREA_DAMAGE",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Exposure Therapy (Talent/Innate): Whenever Timbersaw destroys a tree, he gains 4/6/8/10 mana. With the level 25 talent, it also heals for 10 HP per tree destroyed.",
+    "search_text": "Exposure Therapy tree destroy mana restore 4 6 8 10 talent heal 10 hp per tree",
+    "tags": [
+      "TIMBERSAW",
+      "ABILITY_DATA",
+      "EXPOSURE_THERAPY",
+      "MANA_RESTORE",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Physical Damage (e.g., Phantom Assassin, Troll Warlord). Strategy: Max Reactive Armor early and stand in creep waves to stack it. Build armor items like Shiva's Guard or Assault Cuirass. Your goal is to absorb right-clicks and out-sustain them in fights with your high armor and regeneration.",
+    "search_text": "Timbersaw vs physical damage high armor heroes reactive armor stacking shiva guard assault cuirass sustain",
+    "tags": [
+      "TIMBERSAW",
+      "SITUATIONAL",
+      "VS_PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Strategy: Focus on cutting waves with Timber Chain and Chakram to stall the game. Avoid fights and farm safely in the jungle, using Chakram to clear ancients. Itemize for survival and mana (e.g., Lotus Orb, BKB) to stay alive and defend high ground with Chakram zoning.",
+    "search_text": "Timbersaw playing from behind defensive split push cut waves jungle farm chakram clear ancients high ground defense",
+    "tags": [
+      "TIMBERSAW",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Magic Burst (e.g., Zeus, Lina). Strategy: Reactive Armor is less effective. Prioritize Hood of Defiance into Pipe of Insight for your team. Consider a fast BKB to safely initiate and use Chakram. Your mobility is key to dodging spells with Timber Chain.",
+    "search_text": "Timbersaw vs magic burst magic damage hood pipe bkb dodge spells timber chain mobility",
+    "tags": [
+      "TIMBERSAW",
+      "SITUATIONAL",
+      "VS_MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Break (Silver Edge, Viper). Strategy: Play extremely cautiously as your lane sustainability is gone. Do not rely on Reactive Armor stacks. Build direct HP items like Heart of Tarrasque and focus on burst damage with your combo before Break is applied. Lotus Orb can purge Break.",
+    "search_text": "Timbersaw vs break silver edge viper reactive armor disabled heart tarrasque hp lotus orb purge burst combo",
+    "tags": [
+      "TIMBERSAW",
+      "SITUATIONAL",
+      "VS_BREAK"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your Team Needs Initiation. Strategy: With Blink Dagger and the Shredder facet, you can become a powerful initiator. Blink in, use Whirling Death, then immediately Timber Chain through multiple enemies to apply the splinter damage and create chaos, setting up for your team's follow-up.",
+    "search_text": "Timbersaw initiator blink dagger shredder facet whirling death timber chain splinter teamfight setup",
+    "tags": [
+      "TIMBERSAW",
+      "SITUATIONAL",
+      "INITIATOR_ROLE"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: +0.25 Reactive Armor Regeneration Per Stack vs +1.5 Mana Regen. Choose the Reactive Armor talent if you are facing constant physical harassment and want to be unkillable in lane. Choose the Mana Regen talent if you are having mana issues to spam Whirling Death and Timber Chain for farming and fighting.",
+    "search_text": "Timber talent level 10 left 0.25 reactive armor regen per stack right 1.5 mana regen sustain vs mana",
+    "tags": [
+      "TIMBERSAW",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: +2.5% Whirling Death Stat Loss vs +6 Max / +1 Hero Attack Reactive Armor Stacks. Choose the Whirling Death talent if you are fighting often against high-stat Strength or Agility cores to significantly reduce their damage. Choose the Reactive Armor talent if you are the main frontliner and need to tank up, especially against illusion heroes or rapid attackers.",
+    "search_text": "Timber talent level 15 left 2.5% whirling death stat loss right 6 max stacks 1 hero attack stacks reactive armor tank vs damage reduction",
+    "tags": [
+      "TIMBERSAW",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: +5% Chakram Slow vs +75% Timber Chain Range/Projectile Speed. Choose the Chakram Slow talent to maximize control in teamfights, making it nearly impossible for enemies to escape the zone. Choose the Timber Chain talent for unparalleled mobility, allowing for extremely long-range initiations, escapes, and faster wave cutting.",
+    "search_text": "Timber talent level 20 left 5% chakram slow right 75% timber chain range projectile speed control vs mobility",
+    "tags": [
+      "TIMBERSAW",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: +75 Whirling Death Tree Bonus Damage vs Exposure Therapy Heals for 10 HP Per Tree Destroyed. Choose the Whirling Death talent for massive burst damage in fights, especially when chaining through trees. Choose the Exposure Therapy talent for extreme survivability and sustain, allowing you to heal significantly by destroying trees with Chakram and Timber Chain during engagements.",
+    "search_text": "Timber talent level 25 left 75 whirling death tree bonus damage right exposure therapy heals 10 hp per tree destroyed burst damage vs sustain",
+    "tags": [
+      "TIMBERSAW",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

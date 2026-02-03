@@ -1,4 +1,4 @@
-// Package dota содержит типы и парсер для Game State Integration (GSI) данных от Dota 2.
+// Package dota contains types and a parser for Game State Integration (GSI) data from Dota 2.
 package dota
 
 import (
@@ -6,15 +6,15 @@ import (
 	"fmt"
 )
 
-// Parser парсит JSON данные от GSI Dota 2.
+// Parser parses JSON data from Dota 2 GSI.
 type Parser struct{}
 
-// NewParser создаёт новый парсер GSI данных.
+// NewParser creates a new instance of the GSI data parser.
 func NewParser() *Parser {
 	return &Parser{}
 }
 
-// Parse парсит JSON данные от Dota 2 GSI в структуру GameState.
+// Parse parses JSON data from Dota 2 GSI into a GameState structure.
 func (p *Parser) Parse(data []byte) (*GameState, error) {
 	var state GameState
 	err := json.Unmarshal(data, &state)

@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Tombstone. Consumable: Creates a channeled Tombstone that spawns zombies attacking nearby enemies. Zombies slow enemies and deal damage. No cost purchase item available through mutations. Stats: Channeled, Cooldown: N/A.",
+    "search_text": "tombstone, mutation tombstone, consumable tombstone, summon zombies, zombie spawn, channeled item, zombie slow, zombie damage, zombie attack, mutation item, tombstone item, Tombstone",
+    "tags": [
+      "ITEM_DATA",
+      "MUTATION_TOMBSTONE",
+      "CORE_DESCRIPTION",
+      "CONSUMABLE",
+      "CHANNELED",
+      "SUMMON",
+      "ZOMBIES",
+      "SLOW",
+      "MUTATION_ITEM"
+    ]
+  }
+]

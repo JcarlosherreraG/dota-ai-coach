@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Woodland Striders, Cost: 0: Tier neutral item providing +140 Movement Speed and +60 Health Regeneration. Its Tree Walking passive removes movement speed cap and allows free pathing through trees. The Woodland Stride active creates a path of trees behind you for 3 seconds, lasting up to 15 seconds, enabling unique juking and escape routes. Stats: MS: +140, HP Regen: +60, Active Duration: 3s, Tree Duration: 15s.",
+    "search_text": "woodland striders, neutral item, tree walking, free pathing, movement speed neutral, mobility neutral, escape item, health regen neutral, tree juke, unconventional pathing, juking item, passive tree walk, active tree path, Woodland Striders",
+    "tags": [
+      "ITEM_DATA",
+      "WOODLAND_STRIDERS",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "MOBILITY",
+      "ESCAPE",
+      "SURVIVAL",
+      "UTILITY",
+      "REGEN",
+      "HEALTH"
+    ]
+  }
+]

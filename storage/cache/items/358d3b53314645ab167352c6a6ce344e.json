@@ -1,0 +1,42 @@
+[
+  {
+    "display_text": "Healing Salve, Cost: 100: Consumable item that restores 390 total health over 13 seconds to a single hero. It is cheaper than a full health fountain trip but breaks if the target takes damage from an enemy hero or Roshan, making it risky to use in combat. It heals allies for half the rate (195 total). Stats: CD: No cooldown, Duration: 13s, Charges: 1, Breakable by hero/rosh damage.",
+    "search_text": "healing salve, salve, health regen, consumable heal, hp regen, lane sustain, early game heal, breakable heal, safe regen, team heal, ally heal, support item, Healing Salve",
+    "tags": [
+      "ITEM_DATA",
+      "HEALING_SALVE",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "DISPELLABLE"
+    ]
+  },
+  {
+    "display_text": "Healing Salve, Cost: 100: Critical early-game sustain item. It provides the most cost-effective raw health regeneration for laning, allowing heroes to stay in lane after taking harass from enemy spells or attacks. The risk of being canceled by hero damage means it must be used when safely out of combat range.",
+    "search_text": "salve laning, starting item, lane sustain, early game regen, safe heal, harass counter, laning phase, starting consumable, healing consumable, Healing Salve",
+    "tags": [
+      "ITEM_DATA",
+      "HEALING_SALVE",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "LANING",
+      "SUSTAIN",
+      "STARTING_ITEM"
+    ]
+  },
+  {
+    "display_text": "Healing Salve, Cost: 100: Provides burst regeneration for pushing or before fights, but the healing-over-time nature requires pre-fight planning. Can be used on allies to help them sustain through a tough lane, though at reduced effectiveness. The break-on-hero-damage mechanic makes it a poor choice during active skirmishes.",
+    "search_text": "pre-fight heal, sustain push, ally sustain, support heal, combat heal, breakable mechanic, healing over time, Healing Salve",
+    "tags": [
+      "ITEM_DATA",
+      "HEALING_SALVE",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "SUSTAIN",
+      "HEALTH",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

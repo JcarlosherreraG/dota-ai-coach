@@ -1,0 +1,185 @@
+[
+  {
+    "display_text": "Huskar is a ranged strength hero. His base attack time is 1.6 seconds, which is standard for ranged heroes. He has a high base strength of 23, but very low base agility of 10. This gives him good starting HP but very low armor. His intelligence is average at 18, but irrelevant due to his passive removing mana entirely.",
+    "search_text": "Huskar base stats attack type ranged attack rate 1.6 strength 23 agility 10 intelligence 18",
+    "tags": [
+      "HUSKAR",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Huskar has four Facets. Bloodbath: Life Break also slows enemies in a 500 radius. Nothl Transfusion: Life Break also heals friendly units around the target. Cauterize: Berserker's Blood can be activated, dispelling Huskar, costing health. After a delay, it heals for the health spent plus bonus per debuff dispelled. Incendiary: Burning Spears also burns for a percentage of the target's max health, costing max health instead of current health.",
+    "search_text": "Huskar facets Bloodbath Life Break slow radius Nothl Transfusion Life Break heal allies Cauterize Berserker's Blood active dispel heal debuff Incendiary Burning Spears max health burn cost max hp",
+    "tags": [
+      "HUSKAR",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Huskar is a powerful laner due to Burning Spears. Spam Burning Spears on the enemy to stack damage over time, forcing them to use regen or leave lane. Manage his health cost (4 HP per attack). Inner Fire at level 1 can be used defensively if the enemy initiates, but maxing Burning Spears is priority. Aim to secure last hits and deny aggressively due to his high base damage. He is vulnerable to magic nukes and physical harass due to low armor.",
+    "search_text": "Huskar laning phase early game Burning Spears spam stack DoT health cost 4 hp Inner Fire knockback defensive",
+    "tags": [
+      "HUSKAR",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a massive spike with Life Break, allowing solo kills. Level 12, with maxed Burning Spears and Berserker's Blood, he becomes very durable in fights. Level 18 with max ultimate. Level 20 talent: +30% Berserker's Blood Regen significantly increases his sustain. Level 25: +6s Burning Spear Duration turns him into a siege machine. Key item spikes are Armlet of Mordiggian (synergy with Berserker's Blood) and Black King Bar (allows him to fight through disables while low HP).",
+    "search_text": "Huskar power spikes level 6 Life Break kill level 12 max abilities level 18 talent 20 30 Berserker's Blood regen talent 25 6s Burning Spear duration item Armlet BKB",
+    "tags": [
+      "HUSKAR",
+      "POWER_SPIKES",
+      "TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Huskar is countered by Break mechanics (Silver Edge, Hoodwink) which disable Berserker's Blood. High physical burst damage (Ursa, Troll Warlord) can kill him before his regen kicks in. Percentage-based damage (Timbersaw) ignores his high health pool. Instant disables and hex (Lion, Shadow Shaman) prevent him from using Life Break or attacking. Pure damage and Skadi's heal reduction are also very effective.",
+    "search_text": "Huskar counters hard counter Break Silver Edge Hoodwink disable Berserker's Blood physical burst Ursa Troll percentage damage Timbersaw instant hex Lion Shadow Shaman",
+    "tags": [
+      "HUSKAR",
+      "HARD_COUNTERS",
+      "COUNTER"
+    ]
+  },
+  {
+    "display_text": "Armlet of Mordiggian is absolutely core. The toggle synergizes perfectly with Berserker's Blood, allowing him to stay at low health for maximum bonuses while sustaining through the drain. Black King Bar is essential to prevent being kited or burst by magic damage during his low HP engagements. Satanic is a late-game core for the massive lifesteal and active to instantly recover health.",
+    "search_text": "Huskar core build essential items Armlet of Mordiggian toggle synergy BKB Black King Bar magic immunity Satanic lifesteal",
+    "tags": [
+      "HUSKAR",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Huskar's role is to jump the highest priority backline hero with Life Break, silencing and slowing them. He then uses his high attack speed from Berserker's Blood and Burning Spear stacks to burn down targets. He acts as a high-damage, high-sustain frontliner who draws focus and forces enemies to deal with him while his team follows up. Use Inner Fire to peel enemies off himself or allies.",
+    "search_text": "Huskar teamfight role initiate Life Break jump backline silence slow frontliner sustain damage Burning Spear stacks Inner Fire peel",
+    "tags": [
+      "HUSKAR",
+      "TEAMFIGHT_ROLE",
+      "FIGHT"
+    ]
+  },
+  {
+    "display_text": "Inner Fire: In a fiery rage, knocks all nearby enemies away from you to a fixed distance of 400, dealing 105/170/235/300 damage and silencing them. Silences for 1.5/2/2.5/3 seconds. Casts instantly in a 500 radius. Cooldown is 17/15/13/11 seconds. Costs 75/100/125/150 health.",
+    "search_text": "Inner Fire Q ability Huskar knockback 400 distance damage 105 170 235 300 silence 1.5 2 2.5 3 seconds radius 500 cooldown 17 15 13 11 health cost 75 100 125 150",
+    "tags": [
+      "HUSKAR",
+      "ABILITY_DATA",
+      "Q",
+      "SILENCE",
+      "KNOCKBACK"
+    ]
+  },
+  {
+    "display_text": "Burning Spear: Huskar sets his spears aflame, dealing 5/10/15/20 damage over time per stack with his regular attack. Multiple attacks stack additively. Each attack drains 4 of Huskar's health. Debuff lasts 9 seconds. Does NOT pierce BKB. Huskar cannot kill himself with this skill.",
+    "search_text": "Burning Spear W ability Huskar attack modifier DoT damage per second 5 10 15 20 stackable duration 9 seconds health cost 4 per attack no self kill",
+    "tags": [
+      "HUSKAR",
+      "ABILITY_DATA",
+      "W",
+      "ATTACK_MODIFIER",
+      "DOT"
+    ]
+  },
+  {
+    "display_text": "Berserker's Blood: Huskar's injuries feed his power. Provides increased attack speed, magic resistance and health regen based on missing health. At full HP: no bonus. At less than 10% HP: maximum bonuses. Maximum attack speed bonus: 170/220/270/320. Maximum magic resistance bonus: 15%/20%/25%/30%. Maximum health regen bonus: 25/40/55/70 (percentage of your strength).",
+    "search_text": "Berserker's Blood E passive ability Huskar missing health low hp attack speed bonus max 170 220 270 320 magic resist max 15 20 25 30 health regen max 25 40 55 70 strength based",
+    "tags": [
+      "HUSKAR",
+      "ABILITY_DATA",
+      "E",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Life Break: Huskar draws upon his health to break an enemy's life. He leaps at a target, becoming debuff immune and having 60% increased magic resistance during the leap. Upon impact, he shatters 32%/38%/44% of that hero's current health as damage to the target and slows both their movement and attack speed by 60% for 3/4/5 seconds. Leap cannot be disjointed. Costs 32%/38%/44% of Huskar's current health. Cooldown is 16/14/12 seconds. Slow works on Spell Immune units.",
+    "search_text": "Life Break R ultimate ability Huskar leap debuff immune 60 magic resist percent current health damage 32 38 44 slow 60 movement attack speed duration 3 4 5 seconds health cost 32 38 44 cooldown 16 14 12 pierces BKB slow",
+    "tags": [
+      "HUSKAR",
+      "ABILITY_DATA",
+      "R",
+      "ULTIMATE",
+      "DASH",
+      "SLOW",
+      "DEBUFF_IMMUNE"
+    ]
+  },
+  {
+    "display_text": "When facing heroes with high armor (e.g., Dragon Knight, Terrorblade), Huskar's physical damage falls off. Build items that provide percentage-based damage or armor reduction like Assault Cuirass or Desolator. Focus on Burning Spear magic damage stacks instead. The Incendiary Facet (Burning Spear Max Health Burn) is particularly effective here.",
+    "search_text": "Huskar situational vs high armor Dragon Knight Terrorblade build Assault Cuirass Desolator armor reduction Burning Spear magic damage Incendiary facet max health burn",
+    "tags": [
+      "HUSKAR",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "When playing from behind and unable to manfight, Huskar should avoid direct engagement. Focus on split-pushing with Burning Spears on towers (they take full damage). Build survivability items like Heart of Tarrasque or Satanic. Use Life Break defensively to jump away or initiate on a lone support with your team. The Nothl Transfusion Facet (Life Break Heal) can help sustain your team in defensive fights.",
+    "search_text": "Huskar situational playing from behind split push towers Burning Spear build Heart Satanic defensive Life Break Nothl Transfusion facet heal allies",
+    "tags": [
+      "HUSKAR",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "When facing heavy magic damage burst (e.g., Zeus, Lina), prioritize magic resistance. Berserker's Blood provides up to 30% magic resist at low HP. Build a quick Hood of Defiance or Pipe of Insight. Consider the Cauterize Facet for its dispel and heal to survive magic debuffs and nukes. Always have Black King Bar ready for fights.",
+    "search_text": "Huskar situational vs magic burst Zeus Lina magic resistance Berserker's Blood Hood of Defiance Pipe of Insight Cauterize facet dispel heal BKB",
+    "tags": [
+      "HUSKAR",
+      "SITUATIONAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "When you need to be the primary initiator and your team lacks control, choose the Bloodbath Facet. The AoE slow from Life Break helps your team catch up and lock down the enemy team after you jump in.",
+    "search_text": "Huskar situational primary initiator team lacks control Bloodbath facet Life Break AoE slow",
+    "tags": [
+      "HUSKAR",
+      "SITUATIONAL",
+      "INITIATOR"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: +0.75s Inner Fire Duration vs +2s Life Break Slow Duration. Choose Inner Fire for more defensive control. Choose Life Break Slow for better ganking and kill secure.",
+    "search_text": "Huskar talent level 10 left 0.75 Inner Fire Duration right 2 Life Break Slow Duration",
+    "tags": [
+      "HUSKAR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between +5 Burning Spear Burn Damage and +12% Lifesteal. The Burning Spear damage increases your DPS and magic damage output significantly. The Lifesteal is essential for sustain in prolonged fights, especially when paired with Satanic. Choose based on whether you need more damage or more survivability.",
+    "search_text": "Huskar talent level 15 left 5 Burning Spear Burn Damage right 12 Lifesteal",
+    "tags": [
+      "HUSKAR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between +30% Berserker's Blood Regen and -5s Life Break Cooldown. The +30% Berserker's Blood Regen is almost always the superior choice, massively increasing your health regeneration at low HP, making you incredibly hard to kill. The cooldown reduction is good if you need more frequent initiations and your survivability is already secured.",
+    "search_text": "Huskar talent level 20 left 30 Berserker's Blood Regen right 5 Life Break Cooldown reduction",
+    "tags": [
+      "HUSKAR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between +22% Life Break Damage and +6s Burning Spear Duration. The +22% Life Break Damage increases the percentage health damage to 54%/60%/66%, allowing you to instantly cripple even the tankiest heroes. The +6s Burning Spear Duration (total 15s) is exceptional for siege, prolonged teamfights, and applying massive stacks of damage. Choose based on needing burst vs sustained damage.",
+    "search_text": "Huskar talent level 25 left 22 Life Break Damage right 6 Burning Spear Duration",
+    "tags": [
+      "HUSKAR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

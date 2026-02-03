@@ -1,0 +1,196 @@
+[
+  {
+    "display_text": "Disruptor is a Ranged Intelligence hero with base stats of 21 Strength, 15 Agility, and 20 Intelligence. He has a slow attack rate of 1.7 seconds per attack and 305 movement speed. His starting attributes are fairly average for a ranged support, with no standout armor or movement speed.",
+    "search_text": "Disruptor stats base Strength Agility Intelligence 21 15 20 attack rate 1.7 ranged movement 305",
+    "tags": [
+      "DISRUPTOR",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Disruptor has three Facets. Thunderstorm causes Thunder Strike to hit all enemies within Kinetic Field and increases its slow duration, enhancing his teamfight control. Kinetic Fence replaces Kinetic Field with impassable walls, offering more versatile zoning and path-blocking. Transference makes his passive, Electromagnetic Repulsion, an active ability that can be cast on allies, dealing damage equal to a percentage of Disruptor's current health, adding a sacrificial damage and repositioning tool.",
+    "search_text": "Disruptor facets Thunderstorm Thunder Strike Kinetic Field all enemies slow duration Kinetic Fence impassable walls Transference Electromagnetic Repulsion active cast ally damage percentage current health",
+    "tags": [
+      "DISRUPTOR",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Thunder Strike for harassment. At level 1, it deals 25 damage per strike over 4 strikes (100 total) and applies a 100% slow for 0.3 seconds on each strike. Its 800 cast range allows you to trade safely from a distance. Focus on securing ranged creeps and harassing the enemy core. Keep Glimpse ready to punish overextension, though its low-level damage is minimal.",
+    "search_text": "Disruptor laning phase Thunder Strike harassment 25 damage per strike 800 range 100% slow 0.3 seconds Glimpse overextension",
+    "tags": [
+      "DISRUPTOR",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Key power spikes are at level 6 with Static Storm for teamfight silencing and damage, level 12 for the level 2 ultimate (275 max damage), and level 18 for the maxed ultimate (350 max damage). The level 20 talent (+150 Electromagnetic Repulsion Radius/Knockback) is a major defensive and offensive spike. The level 25 talent (+150 Static Storm Radius) dramatically increases his teamfight impact. Item spikes include Aghanim's Scepter for the upgraded Static Storm and Blink Dagger for initiations.",
+    "search_text": "Disruptor power spikes level 6 Static Storm level 12 ultimate 275 damage level 18 ultimate 350 damage level 20 talent Electromagnetic Repulsion radius knockback level 25 talent Static Storm radius Aghanim's Scepter Blink Dagger",
+    "tags": [
+      "DISRUPTOR",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Disruptor is hard-countered by heroes with magic immunity (BKB) which blocks all his spells except Static Storm's silence (which pierces BKB). Heroes with instant silences or hexes can prevent him from casting his combo. Heroes with high mobility or escape abilities can avoid being caught in Kinetic Field or can escape after being Glimpsed. Illusion-based heroes can be problematic as Glimpse instantly kills them, but they can overwhelm with numbers.",
+    "search_text": "Disruptor counters magic immunity BKB blocks spells Static Storm silence pierces instant silence hex prevent combo high mobility escape Kinetic Field Glimpse illusion heroes glimpse kills",
+    "tags": [
+      "DISRUPTOR",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items for Disruptor are Aghanim's Scepter and Blink Dagger. Aghanim's Scepter is essential as it increases Static Storm's max damage to 350 and its duration to 6 seconds, making it a massive teamfight threat. Blink Dagger allows for reliable initiation to catch key heroes with Kinetic Field and Static Storm. Boots of Travel are also highly valuable for global map presence and Glimpse setups.",
+    "search_text": "Disruptor core build Aghanim's Scepter Static Storm 350 damage 6 seconds Blink Dagger initiation Kinetic Field Boots of Travel global glimpse",
+    "tags": [
+      "DISRUPTOR",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Disruptor's role is to initiate with Blink Dagger, trap key enemy heroes with Kinetic Field, and silence the entire area with Static Storm. Use Glimpse to catch out-of-position heroes before the fight or to remove an initiator. Use Thunder Strike for vision and to slow key targets. Position safely to survive and cast multiple rounds of spells.",
+    "search_text": "Disruptor teamfight role initiator Blink Dagger Kinetic Field trap Static Storm silence area Glimpse catch out-of-position Thunder Strike vision slow",
+    "tags": [
+      "DISRUPTOR",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Thunder Strike (Q) has an 800 cast range. It strikes the target 4 times over 8 seconds, with each strike dealing 25/55/85/115 damage to the target and all enemy units within a 260 radius. Each strike also slows movement and attack speed by 100% for 0.3 seconds. Provides vision of its target. Does NOT pierce BKB. The Shard upgrade adds a ground-targeted version with a 4-second delay.",
+    "search_text": "Thunder Strike Q ability 800 cast range 4 strikes 25 55 85 115 damage 260 radius AOE 100% slow 0.3 seconds per strike vision target Shard ground target 4 second delay",
+    "tags": [
+      "DISRUPTOR",
+      "ABILITY_DATA",
+      "Q",
+      "THUNDER_STRIKE",
+      "SLOW",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "Glimpse (W) has a cooldown of 24/22/20/18 seconds. It teleports the target hero back to where it was 4 seconds ago. Instantly kills illusions. Deals damage equal to 20%/25%/30%/35% of the distance glimpsed, with a minimum of 25 damage and a maximum of 100/160/220/280 damage. The travel time depends on the distance. Does NOT pierce BKB.",
+    "search_text": "Glimpse W ability cooldown 24 22 20 18 teleport back 4 seconds kill illusions damage 20% 25% 30% 35% distance minimum 25 max 100 160 220 280 travel time distance",
+    "tags": [
+      "DISRUPTOR",
+      "ABILITY_DATA",
+      "W",
+      "GLIMPSE",
+      "REPOSITION",
+      "ILLUSION_KILL"
+    ]
+  },
+  {
+    "display_text": "Kinetic Field (E) has a cooldown of 20/18/16/14 seconds. After a 1-second formation time, it creates a circular impassable barrier with a 350 radius that lasts for 2.6/3.2/3.8/4.4 seconds. Debuff Immune units can pass through. Does NOT pierce BKB.",
+    "search_text": "Kinetic Field E ability cooldown 20 18 16 14 formation time 1 second radius 350 duration 2.6 3.2 3.8 4.4 impassable barrier Debuff Immune pass through",
+    "tags": [
+      "DISRUPTOR",
+      "ABILITY_DATA",
+      "E",
+      "KINETIC_FIELD",
+      "BARRIER",
+      "ZONING"
+    ]
+  },
+  {
+    "display_text": "Electromagnetic Repulsion is Disruptor's innate passive ability. Whenever Disruptor takes more than 250 damage from any source within a 400 radius, all nearby enemies within 400 radius are knocked back up to 300 units over 0.2 seconds. The damage counter resets after 7 seconds.",
+    "search_text": "Electromagnetic Repulsion passive innate 250 damage trigger 400 radius knockback enemies 300 units 0.2 seconds reset 7 seconds",
+    "tags": [
+      "DISRUPTOR",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "ELECTROMAGNETIC_REPULSION",
+      "KNOCKBACK",
+      "DAMAGE_TRIGGER"
+    ]
+  },
+  {
+    "display_text": "Static Storm (R) is Disruptor's ultimate. It creates a storm in a 550 radius that lasts for 6 seconds, pulsing 20 times. It silences all enemies in the area for the full duration and deals damage that increases over time, with a maximum damage per second of 200/275/350. The silence effect PIERCES BKB.",
+    "search_text": "Static Storm R ultimate radius 550 duration 6 seconds 20 pulses silence all enemies damage increases max DPS 200 275 350 silence pierces BKB",
+    "tags": [
+      "DISRUPTOR",
+      "ABILITY_DATA",
+      "R",
+      "ULTIMATE",
+      "STATIC_STORM",
+      "SILENCE",
+      "AOE",
+      "PIERCES_BKB"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against high-mobility heroes like Queen of Pain or Anti-Mage. Strategy: Save Glimpse for after they use their blink or escape ability. Cast Kinetic Field preemptively where they will be Glimpsed back to, followed by Static Storm. Thunder Strike provides vision on them if they blink to fog.",
+    "search_text": "Disruptor scenario high mobility Queen of Pain Anti-Mage save Glimpse after blink escape Kinetic Field preemptive glimpse location Static Storm Thunder Strike vision fog",
+    "tags": [
+      "DISRUPTOR",
+      "SITUATIONAL",
+      "VS_HIGH_MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind with a deficit. Strategy: Focus on defensive warding and catching solo heroes with Glimpse. Use Kinetic Field defensively to zone enemies during pushes or to protect your high ground. Prioritize cheaper items like Force Staff or Glimmer Cape over Aghanim's Scepter to survive and enable your carry.",
+    "search_text": "Disruptor scenario playing from behind deficit defensive warding catch solo glimpse Kinetic Field defensive zone protect high ground Force Staff Glimmer Cape survival",
+    "tags": [
+      "DISRUPTOR",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: When your team lacks initiation. Strategy: You become the primary initiator. Rush Blink Dagger after basic boots and mana sustain. Use smoke ganks to Blink, Kinetic Field, and Static Storm a key target. Communicate with your team to follow up immediately.",
+    "search_text": "Disruptor scenario lacks initiation primary initiator rush Blink Dagger boots mana smoke gank blink kinetic field static storm key target follow up",
+    "tags": [
+      "DISRUPTOR",
+      "SITUATIONAL",
+      "AS_INITIATOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against illusion or summon-based heroes (Chaos Knight, Phantom Lancer). Strategy: Max Glimpse second as it instantly kills illusions. Consider an Aether Lens to Glimpse key heroes from further away. Static Storm is effective against clustered illusions. Be careful not to waste Kinetic Field on illusions.",
+    "search_text": "Disruptor scenario illusion summons Chaos Knight Phantom Lancer max Glimpse second kills illusions Aether Lens range Static Storm clustered illusions avoid Kinetic Field waste",
+    "tags": [
+      "DISRUPTOR",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talent: +20 Movement Speed vs +15 Thunder Strike Damage per Strike. Choose Movement Speed for better positioning and survivability as a support. Choose Thunder Strike Damage for more aggressive harassment and core builds.",
+    "search_text": "Disruptor talent level 10 left +20 Movement Speed right +15 Thunder Strike Damage per Strike positioning survivability support aggressive harassment core",
+    "tags": [
+      "DISRUPTOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between a Glimpse upgrade (+10% Distance to Damage conversion and +300 to Max Damage) or +60 Static Storm Max DPS. The Glimpse upgrade significantly increases its damage potential against mobile heroes, making it a strong pick-off tool. The Static Storm DPS is better for teamfight-heavy games where you can reliably trap multiple heroes.",
+    "search_text": "Disruptor talent level 15 left +10% Glimpse Distance to Damage +300 Max Damage right +60 Static Storm Max DPS pick-off mobile heroes teamfight trap multiple",
+    "tags": [
+      "DISRUPTOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between +1s Kinetic Field Duration or +150 Electromagnetic Repulsion Radius/Knockback. The Kinetic Field duration is a reliable increase to your core disable. The massive boost to your passive's radius and knockback provides incredible defensive utility and can disrupt enemy formations in fights, often being the superior choice.",
+    "search_text": "Disruptor talent level 20 left +1s Kinetic Field Duration right +150 Electromagnetic Repulsion Radius Knockback core disable defensive utility disrupt formations",
+    "tags": [
+      "DISRUPTOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between -12s Glimpse Cooldown or +150 Static Storm Radius. The reduced Glimpse cooldown allows for near-constant pick-offs and repositioning in the late game. The increased Static Storm radius is one of the largest AOE silences in the game, capable of covering entire teamfights and high ground chokepoints, making it the generally preferred game-ending talent.",
+    "search_text": "Disruptor talent level 25 left -12s Glimpse Cooldown right +150 Static Storm Radius pick-offs repositioning large AOE silence teamfight high ground choke",
+    "tags": [
+      "DISRUPTOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

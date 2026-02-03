@@ -1,0 +1,198 @@
+[
+  {
+    "display_text": "Outworld Destroyer is a ranged Intelligence hero with low base Strength (21) and Agility (22), but very high starting Intelligence (30). His attack range is standard for ranged heroes and his base attack time is 1.9, which is on the slower side.",
+    "search_text": "Outworld Destroyer stats attack type ranged base intelligence 30 strength 21 agility 22 attack rate 1.9",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Obsidian Decimator. When Essence Flux restores mana, it also temporarily increases maximum mana. This facet synergizes heavily with spamming Arcane Orb, providing sustained, high-mana-pressure DPS in longer engagements.",
+    "search_text": "Obsidian Decimator Facet Essence Flux restores mana increases maximum mana temporarily DPS",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "FACET_STRATEGY",
+      "FACET_1",
+      "OBSIDIAN_DECIMATOR"
+    ]
+  },
+  {
+    "display_text": "Facet 2: Overwhelming Devourer. Heroes affected by Astral Imprisonment and Sanity's Eclipse heal Outworld Destroyer every time they cast a spell. This facet promotes a disruptive, sustain-focused playstyle against spell-heavy lineups, turning enemy spell casts into your own survivability.",
+    "search_text": "Overwhelming Devourer Facet Astral Imprisonment Sanity's Eclipse heals Outworld Destroyer when enemies cast spell sustain",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "FACET_STRATEGY",
+      "FACET_2",
+      "OVERWHELMING_DEVOURER"
+    ]
+  },
+  {
+    "display_text": "Laning Phase: Focus on last hitting with your high base damage (boosted by high Intelligence). Use Arcane Orb (Q) sparingly to harass due to its high mana cost (20% of current mana per attack). Astral Imprisonment (W) is your main defensive and offensive tool; use it to secure ranged creeps, dodge enemy spells, or set up kills. Manage mana carefully to enable Essence Flux (E) procs for sustain.",
+    "search_text": "Outworld Destroyer laning phase last hits Arcane Orb harass mana cost 20% Astral Imprisonment dodge secure kill Essence Flux mana restore",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 with Sanity's Eclipse provides massive kill threat, especially if you have more mana than your opponent. Level 12 with maxed Astral Imprisonment (4s disable, 25% max mana steal). Talent levels (10, 15, 20, 25) offer significant flexibility. Key item timings include Power Treads and Witch Blade for early fighting, and Aghanim's Scepter for the defensive barrier.",
+    "search_text": "Outworld Destroyer power spike level 6 Sanity's Eclipse level 12 Astral Imprisonment 4s disable talent levels Power Treads Witch Blade Aghanim's Scepter",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: Break disables the Aghanim's Scepter upgrade from Essence Flux. Heroes with instant disables (e.g., hex) prevent you from using Astral Imprisonment defensively. Mana Burn heroes (e.g., Anti-Mage, Invoker) severely reduce your damage output and survivability, as your damage and health barrier scale with your mana pool. High magic resistance or pure damage immunity also counters your primary damage source.",
+    "search_text": "Outworld Destroyer counters Break disables Aghanim's Scepter instant hex Anti-Mage mana burn Invoker EMP magic resistance pure damage immunity",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: Power Treads are essential for attribute switching to maximize Intelligence for damage and mana. Witch Blade provides attack speed, intelligence, and a slow that synergizes with Arcane Orb attacks. Aghanim's Scepter is often core, providing a 65% max mana health barrier when dropping below 20% HP.",
+    "search_text": "Outworld Destroyer core items Power Treads Witch Blade intelligence attack slow Aghanim's Scepter barrier 65% mana 20% HP",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Backline damage dealer and anti-caster. Use Astral Imprisonment to remove key enemies (initiators, burst heroes) from the fight for up to 4 seconds. Focus high-Intelligence or low-mana heroes with Arcane Orb for pure damage. Land Sanity's Eclipse on as many enemies as possible to deal massive damage based on the mana difference.",
+    "search_text": "Outworld Destroyer teamfight backline damage anti-caster Astral Imprisonment disable 4s Arcane Orb pure damage Sanity's Eclipse mana difference",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Arcane Orb (Q). Adds extra pure damage to Outworld Destroyer's attacks, based on his remaining mana pool. The damage is 10%/11%/12%/13% of his current mana per hit. Each cast costs 20% of his current mana. The damage is calculated after the mana cost is spent. Does NOT pierce BKB.",
+    "search_text": "Arcane Orb Q Outworld Destroyer attack pure damage 10% 11% 12% 13% current mana cost 20% mana per hit",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "ABILITY_DATA",
+      "ARCANE_ORB",
+      "PURE_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Ability: Astral Imprisonment (W). Places a target unit into an astral prison for 1.75/2.5/3.25/4 seconds. The hidden unit is invulnerable and disabled. Cast Range: 650. Cooldown: 18/16/14/12 seconds. When it ends, deals 90/180/270/360 damage and steals 16%/19%/22%/25% of the target's max mana as mana capacity for 30/40/50/60 seconds. Imprisoned units can still be hit by Sanity's Eclipse. Does NOT pierce BKB.",
+    "search_text": "Astral Imprisonment W Outworld Destroyer disable invulnerable 1.75s 2.5s 3.25s 4s cast range 650 cooldown 18 16 14 12 damage 90 180 270 360 mana steal 16% 19% 22% 25% max mana capacity 30 40 50 60 seconds",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "ABILITY_DATA",
+      "ASTRAL_IMPRISONMENT",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Essence Flux (E). Passive. Grants a 30% chance to restore 25%/35%/45%/55% of your max mana each time you cast an ability. With Aghanim's Scepter: When your health falls below 20%, a barrier is created for 12 seconds that absorbs damage up to 65% of your max mana. Cooldown: 80 seconds. Break prevents the Aghanim's Scepter effect.",
+    "search_text": "Essence Flux E Outworld Destroyer passive 30% chance restore 25% 35% 45% 55% max mana per spell cast Aghanim's Scepter barrier 20% HP 65% max mana absorb 12s cooldown 80s Break disables",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "ABILITY_DATA",
+      "ESSENCE_FLUX",
+      "PASSIVE",
+      "MANA_RESTORE"
+    ]
+  },
+  {
+    "display_text": "Ability: Ominous Discernment (Passive). Outworld Destroyer gains an additional 2.5 mana per point of Intelligence.",
+    "search_text": "Ominous Discernment passive Outworld Destroyer 2.5 mana per intelligence point",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "ABILITY_DATA",
+      "OMINOUS_DISCERNMENT",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Sanity's Eclipse (R). Unleashes a psychic blast in a 450/525/600 radius at 700 range, dealing 200/300/400 base damage plus 0.4 times the difference between your mana and the target's mana as damage. Cooldown: 150/135/120 seconds. Can hit units trapped by Astral Imprisonment. Does NOT pierce BKB.",
+    "search_text": "Sanity's Eclipse R Outworld Destroyer ultimate psychic blast radius 450 525 600 range 700 base damage 200 300 400 mana difference multiplier 0.4 cooldown 150 135 120 hits imprisoned",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "ABILITY_DATA",
+      "SANITYS_ECLIPSE",
+      "ULTIMATE",
+      "BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor / Physical Damage Cores. Your Arcane Orb deals pure damage, ignoring armor. Prioritize farming and survival items like Hurricane Pike or Shiva's Guard to kite and survive physical bursts. Facet choice: Obsidian Decimator helps maintain high mana for consistent Orb damage.",
+    "search_text": "Outworld Destroyer vs high armor physical damage Arcane Orb pure damage ignore armor Hurricane Pike Shiva's Guard kite Obsidian Decimator",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. If denied farm, focus on using Astral Imprisonment defensively to save allies and disrupt enemy initiations. Build utility items like Force Staff or Rod of Atos. The Overwhelming Devourer facet can provide much-needed survivability in teamfights if enemies are casting spells.",
+    "search_text": "Outworld Destroyer behind playing from behind Astral Imprisonment save defensive Force Staff Rod of Atos Overwhelming Devourer facet heal sustain",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Spell-Heavy Lineups. The Overwhelming Devourer facet is superior, as every enemy spell cast after being hit by your W or R will heal you. Consider buying a BKB to ensure you can cast your spells uninterrupted. Lotus Orb can also be valuable to reflect disables.",
+    "search_text": "Outworld Destroyer vs spell heavy lineup Overwhelming Devourer facet heal per enemy spell BKB Lotus Orb reflect",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "SITUATIONAL",
+      "VS_SPELL_HEAVY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Mana Burn. Heroes like Anti-Mage or Invoker with EMP destroy your mana pool, crippling your damage and survivability (especially with Aghanim's Scepter). Itemize for raw HP and mobility (e.g., Sange and Kaya, Skadi) to survive while your mana is low. Avoid the Obsidian Decimator facet as it relies on high mana.",
+    "search_text": "Outworld Destroyer vs mana burn Anti-Mage Invoker EMP damage survivability Aghanim's Scepter countered HP mobility Sange and Kaya Skadi",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "SITUATIONAL",
+      "VS_MANA_BURN"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left talent provides +100 Astral Imprisonment Cast Range, increasing its safety and catch potential. Right talent provides +200 Mana, increasing your damage and survivability slightly. Choose range if you need safer imprisonment casts or catch; choose mana for a minor early power boost.",
+    "search_text": "Outworld Destroyer level 10 talent left +100 Astral Imprisonment Cast Range right +200 Mana",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left talent provides +8% Astral Imprisonment Mana Capacity Steal, increasing from 25% to 33%, significantly boosting your mana pool against enemy heroes. Right talent provides +0.8% of Current Mana as Movement Speed, offering up to ~4.8% MS with 600 mana, improving chase and positioning. Choose left for mana-dependent play; choose right for mobility.",
+    "search_text": "Outworld Destroyer level 15 talent left +8% Astral Imprisonment Mana Steal right +0.8% Current Mana as Movement Speed",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left talent provides +450 Health, a significant survivability boost against burst damage. Right talent provides +0.15 Sanity's Eclipse Mana Difference Multiplier, increasing it from 0.4 to 0.55, dramatically increasing your ultimate's damage against mana-heavy heroes. Choose health if you are dying quickly; choose damage if you need to delete key targets.",
+    "search_text": "Outworld Destroyer level 20 talent left +450 Health right +0.15 Sanity's Eclipse Mana Difference Multiplier 0.4 to 0.55",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left talent provides +1.5% Arcane Orb Damage, increasing the multiplier from 13% to 14.5% of current mana. Right talent provides -60s Sanity's Eclipse Cooldown, reducing it from 120 to 60 seconds at max level. Choose left for sustained DPS and man-fighting; choose right for frequent teamfight-winning ultimates.",
+    "search_text": "Outworld Destroyer level 25 talent left +1.5% Arcane Orb Damage right -60s Sanity's Eclipse Cooldown",
+    "tags": [
+      "OUTWORLD_DESTROYER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_25"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "display_text": "Ultimate Orb, Cost: 2800: A significant raw stat investment that provides +15 to all three hero attributes (Strength, Agility, and Intelligence). It is a core component for many high-tier luxury items like Eye of Skadi, Scythe of Vyse, and Shiva's Guard. This makes it a versatile bridge item, offering well-rounded scaling for heroes who benefit from a mix of stats rather than a focused boost. Stats: All Attributes: +15.",
+    "search_text": "stats item, all attributes, versatile stats, attribute scaling, component item, luxury item component, hybrid stat boost, orb of stats, Ultimate Orb, stat stick, late game component, Eye of Skadi component, Scythe of Vyse component, Shiva's Guard component, stat bridge, raw stats",
+    "tags": [
+      "ITEM_DATA",
+      "ULTIMATE_ORB",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "UPGRADE",
+      "COMPONENT",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE",
+      "SCALING",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Ultimate Orb, Cost: 2800: Does not have an active or passive ability. Its value is entirely in its substantial +15 bonus to Strength, Agility, and Intelligence, providing HP, mana, attack speed, and armor. This makes it a pure stat efficiency purchase for heroes looking to strengthen their base attributes simultaneously.",
+    "search_text": "no active item, no ability, pure stats, stat boost only, stat efficiency, attribute bonus, raw stat item, Ultimate Orb, high cost stats, stat luxury, passive stats",
+    "tags": [
+      "ITEM_DATA",
+      "ULTIMATE_ORB",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "UPGRADE",
+      "STAT_BONUS",
+      "NO_ACTIVE",
+      "NO_PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Ultimate Orb, Cost: 2800: Provides well-rounded survivability and scaling in team fights by increasing health pool (Strength), armor and attack speed (Agility), and mana pool and spell damage (Intelligence). This makes it effective on heroes who need a balanced mix of durability and spell-casting capacity, allowing them to survive longer and cast more spells.",
+    "search_text": "team fight scaling, survivability item, balanced stats, hybrid durability, stat scaling item, team fight stats, tanky caster item, hybrid carry, Ultimate Orb, all-around stats, fight longevity, sustain stats",
+    "tags": [
+      "ITEM_DATA",
+      "ULTIMATE_ORB",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "SCALING",
+      "SURVIVAL",
+      "DEFENSIVE",
+      "DURABILITY",
+      "MANA_POOL",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Ultimate Orb, Cost: 2800: A core luxury component for heroes building into high-end utility and disable items like Scythe of Vyse (Hex) or Eye of Skadi (slow). It is most effective on heroes who benefit significantly from all three attributes, such as universal heroes, agility carries who also cast spells, or intelligence cores who need extra health. Timing is late-game, after core items.",
+    "search_text": "luxury component, upgrade item, Eye of Skadi build, Scythe of Vyse build, Shiva's Guard build, universal hero item, hybrid hero, late game scaling, late game stats, Ultimate Orb, carry late game, caster late game, stat scaling",
+    "tags": [
+      "ITEM_DATA",
+      "ULTIMATE_ORB",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "UPGRADE",
+      "LUXURY_ITEM",
+      "CARRY_ITEM",
+      "CORE_ITEM",
+      "UNIVERSAL_HERO"
+    ]
+  }
+]

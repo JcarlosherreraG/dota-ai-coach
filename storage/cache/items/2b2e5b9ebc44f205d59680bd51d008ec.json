@@ -1,0 +1,20 @@
+[
+  {
+    "display_text": "Cost: 0 (Non-purchasable): Manacles of Power is a neutral item Tier 3. Its active ability tethers an enemy hero for up to 4 seconds, rooting them if they move beyond 300 units and granting the user bonus Strength. The bonus increases with each hero kill while active, enabling high risk/reward initiations. Stats: CD: 20s, Duration: 4s, Root Range: 300, Base Strength: +30.",
+    "search_text": "manacles of power, tether item, leash item, root item, neutral item, tier 3 neutral, strength gain, bonus strength, kill reward, high risk initiation, catch tool, lockdown tool, temporary strength, scaling strength, disable item, disable, root, neutral drop, Manacles of Power",
+    "tags": [
+      "ITEM_DATA",
+      "MANACLES_OF_POWER",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "LOCKDOWN",
+      "DISABLE",
+      "ROOT",
+      "CATCH",
+      "INITIATION",
+      "SCALING",
+      "STRENGTH"
+    ]
+  }
+]

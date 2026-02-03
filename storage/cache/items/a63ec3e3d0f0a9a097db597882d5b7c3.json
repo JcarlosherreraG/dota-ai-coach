@@ -1,0 +1,74 @@
+[
+  {
+    "display_text": "Crimson Guard, Cost: 3725: Active ability, Guard, grants nearby allied heroes and buildings a strong, temporary 100% chance to block incoming physical attack damage based on your max health. Radius: 1200. Passive provides standard chance-based damage block against attacks. Stats: CD: 40s, Mana: 75, Active Duration: 7s, Active Block: 70 + 2.2% Max HP, Passive Block Chance: 60%.",
+    "search_text": "team physical defense item, AoE damage block, active damage block, protect team, anti physical damage, team save, aura item, tank item, physical damage reduction, team fight aura, Crimson Guard",
+    "tags": [
+      "ITEM_DATA",
+      "CRIMSON_GUARD",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "TEAM_BUFF",
+      "AURA",
+      "VS_PHYSICAL",
+      "DAMAGE_BLOCK"
+    ]
+  },
+  {
+    "display_text": "Crimson Guard, Cost: 3725: Stat Profile: Provides substantial survivability with +250 Health, +12 Health Regeneration, and +8 Armor. This combination makes the holder significantly more resilient against sustained physical damage and improves lane/jungle sustain.",
+    "search_text": "crimson guard stats, health regen, armor item, tank stats, hp regen item, durability stats, Crimson Guard",
+    "tags": [
+      "ITEM_DATA",
+      "CRIMSON_GUARD",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "HEALTH_REGEN",
+      "ARMOR",
+      "SURVIVAL",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Crimson Guard, Cost: 3725: Primary team fight role as a defensive aura item. The active ability provides a powerful, AoE defensive buff during pushes or when grouped, significantly reducing incoming physical damage to your entire team. Perfect for turning the tide in early to mid-game team fights.",
+    "search_text": "team fight aura item, AoE defensive, team physical shield, protect team fight, group fight defense, tank aura, save team mates, team damage block, Crimson Guard",
+    "tags": [
+      "ITEM_DATA",
+      "CRIMSON_GUARD",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "TEAM_BUFF",
+      "AURA",
+      "DEFENSIVE",
+      "SAVE"
+    ]
+  },
+  {
+    "display_text": "Crimson Guard, Cost: 3725: Situational versus high physical damage team compositions. It excels against lineups relying on right-click attacks, illusion heroes, and summons. The AoE active shield can nullify a large portion of their damage output, making team fights much harder for them to win.",
+    "search_text": "counter physical damage, anti carry item, anti illusion item, counter summons, counter right click, physical damage counter, crimson guard physical defense, Crimson Guard",
+    "tags": [
+      "ITEM_DATA",
+      "CRIMSON_GUARD",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "VS_ILLUSIONS",
+      "VS_SUMMONS"
+    ]
+  },
+  {
+    "display_text": "Crimson Guard, Cost: 3725: Synergizes with high-health Strength heroes who naturally build Vanguard. It upgrades the single-target block into a team-wide defensive cooldown, turning the holder into a frontline anchor for their team. Excellent on initiators or offlaners who engage first and need to survive.",
+    "search_text": "crimson guard synergy, strength hero item, vanguard upgrade, tank initiator, offlane item, frontline item, team protector, Crimson Guard",
+    "tags": [
+      "ITEM_DATA",
+      "CRIMSON_GUARD",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "INITIATION",
+      "TANK",
+      "STRENGTH_HERO"
+    ]
+  }
+]

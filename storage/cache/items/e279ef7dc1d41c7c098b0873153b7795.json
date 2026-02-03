@@ -1,0 +1,83 @@
+[
+  {
+    "display_text": "Specialist's Array, Cost: 2650: Provides a 25% chance on ranged attack to fire two extra projectiles at nearby secondary targets, each dealing 75% of the original attack damage. The bonus projectiles target enemies within 225 bonus range and a 120-degree cone in front of the attacker, but do not apply on-hit effects. Stats: Bonus Agility: +10, Bonus Damage: +18.",
+    "search_text": "ranged attack item, multi-hit item, extra projectile item, Crackshot, ranged carry item, ricochet attacks, secondary attacks, 25% chance, extra hits, split shots, multi-target, range extension, Specialist's Array",
+    "tags": [
+      "ITEM_DATA",
+      "SPECIALISTS_ARRAY",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "PHYSICAL_DAMAGE",
+      "MULTI_TARGET",
+      "DAMAGE",
+      "AGILITY"
+    ]
+  },
+  {
+    "display_text": "Specialist's Array, Cost: 2650: Primary stat profile provides +10 Agility and +18 Damage, enhancing right-click output for agility heroes. The extra projectiles offer area-of-effect physical damage without triggering on-hit effects like crit or lifesteal. Stats: Damage: +18, Agility: +10, All Attributes: +0.",
+    "search_text": "stats, agility item, damage item, carry stats, agility carry, attack damage, attribute bonus, right click damage, Specialist's Array",
+    "tags": [
+      "ITEM_DATA",
+      "SPECIALISTS_ARRAY",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "AGILITY",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Specialist's Array, Cost: 2650: Functions as a teamfight and push accelerator by adding multi-target physical damage to ranged attacks. The 120-degree cone helps clear waves and damage clumped heroes, though secondary hits deal reduced damage and lack on-hit effects. This provides superior sustained area damage compared to single-target items. Stats: Secondary Damage: 75%, Secondary Angle: 120°, Proc Chance: 25%.",
+    "search_text": "team fight item, wave clear item, AoE damage, farming item, push item, multi-target attacks, hero clump damage, wave clear damage, Specialist's Array",
+    "tags": [
+      "ITEM_DATA",
+      "SPECIALISTS_ARRAY",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AOE_DAMAGE",
+      "FARMING",
+      "WAVECLEAR",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Specialist's Array, Cost: 2650: Situational versus teams with multiple durable frontliners or grouped heroes where the extra projectiles can consistently hit secondary targets. Less effective against highly mobile, spread-out teams where the narrow 120-degree cone is hard to utilize. The item excels at accelerating farm by hitting multiple creeps per attack. Stats: Secondary Target Bonus Range: 225.",
+    "search_text": "versus tanky teams, versus grouped heroes, frontliner item, multi-hero damage, spread out teams counter, farming acceleration, creep clear, Specialist's Array",
+    "tags": [
+      "ITEM_DATA",
+      "SPECIALISTS_ARRAY",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "FARMING_UTILITY"
+    ]
+  },
+  {
+    "display_text": "Specialist's Array, Cost: 2650: Excellent synergy for agility-based ranged heroes with high base attack speed or damage, such as Drow Ranger, Sniper, or Lina. The proc chance makes it unreliable for burst but valuable for sustained DPS. Builds from Blade of Alacrity and Broadsword, making it a mid-game damage and agility spike. Stats: Cost: 2650.",
+    "search_text": "ranged hero synergy, agility hero item, attack speed synergy, mid game item, Drow Ranger item, Sniper item, Lina item, carry build, Specialist's Array",
+    "tags": [
+      "ITEM_DATA",
+      "SPECIALISTS_ARRAY",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "AGILITY",
+      "DAMAGE",
+      "CARRY_ITEM",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Specialist's Array, Cost: 2650: Significantly accelerates farming and lane pushing for ranged heroes, allowing a single attack to damage multiple creeps simultaneously. The 225 bonus range on secondary targets helps clear stacked camps and waves faster than standard single-target attacks, improving gold and experience gain. Stats: Proc Chance: 25%, Secondary Range Bonus: 225.",
+    "search_text": "farming item, wave clear item, jungle item, push item, creep clear, gold acceleration, lane push, farm speed, Specialist's Array",
+    "tags": [
+      "ITEM_DATA",
+      "SPECIALISTS_ARRAY",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "PUSH",
+      "GOLD_EFFICIENCY"
+    ]
+  }
+]

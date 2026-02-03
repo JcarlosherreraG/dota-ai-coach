@@ -1,0 +1,93 @@
+[
+  {
+    "display_text": "Helm of the Overlord, Cost: 5650: Upgrade from Helm of the Dominator that can permanently dominate one enemy or neutral unit. Grants the dominated target increased movement speed, max health, attack damage, health/mana regen, armor, and improves its abilities. Grants you gold/XP when it kills units. The spell is disabled for 3 seconds after the creep takes hero/Roshan damage. Selling the item kills the creep. Stats: CD: 45s, Mana Cost: 50, Dominated Creep Gold Bounty: 250.",
+    "search_text": "helm of the overlord, dominate creep item, summon control, permanent creep, dominated creep, build army, creep army, pet item, aura creep, Helm of the Dominator upgrade, creep domination, control creep, summon item, lone druid item, micro item, pushing item, farm acceleration, extra unit, zoo item, dominate, overlord",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_OVERLORD",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "SUMMON",
+      "CONTROL",
+      "MICRO_MANAGEMENT",
+      "PUSHING",
+      "FARMING_UTILITY",
+      "AURA",
+      "UPGRADE",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Helm of the Overlord, Cost: 5650: Provides the carrier with a significant boost to all-around stats: +21 to all attributes and +7 armor, making it a solid survivability option. The main power comes from the permanent creep control, not the personal stats. Stats: Attributes: +21, Armor: +7.",
+    "search_text": "helm of the overlord stats, overlord attributes, overlord armor, helm dominator stats, universal stats, all stats item, tank item, survivability item, helm overlord build, Helm of the Overlord",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_OVERLORD",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "ATTRIBUTES",
+      "ARMOR",
+      "SURVIVAL",
+      "HEALTH",
+      "MANA",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Helm of the Overlord, Cost: 5650: Core for heroes who benefit from extra controlled units or micro-management, like Lycan, Beastmaster, or Enchantress. Excellent for high-ground sieging by dominating a strong lane creep aura carrier (like Hellbear Smasher). Also used for jungle farm acceleration by stacking ancients with a dominated creep.",
+    "search_text": "helm overlord synergy, helm overlord hero, micro heroes, lycan item, beastmaster item, enchantress item, zoo strategy, pushing strategy, ancient stacking, farm stack, micro management, siege item, high ground push, aura creep stacking, Helm of the Overlord",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_OVERLORD",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "PUSHING",
+      "FARMING_UTILITY",
+      "SUMMON",
+      "MICRO_MANAGEMENT",
+      "ZOO_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Helm of the Overlord, Cost: 5650: Primary function is for map pressure, split-pushing, and creating a front-line unit. The dominated creep with buffed stats and aura (e.g., Alpha Wolf crit aura) provides team-wide benefits in fights. The item enables a pseudo-6th hero that can scout, stack, and tank tower hits.",
+    "search_text": "helm overlord team fight, front line creep, aura carrier, team buff aura, alpha wolf aura, siege creep, tank tower, split push, map pressure, scouting, extra hero, pseudo hero, team fight utility, Helm of the Overlord",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_OVERLORD",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "AURA",
+      "BUFF",
+      "PUSHING",
+      "VISION",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Helm of the Overlord, Cost: 5650: Farming utility item; dominated creeps can jungle and stack camps, accelerating your team's net worth. Can also secure safe farm by sending the creep to dangerous lanes. Provides constant gold and experience from the creep's kills, paying for itself over time.",
+    "search_text": "helm overlord farming, jungle stacking, camp stacking, ancient stacking, farm acceleration, gold income, experience income, passive farm, safe farm, creep farming, jungle item, farm item, Helm of the Overlord",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_OVERLORD",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "GOLD_INCOME",
+      "EXPERIENCE",
+      "JUNGLE",
+      "FARM"
+    ]
+  },
+  {
+    "display_text": "Helm of the Overlord, Cost: 5650: Vulnerable to enemies who can quickly burst the dominated creep, especially heroes with cleave or anti-summon abilities. Becomes less effective if the team lacks coordination to protect the valuable creep. The 3-second disable after taking hero damage creates windows of vulnerability for the dominated unit.",
+    "search_text": "helm overlord counter, counter overlord, kill dominated creep, burst creep, anti-summon, cleave vs summons, axe counter, earthshaker counter, kill pet, counter zoo, burst damage vs creeps, Helm of the Overlord",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_OVERLORD",
+      "FULL_ITEM",
+      "SITUATIONAL_USAGE",
+      "VS_SUMMONS",
+      "VULNERABILITY",
+      "COUNTER"
+    ]
+  }
+]

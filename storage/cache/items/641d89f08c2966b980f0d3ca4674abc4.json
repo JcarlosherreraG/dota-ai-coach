@@ -1,0 +1,75 @@
+[
+  {
+    "display_text": "Cost: 5100: Dagon 3 is an upgradable intelligence burst damage item that deals 400 magic damage to a targeted enemy and heals the caster for 75% of the damage dealt. Instantly kills illusions. High mana cost and long cooldown for a single-target nuke. Stats: CD: 27s, Mana: 120, Damage: 400, Heal: 75% of damage, Illusion Instakill.",
+    "search_text": "magic burst item, nuke item, single target damage, int nuke, magic damage, kill illusions, burst heal, spell lifesteal, dagon, dagon nuke, energy burst, int item, magic damage item, single target nuke, Dagon 3, Dagon",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON_3",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MAGICAL_DAMAGE",
+      "SINGLE_TARGET",
+      "BURST_DAMAGE",
+      "SPELL_LIFESTEAL",
+      "VS_ILLUSIONS",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Cost: 5100: Provides balanced attribute bonuses of 7 Strength, 7 Agility, and 7 Intelligence. The item's primary value is from its powerful active ability, not its raw stat profile.",
+    "search_text": "dagon stats, stats item, attribute item, balanced stats, strength, agility, intelligence, Dagon 3",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON_3",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE"
+    ]
+  },
+  {
+    "display_text": "Cost: 5100: Acts as a finisher in team fights, providing instant magic burst to secure kills on low-health targets. The significant spell lifesteal offers sustain during engagements. Particularly effective against intelligence cores who rely on illusions for survivability.",
+    "search_text": "team fight finisher, secure kill, burst kill, magic finisher, sustain in fight, spell lifesteal sustain, anti illusion, illusion counter, Dagon 3",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON_3",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "BURST_DAMAGE",
+      "FINISHER",
+      "SURVIVAL",
+      "SPELL_LIFESTEAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Cost: 5100: Situational pick against heroes who create numerous illusions, as Dagon instantly destroys them. Also counters heroes with low magic resistance but high physical bulk. Less effective against BKB or magic-immunity heavy lineups, as the damage is magical.",
+    "search_text": "vs illusions, vs summons, counter illusions, burst illusions, magic damage vs illusions, anti phantom lancer, anti naga siren, magic immunity counter, vs bkb, Dagon 3",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON_3",
+      "SITUATIONAL_VS_ILLUSIONS",
+      "FULL_ITEM",
+      "VS_ILLUSIONS",
+      "VS_SUMMONS",
+      "MAGICAL_DAMAGE",
+      "VS_MAGIC_IMMUNE"
+    ]
+  },
+  {
+    "display_text": "Cost: 5100: Core synergy for high-intelligence heroes like Tinker, Puck, or Pugna to amplify their burst damage and provide healing. The spell lifesteal synergizes with other magic damage items. The upgrade mechanic allows it to scale into the late game.",
+    "search_text": "dagon synergy, int hero item, intelligence core, nuker item, magic damage build, scaling nuke, upgradable, dagon upgrade, spell lifesteal build, Dagon 3",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON_3",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "NUKER_ITEM",
+      "SPELL_LIFESTEAL",
+      "UPGRADE",
+      "SCALING"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "display_text": "Magic Stick, Cost: 200: Stores a charge each time an enemy within 1200 range casts a spell. Can hold up to 10 charges. Active: Instantly restores 15 health and 15 mana for each stored charge. A valuable reactive sustain tool for surviving bursts of enemy spell damage. Stats: Max Charges: 10, CD: 17s, Charge Radius: 1200.",
+    "search_text": "magic stick, instant heal item, burst sustain, reactive heal, mana restore, health restore, enemy spell counter, lane sustain, early game item, cheap heal, magic stick, stick, dispelable heal, magic stick charges, cheap regen, cost-efficient heal, charge item, Magic Stick",
+    "tags": [
+      "ITEM_DATA",
+      "MAGIC_STICK",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SUSTAIN",
+      "REGEN",
+      "HEALTH",
+      "MANA",
+      "REACTIVE",
+      "DEFENSIVE",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Magic Stick, Cost: 200: Provides no permanent attribute bonuses. Its power comes entirely from its reactive healing ability based on enemy spell casts.",
+    "search_text": "magic stick stats, stick stats, no stats item, pure utility, reactive item stats, Magic Stick",
+    "tags": [
+      "ITEM_DATA",
+      "MAGIC_STICK",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Magic Stick, Cost: 200: Key defensive tool against high-spell-damage lineups. Builds charges automatically during frequent spellcasting from both allies and enemies. Using it at full charges provides 150 instant HP and mana, turning around trades or escapes. Crucial for surviving lanes with aggressive spell harass.",
+    "search_text": "magic stick vs spells, spell damage counter, burst damage sustain, trading sustain, laning item, harass counter, lane defense, survive burst, reactive survival, Magic Stick",
+    "tags": [
+      "ITEM_DATA",
+      "MAGIC_STICK",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "Magic Stick, Cost: 200: Core early purchase for heroes susceptible to magic burst (like supports or offlaners). Extremely cost-effective when facing heroes with low-cooldown spells (e.g., Bristleback, Skywrath Mage). Builds into Magic Wand and Holy Locket for enhanced utility.",
+    "search_text": "magic stick build, magic wand component, holy locket component, support item, offlane item, vs bristleback, vs skywrath, spell spam, Magic Stick",
+    "tags": [
+      "ITEM_DATA",
+      "MAGIC_STICK",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "UPGRADE",
+      "VS_SPAM"
+    ]
+  }
+]

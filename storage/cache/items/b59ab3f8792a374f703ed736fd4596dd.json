@@ -1,0 +1,46 @@
+[
+  {
+    "display_text": "Smoke of Deceit, Cost: 50: Grants temporary invisibility and movement speed bonus to the user and nearby allies, providing immunity to True Sight. Essential for setting up ganks and moving undetected across the map without being revealed by detection. Breaking proximity to enemy heroes or towers removes the effect. Stats: CD: 1s, Duration: 45s, Charges: 1.",
+    "search_text": "smoke of deceit, smoke, invisibility item, team invis, gank setup, roam undetected, true sight immunity, initation tool, vision control, invis detection counter, team movement, avoid wards, repositioning, map movement, engage tool, initiation, Roshan, Smoke",
+    "tags": [
+      "ITEM_DATA",
+      "SMOKE_OF_DECIET",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "VISION",
+      "MOBILITY",
+      "INITIATION",
+      "VS_INVIS",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Smoke of Deceit, Cost: 50: Critical early-game item for supports and gankers to coordinate surprise attacks and rotations without being seen on the enemy minimap, establishing map control and creating pickoff opportunities. The shared movement speed buff facilitates quick group movements. Stats: Charges: 1, MS Bonus: 15%, Radius: 1200.",
+    "search_text": "smoke early game, support smoke, gank smoke, rotation tool, map control, pickoff, surprise attack, early roam, coordinate gank, team gank, vision denial, laning phase, movement speed buff, group movement, Smoke of Deceit",
+    "tags": [
+      "ITEM_DATA",
+      "SMOKE_OF_DECIET",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "SUPPORT_ITEM",
+      "VISION",
+      "INITIATION",
+      "MAP_CONTROL"
+    ]
+  },
+  {
+    "display_text": "Smoke of Deceit, Cost: 50: Use to secure Roshan attempts or to bypass enemy vision when grouped for a high-ground siege. Also effective for escaping dangerous areas by breaking line of sight and gaining invisibility. Since it's immune to True Sight, it counters enemy detection efforts like Sentry Wards or Gem. Stats: Duration: 45s, Secondary Radius: 300.",
+    "search_text": "smoke roshan, smoke high ground, siege smoke, escape smoke, avoid detection, counter sentry, counter gem, true sight counter, safe reposition, disengage, break vision, reposition tool, group escape, Smoke of Deceit",
+    "tags": [
+      "ITEM_DATA",
+      "SMOKE_OF_DECIET",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "UTILITY",
+      "ESCAPE",
+      "VS_INVIS",
+      "ROSHAN",
+      "SITUATIONAL_USAGE"
+    ]
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "display_text": "Clockwerk is a Melee strength hero. He has a base strength of 26, agility of 13, and intelligence of 18. His base attack time is 1.7 seconds, which is average. His melee range and low base agility (low armor) mean he must close distance carefully in lane.",
+    "search_text": "Clockwerk Rattletrap stats melee strength base str 26 agi 13 int 18 attack rate 1.7",
+    "tags": [
+      "CLOCKWERK",
+      "BASE_STATS",
+      "MELEE",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Clockwerk's Facet choice depends on his role. 'Hookup' (Rattletrap Hookup) provides bonus armor and cooldown/manacost refund for Hookshot if an ally is near the target, enhancing teamfight initiation and survivability. 'Expanded Armature' (Rattletrap Expanded Armature) makes Power Cogs form in a larger radius, making it more reliable for trapping and zoning enemies. 'Chainmeal' (Rattletrap Junk Mail) allows Clockwerk to permanently gain armor by consuming Chainmails, scaling his passive damage and tankiness in a core/greedy role.",
+    "search_text": "Clockwerk facets Hookup ally armor cooldown refund Expanded Armature Power Cogs larger radius Chainmeal consume Chainmail permanent armor",
+    "tags": [
+      "CLOCKWERK",
+      "FACET_STRATEGY",
+      "FACETS"
+    ]
+  },
+  {
+    "display_text": "In lane, use Battery Assault to harass and secure last hits, as it deals 20/45/70/95 damage per tick with a 0.7-second interval and a 275 radius. It's your primary trading tool. Skill Rocket Flare at level 2 or 4 for vision and global harass or last hits (80/120/160/200 damage). Use Power Cogs carefully to trap enemies for kills or to block their path. Your low armor makes you vulnerable to physical harass, so prioritize stats and regen items.",
+    "search_text": "Clockwerk laning Battery Assault harass 20 45 70 95 damage interval 0.7 Rocket Flare vision 80 120 160 200 damage Power Cogs trap low armor",
+    "tags": [
+      "CLOCKWERK",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Power spikes: Level 6 with Hookshot for long-range initiation (75/175/275 damage, 1.2/1.4/1.6s stun). Level 12 with maxed Rocket Flare and level 2 Hookshot. Level 18 with max Hookshot. Talents are major spikes: Level 15 (+75 Hookshot Damage), Level 20 (+2 Power Cogs Hits To Kill or Rocket Flare True Sight), Level 25 (-0.25s Battery Assault Interval or Debuff Immunity Inside Power Cogs). Key item timings are Blink Dagger for instant initiation and Aghanim's Scepter for Overclocking/Jetpack.",
+    "search_text": "Clockwerk power spikes level 6 Hookshot 75 175 275 damage stun 1.2 1.4 1.6 level 12 18 talents 15 20 25 Blink Dagger Aghanim's Scepter",
+    "tags": [
+      "CLOCKWERK",
+      "POWER_SPIKES",
+      "TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Clockwerk is hard countered by heroes with strong dispels (like Oracle, Legion Commander) that can remove Battery Assault. Heroes who can destroy Power Cogs quickly from range (like Sniper, Drow Ranger) negate his control. Instant disables (like Lion Hex, Shadow Shaman Shackles) prevent him from using Hookshot or Power Cogs after initiation. Heroes with high mobility can dodge Hookshot.",
+    "search_text": "Clockwerk counters dispel Battery Assault destroy Power Cogs range Sniper Drow instant disable Lion Hex Shadow Shaman Shackles dodge Hookshot",
+    "tags": [
+      "CLOCKWERK",
+      "HARD_COUNTERS",
+      "COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items for Clockwerk are Blink Dagger, allowing for reliable Hookshot initiation. Aghanim's Scepter is essential, granting the Overclocking ability which massively enhances all his skills and provides Jetpack for flying movement. Blade Mail is a classic choice to punish enemies trapped inside Power Cogs, as they are forced to attack you.",
+    "search_text": "Clockwerk core build Blink Dagger initiation Aghanim's Scepter Overclocking Jetpack Blade Mail Power Cogs",
+    "tags": [
+      "CLOCKWERK",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Clockwerk's role is to initiate with Hookshot onto a key target, stunning them and nearby enemies. Immediately cast Battery Assault and Power Cogs to trap the target, dealing damage and burning mana. Use Rocket Flare for vision and damage from range. With Aghanim's Scepter, use Overclocking to significantly increase your impact, then Jetpack to reposition or chase. Your goal is to disrupt the enemy formation and lock down a single hero.",
+    "search_text": "Clockwerk teamfight role initiator Hookshot stun Battery Assault Power Cogs trap mana burn Rocket Flare vision Overclocking Aghanim Scepter Jetpack disrupt",
+    "tags": [
+      "CLOCKWERK",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Battery Assault: Discharges shrapnel at random nearby enemies in a 275 radius every 0.7 seconds for 10.5 seconds. Each hit deals 20/45/70/95 magical damage and ministuns. The ability remains active even if Clockwerk is disabled. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Clockwerk ability Q Battery Assault damage 20 45 70 95 magical interval 0.7 duration 10.5 radius 275 ministun persists while disabled",
+    "tags": [
+      "CLOCKWERK",
+      "ABILITY_DATA",
+      "BATTERY_ASSAULT",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "Power Cogs: Creates a ring of cogs with a 215 radius, lasting 5/6/7/8 seconds. Enemies that touch a cog from outside are knocked back 300 units over 0.8 seconds, losing 35/70/105/140 mana and taking 50/125/200/275 damage plus 50% of the mana burned as extra damage. Cogs can be destroyed by 2 enemy attacks. Clockwerk can hit a cog to push it up to 1000 distance away. Cogs can shock invisible units.",
+    "search_text": "Clockwerk ability W Power Cogs radius 215 duration 5 6 7 8 knockback 300 mana burn 35 70 105 140 damage 50 125 200 275 hits to destroy 2 push 1000 invisible",
+    "tags": [
+      "CLOCKWERK",
+      "ABILITY_DATA",
+      "POWER_COGS",
+      "W"
+    ]
+  },
+  {
+    "display_text": "Rocket Flare: Fires a flare globally that explodes in a 600 radius after traveling at 2250 speed. Deals 80/120/160/200 magical damage and slows enemies by 100% for 0.4 seconds. Provides vision over the area for 6.0 seconds. Cooldown is 20/18/16/14 seconds.",
+    "search_text": "Clockwerk ability E Rocket Flare global damage 80 120 160 200 radius 600 speed 2250 slow 100% 0.4s vision 6 seconds cooldown 20 18 16 14",
+    "tags": [
+      "CLOCKWERK",
+      "ABILITY_DATA",
+      "ROCKET_FLARE",
+      "E"
+    ]
+  },
+  {
+    "display_text": "Hookshot: Fires a grappling hook at a target location at 4000/5000/6000 speed. If it hits an enemy, Clockwerk launches to them, dealing 75/175/275 damage and stunning for 1.2/1.4/1.6 seconds to all enemies in a 175 radius around the target. Enemies collided with along the path are also damaged and stunned. Can latch to allies without damaging or stunning them. Cooldown and manacost not specified in provided attributes.",
+    "search_text": "Clockwerk ability R Hookshot ultimate speed 4000 5000 6000 damage 75 175 275 stun 1.2 1.4 1.6 radius 175 latch ally",
+    "tags": [
+      "CLOCKWERK",
+      "ABILITY_DATA",
+      "HOOKSHOT",
+      "R",
+      "ULTIMATE"
+    ]
+  },
+  {
+    "display_text": "Overclocking: Aghanim's Scepter upgrade. Supercharges all abilities for 13 seconds. Effects: Battery Assault affects all enemies in range; Attack speed in Power Cogs increased by 250; Rocket Flare cooldown reduced (not specified, talent gives 3.5s) and fires 2 extra rockets; Hookshot stun radius and duration increased by 50%; Jetpack gains 40 bonus speed. After duration, Clockwerk's movement and attack speed are severely slowed.",
+    "search_text": "Clockwerk Aghanim Scepter Overclocking duration 13 Battery Assault all enemies Power Cogs attack speed 250 Rocket Flare extra rockets Hookshot radius duration 50% Jetpack speed 40 slow after",
+    "tags": [
+      "CLOCKWERK",
+      "ABILITY_DATA",
+      "OVERCLOCKING",
+      "AGHANIMS_SCEPTER"
+    ]
+  },
+  {
+    "display_text": "Jetpack: Toggle ability from Overclocking. Grants flying movement, flying vision, and 20 bonus movement speed for 6 seconds (or duration of Overclocking buff). Turn rate is limited to 75 and Clockwerk cannot attack. Can be toggled on and off during the buff duration.",
+    "search_text": "Clockwerk Jetpack flying movement vision bonus speed 20 duration 6 turn rate 75 cannot attack toggle Overclocking",
+    "tags": [
+      "CLOCKWERK",
+      "ABILITY_DATA",
+      "JETPACK",
+      "TOGGLE"
+    ]
+  },
+  {
+    "display_text": "Armor Power: Clockwerk's passive. Increases his outgoing damage by 0.25% per point of armor. This synergizes with items and facets that grant armor, like Chainmeal.",
+    "search_text": "Clockwerk passive Armor Power damage increase 0.25% per armor",
+    "tags": [
+      "CLOCKWERK",
+      "ABILITY_DATA",
+      "ARMOR_POWER",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing as a Position 3/Offlane Clockwerk. Your job is to initiate and create space. Build Blink Dagger, Blade Mail, and Aghanim's Scepter. Use Hookshot to pick off supports or catch carries out of position. Focus on controlling the enemy backline in fights.",
+    "search_text": "Clockwerk scenario offlane position 3 initiator space creator Blink Blade Mail Aghanim pickoff control backline",
+    "tags": [
+      "CLOCKWERK",
+      "SITUATIONAL",
+      "OFFLANE",
+      "POSITION_3"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind as Clockwerk. You cannot initiate safely. Use Rocket Flare for safe wave clear and vision. Build utility items like Force Staff, Lotus Orb, or Pipe of Insight to save allies. Use Hookshot defensively to stun divers on your cores.",
+    "search_text": "Clockwerk scenario behind defensive Rocket Flare wave clear vision utility Force Staff Lotus Orb Pipe save Hookshot defensive stun",
+    "tags": [
+      "CLOCKWERK",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against illusion or summon-based heroes (e.g., Phantom Lancer, Broodmother). Battery Assault hits random targets, making it unreliable. Prioritize Aghanim's Scepter for Overclocking, which makes Battery Assault hit all enemies in its radius. Build Shiva's Guard or Mjollnir for AOE clear.",
+    "search_text": "Clockwerk scenario vs illusions summons Phantom Lancer Broodmother Battery Assault random Aghanim Overclocking hits all Shiva Guard Mjollnir AOE",
+    "tags": [
+      "CLOCKWERK",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "VS_SUMMONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: With the 'Chainmeal' Facet. You are aiming to scale as a durable core. Consume Chainmails early to start stacking armor, which increases your damage via Armor Power. Build items like Assault Cuirass, Shiva's Guard, and Heart of Tarrasque to become an unkillable frontline tank.",
+    "search_text": "Clockwerk scenario Chainmeal facet scale core consume Chainmail armor stack damage Armor Power Assault Cuirass Shiva Guard Heart tank",
+    "tags": [
+      "CLOCKWERK",
+      "SITUATIONAL",
+      "CHAINMEAL",
+      "SCALING"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is +0.4s Rocket Flare Slow Duration (increasing slow from 0.4s to 0.8s). Right choice is +75 Hookshot Damage. Choose the slow if your team lacks catch and you need more utility from your global skill. Choose the Hookshot damage if you are actively getting pickoffs and need more burst on your initiation.",
+    "search_text": "Clockwerk talent level 10 left +0.4s Rocket Flare slow duration right +75 Hookshot damage pick slow utility pick damage burst initiation",
+    "tags": [
+      "CLOCKWERK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is +2 Power Cogs Hits To Kill (increasing from 2 to 4 hits). Right choice is +24 Battery Assault Damage (increasing damage per tick). Choose the Power Cogs talent against enemies who rely on right-clicks to break cogs quickly (e.g., Sniper, Drow). Choose the Battery Assault damage for more consistent AOE damage in fights, especially with Aghanim's Overclocking.",
+    "search_text": "Clockwerk talent level 15 left +2 Power Cogs hits to kill 4 right +24 Battery Assault damage pick cogs vs right-clickers pick damage AOE",
+    "tags": [
+      "CLOCKWERK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is Rocket Flare True Sight. Right choice is +70 Power Cogs Mana Burn (increasing burn from 105/140 to 175/210). Choose True Sight against heroes with invisibility (Riki, Clinkz, Shadow Blade users) to reveal them globally. Choose the mana burn against mana-dependent heroes (Medusa, Storm Spirit, Wraith King) to cripple them inside your cogs.",
+    "search_text": "Clockwerk talent level 20 left Rocket Flare True Sight invisibility right +70 Power Cogs mana burn 175 210 pick vs invis pick vs mana dependent",
+    "tags": [
+      "CLOCKWERK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is -0.25s Battery Assault Interval (reducing interval from 0.7s to 0.45s). Right choice is Debuff Immunity Inside Power Cogs (also provides 50% magic resistance). Choose the interval for massive, near-permanent ministun lockdown and DPS, especially powerful with Overclocking. Choose the Debuff Immunity to become a BKB-like tank inside your cogs, making you immune to disables while you deal damage.",
+    "search_text": "Clockwerk talent level 25 left -0.25s Battery Assault interval 0.45s right Debuff Immunity Inside Power Cogs 50% magic resist pick DPS lockdown pick survivability BKB",
+    "tags": [
+      "CLOCKWERK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

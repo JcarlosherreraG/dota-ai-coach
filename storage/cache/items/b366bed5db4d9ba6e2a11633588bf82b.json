@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Wizard's Glass, Cost: 0: Neutral item that casts 2 Arcane Bolts upon activation, dealing 125 damage each in a 700 radius. Each bolt reduces target cooldowns by 8 seconds and increases received spell damage by 10%. Instant cast, no target required. Stats: CD: 15s, Damage: 125 per bolt, Radius: 700, Charges: 2.",
+    "search_text": "neutral item, arcane bolt, cooldown reduction, debuff amplifier, spell damage amp, mana neutral, instant cast, team fight neutral, damage neutral, tier neutral, wizard glass, wizard's glass",
+    "tags": [
+      "ITEM_DATA",
+      "WIZARD_GLASS",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "DEBUFF_AMPLIFICATION",
+      "COOLDOWN_REDUCTION",
+      "MAGICAL_DAMAGE",
+      "AOE_DAMAGE",
+      "INSTANT_CAST",
+      "UTILITY"
+    ]
+  }
+]

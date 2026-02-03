@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Pangolier Aghanim's Scepter: Enhances Shield Crash to cast Swashbuckle attacks in four directions. This upgrade counters clustered enemy formations, allowing Pangolier to deal sustained AoE damage and control multiple targets simultaneously while maintaining his mobility.",
+    "search_text": "Pangolier Aghanim Scepter Shield Crash Swashbuckle AoE damage multi-target control mobility",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Pangolier",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Pangolier Aghanim's Shard: Grants Roll Up, providing debuff immunity and magic resistance. This upgrade counters burst magic damage and disables, transforming Pangolier into a durable initiator who can stall fights or disrupt enemy formations with Rolling Thunder follow-ups.",
+    "search_text": "Pangolier Aghanim Shard Roll Up debuff immunity magic resistance anti-burst anti-disable initiator",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Pangolier",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

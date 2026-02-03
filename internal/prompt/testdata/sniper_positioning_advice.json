@@ -1,0 +1,48 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "100000008",
+    "game_time": 1650,
+    "clock_time": 1650,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": true
+  },
+  "player": {
+    "team_name": "Dire",
+    "name": "SniperMaster",
+    "gold": 4200,
+    "kills": 7,
+    "deaths": 4,
+    "assists": 6,
+    "last_hits": 180,
+    "gpm": 490,
+    "xpm": 530
+  },
+  "hero": {
+    "name": "npc_dota_hero_sniper",
+    "level": 17,
+    "health": 1200,
+    "max_health": 1200,
+    "mana": 600,
+    "max_mana": 800,
+    "alive": true,
+    "stunned": false,
+    "silenced": false
+  },
+  "items": {
+    "slot0": { "name": "item_power_treads", "can_cast": false },
+    "slot1": { "name": "item_dragon_lance", "can_cast": false },
+    "slot2": { "name": "item_mask_of_madness", "can_cast": true },
+    "slot3": { "name": "item_maelstrom", "can_cast": false },
+    "slot4": { "name": "item_magic_wand", "charges": 10, "can_cast": true },
+    "slot5": { "name": "item_tpscroll", "charges": 2, "can_cast": true }
+  },
+  "abilities": {
+    "ability0": { "name": "sniper_shrapnel", "level": 4, "can_cast": true, "cooldown": 0 },
+    "ability1": { "name": "sniper_headshot", "level": 4, "can_cast": false },
+    "ability2": { "name": "sniper_take_aim", "level": 4, "can_cast": true },
+    "ability3": { "name": "sniper_assassinate", "level": 2, "can_cast": true, "cooldown": 0, "ultimate": true }
+  },
+  "user_context": "Враги: Clockwerk, Slark, Queen of Pain, Dazzle, Rubick. У Clockwerk Blink + BKB готовы. У Slark Shadow Blade. QoP постоянно прыгает на меня с Ульта.",
+  "user_question": "Как мне позиционироваться в драках, чтобы не умирать первым?"
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Third Eye, Tier N/A: Non-purchasable item providing True Sight vision in a 500 radius around its carrier. Grants +300 bonus vision and +7 to all attributes. Contains 3 charges; loses a charge upon death and is destroyed when all charges are consumed. Provides no active abilities. Stats: +7 All Stats, Bonus Vision: 300, True Sight Radius: 500.",
+    "search_text": "true sight, detection item, vision item, reveals invisible, see wards, bonus vision, detection aura, free detection, charge item, death charges, stats vision, Third Eye",
+    "tags": [
+      "ITEM_DATA",
+      "THIRD_EYE",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "VISION",
+      "DETECTION",
+      "TRUE_SIGHT",
+      "VS_INVIS",
+      "STATS",
+      "BONUS_VISION"
+    ]
+  }
+]

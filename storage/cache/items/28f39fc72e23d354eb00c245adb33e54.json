@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Searing Signet, Tier 2: Neutral item applying Burn passive. Spells dealing over 55 magic damage ignite targets, causing 90 magic damage over 6 seconds. Non-hero targets take 50% reduced burn damage. Burn application cannot occur beyond 2000 range. Stats: Damage Threshold: 55, Burn Damage: 90 over 6s, Creep Penalty: 50%, Max Range: 2000.",
+    "search_text": "searing signet, tier 2 neutral, burn passive, magic damage passive, damage over time, DoT item, spell amp neutral, magic amplification, ignite neutral, caster neutral, spell modifier, damage threshold item, burn through, Searing Signet",
+    "tags": [
+      "ITEM_DATA",
+      "SEARING_SIGNET",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_2",
+      "MAGICAL_DAMAGE",
+      "DOT",
+      "MAGIC_AMPLIFICATION",
+      "SPELL_MODIFIER",
+      "CASTER_ITEM",
+      "DAMAGE_THRESHOLD"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "display_text": "Slippers of Agility, Cost: 140: Basic agility-boosting component item. Provides +3 Agility, offering a small amount of damage and attack speed for agility heroes and contributing to overall Agility-based scaling. Often purchased as a starting item or to build into higher-tier Agility items. Stats: Agility: +3.",
+    "search_text": "slippers of agility, agility item, starting item, agility component, damage item, attack speed component, early game agility, slippers, cheap agility, agility start",
+    "tags": [
+      "ITEM_DATA",
+      "SLIPPERS_OF_AGILITY",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "COMPONENT"
+    ]
+  },
+  {
+    "display_text": "Slippers of Agility, Cost: 140: Provides no active abilities. Its value comes solely from its permanent +3 Agility stat increase.",
+    "search_text": "slippers agility stats, agility stat item, no active slippers, pure stats item, Slippers of Agility",
+    "tags": [
+      "ITEM_DATA",
+      "SLIPPERS_OF_AGILITY",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "DAMAGE",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Slippers of Agility, Cost: 140: Contributes marginally to early-game damage output and armor for Agility-based carries and supports. Commonly used as a cost-effective starting component to mitigate early harass through increased armor.",
+    "search_text": "agility early game, starting agility, early damage, carry starting item, support starting item, armor component, early harass, cheap start, Slippers of Agility",
+    "tags": [
+      "ITEM_DATA",
+      "SLIPPERS_OF_AGILITY",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "EARLY_GAME_USAGE",
+      "CARRY_ITEM",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Slippers of Agility, Cost: 140: Core starting component for heroes prioritizing early last hits and trading. Synergizes with other Agility components to build into powerful early-to-mid game items like Wraith Band or Power Treads (Agility).",
+    "search_text": "slippers build, wraith band component, power treads agility, agility build path, component upgrade, early item build, Slippers of Agility",
+    "tags": [
+      "ITEM_DATA",
+      "SLIPPERS_OF_AGILITY",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "COMPONENT",
+      "UPGRADE"
+    ]
+  }
+]

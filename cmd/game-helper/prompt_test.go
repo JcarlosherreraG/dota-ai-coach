@@ -2,6 +2,8 @@ package main
 
 import (
 	"context"
+	"github.com/BrightGir/game-ai-helper/internal/dota"
+	"github.com/BrightGir/game-ai-helper/internal/state"
 	"sync"
 	"testing"
 	"time"
@@ -9,12 +11,11 @@ import (
 
 type mockAdvisor struct{}
 
-func (m *mockAdvisor) BuildPrompt() string {
-	return "Auto prompt from mock"
-}
-
-func (m *mockAdvisor) BuildPromptWithQuestion(question string) string {
-	return "Answer to: " + question
+func (m *mockAdvisor) Build(ctx context.Context, question string) (string, error) {
+	if question == "" {
+		return "Auto prompt from mock", nil
+	}
+	return "Answer to: " + question, nil
 }
 
 func TestPromptHandler_SilenceLogic(t *testing.T) {
@@ -22,11 +23,18 @@ func TestPromptHandler_SilenceLogic(t *testing.T) {
 	silenceDuration := 30 * time.Millisecond
 
 	mockAdvisor := &mockAdvisor{}
+	store := state.NewStore()
+	
+	testState := &dota.GameState{
+		Hero: dota.Hero{Name: "pudge"},
+	}
+	store.Update(testState)
 
 	app := &App{
-		advisor:        mockAdvisor,
+		promptBuilder:  mockAdvisor,
 		promptChan:     make(chan string, 10),
 		userPromptChan: make(chan string, 10),
+		store:          store,
 	}
 
 	ctx, cancel := context.WithCancel(context.Background())

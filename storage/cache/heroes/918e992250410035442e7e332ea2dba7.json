@@ -1,0 +1,195 @@
+[
+  {
+    "display_text": "Undying is a Melee Strength hero. He has a very high starting Strength of 22, but very low Agility (10) and average Intelligence (27). His base attack time of 1.7 seconds is very slow. This combination makes him naturally tanky from level 1 but his right-click damage and attack speed are poor without items.",
+    "search_text": "Undying base stats Melee Strength hero 22 strength 10 agility 27 intelligence 1.7 attack time slow attack rate",
+    "tags": [
+      "UNDYING",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Undying has two Facets. 'Rotting Mitts': While in Flesh Golem form, attacks spawn a zombie. This significantly increases area control and damage output during your ultimate. 'Ripped': Casting Soul Rip on allies increases their Strength by a percentage of Undying's Strength. This turns Soul Rip into a powerful team buff, amplifying your frontline's durability. Choose Rotting Mitts for a more aggressive, solo-oriented playstyle that creates chaos. Choose Ripped for a more supportive, aura-based playstyle that strengthens your team's cores.",
+    "search_text": "Undying Facets Rotting Mitts Flesh Golem attack spawn zombie Ripped Soul Rip ally increase Strength percentage support aggressive",
+    "tags": [
+      "UNDYING",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Undying's goal is to spam Decay to steal Strength from enemy heroes. At level 1, Decay steals 4 Strength per hero hit, reducing their max HP and damage while making you tankier. Soul Rip at level 2 provides sustain or harassment. Tombstone at level 3 or 4 creates immense kill threat. Use it when enemies are out of position; the 2.8 to 4 second zombie spawn interval and 34 damage per hit will overwhelm them. Your high base Strength allows you to trade aggressively.",
+    "search_text": "Undying laning phase Decay steal Strength Soul Rip heal Tombstone kill threat zombie spawn 2.8 4 second interval 34 damage aggressive trade",
+    "tags": [
+      "UNDYING",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Undying's power spikes are level-based. Level 6 with Flesh Golem provides a 40% Strength increase, 20% movement speed, and a 30% slow/damage amp on attack, making you a major threat. Level 7 with max Decay (4s cooldown, 140 damage, 4 Strength steal) is a key laning spike. Level 20 with the -2s Decay Cooldown talent turns Decay into a 2-second cooldown spell. Level 25 with Tombstone On Death is a massive teamfight and high-ground defense spike. Item spikes like Aghanim's Shard (adds a 40-second buff to Decay) and Eternal Shroud are also critical.",
+    "search_text": "Undying power spikes level 6 Flesh Golem 40% Strength level 7 max Decay level 20 talent -2s Decay cooldown 2 second cd level 25 Tombstone On Death Aghanim Shard 40 second buff",
+    "tags": [
+      "UNDYING",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Undying is hard-countered by heroes and items that can quickly destroy his Tombstone (which has 20-32 hits to kill). Heroes with high attack speed or splash damage (e.g., Windranger, Medusa) ruin his area control. Pure damage and percentage-based damage bypass the effective HP gained from stolen Strength. Break (e.g., from Silver Edge) disables the strength steal from Decay and the bonuses from Flesh Golem. Instant silences or hexes prevent him from casting Tombstone or Soul Rip in a crucial moment.",
+    "search_text": "Undying counters Tombstone destroy high attack speed splash damage Windranger Medusa pure damage percentage damage Break Silver Edge disables Decay Flesh Golem silence hex",
+    "tags": [
+      "UNDYING",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Undying's core build focuses on survivability and utility to enable his spells. Eternal Shroud is essential, converting magic damage taken into mana and providing spell lifesteal to sustain through fights. Guardian Greaves provide needed armor, mana, and a team dispel/heal. Aghanim's Shard is a mandatory upgrade, as it adds a 40-second duration buff to Decay that increases strength steal to 6 per hero and allows it to cast a second, free Decay after a delay, doubling its impact.",
+    "search_text": "Undying core items Eternal Shroud magic damage mana spell lifesteal Guardian Greaves armor dispel heal Aghanim Shard 40 second buff Decay 6 strength steal second cast",
+    "tags": [
+      "UNDYING",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Undying's role is to be an unkillable frontline disruptor and area denier. Initiate by dropping Tombstone in the middle of the enemy team to spawn zombies and split their focus. Use Flesh Golem to become enormous, then walk into the enemy, applying a 30-40% slow and damage amplification with your attacks. Spam Decay every 4-2 seconds to constantly steal Strength, making their cores weaker and yourself tankier. Use Soul Rip to heal a key ally or your Tombstone to keep it alive longer.",
+    "search_text": "Undying teamfight role frontline disruptor area denial Tombstone zombie spawn Flesh Golem slow damage amp Decay spam steal Strength Soul Rip heal ally Tombstone",
+    "tags": [
+      "UNDYING",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Decay (Q). Undying steals 4 Strength from all enemy heroes in a 325 radius, dealing 20/60/100/140 damage. It deals double damage to creeps. The stolen Strength lasts 35 seconds and stacks. The cooldown is 13/10/7/4 seconds. With Aghanim's Shard, it gains a 40-second buff that increases strength steal to 6 and causes a second Decay to be cast at the location after 1.5 seconds. This ability pierces spell immunity (pierces BKB).",
+    "search_text": "Decay Q Undying steal Strength 4 325 radius damage 20 60 100 140 double creep damage 35 second duration 13 10 7 4 cooldown Aghanim Shard 40 second buff 6 strength second cast pierces BKB spell immunity",
+    "tags": [
+      "UNDYING",
+      "ABILITY_DATA",
+      "DECAY",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "Ability: Soul Rip (W). Undying rips health from up to 10 units within 1300 radius, dealing 14/26/38/50 damage per unit to an enemy or healing an ally for the same amount per unit. It can also be cast on Tombstone to heal it for 4/8/12/16 health per unit. It does not rip from invisible or invulnerable enemies, but does rip from spell immune allies. Does NOT pierce BKB on enemies.",
+    "search_text": "Soul Rip W Undying rip health 10 units 1300 radius damage 14 26 38 50 heal ally same amount Tombstone heal 4 8 12 16 per unit not pierce BKB",
+    "tags": [
+      "UNDYING",
+      "ABILITY_DATA",
+      "SOUL_RIP",
+      "W"
+    ]
+  },
+  {
+    "display_text": "Ability: Tombstone (E). Summons a Tombstone with 20/24/28/32 hits to destroy at a target location for 30 seconds. Every 4.0/3.6/3.2/2.8 seconds, a zombie spawns next to each enemy hero within 1200 radius. Zombies deal 34 damage per hit, have Deathlust (slow on hit, gain speed if target is low health), and have 2 health. If the Tombstone is attacked, the attacker is stunned for 2 seconds. Tombstone is spell immune and can be healed by Soul Rip.",
+    "search_text": "Tombstone E Undying summon 20 24 28 32 hits destroy 30 second duration zombie spawn 4.0 3.6 3.2 2.8 second interval 1200 radius 34 damage Deathlust slow 2 health attacker stun 2 seconds spell immune",
+    "tags": [
+      "UNDYING",
+      "ABILITY_DATA",
+      "TOMBSTONE",
+      "E"
+    ]
+  },
+  {
+    "display_text": "Ability: Ceaseless Dirge (Passive). When Undying dies, he respawns at the fountain after a 2-second delay. This ability has a long cooldown and starts the game on cooldown. It cannot be refreshed by buyback or other means. This is a one-time per game effect.",
+    "search_text": "Ceaseless Dirge passive Undying die respawn fountain 2 second delay one time per game long cooldown",
+    "tags": [
+      "UNDYING",
+      "ABILITY_DATA",
+      "CEASELESS_DIRGE",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Flesh Golem (R). Undying transforms for 40 seconds, gaining 40%/50%/60% of his Strength as bonus Strength, 20 movement speed, and causing his attacks to apply a 30%/35%/40% slow and 25%/30%/35% damage amplification for 3 seconds. The cooldown is 140 seconds. Does NOT pierce BKB with its slow/damage amp.",
+    "search_text": "Flesh Golem R Undying ultimate transform 40 seconds 40 50 60 percent Strength bonus 20 movement speed attack slow 30 35 40 damage amp 25 30 35 3 second duration 140 cooldown not pierce BKB",
+    "tags": [
+      "UNDYING",
+      "ABILITY_DATA",
+      "FLESH_GOLEM",
+      "R",
+      "ULT"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor/Physical Damage Teams. Against heroes like Terrorblade or Drow Ranger, your Decay strength steal is less effective at reducing their physical DPS. Prioritize items like Shiva's Guard for armor and attack speed slow. Your Tombstone will die quickly; consider taking the +4 Tombstone Attacks to Destroy talent at level 15 and using Soul Rip to heal it more. Focus on using Flesh Golem's damage amplification to help your team's magic damage dealers.",
+    "search_text": "Undying situational vs high armor physical damage Terrorblade Drow Ranger Shiva Guard armor talent +4 Tombstone attacks destroy Soul Rip heal Flesh Golem damage amp magic damage",
+    "tags": [
+      "UNDYING",
+      "SITUATIONAL",
+      "HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing From Behind. When your team is losing, you cannot frontline effectively. Build cheap survivability items like Mekansm into Guardian Greaves and a Heaven's Halberd. Use Tombstone defensively to protect your towers during sieges. The Tombstone On Death talent at level 25 becomes a crucial high-ground defense tool. Your role shifts to saving allies with Soul Rip and using Decay to slowly sap the enemy carry's strength in skirmishes.",
+    "search_text": "Undying situational playing from behind losing Mekansm Guardian Greaves Heaven Halberd Tombstone defensive tower siege talent Tombstone On Death level 25 high ground defense Soul Rip save Decay sap strength",
+    "tags": [
+      "UNDYING",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: With Aghanim's Shard and -2s Decay Cooldown Talent. At level 20 with the talent and Shard, Decay has a 2-second cooldown and applies a 40-second buff. This allows you to maintain 2-3 stacks of the buff permanently, stealing 6 Strength per cast and triggering the double Decay. You become an extreme strength-draining machine. In fights, spam Decay off cooldown to rapidly deplete enemy strength and become incredibly tanky.",
+    "search_text": "Undying situational Aghanim Shard level 20 talent -2s Decay cooldown 2 second cd 40 second buff 6 strength steal double Decay spam strength drain tanky",
+    "tags": [
+      "UNDYING",
+      "SITUATIONAL",
+      "SHARD_TALENT_SYNERGY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Illusion Heroes. Heroes like Chaos Knight or Phantom Lancer are strong against you because their illusions can quickly destroy your Tombstone (5-8 hits each). They also dilute the impact of Soul Rip, as it rips from a maximum of 10 units. Itemize for area control like Shiva's Guard or consider a Radiance if you are farming well. Use Decay on the real hero when you can identify it to reduce their damage.",
+    "search_text": "Undying situational vs illusion heroes Chaos Knight Phantom Lancer destroy Tombstone Soul Rip max 10 units Shiva Guard Radiance area control Decay real hero",
+    "tags": [
+      "UNDYING",
+      "SITUATIONAL",
+      "ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Facet Choice - Ripped with High Strength Build. If you choose the Ripped Facet, build items that maximize your Strength like Heart of Tarrasque, Overwhelming Blink, and Kaya and Sange. Casting Soul Rip on your carry will grant them a significant portion of your massive Strength pool, effectively turning them into a temporary raid boss. This is optimal when you have a hard-hitting melee core like Sven or Troll Warlord.",
+    "search_text": "Undying situational Facet Ripped build Strength Heart Tarrasque Overwhelming Blink Kaya Sange Soul Rip ally carry grant Strength buff Sven Troll Warlord",
+    "tags": [
+      "UNDYING",
+      "SITUATIONAL",
+      "RIPPED_FACET"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left: +30 Decay Damage. Right: -15s Tombstone Cooldown. Choose +30 Decay Damage if you are the primary source of harassment and want to increase your lane dominance and burst damage in early fights. Choose -15s Tombstone Cooldown if you are facing frequent skirmishes and need Tombstone available more often, or if the enemy team has ways to quickly kill it, allowing you to re-cast it sooner.",
+    "search_text": "Undying talent level 10 left +30 Decay damage right -15s Tombstone cooldown harassment burst vs skirmish availability",
+    "tags": [
+      "UNDYING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left: +20 Zombie Damage. Right: +12 Soul Rip Damage/Heal. Choose +20 Zombie Damage to significantly increase the threat and kill potential of your Tombstone, especially against low-armor supports. Choose +12 Soul Rip Damage/Heal for more reliable burst heal/damage, which is better if fights are fast and you need instant impact, or if you are using the Ripped Facet to buff allies.",
+    "search_text": "Undying talent level 15 left +20 Zombie damage right +12 Soul Rip damage heal Tombstone threat vs burst sustain Ripped Facet",
+    "tags": [
+      "UNDYING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left: +4 Tombstone Attacks to Destroy. Right: -2s Decay Cooldown. Choose +4 Tombstone Attacks if the enemy team has strong right-clickers who focus your Tombstone quickly; this makes it much more durable. Choose -2s Decay Cooldown for extreme strength stacking and spam, especially if you have Aghanim's Shard, reducing the cooldown to 2 seconds for massive sustain and debuffing.",
+    "search_text": "Undying talent level 20 left +4 Tombstone attacks destroy right -2s Decay cooldown durability vs spam strength stack Aghanim Shard",
+    "tags": [
+      "UNDYING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left: +50% Flesh Golem Strength Bonus. Right: Tombstone On Death. Choose +50% Flesh Golem Strength Bonus to become an almost unkillable raid boss, increasing your Strength gain from 60% to 90% during ultimate. This is for when you are the main frontline. Choose Tombstone On Death for incredible area control and defensive power; even if you die, a Tombstone drops, which can completely turn a teamfight in your favor, especially on defense.",
+    "search_text": "Undying talent level 25 left +50% Flesh Golem Strength bonus right Tombstone On Death raid boss frontline vs area control defense die drop Tombstone",
+    "tags": [
+      "UNDYING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

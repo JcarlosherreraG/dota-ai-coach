@@ -1,0 +1,166 @@
+[
+  {
+    "display_text": "Grimstroke is a ranged intelligence hero with 21 strength, 18 agility, and 25 intelligence. He has a 1.7 base attack time and is classified as a ranged attacker. This gives him average-to-low base HP for a support but decent intelligence for spellcasting in the early game.",
+    "search_text": "Grimstroke stats ranged intelligence hero strength agility base attack time BAT 1.7",
+    "tags": [
+      "Grimstroke",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet Choice: Inkstigate allows Ink Swell to be manually detonated early. This provides tactical control, allowing you to pop the stun and damage immediately for a gank or to interrupt a channeling spell. Facet Choice: Fine Art makes Stroke of Fate also launch a reflected stroke from the right hand. This enhances his long-range poke, wave clear, and damage output in teamfights.",
+    "search_text": "Grimstroke facets Inkstigate Fine Art Ink Swell detonate early Stroke of Fate reflected stroke double damage",
+    "tags": [
+      "Grimstroke",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, prioritize Stroke of Fate (Q) for long-range harassment and securing ranged creeps. Its damage increases per unit hit, so angle it through the creep wave and enemy heroes. Phantom's Embrace (W) is a powerful trading tool; use it when the enemy cannot quickly kill the phantom (3 hero attacks). Coordinate with your core to secure kills when the enemy is silenced. Your right-clicks are weak; focus on spell usage.",
+    "search_text": "Grimstroke laning phase Stroke of Fate harass Phantom's Embrace silence kill secure support",
+    "tags": [
+      "Grimstroke",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 with Soulbind allows for deadly combos, especially when paired with a hero with a strong single-target spell. Level 10 talent for more Phantom's Embrace DPS or reduced Ink Swell cooldown. Level 15 talent choice enhances your role. Level 18 with level 3 ultimate. Level 20 talent for massive Stroke of Fate damage or more Phantom's Embrace durability. Level 25 talent for huge Ink Swell area or extreme Stroke of Fate range and speed. Key item timings include Aether Lens for cast range and Force Staff/Glimmer Cape for saves.",
+    "search_text": "Grimstroke power spikes level 6 Soulbind level 10 15 20 25 talents Aether Lens Force Staff Glimmer Cape",
+    "tags": [
+      "Grimstroke",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Grimstroke is hard countered by heroes with fast attack speed or summons that can quickly kill the Phantom's Embrace spirit (3 hero attacks per hit). Instant silences or hexes prevent him from casting his disables. Spell immunity (Black King Bar) blocks Stroke of Fate, Ink Swell, Phantom's Embrace, and Soulbind. Does NOT pierce BKB. Heroes with strong dispels can remove the Ink Swell buff from allies or the Ink Trail/Soulbind debuffs.",
+    "search_text": "counters Grimstroke Phantom's Embrace fast attacks summons BKB spell immunity dispel silence hex",
+    "tags": [
+      "Grimstroke",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: Aether Lens is essential to increase the cast range of all his spells, particularly Stroke of Fate and Soulbind. Force Staff provides crucial mobility for positioning and saving allies affected by Ink Swell. Glimmer Cape offers magic resistance and invisibility to save allies or yourself during channeling or after committing.",
+    "search_text": "Grimstroke core items Aether Lens cast range Force Staff mobility Glimmer Cape save magic resist",
+    "tags": [
+      "Grimstroke",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Grimstroke's primary role is backline control and amplification. Use Soulbind on a key enemy to double the effect of your team's single-target spells (e.g., Laguna Blade, Finger of Death). Cast Ink Swell on an initiator or mobile ally to create a moving area stun. Use Stroke of Fate for long-range poke and slow. Phantom's Embrace silences and threatens a key target. Your illusion from Dark Portrait provides vision and significant right-click pressure.",
+    "search_text": "Grimstroke teamfight role backline control Soulbind double spells Ink Swell stun Phantom's Embrace silence Dark Portrait illusion",
+    "tags": [
+      "Grimstroke",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Stroke of Fate. Grimstroke paints a curved path of ink, dealing 100/160/220/280 damage and slowing enemies by 50%/60%/70%/80% for 1.75 seconds. The damage is increased by 10/20/30/40 per creep and 20/40/60/80 per hero hit along the path. The path starts at 120 radius and ends at 160 radius, traveling 1400 units at 2000 speed. Applies Ink Trail on hit. Does NOT pierce BKB.",
+    "search_text": "Stroke of Fate Q Grimstroke nuke slow 100 160 220 280 damage 50 60 70 80 slow 1.75 sec bonus damage per creep hero Ink Trail",
+    "tags": [
+      "Grimstroke",
+      "ABILITY_DATA",
+      "STROKE_OF_FATE"
+    ]
+  },
+  {
+    "display_text": "Ability: Phantom's Embrace. Summons a phantom that moves at 1150 speed to a target, latching for 5 seconds. While latched, it deals 10/20/30/40 damage per second and silences. Hero attacks against the phantom count as 3 attacks each, and it takes 6/6/9/9 attacks to destroy. If it survives the full duration, it deals 120/200/280/360 damage and refreshes its own cooldown. Does NOT pierce BKB.",
+    "search_text": "Phantom's Embrace W Grimstroke silence damage over time 10 20 30 40 DPS latch 5 sec 120 200 280 360 burst kill refreshes cooldown 3 hero attacks per hit",
+    "tags": [
+      "Grimstroke",
+      "ABILITY_DATA",
+      "PHANTOMS_EMBRACE"
+    ]
+  },
+  {
+    "display_text": "Ability: Ink Swell. Enshrouds an allied unit, granting it 20% movement speed for 3 seconds. Enemies within 375 radius are damaged by tendrils for 6/9/12/15 damage every 0.2 seconds (30/45/60/75 DPS). After 3 seconds, or when manually detonated with the Inkstigate facet, it explodes, dealing up to 90/180/270/360 damage and stunning for up to 1.6/2.0/2.4/2.8 seconds based on how long tendrils were near any hero. Cooldown is 27/24/21/18 seconds.",
+    "search_text": "Ink Swell E Grimstroke buff ally movespeed 20% damage over time 6 9 12 15 per tick 30 45 60 75 DPS radius 375 explode stun max 90 180 270 360 damage 1.6 2.0 2.4 2.8 sec stun cooldown 27 24 21 18",
+    "tags": [
+      "Grimstroke",
+      "ABILITY_DATA",
+      "INK_SWELL"
+    ]
+  },
+  {
+    "display_text": "Ability: Dark Portrait. Creates an ink illusion of a target enemy hero that lasts 25 seconds. The illusion is debuff immune, has 95% magic resistance, 30 bonus movement speed, and deals 125% damage. It takes 275% damage. Does NOT pierce BKB.",
+    "search_text": "Dark Portrait D Grimstroke illusion 25 sec debuff immune 95 magic resist 30 movespeed 125 damage 275 damage taken",
+    "tags": [
+      "Grimstroke",
+      "ABILITY_DATA",
+      "DARK_PORTRAIT"
+    ]
+  },
+  {
+    "display_text": "Ability: Soulbind. Binds a target enemy hero to its nearest allied hero within 600 radius for 6/7/8 seconds, leashing them together. Any unit-targeted spell cast on either bound hero is also cast on the other. If the leash breaks (beyond 700 distance), the target is rebound to its nearest ally in range. Does NOT pierce BKB.",
+    "search_text": "Soulbind R Grimstroke ultimate bind leash 6 7 8 sec radius 600 break 700 double spells unit-targeted",
+    "tags": [
+      "Grimstroke",
+      "ABILITY_DATA",
+      "SOULBIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Magic Damage Teams. Your low strength gain makes you vulnerable. Prioritize Glimmer Cape and a BKB-piercing disable like Nullifier is less relevant. Focus on positioning and using Soulbind to double your team's burst. Ink Swell can be used defensively to speed an ally out of danger.",
+    "search_text": "Grimstroke vs high magic damage team Glimmer Cape positioning Soulbind burst defensive Ink Swell",
+    "tags": [
+      "Grimstroke",
+      "SITUATIONAL",
+      "HIGH_MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing From Behind. When your team is losing, Grimstroke's wave clear with Stroke of Fate is critical for defending high ground. Use Dark Portrait to scout and create space. Soulbind can turn a fight by doubling a key disable like a stun from a teammate. Build utility items like Force Staff and Glimmer Cape to save your cores.",
+    "search_text": "Grimstroke from behind losing game high ground defense Stroke of Fate wave clear Dark Portrait scout Soulbind turnaround utility items",
+    "tags": [
+      "Grimstroke",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Global/Powerful Single-Target Ally. Pairing with Zeus (Thundergod's Wrath), Lion (Finger of Death), or Lina (Laguna Blade) makes Soulbind devastating. Coordinate to cast your ultimate just before they use their nuke to double its effect. Your role is to enable these combos with good vision and positioning.",
+    "search_text": "Grimstroke combo Soulbind Zeus Thundergod's Wrath Lion Finger of Death Lina Laguna Blade global single-target nuke double damage",
+    "tags": [
+      "Grimstroke",
+      "SITUATIONAL",
+      "SYNERGY_COMBO"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents. Left: +65 Phantom's Embrace DPS. Significantly increases the kill threat of Phantom's Embrace, making it harder for enemies to survive the latch. Right: -4s Ink Swell Cooldown. Increases your crowd control uptime, allowing more frequent saves, initiations, and area damage. Choose DPS for more pick-off potential, or Cooldown for more teamfight control.",
+    "search_text": "Grimstroke level 10 talent +65 Phantom Embrace DPS -4s Ink Swell cooldown DPS vs control",
+    "tags": [
+      "Grimstroke",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents. Left: +25.0% Soulbind Spell Damage. Amplifies the damage of spells copied through Soulbind, a powerful choice if your team has heavy nukers. Right: +12% Ink Swell Movement Speed. Makes the buffed ally much faster, improving initiation, escape, and the area covered by the swelling ink. Choose based on whether your team needs more damage or more mobility/control.",
+    "search_text": "Grimstroke level 15 talent +25 Soulbind spell damage +12 Ink Swell movement speed damage amp vs mobility",
+    "tags": [
+      "Grimstroke",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents. Left: +80% Stroke of Fate Damage. A massive increase to your primary damaging and wave-clearing ability, scaling you into a significant damage threat. Right: +3 Hits to Kill Phantom. Makes Phantom's Embrace dramatically more durable, requiring 12/12/15/15 total hero attacks to kill (instead of 9/9/12/12). Choose based on whether you need more raw damage or more reliable silence and control.",
+    "search_text": "Grimstroke level 20 talent +80 Stroke of Fate damage +3 Hits to Kill Phantom durability nuke vs control",
+    "tags": [
+      "Grimstroke",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents. Left: +150 Ink Swell Radius. Increases the area of effect from 375 to 525, making it much easier to catch multiple enemies in the damage and stun. Right: +70% Stroke of Fate Speed and Travel Range. Increases projectile speed from 2000 to ~3400 and cast range from 1400 to ~2380, turning it into an almost instant, very long-range nuke and slow. Choose between massive teamfight area control or extreme, safe poke and wave clear.",
+    "search_text": "Grimstroke level 25 talent +150 Ink Swell radius +70 Stroke of Fate speed travel range area control vs range poke",
+    "tags": [
+      "Grimstroke",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

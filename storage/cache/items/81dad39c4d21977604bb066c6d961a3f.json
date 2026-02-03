@@ -1,0 +1,85 @@
+[
+  {
+    "display_text": "Bloodstone, Cost: 4350: Active ability 'Bloodpact' triples your current Spell Lifesteal for 5 seconds. Significantly amplifies spell healing during critical engagements or while taking damage. This allows for dramatic survivability spikes but has a long cooldown. Stats: CD: 30s, Spell Lifesteal: +25%, Health: +450, Mana: +450, Mana Regen: +3.",
+    "search_text": "spell lifesteal item, magic lifesteal, survivability item, tank item, caster item, bloodstone, magic lifesteal amp, hp regen item, mana item, blood pact, magic healing, spell vamp, sustain item, high hp item, mana regen item, Bloodstone",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODSTONE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SPELL_LIFESTEAL",
+      "SUSTAIN",
+      "HEALTH",
+      "MANA",
+      "MANA_REGEN",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Bloodstone, Cost: 4350: Provides a significant health and mana pool boost alongside strong mana regeneration. Its stat profile is tailored for spellcasters who need durability and extended mana sustain for fights. Stats: Health: +450, Mana: +450, Mana Regen: +3.",
+    "search_text": "bloodstone stats, hp mana item, caster stats, mana regen item, high hp item, int item, tank stats for caster, Bloodstone",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODSTONE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "MANA",
+      "MANA_REGEN",
+      "INTELLIGENCE"
+    ]
+  },
+  {
+    "display_text": "Bloodstone, Cost: 4350: Core survivability item for durable spellcasters. Transforms spell damage into healing, allowing heroes to stay in fights longer and turn engagements with a powerful health and mana burst. The activated Bloodpact provides a critical defensive steroid in prolonged battles.",
+    "search_text": "bloodstone teamfight, caster survivability, team fight sustain, magic lifesteal teamfight, tank mage item, spellcaster tank, sustain in fight, Bloodstone",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODSTONE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SUSTAIN",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "TANK"
+    ]
+  },
+  {
+    "display_text": "Bloodstone, Cost: 4350: Strong against lineups relying on burst magic damage, as the health pool and Spell Lifesteal can mitigate and heal through sustained spell-based harassment. Less effective against heroes with Break (which disables passives) or heavy physical burst damage that ignores lifesteal.",
+    "search_text": "vs magic damage, magic burst counter, sustain vs magic, counter burst, anti magic, tank magic, lifesteal vs spells, Bloodstone",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODSTONE",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "VS_MAGIC",
+      "DEFENSIVE",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Bloodstone, Cost: 4350: Synergizes exceptionally with heroes who have high-damage, spammable AoE spells (e.g., Leshrac, Timbersaw). Also a powerful late-game option for any spellcaster needing to amplify their sustain and survive through focus fire in the late game.",
+    "search_text": "bloodstone build, leshrac item, timbersaw item, spellcaster item, mana sustain build, high mana hero, spam spells, magic damage carry, aoe caster, Bloodstone",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODSTONE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Bloodstone, Cost: 4350: Provides solid farming utility through its mana sustain and health pool, allowing heroes to spam spells to clear waves and jungle camps without returning to base. The raw HP also makes tanking jungle camps and Roshan more viable. Stats: Mana Regen: +3, Mana: +450.",
+    "search_text": "farming item, wave clear item, jungle item, mana for farming, regen for farm, sustain farm, spell spam farm, aoe farm, bloodstone farm, Bloodstone",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODSTONE",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "SUSTAIN",
+      "MANA_REGEN"
+    ]
+  }
+]

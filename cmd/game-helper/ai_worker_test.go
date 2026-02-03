@@ -10,12 +10,12 @@ import (
 )
 
 type mockAIClient struct {
-	AskFunc func(prompt string) (string, error)
+	AskFunc func(ctx context.Context, systemPrompt, userPrompt string) (string, error)
 }
 
-func (m *mockAIClient) Ask(prompt string) (string, error) {
+func (m *mockAIClient) Ask(ctx context.Context, systemPrompt, userPrompt string) (string, error) {
 	if m.AskFunc != nil {
-		return m.AskFunc(prompt)
+		return m.AskFunc(ctx, systemPrompt, userPrompt)
 	}
 	return "default answer", nil
 }
@@ -24,15 +24,15 @@ func TestApp_fetchAdviceWithRetry(t *testing.T) {
 	tests := []struct {
 		name         string
 		prompt       string
-		mockBehavior func() func(string) (string, error)
+		mockBehavior func() func(context.Context, string, string) (string, error)
 		wantAdvice   string
 		wantErr      bool
 	}{
 		{
 			name:   "Success on first try",
 			prompt: "hello",
-			mockBehavior: func() func(string) (string, error) {
-				return func(p string) (string, error) {
+			mockBehavior: func() func(context.Context, string, string) (string, error) {
+				return func(ctx context.Context, sys, usr string) (string, error) {
 					return "Easy Answer", nil
 				}
 			},
@@ -42,9 +42,9 @@ func TestApp_fetchAdviceWithRetry(t *testing.T) {
 		{
 			name:   "Success after retry (Network Glitch)",
 			prompt: "retry me",
-			mockBehavior: func() func(string) (string, error) {
+			mockBehavior: func() func(context.Context, string, string) (string, error) {
 				attempts := 0
-				return func(p string) (string, error) {
+				return func(ctx context.Context, sys, usr string) (string, error) {
 					attempts++
 					if attempts < 3 {
 						return "", ai.NewApiError(500, "some error")
@@ -58,8 +58,8 @@ func TestApp_fetchAdviceWithRetry(t *testing.T) {
 		{
 			name:   "Fail max retries",
 			prompt: "die",
-			mockBehavior: func() func(string) (string, error) {
-				return func(p string) (string, error) {
+			mockBehavior: func() func(context.Context, string, string) (string, error) {
+				return func(ctx context.Context, sys, usr string) (string, error) {
 					return "", errors.New("network glitch")
 				}
 			},
@@ -69,8 +69,8 @@ func TestApp_fetchAdviceWithRetry(t *testing.T) {
 		{
 			name:   "Fatal error (No retry)",
 			prompt: "fatal",
-			mockBehavior: func() func(string) (string, error) {
-				return func(p string) (string, error) {
+			mockBehavior: func() func(context.Context, string, string) (string, error) {
+				return func(ctx context.Context, sys, usr string) (string, error) {
 					return "", errors.New("fatal error: apiKey invalid")
 				}
 			},
@@ -104,7 +104,7 @@ func TestApp_fetchAdviceWithRetry(t *testing.T) {
 
 func TestWorker_Panic(t *testing.T) {
 	mock := &mockAIClient{
-		AskFunc: func(prompt string) (string, error) {
+		AskFunc: func(ctx context.Context, sys, usr string) (string, error) {
 			panic("boom!")
 		},
 	}
@@ -136,7 +136,7 @@ func TestWorker_Panic(t *testing.T) {
 
 func TestWorker_Cancel(t *testing.T) {
 	mock := &mockAIClient{
-		AskFunc: func(prompt string) (string, error) {
+		AskFunc: func(ctx context.Context, sys, usr string) (string, error) {
 			time.Sleep(2 * time.Second)
 			return "too late", nil
 		},
@@ -173,7 +173,7 @@ func TestWorker_Retries(t *testing.T) {
 	var callCount int
 
 	mock := &mockAIClient{
-		AskFunc: func(prompt string) (string, error) {
+		AskFunc: func(ctx context.Context, sys, usr string) (string, error) {
 			callCount++
 			if callCount < 3 {
 				return "", ai.NewApiError(500, "some error")

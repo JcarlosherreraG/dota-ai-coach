@@ -1,0 +1,21 @@
+[
+  {
+    "display_text": "Slime Vial, Cost: 0: Tier 4 neutral item providing +12 HP regeneration. Active ability (Instant Cast, No Target) throws a vial, creating a Slime Spill that deals 125 damage and slows enemy movement speed by 35% and attack speed by 30 for 4 seconds in a 550 radius. Heroes in the spill also grant +15 armor to their allies. Stats: CD: 27s, Radius: 550, Spill Speed: 350, Debuff Duration: 4s.",
+    "search_text": "slime vial, tier 4 neutral, active slow item, area slow, attack speed slow, movement speed slow, debuff aura, team armor buff, initiation tool, catch tool, Slime Vial, neutral item",
+    "tags": [
+      "ITEM_DATA",
+      "SLIME_VIAL",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_4",
+      "DEBUFF",
+      "SLOW",
+      "AURA",
+      "BUFF",
+      "AOE_DAMAGE",
+      "INITIATION",
+      "REGEN",
+      "ARMOR"
+    ]
+  }
+]

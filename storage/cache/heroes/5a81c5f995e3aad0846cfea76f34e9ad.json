@@ -1,0 +1,199 @@
+[
+  {
+    "display_text": "Earthshaker is a Melee Strength hero with 22 base Strength, 12 base Agility, and 18 base Intelligence. His base attack time is 1.7 seconds, which is average for a melee caster. His low base Agility and average starting armor make him relatively fragile in the early laning stage before he can secure levels and items.",
+    "search_text": "Earthshaker stats melee hero base stats strength agility intelligence attack rate 1.7 armor hp mana",
+    "tags": [
+      "EARTHSHAKER",
+      "BASE_STATS",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Earthshaker has three Facets: Tectonic Buildup, Slugger, and Resonating Ridge. Tectonic Buildup increases the Aftershock radius per level of Echo Slam, enhancing his area control and chain-stun potential. Slugger sends killed enemies flying as projectiles, adding wave clear and teamfight poke. Resonating Ridge causes Fissure-stunned heroes to emit an echo, significantly boosting burst damage in fights. Slugger is for farming and sustained pressure, while Resonating Ridge is for aggressive, pick-off oriented playstyles. Tectonic Buildup is the default, reliable choice for teamfight disruption.",
+    "search_text": "Earthshaker facets choice Tectonic Buildup Aftershock radius increase per Echo Slam level Slugger Enchant Totem kill projectiles Resonating Ridge Fissure stun echo damage playstyle teamfight pickoff",
+    "tags": [
+      "EARTHSHAKER",
+      "FACET_STRATEGY",
+      "FACETS"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Earthshaker is a weak laner due to low armor and damage. Prioritize securing range creep last hits with Fissure. Use Fissure defensively to block gank paths or offensively to set up kills with its 0.8/1.0/1.2/1.4 second stun and 100/160/220/280 damage. Max Fissure first for nuke damage and stun duration. Enchant Totem provides a situational last-hit securing tool with its 100/200/300/400% bonus damage on the next attack. Play safe and focus on reaching level 6 for your first major power spike.",
+    "search_text": "Earthshaker laning early game weak laner Fissure last hit stun 0.8 1.0 1.2 1.4 damage 100 160 220 280 Enchant Totem secure creep play safe level 6",
+    "tags": [
+      "EARTHSHAKER",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Earthshaker's key power spikes are at level 6 (Echo Slam), level 12 (level 2 Echo Slam and maxed Fissure), level 18 (level 3 Echo Slam), and with key item timings like Blink Dagger. Talent levels 10, 15, 20, and 25 offer significant boosts. Aghanim's Scepter (providing Enchant Totem leap) is a major mid-game spike for initiation and mobility.",
+    "search_text": "Earthshaker power spikes level 6 Echo Slam level 12 level 18 Blink Dagger Aghanims Scepter talent levels 10 15 20 25",
+    "tags": [
+      "EARTHSHAKER",
+      "POWER_SPIKES",
+      "TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Earthshaker is hard countered by heroes with high mobility (e.g., Queen of Pain, Anti-Mage) that can dodge his Fissure and Echo Slam initiation. Instant disables like Hex prevent him from casting spells after Blinking in. Spell immunity (Black King Bar) negates most of his damage and control, though Fissure's stun pierces BKB. Heroes that can drain mana (e.g., Anti-Mage, Lion) severely limit his ability to combo.",
+    "search_text": "Earthshaker counters high mobility blink escape dodge Fissure Echo Slam instant hex disable spell immunity BKB mana burn drain",
+    "tags": [
+      "EARTHSHAKER",
+      "HARD_COUNTERS",
+      "COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Earthshaker's core build is Blink Dagger, followed by Aghanim's Scepter. Blink Dagger is non-negotiable for reliable initiation with Fissure or Echo Slam. Aghanim's Scepter upgrades Enchant Totem into a 0.8 second leap, providing unparalleled mobility, initiation range, and escape. A third essential item is often Boots of Travel or Arcane Boots for mana sustain and global presence.",
+    "search_text": "Earthshaker core items build Blink Dagger Aghanims Scepter Enchant Totem leap initiation mobility Boots of Travel Arcane Boots mana",
+    "tags": [
+      "EARTHSHAKER",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Earthshaker's role is to initiate with a multi-hero Fissure or Blink + Echo Slam, dealing massive AOE damage (100/140/180 initial + 70/90/110 per echo) and stunning. Follow up with Enchant Totem attacks and Aftershock procs (65/90/115/140 damage and stun) to chain-disable key targets. Use his abilities to zone and control chokepoints, protecting his backline or trapping enemies.",
+    "search_text": "Earthshaker teamfight role initiator Blink Echo Slam AOE damage 100 140 180 echo 70 90 110 Fissure stun control Enchant Totem Aftershock chain disable",
+    "tags": [
+      "EARTHSHAKER",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Fissure (Q). Slams the ground, creating an impassable ridge of stone. Deals 100/160/220/280 Magic damage and stuns for 0.8/1.0/1.2/1.4 seconds in a 225 radius line. The ridge lasts 6.5/7/7.5/8.0 seconds. Cast range is 1600. Cooldown is 18/17/16/15 seconds. The stun pierces spell immunity (BKB). Creeps will not path around it.",
+    "search_text": "Fissure Q ability Earthshaker stun 0.8 1.0 1.2 1.4 seconds damage 100 160 220 280 magic impassable terrain wall duration 6.5 7 7.5 8.0 cast range 1600 cooldown 18 17 16 15 pierces BKB",
+    "tags": [
+      "EARTHSHAKER",
+      "ABILITY_DATA",
+      "FISSURE",
+      "STUN",
+      "TERRAIN"
+    ]
+  },
+  {
+    "display_text": "Enchant Totem (W). Empowers Earthshaker's next attack. Grants 100 bonus attack range and causes the attack to deal 100/200/300/400% of Earthshaker's base damage plus damage from primary attribute as bonus damage. Cooldown is 5.0 seconds at all levels. With Aghanim's Scepter, this ability becomes a leap.",
+    "search_text": "Enchant Totem W ability Earthshaker next attack bonus damage 100 200 300 400% base damage plus attribute attack range +100 cooldown 5.0 seconds Aghanims Scepter leap",
+    "tags": [
+      "EARTHSHAKER",
+      "ABILITY_DATA",
+      "ENCHANT_TOTEM",
+      "NUKER"
+    ]
+  },
+  {
+    "display_text": "Aftershock (E). Passive. Whenever Earthshaker casts a spell, he triggers an aftershock. Deals 65/90/115/140 Magic damage and stuns for 0.6/0.9/1.2/1.5 seconds in a 300 radius around him. Does not trigger from item usage.",
+    "search_text": "Aftershock E passive ability Earthshaker on spell cast damage 65 90 115 140 magic stun 0.6 0.9 1.2 1.5 seconds radius 300 no item trigger",
+    "tags": [
+      "EARTHSHAKER",
+      "ABILITY_DATA",
+      "AFTERSHOCK",
+      "PASSIVE",
+      "STUN"
+    ]
+  },
+  {
+    "display_text": "Echo Slam (R). Ultimate. Shockwaves travel through the ground, damaging enemy units in a 700 radius. Deals 100/140/180 initial Magic damage. Each enemy unit hit causes an echo to damage nearby units in a 700 radius for 70/90/110 Magic damage. Real heroes hit cause two echoes. Cooldown is 130/120/110 seconds.",
+    "search_text": "Echo Slam R ultimate Earthshaker AOE damage radius 700 initial damage 100 140 180 magic echo damage 70 90 110 per unit hero causes two echoes cooldown 130 120 110 seconds",
+    "tags": [
+      "EARTHSHAKER",
+      "ABILITY_DATA",
+      "ECHO_SLAM",
+      "ULTIMATE",
+      "AOE",
+      "BURST"
+    ]
+  },
+  {
+    "display_text": "Against multiple illusion or summon-based heroes (e.g., Chaos Knight, Phantom Lancer), Echo Slam is devastating as each unit creates echoes. Prioritize Blink and positioning to hit the real hero amidst the army for maximum damage output.",
+    "search_text": "Earthshaker scenario vs illusions summons Chaos Knight Phantom Lancer Echo Slam multiple units echoes damage Blink Dagger positioning real hero",
+    "tags": [
+      "EARTHSHAKER",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "VS_SUMMONS"
+    ]
+  },
+  {
+    "display_text": "When playing from behind without Blink Dagger, use Fissure defensively to cut off chase paths and protect towers. Farm jungle camps by stacking and using Fissure or Enchant Totem with the Slugger facet. Focus on saving for your core Blink Dagger to re-enter the game with a successful initiation.",
+    "search_text": "Earthshaker scenario playing from behind no Blink Dagger Fissure defensive cut path protect tower farm jungle Slugger facet save gold",
+    "tags": [
+      "EARTHSHAKER",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "FARMING"
+    ]
+  },
+  {
+    "display_text": "When your team lacks initiation, Earthshaker must be the primary engager. Secure Blink Dagger as fast as possible. Communicate with your team to follow up on your Fissure or Echo Slam initiation. Consider a Force Staff or Aether Lens if you need extra cast range to land key spells from a safer distance.",
+    "search_text": "Earthshaker scenario primary initiator team lacks engage Blink Dagger fast communication follow up Fissure Echo Slam Force Staff Aether Lens cast range",
+    "tags": [
+      "EARTHSHAKER",
+      "SITUATIONAL",
+      "PRIMARY_INITIATOR",
+      "ENGAGE"
+    ]
+  },
+  {
+    "display_text": "Against a BKB-heavy lineup, Fissure remains your most valuable tool as its stun pierces spell immunity. Time your engagements for when key enemy BKBs are on cooldown. Your role shifts to zoning and counter-initiating with Fissure to separate BKB'd cores from their team.",
+    "search_text": "Earthshaker scenario vs BKB heavy lineup Fissure pierces spell immunity stun timing engagement cooldown zoning counter initiation separate cores",
+    "tags": [
+      "EARTHSHAKER",
+      "SITUATIONAL",
+      "VS_BKB",
+      "COUNTER_INITIATE"
+    ]
+  },
+  {
+    "display_text": "With Aghanim's Scepter, your playstyle becomes highly mobile. Use the Enchant Totem leap to initiate from fog, escape over cliffs, or reposition for a better Fissure. This allows for more aggressive warding and pick-offs. The leap applies a cleaving attack on landing.",
+    "search_text": "Earthshaker scenario with Aghanims Scepter Enchant Totem leap mobility initiation fog escape reposition Fissure warding pickoff cleave attack",
+    "tags": [
+      "EARTHSHAKER",
+      "SITUATIONAL",
+      "WITH_AGHANIMS",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "At Level 10, choose between +25 Base Damage or +75 Fissure Damage. +25 Base Damage improves last-hitting, Enchant Totem hits, and right-click damage in prolonged fights. +75 Fissure Damage is better if you are struggling to secure kills with your combo or need more burst from a distance. The Base Damage talent synergizes with Enchant Totem.",
+    "search_text": "Earthshaker talent level 10 left +25 Base Damage right +75 Fissure Damage last hit Enchant Totem synergy burst damage combo kill secure",
+    "tags": [
+      "EARTHSHAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At Level 15, choose between +200 Fissure Range or +50 Aftershock Damage. +200 Fissure Range (increasing cast range from 1600 to 1800) is invaluable for safer initiation, catching elusive heroes, and better zoning. +50 Aftershock Damage increases your overall magic damage output in extended fights. Fissure Range is the generally superior and more reliable choice.",
+    "search_text": "Earthshaker talent level 15 left +200 Fissure Range right +50 Aftershock Damage cast range initiation catch elusive heroes zoning magic damage output",
+    "tags": [
+      "EARTHSHAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At Level 20, choose between +50 Echo Damage or +65% Enchant Totem Damage. +50 Echo Damage increases the echo damage per unit from 70/90/110 to 120/140/160, a massive boost to Echo Slam's total output, especially against groups. +65% Enchant Totem Damage significantly increases your single-target burst (effectively making it a 165/265/365/465% damage multiplier). Pick Echo Damage for teamfight dominance; pick Enchant Totem Damage for pick-offs and melting single targets.",
+    "search_text": "Earthshaker talent level 20 left +50 Echo Damage right +65% Enchant Totem Damage Echo Slam AOE teamfight output single target burst pickoff multiplier",
+    "tags": [
+      "EARTHSHAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At Level 25, choose between -50% Echo Slam Cooldown or -1.5s Enchant Totem Cooldown. -50% Echo Slam Cooldown reduces it to 65/60/55 seconds, allowing you to use your ultimate in almost every engagement and for wave clear. -1.5s Enchant Totem Cooldown reduces it to 3.5 seconds, enabling incredible sustained damage and stun lockdown with Aftershock procs. The Echo Slam cooldown talent is typically better for its fight-winning potential and map pressure.",
+    "search_text": "Earthshaker talent level 25 left -50% Echo Slam Cooldown 65 60 55 seconds right -1.5s Enchant Totem Cooldown 3.5 seconds teamfight frequency wave clear sustained damage lockdown Aftershock",
+    "tags": [
+      "EARTHSHAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

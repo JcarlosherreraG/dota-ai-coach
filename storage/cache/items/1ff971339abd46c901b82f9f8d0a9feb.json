@@ -1,0 +1,49 @@
+[
+  {
+    "display_text": "Bracer, Cost: 505: Early game basic item that provides modest attribute bonuses and health regeneration. Built from Circlet and Gauntlets, it is a cost-effective way to bulk up during the laning phase, transitioning into more powerful items later. Stats: Strength: +5, Agility: +2, Intelligence: +2, Health: +50, Health Regen: +0.75.",
+    "search_text": "bracer, early game stats, attribute item, laning stats, starting item, cheap stats, strength agility intelligence, health regen, lane sustain, stat stick, basic item, early bulk, Bracer",
+    "tags": [
+      "ITEM_DATA",
+      "BRACER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "UPGRADE",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLECT",
+      "HEALTH",
+      "REGEN",
+      "SUSTAIN",
+      "LANING"
+    ]
+  },
+  {
+    "display_text": "Bracer, Cost: 505: Provides a balanced mix of Strength, Agility, and Intelligence alongside flat health and health regeneration. This makes it a versatile early-game purchase for any hero to improve survivability and laning presence. Stats: Strength: +5, Agility: +2, Intelligence: +2, Health: +50, Health Regen: +0.75.",
+    "search_text": "bracer stats, bracer attributes, bracer health regen, stat item, all stats item, cheap attributes, early survivability, lane item, Bracer",
+    "tags": [
+      "ITEM_DATA",
+      "BRACER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLECT",
+      "HEALTH",
+      "REGEN",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Bracer, Cost: 505: Core recipe component for powerful items like Drum of Endurance and Rod of Atos. Purchasing Bracers early in the laning stage builds into mid-game power spikes. Timing matters as its flat stat efficiency is best during the first 15 minutes. Stats: Cost: 505.",
+    "search_text": "bracer recipe, bracer component, drum component, rod of atos component, bracer early game, early purchase, recipe builder, mid game item component, Bracer",
+    "tags": [
+      "ITEM_DATA",
+      "BRACER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "COMPONENT",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "display_text": "Vladmir's Offering, Cost: 2200: A team-oriented aura item that grants allies lifesteal, bonus damage, armor, and mana regeneration. Effective when your team groups for fights or pushes, significantly boosting the combat power of multiple core heroes simultaneously. Stats: Radius: 1200.",
+    "search_text": "aura item, team fight item, team buff item, lifesteal aura, damage aura, armor aura, mana regen aura, group buff, push item, team sustain, Vladmir's Offering, Vladmir's",
+    "tags": [
+      "ITEM_DATA",
+      "VLADMIRS_OFFERING",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "TEAMFIGHT_ROLE",
+      "PHYSICAL_DAMAGE",
+      "SUSTAIN",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Vladmir's Offering, Cost: 2200: Provides a significant combination of utility stats to the wielder: +1 Armor and +0.75 Mana Regeneration. The primary value is the powerful aura that benefits the entire team in its radius. Stats: Armor: +1, Mana Regen: +0.75.",
+    "search_text": "Vladmir's Offering stats, aura item stats, support stats, armor mana regen item, aura wielder stats, Vladmir's",
+    "tags": [
+      "ITEM_DATA",
+      "VLADMIRS_OFFERING",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ARMOR",
+      "MANA_REGEN",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Vladmir's Offering, Cost: 2200: Core team fight role as a force multiplier. The aura provides 20% lifesteal, 18% bonus damage, 2 armor, and 1 mana regeneration to all nearby allies, making grouped pushes and five-man team fights dramatically stronger. The lifesteal on creeps is reduced to 12%. Stats: Lifesteal Aura: 20%, Damage Aura: 18%, Armor Aura: 2, Mana Regen Aura: 1.",
+    "search_text": "team fight aura, group fight buff, team push item, five man aura, lifesteal for team, damage buff for team, armor buff for team, mana regen for team, Vladmir's Offering",
+    "tags": [
+      "ITEM_DATA",
+      "VLADMIRS_OFFERING",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "PUSH",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Vladmir's Offering, Cost: 2200: Situational pick when your team has multiple physical damage cores who benefit from lifesteal and damage (e.g., melee carries, illusion heroes). Especially powerful with heroes who already have high base damage or attack speed, as the percentage-based bonuses scale well. Less effective if your team relies primarily on magical damage or is split-pushing.",
+    "search_text": "Vladmir's Offering synergy, physical damage team, melee carry item, illusion hero item, team with multiple cores, lifesteal for carries, damage aura for carries, Vladmir's",
+    "tags": [
+      "ITEM_DATA",
+      "VLADMIRS_OFFERING",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "PHYSICAL_DAMAGE",
+      "ILLUSIONS"
+    ]
+  }
+]

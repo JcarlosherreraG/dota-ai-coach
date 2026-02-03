@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Force Boots, Cost: 0: Neutral item providing +115 Movement Speed and +30 Health Regeneration. The active Force ability pushes the target 750 units in the direction they are facing, dispelling if cast on an ally. The Speed Unlock passive completely removes the movement speed limit for the wearer. Stats: CD: 8s, Mana: 75, Push Length: 750, Push Duration: 0.5s, MS: +115, HP Regen: +30.",
+    "search_text": "force boots, neutral item, movement speed, speed unlock, no speed limit, push ally, reposition, force staff effect, mobility neutral, escape neutral, reposition tool, save ally, defensive neutral, force, push, Force Boots",
+    "tags": [
+      "ITEM_DATA",
+      "FORCE_BOOTS",
+      "CORE_MECHANICS",
+      "NEUTRAL",
+      "MOBILITY",
+      "SAVE",
+      "DEFENSIVE",
+      "UTILITY",
+      "DISPEL",
+      "ESCAPE",
+      "SURVIVAL",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH"
+    ]
+  }
+]

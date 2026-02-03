@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Silencer Aghanim's Scepter: Global Silence applies Arcane Curse to heroes for the duration of Global Silence. This upgrade counters spell-spamming heroes by punishing frequent ability usage, forcing enemies to either disengage or suffer prolonged damage and silence.",
+    "search_text": "Silencer Aghanim Scepter anti-spell-spam counter-caster Arcane Curse synergy",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Silencer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Silencer Aghanim's Shard: Increases the Intelligence stolen per kill. This upgrade enhances Silencer's snowball potential by accelerating his Intelligence theft, making him a stronger late-game threat against mana-dependent heroes and amplifying his right-click damage.",
+    "search_text": "Silencer Aghanim Shard Intelligence steal snowball anti-mage late-game scaling",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Silencer",
+      "COUNTER_MECHANIC",
+      "SHARD"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "name": "npc_dota_hero_dazzle",
+    "level": 15,
+    "health": 1200,
+    "max_health": 1200,
+    "mana": 1000,
+    "max_mana": 1000,
+    "alive": true
+  },
+  "items": {
+    "slot0": { "name": "item_arcane_boots" },
+    "slot1": { "name": "item_mech" },
+    "slot2": { "name": "item_aether_lens" },
+    "slot3": { "name": "item_empty" }
+  },
+  "user_context": "У врагов есть Doom и Bane. В каждой драке они кидают свои ульты в нашего Свена, даже если он жмет БКБ. Крест не спасает, он стоит в контроле 10 лет.",
+  "user_question": "Как мне спасти нашего керри от ульты Дума или Бейна? БКБ ему не помогает."
+}

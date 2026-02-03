@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "name": "npc_dota_hero_slark",
+    "level": 20,
+    "health": 1900,
+    "max_health": 1900,
+    "mana": 800,
+    "max_mana": 800,
+    "alive": true
+  },
+  "items": {
+    "slot0": { "name": "item_power_treads" },
+    "slot1": { "name": "item_diffusal_blade" },
+    "slot2": { "name": "item_echo_sabre" },
+    "slot3": { "name": "item_aghanims_shard" },
+    "slot4": { "name": "item_empty" }
+  },
+  "user_context": "Вражеский Bristleback просто бегает спиной и всех убивает иглами. Мы бьем его впятером, а ему все равно. У него уже Heart of Tarrasque.",
+  "user_question": "Бристлбек вообще не пробивается. Что купить, чтобы отключить ему пассивку?"
+}

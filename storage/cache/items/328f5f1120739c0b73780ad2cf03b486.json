@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Feverish Enhancement, Tier ?: Enhancement that provides +15% Cooldown Reduction but increases mana costs by 7%. A double-edged modifier that accelerates ability usage at the expense of mana efficiency. This effect modifies an existing item's properties. Stats: CD Reduction: +15%, Mana Cost Increase: +7%.",
+    "search_text": "enhancement, feverish, cooldown reduction item, increased mana cost, ability spam, spell spamming, CDR, mana penalty, tradeoff, utility modifier, Feverish Enhancement, ability refresh, spell casting",
+    "tags": [
+      "ITEM_DATA",
+      "FEVERISH_ENHANCEMENT",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_?",
+      "COOLDOWN_REDUCTION",
+      "UTILITY",
+      "MANA_PENALTY"
+    ]
+  }
+]

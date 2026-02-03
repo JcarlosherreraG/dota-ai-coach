@@ -1,0 +1,182 @@
+[
+  {
+    "display_text": "Keeper of the Light is a ranged Intelligence hero with slow attack speed (1.7 BAT), low starting Strength (18), and high base Intelligence (24). His stats prioritize spellcasting, not right-click damage or survivability.",
+    "search_text": "Keeper of the Light stats ranged intelligence attack rate 1.7 base strength 18 agility 15 intelligence 24",
+    "tags": [
+      "Keeper of the Light",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "The Solar Bind facet grants the Solar Bind ability while active, presumably applying a new slow/debuff. The Recall facet likely enables Recall, a teleportation ability for allied heroes. Choose Solar Bind for more teamfight control and lane pressure; choose Recall for global mobility and split-push support.",
+    "search_text": "Keeper of the Light Facets Solar Bind Recall global mobility teleportation support teamfight control",
+    "tags": [
+      "Keeper of the Light",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Use Illuminate (Q) from long range (1550) to secure last hits and harass the enemy lane. Use Chakra Magic (E) on your core or yourself to keep mana high and reduce basic ability cooldowns, enabling more spells. Your low armor and health require safe positioning.",
+    "search_text": "Keeper of the Light laning phase illuminate farming harass Chakra Magic mana sustain cooldown reduction positioning",
+    "tags": [
+      "Keeper of the Light",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6 (Spirit Form) is a huge spike, granting bonus move speed, cast range, and a healing Illuminate spirit. Level 12/Spirit Form 2 increases utility duration. Level 18/Spirit Form 3 maximizes uptime. Talents at 10, 15, 20, and 25 provide significant upgrades to specific abilities.",
+    "search_text": "Keeper of the Light power spikes level 6 Spirit Form cast range heal level 12 level 18 talents",
+    "tags": [
+      "Keeper of the Light",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Heroes with gap close (e.g., Storm Spirit, Phantom Assassin) can bypass his long-range spells. Spell immunity (BKB) negates his primary damage (Illuminate) and control (Blinding Light). High-burst heroes can exploit his low health pool before he channels spells.",
+    "search_text": "Keeper of the Light counters gap close BKB magic immunity burst damage low health pool",
+    "tags": [
+      "Keeper of the Light",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items are Tranquil Boots for mobility and sustain, Aether Lens to amplify cast range for all spells, and Aghanim's Scepter for the powerful Will-O-Wisp ultimate, which is a strong area denial and teamfight ability.",
+    "search_text": "Keeper of the Light core build Tranquil Boots Aether Lens Aghanim's Scepter Will-O-Wisp",
+    "tags": [
+      "Keeper of the Light",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Stay at max range, channeling Illuminate to deal massive area damage and provide vision. Use Blinding Light to disrupt enemy carries and protect your team. Use Will-O-Wisp to zone and pull enemies out of position. Use Chakra Magic to refresh allies' spells. His role is backline artillery and utility support.",
+    "search_text": "Keeper of the Light teamfight role backline artillery illuminate damage blinding light miss chance will-o-wisp zone chakra magic utility support",
+    "tags": [
+      "Keeper of the Light",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Illuminate (Q) channels up to 3 seconds, dealing up to 185/290/395/500 damage in a line. The projectile travels 1550 range at 900 speed with a 400 radius. Provides vision along its path, increasing as you channel. Cooldown is 13 seconds.",
+    "search_text": "Keeper of the Light Q Illuminate channel damage 185 290 395 500 range 1550 vision cooldown 13",
+    "tags": [
+      "Keeper of the Light",
+      "ABILITY_DATA",
+      "Illuminate",
+      "Channel",
+      "Nuke"
+    ]
+  },
+  {
+    "display_text": "Blinding Light (W) knocks enemies back 400 units over 0.6 seconds within a 425/450/475/500 radius and applies a 45% miss chance for 4 seconds. Deals 90/140/190/240 damage. Cooldown is 24/21/18/15 seconds.",
+    "search_text": "Keeper of the Light W Blinding Light knockback 400 miss 45% damage 90 140 190 240 radius cooldown 24 21 18 15",
+    "tags": [
+      "Keeper of the Light",
+      "ABILITY_DATA",
+      "Blinding Light",
+      "Knockback",
+      "Miss Chance"
+    ]
+  },
+  {
+    "display_text": "Chakra Magic (E) restores 90/160/230/300 mana to a target and reduces cooldowns of all their basic abilities currently on cooldown by 3/4/5/6 seconds. When used on himself, the mana restore is 30% more effective (to 117/208/299/390). Cooldown is 18/16/14/12 seconds. Does NOT pierce BKB.",
+    "search_text": "Keeper of the Light E Chakra Magic mana restore 90 160 230 300 cooldown reduction 3 4 5 6 self bonus 30% cooldown 18 16 14 12",
+    "tags": [
+      "Keeper of the Light",
+      "ABILITY_DATA",
+      "Chakra Magic",
+      "Mana",
+      "Cooldown Reduction",
+      "Dispel"
+    ]
+  },
+  {
+    "display_text": "Will-O-Wisp (R) is Keeper's ultimate with Aghanim's Scepter. Summons a wisp that alternates on (1.0s) and off (1.85s) for 7 cycles, pulling enemies within 725 radius towards it. The wisp pulses 5 times when 'on', dealing 85 damage each pulse. It provides True Sight. Grants a fixed 60 movement speed and 100 gold bounty if killed.",
+    "search_text": "Keeper of the Light R ultimate Aghanim Scepter Will-O-Wisp pull area 725 damage 85 pulse cycles on off movement speed 60 bounty 100",
+    "tags": [
+      "Keeper of the Light",
+      "ABILITY_DATA",
+      "Will-O-Wisp",
+      "Ultimate",
+      "Aghanim Scepter",
+      "Pull",
+      "Area Control"
+    ]
+  },
+  {
+    "display_text": "Spirit Form grants 10/15/20 bonus movement speed and 100/200/300 bonus cast range for 40/45/50 seconds. While active, Illuminate can be channeled by a separate spirit, which heals allies it passes through for 70 health. This is Keeper's core transformation ability.",
+    "search_text": "Keeper of the Light Spirit Form transform movement speed 10 15 20 cast range 100 200 300 duration 40 45 50 illuminate heal spirit 70",
+    "tags": [
+      "Keeper of the Light",
+      "ABILITY_DATA",
+      "Spirit Form",
+      "Transformation",
+      "Cast Range",
+      "Heal"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, focus on using Illuminate and Blinding Light defensively to clear waves and protect high ground. Use Chakra Magic on your strongest surviving core to maximize their spell uptime. Build cheaper utility items like Glimmer Cape to save allies.",
+    "search_text": "Keeper of the Light scenario behind defensive high ground wave clear illuminate blinding light chakra magic core utility Glimmer Cape",
+    "tags": [
+      "Keeper of the Light",
+      "SITUATIONAL",
+      "Behind",
+      "Defense"
+    ]
+  },
+  {
+    "display_text": "Against illusion heroes (e.g., Chaos Knight, Phantom Lancer), your area damage from Illuminate is excellent for clearing them. Blinding Light's miss chance also reduces the physical damage output of the illusions. Build items like Shiva's Guard for more area control.",
+    "search_text": "Keeper of the Light scenario vs illusions phantom lancer chaos knight illuminate AoE clear blinding light miss chance Shiva's Guard",
+    "tags": [
+      "Keeper of the Light",
+      "SITUATIONAL",
+      "Illusions"
+    ]
+  },
+  {
+    "display_text": "When you need to break a siege or Rosh pit fight, Will-O-Wisp provides massive area denial. The forced movement pulls enemies out of position, cancelling channeling spells or forcing them to reposition. Use it to secure objectives or defend towers.",
+    "search_text": "Keeper of the Light scenario area denial siege Roshan will-o-wisp pull displacement cancel channel objective",
+    "tags": [
+      "Keeper of the Light",
+      "SITUATIONAL",
+      "Siege",
+      "Area Denial"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +40% Blinding Light Miss or -2s Illuminate Cooldown. Pick +40% Blinding Light Miss (total 85% miss chance) if you need to heavily counter enemy right-clickers. Pick -2s Illuminate Cooldown (11s total) for more frequent wave clear and harassment.",
+    "search_text": "Keeper of the Light talent level 10 left +40% blinding light miss 85% right -2s illuminate cooldown 11s",
+    "tags": [
+      "Keeper of the Light",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between -2s Chakra Magic Cooldown or +90 Blinding Light Damage. Pick -2s Chakra Magic Cooldown (to 10s at max level) for extreme spell spam and utility. Pick +90 Blinding Light Damage (to 330 at max level) for more impactful burst and wave clear with the ability.",
+    "search_text": "Keeper of the Light talent level 15 left -2s chakra magic cooldown right +90 blinding light damage 330",
+    "tags": [
+      "Keeper of the Light",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between +10% Spirit Form Movement Speed Bonus or +200 Chakra Magic Mana. Pick +10% Spirit Form Movement Speed Bonus (to 30% total) for much better positioning and kiting. Pick +200 Chakra Magic Mana (to 500 restore at max level) if your team has extreme mana needs or for self-sustain.",
+    "search_text": "Keeper of the Light talent level 20 left +10% spirit form move speed 30% right +200 chakra magic mana 500",
+    "tags": [
+      "Keeper of the Light",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between Chakra Magic Strong Dispels or +200 Illuminate Damage. Pick Chakra Magic Strong Dispels to provide a crucial defensive tool for your team, removing stuns and debuffs. Pick +200 Illuminate Damage (to 700 at max level) for the highest possible burst damage from your primary nuke.",
+    "search_text": "Keeper of the Light talent level 25 left chakra magic strong dispels remove stun right +200 illuminate damage 700",
+    "tags": [
+      "Keeper of the Light",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

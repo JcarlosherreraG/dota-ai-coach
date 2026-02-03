@@ -1,0 +1,63 @@
+[
+  {
+    "display_text": "Cost: 1900: Dragon Lance is a passive attribute item that provides a substantial increase in attack range for ranged heroes, allowing them to position more safely in fights and harass from a distance. The range bonus does not stack with other Dragon Lances or its upgrades. Stats: Attack Range: +140.",
+    "search_text": "attack range item, ranged hero item, positioning item, safe attack distance, long range, attribute item, agility strength item, dragon lance, DL, ranged positioning, range increase, carry item, mid-game item, agility carry, stat stick, ranged attack range",
+    "tags": [
+      "ITEM_DATA",
+      "DRAGON_LANCE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "ATTACK_RANGE",
+      "RANGED_ONLY",
+      "POSITIONING",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Cost: 1900: Provides a balanced mix of Agility and Strength, increasing a hero's damage, armor, attack speed, and health pool. This makes it an excellent mid-game stat item for many ranged cores. Stats: Agility: +15, Strength: +10.",
+    "search_text": "agility item, strength item, stat item, attribute boost, damage item, hp item, attack speed item, armor item, dragon lance stats, agility strength hybrid, carry stats, core stats, dragon lance",
+    "tags": [
+      "ITEM_DATA",
+      "DRAGON_LANCE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "AGILITY",
+      "STRENGTH",
+      "HEALTH",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "ARMOR",
+      "MID_GAME"
+    ]
+  },
+  {
+    "display_text": "Cost: 1900: Primarily a positioning and survivability tool in team fights, enabling ranged heroes to deal damage from the fringes of combat, reducing their risk of being initiated on. It amplifies the effectiveness of heroes who rely on consistent physical damage from a distance. Stats: Attack Range: +140.",
+    "search_text": "team fight positioning, safe damage dealer, ranged carry item, backline damage, kiting item, survivability item, positioning tool, team fight utility, dragon lance, DL, attack range",
+    "tags": [
+      "ITEM_DATA",
+      "DRAGON_LANCE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "POSITIONING",
+      "SURVIVAL",
+      "DAMAGE",
+      "UTILITY",
+      "BACKLINE"
+    ]
+  },
+  {
+    "display_text": "Cost: 1900: A key component for Hurricane Pike and is a core early-to-mid game item for ranged agility heroes like Drow Ranger, Sniper, and Medusa who benefit immensely from the attack range to safely accelerate their farm and dominate fights. It is also strong on ranged strength heroes who transition into right-click damage. Stats: Agility: +15, Strength: +10, Attack Range: +140.",
+    "search_text": "drow ranger item, sniper item, medusa item, hurricane pike component, agility carry build, ranged core build, synergy item, attack range hero, dragon lance build, early game item, core item, dragon lance",
+    "tags": [
+      "ITEM_DATA",
+      "DRAGON_LANCE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "AGILITY_CARRY",
+      "UPGRADE_COMPONENT",
+      "RANGED_ONLY",
+      "MID_GAME"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "100000012",
+    "game_time": 1350,
+    "clock_time": 1350,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": false
+  },
+  "player": {
+    "team_name": "Dire",
+    "name": "Support5",
+    "gold": 600,
+    "kills": 0,
+    "deaths": 6,
+    "assists": 8,
+    "last_hits": 8,
+    "gpm": 200,
+    "xpm": 280
+  },
+  "hero": {
+    "name": "npc_dota_hero_warlock",
+    "level": 9,
+    "health": 800,
+    "max_health": 1100,
+    "mana": 500,
+    "max_mana": 800,
+    "alive": true,
+    "stunned": false,
+    "silenced": false
+  },
+  "items": {
+    "slot0": { "name": "item_tranquil_boots", "can_cast": false },
+    "slot1": { "name": "item_magic_wand", "charges": 10, "can_cast": true },
+    "slot2": { "name": "item_ward_observer", "charges": 4, "can_cast": true },
+    "slot3": { "name": "item_ward_sentry", "charges": 2, "can_cast": true },
+    "slot4": { "name": "item_smoke_of_deceit", "can_cast": true },
+    "slot5": { "name": "item_tpscroll", "charges": 1, "can_cast": true }
+  },
+  "abilities": {
+    "ability0": { "name": "warlock_fatal_bonds", "level": 2, "can_cast": true, "cooldown": 0 },
+    "ability1": { "name": "warlock_shadow_word", "level": 4, "can_cast": true },
+    "ability2": { "name": "warlock_upheaval", "level": 1, "can_cast": true },
+    "ability3": { "name": "warlock_rain_of_chaos", "level": 1, "can_cast": true, "cooldown": 0, "ultimate": true }
+  },
+  "user_context": "Играю на 5-ке. У меня 4 варда, но команда жалуется на отсутствие вижена. Враги (Nyx, Bounty Hunter, Spirit Breaker) постоянно убивают наших при переходах. Не понимаю, куда ставить варды.",
+  "user_question": ""
+}

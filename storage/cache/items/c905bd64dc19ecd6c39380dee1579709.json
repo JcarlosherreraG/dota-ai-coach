@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Staff of Wizardry, Cost: 1000: Permanent component item providing +10 Intelligence. A foundational piece for building larger intelligence-based items like Scythe of Vyse or Aghanim's Scepter. Provides raw mana pool increase and minor mana regen boost. Stats: Intelligence: +10.",
+    "search_text": "intelligence item, mana item, stat stick, component item, intelligence component, intelligence staff, wizardry, mana pool increase, Staff of Wizardry",
+    "tags": [
+      "ITEM_DATA",
+      "STAFF_OF_WIZARDRY",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "COMPONENT",
+      "INTELLIGENCE",
+      "MANA",
+      "MANA_POOL"
+    ]
+  }
+]

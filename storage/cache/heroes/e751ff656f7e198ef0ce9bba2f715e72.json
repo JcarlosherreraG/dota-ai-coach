@@ -1,0 +1,220 @@
+[
+  {
+    "display_text": "Puck is a ranged Intelligence hero with low base Strength (17), moderate Agility (14), and high starting Intelligence (23). Puck has a below-average attack rate of 1.7 seconds per attack.",
+    "search_text": "Puck hero stats range intelligence attack rate 1.7 strength 17 agility 14 intelligence 23",
+    "tags": [
+      "PUCK",
+      "BASE_STATS",
+      "RANGED",
+      "INTELLIGENCE"
+    ]
+  },
+  {
+    "display_text": "The Jostling Rift facet makes Waning Rift push or pull targets, adding utility for repositioning enemies in fights or combos. The Curveball facet makes Illusory Orb curve in any direction, move faster, deal more damage, and last longer, heavily increasing Puck's mobility and damage output.",
+    "search_text": "Puck facets Jostling Rift Waning Rift push pull reposition. Curveball Illusory Orb curve direction faster more damage longer.",
+    "tags": [
+      "PUCK",
+      "FACET_STRATEGY",
+      "JOSTLING_RIFT",
+      "CURVEBALL"
+    ]
+  },
+  {
+    "display_text": "In lane, use Illusory Orb (Q) for long-range harassment and securing ranged creeps. Prioritize Phase Shift (E) for avoiding nukes and right-click damage. Your low HP pool means you must play carefully against aggressive opponents. Use Puckish passive for sustain by disjointing targeted spells for health and mana restoration.",
+    "search_text": "Puck laning phase early game Illusory Orb harass Phase Shift dodge Puckish sustain disjoint spells.",
+    "tags": [
+      "PUCK",
+      "LANING_PHASE",
+      "HARASS",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Puck's key power spikes are level 6 for Dream Coil initiation and kill threat, level 12 for maxed Waning Rift with a long 3.5-second silence, and level 18 for a 6-second Dream Coil duration. Talent spikes at 15 with reduced Waning Rift cooldown, at 20 with increased Dream Coil damage, and at 25 with Dream Coil piercing BKB. Item timings like Blink Dagger are critical for mid-game initiation.",
+    "search_text": "Puck power spikes level 6 Dream Coil level 12 max silence 3.5s level 18 coil duration 6s talent 15 20 25 Blink Dagger.",
+    "tags": [
+      "PUCK",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_18",
+      "TALENTS"
+    ]
+  },
+  {
+    "display_text": "Puck is countered by instant silences and hexes (e.g., Skywrath Mage, Lion) which prevent Phase Shift and escape. Heroes with innate spell immunity or status resistance (e.g., Juggernaut, Lifestealer) can ignore Waning Rift silence and break Dream Coil. Magic immunity items like Black King Bar render Puck's main spells ineffective unless the 25 talent is taken.",
+    "search_text": "Puck counters instant silence hex prevent Phase Shift. Spell immunity BKB Juggernaut Lifestealer ignore silence Dream Coil.",
+    "tags": [
+      "PUCK",
+      "HARD_COUNTERS",
+      "SILENCE",
+      "HEX",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "Puck's core build is Blink Dagger for instant initiation and mobility, and a defensive item like Eul's Scepter or Linken's Sphere for dispel and survivability. These items are essential to safely execute Puck's combo and escape.",
+    "search_text": "Puck core build essential items Blink Dagger Eul's Scepter Linken's Sphere initiation survival.",
+    "tags": [
+      "PUCK",
+      "CORE_BUILD",
+      "BLINK_DAGGER",
+      "EULS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Puck's role is to initiate with Dream Coil and Illusory Orb, silence key enemy heroes with Waning Rift, and survive using Phase Shift. Puck disrupts enemy positioning and combos, creating chaos while remaining elusive.",
+    "search_text": "Puck teamfight role 5v5 initiator Dream Coil silence Waning Rift disrupt survival Phase Shift.",
+    "tags": [
+      "PUCK",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "DISRUPTOR"
+    ]
+  },
+  {
+    "display_text": "Illusory Orb (Q) launches an orb that deals 75/150/225/300 damage to enemies along its 1950-range path, traveling at 550 speed with a 225 radius. It provides 450 vision for 2.5 seconds. Puck can teleport to the orb at any time with Ethereal Jaunt. Jaunting disjoints projectiles. Cooldown is 11/10/9/8 seconds.",
+    "search_text": "Puck Illusory Orb Q damage 75 150 225 300 range 1950 speed 550 radius 225 vision jaunt disjoint cooldown 11 10 9 8.",
+    "tags": [
+      "PUCK",
+      "ABILITY_DATA",
+      "ILLUSORY_ORB",
+      "MOBILITY",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Waning Rift (W) teleports Puck a max distance of 350 units and deals 60/120/180/240 damage in a 400 radius around the target location, silencing enemies for 2.0/2.5/3.0/3.5 seconds. Cooldown is 16/15/14/13 seconds.",
+    "search_text": "Puck Waning Rift W teleport 350 damage 60 120 180 240 radius 400 silence 2.0 2.5 3.0 3.5s cooldown 16 15 14 13.",
+    "tags": [
+      "PUCK",
+      "ABILITY_DATA",
+      "WANING_RIFT",
+      "SILENCE",
+      "DAMAGE",
+      "BLINK"
+    ]
+  },
+  {
+    "display_text": "Phase Shift (E) is a channelled ability that makes Puck invulnerable and immune for 1/1.75/2.5/3.25 seconds. Any issued action cancels it. Cooldown is 8/7.5/7/6.5 seconds.",
+    "search_text": "Puck Phase Shift E invulnerable channeled duration 1 1.75 2.5 3.25 seconds cooldown 8 7.5 7 6.5.",
+    "tags": [
+      "PUCK",
+      "ABILITY_DATA",
+      "PHASE_SHIFT",
+      "SURVIVAL",
+      "INVULNERABLE"
+    ]
+  },
+  {
+    "display_text": "Ethereal Jaunt is the sub-ability of Illusory Orb that instantly teleports Puck to the orb's current location.",
+    "search_text": "Puck Ethereal Jaunt teleport to Illusory Orb location.",
+    "tags": [
+      "PUCK",
+      "ABILITY_DATA",
+      "ETHEREAL_JAUNT",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Puckish is a passive ability. When Puck disjoints an attack, it restores 10 + 2% of its max mana and 10 + 2% of its max health. Dodging a targeted spell projectile restores 3.5 times that amount. Does not apply to tower attacks.",
+    "search_text": "Puck Puckish passive disjoint attack restore 10 + 2% mana 10 + 2% health. Dodge spell projectile restore 3.5x. Not towers.",
+    "tags": [
+      "PUCK",
+      "ABILITY_DATA",
+      "PUCKISH",
+      "PASSIVE",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Dream Coil (Ultimate) creates a coil with a 375 radius that latches onto enemy heroes for 5/5.5/6 seconds, dealing 175/250/325 initial damage. If a hero moves outside a 600 radius, the coil breaks, stunning them for 1.5/2.0/2.5 seconds and dealing an additional 200/300/400 damage. Does NOT pierce BKB. Cooldown is 75 seconds.",
+    "search_text": "Puck Dream Coil Ultimate R latch radius 375 duration 5 5.5 6 initial damage 175 250 325 break radius 600 stun 1.5 2.0 2.5s break damage 200 300 400 cooldown 75. Does NOT pierce BKB.",
+    "tags": [
+      "PUCK",
+      "ABILITY_DATA",
+      "DREAM_COIL",
+      "ULTIMATE",
+      "STUN",
+      "INITIATION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind. Build defensively with items like Eul's Scepter or Aeon Disk. Use Illusory Orb and Phase Shift to split-push lanes safely. Avoid committing to fights unless you have a clear initiation on a key target with Dream Coil. Your goal is to farm safely and delay the game.",
+    "search_text": "Puck scenario playing from behind defensive Eul's Aeon Disk split push Illusory Orb Phase Shift farm delay.",
+    "tags": [
+      "PUCK",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against high magic burst. Prioritize leveling Phase Shift for longer invulnerability. Consider an early Hood of Defiance or a Magic Wand for burst sustain. Your Puckish passive provides significant health and mana restore if you disjoint their key spells.",
+    "search_text": "Puck scenario vs high magic burst Phase Shift Hood of Defiance Magic Wand Puckish disjoint sustain.",
+    "tags": [
+      "PUCK",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a catch-heavy lineup (e.g., with a Spirit Breaker). Pick the Jostling Rift facet. Use the push/pull to reposition enemies into your team's follow-up stuns and damage after you initiate with Dream Coil.",
+    "search_text": "Puck scenario catch lineup Jostling Rift push pull reposition combo Dream Coil.",
+    "tags": [
+      "PUCK",
+      "SITUATIONAL",
+      "WITH_CATCH",
+      "JOSTLING_RIFT"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need maximum solo kill potential and mobility. Pick the Curveball facet. The curving, faster Orb allows for unpredictable ganks, deals more damage, and gives you superior map mobility for pick-offs.",
+    "search_text": "Puck scenario solo kill mobility Curveball facet orb curve fast damage gank pick-off.",
+    "tags": [
+      "PUCK",
+      "SITUATIONAL",
+      "SOLO_KILL",
+      "CURVEBALL"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talent: Left choice is +40 Illusory Orb Damage, right choice is +1.25s Waning Rift Silence Duration. Choose +40 damage if you are the primary source of burst and need to secure kills. Choose +1.25s silence if your team needs longer control against spell-dependent enemies like Storm Spirit or Enigma.",
+    "search_text": "Puck talent level 10 left +40 Illusory Orb damage right +1.25s Waning Rift silence duration.",
+    "tags": [
+      "PUCK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talent: Left choice is -15s Dream Coil Cooldown, right choice is +60 Waning Rift Damage. Choose -15s cooldown if you are the main initiator and need Dream Coil available for every fight. Choose +60 damage if you are focusing on burst and flash farming, or if fights are frequent and you need more immediate impact.",
+    "search_text": "Puck talent level 15 left -15s Dream Coil cooldown right +60 Waning Rift damage.",
+    "tags": [
+      "PUCK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talent: Left choice is -2.5s Waning Rift Cooldown, right choice is +200 Initial/Break Dream Coil Damage. Choose -2.5s cooldown for higher uptime on your silence and mobility, allowing for more frequent engages and disables. Choose +200 Dream Coil damage for massive teamfight burst, especially effective if you can break the coil on multiple heroes.",
+    "search_text": "Puck talent level 20 left -2.5s Waning Rift cooldown right +200 Dream Coil initial break damage.",
+    "tags": [
+      "PUCK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talent: Left choice is Dream Coil Pierces Debuff Immunity, right choice is +350 Waning Rift Radius/Max Distance. Choose the BKB-piercing Dream Coil in almost all games against heroes who rely on Black King Bar. It is a game-changing talent. Choose +350 radius/distance only if the enemy has no BKB carriers and you need extreme AOE silence range for control.",
+    "search_text": "Puck talent level 25 left Dream Coil pierces BKB debuff immunity right +350 Waning Rift radius max distance.",
+    "tags": [
+      "PUCK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

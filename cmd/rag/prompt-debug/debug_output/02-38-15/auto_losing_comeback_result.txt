@@ -1,0 +1,283 @@
+FILE: auto_losing_comeback.json
+QUESTION: What is the most important tactical advice for next 30 seconds?
+GENERATION TIME: 1.85s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, UTILITY] | Town Portal Scroll CORE_BUILD: Core item for every hero at all stages, purchased repeatedly from the side shop. No components or upgrades. Synergy: Pair with Boots of Travel for non-structure teleports later. Stats: Cost: 100 gold.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+---
+[TAGS: Ability, Utility, Vision Control] | Raven's Veil: Grants invisibility, movement speed, and vision reduction for tactical repositioning. Stats: Radius: 1500, Wave Speed: 1500, Buff Duration: 7/8/9 seconds, Bonus Movement Speed: 15%/25%/35%, Vision Debuff Duration: 4 seconds.
+---
+[TAGS: ITEM_DATA, WARD_DISPENSER, SITUATIONAL_USAGE, CONSUMABLE, VS_INVIS, VISION, DETECTION, UTILITY, SUPPORT_ITEM] | Observer and Sentry Wards Dispenser, Cost: 50: Purchase for efficient slot usage when you need both vision and detection. Use Sentry Wards to counter invisibility-based heroes or to deward common enemy Observer spots. Share wards with allies to free up inventory slots. Prioritize placing Observers for high-ground vision and Sentries for objective control. Stats: Observer Vision: 1600, Sentry True Sight Range: 1050, Observer Cast Range: 500, Sentry Cast Range: 500.
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, EARLY_GAME_USAGE, CONSUMABLE, MOBILITY, ROTATION, LANING, SITUATIONAL_USAGE] | Town Portal Scroll, Cost: 100: Essential starting item for early game rotations and lane sustain. Enables heroes to quickly return to lane after visiting the fountain, minimizing experience loss. Critical for responding to early ganks or dives to turn fights and save allies.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, UTILITY, OBJECTIVE] | Beloved Memory SITUATIONAL_UTILITY: Situational for specific game events or objectives related to Altars. No direct counterplay from enemies as it targets a friendly structure. Its value is derived from its unique interaction, not stats. Stats: Target Team: Friendly.
+---
+[TAGS: Ability, Detection, Vision] | Crystal Ball: Scans an area globally to detect enemy presence and reveal invisibility, countering stealth tactics. Stats: Radius: 450, Duration: 5, Truesight Linger: 1
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Elusive HARD_COUNTERS: The evasion is countered by items and abilities providing True Strike (e.g., Monkey King Bar, Bloodthorn, certain hero spells), which completely negate its defensive benefit.
+---
+[TAGS: STRATEGY, Undying, ITEM_BUILD, SITUATIONAL] | Undying Situational: Buy Glimmer Cape vs magic burst or Lotus Orb against debuffs and silences.
+---
+[TAGS: Ability, Ward, Damage] | Purple Plague Ward: Summons a ward that deals physical damage over time. Stats: Duration: 30, HP: 200, Damage: 19
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, SUPPORT, MAP_CONTROL] | Observer and Sentry Wards CONSUMABLE Cost: 50: This item allows you to plant vision-providing Observer Wards and True Sight-granting Sentry Wards. Double-clicking the item switches the currently selected ward type before planting. Hold Control and use on an allied hero to transfer a single ward to them. Stats: Observer Cost: 75, Observer Duration: 6 min (360s), Observer Vision Range: 1600, Observer Cast Range: 500. Sentry Cost: 100, Sentry Duration: 8 min (420s), Sentry True Sight Range: 1050, Sentry Cast Range: 500.
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, VS_INVIS, MAP_CONTROL] | Observer and Sentry Wards CONSUMABLE Cost: 50: Use Sentry Wards to secure key areas against invisible heroes like Riki or to destroy enemy Observer Wards when you suspect they have vision. Plant Observer Wards to provide vision for Roshan attempts, key jungle choke points, or to safely push towers. The ability to switch between ward types makes it a flexible tool for vision domination throughout the game.
+---
+[TAGS: Map Control, Vision, Awareness] | Vision: Enhances Zeus's map awareness and vision control by granting additional sight range. Stats: Vision Bonus: +200
+---
+[TAGS: Ability, Movement, Buff] | Movement Speed Bonus (45): Exceptional speed boost for high-impact rotations. Stats: Movement Speed: +45
+---
+[TAGS: Ability, Movement, Buff] | Movement Speed Bonus (75): Ultimate speed boost for unparalleled mobility. Stats: Movement Speed: +75
+---
+[TAGS: ITEM_DATA, RECIPE_BLACK_KING_BAR, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Black King Bar Recipe. Cost: 1450: Component required to assemble Black King Bar. Does not provide stats or abilities.
+---
+[TAGS: STRATEGY, Faceless Void, ITEM_BUILD, SITUATIONAL] | Faceless Void Situational: BKB vs spell-heavy teams, Linken's vs single-target disables (Doom), or Aghanim's Scepter for Reverse Time Walk saves.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: PUCK, ABILITY_DATA, WANING_RIFT, SILENCE, DAMAGE, BLINK] | Waning Rift (W) teleports Puck a max distance of 350 units and deals 60/120/180/240 damage in a 400 radius around the target location, silencing enemies for 2.0/2.5/3.0/3.5 seconds. Cooldown is 16/15/14/13 seconds.
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: ITEM_DATA, AETHERIAL_HALO, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, VS_MAGIC, SURVIVAL, SUSTAIN, CONTROL, VS_MOBILITY] | Cost: 5900: Highly effective against magic-resistant enemies and physical burst due to the raw attribute bulk and spell lifesteal sustain. The active burn damage over time and slow helps control mobile heroes and prevent disengages.
+---
+[TAGS: ITEM_DATA, BELOVED_MEMORY, CORE_DESCRIPTION, NON_PURCHASABLE, EVENT, UTILITY] | Ofrenda - Beloved Memory, Tier N/A (Non-Purchasable): An Offering that can be placed on an Altar to honor the dead. Its sole ability honors the dead with a memory, targeted on friendly buildings. Provides no stat bonuses. This item is for event or tribute mechanics. Stats: CD: 3s, Cast Speed: 1000.
+---
+[TAGS: Ability, Vision, Utility] | Night Vision Bonus: Grants superior vision control in darkness. Stats: Night Vision Range: +400/500/600/800/1000
+---
+[TAGS: Ability, Invulnerability, Survivability] | Mischief: Extends invulnerability duration, improving survivability and escape options. Stats: Invulnerability Duration: s
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, GLOBAL, DEFENSE] | Town Portal Scroll TEAMFIGHT_ROLE: Critical for global map presence to counter-gank, defend structures under siege, or secure Roshan after respawn. Successive teleports to the same location increase channel time, requiring coordination. Stats: Channel Time: 3 seconds, Range Max: 800.
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: ITEM_DATA, GUARDIAN_GREAVES, FULL_ITEM, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_PHYSICAL, VS_CONTROL, DISPEL, DEFENSIVE, SAVE, MANA_REGEN] | Guardian Greaves, Cost: 4300: Excellent against lineups with strong physical damage (armor bonus) and AoE magic damage that lowers the team's health (clutch AoE heal). It is a situational counter to control spells that can be Basic Dispelled (e.g., slows, DoTs), allowing the support to purge themself and heal allies simultaneously. The constant mana regen aura helps counter mana-burn strategies.
+---
+[TAGS: Ability, Mobility, Positioning] | Movement Speed Bonus: Increases mobility for better positioning and escape. Stats: Speed Bonus: 10/15/100
+---
+[TAGS: Abilities, Mobility, Permanent Ability] | Permanent Scorched Earth: Grants Scorched Earth a permanent effect, providing continuous mobility and damage benefits. Stats: No additional stats.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: ITEM_DATA, ABYSSAL_BLADE, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, BKB_PIERCE, DISABLE, LOCKDOWN, COUNTER_ITEM, LATE_GAME] | Abyssal Blade, Cost: 6250: Situationally built against heroes reliant on spell immunity (Black King Bar) or escape mechanisms that provide debuff immunity. The active 'Overwhelm' stun pierces these immunities, making it a key counter-item for locking down elusive or magic-immune cores who are otherwise difficult to control. Directly counters the defensive power of BKB in the late game.
+---
+[TAGS: ITEM_DATA, GUARDIAN_GREAVES, FULL_ITEM, CORE_MECHANICS, AURA, BUFF, SAVE, DEFENSIVE, DISPEL, HEAL, MANA_REGEN, SUPPORT_ITEM] | Guardian Greaves, Cost: 4300: Provides two core support abilities. The active 'Mend' instantly restores 325 health and 200 mana to all allies in a 1200 radius while removing most negative effects from the caster with a Basic Dispel. The passive 'Guardian Aura' provides a constant 2.5 health and 1.5 mana regeneration aura in the same radius, which dramatically increases to 14.5 health regen if the wearer falls below 25% health. Stats: CD: 45s, Mana: 0, Aura Radius: 1200.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_VISION, MAP_CONTROL, UTILITY] | Smoke of Deceit SITUATIONAL_VS_VISION: Directly counters enemy vision and map control. It allows teams to move through areas likely warded, devalue enemy sentry wards, and execute ganks or Roshan attempts without being seen by Observer Wards or hero abilities that grant vision. Stats: True Sight Immune Invisibility, Break Radius: 1025.
+---
+[TAGS: Ability, Passive, Defensive] | Prickly: Provides damage reduction and debuff duration amplification when attacked from behind, increasing survivability against flanking enemies. Stats: Damage Reduction: 10%, Angle: 110.
+---
+[TAGS: STRATEGY, Tiny, ITEM_BUILD, SITUATIONAL] | Tiny Situational: Buy Black King Bar against heavy magic damage or stuns, and Assault Cuirass to mitigate armor reduction.
+---
+[TAGS: MEDUSA, SITUATIONAL, DEFENSE, HIGH_GROUND, STALL, LATE_GAME] | Scenario: Playing from Behind / Defending High Ground. Medusa excels at defending with Split Shot clearing waves and Stone Gaze zoning the choke. Prioritize survivability items like Skadi and Butterfly. Use Mystic Snake to farm safely. Your Mana Shield makes you very hard to dive under tower. Drag the game out to reach your late-game potential.
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: Slardar, Ability Upgrade, Vision Control] | Corrosive Haze Undispellable: Makes vision and armor reduction permanent against targets, countering dispels. Stats: Undispellable debuff
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPELLABLE, NO_BKB_PIERCE] | Orb of Corrosion HARD_COUNTERS: The Corrosion effect is dispellable, meaning items like Manta Style or abilities with basic dispels can remove all debuffs (slow, armor reduction, heal reduction). Its effectiveness is limited against heroes who naturally build dispels or have innate magic resistance/status resistance. The effect does not pierce Spell Immunity. Stats: Dispellable: Yes, Does Not Pierce BKB.
+---
+[TAGS: Ability, Techies, Utility, Passive] | Spoon's Stash: Enhances Neutral Items by stacking enchantments, improving Techies' utility. Stats: Passive.
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: ITEM_DATA, FULL_ITEM, UPGRADE, SUPPORT, UTILITY, AURA] | Built from Buckler, Ring of Basilius, and Headdress, consolidating their component auras into one efficient package. This makes it an ideal mid-game upgrade for supports or utility cores looking to enhance their team's durability and pushing power. Its value is maximized when grouped with multiple heroes.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, SITUATIONAL, CHASE, ESCAPE] | Unrelenting Eye TEAMFIGHT_ROLE: Gains peak value when the wearer is isolated or diving into the backline with few heroes nearby, maximizing slow resistance for chasing or escaping. Conversely, its effect is minimal in the middle of a dense 5-man clash, reducing its defensive utility against coordinated slows. Stats: Bonus reduced by 10% per enemy hero in attack radius.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: Ability, Movement Speed] | Movement Speed Bonus 90: Enhances mobility for repositioning and escapes. Stats: Movement Speed: +90
+---
+[TAGS: STRATEGY, Jakiro, ITEM_BUILD, SITUATIONAL] | Jakiro Situational: Buy BKB vs heavy stuns/silences, Glimmer Cape vs magic burst, or Shiva's Guard vs physical damage dealers.
+---
+[TAGS: NATURES_PROPHET, ABILITY_DATA, TELEPORTATION] | ABILITY: Teleportation. Teleports to any point on the map. Gains a barrier after arriving to its destination. Cooldown is 65/50/35/20 seconds. Barrier absorbs 70/130/190/250 damage and lasts 15 seconds. Mana and cooldown are consumed only upon successful completion of the cast. A visible effect is created at the target location when casting begins.
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, SAVE, DEFENSIVE, REPOSITIONING, DISPEL, CC_IMMUNITY] | Wind Waker FULL_ITEM Cost: 6800: Provides a powerful Cyclone ability on a 19-second cooldown for 175 mana. This unit-targeted ability lifts a target (ally, enemy, or self) into a cyclone, making them invulnerable for 2.5 seconds—a duration unaffected by status resistance. It applies a basic dispel on cast and deals 50 magic damage to enemy units when they land. When cast on yourself, you can move the cyclone. Stats: Total Cost 6800g, CD 19s, Mana 175, Cyclone Duration 2.5s, Land Damage 50 magical.
+---
+[TAGS: ITEM_DATA, OBSERVER_WARD, EARLY_GAME_USAGE, CONSUMABLE, LANING, VISION, SUPPORT_ITEM, SAFETY] | Observer Ward, Cost: 0: Essential early game consumable for lane safety and rune control. Provides vision to avoid ganks and secure last hits safely. Supports primarily purchase these for team-wide map awareness.
+---
+[TAGS: ITEM_DATA, OBSERVER_WARD, CORE_MECHANICS, CONSUMABLE, VISION, MAP_CONTROL, SUPPORT_ITEM] | Observer Ward, Cost: 0: Places an invisible Observer Ward that provides 1600 radius ground vision to your team, lasting 6 minutes. Holds a single charge that replenishes over time at the shop. Critical for map control and information. Stats: CD: 1s, Duration: 360s, Vision: 1600, HP: 200.
+---
+[TAGS: VENOMANCER, ABILITY_DATA, PLAGUE_WARD, SUMMON, MAGIC_IMMUNE, VISION] | Plague Ward (E): Summons an immune-to-magic ward that attacks enemies. Ward lasts 40 seconds. Cooldown: 5 seconds. Ward HP: 150/250/350/450. Ward Damage: 16/24/32/40. The ward's attacks inherit Poison Sting, dealing 50% of the full damage. Gold bounty: 100%.
+---
+[TAGS: STRATEGY, Lycan, ITEM_BUILD, SITUATIONAL] | Lycan Situational: Buy BKB against heavy CC, Pipe of Insight vs. magic damage, and Nullifier vs. defensive items like Ghost Scepter.
+---
+[TAGS: STRATEGY, Muerta, ITEM_BUILD, SITUATIONAL] | Muerta Situational: Buy Manta Style against silences or Orchid Malevolence. Consider Shadow Blade or Silver Edge against tanky heroes with Break.
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, SITUATIONAL_USAGE, CONSUMABLE, MOBILITY, ESCAPE, SPLIT_PUSH, DEFENSE, VS_CONTROL] | Town Portal Scroll, Cost: 100: Core tactical tool for split-pushing safely and defending structures. Use to escape dangerous situations by channeling to a safe tower. Key for maintaining map pressure and forcing enemy reactions. Remember, roots prevent the channel. Stats: CD: 80s, Mana: 75.
+---
+[TAGS: ITEM_DATA, DIMENSIONAL_DOORWAY, CORE_DESCRIPTION, NEUTRAL, TIER_5, MOBILITY, TEAM_BUFF, UTILITY, ESCAPE, REPOSITION] | Dimensional Doorway, Cost: 0: Tier 5 Neutral item that creates a one-way portal. Teleports you and nearby allied heroes to a target location after a short delay. Primarily used for strategic repositioning or escapes. Stats: CD: 90s, Charges: 3.
+---
+[TAGS: ITEM_DATA, OBSERVER_WARD, SITUATIONAL_USAGE, CONSUMABLE, VISION, MAP_CONTROL, STRATEGIC] | Observer Ward, Cost: 0: Use to secure Roshan pit vision, spot enemy rotations through jungle chokepoints, and deward high-ground cliffs for push defense. The single charge mechanic forces strategic placement decisions.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, UTILITY, MOBILITY] | Town Portal Scroll CORE_MECHANICS: Allows you to teleport to any friendly building after channeling for 3 seconds. Primarily used for map repositioning, defending towers, or joining fights. Double-clicking teleports you directly to your team's fountain. Stats: Cost: 100 gold, Cooldown: 80 seconds, Channel Time: 3 seconds, Mana Cost: 75, Cast Range Min: 70, Cast Range Max: 800, Teleport Vision Radius: 200.
+---
+[TAGS: Ability, Synergy, Damage] | Special Bonus Unique Wisp 4: Allows tethered ally to attack tethered target, enhancing synergy and damage output. Stats: Damage: Percentage-based
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+---
+[TAGS: ITEM_DATA, FORTITUDE_RING, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SAVE, HEALTH, REGEN, SURVIVAL] | Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.
+---
+[TAGS: TECHIES, ABILITY_DATA, STICKY_BOMB] | Sticky Bomb (Q): Techies lobs a bomb that sticks to the first enemy hero it lands near, slowing their movement speed by 25/35/45/55% for 1.2 seconds. After a 2-second countdown, it explodes for 95/170/245/320 magic damage in a 350 radius and applies a secondary slow of 15/25/35/45% for 3 seconds. The bomb has a travel speed of 500 and chases a target for up to 4 seconds if none is initially stuck. It has a 300 placement radius.
+---
+[TAGS: Ability, Mobility, Positioning] | Leap: Increases mobility, allowing for better positioning and escape. Stats: Leap Distance: 150
+---
+[TAGS: Ability, Movement, Buff] | Movement Speed Bonus (35): Provides superior mobility for initiation and disengagement. Stats: Movement Speed: +35
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, STAT_PROFILE, FULL_ITEM, HEALTH, DAMAGE, STRENGTH, SURVIVAL] | Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.
+---
+[TAGS: ITEM_DATA, WARD_DISPENSER, EARLY_GAME_USAGE, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, SUPPORT_ITEM] | Observer and Sentry Wards Dispenser, Cost: 50: Core vision tool for supports. Observer Wards provide map control and vision for 6 minutes. Sentry Wards provide True Sight to deward enemy vision or detect invisible heroes. Essential for controlling key objectives. Stats: Observer Cost: 75, Sentry Cost: 100, Observer Duration: 6 min, Sentry Duration: 8 min.
+---
+[TAGS: ITEM_DATA, ESSENCE_RING, CORE_DESCRIPTION, NEUTRAL, TIER_2, SURVIVAL, DEFENSIVE, HEALTH, ACTIVE, BURST_HEAL] | Essence Ring, Tier 2: Neutral item that instantly increases your current and maximum health by 240 for 10 seconds upon activation. This burst of survivability provides a temporary health buffer for clutch moments in skirmishes or to survive burst damage. Its substantial mana cost requires careful mana management. Stats: CD: 25s, Mana: 160, Duration: 10s, Health Gain: 240.
+---
+[TAGS: ITEM_DATA, CLARITY, SITUATIONAL_USAGE, CONSUMABLE, UTILITY, ALLY_BUFF, SITUATIONAL_USAGE] | Clarity, Cost: 60: Use from a safe, hidden position to avoid having the buff cancelled by enemy attacks. Ideal for sustaining during a siege where you are not under direct attack, or after winning a fight to recover mana for the next objective. Can be shared with allies to help them sustain.
+---
+[TAGS: Ability, Area of Effect] | Eyes and Overgrowth AoE Increase: Expands the area of effect for vision and crowd control abilities.
+---
+[TAGS: Ability, Mobility, Utility] | Reality: Allows Spectre to teleport to a Haunt or Shadow Step illusion, enhancing mobility and escape potential. Stats: Cooldown: 1.5.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: Ability, Vision, Passive] | Sight: Provides passive vision in a large area. Stats: Radius: 1000
+---
+[TAGS: Ability, Movement Speed] | Movement Speed Bonus 10%: Increases mobility percentage-wise for faster rotations. Stats: Movement Speed: +10%
+---
+[TAGS: BEASTMASTER, SITUATIONAL, VS_MAGIC_BURST] | Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, CORE_ITEM] | Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.
+---
+[TAGS: STRATEGY, Meepo, ITEM_BUILD, SITUATIONAL] | Meepo Situational: Buy BKB against heavy magic damage or stuns. Consider Manta Style versus silences or Orchid carriers.
+---
+[TAGS: STRATEGY, Visage, ITEM_BUILD, SITUATIONAL] | Visage Situational: Buy BKB vs lockdown, Shiva's vs physical damage, or Nullifier vs saves. Consider Overwhelming Blink for initiation if ahead.
+---
+[TAGS: Roshan, Ability, Escape, Repositioning] | Teleport: Allows Roshan to relocate instantly, making it a versatile escape or repositioning tool. Stats: Cooldown: 0
+---
+[TAGS: PANGOLIER, SITUATIONAL, SPLIT_PUSH, ESCAPE, MOBILITY] | Scenario: Need to Split Push. Swashbuckle clears creep waves rapidly. Rolling Thunder allows you to escape from most gank attempts by rolling through trees and over cliffs. Carry a Teleport Scroll to join fights after pushing. The Double Jump Facet can help you traverse terrain to escape.
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, CORE_MECHANICS, CONSUMABLE, MOBILITY, TELEPORT, MAP_CONTROL, CHANNELED] | Town Portal Scroll, Cost: 100: Channel for 3 seconds to teleport to any friendly building. Double-click to target your team's fountain. If multiple heroes target the same location, each successive channel time increases. Teleport is interrupted by taking player-based damage or root effects. Stats: CD: 80s, Mana: 75, Channel Time: 3s, Charges: 1.
+---
+[TAGS: ITEM_DATA, VITALITY_BOOSTER, STAT_PROFILE, FULL_ITEM, HEALTH, SURVIVAL, COMPONENT, SECRET_SHOP] | Vitality Booster, Cost: 1000: Purchasable from the Secret Shop. Provides a flat +250 maximum Health, offering raw survivability with no active abilities. A core component for many late-game health-focused items like Heart of Tarrasque. Stats: Health Bonus: +250.
+---
+[TAGS: ITEM_DATA, WAND_OF_THE_BRINE, CORE_MECHANICS, SAVE, DEFENSIVE, HEAL, BUFF, MOBILITY, SURVIVAL, UTILITY] | Wand of the Brine, Cost: 0, Tier N/A: Active item that can be cast on allies or self. Heals 40 health every 0.5 seconds for 3 seconds while increasing the target's heal amplification by 15% and movement speed by 50%. Also grants 50% damage reduction for the duration. A powerful defensive save tool that boosts sustain and survivability during fights. Stats: CD: 35s, Mana Cost: 90, Duration: 3s, Interval: 0.5s.
+---
+[TAGS: ITEM_DATA, SAMPLE_PICKER, CORE_DESCRIPTION, NON_PURCHASABLE] | Sample Picker, Cost: 0: This item appears to be a placeholder or custom game item, providing no purchasable stats or active abilities in the standard shop. It is associated with a penalty to Strength. Stats: Cooldown: 15s.
+---
+[TAGS: Ability, Movement Speed] | Movement Speed Bonus 5%: Provides a slight mobility boost. Stats: Movement Speed: +5%
+---
+[TAGS: ITEM_DATA, FULL_ITEM, VS_CONTROL, DISPEL, SAVE] | A powerful counter to single-target disables and debuffs due to its basic dispel effect on cast. Effective against heroes reliant on silences, roots, or other dispellable effects to lock down targets, as it can instantly remove them from an ally.
+---
+[TAGS: Ability, Slow, Disruption] | Dual Breath Slow: Reduces enemy movement and attack speed significantly, ideal for disrupting enemy carries or escaping dangerous situations. Stats: Movement Speed Slow: [value], Attack Speed Slow: [value]
+---
+[TAGS: JAKIRO, SITUATIONAL, FROM_BEHIND, DEFENSIVE] | When playing from behind, use your spells defensively. Ice Path to stop chases, Dual Breath to slow pursuers, and Macropyre to zone areas you need to defend. Build cheap utility items like Force Staff and Glimmer Cape to save allies and yourself.
+---
+[TAGS: ITEM_DATA, WARD_DISPENSER, CORE_MECHANICS, CONSUMABLE, VISION, DETECTION, UTILITY, SUPPORT_ITEM] | Observer and Sentry Wards Dispenser, Cost: 50: Holds both Observer and Sentry wards in one item slot. Double-click to switch between ward types before planting. Can share individual wards with allies by holding Control. Consumable. Stats: No Cooldown, No Mana Cost.
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, MAP_CONTROL, DETECTION, SUPPORT] | Observer Ward CONSUMABLE Cost: 0: A consumable ward that provides ground vision. Plants an invisible Observer Ward that grants 1600 radius vision to your team. It lasts for 6 minutes. Use this to gain map control, spot enemy movements, or secure key objectives. Stats: Cost: 0 Gold. Cooldown: 1s. Charges: 1. Lifetime: 360s (6 minutes). Vision Range: 1600. Health: 200.
+
+=== GAME STATE ===
+Match Time: 30:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: spectre (Lvl 14) | HP: 1100/1500 | Mana: 400/500 | Alive: true
+Stats: K/D/A 2/8/3 | Gold: 1200 | LastHits: 95
+Inventory: [item_power_treads (CD), item_blade_mail, item_magic_wand x5, item_wraith_band (CD)]
+Abilities: [spectre_spectral_dagger(Lvl4)[Rdy] | spectre_desolate(Lvl2)[NoMana/Silenced] | spectre_dispersion(Lvl4)[NoMana/Silenced] | spectre_haunt(Lvl2)[ULTIMATE-READY]]
+User Situation Notes: Мы сильно проигрываем. Враги (PA, Storm Spirit, Pudge, Witch Doctor, Treant) уже сломали две линии раксов. У PA уже Deso + BKB + Basher. Мне не дают фармить, везде варды.
+
+=== USER QUESTION ===
+"What is the most important tactical advice for next 30 seconds?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "What is the most important tactical advice for next 30 seconds?".**
+========================================
+
+[AI RESPONSE] (3.97s)
+The most important tactical advice for the next 30 seconds is to **use your ultimate Haunt** to disrupt the enemy's push and save your structures. Since you have Spectral Dagger ready, **use it to reposition** and get behind the enemy lineup to pick off a high-value target like the Witch Doctor or Treant. This can force the enemy to retreat or deal with the distraction, giving your team a chance to recover and defend.

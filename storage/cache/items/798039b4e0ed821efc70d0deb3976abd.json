@@ -1,0 +1,77 @@
+[
+  {
+    "display_text": "Wind Waker, Cost: 6800: Provides an active Cyclone ability that sweeps a target unit into the air for 2.5 seconds, making them invulnerable. Can be cast on self, allies, or enemies. Enemies take 50 magical damage upon landing. A basic dispel, it can be used to remove certain buffs or debuffs. When self-cast, the cyclone can be controlled and moved. Stats: CD: 19s, Mana Cost: 175, Cyclone Duration: 2.5s.",
+    "search_text": "save item, defensive item, cyclone, invulnerability, dispel item, protect ally, reposition tool, magic immunity, disable immunity, save teammate, support item, team fight utility, crowd control, windwaker, Wind Waker, dispel, cyclone item, ally save, enemy disable",
+    "tags": [
+      "ITEM_DATA",
+      "WIND_WAKER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "DISPEL",
+      "UTILITY",
+      "TEAMFIGHT_ROLE",
+      "VS_CONTROL"
+    ]
+  },
+  {
+    "display_text": "Wind Waker, Cost: 6800: Provides a significant Intelligence boost and utility. Stats include +35 Intelligence, +3.0 Mana Regeneration, and +30 Movement Speed. This makes it a strong mana-pool and casting efficiency item for intelligence heroes.",
+    "search_text": "wind waker stats, intelligence item, mana regen item, movement speed item, stat item, support stats, caster stats, mana pool item, intelligence boost, Wind Waker",
+    "tags": [
+      "ITEM_DATA",
+      "WIND_WAKER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "MANA_REGEN",
+      "MOVEMENT_SPEED",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Wind Waker, Cost: 6800: A powerful defensive and utility tool in team fights. Its primary use is to grant invulnerability to a key ally (or yourself) for 2.5 seconds, saving them from deadly abilities or spells. The ability can also be used offensively to disable an enemy core, though the damage is minimal. The invulnerability effect ignores status resistance.",
+    "search_text": "team fight item, save ally, defensive support, invulnerability tool, ally protection, disable enemy, team fight utility, save teammate, crowd control, defensive cyclone, Wind Waker",
+    "tags": [
+      "ITEM_DATA",
+      "WIND_WAKER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "UTILITY",
+      "VS_CONTROL",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Wind Waker, Cost: 6800: High-cost utility item ideal for supports or utility cores facing heavy single-target lockdown or burst damage. Effective against heroes with powerful targeted disables or single-instance kill spells, as the invulnerability window can completely negate them. Can also be used to disjoint projectiles or spells on reaction.",
+    "search_text": "counter burst, counter single target, defensive item, save vs disable, vs control, counter lockdown, disjoint spells, projectile disjoint, reaction save, utility support item, Wind Waker",
+    "tags": [
+      "ITEM_DATA",
+      "WIND_WAKER",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SAVE",
+      "VS_CONTROL",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Wind Waker, Cost: 6800: Situational purchase primarily for heroes who can make use of the massive Intelligence bonus and the defensive utility. Excellent on intelligence supports who need to save their carry (like Crystal Maiden, Shadow Shaman) or on mobile intelligence cores who can save themselves while repositioning (like Storm Spirit). The self-cast controllable cyclone provides unique mobility.",
+    "search_text": "synergy intelligence heroes, synergy supports, save item synergy, repositioning synergy, cyclone self cast, mobility item, intelligence core item, support core item, Wind Waker",
+    "tags": [
+      "ITEM_DATA",
+      "WIND_WAKER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "MOBILITY",
+      "SAVE",
+      "SUPPORT_ITEM",
+      "CORE_ITEM"
+    ]
+  }
+]

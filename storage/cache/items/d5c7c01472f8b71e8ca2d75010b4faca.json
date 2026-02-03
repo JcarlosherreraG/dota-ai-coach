@@ -1,0 +1,74 @@
+[
+  {
+    "display_text": "Nullifier, Cost: 4375: Continuously dispels a single target enemy, applying a debuff for 4 seconds that re-applies dispels every 0.5 seconds and slows them by 10%. Its projectile can be cast on invulnerable units, making it a powerful catch and purge tool against buff-reliant heroes. Stats: CD: 10s, Slow: 10%, Debuff Duration: 4s.",
+    "search_text": "nullifier, dispel item, purge item, continuous dispel, buff removal, debuff removal, basic dispel, silence dispel, slow dispel, remove buffs, continuous slow, purge effect, counter buffs, dispel target, invulnerable target, cast on invulnerable, slow purge, Nullifier",
+    "tags": [
+      "ITEM_DATA",
+      "NULLIFIER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DISPEL",
+      "CLEANSE",
+      "DEBUFF",
+      "SLOW",
+      "CATCH",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Nullifier, Cost: 4375: Provides +75 Damage, +10 Armor, and +6 HP Regeneration. These stats offer a balanced mix of offensive and defensive power, augmenting a right-click carry's survivability and damage output.",
+    "search_text": "nullifier stats, damage item, armor item, health regen item, carry stats, offensive defense, physical carry item, damage armor regen, Nullifier",
+    "tags": [
+      "ITEM_DATA",
+      "NULLIFIER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "ARMOR",
+      "REGEN",
+      "SUSTAIN",
+      "PHYSICAL_DAMAGE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Nullifier, Cost: 4375: A hard counter item in team fights, designed to neutralize key enemy targets by stripping their protective buffs and slowing them, preventing their escape or defensive abilities. Its ability to be cast on invulnerable units makes it exceptionally reliable for securing kills on elusive or saved heroes.",
+    "search_text": "nullifier team fight, counter save items, stop escape, lock down target, prevent buffs, catch item, team fight utility, disable buffs, counter defensive items, kill secure, Nullifier",
+    "tags": [
+      "ITEM_DATA",
+      "NULLIFIER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "CATCH",
+      "COUNTER_ITEM",
+      "DEBUFF",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Nullifier, Cost: 4375: Primary situational pickup against heroes reliant on strong defensive buffs like Guardian Greaves dispel, Eul's Scepter, Ghost Scepter, or Glimmer Cape. Also effective against heroes with strong dispellable healing or regeneration effects.",
+    "search_text": "nullifier situational, counter guardian greaves, counter euls, counter ghost scepter, counter glimmer cape, vs buffs, vs dispellable buffs, vs healing, vs regen, situational counter, Nullifier",
+    "tags": [
+      "ITEM_DATA",
+      "NULLIFIER",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "VS_HEALERS",
+      "COUNTER_ITEM",
+      "DISPEL"
+    ]
+  },
+  {
+    "display_text": "Nullifier, Cost: 4375: A high-priority luxury item for physical damage cores who need to guarantee kills against slippery or well-protected targets. Synergizes well with heroes who already have lockdown, as the slow amplifies catch potential, and with attack speed items to maximize the damage bonus.",
+    "search_text": "nullifier build, nullifier synergy, carry item, physical core item, right click item, luxury damage, kill guarantee, vs slippery heroes, vs protected heroes, dps synergy, attack speed synergy, Nullifier",
+    "tags": [
+      "ITEM_DATA",
+      "NULLIFIER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "DAMAGE",
+      "SYNERGY"
+    ]
+  }
+]

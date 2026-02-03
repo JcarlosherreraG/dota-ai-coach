@@ -1,0 +1,48 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "100000010",
+    "game_time": 1400,
+    "clock_time": 1400,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": true
+  },
+  "player": {
+    "team_name": "Dire",
+    "name": "BKBDilemma",
+    "gold": 3900,
+    "kills": 5,
+    "deaths": 3,
+    "assists": 7,
+    "last_hits": 130,
+    "gpm": 460,
+    "xpm": 500
+  },
+  "hero": {
+    "name": "npc_dota_hero_sven",
+    "level": 14,
+    "health": 1600,
+    "max_health": 1600,
+    "mana": 500,
+    "max_mana": 600,
+    "alive": true,
+    "stunned": false,
+    "silenced": false
+  },
+  "items": {
+    "slot0": { "name": "item_power_treads", "can_cast": false },
+    "slot1": { "name": "item_echo_sabre", "can_cast": false },
+    "slot2": { "name": "item_blink", "can_cast": true },
+    "slot3": { "name": "item_mask_of_madness", "can_cast": true },
+    "slot4": { "name": "item_magic_wand", "charges": 6, "can_cast": true },
+    "slot5": { "name": "item_tpscroll", "charges": 2, "can_cast": true }
+  },
+  "abilities": {
+    "ability0": { "name": "sven_storm_bolt", "level": 4, "can_cast": true, "cooldown": 0 },
+    "ability1": { "name": "sven_great_cleave", "level": 4, "can_cast": false },
+    "ability2": { "name": "sven_warcry", "level": 2, "can_cast": true },
+    "ability3": { "name": "sven_gods_strength", "level": 2, "can_cast": true, "cooldown": 0, "ultimate": true }
+  },
+  "user_context": "Враги: Bane, Shadow Shaman, Puck, Winter Wyvern, Medusa. У них очень много контроля. Bane спит меня, потом Shaman шекает, а Puck сайленсит. Medusa ещё слабая, но у нас нет времени ждать.",
+  "user_question": "У меня 3900 золота. BKB стоит 4050. Стоит ли мне подождать и взять BKB или купить что-то дешевле прямо сейчас?"
+}

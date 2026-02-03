@@ -1,0 +1,187 @@
+[
+  {
+    "display_text": "Rubick is a Ranged Intelligence hero with 21 base Strength, 23 base Agility, and 24 base Intelligence. He has a slow base attack time of 1.7 seconds. Compared to average heroes, he has average starting attributes but a significantly slower attack speed, emphasizing his reliance on spells over right-clicks.",
+    "search_text": "Rubick stats ranged intelligence attack rate 1.7 strength 21 agility 23 intelligence 24",
+    "tags": [
+      "RUBICK",
+      "BASE_STATS",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Rubick has two facets: Frugal Filch and Arcane Accumulation. Frugal Filch causes stolen spells to have lower mana cost, enhancing sustainability and spam. Arcane Accumulation causes casting a spell to temporarily increase the area of effect for all subsequent spells, rewarding active play and combo execution. Choose Frugal Filch for a more forgiving, mana-efficient playstyle, especially against heavy spell-casters. Choose Arcane Accumulation to maximize fight impact with larger AoE control and damage, ideal when your team needs setup or you can safely chain spells.",
+    "search_text": "Rubick facets Frugal Filch stolen spells lower mana cost Arcane Accumulation casting spell increases area of effect AoE",
+    "tags": [
+      "RUBICK",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Fade Bolt (100/175/250/325 damage, 23/20/17/14s cooldown) to harass and secure last hits while reducing enemy attack damage by 5/15/25/35. Your low base damage and slow attack rate make last-hitting difficult without it. Telekinesis is a strong defensive tool with a 0.9/1.1/1.3/1.5 second AoE stun. Use it to save yourself or your lane partner from ganks or to set up kills. Prioritize levels in Fade Bolt for damage and harass, with a value point in Telekinesis by level 2 or 3.",
+    "search_text": "Rubick laning phase Fade Bolt damage 100 175 250 325 cooldown 23 20 17 14 attack damage reduction 5 15 25 35 Telekinesis stun 0.9 1.1 1.3 1.5",
+    "tags": [
+      "RUBICK",
+      "LANING_PHASE",
+      "LANE"
+    ]
+  },
+  {
+    "display_text": "Rubick's major power spikes are at level 6 (Spell Steal), level 12 (maxed Fade Bolt and Telekinesis), and level 18 (maxed Spell Steal with 300 second duration). Talent spikes at level 10 (Telekinesis damage or passive scaling), 15 (cooldown reduction), 20 (AoE range), and 25 (massive spell amp for stolen spells) are crucial. Item timings like Aghanim's Scepter (unlocked by reaching level 18) for instant cast and Blink Dagger for initiation define his mid-game threat.",
+    "search_text": "Rubick power spikes level 6 Spell Steal level 12 max Q W level 18 max ultimate talents 10 15 20 25 Aghanim Scepter Blink Dagger",
+    "tags": [
+      "RUBICK",
+      "POWER_SPIKES",
+      "TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Rubick is hard-countered by heroes with Break (e.g., Silver Edge, Hoodwink) which disables his Arcane Supremacy passive from gaining new stacks, crippling his cast range and spell potency. Instant silences (e.g., Skywrath Mage, Orchid Malevolence) or hexes prevent him from casting stolen spells or his own disables. Spell immunity (BKB) blocks Fade Bolt and Telekinesis, making him useless against magic-immune cores. High mobility heroes can dodge his skillshots.",
+    "search_text": "Rubick counters break disables Arcane Supremacy passive silence hex spell immunity BKB counters",
+    "tags": [
+      "RUBICK",
+      "HARD_COUNTERS",
+      "COUNTER"
+    ]
+  },
+  {
+    "display_text": "Core essential items for Rubick are Blink Dagger and Aghanim's Scepter. Blink Dagger is non-negotiable for positioning to land Telekinesis and crucial stolen spells. Aghanim's Scepter, unlocked at level 18, allows Spell Steal to be cast instantly and increases stolen spell debuff duration by 10/20/30 seconds, fundamentally changing his playstyle to a rapid-fire spell thief. Aether Lens is often a third core item, synergizing with his passive to give immense cast range.",
+    "search_text": "Rubick core build Blink Dagger Aghanim Scepter Aether Lens cast range Spell Steal instant",
+    "tags": [
+      "RUBICK",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Rubick's primary role is to disable key targets with Telekinesis, reduce enemy physical damage output with Fade Bolt, and steal a high-impact enemy spell to turn the fight. He should position on the periphery, using his superior cast range to safely cast spells. His job is to identify and replicate the most dangerous enemy ultimate or control spell (e.g., Ravage, Black Hole) and use it at the optimal moment.",
+    "search_text": "Rubick teamfight role disable Telekinesis Fade Bolt damage reduction steal spell Spell Steal backline positioning",
+    "tags": [
+      "RUBICK",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Telekinesis (Q) lifts an enemy for 0.95/1.2/1.45/1.7 seconds, then hurls them to a target location up to 375 units away. The landing stuns enemies in a 300/325/350/375 radius for 0.9/1.1/1.3/1.5 seconds. The cooldown is 23/20/17/14 seconds. While the target is in the air, Rubick can use Telekinesis Land to choose the throw direction. The primary target is not stunned by the landing.",
+    "search_text": "Telekinesis Q lift 0.95 1.2 1.45 1.7 stun 0.9 1.1 1.3 1.5 radius 300 325 350 375 cooldown 23 20 17 14 land throw",
+    "tags": [
+      "RUBICK",
+      "ABILITY_DATA",
+      "Q",
+      "DISABLE",
+      "STUN"
+    ]
+  },
+  {
+    "display_text": "Fade Bolt (W) fires a bolt that jumps between enemy units within 440 radius, dealing 100/175/250/325 damage to the first target and reducing damage per jump. It also reduces the attack damage of affected enemies by 5/15/25/35 for 10 seconds. The cooldown is 16/14/12/10 seconds.",
+    "search_text": "Fade Bolt W damage 100 175 250 325 attack damage reduction 5 15 25 35 duration 10 radius 440 cooldown 16 14 12 10",
+    "tags": [
+      "RUBICK",
+      "ABILITY_DATA",
+      "W",
+      "NUKER",
+      "DEBUFF"
+    ]
+  },
+  {
+    "display_text": "Arcane Supremacy (E) is a passive. It grants Rubick 60/120/180/240 bonus cast range and 11%/16%/21%/26% Spell Amplification. Break disables the gaining of new Arcane Accumulation stacks from the facet, but does not remove existing bonuses.",
+    "search_text": "Arcane Supremacy E passive cast range 60 120 180 240 spell amp 11% 16% 21% 26% break disables",
+    "tags": [
+      "RUBICK",
+      "ABILITY_DATA",
+      "E",
+      "PASSIVE",
+      "BUFF"
+    ]
+  },
+  {
+    "display_text": "Spell Steal (R) targets an enemy hero, allowing Rubick to steal the last spell they cast. He can use that spell for 180/240/300 seconds or until he dies. Stolen spells have a 10%/20%/30% longer debuff duration on enemies. The spell travels as a projectile with 1500 speed. Cannot steal item abilities. If Rubick has an Aghanim's Shard, he will steal the Shard-upgraded version of the ability.",
+    "search_text": "Spell Steal R ultimate steal spell duration 180 240 300 stolen debuff amp 10 20 30 projectile speed 1500 Aghanim Shard",
+    "tags": [
+      "RUBICK",
+      "ABILITY_DATA",
+      "R",
+      "ULTIMATE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Might and Magus is a passive, innate ability. Each 1% of Spell Amplification also increases Rubick's attack damage by 0.75% and Magic Resistance by 0.75%. This scales with items, levels in Arcane Supremacy, and talents.",
+    "search_text": "Might and Magus innate passive spell amp increases attack damage 0.75% magic resistance 0.75% scaling",
+    "tags": [
+      "RUBICK",
+      "ABILITY_DATA",
+      "INNATE",
+      "PASSIVE",
+      "SCALING"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.",
+    "search_text": "Rubick versus BKB spell immunity carriers Telekinesis Fade Bolt do not pierce steal non BKB spells survival items",
+    "tags": [
+      "RUBICK",
+      "SITUATIONAL",
+      "VS_BKB"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind with low net worth. Focus on providing utility with Fade Bolt's attack damage reduction and Telekinesis setup. Steal wave-clear or defensive spells to help your team farm safely. Itemize for cheap survival and mana (Magic Wand, Tranquil Boots, Aether Lens components) to stay on the outskirts of fights and cast spells.",
+    "search_text": "Rubick playing from behind poor low net worth utility Fade Bolt damage reduction Telekinesis setup steal wave clear defensive spells",
+    "tags": [
+      "RUBICK",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: You have stolen a game-changing ultimate (e.g., Ravage, Chronosphere). Your positioning becomes paramount. Use Blink Dagger to get the perfect initiation angle. Coordinate with your team to follow up. Your Arcane Supremacy passive and Aghanim's Scepter (if you have it) increase the cast range and potency of this stolen spell.",
+    "search_text": "Rubick stolen ultimate Ravage Chronosphere positioning Blink Dagger initiation Arcane Supremacy range Aghanim Scepter",
+    "tags": [
+      "RUBICK",
+      "SITUATIONAL",
+      "WITH_STOLEN_ULT"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +165 Telekinesis Landing Damage or +0.25% Might And Magus Damage/Resistance per 1% Spell Amp. The left talent (+165 damage) provides immediate, reliable burst to your combo, helping secure kills. The right talent (+0.25% scaling) is a long-term investment that synergizes with building Spell Amplification items, making you tankier and increasing your right-click damage slightly. Pick left for more early-game impact, right for scaling.",
+    "search_text": "Rubick talent level 10 left +165 Telekinesis Landing Damage right +0.25% Might And Magus scaling spell amp",
+    "tags": [
+      "RUBICK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between -25% Stolen Spells Cooldown or +20% Fade Bolt Damage Reduction. The left talent (-25% cooldown on stolen spells) is incredibly powerful if you are successfully stealing high-impact spells, allowing you to use them more frequently. The right talent (+20% attack damage reduction on Fade Bolt) is a strong defensive choice against heavy physical damage lineups, reducing enemy carry DPS significantly. Choose left for offensive/utility, right for defensive.",
+    "search_text": "Rubick talent level 15 left -25% Stolen Spells Cooldown right +20% Fade Bolt Damage Reduction",
+    "tags": [
+      "RUBICK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between -5s Fade Bolt Cooldown or -5s Telekinesis Cooldown. The left talent (-5s Fade Bolt Cooldown) increases your wave clear, harassment frequency, and uptime on the attack damage debuff. The right talent (-5s Telekinesis Cooldown) gives you more frequent disables and saves, crucial for controlling fights. Pick left if you need more damage and push, pick right if your team needs more control.",
+    "search_text": "Rubick talent level 20 left -5s Fade Bolt Cooldown right -5s Telekinesis Cooldown",
+    "tags": [
+      "RUBICK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between +400 Telekinesis Land Distance or +40% Spell Amp For Stolen Spells. The left talent (+400 Telekinesis Land Distance) provides unprecedented initiation and save range, allowing you to reposition enemies over 775 units. The right talent (+40% Spell Amp for Stolen Spells) is a massive damage multiplier for any stolen nuking spells, making your stolen Laguna Blade or Finger of Death lethal. Pick left for unmatched utility and control, pick right for extreme burst damage.",
+    "search_text": "Rubick talent level 25 left +400 Telekinesis Land Distance right +40% Spell Amp For Stolen Spells",
+    "tags": [
+      "RUBICK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

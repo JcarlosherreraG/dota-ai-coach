@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Enhancement Timeless, Cost: 0: Non-purchasable item enhancement that increases the duration of debuffs you apply and amplifies your spell damage. This makes your disables last longer and your magic damage hit harder, improving both control and damage output for spellcasters. Stats: Debuff Duration Increase: 8% / 15%, Spell Amplification: 6% / 16%.",
+    "search_text": "spell amplification item, debuff duration, magic damage amp, control duration increase, caster item, non-purchasable, neutral enhancement, timeless, spell amp, increase debuff time, enhancement timeless, buff duration, magic damage increase",
+    "tags": [
+      "ITEM_DATA",
+      "ENHANCEMENT_TIMELESS",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "NEUTRAL",
+      "SPELL_AMPLIFICATION",
+      "DEBUFF_AMPLIFICATION",
+      "MAGIC_DAMAGE",
+      "UTILITY",
+      "CONTROL"
+    ]
+  }
+]

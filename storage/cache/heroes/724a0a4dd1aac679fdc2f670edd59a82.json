@@ -1,0 +1,184 @@
+[
+  {
+    "display_text": "Largo is a melee hero with a base attack time of 1.7. He has above-average starting Strength (24) and Intelligence (21), but very low starting Agility (14). This suggests he will be fairly durable in lane with good base mana, but his armor will be low due to the low agility. His attack type is melee, so he will need to be in close range to last hit or trade.",
+    "search_text": "Largo melee hero attack type base attack time 1.7 strength 24 agility 14 intelligence 21 low armor",
+    "tags": [
+      "Largo",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Largo has a single Facet: Musical Pilgrimage. This facet does not provide any gameplay effect. Its description is purely narrative, stating he arrived from the island of Velu'Mar. This means Largo has no strategic variation in his Facet choice.",
+    "search_text": "Largo Facet Musical Pilgrimage no effect lore flavor",
+    "tags": [
+      "Largo",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Catchy Lick (700 cast range) to pull enemy heroes out of position or to save an ally by pulling them 375 units. The damage (85-340) and basic dispel make it a strong trading tool. Frogstomp provides area control with a 350 radius slow (12-30%) and ministuns, useful for securing range creeps or discouraging dives. Start with Catchy Lick for dispels and trading, then level Frogstomp for wave clear and kill potential. Largo's low armor from 14 base agility makes him vulnerable to physical harass.",
+    "search_text": "Largo laning phase Catchy Lick 700 range pull 325 enemy 375 ally dispel damage 85 170 255 340 Frogstomp area slow 30% ministun low armor 14 agility",
+    "tags": [
+      "Largo",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Largo's key power spikes are at level 6 (Amphibian Rhapsody) and level 12 (maxed basic abilities). Level 6 unlocks his song kit, allowing him to provide team-wide utility (heal, spell amp, or movement speed) but disarms him. Maxing Frogstomp by level 7 increases its total damage to 455 (65 damage per stomp for 7 ticks) and slow to 30%. Croak of Genius at max level (30 second duration, 45% damage echo) is a significant buff for mana-hungry cores. Item timings like Arcane Boots and Mekansm are essential to sustain his song mana costs (20-44 per cast).",
+    "search_text": "Largo power spike level 6 Amphibian Rhapsody songs level 7 Frogstomp 455 damage 30% slow level 12 Croak of Genius 45% damage echo 30 second duration item Arcane Boots Mekansm",
+    "tags": [
+      "Largo",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Largo is hard countered by heroes that can lock him down or silence him during Amphibian Rhapsody. Since his ultimate disarms him, if he is stunned or hexed, he cannot contribute. Break mechanics (e.g., from Silver Edge) disable his passive Encore, which extends his buff durations. Heroes with high burst magic damage can exploit his low magic resistance from base stats. Instant silences prevent him from casting his crucial dispel (Catchy Lick) or songs.",
+    "search_text": "Largo hard counter silence stun hex disarm Break disables Encore passive Amphibian Rhapsody low magic resistance burst damage",
+    "tags": [
+      "Largo",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Largo's core build must address his mana and sustain needs to spam his songs and abilities. Arcane Boots are essential for mana. Mekansm provides team healing synergy with his song kit and addresses his low armor. Aghanim's Scepter is highly valuable as it upgrades his ultimate, Amphibian Rhapsody, though the specific upgrade is not detailed in this data.",
+    "search_text": "Largo core items Arcane Boots Mekansm Aghanims Scepter mana sustain armor team heal",
+    "tags": [
+      "Largo",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Largo's role is a backline utility and save hero. He uses Catchy Lick to dispel key debuffs on allies or to reposition enemies. He initiates or zones with Frogstomp's area slow and ministun. Once Amphibian Rhapsody is active, he must position safely (as he is disarmed) and rhythmically play songs to provide team-wide buffs: healing with Island Elixir, increasing spell damage with Bullbelly Blitz, or increasing mobility with Hotfeet Hustle. His passive, Encore, extends the duration of all buffs he applies.",
+    "search_text": "Largo teamfight role backline utility save dispel Catchy Lick zone Frogstomp slow ministun Amphibian Rhapsody songs disarmed heal Island Elixir spell damage Bullbelly Blitz mobility Hotfeet Hustle Encore buff duration",
+    "tags": [
+      "Largo",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Catchy Lick: Largo licks a target unit from 700 range, pulling it. Pulls enemy units 235/265/295/325 units and deals 85/170/255/340 magic damage. Pulls allied units 375 units. Applies a basic dispel on the target. Does NOT pierce BKB. Dispelling an effect grants Largo 4/7/10/13 health regeneration for 10 seconds.",
+    "search_text": "Catchy Lick Q ability pull 700 range enemy 325 pull ally 375 pull damage 340 magic dispel basic dispel Does NOT pierce BKB health regen 13",
+    "tags": [
+      "Largo",
+      "ABILITY_DATA",
+      "Catchy Lick",
+      "Basic Dispel"
+    ]
+  },
+  {
+    "display_text": "Frogstomp: Largo tosses froglings to an 800 range target area. After a 0.5 second delay, the area stomps every 1 second, 4/5/6/7 times total. Each stomp deals 35/45/55/65 magic damage, applies a 0.1 second stun (ministun), and slows enemy movement speed by 12/18/24/30% in a 350 radius. Cooldown is 20/18/16/14 seconds.",
+    "search_text": "Frogstomp W ability 800 range area damage 65 per stomp 7 stomps total 455 damage ministun 0.1s stun slow 30% radius 350 cooldown 14s",
+    "tags": [
+      "Largo",
+      "ABILITY_DATA",
+      "Frogstomp",
+      "Area Slow",
+      "Ministun"
+    ]
+  },
+  {
+    "display_text": "Croak of Genius: Largo buffs a friendly hero for 12/18/24/30 seconds. The buff reduces the cost of the target's items and abilities by 15 mana. When the target deals damage (and source and target are within 2000 units), 30/35/40/45% of that damage is echoed as magic damage over 5 seconds. Whenever the target spends mana (except Largo himself), the remaining buff duration is reduced by 0.5 seconds. Cooldown is 25 seconds.",
+    "search_text": "Croak of Genius E ability buff mana cost reduction 15 damage echo 45% over 5 seconds duration 30s reduced by mana spending 2000 range cooldown 25s",
+    "tags": [
+      "Largo",
+      "ABILITY_DATA",
+      "Croak of Genius",
+      "Mana Reduction",
+      "Damage Echo"
+    ]
+  },
+  {
+    "display_text": "Amphibian Rhapsody: Largo's ultimate. When activated, he is disarmed and his ability bar is replaced by three song abilities. Successfully strumming a song on the beat (every 1 second, with a 0.4s grace period) grants a stack of Groovin', up to 5 stacks. Each stack grants 2/3/4 bonus armor and reduces the mana cost of all songs by 1/1.5/2 mana. Stacks last 5 seconds and are lost if he misses a beat. While active, all buffs Largo applies to himself or allies have 10% increased duration (Encore passive).",
+    "search_text": "Amphibian Rhapsody R ultimate disarm song mode Groovin stacks 5 max armor per stack 4 song mana cost reduction 2 per stack rhythm 1s interval 0.4s grace Encore buff duration 10% increase",
+    "tags": [
+      "Largo",
+      "ABILITY_DATA",
+      "Amphibian Rhapsody",
+      "Ultimate",
+      "Disarm",
+      "Buff Amplification"
+    ]
+  },
+  {
+    "display_text": "Bullbelly Blitz (Song): Largo plays a song affecting all allies within 750 radius. Increases spell amplification by 8/12/16% and causes attacks to deal an additional 20/25/30 magic damage. Mana cost is 20/32/44, reduced by Groovin' stacks. This song is active only during Amphibian Rhapsody.",
+    "search_text": "Bullbelly Blitz song R1 spell amp 16% attack bonus magic damage 30 radius 750 mana cost 44",
+    "tags": [
+      "Largo",
+      "ABILITY_DATA",
+      "Bullbelly Blitz",
+      "Song",
+      "Spell Amplification"
+    ]
+  },
+  {
+    "display_text": "Hotfeet Hustle (Song): Largo plays a song affecting all friendly units within 750 radius. Increases movement speed and grants 70/80/90% slow resistance for 0.3 seconds. Mana cost is 20/32/44, reduced by Groovin' stacks. This song is active only during Amphibian Rhapsody.",
+    "search_text": "Hotfeet Hustle song R2 movespeed slow resistance 90% 0.3s radius 750 mana cost 44",
+    "tags": [
+      "Largo",
+      "ABILITY_DATA",
+      "Hotfeet Hustle",
+      "Song",
+      "Movement Speed",
+      "Slow Resistance"
+    ]
+  },
+  {
+    "display_text": "Island Elixir (Song): Largo plays a song affecting all friendly heroes within 750 radius. Heals for 34/56/78 health. Mana cost is 20/32/44, reduced by Groovin' stacks. This song is active only during Amphibian Rhapsody.",
+    "search_text": "Island Elixir song R3 heal 78 radius 750 mana cost 44",
+    "tags": [
+      "Largo",
+      "ABILITY_DATA",
+      "Island Elixir",
+      "Song",
+      "Heal"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, Largo should focus on saving allies with Catchy Lick's dispel and pull. Use Frogstomp defensively to slow chasing enemies. In Amphibian Rhapsody, prioritize the Island Elixir song to sustain your team and the Hotfeet Hustle song to help disengage. Itemize for survivability like Glimmer Cape or Force Staff to stay alive and continue providing utility.",
+    "search_text": "Largo scenario playing from behind defensive Catchy Lick dispel save Frogstomp slow disengage songs Island Elixir heal Hotfeet Hustle escape items Glimmer Cape Force Staff",
+    "tags": [
+      "Largo",
+      "SITUATIONAL",
+      "From Behind",
+      "Defensive"
+    ]
+  },
+  {
+    "display_text": "Against heavy magic damage lineups, Largo's low base magic resistance is a weakness. Prioritize building a Pipe of Insight. In fights, use Croak of Genius on your core to echo back damage. The Bullbelly Blitz song's spell amplification is less valuable here compared to the healing from Island Elixir or the escape from Hotfeet Hustle.",
+    "search_text": "Largo scenario vs magic damage low magic resistance Pipe of Insight Croak of Genius damage echo song choice Island Elixir Hotfeet Hustle Bullbelly Blitz less value",
+    "tags": [
+      "Largo",
+      "SITUATIONAL",
+      "Vs Magic Damage"
+    ]
+  },
+  {
+    "display_text": "When your team has high spell damage cores (e.g., Zeus, Leshrac), Largo synergizes perfectly. Max Croak of Genius early to amplify their damage with the 45% echo and mana cost reduction. In Amphibian Rhapsody, always play the Bullbelly Blitz song to further boost their spell amplification by 16% and add magic damage to their right-clicks. Itemize for mana sustain like Kaya or Octarine Core.",
+    "search_text": "Largo scenario with spell damage cores Croak of Genius 45% damage echo mana reduction Bullbelly Blitz song 16% spell amp magic damage on attack items Kaya Octarine Core",
+    "tags": [
+      "Largo",
+      "SITUATIONAL",
+      "With Spell Damage",
+      "Synergy"
+    ]
+  },
+  {
+    "display_text": "Against heroes with powerful single-target disables (e.g., Bane, Shadow Shaman), Largo's value increases. Use Catchy Lick's basic dispel to instantly remove Fiend's Grip or Shackles from allies. Positioning is key; stay at the edge of 700 range to be ready to dispel. Build items like Lotus Orb for additional dispels and survivability.",
+    "search_text": "Largo scenario vs single target disables Catchy Lick basic dispel Fiends Grip Shackles save 700 range positioning Lotus Orb",
+    "tags": [
+      "Largo",
+      "SITUATIONAL",
+      "Vs Disables",
+      "Dispel"
+    ]
+  },
+  {
+    "display_text": "When sieging high ground, Largo provides sustain with Island Elixir song. Use Frogstomp to clear the enemy creep wave from a safe distance (800 range) and slow defending heroes. Apply Croak of Genius to your main right-click carry to reduce their mana cost for abilities like Dragon Form or Overload and echo their tower damage.",
+    "search_text": "Largo scenario sieging high ground Island Elixir heal sustain Frogstomp 800 range wave clear slow Croak of Genius on carry mana reduction damage echo tower push",
+    "tags": [
+      "Largo",
+      "SITUATIONAL",
+      "Sieging"
+    ]
+  }
+]

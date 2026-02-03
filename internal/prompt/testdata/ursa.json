@@ -1,0 +1,46 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "6789012345",
+    "game_time": 1800,
+    "clock_time": 1800,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": true
+  },
+  "player": {
+    "team_name": "Dire",
+    "name": "UrsaMajor",
+    "gold": 4500,
+    "kills": 8,
+    "deaths": 1,
+    "assists": 6,
+    "last_hits": 180,
+    "gpm": 650,
+    "xpm": 550
+  },
+  "hero": {
+    "name": "npc_dota_hero_ursa",
+    "level": 18,
+    "health": 1900,
+    "max_health": 1900,
+    "mana": 450,
+    "max_mana": 700,
+    "alive": true
+  },
+  "items": {
+    "slot0": { "name": "item_power_treads" },
+    "slot1": { "name": "item_morbid_mask" },
+    "slot2": { "name": "item_diffusal_blade" },
+    "slot3": { "name": "item_blink" },
+    "slot4": { "name": "item_empty" },
+    "slot5": { "name": "item_empty" }
+  },
+  "abilities": {
+    "ability0": { "name": "ursa_earthshock", "level": 4 },
+    "ability1": { "name": "ursa_overpower", "level": 4 },
+    "ability2": { "name": "ursa_fury_swipes", "level": 4 },
+    "ability3": { "name": "ursa_enrage", "level": 3 }
+  },
+  "user_context": "Я — Ursa. У меня есть Blink и Diffusal. Враги (Nature's Prophet, Death Prophet, Crystal Maiden) постоянно пушат линии и ставят варды. Когда я влетаю, Death Prophet ставит сайленс и ульту, а Crystal Maiden кастует Freezing Field. Мы не можем закончить игру.",
+  "user_question": "Что мне купить прямо сейчас (у меня 4500 золота), чтобы одновременно контрить пуш и выживать в драках против их контроля?"
+}

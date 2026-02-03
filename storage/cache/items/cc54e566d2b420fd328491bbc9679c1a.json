@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Gladiator's Helm. Non-purchasable neutral item: Provides bonus damage, armor, and movement speed for a limited duration upon kill or assist. Stats: Damage: +18, Armor: +5, Movement Speed: +15%, Duration: 7s.",
+    "search_text": "gladiator helm, neutral item, kill bonus, assist bonus, damage bonus, movement speed, armor, kill streak item, stack item, temporary buff, active on kill, aggressive neutral, fighting item, gladiator",
+    "tags": [
+      "ITEM_DATA",
+      "GLADIATOR_HELM",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "DAMAGE",
+      "ARMOR",
+      "MOVEMENT_SPEED",
+      "BUFF",
+      "AGGRESSIVE"
+    ]
+  }
+]

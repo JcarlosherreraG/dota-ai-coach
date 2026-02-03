@@ -1,0 +1,54 @@
+[
+  {
+    "display_text": "Stout Shield, Cost: 100: Provides a 50% chance to block 20 damage from melee attacks and 8 damage from ranged attacks. Core early game survivability item for melee heroes, significantly reducing harass damage in lane. Multiple sources of damage block do not stack.",
+    "search_text": "damage block, stout shield, block item, early game survival, lane sustain, melee block, harassment block, melee defensive, cheap defensive, laning item, early survivability, physical mitigation, Stout Shield",
+    "tags": [
+      "ITEM_DATA",
+      "STOUT_SHIELD",
+      "CORE_MECHANICS",
+      "COMPONENT",
+      "VS_PHYSICAL",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "LANING"
+    ]
+  },
+  {
+    "display_text": "Stout Shield, Cost: 100: No attributes provided. Provides only defensive passive. Useful baseline for upgrading into Vanguard or Pavise.",
+    "search_text": "stout shield stats, component stats, no stats, block only, upgrade component, Stout Shield",
+    "tags": [
+      "ITEM_DATA",
+      "STOUT_SHIELD",
+      "STAT_PROFILE",
+      "COMPONENT",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Stout Shield, Cost: 100: Provides early damage mitigation to survive laning phase, especially for melee heroes against heavy physical harass. Reduces trading damage taken, improving lane staying power and efficiency.",
+    "search_text": "early game item, laning survival, harass counter, melee sustain, starting item, offlane survival, lane defense, Stout Shield",
+    "tags": [
+      "ITEM_DATA",
+      "STOUT_SHIELD",
+      "EARLY_GAME_USAGE",
+      "COMPONENT",
+      "VS_PHYSICAL",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "LANING"
+    ]
+  },
+  {
+    "display_text": "Stout Shield, Cost: 100: Strong against high-attack-frequency enemies and summons that deal low physical damage per attack, effectively mitigating chip damage over time. Less effective against heavy single-instance physical bursts.",
+    "search_text": "damage block vs summons, chip damage counter, block vs attacks, physical harass counter, stout vs ranged, stout vs melee, Stout Shield",
+    "tags": [
+      "ITEM_DATA",
+      "STOUT_SHIELD",
+      "SITUATIONAL_VS_PHYSICAL",
+      "COMPONENT",
+      "VS_PHYSICAL",
+      "DEFENSIVE",
+      "MITIGATION"
+    ]
+  }
+]

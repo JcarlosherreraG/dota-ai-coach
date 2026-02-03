@@ -1,0 +1,162 @@
+[
+  {
+    "display_text": "Anti-Mage is a Melee Agility carry with 21 base Strength, 24 base Agility, and 12 base Intelligence. His attack rate is 1.4 seconds per hit. This gives him high starting armor and damage, but low health and mana, typical for a hard-farming carry. He is vulnerable to early magic burst and has no inherent AoE.",
+    "search_text": "Anti-Mage base stats melee agility carry 21 str 24 agi 12 int 1.4 attack rate high armor low hp mana",
+    "tags": [
+      "ANTI-MAGE",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Anti-Mage has two Facets. Magebane's Mirror enhances Counterspell: when a targeted spell is blocked, it burns a percentage of the mana cost from the enemy caster and deals damage based on that burned mana. This is aggressive, punishing spellcasters who target you. Mana Thirst adds a scaling damage bonus against enemies with low mana, making you more lethal in prolonged fights and against heroes who run out of mana.",
+    "search_text": "Anti-Mage Facets Magebane's Mirror Counterspell mana burn damage Mana Thirst low mana bonus damage",
+    "tags": [
+      "ANTI-MAGE",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, prioritize last hits with your high base damage. Use your low health pool carefully against magic damage. Start with 1 point in Mana Break to harass intelligence heroes. Max Blink first to increase farming speed and escape. Use Counterspell situationally if facing heavy targeted magic damage. The goal is to survive, get early Battle Fury components, and rotate to the jungle as soon as possible.",
+    "search_text": "Anti-Mage laning last hits Mana Break harass Blink max farm Counterspell magic survive jungle",
+    "tags": [
+      "ANTI-MAGE",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Key power spikes: Level 6 (Mana Void provides kill threat). Level 12 with maxed Blink and Mana Break for fast farming. Level 18 with all skills maxed. Item timings: Battle Fury (enables flash farming), Manta Style (dispel, illusions benefit from Mana Break), and Skull Basher/Abyssal Blade (lockdown). Level 20 and 25 talents significantly increase damage and utility.",
+    "search_text": "Anti-Mage power spikes level 6 Mana Void level 12 Blink Battle Fury Manta Style Basher Abyssal Blade talent 20 25",
+    "tags": [
+      "ANTI-MAGE",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Anti-Mage is hard countered by Break mechanics (from Silver Edge or Hoodwink), which disable his Counterspell passive magic resistance and Persecutor slow. Instant disables like Hex prevent Blink escape. High physical burst damage (e.g., TA, PA) can kill him through his low health pool. Heroes with high mana pools or manaless spells (e.g., Bristleback) reduce the effectiveness of Mana Break and Mana Void.",
+    "search_text": "Anti-Mage counters Break Silver Edge disables Counterspell magic resist Persecutor Hex stop Blink physical burst high mana Bristleback",
+    "tags": [
+      "ANTI-MAGE",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core build is Battle Fury and Manta Style. Battle Fury accelerates farm and provides AoE mana burn. Manta Style dispels debuffs, creates illusions that apply Mana Break at 50% effectiveness, and increases farming/split-push speed. These two items are non-negotiable for a standard Anti-Mage game.",
+    "search_text": "Anti-Mage core items Battle Fury Manta Style farm mana burn illusion split push dispel",
+    "tags": [
+      "ANTI-MAGE",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Anti-Mage's role is to Blink on the backline spellcasters, burn their mana with attacks, and kill them with Mana Void. He should avoid initiating and instead clean up after initial spells are used. Use Blink to reposition and dodge projectiles. He excels at creating split-push pressure and then joining fights with a numbers advantage.",
+    "search_text": "Anti-Mage teamfight role Blink backline mana burn Mana Void kill clean up split push reposition",
+    "tags": [
+      "ANTI-MAGE",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Mana Break is a passive ability. Each attack burns 25/30/35/40 mana from the target and deals 50% of the mana burnt as bonus damage. Illusions apply Mana Break at 50% effectiveness. This ability gives Anti-Mage strong harass and kill threat against intelligence heroes and is crucial for his farming speed with Battle Fury.",
+    "search_text": "Anti-Mage ability Q Mana Break passive burn 25 30 35 40 mana damage 50% burned illusion 50% effect",
+    "tags": [
+      "ANTI-MAGE",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Blink is a targeted point ability with a 750/900/1050/1200 cast range and a 12/10/8/6 second cooldown. It has a minimum blink range of 200. It allows Anti-Mage to teleport a short distance, enabling chase, escape, and farming efficiency. It can be used to dodge incoming projectiles. It does NOT pierce BKB.",
+    "search_text": "Anti-Mage ability W Blink teleport range 750 900 1050 1200 cooldown 12 10 8 6 dodge projectile",
+    "tags": [
+      "ANTI-MAGE",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Counterspell is a passive/active ability. Passively grants 16%/24%/32%/40% Magic Resistance. When activated, it creates a shell for 1.2 seconds that reflects targeted spells back at the caster. Break disables the passive magic resistance. The reflected spell amp is 0. Does NOT pierce BKB.",
+    "search_text": "Anti-Mage ability E Counterspell active passive magic resist 16 24 32 40 reflect spell 1.2s Break disables",
+    "tags": [
+      "ANTI-MAGE",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Persecutor is a passive ability. Attacks slow enemies based on missing mana, from 12.5%/15%/17.5%/20% at 50% mana down to 25%/30%/35%/40% at 0% mana. The slow lasts 0.75 seconds. No effect if the enemy is above 50% mana. Illusions apply the full effect.",
+    "search_text": "Anti-Mage passive Persecutor slow missing mana 12.5 15 17.5 20 min 25 30 35 40 max 0.75s duration illusion full effect",
+    "tags": [
+      "ANTI-MAGE",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Mana Void is a point-target AoE ultimate. Deals 0.8/0.95/1.1 damage per point of mana missing from the primary target to all enemies in a 500 radius. The main target is mini-stunned for 0.3 seconds. Cooldown is 70 seconds. Damage calculation is based on the primary target's missing mana. Does NOT pierce BKB.",
+    "search_text": "Anti-Mage ultimate R Mana Void damage 0.8 0.95 1.1 per missing mana AoE 500 radius mini-stun 0.3s cooldown 70",
+    "tags": [
+      "ANTI-MAGE",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Against heroes with high mana pools (e.g., Medusa, Storm Spirit), Mana Break and Mana Void are extremely effective. Focus on burning their mana first. Magebane's Mirror Facet is powerful here, as blocking their spells also burns their large mana pool.",
+    "search_text": "Anti-Mage scenario high mana pool Medusa Storm Spirit Mana Break Mana Void effective Magebane's Mirror",
+    "tags": [
+      "ANTI-MAGE",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, focus on split-pushing with Blink and Manta illusions. Avoid fights. Use Blink to escape ganks. Farm the enemy jungle if your own is unsafe. Your goal is to reach critical items (Manta, Basher) to become relevant.",
+    "search_text": "Anti-Mage scenario behind losing split push Blink Manta illusion farm avoid fight escape",
+    "tags": [
+      "ANTI-MAGE",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Against heavy magical burst lineups, prioritize leveling Counterspell early. The Magebane's Mirror Facet can turn the tables by punishing enemies for casting on you. Consider an early Hood of Defiance before or after Battle Fury.",
+    "search_text": "Anti-Mage scenario magic burst lineup level Counterspell Magebane's Mirror Hood of Defiance Battle Fury",
+    "tags": [
+      "ANTI-MAGE",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "At Level 10, choose between +3 Health Regen or +200 Mana Void Radius. +3 HP Regen improves lane sustainability and jungle efficiency when taking damage. +200 Mana Void Radius is situational, better for teamfight impact if you are fighting early.",
+    "search_text": "Anti-Mage talent level 10 left +3 Health Regen sustain right +200 Mana Void radius teamfight",
+    "tags": [
+      "ANTI-MAGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At Level 15, choose between +1% Max Mana Mana Burn or +9%/18% Persecutor Min/Max Movement Slow. +1% Max Mana Burn significantly increases damage against high-mana heroes like Medusa. The Persecutor slow improves chase and lockdown, especially against elusive heroes.",
+    "search_text": "Anti-Mage talent level 15 left +1 Max Mana Burn damage high mana right Persecutor slow 9 18 chase lockdown",
+    "tags": [
+      "ANTI-MAGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At Level 20, choose between +0.2 Mana Void Damage Multiplier or +0.8s Mana Void Stun. The damage multiplier increases your burst potential against mana-dependent cores. The longer stun provides more control, which can be crucial for locking down key targets.",
+    "search_text": "Anti-Mage talent level 20 left +0.2 Mana Void damage multiplier burst right +0.8s Mana Void stun duration control",
+    "tags": [
+      "ANTI-MAGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At Level 25, choose between +200 Blink Cast Range or -50s Mana Void Cooldown. Increased Blink range dramatically improves positioning, chase, and escape safety. The reduced Mana Void cooldown (to 20s) allows you to use it in every engagement, even for pick-offs.",
+    "search_text": "Anti-Mage talent level 25 left +200 Blink cast range positioning escape right -50s Mana Void cooldown 20s frequent use",
+    "tags": [
+      "ANTI-MAGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

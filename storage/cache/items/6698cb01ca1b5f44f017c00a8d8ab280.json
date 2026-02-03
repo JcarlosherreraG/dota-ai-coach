@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Trickster Cloak, Cost: 0: Non-purchasable item that grants an active ability to become invisible for 6 seconds. This effect is dispellable and provides a significant window for repositioning, escape, or initiating unseen. Stats: CD: 25s, Duration: 6s.",
+    "search_text": "invis item, escape item, reposition tool, initiation cloak, trickster cloak, free pathing invis, invisibility utility, non shop item, invisibility active, stealth tool, Trickster Cloak",
+    "tags": [
+      "ITEM_DATA",
+      "TRICKSTER_CLOAK",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "UTILITY",
+      "INVISIBILITY",
+      "ESCAPE",
+      "INITIATION",
+      "MOBILITY"
+    ]
+  }
+]

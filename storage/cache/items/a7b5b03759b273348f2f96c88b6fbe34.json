@@ -1,0 +1,59 @@
+[
+  {
+    "display_text": "Wraith Band, Cost: 505: A low-cost early-game item providing significant attribute bonuses and attack speed. Built from Slippers of Agility and Circlet, it is a core efficiency item for agility-focused heroes or any hero seeking early stats and damage. It can later be upgraded into Power Treads. Stats: CD: N/A.",
+    "search_text": "early game item, agility item, attack speed item, stats item, cheap item, lane efficiency, starting item, agility carry, wraith band, cost 505, +5 agility, +2 strength, +2 int, +6 attack speed, +1.75 armor, attribute item, starting stats, core item",
+    "tags": [
+      "ITEM_DATA",
+      "WRAITH_BAND",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "AGILITY_ITEM",
+      "ATTACK_SPEED",
+      "DAMAGE",
+      "EARLY_GAME_ITEM",
+      "UPGRADE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Wraith Band, Cost: 505: Provides a balanced mix of attributes and armor, enhancing a hero's right-click damage, survivability, and last-hitting ability. The +5 Agility and +6 Attack Speed offer noticeable early physical damage scaling. Stats: +5 Agility, +2 Strength, +2 Intelligence, +6 Attack Speed, +1.75 Armor.",
+    "search_text": "wraith band stats, agility stats, attack speed stats, armor item, agility carry stats, early stats, attribute boost, Wraith Band, agility build, physical damage",
+    "tags": [
+      "ITEM_DATA",
+      "WRAITH_BAND",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "AGILITY_ITEM",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "ARMOR"
+    ]
+  },
+  {
+    "display_text": "Wraith Band, Cost: 505: Primarily an early-game efficiency item for heroes scaling with agility and attack speed, such as Drow Ranger or Terrorblade. It accelerates farm by improving last-hit potential and jungling speed. It is a foundational component for heroes building into Power Treads.",
+    "search_text": "wraith band build, agility hero item, early farming item, last hit item, jungle speed, power treads component, agility core item, early carry item, farming item, Wraith Band",
+    "tags": [
+      "ITEM_DATA",
+      "WRAITH_BAND",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "CARRY_ITEM",
+      "AGILITY_ITEM",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.",
+    "search_text": "wraith band defense, physical defense, early armor, lane survivability, trading item, cheap armor, agility hero survival, early survivability, Wraith Band",
+    "tags": [
+      "ITEM_DATA",
+      "WRAITH_BAND",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_PHYSICAL",
+      "ARMOR",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "LANING"
+    ]
+  }
+]

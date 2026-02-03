@@ -1,0 +1,44 @@
+[
+  {
+    "display_text": "Pocket Roshan, Cost: 1000: A consumable item that summons a controllable Baby Roshan minion for 60 seconds. Can be cast instantly with no target. Used to scout, block camps, or push lanes indirectly, but the Roshan is fragile. Stats: CD: 60s, Duration: 60s.",
+    "search_text": "summon roshan, pocket roshan item, controllable minion, scouting item, summon item, jungle scouting, block camps, push lanes, baby roshan, roshan pet, Pocket Roshan, pocket rosh, summon pet, disposable unit",
+    "tags": [
+      "ITEM_DATA",
+      "POCKET_ROSHAN",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "SUMMON",
+      "SCOUTING",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Pocket Roshan, Cost: 1000: Primarily a strategic vision and utility tool for the mid-to-late game. Use the Baby Roshan to provide vision without risking your hero, deward high ground, or scout Roshan pit. It can also absorb single-target spells in a pinch. Stats: Duration: 60s.",
+    "search_text": "pocket roshan usage, vision tool, scouting tool, safe vision, dewarding, roshan pit scouting, spell absorber, utility summon, tactical vision, strategic item, Pocket Roshan",
+    "tags": [
+      "ITEM_DATA",
+      "POCKET_ROSHAN",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "VISION",
+      "SCOUTING",
+      "UTILITY",
+      "SAFETY"
+    ]
+  },
+  {
+    "display_text": "Pocket Roshan, Cost: 1000: Ideal for creating safe vision before a high-ground siege or checking for enemy smokes. Use it to block neutral spawn camps during enemy jungle invasions. The summon can be sent to push out a dangerous lane or bait out enemy cooldowns. Stats: CD: 60s.",
+    "search_text": "pocket roshan tactics, high ground vision, siege vision, smoke check, camp blocker, lane pusher, bait tool, tactical distraction, disposable scout, Pocket Roshan",
+    "tags": [
+      "ITEM_DATA",
+      "POCKET_ROSHAN",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "VISION",
+      "SCOUTING",
+      "PUSH",
+      "UTILITY",
+      "TACTICAL"
+    ]
+  }
+]

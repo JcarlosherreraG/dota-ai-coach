@@ -1,0 +1,179 @@
+[
+  {
+    "display_text": "Omniknight is a Melee Strength hero with a base Strength of 22, Agility of 15, and Intelligence of 16. His attack rate is 1.7. This gives him a fairly standard Strength hero base damage and survivability, relying on his abilities for impact due to his lack of inherent mobility.",
+    "search_text": "Omniknight stats melee strength 22 agility 15 intelligence 16 attack rate 1.7 base damage armor health",
+    "tags": [
+      "OMNIKNIGHT",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Omniknight has a choice of two Facets. Omnipresent causes Omniknight to deal more damage to heroes inside his Degen Aura. This facet encourages a more aggressive, core-style play, maximizing damage in fights. The Dmg/Heals facet focuses on enhancing the impact of his core healing and purification spells.",
+    "search_text": "Omniknight facets Omnipresent degen aura hero damage Dmg/Heals purification heal facet strategy playstyle",
+    "tags": [
+      "OMNIKNIGHT",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, use Purification (Q) to secure ranged creeps with its damage and simultaneously heal your laning partner or yourself from harass. Level 1 Repel (W) provides a strong trading tool with its debuff immunity and magic resistance, allowing your core to be aggressive. Hammer of Purity (E) can be used for last hitting under pressure or to secure kills with its slow. Focus on mana management to sustain your spells. As a melee hero, positioning is key to avoid being kited.",
+    "search_text": "Omniknight laning phase level 1 10 minutes Purification heal nuke creep secure Repel magic immunity trade Hammer of Purity slow last hit mana",
+    "tags": [
+      "OMNIKNIGHT",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Key power spikes are Level 6 (Guardian Angel), providing 5 seconds of physical immunity in a teamfight. Level 12 with a maxed Purification (level 4) provides strong burst heal and damage. Level 18 for maxed ultimate duration (7 seconds). Level 20 talent for +2s Guardian Angel Duration or -3s Purification Cooldown significantly impacts fight tempo. Level 25 for +160 Purification Damage/Heal or +75% Hammer of Purity Bonus Base Damage defines late-game role. Item spikes like Holy Locket, Force Staff, or Aghanim's Scepter enhance his utility and survivability.",
+    "search_text": "Omniknight power spikes level 6 Guardian Angel 5 seconds physical immunity level 12 Purification max level 18 ultimate 7s duration talent 20 25 timing items",
+    "tags": [
+      "OMNIKNIGHT",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Omniknight is hard countered by heroes with Break (Silver Edge, Hoodwink, Viper) which disables his Degen Aura and the Facet bonus from Omnipresent. High magical burst damage that can bypass or overwhelm Repel's 60% magic resist, like Zeus or Lina. Pure damage abilities that ignore Guardian Angel's physical immunity, such as Timbersaw's spells or Enigma's Midnight Pulse. Diffusal Blade and mana burn effects (Anti-Mage, Nyx Assassin) cripple his mana pool, preventing spell casts.",
+    "search_text": "Omniknight counters break Silver Edge Viper disables Degen Aura Omnipresent magic burst damage Repel 60% resist Guardian Angel physical immunity pure damage Timbersaw Enigma mana burn Diffusal Blade",
+    "tags": [
+      "OMNIKNIGHT",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items for Omniknight are Soul Ring to solve his mana issues, enabling consistent Purification and Repel casts. Holy Locket amplifies all his healing, including Purification and the HP regen from Repel. Force Staff or Glimmer Cape provides crucial positioning tools for saving allies or yourself, as Omniknight lacks mobility.",
+    "search_text": "Omniknight core build items essential Soul Ring mana Holy Locket heal amplification Purification Repel Force Staff Glimmer Cape save positioning",
+    "tags": [
+      "OMNIKNIGHT",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Omniknight's primary role is as a defensive support and counter-initiator. Use Guardian Angel (R) to negate all physical damage for your team for 5/6/7 seconds. Prioritize Repel (W) on your core carry to prevent disables and reduce magic damage. Use Purification (Q) to burst heal a key ally while damaging nearby enemies. Position yourself to apply Degen Aura's 10/20/30/40% slow to enemy melee cores. Use Hammer of Purity (E) to slow and burst priority targets. Your job is to extend the fight duration, making your team unkillable.",
+    "search_text": "Omniknight teamfight role 5v5 Guardian Angel physical immunity Repel debuff immunity magic resist Purification heal nuke Degen Aura slow defensive support",
+    "tags": [
+      "OMNIKNIGHT",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Purification (Q). Instantly heals a friendly unit for 90/160/230/300 health and damages all nearby enemy units in a 260 radius for the same amount. The cooldown is 15/14/13/12 seconds. This is a targeted ability. It does not pierce BKB. The heal and damage are instant and simultaneous.",
+    "search_text": "Purification Q heal 90 160 230 300 damage nuke radius 260 cooldown 15 14 13 12 ally enemy targeted ability",
+    "tags": [
+      "OMNIKNIGHT",
+      "ABILITY_DATA",
+      "PURIFICATION"
+    ]
+  },
+  {
+    "display_text": "Ability: Repel (W). Grants Debuff Immunity with 60% magic resistance to the target for 5 seconds. Provides bonus Strength and HP Regen based on the amount of Debuffs on the target. Grants 6/12/18/24 base Strength and 8/12/16/20 base HP regen, plus an additional 3/4/5/6 Strength per debuff on the target. This is a targeted buff. It pierces BKB as it is a buff applied to an ally.",
+    "search_text": "Repel W debuff immunity magic resistance 60% duration 5s strength bonus 6 12 18 24 hp regen 8 12 16 20 per debuff 3 4 5 6 target ally buff",
+    "tags": [
+      "OMNIKNIGHT",
+      "ABILITY_DATA",
+      "REPEL"
+    ]
+  },
+  {
+    "display_text": "Ability: Hammer of Purity (E). Omniknight's next attack has +75 range, deals 55/70/85/100 base pure damage, plus an additional 25/50/75/100 bonus pure damage (total 80/120/160/200), and slows the target's movement by 75% for 0.2 seconds. The cooldown is 20/15/10/5 seconds and it reduces attack cooldown by 1. This is an autocast ability. It does not pierce BKB (the slow does not affect BKB'd targets).",
+    "search_text": "Hammer of Purity E attack modifier range +75 pure damage base 55 70 85 100 bonus 25 50 75 100 total 80 120 160 200 slow 75% 0.2s cooldown 20 15 10 5 autocast",
+    "tags": [
+      "OMNIKNIGHT",
+      "ABILITY_DATA",
+      "HAMMER_OF_PURITY"
+    ]
+  },
+  {
+    "display_text": "Ability: Degen Aura (Passive). Passively slows the movement speed of enemy units within a 325 radius of Omniknight by 10/20/30/40%. The slow lingers for 1 second after leaving the aura. Does not affect debuff immune units (BKB). This is an aura slow.",
+    "search_text": "Degen Aura passive slow movement 10% 20% 30% 40% radius 325 linger 1s aura does not pierce BKB debuff immune",
+    "tags": [
+      "OMNIKNIGHT",
+      "ABILITY_DATA",
+      "DEGEN_AURA"
+    ]
+  },
+  {
+    "display_text": "Ability: Guardian Angel (R). Grants immunity from physical damage to all allied units in a 400 radius for 5/6/7 seconds. Cooldown is 100/90/80 seconds. Cast range is 600. Does not affect buildings. Does not pierce BKB (it is a buff applied to allies, unaffected by enemy BKB).",
+    "search_text": "Guardian Angel R ultimate physical damage immunity allies radius 400 duration 5 6 7 cooldown 100 90 80 cast range 600",
+    "tags": [
+      "OMNIKNIGHT",
+      "ABILITY_DATA",
+      "GUARDIAN_ANGEL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs. Heavy Magic Damage Lineup. Prioritize leveling Repel early. Use it preemptively on your team's initiator or core before they take magic burst. Consider items like Pipe of Insight and Glimmer Cape. Your Guardian Angel does not protect against magic, so positioning and Repel timing are critical. The Omnipresent facet is less valuable here.",
+    "search_text": "Omniknight scenario heavy magic damage lineup Repel priority Pipe of Insight Glimmer Cape positioning Guardian Angel physical only",
+    "tags": [
+      "OMNIKNIGHT",
+      "SITUATIONAL",
+      "MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs. High Physical Damage / Right-Click Cores. This is Omniknight's ideal scenario. Max Guardian Angel at 6/12/18. Coordinate teamfights around its 5/6/7 second duration. Items like Solar Crest or Vladmir's Offering amplify your team's physical presence during the immunity. The Degen Aura slow is very effective against melee carries. Both facets can work, but Omnipresent adds damage against heroes you are already slowing.",
+    "search_text": "Omniknight scenario high physical damage right-click cores Guardian Angel timing Solar Crest Vladmir Offering Degen Aura slow",
+    "tags": [
+      "OMNIKNIGHT",
+      "SITUATIONAL",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on defensive itemization: Force Staff to save allies, Holy Locket to amplify your heals. Use Guardian Angel defensively to protect your high ground or disengage from lost fights. Do not overextend to apply Degen Aura. Use Purification to farm dangerous waves safely by healing a creep. The Dmg/Heals facet can help sustain your team longer in defensive sieges.",
+    "search_text": "Omniknight scenario playing from behind defensive items Force Staff Holy Locket Guardian Angel disengage high ground Purification farm",
+    "tags": [
+      "OMNIKNIGHT",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Mobile, Dive-heavy Team (e.g., Storm Spirit, Axe). Your job is to enable them. Use Repel on the diving core before they initiate to prevent disables. Be ready to Purification them from a distance. Consider Aether Lens for cast range. Guardian Angel can be used after the initiation to protect the rest of your team following up. A Blink Dagger can help you land a crucial multi-hero Purification or get in range for Repel.",
+    "search_text": "Omniknight scenario mobile dive team Storm Axe Repel initiator Purification follow Aether Lens Blink Dagger Guardian Angel teamfight",
+    "tags": [
+      "OMNIKNIGHT",
+      "SITUATIONAL",
+      "DIVE_TEAM"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is +1s Repel Duration (increasing from 5s to 6s). Right choice is +35 Base Damage. Choose +1s Repel Duration if your team needs longer debuff immunity for a key hero against heavy disable lineups. Choose +35 Base Damage if you are playing a more core-oriented role, need better last hitting, or the extra disable duration is less critical.",
+    "search_text": "Omniknight talent level 10 left +1s Repel Duration 6s right +35 Base Damage choice debuff immunity vs damage core support",
+    "tags": [
+      "OMNIKNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is +5 Repel Strength/HP Regen per Debuff (increasing from 3/4/5/6 to 8/9/10/11). Right choice is -20s Guardian Angel Cooldown (reducing from 100/90/80 to 80/70/60). Choose the Repel talent when facing heroes with many debuffs (e.g., Venomancer, Batrider) or if you are constantly using Repel on a debuffed ally. Choose the Guardian Angel cooldown talent to have your ultimate available for nearly every fight, crucial for high-tempo games.",
+    "search_text": "Omniknight talent level 15 left +5 Repel Strength HP Regen per Debuff right -20s Guardian Angel Cooldown choice debuffs vs ultimate uptime",
+    "tags": [
+      "OMNIKNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is +2s Guardian Angel Duration (increasing from 5/6/7 to 7/8/9). Right choice is -3s Purification Cooldown (reducing from 15/14/13/12 to 12/11/10/9). Choose the Guardian Angel duration talent to massively extend your team's physical immunity window, often the game-winning choice. Choose the Purification cooldown talent for significantly higher sustained healing and damage output in longer fights, especially if you have mana sustain.",
+    "search_text": "Omniknight talent level 20 left +2s Guardian Angel Duration 7 8 9s right -3s Purification Cooldown 12 11 10 9s choice long immunity vs spam heal",
+    "tags": [
+      "OMNIKNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is +160 Purification Damage/Heal (adding 160 to the 90/160/230/300 values). Right choice is +75% Hammer of Purity Bonus Base Damage (increasing the 25/50/75/100 bonus by 75%, making it ~44/88/131/175, for a total damage of ~99/158/216/275). Choose the Purification talent for an enormous 460 heal/damage nuke, transforming you into a potent burst healer/nuker. Choose the Hammer of Purity talent if you are playing as a right-click core, as it provides very high single-target pure damage on a low 5-second cooldown.",
+    "search_text": "Omniknight talent level 25 left +160 Purification Damage Heal 460 max right +75% Hammer of Purity Bonus Base Damage pure damage core choice burst heal vs right click",
+    "tags": [
+      "OMNIKNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

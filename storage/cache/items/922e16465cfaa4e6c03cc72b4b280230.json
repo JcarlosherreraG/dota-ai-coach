@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Sister's Shroud, Tier N/A (Non-Purchasable): Provides the Veiled passive, granting 150% evasion for 5 seconds when dropping below 50% HP. Each successful dodge while Veiled is active reduces the evasion bonus by 75% of its current value. The Last Caress passive ensures this effect's cooldown only resets upon the wearer's death or an enemy hero kill, making it a rare defensive option. Stats: Evasion: 150%, Duration: 5s, HP Threshold: 50%.",
+    "search_text": "sisters shroud, veil passive, low hp evasion, survival item, emergency evasion, percent hp trigger, dodge mechanic, evasion decay, death reset, kill reset, limited proc, defensive neutral, Shroud",
+    "tags": [
+      "ITEM_DATA",
+      "SISTERS_SHROUD",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "EVASION",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "HP_THRESHOLD",
+      "DISABLE_PROTECTION",
+      "VS_PHYSICAL"
+    ]
+  }
+]

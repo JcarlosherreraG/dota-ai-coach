@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Venomancer Aghanim's Scepter: Increases base damage per debuff from Septic Shock. This upgrade enhances Venomancer's role as a sustained damage dealer, punishing enemies who stay in prolonged engagements or fail to purge debuffs, making it particularly effective against tanky or healing-reliant heroes.",
+    "search_text": "Venomancer Aghanim Scepter Septic Shock sustained damage anti-heal anti-tank debuff damage increase",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Venomancer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Venomancer Aghanim's Shard: Adds a 300 damage and 1.6-second stun to Venomous Gale if dispelled. This upgrade acts as a strong anti-dispel mechanic, discouraging enemies from using purge spells or items like Eul's Scepter or Lotus Orb against Venomous Gale, turning it into a highly punishing initiation tool.",
+    "search_text": "Venomancer Aghanim Shard Venomous Gale anti-dispel punish Eul Lotus Orb stun damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Venomancer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

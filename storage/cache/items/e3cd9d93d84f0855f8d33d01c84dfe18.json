@@ -1,0 +1,20 @@
+[
+  {
+    "display_text": "Prince's Knife, Cost: 0: Tier 3 neutral item granting +60% Attack Projectile Speed and +140 Movement Speed. Its unique passive, Hex Strike, applies a 1.5-second Hex to the target of your next basic attack after a 10-second cooldown, turning them into a frog, which is a strong, instant-disable. This makes it a potent tool for initiating fights, catching mobile heroes, or setting up kills, despite providing no raw stats. Stats: CD: 10s, Duration: 1.5s, MS: +140, Projectile Speed: +60%.",
+    "search_text": "hex neutral item, hex strike, catch tool, disable neutral, frog hex, neutral tier 3, initiation neutral, attack modifier neutral, Prince's Knife, hex on hit, disable on attack, projectile speed neutral, movement speed neutral, catch enemy, start fight neutral, lockdown neutral",
+    "tags": [
+      "ITEM_DATA",
+      "PRINCES_KNIFE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "DISABLE",
+      "HEX",
+      "INITIATION",
+      "CATCH",
+      "LOCKDOWN",
+      "MOBILITY",
+      "PROJECTILE_SPEED"
+    ]
+  }
+]

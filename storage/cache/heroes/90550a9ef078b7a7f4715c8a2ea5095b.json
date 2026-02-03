@@ -1,0 +1,202 @@
+[
+  {
+    "display_text": "Bristleback is a Melee strength hero. His base stats are not provided in the raw data, but his attack type is Melee. His base stats at level 1 are 22 Strength, 17 Agility, and 14 Intelligence.",
+    "search_text": "bristleback melee attack type strength agility intelligence base stats hero",
+    "tags": [
+      "BRISTLEBACK",
+      "BASE_STATS",
+      "STATS",
+      "HERO_TYPE"
+    ]
+  },
+  {
+    "display_text": "Bristleback offers three Facets: Berserk replaces Warpath's damage bonus per stack with Attack Speed, turning him into a more right-click focused carry. Snot Rocket changes Bristleback's passive to fire Viscous Nasal Goo instead of Quill Spray when damaged from the rear, significantly increasing his slow and armor reduction utility and synergy with the Goo build. Seeing Red allows Warpath to be activated for a duration, granting its bonuses and bonus movement/attack speed, at the cost of limited personal vision and no allied vision.",
+    "search_text": "bristleback facets berserk snot rocket seeing red warpath attack speed goo quill spray activation vision limited",
+    "tags": [
+      "BRISTLEBACK",
+      "FACET_STRATEGY",
+      "FACET",
+      "MECHANIC"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, focus on using Quill Spray to harass and secure last hits. His Viscous Nasal Goo at level 1 is weak, but can be used to apply a 12% slow and minor armor reduction if chasing a kill. Prioritize Quill Spray and Bristleback for survivability. Use your tankiness from Bristleback to trade favorably. Buy stat items and a Magic Stick to sustain against spell spam.",
+    "search_text": "bristleback laning phase early game quill spray harass goo slow armor reduction bristleback passive tank trade magic stick",
+    "tags": [
+      "BRISTLEBACK",
+      "LANING_PHASE",
+      "EARLY_GAME",
+      "GUIDE"
+    ]
+  },
+  {
+    "display_text": "Bristleback's power spikes are level 6 with Warpath, enabling him to chase and deal extra damage. Level 12 with maxed Quill Spray and Bristleback makes him very tanky and high damage. Level 18 with maxed abilities is a major spike. Level 20 talent for +20 Quill Stack Damage or +8%/4% Bristleback reduction significantly boosts damage or tankiness. Level 25 with +18 Warpath Damage Per Stack makes him a lategame monster. Key item spikes are Vanguard/Hood, Aghanim's Scepter, and Heart of Tarrasque.",
+    "search_text": "bristleback power spikes level 6 warpath level 12 quill spray bristleback level 18 level 20 talent stack damage reduction level 25 warpath damage vanguard aghanim heart",
+    "tags": [
+      "BRISTLEBACK",
+      "POWER_SPIKES",
+      "LEVELS",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Bristleback is hard countered by Break effects (Silver Edge, Viper Nethertoxin, Hoodwink Sharpshooter) which disable his Bristleback damage reduction and Warpath stack generation. High magical burst damage (Lina, Lion) can kill him before his passive Quill procs trigger. Percentage-based damage (Necrophos Heartstopper, Enigma Midnight Pulse) ignores his damage reduction. Spirit Vessel severely reduces his high health regeneration.",
+    "search_text": "bristleback counters break silver edge viper hoodwink disable passive bristleback warpath magic burst lina lion percent damage necro enigma spirit vessel regen",
+    "tags": [
+      "BRISTLEBACK",
+      "HARD_COUNTERS",
+      "WEAKNESS"
+    ]
+  },
+  {
+    "display_text": "Core essential items for Bristleback are Vanguard (into Crimson Guard) for survivability and Quill Spray synergy, and Aghanim's Scepter for the powerful AoE Hairball ability which applies Goo stacks and Quill Spray damage. A luxury core item is Heart of Tarrasque to become unkillable.",
+    "search_text": "bristleback core build vanguard crimson guard aghanim scepter hairball goo quill spray heart of tarrasque",
+    "tags": [
+      "BRISTLEBACK",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Bristleback's role is to be an unkillable frontliner. He runs at the enemy backline, absorbing damage with his Bristleback passive, while constantly spamming Quill Spray and applying Viscous Nasal Goo stacks to reduce enemy armor and slow them. His presence creates space for his allies and forces the enemy to focus him, wasting their cooldowns on his high damage reduction.",
+    "search_text": "bristleback teamfight role frontliner tank absorb damage bristleback passive quill spray goo armor reduction slow space creator",
+    "tags": [
+      "BRISTLEBACK",
+      "TEAMFIGHT_ROLE",
+      "STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Viscous Nasal Goo: Covers a target in snot, causing reduced armor and movement speed for 5.0 seconds (10.0 on creeps). Multiple casts stack and refresh the 5 second duration. Cast Range is 650. The base armor reduction is 1.5/2/2.5/3 and base movement slow is 12%. Each stack provides an additional 3/6/9/12% slow and 2/2.5/3/3.5 armor reduction. The stack limit is 4. The projectile speed is 1000. Does NOT pierce BKB (not specified in data).",
+    "search_text": "bristleback ability Q viscous nasal goo slow armor reduction stack 4 limit cast range 650 duration 5 seconds creep 10 projectile speed 1000",
+    "tags": [
+      "BRISTLEBACK",
+      "ABILITY_DATA",
+      "VISCOS_NASAL_GOO",
+      "SLOW",
+      "ARMOR_REDUCTION"
+    ]
+  },
+  {
+    "display_text": "Quill Spray: Sprays enemy units with quills dealing damage in a 700 radius around Bristleback. Base damage is 25/45/65/85. Deals bonus 30 damage for every time a unit was hit by Quill Spray in the last 14.0 seconds. The maximum bonus damage is 500. The projectile speed is 2400. Quill Spray damage is not reduced by damage block abilities.",
+    "search_text": "bristleback ability W quill spray AoE damage radius 700 base damage 25 45 65 85 stack damage 30 per hit duration 14 seconds max 500 projectile 2400 ignores damage block",
+    "tags": [
+      "BRISTLEBACK",
+      "ABILITY_DATA",
+      "QUILL_SPRAY",
+      "DAMAGE",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Bristleback (Passive): Bristleback takes less damage if hit on the sides or rear. Rear (within 70 degrees) damage reduction is 16%/24%/32%/40%. Side (within 110 degrees) damage reduction is 8%/12%/16%/20%. If Bristleback takes 275/250/225/200 damage from the rear, he releases a Quill Spray of the current level. There is a 24 second cooldown between passive Quill releases.",
+    "search_text": "bristleback ability E passive bristleback damage reduction back 16 24 32 40 side 8 12 16 20 angle 70 110 quill spray trigger damage 275 250 225 200 cooldown 24 seconds",
+    "tags": [
+      "BRISTLEBACK",
+      "ABILITY_DATA",
+      "BRISTLEBACK",
+      "DAMAGE_REDUCTION",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Hairball (Aghanim's Scepter Upgrade): Coughs a quill-packed hairball towards a target location with 1200 speed. Erupts at the location in a 700 radius, hitting enemies with 2 Viscous Nasal Goo stacks and 1 Quill Spray.",
+    "search_text": "bristleback ability shard scepter hairball goo stacks 2 quill spray 1 radius 700 projectile speed 1200",
+    "tags": [
+      "BRISTLEBACK",
+      "ABILITY_DATA",
+      "HAIRBALL",
+      "AGHANIMS_SCEPTER",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Warpath (Ultimate): Bristleback works himself up into a fury every time he casts a spell, increasing his movement speed and damage. Each stack provides 15/20/25 damage and 2/2.5/3% movement speed. Max stacks are 8/10/12. Stack duration is 16/18/20 seconds. Items do not trigger Warpath. Break disables gaining new stacks but does not disable bonuses from existing stacks.",
+    "search_text": "bristleback ultimate R warpath spell cast stack damage 15 20 25 move speed 2 2.5 3 percent max stacks 8 10 12 duration 16 18 20 seconds break disables new stacks",
+    "tags": [
+      "BRISTLEBACK",
+      "ABILITY_DATA",
+      "WARPATH",
+      "ULTIMATE",
+      "BUFF"
+    ]
+  },
+  {
+    "display_text": "Prickly (Innate Ability): Bristleback has 10% damage and debuff duration amplification against enemy heroes that are behind him (within 110 degrees from the back).",
+    "search_text": "bristleback innate passive prickly damage amp 10 percent debuff duration amp behind angle 110",
+    "tags": [
+      "BRISTLEBACK",
+      "ABILITY_DATA",
+      "PRICKLY",
+      "INNATE",
+      "DAMAGE_AMP"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Armor Heroes (e.g., Dragon Knight, Terrorblade). In this situation, prioritize maxing Viscous Nasal Goo after Quill Spray to reduce their high armor. The Snot Rocket Facet is extremely powerful here, as each passive proc applies multiple Goo stacks. Build items like Assault Cuirass and Shiva's Guard to further reduce armor and increase your physical damage output from right-clicks and Warpath.",
+    "search_text": "bristleback situational high armor goo max snot rocket facet armor reduction assault cuirass shiva guard",
+    "tags": [
+      "BRISTLEBACK",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When you are underfarmed and underleveled, your tankiness is compromised. Avoid being the primary initiator. Focus on farming safely with Quill Spray in the jungle or defending towers. Build cheap survivability items like Magic Wand, Bracer, and Hood of Defiance. Your utility comes from spamming Goo slows in fights from a safer distance. Consider the Seeing Red Facet to help you escape or chase in skirmishes where vision is less critical.",
+    "search_text": "bristleback situational behind underfarmed farm jungle defend tower cheap items hood defiance goo slow utility seeing red facet escape",
+    "tags": [
+      "BRISTLEBACK",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus High Magic Burst. Enemies like Zeus, Lina, or Skywrath Mage can kill you before your passive Quills trigger. Prioritize leveling Bristleback for the damage reduction. Rush a Hood of Defiance into Pipe of Insight. Use your Prickly innate by turning your back to amplify their damage, but be cautious of the burst threshold. Buy a Black King Bar as a core item to ensure you can survive the initial burst and get your Quill stacks rolling.",
+    "search_text": "bristleback situational magic burst lina zeus skywrath level bristleback passive hood pipe black king bar bkb prickly damage amp careful",
+    "tags": [
+      "BRISTLEBACK",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Choose between +25 Attack Speed or +1.5 Mana Regen. The Attack Speed talent synergizes with the Berserk Facet and right-click builds, improving farming and manfighting. The Mana Regen talent is the default safe choice, solving Bristleback's early mana problems to spam more Quill Sprays and Goos. Pick Mana Regen if you are struggling to cast spells, otherwise Attack Speed for scaling.",
+    "search_text": "bristleback talent level 10 left 25 attack speed right 1.5 mana regen berserk facet farming mana sustain",
+    "tags": [
+      "BRISTLEBACK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Choose between +250 Goo Cast Range or +8%/4% Bristleback Back/Side Damage Reduction. The Goo Cast Range talent is offensive and utility-focused, allowing you to apply slows and armor reduction from a much safer 900 range, excellent for kiting and chasing. The Bristleback Reduction talent is defensive, making you significantly tankier, especially against physical damage. Pick Goo range if you need control, pick Reduction if you are the main frontliner and dying too quickly.",
+    "search_text": "bristleback talent level 15 left 250 goo cast range right 8 4 percent bristleback damage reduction back side tank control",
+    "tags": [
+      "BRISTLEBACK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Choose between +25 Health Regen or +20 Quill Stack Damage. The Health Regen talent provides massive sustainability, making you incredibly hard to kill outside of lockdown and burst, synergizing with Heart of Tarrasque. The Quill Stack Damage talent is a huge offensive spike, adding 20 damage to every stack bonus from Quill Spray, dramatically increasing your magical damage output in prolonged fights. Pick Health Regen to be an unkillable tank, pick Stack Damage to kill enemies faster.",
+    "search_text": "bristleback talent level 20 left 25 health regen right 20 quill stack damage sustainability tank damage output",
+    "tags": [
+      "BRISTLEBACK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Choose between +12% Spell Lifesteal or +18 Warpath Damage Per Stack. The Spell Lifesteal talent works with Quill Spray and Hairball damage, providing immense survivability in fights as you deal damage. The Warpath Damage talent is a massive lategame scaling option, adding 18 damage per Warpath stack, which with max stacks (12) is an extra 216 damage per hit, transforming you into a formidable right-click threat. Pick Spell Lifesteal for sustain in chaotic fights, pick Warpath Damage to become a primary carry.",
+    "search_text": "bristleback talent level 25 left 12 percent spell lifesteal right 18 warpath damage per stack sustain right click carry scaling",
+    "tags": [
+      "BRISTLEBACK",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

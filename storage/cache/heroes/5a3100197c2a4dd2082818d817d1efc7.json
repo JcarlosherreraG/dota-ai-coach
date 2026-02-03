@@ -1,0 +1,178 @@
+[
+  {
+    "display_text": "Arc Warden is a Ranged intelligence hero with a base attack time of 1.7. He has balanced starting attributes of 20 Strength, 20 Agility, and 24 Intelligence. This gives him average health and mana pools, but his primary attribute being Intelligence provides decent starting damage. His attack type is Ranged, which aids in lane harassment and safe last-hitting from a distance.",
+    "search_text": "Arc Warden Ranged Intelligence 1.7 attack time base stats 20 strength 20 agility 24 int",
+    "tags": [
+      "ARC_WARDEN",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Arc Warden's facets represent a choice between amplifying his core mechanic or gaining a new one. Order and Disorder are visual variants. Runed Replica empowers his Tempest Double: at level 1 it gains Arcane Rune bonuses, at level 2 it gains Arcane and Invisibility, and at level 3 it gains Arcane, Invisibility, and Haste for a portion of the Double's duration. This facet enhances offensive capability and map pressure. Power Capture grants a new mechanic: Magnetic Field can pull runes, and Arc Warden permanently gains all attributes each time he activates a Power Rune. This facet supports a greedier, more scaling playstyle focused on rune control and becoming a stat monster.",
+    "search_text": "Arc Warden Facets Runed Replica Tempest Double Arcane Invisibility Haste rune buffs Power Capture Magnetic Field pull runes permanent all attributes on Power Rune activation",
+    "tags": [
+      "ARC_WARDEN",
+      "FACET_STRATEGY",
+      "FACET_RUNED_REPLICA",
+      "FACET_POWER_CAPTURE"
+    ]
+  },
+  {
+    "display_text": "Arc Warden's laning focuses on last-hitting and harassment using his high base damage and ranged attack. Use Flux (500 cast range at level 1) to harass isolated enemy heroes, dealing 15 damage per second and slowing movement by 14% for 6 seconds. Spark Wraith is your primary zoning and kill threat; place it where enemies must walk to last-hit. It deals 100 magic damage and ministuns for 0.5 seconds after a 1.5 second activation delay. Save Magnetic Field for defensive purposes or to secure last-hits under tower with its 30 bonus attack speed and 100% evasion against outside attacks.",
+    "search_text": "Arc Warden laning Flux 500 range 15 dps 14% slow 6s Spark Wraith 100 damage 0.5s stun 1.5s delay Magnetic Field attack speed 30 evasion 100% defensive",
+    "tags": [
+      "ARC_WARDEN",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Arc Warden's power spikes are tied to his ultimate and key talents. Level 6 (Tempest Double) is a massive farming and split-pushing spike. Level 12 with a core item like Maelstrom greatly accelerates farm and fighting. Level 18 with a 3rd point in Tempest Double (24s duration) provides immense map pressure. Talent levels are critical: Level 15 talents offer either more survivability (+200 Health) or more utility (+200 Flux Cast Range). Level 20 (+50% Spark Wraith Damage) dramatically increases burst. Level 25 (+1.1s Spark Wraith Activation Delay reduction) makes Spark Wraith nearly instant, or (Tempest Double Has No Penalties) removes the movement slow and accuracy loss on the clone, making it a perfect fighter.",
+    "search_text": "Arc Warden power spikes level 6 Tempest Double level 12 Maelstrom level 18 level 20 talent Spark Wraith 50% damage level 25 talent no penalties double",
+    "tags": [
+      "ARC_WARDEN",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Arc Warden is countered by heroes that can quickly jump and burst him, as he is squishy. He is also countered by heroes with summons or illusions, as they can be near a target to disable the damage from Flux (damage stops if another enemy unit is within 225 range). Area-of-effect disables and silences prevent him from using Magnetic Field or Spark Wraith defensively. Break effects do not disable his core abilities, but items like Nullifier can purge his Magnetic Field evasion buff. Heroes that can quickly clear his Tempest Double (like Anti-Mage with Mana Break) reduce his effectiveness.",
+    "search_text": "Arc Warden counters burst heroes jump on him summons illusions disable Flux damage AOE disables silences stop Magnetic Field Spark Wraith Nullifier purge evasion",
+    "tags": [
+      "ARC_WARDEN",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Arc Warden's absolute core item build is focused on farming and amplification for his Tempest Double. 1) Hand of Midas: Doubles the effectiveness with the clone, accelerating experience and gold gain immensely. 2) Maelstrom/Mjollnir: Provides needed wave clear and magical damage proc that works with the clone's high attack speed from Magnetic Field. 3) Gleipnir (from Maelstrom): Offers a reliable root to set up Spark Wraiths and Flux, and the stats benefit both the main hero and clone.",
+    "search_text": "Arc Warden core items Hand of Midas Maelstrom Mjollnir Gleipnir farming clone attack speed root",
+    "tags": [
+      "ARC_WARDEN",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Arc Warden's role is to deal massive, sustained physical and magical damage from a safe distance using his Tempest Double. Position your main hero at the back, using Spark Wraiths to zone and control areas. Place Magnetic Field on your frontline or carry to give them 30-120 bonus attack speed and 100% evasion from outside attacks. Use Flux on isolated priority targets to slow and damage them. The Tempest Double should be used to focus down key heroes or to split-push another lane, forcing rotations.",
+    "search_text": "Arc Warden teamfight role backline damage Tempest Double split push Spark Wraith zone Magnetic Field attack speed evasion Flux slow isolated target",
+    "tags": [
+      "ARC_WARDEN",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Flux. Infuses a lone enemy unit with volatile energy, dealing damage over time and slowing the target. It deals 15/30/45/60 damage per second and slows movement speed by 14%/21%/28%/35% for 6 seconds. The damage is NOT applied if another enemy unit is within 225 range of the target. Cast Range: 500/600/700/800. Damage interval is 0.5 seconds. Does NOT apply a silence.",
+    "search_text": "Flux Q ability Arc Warden damage per second 15 30 45 60 slow 14% 21% 28% 35% duration 6s 225 range isolation requirement cast range 500 600 700 800 no silence",
+    "tags": [
+      "ARC_WARDEN",
+      "ABILITY_DATA",
+      "FLUX"
+    ]
+  },
+  {
+    "display_text": "Ability: Magnetic Field. Generates a circular distortion field that grants allied units inside 30/60/90/120 bonus attack speed and 100% evasion against attacks coming from outside the field for 4/5/6/7 seconds. Cooldown: 20/19/18/17 seconds. Radius is 300. Does not affect buildings. Does not knock back enemies.",
+    "search_text": "Magnetic Field W ability Arc Warden attack speed bonus 30 60 90 120 evasion 100% outside attacks duration 4 5 6 7 cooldown 20 19 18 17 radius 300",
+    "tags": [
+      "ARC_WARDEN",
+      "ABILITY_DATA",
+      "MAGNETIC_FIELD"
+    ]
+  },
+  {
+    "display_text": "Ability: Spark Wraith. Summons a wraith that materializes after a 1.5 second base activation delay, then patrols an area. If an enemy comes within 375 range, the wraith fuses with them, dealing 100/170/240/310 magical damage, applying a 100% movement slow for 0.5 seconds, and ministunning for 0.5/0.6/0.7/0.8 seconds. The wraith moves at 550 speed and provides 300 radius vision for 3.34 seconds. Spark Wraiths cannot be disjointed. Think interval is 0.2 seconds.",
+    "search_text": "Spark Wraith E ability Arc Warden damage 100 170 240 310 magic ministun 0.5 0.6 0.7 0.8 100% slow activation delay 1.5s patrol 375 range vision 300 3.34s cannot disjoint speed 550",
+    "tags": [
+      "ARC_WARDEN",
+      "ABILITY_DATA",
+      "SPARK_WRAITH"
+    ]
+  },
+  {
+    "display_text": "Ability: Runic Infusion (Innate). Upon activating any rune, Arc Warden gains the Regeneration Rune buff for 4.0 seconds. The duration is reduced to 67% (approximately 2.68 seconds) when activating a Bounty or Water rune.",
+    "search_text": "Runic Infusion innate ability Arc Warden Regeneration Rune buff 4s 67% duration Bounty Water rune",
+    "tags": [
+      "ARC_WARDEN",
+      "ABILITY_DATA",
+      "RUNIC_INFUSION"
+    ]
+  },
+  {
+    "display_text": "Ability: Tempest Double (Ultimate). Creates a perfect electrical duplicate of Arc Warden that lasts 18/21/24 seconds on a 60/55/50 second cooldown. The duplicate can use all of Arc Warden's current items and special Tempest Double versions of his spells, except most consumables and items that drop on death. The duplicate has separate item and ability cooldowns. The Tempest Double loses its sense of self over time, becoming slower and less accurate (max slow and blind chance of 35%). The duplicate cannot use Tempest Double or Refresher Orb.",
+    "search_text": "Tempest Double R ultimate Arc Warden clone duplicate duration 18 21 24 cooldown 60 55 50 uses items spells separate cooldowns penalty slow blind 35% cannot use Tempest Double Refresher Orb",
+    "tags": [
+      "ARC_WARDEN",
+      "ABILITY_DATA",
+      "TEMPEST_DOUBLE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When behind, Arc Warden should avoid direct fights. Use Tempest Double to safely split-push lanes and farm the enemy jungle. Stack Spark Wraiths defensively at choke points and near your towers to deter pushes. Prioritize survival items like Hurricane Pike or BKB to stay alive. Your goal is to create space and farm until you hit critical item timings like Mjollnir and Daedalus.",
+    "search_text": "Arc Warden behind losing split push Tempest Double farm jungle defensive Spark Wraith stacks survival items Hurricane Pike BKB",
+    "tags": [
+      "ARC_WARDEN",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus High Armor / Illusion Heroes. Against high armor or illusion heroes (e.g., Terrorblade, Phantom Lancer), your physical damage from right-clicks is less effective. Focus on magical burst with Spark Wraiths (they deal pure magical damage) and itemize for magic damage (e.g., Mjollnir active, Ethereal Blade). Flux is weak against illusion heroes as the illusions will be near the real hero, canceling the damage. Use Magnetic Field primarily for the attack speed bonus to proc Mjollnir more often.",
+    "search_text": "Arc Warden vs high armor illusions Terrorblade PL Spark Wraith magic damage Mjollnir Ethereal Blade Flux canceled by illusions Magnetic Field attack speed procs",
+    "tags": [
+      "ARC_WARDEN",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Sieging High Ground. Use Tempest Double to safely hit buildings from outside the enemy base's range. Place Magnetic Field on the clone or your siege creeps to protect them from tower and hero attacks. Pre-place Spark Wraiths on the enemy ramp to zone defenders. Use Flux on any defender who steps forward alone to slow and damage them. If the enemy has long-range initiation (e.g., Hook, Spear), keep your main hero far back.",
+    "search_text": "Arc Warden siege high ground Tempest Double hit buildings Magnetic Field protect siege creeps Spark Wraiths zone ramp Flux slow isolated defender",
+    "tags": [
+      "ARC_WARDEN",
+      "SITUATIONAL",
+      "SIEGING"
+    ]
+  },
+  {
+    "display_text": "Scenario: Countering Mobile Heroes. Against highly mobile heroes (e.g., Storm Spirit, Queen of Pain), Spark Wraith is your primary tool. Pre-cast Wraiths where you predict they will blink or zip to. The ministun and slow will interrupt and catch them. If you have Gleipnir, use the root from the clone to lock them down before they can escape. Flux is less reliable as they can easily stay near other units.",
+    "search_text": "Arc Warden vs mobile Storm Spirit QoP Spark Wraith prediction ministun slow catch Gleipnir root Flux unreliable isolation",
+    "tags": [
+      "ARC_WARDEN",
+      "SITUATIONAL",
+      "VS_MOBILE"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left choice offers +200 Flux Cast Range, increasing the safe harassment and initiation range of Flux from 500-800 to 700-1000. Right choice offers +200 Health, providing crucial survivability against early burst damage. Choose range if you are safely farming and want to pressure from further away. Choose health if you are being targeted and need the buffer to survive ganks.",
+    "search_text": "Arc Warden talent level 10 left +200 Flux Cast Range 700-1000 right +200 Health survivability burst",
+    "tags": [
+      "ARC_WARDEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left choice offers +20% Flux Slow, increasing the slow from 14-35% to 34-55%, making it a powerful single-target lockdown tool. Right choice offers +25 Magnetic Field Attack Speed, boosting the bonus from 30-120 to 55-145, significantly increasing the DPS of heroes inside the field. Choose Flux slow if you need more catch and control. Choose Magnetic Field attack speed if you or your carry rely heavily on right-clicks and are fighting inside the bubble often.",
+    "search_text": "Arc Warden talent level 15 left +20% Flux Slow 34-55% right +25 Magnetic Field Attack Speed 55-145 DPS",
+    "tags": [
+      "ARC_WARDEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left choice offers +50% Spark Wraith Damage, increasing the damage from 100-310 to 150-465, providing massive burst potential. Right choice offers -5s Magnetic Field Cooldown, reducing it from 17 to 12 seconds at max level, allowing for much more frequent use in fights and sieges. Choose Spark Wraith damage for instant pick-off potential. Choose Magnetic Field cooldown for sustained teamfight presence and objective control.",
+    "search_text": "Arc Warden talent level 20 left +50% Spark Wraith Damage 150-465 burst right -5s Magnetic Field Cooldown 12s frequency",
+    "tags": [
+      "ARC_WARDEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left choice offers -1.1s Spark Wraith Activation Delay, reducing it from 1.5 seconds to 0.4 seconds, making the wraiths nearly instant and incredibly difficult to dodge. Right choice makes Tempest Double Have No Penalties, removing the 35% movement slow and accuracy loss (blind) on the clone, turning it into a perfect, full-power fighter for its entire duration. Choose Spark Wraith delay for unrivaled area control and burst. Choose no penalties on the Double to maximize its fighting and pushing power, effectively having two full-strength Arc Wardens.",
+    "search_text": "Arc Warden talent level 25 left -1.1s Spark Wraith Activation Delay 0.4s instant right Tempest Double Has No Penalties no slow no blind perfect clone",
+    "tags": [
+      "ARC_WARDEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

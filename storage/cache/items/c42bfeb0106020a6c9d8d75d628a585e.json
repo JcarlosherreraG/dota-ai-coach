@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Paladin Sword, Cost: 0: Provides bonus damage, lifesteal, spell lifesteal, and reduces lifesteal from creeps. Key sustain item for heroes who deal significant physical attack damage. Useful for maintaining health and mana through attack sustain, with penalties against jungle creeps. Stats: CD: N/A, Damage: +16, Lifesteal: +16%, Spell Lifesteal: +8%.",
+    "search_text": "lifesteal item, sustain item, attack sustain, physical sustain, health sustain, mana sustain, spell lifesteal, bonus damage, carry sustain, farm sustain, healing on hit, damage lifesteal, Paladin Sword, paladin, neutral item, neutral lifesteal",
+    "tags": [
+      "ITEM_DATA",
+      "PALADIN_SWORD",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "LIFESTEAL",
+      "SPELL_LIFESTEAL",
+      "DAMAGE",
+      "SUSTAIN",
+      "REGEN"
+    ]
+  }
+]

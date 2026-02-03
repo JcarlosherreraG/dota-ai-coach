@@ -1,0 +1,65 @@
+[
+  {
+    "display_text": "Sange, Cost: 2100: Provides substantial durability through raw Strength, Slow Resistance, and Health Restoration. Passively grants 16 Strength, 20% Slow Resistance, and 16% increased Health Restoration. A foundational component for late-game tankiness and status resistance upgrades. Stats: Strength: +16, Slow Resist: +20%, Health Restore Amp: +16%.",
+    "search_text": "sange, strength item, status resistance, slow resistance, health regeneration, tank item, durability, strength hp, status resist item, slow reduction, hp regen amp, hp regen amplification, health restore amp, Sange",
+    "tags": [
+      "ITEM_DATA",
+      "SANGE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "STRENGTH",
+      "DURABILITY",
+      "TANK",
+      "HEALTH",
+      "REGEN",
+      "STATUS_RESISTANCE",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Sange, Cost: 2100: Boosts survivability through raw Strength gain and enhanced Health Restoration. Provides a direct 16 Strength bonus (+304 HP) and amplifies all received healing and regeneration by 16%, significantly increasing lane and fight sustain.",
+    "search_text": "sange stats, sange strength, sange hp regen, health restoration amp, sange health, sange sustain, hp amp, tank stats, regen stats, durability stats, hp regeneration boost, Sange",
+    "tags": [
+      "ITEM_DATA",
+      "SANGE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "HEALTH",
+      "REGEN",
+      "SUSTAIN",
+      "DURABILITY",
+      "TANK"
+    ]
+  },
+  {
+    "display_text": "Sange, Cost: 2100: Enhances front-line survivability by mitigating the impact of enemy slows and damage over time. The 20% Slow Resistance makes disengaging or repositioning easier, while the health restoration bonus improves longevity in prolonged engagements.",
+    "search_text": "sange teamfight, frontline item, durability teamfight, anti slow, slow resistance item, tank item teamfight, status resistance teamfight, survive fights, sustain in fights, anti kiting, slow counter, Sange",
+    "tags": [
+      "ITEM_DATA",
+      "SANGE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DURABILITY",
+      "TANK",
+      "STATUS_RESISTANCE",
+      "SURVIVAL",
+      "FRONTLINE",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Sange, Cost: 2100: Synergizes with heroes who rely on Strength scaling or build healing items. Strength heroes naturally benefit more from the raw HP and status resistance. Combine with healing items (e.g., Satanic, Heart of Tarrasque) to maximize the regeneration amplification effect.",
+    "search_text": "sange synergy, strength heroes, sange strength hero, healing synergy, health restore synergy, regen amp synergy, tank build, durability build, Sange",
+    "tags": [
+      "ITEM_DATA",
+      "SANGE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "STRENGTH",
+      "HEALING_SYNERGY",
+      "DURABILITY",
+      "TANK"
+    ]
+  }
+]

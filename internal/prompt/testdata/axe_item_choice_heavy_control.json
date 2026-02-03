@@ -1,0 +1,46 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "444444444",
+    "game_time": 1500,
+    "clock_time": 1500,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": true
+  },
+  "player": {
+    "team_name": "Dire",
+    "name": "MogulKhan",
+    "gold": 3200,
+    "kills": 5,
+    "deaths": 4,
+    "assists": 8,
+    "last_hits": 120,
+    "gpm": 450,
+    "xpm": 500
+  },
+  "hero": {
+    "name": "npc_dota_hero_axe",
+    "level": 15,
+    "health": 1800,
+    "max_health": 1800,
+    "mana": 600,
+    "max_mana": 600,
+    "alive": true
+  },
+  "items": {
+    "slot0": { "name": "item_blink" },
+    "slot1": { "name": "item_blade_mail" },
+    "slot2": { "name": "item_vanguard" },
+    "slot3": { "name": "item_tranquil_boots" },
+    "slot4": { "name": "item_magic_wand" },
+    "slot5": { "name": "item_empty" }
+  },
+  "abilities": {
+    "ability0": { "name": "axe_berserkers_call", "level": 4 },
+    "ability1": { "name": "axe_battle_hunger", "level": 4 },
+    "ability2": { "name": "axe_counter_helix", "level": 4 },
+    "ability3": { "name": "axe_culling_blade", "level": 2 }
+  },
+  "user_context": "Против меня Invoker и Shadow Shaman. Я влетаю с Блинка, даю агр, но меня сразу поднимают в Еул или превращают в курицу, и я умираю до того, как крутилка сработает.",
+  "user_question": "Что мне собрать после Блейдмейла? Мне не дают бить в драке, слишком много контроля."
+}

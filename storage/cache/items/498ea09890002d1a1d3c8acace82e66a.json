@@ -1,0 +1,75 @@
+[
+  {
+    "display_text": "Khanda, Cost: 5600: Grants the 'Empower Spell' passive: the next single-target spell cast on an enemy deals 250 additional damage, breaks their passive abilities, and slows their movement speed by 30% for 4 seconds. The slow is dispellable, but the break effect is not. Provides substantial bulk and regeneration. Stats: CD: 9s, Spell Damage Bonus: 250, Slow: 30%, Slow Duration: 4s.",
+    "search_text": "empower spell item, spell amplifier, unit target spell bonus, break item, passive disable item, slow item, Khanda, magic damage amp, cast modifier, mana sustain, survivability, health mana, stats item, intel, str, agi, caster item, utility caster, hybrid caster, nuker",
+    "tags": [
+      "ITEM_DATA",
+      "KHANDA",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MAGICAL_DAMAGE",
+      "BREAK",
+      "SLOW",
+      "DISABLE_PASSIVES",
+      "UTILITY",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Khanda, Cost: 5600: Stat Profile: Provides a significant health and mana pool boost for spellcasting sustainability. Grants +450 HP, +450 Mana, +8 to all attributes, +7 HP regeneration, and +3 Mana regeneration. Offers well-rounded survivability and resource management for intelligence-based casters and initiators.",
+    "search_text": "khanda stats, spellcaster stats, health mana item, all stats item, HP regen item, mana regen item, bulk item, sustain item, support stats, caster survivability, Khanda",
+    "tags": [
+      "ITEM_DATA",
+      "KHANDA",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "MANA",
+      "REGEN",
+      "ALL_STATS",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Khanda, Cost: 5600: Teamfight Role: Enhances the impact of single-target spells to catch and cripple key enemy heroes. The combination of added burst damage, passive break, and slow allows a caster to significantly weaken and control a high-priority target, neutralizing their escape or defensive passives at the start of an engagement.",
+    "search_text": "teamfight khanda, single target nuke, disable key target, initiation tool, catch item, disable passive, break in fight, slow for team, control item, Khanda",
+    "tags": [
+      "ITEM_DATA",
+      "KHANDA",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "INITIATION",
+      "CATCH",
+      "DEBUFF",
+      "DISABLE",
+      "SINGLE_TARGET"
+    ]
+  },
+  {
+    "display_text": "Khanda, Cost: 5600: Situational vs. Passives: The 'Break' effect disables enemy passive abilities. This is highly effective against heroes who rely on evasion (e.g., Phantom Assassin, Butterfly), critical strike passives, or powerful survivability passives (e.g., Spectre's Dispersion, Bristleback). It makes them vulnerable before other damage is applied.",
+    "search_text": "counter evasion item, break passive, disable passives item, vs phantom assassin, vs butterfly, vs bristleback, vs spectre, passive counter, anti-passive, true strike alternative, Khanda",
+    "tags": [
+      "ITEM_DATA",
+      "KHANDA",
+      "SITUATIONAL_VS_PASSIVES",
+      "FULL_ITEM",
+      "BREAK",
+      "VS_EVASION",
+      "DISABLE_PASSIVES",
+      "COUNTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Khanda, Cost: 5600: Synergy Build: Ideal for intelligence heroes or initiators with powerful, long-cooldown single-target spells (like Laguna Blade, Finger of Death, or Dismember). The item's mana and regeneration help with spell spam, while the health pool provides the durability needed to get into range to cast the empowered spell.",
+    "search_text": "khanda synergy, nuker item, lina item, lion item, pudge item, single target ult, burst damage item, combo with nuke, int hero item, caster build, Khanda",
+    "tags": [
+      "ITEM_DATA",
+      "KHANDA",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "NUKE",
+      "CASTER_ITEM",
+      "SYNERGY"
+    ]
+  }
+]

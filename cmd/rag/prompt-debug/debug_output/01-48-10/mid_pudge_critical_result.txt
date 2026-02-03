@@ -1,0 +1,269 @@
+FILE: mid_pudge_critical.json
+QUESTION: Меня быстро убивают магией. Какой предмет купить, чтобы выжить?
+GENERATION TIME: 2.17s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ZEUS, BASE_STATS] | Zeus is a Ranged Intelligence hero with below average Strength (19) and Agility (11), but very high starting Intelligence (23). This gives him high base mana and damage, but low physical durability and a slow 1.7 attack speed. His starting health and armor are poor, making him vulnerable to physical harass and ganks early on.
+---
+[TAGS: ZEUS, ABILITY_DATA, STATIC_FIELD] | Static Field shocks any enemy Zeus attacks or hits with his abilities, dealing damage equal to 2.5%/3.25%/4%/4.75% of their current health. This is a percentage-based damage passive that amplifies all his spell damage.
+---
+[TAGS: ITEM_DATA, VITALITY_BOOSTER, STAT_PROFILE, FULL_ITEM, HEALTH, SURVIVAL, COMPONENT, SECRET_SHOP] | Vitality Booster, Cost: 1000: Purchasable from the Secret Shop. Provides a flat +250 maximum Health, offering raw survivability with no active abilities. A core component for many late-game health-focused items like Heart of Tarrasque. Stats: Health Bonus: +250.
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: HOODWINK, SITUATIONAL] | Scenario: When facing heroes with high armor and low magic resistance, Hoodwink should prioritize magic damage. Build Maelstrom/Mjollnir and leverage the spell amplification from Hunter's Boomerang. Focus on landing multi-hero Bushwhacks and Acorn Shot bounces, as their damage is largely magical and ignores armor.
+---
+[TAGS: ITEM_DATA, AETHERIAL_HALO, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, VS_MAGIC, SURVIVAL, SUSTAIN, CONTROL, VS_MOBILITY] | Cost: 5900: Highly effective against magic-resistant enemies and physical burst due to the raw attribute bulk and spell lifesteal sustain. The active burn damage over time and slow helps control mobile heroes and prevent disengages.
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, FULL_ITEM, TEAMFIGHT_ROLE, SAVE, DEFENSIVE, SUPPORT_ITEM, VS_MAGIC, UTILITY] | Glimmer Cape, Cost: 2150: Core defensive support item in team fights to save key teammates. The barrier and invisibility disrupt enemy targeting and focus fire, allowing allies to survive or escape lethal magic burst. It excels at countering lineups heavy with magic damage nukes and delayed disables. Stats: CD: 15s, Magic Barrier: 375.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: ANTI-MAGE, SITUATIONAL] | Against heavy magical burst lineups, prioritize leveling Counterspell early. The Magebane's Mirror Facet can turn the tables by punishing enemies for casting on you. Consider an early Hood of Defiance before or after Battle Fury.
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: BEASTMASTER, SITUATIONAL, VS_MAGIC_BURST] | Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, CORE_ITEM] | Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.
+---
+[TAGS: Skywrath Mage, ABILITY_DATA, R, Ultimate, Burst, Area] | Mystic Flare (R) is Skywrath Mage's ultimate. It conjures a 170-radius mystical field for 2.0 seconds, dealing 800/1200/1600 damage distributed evenly among all enemy Heroes in the area every 0.1 seconds. It does not affect creep-heroes like Spirit Bear. Spell immune enemies do not count toward the damage distribution. If no enemy heroes are present, it will damage enemy creeps. Illusions are instantly destroyed by it. The data shows no pierce_spell_immunity attribute, so it does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, COMPONENT, SYNERGIES] | Ring of Health CORE_BUILD: A fundamental component for several core items. It builds into Vanguard, Hood of Defiance, Perseverance, and Holy Locket, making it a versatile early investment for many strength, agility, and intelligence hero builds. Stats: Cost: 700 gold.
+---
+[TAGS: Ability, No Target, Survivability] | Unfettered: Temporarily increases resistance to spells and status effects, enhancing survivability. Stats: Duration: 4/5/6/7, Magic Resistance: 60%, Status Resistance: 60%.
+---
+[TAGS: STRATEGY, Zeus, WEAKNESS] | Zeus Weakness: Vulnerable to Silence (e.g., Silencer, Orchid Malevolence), Gap Closers (e.g., Storm Spirit, Anti-Mage), and Magic Resistance (e.g., Pipe of Insight).
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, FULL_ITEM, SITUATIONAL_VS_CONTROL, SAVE, DEFENSIVE, UTILITY, SUPPORT_ITEM] | Glimmer Cape, Cost: 2150: Situational for countering heroes with channeling or long-cast-time abilities. Because it can be cast while channeling, it allows heroes like Crystal Maiden or Witch Doctor to complete their ultimates while gaining magic protection and the chance to become invisible. It's a strong save for heroes who are stunned or rooted. Stats: CD: 15s, Magic Barrier: 375.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, STAT_PROFILE, FULL_ITEM, HEALTH, DAMAGE, STRENGTH, SURVIVAL] | Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Ring of Regen TEAMFIGHT_ROLE: Primarily a utility component; its role in fights is indirect. It provides sustain to build into other items like Headdress or Hood of Defiance, which offer teamfight benefits. The regeneration helps sustain between engagements. Stats: Health Regeneration: +1.25.
+---
+[TAGS: Ability, Magic Resistance, Survivability] | Magic Resistance (14%): Enhances survivability against magical damage with 14% resistance. Stats: Magic Resistance: 14%
+---
+[TAGS: ITEM_DATA, ESSENCE_RING, CORE_DESCRIPTION, NEUTRAL, TIER_2, SURVIVAL, DEFENSIVE, HEALTH, ACTIVE, BURST_HEAL] | Essence Ring, Tier 2: Neutral item that instantly increases your current and maximum health by 240 for 10 seconds upon activation. This burst of survivability provides a temporary health buffer for clutch moments in skirmishes or to survive burst damage. Its substantial mana cost requires careful mana management. Stats: CD: 25s, Mana: 160, Duration: 10s, Health Gain: 240.
+---
+[TAGS: Ability, No Target, Debuff Immunity] | Rage: Grants immunity to debuffs and increases magic resistance, making Lifestealer resistant to spell damage. Stats: Duration: 3/4/5/6, Magic Resistance: 80%.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Elusive HARD_COUNTERS: The evasion is countered by items and abilities providing True Strike (e.g., Monkey King Bar, Bloodthorn, certain hero spells), which completely negate its defensive benefit.
+---
+[TAGS: AGHS_STRATEGY, Zeus, COUNTER_MECHANIC, AGHANIM] | Zeus Aghanim's Scepter: Nimbus — Creates a global presence threat that counters passive play and high-ground defense. The storm cloud automatically punishes grouped enemies or those hiding in fog, forcing repositioning and disrupting channeling abilities.
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, CORE_MECHANICS, FULL_ITEM, SAVE, DEFENSIVE, SUPPORT_ITEM, UTILITY, TEAMFIGHT_ROLE, VS_MAGIC, MAGIC_RESISTANCE] | Glimmer Cape, Cost: 2150: Provides a targeted defensive active that grants a 375 magic damage barrier, 20% Magic Resistance, and invisibility after a 0.5s fade to you or an ally for 5 seconds. This can be used while channeling. Primarily a support save item to protect fragile allies against magic damage burst or to enable repositioning. Stats: CD: 15s, Mana: 125, Magic Barrier: 375, Duration: 5s, Fade Delay: 0.5s.
+---
+[TAGS: SHADOW_DEMON, SITUATIONAL, PLAYING_FROM_BEHIND] | Scenario: Playing from Behind. When your team is losing, shift to a defensive save role. Max Disruption first for the reduced cooldown (20s at level 4) to save your carries. Use Disseminate on your own diving core to punish enemies for focusing them. Build save items like Glimmer Cape and Force Staff. Use Shadow Poison for vision and scouting rather than aggressive stacking.
+---
+[TAGS: Ability, Passive, Resistance, Counter] | Spell Immunity: Grants immunity to most magical spells, making the unit resistant to magic damage and effects.
+---
+[TAGS: ITEM_DATA, RECIPE_BLACK_KING_BAR, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Black King Bar Recipe. Cost: 1450: Component required to assemble Black King Bar. Does not provide stats or abilities.
+---
+[TAGS: Skywrath Mage, ABILITY_DATA, W, Slow, Global] | Concussive Shot (W) is a global targeted ability. It launches a shot (800 speed) that hits the closest hero within 1600 range of the target point. Upon impact, it deals 120/180/240/300 damage and applies a 40% movement slow in a 250 radius for 4 seconds. It provides 300 vision around the projectile and reveals the impact area for 3.34 seconds. If no enemy heroes are in range, it targets the nearest creep. Damages creeps around the impact area.
+---
+[TAGS: STRATEGY, Skywrath Mage, TIMING] | Skywrath Mage Power Spike: Strong at level 6 (Mystic Flare) and with Rod of Atos (catch potential). Another spike at level 12 with Ancient Seal talent for burst.
+---
+[TAGS: ZEUS, FACET_STRATEGY] | Zeus has two Facets. The Livewire Facet causes Static Field to deal more damage to nearby enemies. This synergizes with his Arc Lightning and Nimbus for mass AOE damage in close-range fights. The Divine Rampage Facet increases Thundergod's Wrath damage to other enemies when it kills a target. This excels for securing kills across the map and executing fleeing low-health heroes. Choose Livewire for teamfight-focused builds where you get close, and Divine Rampage for a more global, assassination-oriented playstyle.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, VS_MAGIC_IMMUNITY] | Warhammer HARD_COUNTERS: Spell immunity (BKB) prevents the debuff application. Basic dispels can remove the armor reduction effect. Ineffective against magic-immune cores. Stats: Target: Enemy Hero/Basic, Cooldown: 20 seconds.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: AGHS_STRATEGY, Skywrath Mage, COUNTER_MECHANIC, AGHANIM] | Skywrath Mage Aghanim's Shard: Fires two additional Arcane Bolts at random enemies near the original target, prioritizing heroes. This upgrade counters hero-focused sustain or evasion mechanics by ensuring consistent magical damage output even against elusive or healing-heavy targets.
+---
+[TAGS: ITEM_DATA, HOOD_OF_DEFIANCE, SITUATIONAL_VS_MAGIC, FULL_ITEM, VS_MAGIC, DEFENSIVE, MAGIC_RESISTANCE] | Cost: 0: Hood of Defiance is a situational counter against heroes with high magical burst damage like Zeus, Lina, or Leshrac. The active Barrier significantly reduces incoming magic damage, allowing a hero to survive combos that would otherwise be lethal. It is essential against magic-heavy lineups and is a core component for Pipe of Insight. Stats: Spell Resistance Stacks Multiplicatively.
+---
+[TAGS: ITEM_DATA, CLOAK, FULL_ITEM, CORE_MECHANICS, VS_MAGIC, MAGIC_RESISTANCE, DEFENSIVE, COMPONENT] | Cloak, Cost: 800: Passive component providing +20% Magic Resistance. Stacks multiplicatively with other spell resistance sources. Core early magic defense item for heroes facing frequent spell damage harassment or magic burst. Stats: Magic Resistance: +20%.
+---
+[TAGS: Ability, Magic Resistance, Protection] | Magic Resistance (15%): Provides moderate protection against magical damage with 15% resistance. Stats: Magic Resistance: 15%
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: Ability, Magic Resistance, Immunity] | Magic Resistance (100%): Grants complete immunity to magical damage, countering spell-reliant enemies. Stats: Magic Resistance: 100%
+---
+[TAGS: Omniknight, Ability, Duration, Immunity] | Repel Duration: Extends Repel duration, providing longer immunity to spells and debuffs for Omniknight or allies.
+---
+[TAGS: PANGOLIER, ABILITY_DATA, ROLL_UP, IMMUNITY, MAGIC_RESISTANCE, COUNTER_ATTACK] | Roll Up: Pangolier curls into a ball, becoming debuff immune and gaining 80% magic resistance for 2.25 seconds. He can turn but not move. If attacked, he will roll away from the attacker, dealing Rolling Thunder damage and stun to enemies in his path. Can be cast during Rolling Thunder to stop temporarily. Has a 0.5 second cast time. Does NOT pierce BKB (he gains immunity, but the effect itself is not a piercing disable).
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPELLABLE, NO_BKB_PIERCE] | Orb of Corrosion HARD_COUNTERS: The Corrosion effect is dispellable, meaning items like Manta Style or abilities with basic dispels can remove all debuffs (slow, armor reduction, heal reduction). Its effectiveness is limited against heroes who naturally build dispels or have innate magic resistance/status resistance. The effect does not pierce Spell Immunity. Stats: Dispellable: Yes, Does Not Pierce BKB.
+---
+[TAGS: STRATEGY, Skywrath Mage, WEAKNESS] | Skywrath Mage Weakness: Vulnerable to Silence (Ancient Seal countered), Break (ruins Shield of the Scion), and gap closers (no escape).
+---
+[TAGS: Skywrath Mage, Ability Upgrade, Burst Damage] | Mystic Flare Damage: Increases ultimate burst damage potential against single or grouped targets. Stats: Damage Increase: [bonus_damage]
+---
+[TAGS: Skywrath Mage, Ability Upgrade, Crowd Control] | AoE Ancient Seal: Turns single-target debuff into area control tool, enabling multi-hero magical burst setups. Stats: Area of Effect: [value]
+---
+[TAGS: STRATEGY, Zeus, ITEM_BUILD, SITUATIONAL] | Zeus Situational: Buy Black King Bar vs heavy stuns, Linken's Sphere vs targeted spells, and Force Staff vs gap closers.
+---
+[TAGS: STRATEGY, Zeus, TEAMFIGHT] | Zeus Teamfight: Stay in the backline and spam abilities. Prioritize high-value targets with Lightning Bolt and Thundergod's Wrath. Use Heavenly Jump to reposition if threatened.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, RECIPE] | Glimmer Cape LANING_PHASE: A pure recipe item, it has no role in the laning phase. It is purchased only to complete the Glimmer Cape when all other components are acquired. Stats: Cost: 450 gold.
+---
+[TAGS: Ability, Defense] | 15s Spell Block: Provides temporary immunity to enemy spells, enhancing survivability in skirmishes. Stats: Duration: 15 seconds
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: ITEM_DATA, ABYSSAL_BLADE, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, BKB_PIERCE, DISABLE, LOCKDOWN, COUNTER_ITEM, LATE_GAME] | Abyssal Blade, Cost: 6250: Situationally built against heroes reliant on spell immunity (Black King Bar) or escape mechanisms that provide debuff immunity. The active 'Overwhelm' stun pierces these immunities, making it a key counter-item for locking down elusive or magic-immune cores who are otherwise difficult to control. Directly counters the defensive power of BKB in the late game.
+---
+[TAGS: Ability, Magic Resistance, Frontline] | Magic Resistance (25%): Significantly lowers magical damage impact with 25% resistance, ideal for frontline heroes. Stats: Magic Resistance: 25%
+---
+[TAGS: ZEUS, HARD_COUNTERS] | Zeus is hard countered by heroes with high magic resistance (e.g., Visage, Pudge), gap-close and silence (e.g., Storm Spirit, Riki, Night Stalker), and items that provide spell immunity (Black King Bar) as most of his damage is magical and does not pierce BKB. Break (e.g., from Silver Edge) disables his Static Field and Lightning Hands passives. Instant disables and high burst physical damage can kill him before he casts due to his low health pool.
+---
+[TAGS: Ability, Defense] | Permanent Spell Immunity: Grants complete protection against enemy spells, making the hero a robust frontline. Stats: Duration: Permanent
+---
+[TAGS: ITEM_DATA, HOOD_OF_DEFIANCE, STAT_PROFILE, FULL_ITEM, MAGIC_RESISTANCE, REGEN, SUSTAIN, HEALTH] | Cost: 0: Hood of Defiance provides +18% Magic Resistance and +8.5 Health Regeneration. It offers no other attribute bonuses, focusing purely on enhancing survivability against magic damage and providing lane or jungle sustain through significant passive HP regeneration. Stats: Magic Resist: +18%, HP Regen: +8.5.
+---
+[TAGS: ITEM_DATA, HOOD_OF_DEFIANCE, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC] | Cost: 0: Hood of Defiance serves as a significant defensive item during mid-game team fights, absorbing key enemy nukes and providing sustain for heroes who need to frontline against magic-heavy compositions. Its spell shield allows heroes to survive burst combos and continue fighting. Stats: Block: 350 magic damage.
+---
+[TAGS: STRATEGY, Hoodwink, ITEM_BUILD, SITUATIONAL] | Hoodwink Situational: Buy Linken's Sphere against single-target disables. Consider Eul's Scepter to purge silences or setup Bushwhack.
+---
+[TAGS: Ability, Magic Resistance, Damage Reduction] | Magic Resistance (20%): Substantially reduces magical damage taken by 20%, effective against caster-heavy teams. Stats: Magic Resistance: 20%
+---
+[TAGS: Ability, Defense] | 18s Spell Block: Grants extended protection against magical damage, ideal for prolonged engagements. Stats: Duration: 18 seconds
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: STRATEGY, Skywrath Mage, ITEM_BUILD, SITUATIONAL] | Skywrath Mage Situational: Buy BKB vs silences/stuns, Glimmer Cape vs burst, or Force Staff vs melee gap closers.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, MAGIC_AMP] | Parasma Recipe SITUATIONAL_VS_MAGIC: Building this recipe is part of a strategy to counter heroes with high magic resistance or to amplify your team's overall magical burst damage through the finished Parasma's debuff. Stats: Cost: 400 gold.
+---
+[TAGS: ZEUS, TALENT_LEVEL_DATA, TALENT, TALENT_10] | At level 10, Zeus chooses between +1 Heavenly Jump Target or +200 Health. The extra jump target improves his teamfight mobility and slow potential. The +200 Health significantly improves his survivability against early burst. Choose the Health if you are being targeted and dying, otherwise the extra target provides more utility.
+---
+[TAGS: Map Control, Vision, Awareness] | Vision: Enhances Zeus's map awareness and vision control by granting additional sight range. Stats: Vision Bonus: +200
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: ITEM_DATA, HOOD_OF_DEFIANCE, CORE_MECHANICS, FULL_ITEM, DEFENSIVE, VS_MAGIC, MAGIC_RESISTANCE, SAVE, SURVIVAL, REGEN, SUSTAIN, HEALTH] | Cost: 0: Hood of Defiance is an epic-tier core item costing 1550 gold, providing magic resistance and health regeneration. Its active ability, Barrier, creates a spell shield that absorbs up to 350 magic damage for 12 seconds, with a 60-second cooldown and 50 mana cost. This offers a powerful defensive tool against burst magic damage. Stats: CD: 60s, Mana: 50, Barrier Block: 350, Barrier Duration: 12s.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, MAGICAL_DAMAGE] | Radiance VS_MAGIC: The burn aura deals magical damage, which is less effective against heroes with high magic resistance or items that grant it. Its primary utility against magical threats is the consistent damage over time. Stats: Burn Damage: 60 magical DPS.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, FULL_ITEM, STAT_PROFILE, MAGIC_RESISTANCE] | Glimmer Cape, Cost: 2150: Provides +20% Magic Resistance. No raw attributes like Strength or Agility. The item's value is derived entirely from its defensive active ability and magic resistance aura. Stats: Magic Resistance: +20%.
+---
+[TAGS: HOODWINK, SITUATIONAL] | Scenario: When playing from behind, Hoodwink should focus on defense and control. Build utility items like Force Staff, Glimmer Cape, or Aether Lens. Use Scurry and trees to safely de-push waves with Acorn Shot. Look for pick-offs with Bushwhack into Sharpshooter on isolated targets to create space.
+---
+[TAGS: Skywrath Mage, Ability Upgrade, Slow] | Concussive Shot Slow: Enhances chase potential and lockdown after initial nuke. Stats: Slow Increase: [bonus_movement_speed_pct]%
+---
+[TAGS: ITEM_DATA, HOOD_OF_DEFIANCE, SYNERGY_BUILD, FULL_ITEM, TANK_ITEM, OFFLANE_ITEM, SUSTAIN, VS_MAGIC, UPGRADE] | Cost: 0: Hood of Defiance synergizes well with heroes who want to build into Pipe of Insight (like Centaur Warrunner) or who need early magic survivability and HP regen to sustain in lane or the jungle. Its passive regen benefits tanky heroes and offlaners who face constant harassment. Stats: Magic Resist: +18%, HP Regen: +8.5.
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, FULL_ITEM, SYNERGY_BUILD, SUPPORT_ITEM, SAVE, DEFENSIVE, UTILITY] | Glimmer Cape, Cost: 2150: High synergy for heroes who need to protect themselves while casting stationary spells, such as Crystal Maiden, Witch Doctor, or Bane. Also a natural purchase for position 4/5 supports looking for a reliable save tool to counter enemy magic cores like Zeus or Lina. The build-up is relatively smooth with Shadow Amulet and Cloak.
+---
+[TAGS: BANE, CORE_BUILD] | Bane's core build consists of: 1) Tranquil Boots for mobility and sustain as he doesn't need mana boots. 2) Aether Lens to increase the cast range of all his crucial spells (Brain Sap, Nightmare, Fiend's Grip). 3) Force Staff or Glimmer Cape, depending on the enemy lineup, for positioning, saving allies, or saving himself while channeling Fiend's Grip.
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, FULL_ITEM, SITUATIONAL_VS_MAGIC, DEFENSIVE, SAVE, VS_MAGIC, MAGIC_RESISTANCE] | Glimmer Cape, Cost: 2150: Situational counter to enemy lineups that rely on high magic damage or single-target nukes. The magic barrier and resistance directly reduce the effectiveness of magical burst combos. The invisibility can also delay or prevent follow-up physical attacks. Stats: Magic Resistance: +20%, Magic Barrier: 375.
+---
+[TAGS: Ability, Defense] | 20s Spell Block: Offers maximum spell immunity, crucial for enduring heavy magical assaults. Stats: Duration: 20 seconds
+---
+[TAGS: Skywrath Mage, HARD_COUNTERS, COUNTERS] | Skywrath Mage is hard-countered by heroes and items that counter fragile, spell-reliant heroes. Anti-Mage and Nyx Assassin can reflect or absorb his primary damage (Arcane Bolt). Heroes with high magic resistance (Huskar, Visage) or status resistance (Spirit Breaker) reduce his effectiveness. Instant silences, hexes, or blinks (Storm Spirit, Puck) can jump on him before he can cast. Items like BKB (which blocks all his spells except the non-damaging components), Pipe of Insight, and Glimmer Cape massively reduce his damage output. His low health pool makes him vulnerable to any physical burst.
+---
+[TAGS: abilities, defense, magic resistance] | Magic Resistance Bonuses: Provides increased survivability against magic damage. Stats: Resistance: 5% to 80%
+---
+[TAGS: Ability, Magic Resistance, Durability] | Magic Resistance (10%): Reduces magical damage taken by 10%, improving durability against spell-heavy lineups. Stats: Magic Resistance: 10%
+---
+[TAGS: ITEM_DATA, FORTITUDE_RING, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SAVE, HEALTH, REGEN, SURVIVAL] | Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.
+
+=== GAME STATE ===
+Match Time: 22:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: pudge (Lvl 14) | HP: 150/2200 | Mana: 400/900 | Alive: true
+Stats: K/D/A 8/5/12 | Gold: 2100 | LastHits: 80
+Inventory: [item_magic_wand x15, item_hood_of_defiance, item_tpscroll x1, item_blink (CD), item_aether_lens, item_tranquil_boots]
+Abilities: [pudge_meat_hook(Lvl4)[Rdy] | pudge_rot(Lvl4)[Rdy] | pudge_flesh_heap(Lvl3)[NoMana/Silenced] | pudge_dismember(Lvl2)[CD:45s]]
+User Situation Notes: Вражеский пик: Zeus (мид), Skywrath Mage (саппорт), Necrophos (оффлейн). У противников очень сильный магический прокаст. Моя роль — мидер-танкист.
+
+=== USER QUESTION ===
+"Меня быстро убивают магией. Какой предмет купить, чтобы выжить?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Меня быстро убивают магией. Какой предмет купить, чтобы выжить?".**
+========================================
+
+[AI RESPONSE] (2.66s)
+Используй Hood of Defiance, чтобы снизить входящий магический урон. Он обеспечит тебе большую устойчивость за счет магической защиты и восстановит здоровье, что поможет пережить магические комбо врагов. Альтернативно, если столкнешься с серьезными контролирующими эффектами, Black King Bar будет отличным выбором в дальнейшем.

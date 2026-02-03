@@ -1,0 +1,48 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "1234567890",
+    "game_time": 300,
+    "clock_time": 300,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": true
+  },
+  "player": {
+    "team_name": "Radiant",
+    "name": "ProPlayer777",
+    "gold": 650,
+    "kills": 1,
+    "deaths": 0,
+    "assists": 0,
+    "last_hits": 24,
+    "gpm": 320,
+    "xpm": 400
+  },
+  "hero": {
+    "name": "npc_dota_hero_juggernaut",
+    "level": 4,
+    "health": 600,
+    "max_health": 800,
+    "mana": 120,
+    "max_mana": 350,
+    "alive": true,
+    "xpos": -6000,
+    "ypos": -5800
+  },
+  "items": {
+    "slot0": { "name": "item_quelling_blade", "can_cast": false },
+    "slot1": { "name": "item_tango", "charges": 2, "can_cast": true },
+    "slot2": { "name": "item_branches", "can_cast": false },
+    "slot3": { "name": "item_branches", "can_cast": false },
+    "slot4": { "name": "item_empty" },
+    "slot5": { "name": "item_empty" }
+  },
+  "abilities": {
+    "ability0": { "name": "juggernaut_blade_fury", "level": 2, "can_cast": true, "cooldown": 0 },
+    "ability1": { "name": "juggernaut_healing_ward", "level": 0, "can_cast": false },
+    "ability2": { "name": "juggernaut_blade_dance", "level": 1, "can_cast": false },
+    "ability3": { "name": "juggernaut_omni_slash", "level": 0, "can_cast": false, "ultimate": true }
+  },
+  "user_context": "Стою на сложной линии против Bristleback и Lion. У врагов в миде Sniper. Моя цель — агрессия на линии, саппорт играет пассивно.",
+  "user_question": "Что мне купить следующим, чтобы выжить на линии и начать убивать?"
+}

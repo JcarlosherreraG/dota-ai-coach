@@ -1,0 +1,58 @@
+[
+  {
+    "display_text": "Warhammer, Cost: 0: Provides +10 Strength and +3 Armor. Its active ability, Unit Target, deals 75 damage and reduces the target's movement speed by 50% for 6 seconds on a 20 second cooldown. This item offers a burst of hybrid durability and control for melee heroes who can quickly close distance.",
+    "search_text": "warhammer, +strength item, +armor item, slow active, damage active, unit target slow, movement slow, attack speed slow, hybrid item, strength and armor, durability and control, early game damage, initiation slow, chase tool, ganking item, Warhammer",
+    "tags": [
+      "ITEM_DATA",
+      "WARHAMMER",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "STRENGTH",
+      "ARMOR",
+      "DAMAGE",
+      "SLOW",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Warhammer, Cost: 0: Stat breakdown: +10 Strength (+200 HP) and +3 Armor. These stats provide significant survivability and base damage for Strength heroes. The item offers no Agility or Intelligence bonuses. Stats: Bonus Strength: 10, Armor: 3, Active Damage: 75.",
+    "search_text": "warhammer stats, +10 strength, +3 armor, strength hero item, durability stats, HP bonus, armor bonus, stat breakdown, Warhammer",
+    "tags": [
+      "ITEM_DATA",
+      "WARHAMMER",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "STRENGTH",
+      "ARMOR",
+      "HEALTH"
+    ]
+  },
+  {
+    "display_text": "Warhammer, Cost: 0: Team fight role is a durable frontline disruptor and chaser. The active slow allows you to catch or kite priority targets. Its Strength and armor bonuses make you tankier in the frontline, enabling you to survive longer to apply the slow multiple times.",
+    "search_text": "warhammer team fight, frontliner, chaser item, tanky initiator, crowd control item, chase tool, slow utility, team fight utility, durable control, Warhammer",
+    "tags": [
+      "ITEM_DATA",
+      "WARHAMMER",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DURABLE",
+      "CATCH",
+      "CROWD_CONTROL",
+      "DISRUPTOR"
+    ]
+  },
+  {
+    "display_text": "Warhammer, Cost: 0: Synergizes well with melee Strength heroes who benefit from its raw stats and need the slow to stick to targets. Heroes who build into Sange or Heaven's Halberd gain immediate value. Good for heroes who lack built-in control.",
+    "search_text": "warhammer synergy, melee strength hero, Sange build, Heaven's Halberd component, hero synergy, builds into Sange, component item, strength core item, Warhammer",
+    "tags": [
+      "ITEM_DATA",
+      "WARHAMMER",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "STRENGTH_HERO",
+      "MELEE",
+      "COMPONENT",
+      "UTILITY"
+    ]
+  }
+]

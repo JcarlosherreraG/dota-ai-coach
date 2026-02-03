@@ -1,0 +1,46 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "333333333",
+    "game_time": 2400,
+    "clock_time": 2400,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": false
+  },
+  "player": {
+    "team_name": "Radiant",
+    "name": "CarryPotter",
+    "gold": 4800,
+    "kills": 12,
+    "deaths": 3,
+    "assists": 5,
+    "last_hits": 350,
+    "gpm": 700,
+    "xpm": 750
+  },
+  "hero": {
+    "name": "npc_dota_hero_phantom_assassin",
+    "level": 22,
+    "health": 2200,
+    "max_health": 2200,
+    "mana": 800,
+    "max_mana": 800,
+    "alive": true
+  },
+  "items": {
+    "slot0": { "name": "item_bfury" },
+    "slot1": { "name": "item_desolator" },
+    "slot2": { "name": "item_black_king_bar" },
+    "slot3": { "name": "item_phase_boots" },
+    "slot4": { "name": "item_satanic" },
+    "slot5": { "name": "item_empty" }
+  },
+  "abilities": {
+    "ability0": { "name": "phantom_assassin_stifling_dagger", "level": 4 },
+    "ability1": { "name": "phantom_assassin_phantom_strike", "level": 4 },
+    "ability2": { "name": "phantom_assassin_blur", "level": 4 },
+    "ability3": { "name": "phantom_assassin_coup_de_grace", "level": 3 }
+  },
+  "user_context": "Лейт гейм. У вражеской Windranger есть Butterfly и Windrun. Я прыгаю, но вижу одни 'Miss, Miss, Miss'. Урон есть, но попасть не могу.",
+  "user_question": "Я промахиваюсь по ВРке. Какой предмет мне купить, чтобы точно попадать?"
+}

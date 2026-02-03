@@ -1,0 +1,235 @@
+FILE: anti-heal.json
+QUESTION: Они хилятся как бешеные. Какой предмет купить, чтобы они перестали регениться?
+GENERATION TIME: 2.06s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, SEEDS_OF_SERENITY, CORE_DESCRIPTION, NEUTRAL, TIER_5, HEALING, AURA, SUSTAIN, TEAM_BUFF, SUPPORT_ITEM, AOE] | Seeds of Serenity, Tier 5: Deploys a verdant area for 8 seconds that provides health regeneration to all allies inside. The base healing is 6 HP/sec plus 25% of the caster's health regeneration at the time of casting. Acts as a powerful, team-oriented healing zone. Stats: Cooldown: 35s, Duration: 8s, Radius: 400.
+---
+[TAGS: MEDUSA, CORE_BUILD, MANTA_STYLE, SKADI, AGHANIMS_SCEPTER] | Manta Style is essential. Illusions benefit from Split Shot and deal significant damage with Mana Shield's damage-per-mana scaling (2.0 + 0.1 per level). Eye of Skadi provides massive stats for HP, mana, and attack damage, synergizing perfectly with her tank-and-spank role. Aghanim's Scepter is highly situational but can be core against heavy single-target spell lineups to trigger Cold Blooded.
+---
+[TAGS: ITEM_DATA, SHIVAS_GUARD, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE_ITEM, TANK_ITEM, AURA, VS_PHYSICAL] | Shiva's Guard, Cost: 5175: Strong synergy for tanky intelligence heroes (e.g., Necrophos, Death Prophet) who want to amplify their magical damage output while becoming more durable against physical attacks. The aura debuff synergizes with their role as magical damage dealers who benefit from staying in the middle of fights.
+---
+[TAGS: ITEM_DATA, SPIRIT_VESSEL, STAT_PROFILE, FULL_ITEM, ALL_STATS, ARMOR, MANA_REGEN, DEFENSIVE] | Spirit Vessel, Cost: 2725: Provides +10 to all attributes, +2 armor, and +1.75 mana regeneration. Balanced stats offer defensive and mana sustainability. No bonus health directly from item. Stats: All Stats: +10, Armor: +2, Mana Regen: +1.75.
+---
+[TAGS: Ability, Lifesteal, Sustain] | Lifesteal (35%): Enhances sustain in prolonged fights by converting 35% of attack damage into health. Stats: Lifesteal: 35%
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MOBILE, SLOW] | Shiva's Guard SITUATIONAL_VS_MOBILE: The Arctic Blast provides a strong 40% movement speed slow for 4 seconds in a large area, helping to catch, kite, or pin down elusive heroes. The attack speed slow from the aura further reduces their damage output. Stats: Slow: 40%, Slow Duration: 4s, Aura Attack Speed Slow: 45.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Shiva's Guard CORE_BUILD: Crafted from Veil of Discord and Platemail. Often built by intelligence cores or offlaners for the combination of survivability (armor, stats), mana pool, and teamfight utility. Synergizes with heroes who have other large area spells to maximize the 15% spell damage amp from Arctic Blast. Stats: Components: Veil of Discord, Platemail.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_HEALING, COUNTER_PICK, DEBUFF] | Spirit Vessel SITUATIONAL_VS_HEALING: Core counter-pick item against heroes and items reliant on HP regeneration or healing spells (e.g., Heart of Tarrasque, Holy Locket, Chen). The 70% reduction to both health restoration and incoming heals drastically reduces their effective durability. The percentage HP drain punishes high HP pools.
+---
+[TAGS: Ability, Health Regen, Sustain] | Special Bonus: +40 Health Regen. Provides massive sustain in prolonged fights, allowing heroes to stay on the battlefield longer without retreating.
+---
+[TAGS: Sustain, Survivability] | Special Bonus Lifesteal 100%: Provides extreme survivability through damage conversion. Stats: Lifesteal: 100%
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, ATTRIBUTES] | Eye of Skadi CORE_BUILD: Builds from two Ultimate Orbs and an Orb of Frost, providing a balance of attributes and slow utility from the components. Synergizes with attack speed items to frequently apply the slow, and with heroes who benefit from kiting or attribute stacking for tankiness and damage. Stats: Components: Ultimate Orb, Ultimate Orb, Orb of Frost, +35 All Attributes.
+---
+[TAGS: ITEM_DATA, EYE_OF_SKADI, SITUATIONAL_VS_HEALERS, FULL_ITEM, HEAL_REDUCTION, ANTI_HEAL, VS_HEALERS] | Eye of Skadi, Cost: 5900: A core counter-pick against heroes who rely on high health restoration like Huskar, Alchemist, or items like Heart of Tarrasque and Satanic. The 40% heal and regeneration reduction is applied on every attack, making it effective against sustained fighters and long-duration healing sources.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, UPGRADE] | Spirit Vessel Recipe CORE_BUILD: Builds into Spirit Vessel alongside Urn of Shadows and Crown. Recipe cost is a pure investment for the upgraded item's power spike. Stats: Cost: 900 gold.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, DEBUFF, SUSTAIN, UTILITY] | Spirit Vessel CORE_MECHANICS: Active ability debuffs enemies or heals allies. On enemies, deals damage over time based on a percentage of current health and reduces their healing effectiveness. On allies, provides health regeneration. Charges are gained from nearby hero deaths. Stats: Cost: 2725 gold, +10 All Attributes, +2 Armor, +1.75 Mana Regeneration. Active: Soul Release (8s duration, 10s cooldown). Enemy Debuff: 4% current HP drain per second, 25 damage per second, reduces Health Restoration and incoming heals by 70%. Ally Buff: 40 health regen per second. Soul Radius: 1500, Initial Charges: 2, Additional Charge per hero death: 1.
+---
+[TAGS: ITEM_DATA, ORB_OF_FROST, FULL_ITEM, TEAMFIGHT_ROLE, SLOW, HEAL_REDUCTION, VS_HEALERS, ANTI_HEAL, UTILITY] | Orb of Frost, Cost: 300: Enhances chase and kiting potential in fights by applying a consistent slow. Reduces the effectiveness of enemy regeneration and lifesteal, weakening heroes reliant on self-healing. Particularly effective on ranged heroes for its stronger slow value.
+---
+[TAGS: STRATEGY, Anti-Mage, FACETS] | Anti-Mage Facet Strategy: Magebane's Mirror (Purple) is preferred for countering spell-heavy lineups, burning mana on countered spells. Mana Thirst (Blue) is better against low-mana enemies for bonus damage.
+---
+[TAGS: ITEM_DATA, SHIVAS_GUARD, TEAMFIGHT_ROLE, FULL_ITEM, TEAMFIGHT, AOE_DAMAGE, UTILITY, DEBUFF, VS_PHYSICAL] | Shiva's Guard, Cost: 5175: Powerful team fight utility item. The Arctic Blast provides instant AoE damage and control to initiate or counter-initiate, while the persistent aura significantly weakens enemy right-clickers and dampens their sustain. Ideal for frontline heroes who can stay in the 1200 radius aura.
+---
+[TAGS: ITEM_DATA, SHIVAS_GUARD, CORE_MECHANICS, FULL_ITEM, AURA, SLOW, DEBUFF, MAGICAL_DAMAGE, AOE_DAMAGE, VS_HEALERS, HEAL_REDUCTION, ANTI_HEAL, MAGIC_AMPLIFICATION] | Shiva's Guard, Cost: 5175: Emits an Arctic Blast active ability that deals 200 magical damage and applies a 4-second 40% slow to enemies in a 900 radius. Enemies hit also take 15% increased spell damage for 16 seconds. Its passive Freezing Aura reduces the attack speed of all nearby enemies by 45 and cuts their Health Restoration and Incoming Heal Amplification by 25%. Stats: CD: 27s, Mana: 75, Aura Radius: 1200.
+---
+[TAGS: ITEM_DATA, HEALING_SALVE, CORE_MECHANICS, CONSUMABLE, REGEN, SUSTAIN, HEALTH, DISPELLABLE] | Healing Salve, Cost: 100: Consumable item that restores 390 total health over 13 seconds to a single hero. It is cheaper than a full health fountain trip but breaks if the target takes damage from an enemy hero or Roshan, making it risky to use in combat. It heals allies for half the rate (195 total). Stats: CD: No cooldown, Duration: 13s, Charges: 1, Breakable by hero/rosh damage.
+---
+[TAGS: ITEM_DATA, SPIRIT_VESSEL, SYNERGY_BUILD, FULL_ITEM, SUPPORT_ITEM, UTILITY] | Spirit Vessel, Cost: 2725: Ideal for support heroes who can stay near fights to gain charges and consistently apply the debuff. Heroes who benefit from the all-around stats and can leverage both the offensive and defensive aspects of the active excel with it. It synergizes well with lineups that need to burst down durable enemies or sustain through prolonged engagements.
+---
+[TAGS: Mechanic, Defense, Structure] | Backdoor Protection: Reduces structure damage and rapidly regenerates damage when no enemy creeps are nearby, defending against stealthy backdoor attempts. Stats: Radius: 900, Activation Time: 15, Regen Rate: 90
+---
+[TAGS: ANTI-MAGE, ABILITY_DATA] | Counterspell is a passive/active ability. Passively grants 16%/24%/32%/40% Magic Resistance. When activated, it creates a shell for 1.2 seconds that reflects targeted spells back at the caster. Break disables the passive magic resistance. The reflected spell amp is 0. Does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_PHYSICAL, ANTI_HEAL, ARMOR] | Shiva's Guard SITUATIONAL_VS_HEALING: The passive Freezing Aura reduces all Health Restoration and Incoming Heal Amplification by 25% in a 1200 radius, directly countering healing spells, lifesteal, regeneration items (like Heart of Tarrasque), and healing-focused heroes. Stats: Healing Reduction: 25%, Radius: 1200.
+---
+[TAGS: Ability, Heal, Damage] | Purification: Heals a friendly unit and damages nearby enemies. Stats: Heal: 50/55/60, Radius: 225, Cooldown: 15
+---
+[TAGS: Ability, Healing, Team Fight] | Healing Ward Heal: Enhances the healing effectiveness of Juggernaut's Healing Ward, providing greater sustain for allies in team fights. Stats: Heal Increase: 1%
+---
+[TAGS: STRATEGY, Anti-Mage, WEAKNESS] | Anti-Mage Weakness: Vulnerable to Silence (disables Blink) and Break (nullifies Mana Break).
+---
+[TAGS: ANTI-MAGE, ABILITY_DATA] | Mana Break is a passive ability. Each attack burns 25/30/35/40 mana from the target and deals 50% of the mana burnt as bonus damage. Illusions apply Mana Break at 50% effectiveness. This ability gives Anti-Mage strong harass and kill threat against intelligence heroes and is crucial for his farming speed with Battle Fury.
+---
+[TAGS: Ability, Healing, Sustain, Support] | Heal: Restores health to an ally, providing sustain in battles. Stats: Health Restored: 100, Cast Range: 350/375/400/450, Cooldown: 10/9/8/6, Mana Cost: 60
+---
+[TAGS: ITEM_DATA, SPIRIT_VESSEL, CORE_MECHANICS, FULL_ITEM, HEAL_REDUCTION, ANTI_HEAL, VS_HEALERS, REGEN, SUSTAIN, DEBUFF, SUPPORT_ITEM, UTILITY] | Spirit Vessel, Cost: 2725: Active ability 'Soul Release' targets an enemy hero to drain 4% of their current health per second and reduce their healing and regeneration by 70% for 8 seconds, dealing 25 damage per second. Targets an allied hero to provide 40 health regeneration per second for 8 seconds. Gains charges when an enemy hero dies nearby or the user dies. Critical for amplifying damage against high-health targets and countering healing. Stats: CD: 10s, Duration: 8s, Charges Gain Radius: 1500.
+---
+[TAGS: STRATEGY, Anti-Mage, ITEM_BUILD, SITUATIONAL] | Anti-Mage Situational: Buy Black King Bar vs lockdown, or Linken's Sphere vs targeted disables.
+---
+[TAGS: ITEM_DATA, TALISMAN_OF_EVASION, SITUATIONAL_VS_PHYSICAL, FULL_ITEM, VS_PHYSICAL, COUNTER_ITEM] | Talisman of Evasion, Cost: 1300: Situational counter against heroes who rely heavily on basic attacks for damage, such as Sniper, Drow Ranger, or Troll Warlord. Ineffective against magic damage, true strike items (Monkey King Bar), or physical damage spells that cannot miss.
+---
+[TAGS: ANTI-MAGE, FACET_STRATEGY] | Anti-Mage has two Facets. Magebane's Mirror enhances Counterspell: when a targeted spell is blocked, it burns a percentage of the mana cost from the enemy caster and deals damage based on that burned mana. This is aggressive, punishing spellcasters who target you. Mana Thirst adds a scaling damage bonus against enemies with low mana, making you more lethal in prolonged fights and against heroes who run out of mana.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, SLOW, HEAL_REDUCTION, ATTRIBUTES] | Eye of Skadi CORE_MECHANICS: Provides a slowing effect on attacks that reduces movement speed by -25% for melee and -50% for ranged enemies, and attack speed by -20% for both. Additionally, it reduces Health Restoration by 40% and Incoming Heals by 40% for 3 seconds, making it effective against sustain. The item grants substantial all-around attributes for survivability and damage output. Stats: Cost: 5900 gold, +35 All Attributes, Movement Slow: -25% melee / -50% ranged, Attack Speed Slow: -20%, Duration: 3.0s, Health Restoration Reduction: 40%, Incoming Heals Reduction: 40%.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, LATE_GAME, EXPENSIVE] | Eye of Skadi LANING_PHASE: High cost item not suitable for early laning due to its 5900 gold price and expensive components; typically built in mid to late game after core items like Treads or farming accelerators. The components include two Ultimate Orbs and an Orb of Frost, indicating a timing around 20+ minutes for farming cores who need attribute bulk and control. Stats: Cost: 5900 gold, Components: Ultimate Orb, Ultimate Orb, Orb of Frost.
+---
+[TAGS: ANTI-MAGE, ABILITY_DATA] | Mana Void is a point-target AoE ultimate. Deals 0.8/0.95/1.1 damage per point of mana missing from the primary target to all enemies in a 500 radius. The main target is mini-stunned for 0.3 seconds. Cooldown is 70 seconds. Damage calculation is based on the primary target's missing mana. Does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, ORB_OF_FROST, FULL_ITEM, SITUATIONAL_VS_HEALERS, HEAL_REDUCTION, VS_HEALERS, ANTI_HEAL, SLOW] | Orb of Frost, Cost: 300: Effective against heroes with high innate health regeneration or healing abilities (Huskar, Alchemist, Morphling). The movement slow makes it easier to land skillshots or escape from melee pursuers. Counters laning phase sustain items like Tangos and healing salves.
+---
+[TAGS: ITEM_DATA, HEALING_SALVE, SITUATIONAL_USAGE, CONSUMABLE, SUSTAIN, HEALTH, SUPPORT_ITEM] | Healing Salve, Cost: 100: Provides burst regeneration for pushing or before fights, but the healing-over-time nature requires pre-fight planning. Can be used on allies to help them sustain through a tough lane, though at reduced effectiveness. The break-on-hero-damage mechanic makes it a poor choice during active skirmishes.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPEL, VS_BKB] | Spirit Vessel HARD_COUNTERS: The debuff is dispellable by basic dispels (e.g., Eul's Scepter, Manta Style). The allied heal buff is removed if the ally is attacked by an enemy hero or Roshan. The debuff does not pierce spell immunity (BKB). The item provides limited personal survivability stats. Stats: Debuff dispellable by Basic Dispel.
+---
+[TAGS: Ability, Health Regen, Sustainability] | Special Bonus HP Regen 10: Enhances sustainability by increasing health regeneration. Stats: Health Regen: 10
+---
+[TAGS: ANTI-MAGE, ABILITY_DATA] | Persecutor is a passive ability. Attacks slow enemies based on missing mana, from 12.5%/15%/17.5%/20% at 50% mana down to 25%/30%/35%/40% at 0% mana. The slow lasts 0.75 seconds. No effect if the enemy is above 50% mana. Illusions apply the full effect.
+---
+[TAGS: ITEM_DATA, SHIVAS_GUARD_RECIPE, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Shiva's Guard Recipe. Cost: 2050: Component required to assemble Shiva's Guard. Does not provide stats or abilities.
+---
+[TAGS: ANTI-MAGE, SITUATIONAL] | When playing from behind, focus on split-pushing with Blink and Manta illusions. Avoid fights. Use Blink to escape ganks. Farm the enemy jungle if your own is unsafe. Your goal is to reach critical items (Manta, Basher) to become relevant.
+---
+[TAGS: Ability, Regeneration, Survivability] | Health Regen Bonuses: Improve survivability and sustainability in prolonged fights. Stats: Regen: 3/4/12/14/15/16/20/25/30/35
+---
+[TAGS: ITEM_DATA, EYE_OF_SKADI, STAT_PROFILE, FULL_ITEM, HEALTH, MANA, DAMAGE, ATTACK_SPEED] | Eye of Skadi, Cost: 5900: Offers +35 to all Attributes (Strength, Agility, Intelligence). This provides significant bulk, mana, attack speed, and damage, making it a well-rounded survivability and scaling item suitable for many heroes.
+---
+[TAGS: ITEM_DATA, SHIVAS_GUARD, STAT_PROFILE, FULL_ITEM, ARMOR, VS_PHYSICAL, HEALTH, REGEN, SUSTAIN, UTILITY] | Shiva's Guard, Cost: 5175: Provides balanced attributes (+5 all stats), substantial +15 armor for physical defense, and +5 health regeneration. The flat stat bonuses offer well-rounded survivability and utility for Intelligence heroes. Stats: Armor: +15, HP Regen: +5, All Stats: +5.
+---
+[TAGS: Ability, Unit Target, Repositioning] | Assimilate: Allows Lifestealer to consume a friendly hero, hiding within them. Tactical for repositioning and saving allies. Stats: Cooldown: 50s
+---
+[TAGS: ITEM_DATA, EYE_OF_SKADI, TEAMFIGHT_ROLE, FULL_ITEM, UTILITY, DEBUFF, VS_PHYSICAL] | Eye of Skadi, Cost: 5900: Serves as a premier kiting and chase tool in team fights. The slow reduces enemy mobility and attack speed, crippling their ability to reposition or output physical damage. The healing reduction effect significantly diminishes the effective health pool of heroes reliant on lifesteal, regeneration, or healing supports.
+---
+[TAGS: ITEM_DATA, ORB_OF_FROST, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UPGRADE, SUPPORT_ITEM, UTILITY] | Orb of Frost, Cost: 300: Strong synergy for heroes who can apply it frequently from range for the full slow effect, such as supports or agility carries in the early-mid game. A common component for building into Eye of Skadi, which provides more stats and a stronger version of this slow.
+---
+[TAGS: ANTI-MAGE, SITUATIONAL] | Against heavy magical burst lineups, prioritize leveling Counterspell early. The Magebane's Mirror Facet can turn the tables by punishing enemies for casting on you. Consider an early Hood of Defiance before or after Battle Fury.
+---
+[TAGS: ANTI-MAGE, SITUATIONAL] | Against heroes with high mana pools (e.g., Medusa, Storm Spirit), Mana Break and Mana Void are extremely effective. Focus on burning their mana first. Magebane's Mirror Facet is powerful here, as blocking their spells also burns their large mana pool.
+---
+[TAGS: STRATEGY, Anti-Mage, ITEM_BUILD, CORE] | Anti-Mage Core Build: Battle Fury (farm acceleration) and Manta Style (dispels/disruption).
+---
+[TAGS: ITEM_DATA, ORB_OF_FROST, FULL_ITEM, CORE_MECHANICS, DEBUFF, SLOW, HEAL_REDUCTION, VS_HEALERS, ANTI_HEAL, UTILITY] | Orb of Frost, Cost: 300: A purchasable item that provides a passive chilling effect. Attacks slow the target's movement speed by 13% (or 6% for melee attackers) and reduce Health Restoration by 13% for 3 seconds. A cost-efficient tool for kiting and reducing enemy sustain. Stats: Slow (Ranged/Melee): 13%/6%, Heal Reduction: 13%, Duration: 3s.
+---
+[TAGS: ITEM_DATA, EYE_OF_SKADI, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, LATE_GAME, UPGRADE] | Eye of Skadi, Cost: 5900: An excellent late-game choice for universal heroes and agility carries who benefit from all stats and want to survive in prolonged fights. It synergizes well with high attack speed to constantly reapply the slow and healing debuff, and its bulk makes the owner harder to burst down.
+---
+[TAGS: Ability, Healing] | Living Armor Heal Per Second: Provides additional regeneration alongside damage block, increasing sustain in prolonged engagements.
+---
+[TAGS: Ability, Healing, Team Survivability] | Healing Ward: Sustained healing for team survivability. Stats: Max Health per Second: 2%/3%/4%/5%, Radius: 400, Duration: 25
+---
+[TAGS: Ability, Healing Reduction] | Heartstopper Regen Reduction Increase: Strengthens Necrophos' ability to reduce enemy regeneration, countering sustain-heavy lineups. Stats: Regen Reduction: [value not specified]%
+---
+[TAGS: ITEM_DATA, SHIVAS_GUARD, SITUATIONAL_VS_HEALERS, FULL_ITEM, VS_HEALERS, HEAL_REDUCTION, ANTI_HEAL, VS_PHYSICAL] | Shiva's Guard, Cost: 5175: Highly effective versus high-healing or regeneration-reliant lineups (e.g., Huskar, Alchemist, Necrophos) due to its 25% heal reduction aura. The active slow and attack speed reduction also counters physical damage carries who depend on rapid attacks. Build against healing and physical damage cores.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, UPGRADE] | Spirit Vessel CORE_BUILD: Upgrades from Urn of Shadows, adding Diadem for stats. Synergizes with heroes who can secure early kills to stack charges (e.g., Spirit Breaker, Night Stalker). The charges are shared, so only one per team should carry it. Stats: Components: Urn of Shadows, Diadem.
+---
+[TAGS: Ability, Health Regen, Early Game] | Special Bonus: +5 Health Regen. Offers minor sustain, useful for early-game survivability or heroes with innate regeneration synergy.
+---
+[TAGS: Io, Passive, Regeneration] | Wellspring: Allows Io to regenerate faster from consumables, improving early game sustain. Stats: Consume Speed: 2x.
+---
+[TAGS: Ability, Buff, Healing] | Spirit Form: Grants mobility and cast range bonuses, enables Illuminate healing. Stats: Duration: 40/45/50, Movement Speed Bonus: 10%/15%/20%, Cast Range Bonus: 100/200/300, Illuminate Heal: 70%
+---
+[TAGS: ITEM_DATA, EYE_OF_SKADI, CORE_MECHANICS, FULL_ITEM, SLOW, HEAL_REDUCTION, ANTI_HEAL, DEBUFF, VS_HEALERS] | Eye of Skadi, Cost: 5900: Provides powerful utility through a passive slow effect on attack. Attacking an enemy hero slows their movement by -25% (melee) or -50% (ranged) and reduces their attack speed by -20%. Crucially, this also reduces their Health Restoration and Incoming Heals by 40%, making it a strong counter to sustain-heavy heroes and items. Stats: CD: N/A, Mana: N/A, Duration: 3s.
+---
+[TAGS: ITEM_DATA, SHIVAS_GUARD, FARMING_UTILITY, FULL_ITEM, FARMING, WAVECLEAR, AOE_DAMAGE, MAGICAL_DAMAGE] | Shiva's Guard, Cost: 5175: Can accelerate farming for heroes with innate wave clear by adding a reliable AoE nuke (Arctic Blast) on a 27-second cooldown. The intelligence and mana regeneration from components also support sustained spellcasting. Use the active to clear creep waves or stacked jungle camps efficiently.
+---
+[TAGS: Ability, Healing, Cooldown] | Healing Ward Cooldown: Reduces the cooldown of Juggernaut's Healing Ward, allowing for more frequent sustain in prolonged engagements. Stats: Cooldown Reduction: 12s
+---
+[TAGS: ITEM_DATA, LANING_PHASE, MIDGAME] | Spirit Vessel Recipe LANING_PHASE: Not a laning item. Purchased after core components (Urn of Shadows, Crown) to upgrade into Spirit Vessel, typically after securing early kills/assists. Stats: Cost: 900 gold.
+---
+[TAGS: Ability, Passive, Defensive] | Unyielding Shield: Provides a high-damage absorb shield with regeneration. Stats: Damage Absorb: 2000, Absorb Bonus Per Interval: 20, Regen Per Second: 40, Regen Bonus Per Interval: 3.5
+---
+[TAGS: Ability, Aura, Healing, Support] | Heal Amplification Aura: Increases healing effectiveness for nearby allies, enhancing team survivability. Stats: Heal Amplification: 15%, Radius: 1200
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, SYNERGIES] | Spirit Vessel Recipe TEAMFIGHT_ROLE: Enables upgrade to Spirit Vessel, providing crucial anti-heal for teamfights. Purchase timing critical to have active before major engagements. Stats: Cost: 900 gold.
+
+=== GAME STATE ===
+Match Time: 00:00 | State: 
+Hero: ember_spirit (Lvl 18) | HP: 1600/1600 | Mana: 900/900 | Alive: true
+Stats: K/D/A 0/0/0 | Gold: 0 | LastHits: 0
+Inventory: [item_phase_boots (CD), item_maelstrom (CD), item_black_king_bar (CD)]
+Abilities: []
+User Situation Notes: Играю против Huskar и Necrophos. Мы вносим кучу урона, но Хускар постоянно отхиливается сатаником и пассивкой, а Некр хилит команду. Драки бесконечные.
+
+=== USER QUESTION ===
+"Они хилятся как бешеные. Какой предмет купить, чтобы они перестали регениться?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Они хилятся как бешеные. Какой предмет купить, чтобы они перестали регениться?".**
+========================================
+
+[AI RESPONSE] (2.65s)
+Купи Eye of Skadi. Этот предмет снижает реген и исцеление врагов на 40% при атаке, что поможет эффективно бороться с Хускаром и его Сатаником, а также с Некрофосом, который лечит команду.

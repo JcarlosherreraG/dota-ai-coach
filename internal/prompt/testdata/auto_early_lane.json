@@ -1,0 +1,50 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "100000001",
+    "game_time": 180,
+    "clock_time": 180,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": true
+  },
+  "player": {
+    "team_name": "Radiant",
+    "name": "CarryPlayer",
+    "gold": 450,
+    "kills": 0,
+    "deaths": 1,
+    "assists": 0,
+    "last_hits": 12,
+    "gpm": 280,
+    "xpm": 350
+  },
+  "hero": {
+    "name": "npc_dota_hero_anti_mage",
+    "level": 3,
+    "health": 400,
+    "max_health": 650,
+    "mana": 200,
+    "max_mana": 300,
+    "xpos": -5500,
+    "ypos": -5200,
+    "alive": true,
+    "stunned": false,
+    "silenced": false
+  },
+  "items": {
+    "slot0": { "name": "item_quelling_blade", "can_cast": false },
+    "slot1": { "name": "item_tango", "charges": 1, "can_cast": true },
+    "slot2": { "name": "item_ring_of_health", "can_cast": false },
+    "slot3": { "name": "item_slippers", "can_cast": false },
+    "slot4": { "name": "item_empty" },
+    "slot5": { "name": "item_empty" }
+  },
+  "abilities": {
+    "ability0": { "name": "antimage_mana_break", "level": 1, "can_cast": false },
+    "ability1": { "name": "antimage_blink", "level": 1, "can_cast": true, "cooldown": 0 },
+    "ability2": { "name": "antimage_counterspell", "level": 1, "can_cast": true },
+    "ability3": { "name": "antimage_mana_void", "level": 0, "can_cast": false, "ultimate": true }
+  },
+  "user_context": "Стою на сейфлейне против Axe и Skywrath Mage. Axe постоянно подкатывается через деревья, Skywrath сливает ману молниями. Мой саппорт отошёл ставить варды.",
+  "user_question": "What is the most important tactical advice for next 30 seconds?"
+}

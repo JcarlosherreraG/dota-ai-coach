@@ -1,0 +1,72 @@
+[
+  {
+    "display_text": "Divine Rapier, Cost: 5600: Provides immense offensive power with a high-risk, high-reward dynamic. Toggle Transmute to gain either +250 attack damage for physical damage dealers or +25% spell amplification for spellcasters. The weapon is dropped on death and becomes a highly contested neutral item that cannot be destroyed, usable only by the enemy team if stolen until the carrier is killed. Stats: Attack Damage Bonus (default): +100, Attack Damage (Toggle): +250, Spell Amp (Toggle): +25%.",
+    "search_text": "divine rapier, high damage item, late game damage, toggle damage or spell amp, physical damage toggle, spell amplification toggle, dropped on death, risk item, contested item, neutral item on death, buyback risk, DPS item, carry item, rapier, massive damage, game-winning item, Divine Rapier",
+    "tags": [
+      "ITEM_DATA",
+      "DIVINE_RAPIER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DAMAGE",
+      "HIGH_RISK",
+      "CARRY_ITEM",
+      "DROPPABLE",
+      "PHYSICAL_DAMAGE",
+      "SPELL_AMP"
+    ]
+  },
+  {
+    "display_text": "Divine Rapier, Cost: 5600: Provides +100 base attack damage. The Transmute toggle provides an additional +150 bonus attack damage (for a total of +250) or +25% bonus spell amplification. Does not provide attributes or defensive stats. Stats: Attack Damage: +100.",
+    "search_text": "divine rapier stats, rapier damage, bonus damage item, spell amp item, attribute stats, pure damage, rapier stats, Divine Rapier",
+    "tags": [
+      "ITEM_DATA",
+      "DIVINE_RAPIER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "SPELL_AMP",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Divine Rapier, Cost: 5600: Ultimate late-game damage amplification tool designed to end stalemates. Carries immense risk due to being dropped on death and becoming usable by enemies, making buyback plays highly dangerous. Its presence significantly warps team fight dynamics, forcing aggressive protection of the carrier. Stats: CD: 6s (Toggle).",
+    "search_text": "team fight rapier, rapier team fight, late game team fight, risk reward team fight, damage spike, fight decider, end game item, game-winning fight, protect carrier, Divine Rapier",
+    "tags": [
+      "ITEM_DATA",
+      "DIVINE_RAPIER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "HIGH_RISK",
+      "GAME_ENDING",
+      "LATE_GAME"
+    ]
+  },
+  {
+    "display_text": "Divine Rapier, Cost: 5600: Counter-item against highly defensive, tanky lineups where damage output has become insufficient. The immense raw damage pierces through high armor or magic resistance. Conversely, it is countered by instant disables, burst, and pick-off potential that can kill the carrier and allow enemies to claim it. Stats: CD: 6s (Toggle).",
+    "search_text": "rapier counter tank, counter high armor, counter high hp, damage vs defense, burst counter rapier, disable rapier carrier, pick off rapier, steal rapier, Divine Rapier",
+    "tags": [
+      "ITEM_DATA",
+      "DIVINE_RAPIER",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "DAMAGE",
+      "HIGH_RISK",
+      "VS_TANK"
+    ]
+  },
+  {
+    "display_text": "Divine Rapier, Cost: 5600: Core synergy with heroes possessing high attack speed and mobility to maximize the physical damage potential, or with high-impact magical nukers to amplify their spell burst. Typically purchased by position 1 heroes who are difficult to kill and have buyback available. Builds from Sacred Relic and Demon Edge. Stats: CD: 6s (Toggle).",
+    "search_text": "rapier build, rapier hero synergy, carry rapier, high attack speed rapier, spell caster rapier, nuker rapier, hard to kill rapier, buyback rapier, Divine Rapier",
+    "tags": [
+      "ITEM_DATA",
+      "DIVINE_RAPIER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "DAMAGE",
+      "HIGH_RISK",
+      "CARRY_ITEM",
+      "UPGRADE"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "display_text": "Mjollnir, Cost: 5500: Active Static Charge places a shield on an ally for 15 seconds that has a 20% chance on being attacked to release 225 magical damage lightning that jumps to 4 additional nearby enemies. Passive Chain Lightning grants a 25% chance on attack to release 180 magical damage lightning that bounces to 12 targets. Both procs pierce evasion. Strong farming and team fight damage item. Stats: CD: 35s, Mana: 50, Charges: 0.",
+    "search_text": "mjollnir item, lightning damage item, chain lightning item, static charge, farming item, wave clear item, attack speed item, magical damage proc, bounces lightning, attack modifier, Mjollnir, Mjollnir build, DPS item, area damage, magical attack item, hyperstone upgrade, chain lightning attack, Static Charge shield",
+    "tags": [
+      "ITEM_DATA",
+      "MJOLNIR",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "AOE_DAMAGE",
+      "MAGICAL_DAMAGE",
+      "FARMING",
+      "WAVECLEAR",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Mjollnir, Cost: 5500: Provides +90 Attack Speed and +25 Damage, significantly boosting a hero's right-click DPS and scaling physical damage output. Does not provide attributes or defensive stats. Stats: Attack Speed: +90, Damage: +25.",
+    "search_text": "mjollnir stats, attack speed item, damage item, DPS stats, hyperstone upgrade stats, Mjollnir stats, right click damage, physical damage increase, attack speed boost",
+    "tags": [
+      "ITEM_DATA",
+      "MJOLNIR",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Mjollnir, Cost: 5500: Excellent team fight presence through Chain Lightning and Static Charge which provide significant magical area damage. The active shield can be placed on initiators or frontliners to punish attackers, adding disruptive AoE damage in clustered fights. The high attack speed also enables more proc chances.",
+    "search_text": "mjollnir team fight, AoE magic damage, team fight damage, lightning bounces, disrupt fights, punish attackers, frontliner item, area damage team fight, chain lightning proc, Static Charge team fight, attack speed synergy",
+    "tags": [
+      "ITEM_DATA",
+      "MJOLNIR",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "AOE_DAMAGE",
+      "MAGICAL_DAMAGE",
+      "MULTI_TARGET",
+      "BUFF"
+    ]
+  },
+  {
+    "display_text": "Mjollnir, Cost: 5500: Strong purchase against heroes relying on evasion or miss chance, as its lightning procs pierce evasion. The magical area damage is effective against heroes building armor or illusion-based heroes (procs deal full damage to illusions). The active shield can deter attacks on your carry.",
+    "search_text": "mjollnir vs evasion, counter evasion, magic damage vs armor, anti armor item, vs illusions item, counter illusions, magic damage carry, evasion counter item, pierce evasion, True Strike magic, Mjollnir counter",
+    "tags": [
+      "ITEM_DATA",
+      "MJOLNIR",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_EVASION",
+      "VS_EVASION",
+      "SITUATIONAL_VS_ILLUSIONS",
+      "VS_ILLUSIONS",
+      "MAGICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Mjollnir, Cost: 5500: Excellent farming accelerator, allowing heroes to quickly clear waves and jungle camps via Chain Lightning bounces. The high attack speed further increases farming speed. Best purchased by heroes with naturally high attack speed or those who can efficiently build Maelstrom first.",
+    "search_text": "mjollnir farming, accelerate farm, wave clear item, jungle clearing, farm acceleration, chain lightning farm, lightning farming, Maelstrom upgrade, farming carry item",
+    "tags": [
+      "ITEM_DATA",
+      "MJOLNIR",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "FARMING",
+      "WAVECLEAR"
+    ]
+  }
+]

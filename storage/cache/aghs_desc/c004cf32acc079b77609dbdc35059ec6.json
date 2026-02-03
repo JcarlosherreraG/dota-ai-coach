@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Lifestealer Aghanim's Scepter: Infest can now target enemy heroes for a short duration, attacking from inside while increasing regeneration. This upgrade counters high-mobility and tanky heroes by allowing Lifestealer to bypass frontline defenses and sustain himself while dealing damage from within an enemy.",
+    "search_text": "Lifestealer Aghanim Scepter Infest enemy heroes counter-mobility sustain inside-attack regeneration",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lifestealer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lifestealer Aghanim's Shard: Infest explosion applies a 50% duration Open Wounds, enabling stronger crowd control after exiting. This upgrade counters enemy escape attempts and teamfight disengagement by ensuring a follow-up slow on multiple targets.",
+    "search_text": "Lifestealer Aghanim Shard Infest explosion Open Wounds slow anti-escape crowd control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lifestealer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

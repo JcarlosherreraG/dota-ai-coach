@@ -1,0 +1,190 @@
+[
+  {
+    "display_text": "Hoodwink is an Agility Ranged hero with average stats. She has a high starting Agility of 25, giving her decent armor and attack speed early. Her Strength base of 17 is low, making her fragile against nukes and physical damage. Her attack range is standard for ranged heroes, with no innate bonuses listed, but abilities like Acorn Shot can increase it. Her Intelligence base of 21 is average, supporting her spellcasting.",
+    "search_text": "Hoodwink stats agility 25 strength 17 intelligence 21 ranged attack type base stats",
+    "tags": [
+      "HOODWINK",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Hoodwink has three Facets. The 'Go Nuts' facet makes Scurry provide bonus attack and cast range, ideal for a core build focusing on safe right-click damage and longer spell casts. The 'Treebounce Trickshot' facet allows Acorn Shot to bounce once on trees, significantly improving its farming and wave clear potential by interacting with the environment. The 'Hipshot' facet drastically changes her ultimate, Sharpshooter, making it a low-cooldown, quick-draw skill shot with reduced damage and debuff duration, trading burst for utility and spam.",
+    "search_text": "Facets Go Nuts Scurry attack cast range Treebounce Trickshot Acorn Shot bounce trees Hipshot Sharpshooter low cooldown quick draw reduced damage",
+    "tags": [
+      "HOODWINK",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, use Acorn Shot (45/90/135/180 bonus damage, 80% attack damage) for harassment and last-hitting, especially near enemy creeps to bounce. Bushwhack (90/180/270/360 damage over 1.5/1.7/1.9/2.1 seconds, stun) is a powerful setup when enemies are near trees; use it to secure kills with a partner. Hoodwink's low Strength means positioning is key; use Scurry (15 flat movement speed, 20%/25%/30%/35% bonus, tree-walking) defensively to escape ganks. Her passive, Mistwoods Wayfarer, provides a 14%/21%/28%/35% chance to redirect attacks to a tree, mitigating harass but is unreliable.",
+    "search_text": "Laning phase Acorn Shot harass last hit 45 90 135 180 damage Bushwhack stun 90 360 damage Scurry escape tree-walking Mistwoods Wayfarer redirect attacks 35%",
+    "tags": [
+      "HOODWINK",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a major spike with Sharpshooter (up to 600/975/1350 damage, 30%/40%/50% slow for 5 seconds). Hoodwink can solo-kill most heroes with a full charge. Level 12 with maxed Acorn Shot and Bushwhack greatly increases farming speed and teamfight damage. The Level 15 talent (+150 Health or +1 Scurry Charge) improves survivability or mobility. Level 18 with max Sharpshooter is a second damage spike. Level 20 talents (Sharpshooter Vision or -3 Armor Corruption on Hunter's Boomerang) offer map control or damage amplification. Level 25 talents (2 Acorn Shot Charges or +400 Sharpshooter Max Damage) define late-game scaling between sustained AoE or single-target nuke.",
+    "search_text": "Power spikes level 6 Sharpshooter 600 975 1350 damage level 12 max Q W level 15 talent health Scurry charge level 20 talent vision armor corruption level 25 talent charges damage",
+    "tags": [
+      "HOODWINK",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hoodwink is countered by heroes that provide Break (e.g., Silver Edge, Hoodwink's own Sharpshooter), which disables her Mistwoods Wayfarer passive, removing her evasion and attack redirection. Instant disables (Hex, instant stuns) prevent her from using Scurry to escape. Heroes with high mobility or blink abilities can dodge her skill-shot Sharpshooter. Illusion or summon-based heroes can block the Sharpshooter projectile or absorb Acorn Shot bounces. Heavy magic burst damage exploits her low Strength pool before she can react.",
+    "search_text": "Counters Break Silver Edge disable Mistwoods Wayfarer passive instant hex stun prevent Scurry escape mobility dodge Sharpshooter illusions block projectile magic burst low strength",
+    "tags": [
+      "HOODWINK",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Maelstrom/Mjollnir is a core item for Hoodwink, synergizing perfectly with Acorn Shot bounces to massively accelerate her farm and provide AoE magic damage in fights. Aether Lens is essential for increasing the cast range of her Bushwhack and Sharpshooter, allowing safer initiation and positioning. For core Hoodwink, a damage item like Daedalus or Monkey King Bar is critical to scale her right-click damage, especially when combined with the attack range from the 'Go Nuts' facet and Acorn Shot.",
+    "search_text": "Core build Maelstrom Mjollnir Acorn Shot bounces farm Aether Lens range Bushwhack Sharpshooter Daedalus MKB right click damage",
+    "tags": [
+      "HOODWINK",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Hoodwink's role is to initiate or counter-initiate from the edges. Use Sharpshooter to break and heavily damage a key target from long range (3000 distance). Follow up with Bushwhack to stun and damage multiple enemies clustered near trees. Use Acorn Shot to apply slows and right-click damage to the backline. Use Scurry to reposition safely, dodge attacks with doubled evasion, and maintain tree-walking for superior angles. Her Hunter's Boomerang should be used to apply its spell amp and slow debuff to multiple enemies to amplify team magic damage.",
+    "search_text": "Teamfight role initiator Sharpshooter break slow 3000 range Bushwhack AoE stun Acorn Shot slow damage Scurry reposition evasion tree-walking Hunter's Boomerang spell amp",
+    "tags": [
+      "HOODWINK",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Acorn Shot (Q): Fires an acorn that deals 45/90/135/180 bonus damage plus 80% of Hoodwink's attack damage to the target. It bounces 2/3/4/5 times to nearby enemies within 525 range, slowing them by 100% for 0.3 seconds. If point-targeted, it plants a tree at the location first. It benefits from attack range bonuses, granting an extra 100 range for the attack.",
+    "search_text": "Acorn Shot Q ability bounce 2 3 4 5 bounces 525 radius slow 100% 0.3s damage 45 90 135 180 plus 80% attack damage plant tree point target attack range bonus 100",
+    "tags": [
+      "HOODWINK",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Bushwhack (W): Throws a net trap with a 265 radius. If an enemy hero is near a tree in the area, they are stunned for 1.5/1.7/1.9/2.1 seconds, take 90/180/270/360 damage over time, are pulled to the nearest tree, and have their vision reduced to 0. Cooldown is 15/14/13/12 seconds. Does not hit invisible units. Units can be freed by destroying the tree.",
+    "search_text": "Bushwhack W ability trap 265 radius stun 1.5 2.1 seconds damage over time 90 360 vision reduced to 0 pull to tree cooldown 15 12 seconds tree destroy free target",
+    "tags": [
+      "HOODWINK",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Scurry (E): Hoodwink gains 15 flat movement speed, 20%/25%/30%/35% bonus movement speed, phased movement, and tree-walking for 3.5/4.0/4.5/5.0 seconds. All sources of evasion are doubled for the duration. Starts with 2 charges. Does NOT pierce BKB.",
+    "search_text": "Scurry E ability movement speed 15 flat 20 35% phased tree-walking duration 3.5 5.0 seconds evasion doubled 2 charges",
+    "tags": [
+      "HOODWINK",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Decoy (R): Hoodwink turns invisible, gains movement speed, and creates a decoy illusion that lasts 6 seconds. The decoy aims a reduced-damage Sharpshooter (60% damage) at the nearest enemy hero. If the decoy is attacked or hit by a targeted ability, it is destroyed and throws a lesser Bushwhack towards the enemy, stunning for 1.6 seconds in a 250 radius.",
+    "search_text": "Decoy R ability ultimate invisibility movement speed create illusion 6 seconds aims Sharpshooter 60% damage if attacked throws Bushwhack stun 1.6s 250 radius",
+    "tags": [
+      "HOODWINK",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Hunter's Boomerang (R): Throws a boomerang in an arc that returns. Deals 200 damage as it passes through enemies and applies a debuff for 7 seconds that slows by 25% and increases spell damage taken by 20%.",
+    "search_text": "Hunter's Boomerang R ability boomerang 200 damage slow 25% spell amplification 20% debuff duration 7s",
+    "tags": [
+      "HOODWINK",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Sharpshooter (R): Hoodwink channels for up to 3 seconds to charge a bolt, dealing up to 600/975/1350 damage, applying Break, and slowing by 30%/40%/50% for up to 5 seconds. Damage and slow duration scale with charge time. She is knocked back 350 units. The bolt has 3000 range, 125 width, and 2200 speed. Automatically fires after 5 seconds. Cooldown is 45 seconds. Pierces debuff immunity.",
+    "search_text": "Sharpshooter R ultimate channel charge 3s max damage 600 975 1350 break slow 30 50% 5s knockback 350 range 3000 width 125 speed 2200 cooldown 45s pierces BKB",
+    "tags": [
+      "HOODWINK",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Mistwoods Wayfarer (Passive): Hoodwink has a 14%/21%/28%/35% chance to redirect enemy attacks to a nearby tree within 275 radius. Trees that take a redirected attack are destroyed.",
+    "search_text": "Mistwoods Wayfarer passive chance 14 35% redirect enemy attack to tree 275 radius tree destroyed",
+    "tags": [
+      "HOODWINK",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Scenario: When facing heroes with high armor and low magic resistance, Hoodwink should prioritize magic damage. Build Maelstrom/Mjollnir and leverage the spell amplification from Hunter's Boomerang. Focus on landing multi-hero Bushwhacks and Acorn Shot bounces, as their damage is largely magical and ignores armor.",
+    "search_text": "Vs high armor low magic resistance build Maelstrom magic damage Hunter's Boomerang spell amp Bushwhack Acorn Shot bounces",
+    "tags": [
+      "HOODWINK",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: When playing from behind, Hoodwink should focus on defense and control. Build utility items like Force Staff, Glimmer Cape, or Aether Lens. Use Scurry and trees to safely de-push waves with Acorn Shot. Look for pick-offs with Bushwhack into Sharpshooter on isolated targets to create space.",
+    "search_text": "Playing from behind defensive utility Force Staff Glimmer Cape Aether Lens Scurry tree-walking depush Acorn Shot pickoff Bushwhack Sharpshooter",
+    "tags": [
+      "HOODWINK",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against illusion or summon-heavy lineups (e.g., Phantom Lancer, Nature's Prophet), Hoodwink struggles as her skill shots can be blocked. Prioritize the 'Treebounce Trickshot' facet to farm safely with Acorn Shot off trees. Build Mjollnir for its active and AoE. Use Bushwhack primarily for area denial rather than single-target lockdown.",
+    "search_text": "Vs illusions summons lineups Phantom Lancer Nature's Prophet skill shot blocked Treebounce Trickshot facet farm Mjollnir active Bushwhack area denial",
+    "tags": [
+      "HOODWINK",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: When your team lacks initiation, Hoodwink can serve as a long-range initiator with Sharpshooter. Equip a Blink Dagger to get into optimal positioning. Use Decoy to scout and create confusion before firing your real ultimate. Follow up with Hunter's Boomerang to amplify your team's follow-up damage.",
+    "search_text": "Lacking initiation long-range initiator Blink Dagger Sharpshooter Decoy scout confusion Hunter's Boomerang amp team damage",
+    "tags": [
+      "HOODWINK",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: To maximize farming efficiency, take the 'Treebounce Trickshot' facet. Use Acorn Shot point-targeted on trees near creep waves to guarantee multiple bounces. Combine with a Maelstrom to clear stacked camps quickly. Use Scurry charges to move between jungle camps and lanes without taking damage.",
+    "search_text": "Farming efficiency Treebounce Trickshot facet Acorn Shot point target trees creep wave bounces Maelstrom clear stacks Scurry jungle travel",
+    "tags": [
+      "HOODWINK",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Choose between +50 Bushwhack Damage or +150 Health. The damage talent increases Bushwhack's total damage to 410 at max level, improving burst and wave clear. The health talent provides crucial survivability given Hoodwink's low Strength. Pick damage if you are winning your lane and need to snowball; pick health if you are facing heavy harass or burst.",
+    "search_text": "Talent level 10 left +50 Bushwhack Damage right +150 Health burst wave clear vs survivability low strength",
+    "tags": [
+      "HOODWINK",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Choose between +150 Health or +1 Scurry Charge. The health talent stacks with the Level 10 option for even more durability. The extra Scurry charge dramatically increases mobility, escape potential, and uptime for tree-walking and doubled evasion. Pick health against sustained damage; pick the charge against mobile gankers or if you need to be constantly repositioning in fights.",
+    "search_text": "Talent level 15 left +150 Health right +1 Scurry Charge durability vs mobility escape evasion uptime",
+    "tags": [
+      "HOODWINK",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Choose between 'Sharpshooter Provides Vision While Charging' (also grants True Sight) or '-3 Armor Corruption' from Hunter's Boomerang. The vision talent is a powerful scouting and anti-invis tool, allowing you to safely charge your ultimate and reveal heroes like Riki or Bounty Hunter. The armor corruption talent synergizes with physical damage builds and teams, amplifying right-click damage. Pick vision for map control and against invisibility; pick armor reduction for pushing and physical damage lineups.",
+    "search_text": "Talent level 20 left Sharpshooter provides vision True Sight right -3 Armor Corruption Hunter's Boomerang scouting anti-invis vs physical damage amp",
+    "tags": [
+      "HOODWINK",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Choose between 2 Acorn Shot Charges or +400 Sharpshooter Max Damage. The double Acorn Shot charges enable massive sustained area damage, slows, and farming speed, defining a right-click/utility build. The +400 Sharpshooter damage increases its max damage to 1750, creating an unparalleled single-target nuke for deleting key heroes. Pick Acorn Shot charges for consistent teamfight impact and split-pushing; pick Sharpshooter damage for instant pick-offs and against high-priority, tanky targets.",
+    "search_text": "Talent level 25 left 2 Acorn Shot Charges right +400 Sharpshooter Max Damage sustained AoE slows farming vs single-target nuke 1750 damage pick-off",
+    "tags": [
+      "HOODWINK",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

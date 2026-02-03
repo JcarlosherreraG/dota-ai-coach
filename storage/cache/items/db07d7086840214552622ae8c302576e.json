@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Tier N/A: Light Collector. Aura effect that heals allies and regenerates mana within a 200 radius while reducing enemy attack accuracy by 30% within the same area. Has a passive that destroys nearby trees within 325 radius and applies 75 penalty to your hero's stats. Provides 10 health regen, 6 mana regen, and 5% movement speed bonus. Stats: CD: 30s, Radius: 200, Tree Radius: 325, Duration: 2.5s.",
+    "search_text": "neutral item, aura heal, mana regen aura, attack miss aura, accuracy reduction, blind aura, penalty stats, tree destroy, passive debuff, health regen, mana regen, movespeed, Light Collector",
+    "tags": [
+      "ITEM_DATA",
+      "LIGHT_COLLECTOR",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "AURA",
+      "HEAL",
+      "REGEN",
+      "MANA_REGEN",
+      "DEBUFF",
+      "PENALTY",
+      "UTILITY"
+    ]
+  }
+]

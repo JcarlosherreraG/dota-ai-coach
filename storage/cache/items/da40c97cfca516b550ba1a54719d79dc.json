@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "The Leveller, Cost: 0: A Tier 4 neutral item. Attacks deal 35% more damage to buildings. Primarily a siege tool for pushing high ground and destroying structures, with no other passive or active effects. Stats: Demolish Damage Bonus: +35%.",
+    "search_text": "building damage item, siege item, neutral item, tier 4 neutral, push item, high ground item, demolition, structure damage, backdoor protection, The Leveller",
+    "tags": [
+      "ITEM_DATA",
+      "THE_LEVELLER",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_4",
+      "SIEGE",
+      "VS_BUILDINGS",
+      "PUSH"
+    ]
+  }
+]

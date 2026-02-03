@@ -1,0 +1,48 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "100000004",
+    "game_time": 2400,
+    "clock_time": 2400,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": false
+  },
+  "player": {
+    "team_name": "Dire",
+    "name": "WinningCarry",
+    "gold": 8500,
+    "kills": 14,
+    "deaths": 3,
+    "assists": 8,
+    "last_hits": 320,
+    "gpm": 680,
+    "xpm": 720
+  },
+  "hero": {
+    "name": "npc_dota_hero_terrorblade",
+    "level": 25,
+    "health": 2800,
+    "max_health": 2800,
+    "mana": 1000,
+    "max_mana": 1200,
+    "alive": true,
+    "stunned": false,
+    "silenced": false
+  },
+  "items": {
+    "slot0": { "name": "item_power_treads", "can_cast": false },
+    "slot1": { "name": "item_manta", "can_cast": true },
+    "slot2": { "name": "item_skadi", "can_cast": false },
+    "slot3": { "name": "item_butterfly", "can_cast": false },
+    "slot4": { "name": "item_satanic", "can_cast": true },
+    "slot5": { "name": "item_black_king_bar", "can_cast": true }
+  },
+  "abilities": {
+    "ability0": { "name": "terrorblade_reflection", "level": 4, "can_cast": true, "cooldown": 0 },
+    "ability1": { "name": "terrorblade_conjure_image", "level": 4, "can_cast": true, "cooldown": 0 },
+    "ability2": { "name": "terrorblade_metamorphosis", "level": 4, "can_cast": true, "cooldown": 0 },
+    "ability3": { "name": "terrorblade_sunder", "level": 3, "can_cast": true, "cooldown": 0, "ultimate": true }
+  },
+  "user_context": "Мы сильно выигрываем, но не можем закончить игру. Враги (Techies, Tinker, Sniper, Earth Spirit, Disruptor) отлично защищают хайграунд. Везде мины, Тинкер бесконечно пушит все линии.",
+  "user_question": "What is the most important tactical advice for next 30 seconds?"
+}

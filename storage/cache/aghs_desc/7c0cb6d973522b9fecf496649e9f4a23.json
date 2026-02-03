@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Vengeful Spirit Aghanim's Scepter: Vengeance Aura — Creates a strong illusion upon death that can cast spells and deals full damage. This upgrade counters death-timing punishes by maintaining teamfight presence and XP retention, effectively turning Vengeful Spirit into a persistent threat even after death.",
+    "search_text": "Vengeful Spirit Aghanim Scepter anti-death-timing persistent threat illusion XP retention",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Vengeful Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Vengeful Spirit Aghanim's Shard: Magic Missile — Adds a bounce to Magic Missile, prioritizing heroes. This upgrade counters grouped enemy formations by increasing crowd control potential, transforming Vengeful Spirit into a more reliable initiator or follow-up disabler in chaotic fights.",
+    "search_text": "Vengeful Spirit Aghanim Shard anti-grouped-enemies crowd control initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Vengeful Spirit",
+      "COUNTER_MECHANIC",
+      "SHARD"
+    ]
+  }
+]

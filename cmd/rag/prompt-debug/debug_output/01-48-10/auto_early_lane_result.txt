@@ -1,0 +1,269 @@
+FILE: auto_early_lane.json
+QUESTION: What is the most important tactical advice for next 30 seconds?
+GENERATION TIME: 2.15s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: PANGOLIER, SITUATIONAL, FROM_BEHIND, FARM, ESCAPE] | Scenario: Playing From Behind. Use Swashbuckle to safely clear waves from a distance. Avoid risky initiations with Rolling Thunder; use it primarily as an escape tool. Build survivability items like BKB or Linken's Sphere. Focus on farming with Swashbuckle and Maelstrom until you hit key item timings.
+---
+[TAGS: Axe, Ability, Sustain] | Counter Helix Lifesteal: Provides sustain by healing a percentage of Counter Helix damage. Stats: Lifesteal: {bonus_helix_lifesteal}%
+---
+[TAGS: ITEM_DATA, SUPER_BLINK, SITUATIONAL_VS_CONTROL, FULL_ITEM, POSITIONING, MOBILITY, ESCAPE] | Super Blink, Cost: N/A: Situational versus heroes that rely on positioning or have long-range disables. The ability to instantly close a specific, predictable distance makes it strong for landing targeted abilities or escaping slow-moving projectiles, but does not help against instant, point-blank control.
+---
+[TAGS: Skywrath Mage, ABILITY_DATA, W, Slow, Global] | Concussive Shot (W) is a global targeted ability. It launches a shot (800 speed) that hits the closest hero within 1600 range of the target point. Upon impact, it deals 120/180/240/300 damage and applies a 40% movement slow in a 250 radius for 4 seconds. It provides 300 vision around the projectile and reveals the impact area for 3.34 seconds. If no enemy heroes are in range, it targets the nearest creep. Damages creeps around the impact area.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, UPGRADE, LATE_GAME] | Super Blink CORE_BUILD: This is an upgrade for the Overwhelming Blink, Swiftshadow Blink, and Arcane Blink items. It is the final upgrade for mobility-focused late-game builds on initiators or cores that need to guarantee their positioning.
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, STAT_PROFILE, FULL_ITEM, UTILITY] | Blink Dagger, Cost: 2250: Provides no attribute bonuses or stats. Pure utility item whose value comes entirely from its powerful, low-cooldown active mobility spell.
+---
+[TAGS: ITEM_DATA, SUPER_BLINK, SYNERGY_BUILD, FULL_ITEM, INITIATOR_ITEM, COMBO_ITEM, UTILITY] | Super Blink, Cost: N/A: Synergizes strongly with heroes who have powerful, short-range AoE ultimates or point-target disables that require precise positioning (e.g., Axe, Earthshaker, Kunkka). The clamped range allows them to guarantee they land exactly where needed to maximize their spell impact.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Soul Ring CORE_BUILD: Builds from defensive starter items (Ring of Protection, Gauntlets) which are cost-effective. Often built as a first or second item to enable farming or fighting. Synergy: Works well with heroes who have high strength/health regeneration to offset the health cost. Stats: +6 Strength, +2 Armor help mitigate health loss.
+---
+[TAGS: ITEM_DATA, FORCE_STAFF, FULL_ITEM, SITUATIONAL_VS_CONTROL, VS_CONTROL, ESCAPE, SURVIVAL, DEFENSIVE, REACTIVE] | Cost: 2200: Situational vs aggressive initiators and catch-heavy lineups. Force Staff counters enemy gap-close and allows allies to escape from danger zones. It is a reactive purchase against heroes who rely on getting on top of your team and locking them down, providing a crucial escape tool that can't be interrupted by most disables.
+---
+[TAGS: AXE, LANING_PHASE] | In the laning phase, Axe excels in the offlane. Use Battle Hunger (12/18/24/30 DPS) to harass and secure last hits from a distance. Max Counter Helix first (100/120/140/160 pure damage) to trade aggressively when enemies attack you, as it procs every 7/6/5/4 attacks. Your high base strength makes you difficult to kill. Start with a point in Counter Helix for early trades.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 2: Increases mana regeneration for better spell availability. Stats: Mana Regen: 2
+---
+[TAGS: ITEM_DATA, BELOVED_MEMORY, CORE_DESCRIPTION, NON_PURCHASABLE, EVENT, UTILITY] | Ofrenda - Beloved Memory, Tier N/A (Non-Purchasable): An Offering that can be placed on an Altar to honor the dead. Its sole ability honors the dead with a memory, targeted on friendly buildings. Provides no stat bonuses. This item is for event or tribute mechanics. Stats: CD: 3s, Cast Speed: 1000.
+---
+[TAGS: ITEM_DATA, RING_OF_HEALTH, STAT_PROFILE, FULL_ITEM, REGEN, SUSTAIN, HEALTH] | Ring of Health, Cost: 700: Provides no direct combat stats such as damage, attack speed, or primary attributes. Its entire value comes from the significant passive health regeneration, offering pure survivability and lane sustainability.
+---
+[TAGS: ITEM_DATA, RING_OF_REGEN, CORE_DESCRIPTION, COMPONENT, REGEN, SUSTAIN, HEALTH, EARLY_GAME, LANING] | Ring of Regen, Cost: 175: Basic component item providing +1.25 Health Regeneration. A cost-efficient early game sustain item, often purchased in laning phase to offset harass damage and allow heroes to stay on the map longer without having to return to fountain. Typically upgraded into more powerful items rather than held long-term. Stats: HP Regen: +1.25.
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+---
+[TAGS: STRATEGY, Skywrath Mage, WEAKNESS] | Skywrath Mage Weakness: Vulnerable to Silence (Ancient Seal countered), Break (ruins Shield of the Scion), and gap closers (no escape).
+---
+[TAGS: Skywrath Mage, HARD_COUNTERS, COUNTERS] | Skywrath Mage is hard-countered by heroes and items that counter fragile, spell-reliant heroes. Anti-Mage and Nyx Assassin can reflect or absorb his primary damage (Arcane Bolt). Heroes with high magic resistance (Huskar, Visage) or status resistance (Spirit Breaker) reduce his effectiveness. Instant silences, hexes, or blinks (Storm Spirit, Puck) can jump on him before he can cast. Items like BKB (which blocks all his spells except the non-damaging components), Pipe of Insight, and Glimmer Cape massively reduce his damage output. His low health pool makes him vulnerable to any physical burst.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: ITEM_DATA, ABYSSAL_BLADE, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, BKB_PIERCE, DISABLE, LOCKDOWN, COUNTER_ITEM, LATE_GAME] | Abyssal Blade, Cost: 6250: Situationally built against heroes reliant on spell immunity (Black King Bar) or escape mechanisms that provide debuff immunity. The active 'Overwhelm' stun pierces these immunities, making it a key counter-item for locking down elusive or magic-immune cores who are otherwise difficult to control. Directly counters the defensive power of BKB in the late game.
+---
+[TAGS: Axe, Ability, Survivability] | Bonus Armor per Culling Blade Stack: Increases survivability after successful executions. Stats: Armor per stack: +{bonus_armor_per_stack}
+---
+[TAGS: BEASTMASTER, SITUATIONAL, VS_MAGIC_BURST] | Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.
+---
+[TAGS: Ability, Resource, Scaling] | Mana Bonus: Provides scaling mana pool increases for spellcasters. Stats: Mana: 200/225/250/275/300/350/400/500/600/700
+---
+[TAGS: Skywrath Mage, Ability Upgrade, Crowd Control] | AoE Ancient Seal: Turns single-target debuff into area control tool, enabling multi-hero magical burst setups. Stats: Area of Effect: [value]
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_DISABLES, DISPEL, ESCAPE] | Minotaur Horn SITUATIONAL_VS_DISABLES: The basic dispel component allows you to remove many slows, silences, and roots, providing a brief escape or engagement window. While it does not pierce spell immunity, it can cleanse debuffs applied through BKB. The 2-second immunity to new negative effects prevents follow-up control, making it strong against heroes with multiple single-target disables. Stats: Dispel Type: Basic Dispel, Buff Duration: 2s.
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: ITEM_DATA, ARCANE_BLINK, FULL_ITEM, SITUATIONAL_USAGE, UPGRADE, LATE_GAME_ITEM, EXPENSIVE] | Arcane Blink, Cost: 6800: Primarily a situational luxury upgrade for Blink Dagger carriers who also benefit from Intelligence. Consider against lineups that apply frequent hero damage, as the 3-second damage lockout is a key weakness. The item's high cost delays other core items.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 2.5: Significantly boosts mana regeneration for high-intensity spellcasting. Stats: Mana Regen: 2.5
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: ITEM_DATA, VITALITY_BOOSTER, STAT_PROFILE, FULL_ITEM, HEALTH, SURVIVAL, COMPONENT, SECRET_SHOP] | Vitality Booster, Cost: 1000: Purchasable from the Secret Shop. Provides a flat +250 maximum Health, offering raw survivability with no active abilities. A core component for many late-game health-focused items like Heart of Tarrasque. Stats: Health Bonus: +250.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, UPGRADE, SUPPORT, UTILITY, AURA] | Built from Buckler, Ring of Basilius, and Headdress, consolidating their component auras into one efficient package. This makes it an ideal mid-game upgrade for supports or utility cores looking to enhance their team's durability and pushing power. Its value is maximized when grouped with multiple heroes.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MOBILE, SLOW] | Ogre Seal Totem VS_MOBILE: The guaranteed 100% slow for 1.5 seconds on each bounce is exceptionally strong against highly mobile heroes, effectively rooting them in place and preventing escapes. The double bounce can cover significant ground to catch fleeing targets. Stats: Slow: -100% for 1.5s, Bounces: 2, Bounce Distance: 400.
+---
+[TAGS: RIKI, ABILITY_DATA, BLINK, NUKER] | Blink Strike (W). Teleports behind a target unit within 600/700/800/900 range, momentarily slowing them by 50% and attacking them for 15/30/45/60 bonus damage if it is an enemy. Cooldown is 13/10/7/4 seconds. Can be used on allies for mobility, but no damage or slow is applied.
+---
+[TAGS: ITEM_DATA, RING_OF_HEALTH, CORE_MECHANICS, FULL_ITEM, REGEN, SUSTAIN, HEALTH, DEFENSIVE, UTILITY] | Ring of Health, Cost: 700: Provides +4.5 Health Regeneration as a passive aura. A pure sustain item with no active ability, primarily purchased as a component for more advanced defensive items or to significantly improve lane staying power for heroes that need constant health recovery. Stats: Health Regen: +4.5.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, SUSTAIN, HEAL] | Ring of Regen CORE_MECHANICS: A basic health regeneration item, providing a constant source of healing. Its passive health regeneration is active at all times, making it a foundation for other regen-based items. It has no other active or passive effects. Stats: Cost: 175 gold, Health Regeneration: +1.25.
+---
+[TAGS: ITEM_DATA, RING_OF_HEALTH, TEAMFIGHT_ROLE, FULL_ITEM, SUSTAIN, REGEN, SURVIVAL, DEFENSIVE] | Ring of Health, Cost: 700: Role is to provide continuous, out-of-combat healing, allowing heroes to stay on the map longer, farm more safely, and shrug off harassment. It indirectly contributes to team fights by ensuring heroes enter engagements at full health after skirmishes. Its value is sustained presence over burst impact.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: AXE, HARD_COUNTERS] | Axe is hard countered by heroes with Break (e.g., Silver Edge, Hoodwink) which disables Counter Helix and his armor talents. High magic burst damage can kill him before he can cast Berserker's Call. Heroes with illusions or summons can trigger Counter Helix without putting their main hero at risk, wasting its cooldown. Debuff dispels can remove Battle Hunger.
+---
+[TAGS: STRATEGY, Axe, ITEM_BUILD, SITUATIONAL] | Axe Situational: Buy BKB against magic damage, Crimson Guard vs heavy physical damage.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, CORE_ITEM] | Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1.25: Boosts mana regeneration for consistent spellcasting. Stats: Mana Regen: 1.25
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1.5: Enhances mana regeneration for prolonged engagements. Stats: Mana Regen: 1.5
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: Axe, Ability, Damage] | Counter Helix Damage: Boosts damage output when attacked. Stats: Damage: +{bonus_damage}
+---
+[TAGS: ITEM_DATA, SOUL_RING, CORE_MECHANICS, FULL_ITEM, MANA, SUSTAIN, HEALTH_COST, ACTIVE] | Soul Ring, Cost: 805: Active ability Sacrifice consumes 170 health to temporarily gain 170 mana, lasting 10 seconds. Creates a mana buffer if the gained mana exceeds your maximum mana pool. This is a self-sustain tool for heroes who rely on abilities but lack mana regen, particularly strength heroes. Stats: CD: 25s, Mana Gain: 170, Duration: 10s.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1: Enhances mana regeneration for better spell uptime. Stats: Mana Regen: 1
+---
+[TAGS: AGHS_STRATEGY, Skywrath Mage, COUNTER_MECHANIC, AGHANIM] | Skywrath Mage Aghanim's Shard: Fires two additional Arcane Bolts at random enemies near the original target, prioritizing heroes. This upgrade counters hero-focused sustain or evasion mechanics by ensuring consistent magical damage output even against elusive or healing-heavy targets.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPELLABLE, NO_BKB_PIERCE] | Orb of Corrosion HARD_COUNTERS: The Corrosion effect is dispellable, meaning items like Manta Style or abilities with basic dispels can remove all debuffs (slow, armor reduction, heal reduction). Its effectiveness is limited against heroes who naturally build dispels or have innate magic resistance/status resistance. The effect does not pierce Spell Immunity. Stats: Dispellable: Yes, Does Not Pierce BKB.
+---
+[TAGS: ITEM_DATA, OVERWHELMING_BLINK, STAT_PROFILE, FULL_ITEM, STRENGTH, DAMAGE, UPGRADE] | Cost: 6800: Overwhelming Blink. Provides +25 Strength, scaling its instant and damage-over-time components. No other attributes or stats are granted. The item's power comes from its active ability and the substantial raw Strength bonus. Stats: Bonus Strength: +25.
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: Skywrath Mage, ABILITY_DATA, R, Ultimate, Burst, Area] | Mystic Flare (R) is Skywrath Mage's ultimate. It conjures a 170-radius mystical field for 2.0 seconds, dealing 800/1200/1600 damage distributed evenly among all enemy Heroes in the area every 0.1 seconds. It does not affect creep-heroes like Spirit Bear. Spell immune enemies do not count toward the damage distribution. If no enemy heroes are present, it will damage enemy creeps. Illusions are instantly destroyed by it. The data shows no pierce_spell_immunity attribute, so it does NOT pierce BKB.
+---
+[TAGS: STRATEGY, Skywrath Mage, TIMING] | Skywrath Mage Power Spike: Strong at level 6 (Mystic Flare) and with Rod of Atos (catch potential). Another spike at level 12 with Ancient Seal talent for burst.
+---
+[TAGS: Skywrath Mage, Ability Upgrade, Burst Damage] | Mystic Flare Damage: Increases ultimate burst damage potential against single or grouped targets. Stats: Damage Increase: [bonus_damage]
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: AGHS_STRATEGY, Axe, COUNTER_MECHANIC, AGHANIM] | Axe Aghanim's Scepter: Removes Counter Helix cooldown and applies a stacking debuff that reduces enemy attack damage. This upgrade counters physical damage-heavy lineups, transforming Axe into a durable tank that punishes sustained attacks and thrives in prolonged fights.
+---
+[TAGS: ITEM_DATA, RECIPE_BLACK_KING_BAR, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Black King Bar Recipe. Cost: 1450: Component required to assemble Black King Bar. Does not provide stats or abilities.
+---
+[TAGS: ITEM_DATA, OVERWHELMING_BLINK, CORE_MECHANICS, FULL_ITEM, MOBILITY, POSITIONING, INITIATION, AOE_DAMAGE, DEBUFF, SLOW, UPGRADE] | Cost: 6800: Overwhelming Blink. A powerful upgraded Blink Dagger for Strength heroes that teleports up to 1200 units and deals damage and a slow in a large area around the arrival point. Cannot be used for 3 seconds after taking damage from enemy heroes or Roshan. This creates a strong initiation and repositioning tool with a built-in initiation debuff. Stats: CD: 15s, Teleport Range: 1200, Damage Disable Cooldown: 3s.
+---
+[TAGS: ITEM_DATA, SUPER_BLINK, CORE_MECHANICS, FULL_ITEM, MOBILITY, POSITIONING, ESCAPE, INITIATION] | Super Blink, Cost: N/A: Instantly teleports your hero up to 1200 units in the targeted direction, but will not blink further than 960 units from your original cast point. This clamps the maximum travel distance, preventing you from overshooting your intended landing zone. A core mobility tool for precise repositioning. Stats: CD: 15s, Max Range: 1200, Clamp Range: 960.
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: ITEM_DATA, AETHERIAL_HALO, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, VS_MAGIC, SURVIVAL, SUSTAIN, CONTROL, VS_MOBILITY] | Cost: 5900: Highly effective against magic-resistant enemies and physical burst due to the raw attribute bulk and spell lifesteal sustain. The active burn damage over time and slow helps control mobile heroes and prevent disengages.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1.75: Improves mana regeneration for extended combat scenarios. Stats: Mana Regen: 1.75
+---
+[TAGS: ITEM_DATA, EULS_SCEPTER_OF_DIVINITY, CORE_MECHANICS, FULL_ITEM, DISABLE, SAVE, DISPEL, REPOSITION, VS_MAGIC, VS_PHYSICAL] | Eul's Scepter of Divinity, Cost: 2600: Self-targetable tool that sweeps a unit into a cyclone, making it invulnerable for 2.5 seconds. Can be used on enemy units or yourself, dealing 50 magical damage to enemies upon landing. Primarily used to disable an enemy or to dodge projectiles and spells. Has a basic dispel interaction. Stats: CD: 23s, Mana Cost: 175, Duration: 2.5s.
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, SITUATIONAL_VS_CONTROL, FULL_ITEM, ESCAPE, SURVIVAL, DEFENSIVE, POSITIONING] | Blink Dagger, Cost: 2250: Provides critical mobility to escape dangerous situations by blinking over terrain or to allies. The 3-second cooldown after taking hero damage requires careful positioning and timing, making it a high-skill defensive item as well.
+---
+[TAGS: ITEM_DATA, RING_OF_HEALTH, SYNERGY_BUILD, FULL_ITEM, COMPONENT, SUSTAIN, DEFENSIVE, UPGRADE] | Ring of Health, Cost: 700: Synergizes with heroes who have high damage output or utility but lack inherent health regeneration, enabling them to farm aggressively and stay in lane against harass. A core early component for tanky initiators or carries building into Vanguard or Heart of Tarrasque for maximum survivability.
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: Ability, Passive, Mana Regen] | Galvanized: Scales mana regeneration over time based on kills and deaths, enhancing sustainability. Stats: Perma MP per Kill: 0.1, MP per Kill: 0.2, Charges per Ult: 3, Radius: 1200, Charges per Death: 2
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 14: Substantially increases mana regeneration for high spell frequency. Stats: Mana Regen: 14
+---
+[TAGS: ITEM_DATA, TRICKSTER_CLOAK, CORE_DESCRIPTION, NON_PURCHASABLE, UTILITY, INVISIBILITY, ESCAPE, INITIATION, MOBILITY] | Trickster Cloak, Cost: 0: Non-purchasable item that grants an active ability to become invisible for 6 seconds. This effect is dispellable and provides a significant window for repositioning, escape, or initiating unseen. Stats: CD: 25s, Duration: 6s.
+---
+[TAGS: AXE, SITUATIONAL, INITIATOR_ROLE] | When your team lacks lockdown, Axe's Berserker's Call becomes the primary initiation tool. Maximize its effectiveness by getting a Blink Dagger as fast as possible and consider an Aghanim's Scepter later to apply Battle Hunger in an AoE after a Call, providing additional soft control and damage.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Elusive HARD_COUNTERS: The evasion is countered by items and abilities providing True Strike (e.g., Monkey King Bar, Bloodthorn, certain hero spells), which completely negate its defensive benefit.
+---
+[TAGS: ITEM_DATA, ESSENCE_RING, CORE_DESCRIPTION, NEUTRAL, TIER_2, SURVIVAL, DEFENSIVE, HEALTH, ACTIVE, BURST_HEAL] | Essence Ring, Tier 2: Neutral item that instantly increases your current and maximum health by 240 for 10 seconds upon activation. This burst of survivability provides a temporary health buffer for clutch moments in skirmishes or to survive burst damage. Its substantial mana cost requires careful mana management. Stats: CD: 25s, Mana: 160, Duration: 10s, Health Gain: 240.
+---
+[TAGS: ITEM_DATA, FORTITUDE_RING, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SAVE, HEALTH, REGEN, SURVIVAL] | Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.
+---
+[TAGS: Ringmaster, ABILITY_DATA, W, Escape Act] | Ability: Escape Act. Ringmaster packs himself or an ally within 600 range into a box for 2.0/2.4/2.8/3.2 seconds. The boxed unit becomes untargetable, phased, and gains 50/60/70/80% bonus magic resistance, 0/8/16/24 bonus movement speed, and 100% slow resistance. The unit is also muted, silenced, and disarmed. The effect breaks if the box moves more than 500 units away from its creation point.
+---
+[TAGS: Axe, Ability, Execution] | Culling Blade Damage: Enhances execution potential against low-health enemies. Stats: Damage: +{bonus_damage}
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Ring of Health HARD_COUNTERS: Its effect is purely sustain and offers no protection against high burst damage or chain disables. Heroes with high kill potential can still burst through the regeneration, and items/abilities that apply healing reduction significantly diminish its value. Stats: Health Regeneration: +4.5.
+---
+[TAGS: ITEM_DATA, SOUL_RING, SITUATIONAL_VS_MAGIC, FULL_ITEM, HEALTH_COST, RISK] | Soul Ring, Cost: 805: Situational against heroes who can punish low health or lack burst healing, as the self-damage can be fatal if used carelessly. Be cautious when facing high burst damage heroes like Lion or Lina, or heroes with percent-based damage. Stats: Health Cost: 170.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 3: Dramatically improves mana regeneration for constant spell usage. Stats: Mana Regen: 3
+---
+[TAGS: STRATEGY, Skywrath Mage, ITEM_BUILD, SITUATIONAL] | Skywrath Mage Situational: Buy BKB vs silences/stuns, Glimmer Cape vs burst, or Force Staff vs melee gap closers.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, STAT_PROFILE, FULL_ITEM, HEALTH, DAMAGE, STRENGTH, SURVIVAL] | Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.
+---
+[TAGS: STRATEGY, Axe, WEAKNESS] | Axe Weakness: Vulnerable to kiting, high magical burst, and Break mechanics that disable Counter Helix.
+---
+[TAGS: Skywrath Mage, Ability Upgrade, Slow] | Concussive Shot Slow: Enhances chase potential and lockdown after initial nuke. Stats: Slow Increase: [bonus_movement_speed_pct]%
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, SITUATIONAL_USAGE, CONSUMABLE, MOBILITY, ESCAPE, SPLIT_PUSH, DEFENSE, VS_CONTROL] | Town Portal Scroll, Cost: 100: Core tactical tool for split-pushing safely and defending structures. Use to escape dangerous situations by channeling to a safe tower. Key for maintaining map pressure and forcing enemy reactions. Remember, roots prevent the channel. Stats: CD: 80s, Mana: 75.
+
+=== GAME STATE ===
+Match Time: 03:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: anti_mage (Lvl 3) | HP: 400/650 | Mana: 200/300 | Alive: true
+Stats: K/D/A 0/1/0 | Gold: 450 | LastHits: 12
+Inventory: [item_quelling_blade (CD), item_tango x1, item_ring_of_health (CD), item_slippers (CD)]
+Abilities: [antimage_counterspell(Lvl1)[Rdy] | antimage_mana_break(Lvl1)[NoMana/Silenced] | antimage_blink(Lvl1)[Rdy]]
+User Situation Notes: Стою на сейфлейне против Axe и Skywrath Mage. Axe постоянно подкатывается через деревья, Skywrath сливает ману молниями. Мой саппорт отошёл ставить варды.
+
+=== USER QUESTION ===
+"What is the most important tactical advice for next 30 seconds?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "What is the most important tactical advice for next 30 seconds?".**
+========================================
+
+[AI RESPONSE] (10.27s)
+На следующие 30 секунд концентрируйся на использовании Blink, чтобы избежать атак Axe и атак Skywrath Mage. Если Axe пытается подойти близко, используй Blink, чтобы отступить в безопасное место, где ты сможешь восстановить маны и здоровье. Постарайся дождаться момента, когда у тебя будет достаточно маны для использования Counterspell, чтобы блокировать входящий урон от Skywrath Mage.

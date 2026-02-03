@@ -1,0 +1,43 @@
+[
+  {
+    "display_text": "Enchanted Mango, Cost: 65: Consumable item that can be instantly eaten to restore 100 mana, or held for continuous health regeneration. Provides +0.4 HP regen while held. Can be used on nearby allied heroes. Stats: Charges: 1, Mana Restore: 100, HP Regen: +0.4.",
+    "search_text": "mango, mana restore item, instant mana, consumable mana, early game mana, laning sustain, mana consumable, hp regen item, heal regeneration, Enchanted Mango",
+    "tags": [
+      "ITEM_DATA",
+      "ENCHANTED_MANGO",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "MANA",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH"
+    ]
+  },
+  {
+    "display_text": "Enchanted Mango, Cost: 65: Critical laning consumable for heroes with high-impact, high-mana-cost spells. Provides an emergency mana pool for a crucial cast, preventing enemies from assuming you are out of mana. Also supplies steady HP regen to survive harass while held.",
+    "search_text": "enchanted mango laning, early mana sustain, emergency mana, bait item, surprise spell, mana sustain item, lane harass survival, hp regen lane, Enchanted Mango",
+    "tags": [
+      "ITEM_DATA",
+      "ENCHANTED_MANGO",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "LANING",
+      "MANA",
+      "SUSTAIN",
+      "BAIT"
+    ]
+  },
+  {
+    "display_text": "Enchanted Mango, Cost: 65: Use to enable aggressive spellcasting early in lane to secure kills or lane dominance. Save for a surprise kill threat when enemy assumes you lack mana. Can be given to mid laner as shared sustain, amplifying lane pressure and team resources.",
+    "search_text": "mango aggressive laning, kill threat mango, surprise cast, share mango, mid lane mango, support mango, pressure tool, lane dominance item, Enchanted Mango",
+    "tags": [
+      "ITEM_DATA",
+      "ENCHANTED_MANGO",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "SITUATIONAL_USAGE",
+      "UTILITY",
+      "AGGRESSIVE"
+    ]
+  }
+]

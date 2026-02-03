@@ -1,0 +1,72 @@
+[
+  {
+    "display_text": "Lotus Orb, Cost: 3850: Applies a basic dispel and a protective Echo Shell to a target ally for 5 seconds. Most single-target spells cast on the shielded unit are reflected back to the original caster while the shielded unit still takes the spell damage. This makes it a powerful counter-initiation and save tool against targeted disables and debuffs. Stats: CD: 15s, Mana Cost: 175, Duration: 5s.",
+    "search_text": "dispel item, reflect spells, spell reflect, save item, counter-initiation, defensive item, purge ally, protect ally, targeted spell counter, magic damage reduction, support save item, basic dispel, lotus, Lotus Orb",
+    "tags": [
+      "ITEM_DATA",
+      "LOTUS_ORB",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DISPEL",
+      "SAVE",
+      "DEFENSIVE",
+      "VS_CONTROL",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Lotus Orb, Cost: 3850: Provides +10 Armor, +6.5 HP Regeneration, +4.0 Mana Regeneration, and +250 Mana. These stats offer significant survivability and sustain, making it suitable for frontliners or supports who need to stay in fights to cast their spells. Stats: Armor: +10, HP Regen: +6.5, Mana Regen: +4.0, Mana: +250.",
+    "search_text": "lotus orb stats, armor item, hp regen item, mana regen item, support stats, defensive stats, lotus armor, lotus regen, Lotus Orb",
+    "tags": [
+      "ITEM_DATA",
+      "LOTUS_ORB",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ARMOR",
+      "REGEN",
+      "MANA_REGEN",
+      "MANA",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Lotus Orb, Cost: 3850: Serves as a defensive save item in team fights. By applying the Echo Shell to a key ally being focused or disabled, you can punish the enemy's initiation, often forcing them to hold their spells. This creates a disruptive aura of protection that can turn the tide of an engagement.",
+    "search_text": "lotus orb team fight, defensive save, protect core, counter-initiation, save teammate, disrupt enemy, turn fight, defensive support item, Lotus Orb",
+    "tags": [
+      "ITEM_DATA",
+      "LOTUS_ORB",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "TEAMFIGHT_UTILITY",
+      "DISRUPT"
+    ]
+  },
+  {
+    "display_text": "Lotus Orb, Cost: 3850: Highly effective against heroes and items that rely on single-target disables or debuffs (e.g., Scythe of Vyse, Orchid Malevolence, Ancient Apparition Ice Blast). The basic dispel component can remove many common slows and silences before the reflection even occurs.",
+    "search_text": "vs hex, vs orchid, vs silence, vs single target spells, counter disables, counter silences, counter debuffs, defensive item vs disables, Lotus Orb",
+    "tags": [
+      "ITEM_DATA",
+      "LOTUS_ORB",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_CONTROL",
+      "DISPEL",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Lotus Orb, Cost: 3850: Synergizes with tanky initiators or durable supports who can survive to cast it mid-fight. The mana and regen stats support repeated spellcasting. It is particularly strong on heroes who want to be in the thick of the action to protect their cores.",
+    "search_text": "lotus orb synergy, initiator lotus, support lotus, tanky hero lotus, frontliner item, save support build, Lotus Orb",
+    "tags": [
+      "ITEM_DATA",
+      "LOTUS_ORB",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "INITIATOR_ITEM",
+      "TANK_ITEM"
+    ]
+  }
+]

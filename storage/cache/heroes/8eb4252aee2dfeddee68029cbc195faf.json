@@ -1,0 +1,223 @@
+[
+  {
+    "display_text": "Queen of Pain is a ranged Intelligence hero with average base stats (20 Strength, 22 Agility, 25 Intelligence). Her attack type is Ranged and she has an attack rate of 1.5. This standard baseline makes her versatile but not particularly durable or hard-hitting without items and levels.",
+    "search_text": "Queen of Pain QoP ranged attack rate 1.5 stats strength 20 agility 22 intelligence 25",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "BASE_STATS",
+      "RANGED",
+      "INTELLIGENCE"
+    ]
+  },
+  {
+    "display_text": "Facet: Succubus provides scaling Spell Lifesteal based on distance to enemies (14% at 150 range, down to 2% at 800 range). Facet: Bondage returns spell damage back to enemies, with Succubus's Spell Lifesteal also applying to the reflected damage. The Succubus facet is standard and enhances sustain during fights by rewarding aggressive, close-range positioning. The Bondage facet is a niche, defensive counter-pick against heavy spell damage compositions, turning enemy nukes against them.",
+    "search_text": "Queen of Pain Facets Succubus Spell Lifesteal 14 percent 150 range 2 percent 800 range Bondage reflects spell damage",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "FACET_STRATEGY",
+      "FACET_SUCCUBUS",
+      "FACET_BONDAGE"
+    ]
+  },
+  {
+    "display_text": "In lane, use Shadow Strike (Q) at level 1 or 2 to harass. It deals 50/80/110/140 initial damage and slows the enemy by 25/35/45/55% for 16 seconds, with damage over time. This enables strong kill threat and forces enemy regen usage. Your high base Agility (22) gives decent right-click armor. Prioritize securing ranged creeps with Scream of Pain (W) and use Blink (E) defensively to avoid ganks. Deny allies who are below 25% HP and afflicted by your Shadow Strike.",
+    "search_text": "Queen of Pain laning Shadow Strike Q harass 50 80 110 140 damage slow 25 35 45 55 percent duration 16 seconds Scream of Pain W farm Blink E escape",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "LANING_PHASE",
+      "HARASS",
+      "LANE_DOMINANCE"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 with Sonic Wave (325 damage). Level 7 with maxed Scream of Pain (300 damage). Level 12 with level 2 ultimate (475 damage). Level 15 talent (+7 Strength or +30 Damage). Level 18 with level 3 ultimate (625 damage). Level 20 talent (+100 Scream of Pain Damage or -45s Sonic Wave Cooldown). Level 25 talent (-2s Blink Cooldown or +250 Sonic Wave Damage). Key item spikes are Orchid Malevolence for solo kill potential and Aghanim's Scepter for double Scream.",
+    "search_text": "Queen of Pain power spikes level 6 Sonic Wave 325 damage level 7 Scream of Pain 300 damage level 12 ultimate 475 level 15 talent 18 ultimate 625 level 20 talent level 25 talent Orchid Malevolence Aghanim's Scepter",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_18",
+      "ITEM_TIMING"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: Heroes with instant silences or hexes (Skywrath Mage, Shadow Shaman) prevent Blink escapes. High magic resistance or spell immunity (Lifestealer, Huskar) reduce your primary damage output. Break (Silver Edge, Hoodwink) disables the Succubus Spell Lifesteal passive. Heroes with high burst physical damage (Clinkz, Templar Assassin) can kill you before you can react with Blink.",
+    "search_text": "Queen of Pain counters silence hex Skywrath Mage Shadow Shaman magic resistance Lifestealer Huskar Break Silver Edge Hoodwink passive burst physical damage Clinkz TA",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "HARD_COUNTERS",
+      "SILENCE",
+      "BREAK",
+      "MAGIC_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "Core Build: 1. Power Treads or Arcane Boots for mana and survivability. 2. Orchid Malevolence is essential for solo kill potential, providing attack speed, damage, and silence. 3. Aghanim's Scepter is a massive damage spike, allowing Scream of Pain to hit twice. Following these, items like Scythe of Vyse, Shiva's Guard, or Black King Bar are situationally critical.",
+    "search_text": "Queen of Pain core items Power Treads Arcane Boots Orchid Malevolence silence attack speed Aghanim's Scepter double Scream of Pain",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "CORE_BUILD",
+      "ORCHID",
+      "AGHANIMS_SCEPTER"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Queen of Pain is a mobile magical burst damage dealer and flanker. Your job is to Blink into optimal position, often from the side or back, to unleash Sonic Wave and Scream of Pain on multiple key targets. Use Blink to reposition constantly, staying at the edge of the fight to maximize damage output and survivability. You can initiate with Sonic Wave to break formations or clean up fights with your low-cooldown nukes.",
+    "search_text": "Queen of Pain teamfight mobile burst damage Blink flank Sonic Wave Scream of Pain reposition clean up",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "TEAMFIGHT_ROLE",
+      "BURST_DAMAGE",
+      "MOBILE",
+      "FLANKER"
+    ]
+  },
+  {
+    "display_text": "Ability: Shadow Strike (Q). Hurls a poisoned dagger dealing 50/80/110/140 initial damage, then deals 20/40/60/80 damage over time. Slows the target's movement speed by 25/35/45/55% for 16 seconds. Damage is dealt every 3.0 seconds. Does NOT pierce BKB. The slow gradually reduces over the duration. Allies can deny a Shadow Striked unit below 25% max HP.",
+    "search_text": "Shadow Strike Q Poison Dagger 50 80 110 140 damage 20 40 60 80 damage over time slow 25 35 45 55 percent duration 16 seconds damage interval 3.0 denies ally 25 percent HP",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "ABILITY_DATA",
+      "SHADOW_STRIKE",
+      "SLOW",
+      "DAMAGE_OVER_TIME"
+    ]
+  },
+  {
+    "display_text": "Ability: Blink (E). Short distance teleport. Cooldown is 12.0/10.0/8.0/6.0 seconds. Minimum blink range is 200 units. Can be used to dodge projectiles. Does NOT pierce BKB.",
+    "search_text": "Blink E teleport mobility cooldown 12 10 8 6 seconds min range 200 dodge projectile",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "ABILITY_DATA",
+      "BLINK",
+      "MOBILITY",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Ability: Scream Of Pain (W). Releases a piercing scream dealing 75/150/225/300 magical damage to all enemies in a 600 radius around Queen of Pain. Projectile speed is 900. Hits invisible units and cannot be disjointed. Does NOT pierce BKB.",
+    "search_text": "Scream Of Pain W Scream AOE 600 radius damage 75 150 225 300 magical hits invisible cannot be disjointed projectile speed 900",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "ABILITY_DATA",
+      "SCREAM_OF_PAIN",
+      "AOE",
+      "MAGICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Ability: Succubus (Passive). Provides Spell Lifesteal from all damage, including Pure damage. Lifesteal amount scales from 14% at 150 range to 2% at 800 range from the enemy. Does NOT pierce BKB.",
+    "search_text": "Succubus Passive Spell Lifesteal Pure damage scaling 14 percent 150 range 2 percent 800 range",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "ABILITY_DATA",
+      "SUCCUBUS",
+      "PASSIVE",
+      "SPELL_LIFESTEAL",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Ability: Sonic Wave (R). Ultimate. Releases a wave dealing 325/475/625 magical damage and knocking enemies back 350 units over 1.4 seconds. The wave travels 900 distance at 900 speed, starting at 100 radius and expanding to a 450 radius at the end. Cooldown is 110/95/80 seconds. Does NOT pierce BKB.",
+    "search_text": "Sonic Wave R Ultimate wave 325 475 625 damage knockback 350 distance 1.4 duration travel 900 distance speed 900 radius 100 to 450 cooldown 110 95 80",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "ABILITY_DATA",
+      "SONIC_WAVE",
+      "ULTIMATE",
+      "AOE",
+      "KNOCKBACK",
+      "MAGICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Armor/Low Magic Resistance Cores. Your magical burst (Scream of Pain, Sonic Wave) is extremely effective. Prioritize maxing Scream of Pain and build Aghanim's Scepter quickly to double your AOE output. Kaya-based items are strong. Avoid building physical damage unless you have the +30 Damage talent.",
+    "search_text": "Queen of Pain vs high armor low magic resistance magical burst Scream of Pain Sonic Wave Aghanim's Scepter Kaya",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. If you are underfarmed and dying, avoid initiating. Use Blink defensively to escape ganks. Build survivability items like BKB, Eul's Scepter, or Ghost Scepter. Focus on clearing waves safely with Scream of Pain and stacking neutral camps to catch up. Your talents like +7 Strength at level 15 can help with survival.",
+    "search_text": "Queen of Pain playing from behind defensive Blink survivability BKB Eul's Ghost Scepter farm waves camps",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Multiple Blink-Dagger Carriers. Your Sonic Wave is a perfect counter-initiation tool to disrupt their engagement. Hold your ultimate until after they blink in. Consider Aether Lens to cast Sonic Wave from a safer distance. Itemize for control like Scythe of Vyse to lock down key targets after your wave.",
+    "search_text": "Queen of Pain vs Blink Dagger carriers counter-initiation Sonic Wave hold ultimate Aether Lens Scythe of Vyse control",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "SITUATIONAL",
+      "VS_BLINK",
+      "COUNTER_INITIATE"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Strong Single-Target Disabler on Your Team. Pair Shadow Strike with an ally's stun for guaranteed damage and slow duration. Build Orchid Malevolence to extend the disable chain and secure kills. Your role shifts to following up on your ally's initiation with full burst combo.",
+    "search_text": "Queen of Pain with single target disabler ally Shadow Strike combo Orchid Malevolence follow up burst",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "SITUATIONAL",
+      "WITH_DISABLE",
+      "COMBO"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Split-Push and Apply Map Pressure. Max Blink second for lower cooldown (6s). Use Scream of Pain to quickly clear waves, then Blink to the next lane or jungle. Carry a TP scroll to join fights. Talents like -2s Blink Cooldown at 25 greatly enhance this playstyle.",
+    "search_text": "Queen of Pain split push map pressure Blink 6s cooldown Scream of Pain clear wave talent -2s Blink Cooldown 25",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "SITUATIONAL",
+      "SPLIT_PUSH",
+      "MAP_PRESSURE"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left choice grants +35 Attack Speed against units affected by Shadow Strike. Right choice grants +7 Strength. Choose Attack Speed if you are focusing on right-click damage and have a good lane, as it synergizes with Shadow Strike's long slow. Choose Strength for survivability and to mitigate early game burst.",
+    "search_text": "Queen of Pain Talent Level 10 left +35 Attack Speed Shadow Strike right +7 Strength survivability",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left choice is -1s Shadow Strike Damage Interval, increasing its damage per second. Right choice is +30 Damage. The -1s Interval is a significant damage increase for Shadow Strike, making it a stronger harass and kill tool. The +30 Damage is a reliable boost to right-click damage, better if you are building physical items or need to push towers.",
+    "search_text": "Queen of Pain Talent Level 15 left -1s Shadow Strike interval right +30 Damage right-click physical",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left choice grants +100 Scream of Pain Damage. Right choice reduces Sonic Wave Cooldown by 45 seconds. +100 Scream Damage is a massive increase to your primary farming and fighting spell, especially with Aghanim's Scepter. The Cooldown reduction on Sonic Wave is for when your ultimate is critical for every fight and you need it up more often.",
+    "search_text": "Queen of Pain Talent Level 20 left +100 Scream of Pain Damage right -45s Sonic Wave Cooldown Aghanim's Scepter",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left choice reduces Blink Cooldown by 2 seconds (to 4s at max level). Right choice increases Sonic Wave Damage by 250. The Blink Cooldown talent is for extreme mobility, split-pushing, and elusive playstyles. The +250 Sonic Wave Damage is for maximizing burst in teamfights, often decisive against tanky heroes.",
+    "search_text": "Queen of Pain Talent Level 25 left -2s Blink Cooldown 4s right +250 Sonic Wave Damage burst mobility",
+    "tags": [
+      "QUEEN_OF_PAIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

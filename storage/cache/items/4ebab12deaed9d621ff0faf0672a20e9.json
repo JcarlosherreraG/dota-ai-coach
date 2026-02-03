@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Greater Mango, Cost: 0: Non-shop neutral item providing an instant mana restoration effect on use. Instantly restores 100 mana to the user with no cast time and no target required. Its primary tactical value lies in providing immediate mana for a key spell during a crucial moment without telegraphing the action through a channeling animation.",
+    "search_text": "instant mana item, mana restore, instant cast mana, burst mana, neutral mana, mana consumable, instant active, Greater Mango, free pathing, no target instant",
+    "tags": [
+      "ITEM_DATA",
+      "GREATER_MANGO",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "MANA",
+      "INSTANT_CAST",
+      "SUSTAIN",
+      "UTILITY"
+    ]
+  }
+]

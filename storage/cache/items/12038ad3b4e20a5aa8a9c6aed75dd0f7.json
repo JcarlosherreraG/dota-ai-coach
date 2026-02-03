@@ -1,0 +1,79 @@
+[
+  {
+    "display_text": "Mage Slayer, Cost: 2800: Places a debuff on attacked enemies, dealing 20 magical damage per second and reducing their spell damage by 40% for 3 seconds. This provides sustained magic damage and an anti-caster effect, making it a powerful counter-pick tool in fights. Stats: CD: N/A (passive), Spell Damage Debuff: 40%, Debuff Duration: 3s, DPS: 20.",
+    "search_text": "mage slayer item, anti-caster item, spell damage reduction, magic resistance item, caster counter, spell amp debuff, anti-magic item, reduce spell damage, attack modifier debuff, magic DPS item, right-click debuff, Mage Slayer",
+    "tags": [
+      "ITEM_DATA",
+      "MAGE_SLAYER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DEBUFF",
+      "MAGICAL_DAMAGE",
+      "VS_MAGIC",
+      "VS_CASTERS",
+      "ANTI_MAGE",
+      "DOT"
+    ]
+  },
+  {
+    "display_text": "Mage Slayer, Cost: 2800: Provides balanced stats focused on survivability and mana sustain against magical damage: +20% magic resistance, +8 damage, +30 attack speed, +5 health regen, and +2 mana regen. This profile makes the wielder tankier against spells while enhancing their right-click potential. Stats: MR: +20%, Damage: +8, AS: +30, HP Regen: +5, Mana Regen: +2.",
+    "search_text": "mage slayer stats, magic resistance stats, attack speed item, mana regen item, health regen item, hybrid stats item, survivability item, sustain item, Mage Slayer",
+    "tags": [
+      "ITEM_DATA",
+      "MAGE_SLAYER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "MAGIC_RESISTANCE",
+      "ATTACK_SPEED",
+      "DAMAGE",
+      "HEALTH_REGEN",
+      "MANA_REGEN",
+      "SUSTAIN",
+      "HYBRID"
+    ]
+  },
+  {
+    "display_text": "Mage Slayer, Cost: 2800: Acts as a teamfight debuff aura, applying a significant spell damage reduction on primary targets to protect your team. By reducing enemy spell output by 40%, it directly counters magic-heavy lineups and AoE casters. The damage-over-time effect provides additional zoning pressure. Stats: Spell Debuff: 40%, Team Utility: High.",
+    "search_text": "mage slayer teamfight, anti-mage teamfight, team debuff, aura debuff, protect team from magic, magic damage reduction teamfight, counter AoE spells, team magic defense, Mage Slayer",
+    "tags": [
+      "ITEM_DATA",
+      "MAGE_SLAYER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEBUFF",
+      "TEAM_UTILITY",
+      "VS_MAGIC",
+      "PROTECTION",
+      "AURA_EFFECT"
+    ]
+  },
+  {
+    "display_text": "Mage Slayer, Cost: 2800: A core situational pickup against teams with high magic damage output, such as spell-based nukers, intelligence cores, and AoE ability users. The 40% spell damage reduction debuff severely cripples their primary damage source. Prioritize this when enemy teamfight revolves around magical burst. Stats: Counter: Magic Nukers, Intelligence Cores.",
+    "search_text": "mage slayer situational, vs magic damage, vs casters, vs intelligence heroes, vs nukers, counter magic lineup, anti-spell item, situational magic defense, Mage Slayer",
+    "tags": [
+      "ITEM_DATA",
+      "MAGE_SLAYER",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "VS_MAGIC",
+      "VS_CASTERS",
+      "SITUATIONAL",
+      "COUNTER_PICK"
+    ]
+  },
+  {
+    "display_text": "Mage Slayer, Cost: 2800: Synergizes well with high-attack-speed heroes who can apply the debuff consistently to multiple targets, and with heroes who already build into its components (Orb of Venom, Cornucopia). It's a natural fit for agility carries or tempo cores facing magical threats. The buildup is smooth through early-game components.",
+    "search_text": "mage slayer synergy, attack speed synergy, orb of venom upgrade, cornucopia upgrade, agility carry item, tempo core item, debuff applier, on-hit effect, Mage Slayer",
+    "tags": [
+      "ITEM_DATA",
+      "MAGE_SLAYER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "ATTACK_SPEED",
+      "AGILITY",
+      "ON_HIT",
+      "UPGRADE",
+      "CARRY_ITEM"
+    ]
+  }
+]

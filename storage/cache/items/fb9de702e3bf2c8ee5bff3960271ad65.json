@@ -1,0 +1,75 @@
+[
+  {
+    "display_text": "Hermes Sandals, Cost: 4800: Active ability grants +20 movement speed for 4 seconds, extended to 10 seconds if cast while slowed. A powerful mid-to-late-game mobility item that provides additional movement speed, agility, damage, and a small armor bonus. Primarily used by carry and mobility-reliant heroes to increase chase, escape, and positioning capabilities. Stats: CD: 10s, Bonus MS: 50, Melee Damage: +20, Range Damage: +20, Phase MS: +20/+10, Duration: 4s, Armor: +5, Agility: +30.",
+    "search_text": "phase movement item, chase item, mobility boots upgrade, agility boots, attack speed boots, movement speed upgrade, mobility carry item, Hermes Sandals, Hermes, phase boots upgrade, repositioning, chase speed, escape tool, positioning tool, late game mobility",
+    "tags": [
+      "ITEM_DATA",
+      "HERMES_SANDALS",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "UPGRADE",
+      "MOBILITY",
+      "POSITIONING",
+      "ESCAPE",
+      "CHASE",
+      "AGILITY",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Hermes Sandals, Cost: 4800: Stat Profile: Provides a substantial +50 flat movement speed, +30 agility, +20 attack damage to all units (melee/ranged), and +5 armor. The agility boost increases armor and attack speed significantly. This combined stat package enhances a hero's physical DPS, survivability, and overall mobility.",
+    "search_text": "Hermes Sandals stats, phase boots stats, agility boots stats, movement speed stats, damage stats, agility item stats, armor item stats, physical damage boost, carry stat item, Hermes Sandals",
+    "tags": [
+      "ITEM_DATA",
+      "HERMES_SANDALS",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "AGILITY",
+      "DAMAGE",
+      "ARMOR",
+      "MOVEMENT_SPEED",
+      "ATTACK_SPEED",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Hermes Sandals, Cost: 4800: A high-mobility late-game item for heroes who rely on positioning and continuous attack damage. The active phase movement speed boost, especially when extended by slows, allows for superior chasing power and kiting ability, making it crucial for carries to stick to targets and for mobile heroes to reposition in fights.",
+    "search_text": "Hermes Sandals team fight role, late game chase, positioning item, kiting item, DPS positioning, chase role, team fight mobility, carry positioning, Hermes Sandals",
+    "tags": [
+      "ITEM_DATA",
+      "HERMES_SANDALS",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "MOBILITY",
+      "CHASE",
+      "POSITIONING",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Hermes Sandals, Cost: 4800: SITUATIONAL_VS_SLOWS: The active ability's extended duration when cast while slowed makes this item an excellent counter to slow-heavy lineups. Heroes facing frequent movement speed reductions can maintain high mobility, effectively negating the enemy team's control and kiting attempts.",
+    "search_text": "Hermes Sandals counter slow, anti slow item, movement speed counter, slow resistance item, chase vs slow, slow counter, Hermes Sandals",
+    "tags": [
+      "ITEM_DATA",
+      "HERMES_SANDALS",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_CONTROL",
+      "SLOW_RESISTANCE",
+      "MOBILITY",
+      "VS_SLOWS"
+    ]
+  },
+  {
+    "display_text": "Hermes Sandals, Cost: 4800: SYNERGY_BUILD: Synergizes powerfully with heroes who benefit greatly from high agility, attack speed, and mobility to maximize their damage output. Ideal for agility carries, illusion-based heroes, and heroes who already build Phase Boots, providing a significant late-game upgrade to their core mobility and damage stats.",
+    "search_text": "Hermes Sandals synergy, agility carry item, illusion hero item, Phantom Lancer item, Troll Warlord item, Juggernaut item, carry upgrade item, Hermes Sandals",
+    "tags": [
+      "ITEM_DATA",
+      "HERMES_SANDALS",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "AGILITY",
+      "ILLUSIONS"
+    ]
+  }
+]

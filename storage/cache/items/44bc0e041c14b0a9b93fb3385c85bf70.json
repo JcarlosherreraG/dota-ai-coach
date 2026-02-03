@@ -1,0 +1,64 @@
+[
+  {
+    "display_text": "Gloves of Haste, Cost: 450: Provides +20 attack speed. A basic component for items requiring faster attack speed like Hand of Midas and Power Treads. Offers efficient early-game value for heroes looking to accelerate their right-click damage output or farm speed.",
+    "search_text": "attack speed item, basic attack speed, component item, cheap attack speed, early game attack speed, farm acceleration, dps component, carry early item, agility, right click, gloves, Gloves of Haste",
+    "tags": [
+      "ITEM_DATA",
+      "GLOVES_OF_HASTE",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "ATTACK_SPEED",
+      "COMPONENT",
+      "UTILITY",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Gloves of Haste, Cost: 450: +20 Attack Speed. No other attribute bonuses or active abilities. A pure attack speed item focused on increasing a hero's rate of physical attacks.",
+    "search_text": "gloves stats, attack speed stats, +20 attack speed, basic component stats, pure attack speed, Gloves of Haste",
+    "tags": [
+      "ITEM_DATA",
+      "GLOVES_OF_HASTE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Gloves of Haste, Cost: 450: Contributes to DPS (Damage Per Second) by increasing attack frequency. Effective for heroes who rely on right-click damage or have attack modifiers that scale with attack speed.",
+    "search_text": "dps increase, attack speed dps, right click damage, carry item, farm faster, attack modifier synergy, physical damage output, Gloves of Haste",
+    "tags": [
+      "ITEM_DATA",
+      "GLOVES_OF_HASTE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DAMAGE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Gloves of Haste, Cost: 450: Synergizes with heroes who benefit from high attack speed or have on-hit effects (e.g., bashes, critical strikes). Core building block for Hand of Midas and is a typical early component for Power Treads on agility or strength heroes.",
+    "search_text": "hand of midas component, power treads component, on-hit item, bash synergy, crit synergy, early game item, attack speed build, carry component, Gloves of Haste",
+    "tags": [
+      "ITEM_DATA",
+      "GLOVES_OF_HASTE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "COMPONENT",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Gloves of Haste, Cost: 450: Provides a baseline farm acceleration by increasing attack speed, making jungle and lane farming slightly faster for physical damage heroes. Most impactful as an early purchase on heroes rushing Hand of Midas.",
+    "search_text": "farming item, farm acceleration, jungle speed, lane farm speed, hand of midas rush, early farm item, gold efficiency, Gloves of Haste",
+    "tags": [
+      "ITEM_DATA",
+      "GLOVES_OF_HASTE",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "FARMING",
+      "CARRY_ITEM"
+    ]
+  }
+]

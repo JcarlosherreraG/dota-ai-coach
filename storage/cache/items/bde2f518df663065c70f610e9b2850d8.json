@@ -1,0 +1,77 @@
+[
+  {
+    "display_text": "Wraith Pact, Cost: 3800: Summons an immobile totem that pulses damage to enemies and provides allies with an aura of increased health, mana, armor, mana regeneration, damage, and lifesteal. The totem has a smaller aura that reduces enemy damage and applies a damage-over-time effect. Destroying the totem removes its auras and deals heavy area damage. Stats: CD: 60s, Mana: 100, Totem HP: 250, Totem Mana: 250, Damage Aura Radius: 1200, Pact Aura Radius: 900.",
+    "search_text": "aura item, team fight item, team buff, totem item, lifesteal aura, damage aura, armor aura, mana regen aura, health aura, magic damage, damage penalty, damage reduction, Wraith Pact, WP",
+    "tags": [
+      "ITEM_DATA",
+      "WRAITH_PACT",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "AURA",
+      "BUFF",
+      "DEBUFF",
+      "TEAMFIGHT_ROLE",
+      "MAGICAL_DAMAGE",
+      "AOE_DAMAGE",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Wraith Pact, Cost: 3800: Provides a significant attribute profile for the summoned totem: 250 bonus health and 250 bonus mana. The totem's active auras grant allies +18 damage, +3 armor, +2 mana regeneration, and 24% lifesteal while reducing enemy damage by 30 and dealing 45 magic damage per second in a smaller area.",
+    "search_text": "totem stats, aura stats, bonus health, bonus mana, lifesteal aura value, damage aura value, mana regen aura, armor aura, aura values, stats breakdown, Wraith Pact",
+    "tags": [
+      "ITEM_DATA",
+      "WRAITH_PACT",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "HEALTH",
+      "MANA",
+      "DAMAGE",
+      "ARMOR",
+      "MANA_REGEN",
+      "LIFESTEAL"
+    ]
+  },
+  {
+    "display_text": "Wraith Pact, Cost: 3800: A teamfight-focused aura item that strengthens your entire team while weakening enemies caught near its totem. The combination of damage, armor, and lifesteal auras buffs your front line and carries significantly, while the enemy damage reduction aura and damage-over-time effect disrupts the opposing team's positioning and damage output in a zone control fight.",
+    "search_text": "team fight role, aura team fight, team buff, group fight, zone control, area denial, buff front line, empower carry, damage penalty, disrupt enemy, Wraith Pact",
+    "tags": [
+      "ITEM_DATA",
+      "WRAITH_PACT",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "AURA",
+      "BUFF",
+      "DEBUFF",
+      "ZONE_CONTROL",
+      "AREA_DENIAL"
+    ]
+  },
+  {
+    "display_text": "Wraith Pact, Cost: 3800: Counter-item against physical damage-heavy lineups due to its armor aura and enemy damage reduction. The creep lifesteal reduction is particularly effective against summons and illusion heroes who rely on lifesteal for sustain. Excellent for deathball strategies where teams fight grouped together to maximize aura value.",
+    "search_text": "counter physical damage, aura vs physical, armor aura counter, damage reduction aura, lifesteal reduction, counter illusions, counter summons, vs summons, vs illusions, deathball item, grouped push, Wraith Pact",
+    "tags": [
+      "ITEM_DATA",
+      "WRAITH_PACT",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_PHYSICAL",
+      "VS_ILLUSIONS",
+      "VS_SUMMONS",
+      "PUSH_ITEM",
+      "DEATHBALL"
+    ]
+  },
+  {
+    "display_text": "Wraith Pact, Cost: 3800: Strong synergy for aura-heavy or grouped team compositions (like Underlord, Beastmaster). The mana regeneration aura supports spell-casting allies, while the lifesteal and damage auras scale with heroes who build high attack speed. The long cooldown requires strategic placement during key engagements or objective pushes.",
+    "search_text": "synergy aura heroes, aura underlord, aura beastmaster, aura team comp, mana regen support, lifesteal synergy, attack speed synergy, grouped team, team composition, strategic placement, objective push, Wraith Pact",
+    "tags": [
+      "ITEM_DATA",
+      "WRAITH_PACT",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "AURA",
+      "TEAM_COMP"
+    ]
+  }
+]

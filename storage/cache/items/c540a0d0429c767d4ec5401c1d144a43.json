@@ -1,0 +1,76 @@
+[
+  {
+    "display_text": "Orb of Corrosion, Cost: 1050: An early to mid-game aggressive utility item that causes your attacks to apply three debuffs on enemies: reduces armor by 2, slows movement speed (16% for ranged, 8% for melee), and reduces Health Restoration by 16%. The debuffs last for 3 seconds. This makes it effective for securing kills on slippery or regenerating heroes during early skirmishes. The armor reduction effect does not stack with Desolator, Stygian Desolator, or its own components (Orb of Frost, Blight Stone). Stats: Duration: 3s, Armor Reduction: -2, Slow (Ranged): -16%, Slow (Melee): -8%, Healing Reduction: 16%.",
+    "search_text": "orb of corrosion, orb corrosion, armor reduction item, slow attack item, healing reduction item, anti heal item, early game aggression, lane dominance, slows enemy, reduces regen, physical damage amplifier, harass item, core early game, orb effect, OoC, Corrosion, early kill secure, right click debuff, carries, Orb of Corrosion",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_CORROSION",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DEBUFF",
+      "SLOW",
+      "ARMOR_REDUCTION",
+      "HEAL_REDUCTION",
+      "VS_HEALERS",
+      "UTILITY",
+      "AGGRESSION",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Orb of Corrosion, Cost: 1050: Provides +7 Agility, boosting attack speed and armor. This stat profile supports heroes who want to attack frequently to maintain the corrosive debuff on enemies.",
+    "search_text": "orb of corrosion stats, agility item, attack speed item, orb of corrosion agility, early stats, Orb of Corrosion",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_CORROSION",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "AGILITY",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Orb of Corrosion, Cost: 1050: Functions as a fight-winning aura for your right-clicks. In teamfights, the applied slow makes it easier for your team to focus targets, while the armor reduction amplifies all physical damage from allies. The healing reduction specifically counters heroes reliant on sustain or high regeneration during brawls.",
+    "search_text": "orb of corrosion team fight, team fight item, slow aura, armor reduction aura, team physical damage, focus target, counter regeneration, anti heal fight, Orb of Corrosion",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_CORROSION",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEBUFF",
+      "SLOW",
+      "ARMOR_REDUCTION",
+      "HEAL_REDUCTION",
+      "UTILITY",
+      "VS_HEALERS"
+    ]
+  },
+  {
+    "display_text": "Orb of Corrosion, Cost: 1050: Situational pick against heroes who rely on mobility or healing. The slow and healing reduction are effective against slippery heroes like Queen of Pain or Bristleback, and against high-regen heroes like Alchemist, Huskar, or Death Prophet. It helps your team stick to and burst down these targets.",
+    "search_text": "orb of corrosion counter, counter mobility, counter healing, slow counters, heal reduction counter, vs regen, vs healers, vs slippery heroes, Orb of Corrosion",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_CORROSION",
+      "SITUATIONAL_VS_HEALERS",
+      "FULL_ITEM",
+      "VS_HEALERS",
+      "HEAL_REDUCTION",
+      "ANTI_HEAL",
+      "SLOW",
+      "VS_MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Orb of Corrosion, Cost: 1050: Synergizes well with heroes who have high attack speed or chase potential. Built from Orb of Frost, Blight Stone, and Boots of Elves, it is a natural early-game upgrade for ranged agility heroes (like Drow Ranger or Viper) and melee agility carries (like Phantom Assassin) who can leverage the slows and armor reduction to secure kills.",
+    "search_text": "orb of corrosion build, orb of corrosion heroes, agility carries, ranged carries, early aggression build, high attack speed synergy, chase potential, kill secure item, Orb of Corrosion",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_CORROSION",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "CARRY_ITEM",
+      "AGGRESSION"
+    ]
+  }
+]

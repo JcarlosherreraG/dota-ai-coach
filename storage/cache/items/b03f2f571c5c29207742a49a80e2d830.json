@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Helm of the Undying, Cost: 0: Non-purchasable item that grants 6 seconds of Death Delay upon receiving a fatal blow. While in Death Delay, the hero cannot die, cannot attack buildings, and will fully survive if any enemy hero dies within 1200 units, extending the effect by 5 seconds. Provides a final window to secure a kill and survive. Stats: Duration: 6s, Kill Extension: 5s, Radius: 1200.",
+    "search_text": "undying, death delay, survive kill, fatal blow survival, near death survival, last chance, hero kill save, death prevention, cheat death, extra life, second chance, Helm of the Undying, helm undying, death save, suicide item, survive lethal damage",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_UNDYING",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "SAVE",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,279 @@
+FILE: roshan_timing.json
+QUESTION: Стоит ли нам идти на Рошана сейчас или лучше подождать?
+GENERATION TIME: 2.25s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, AGHANIMS_BLESSING_ROSHAN, CORE_DESCRIPTION, NON_PURCHASABLE, UPGRADE, ROSHAN_DROP] | Aghanim's Blessing - Roshan, Cost: 5800: Non-purchasable drop from Roshan that upgrades the ultimate, and some abilities, of all heroes. It is a permanent statless upgrade. Provides no stats. Stats: Cost: 5800.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Force Staff Recipe TEAMFIGHT_ROLE: As a recipe, it has no direct role in teamfights. Its purpose is to enable the Force Staff, which provides repositioning and escape utility for team engagements. Stats: Cost: 950 gold.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE] | Recipe: Disperser TEAMFIGHT_ROLE: The recipe itself provides no utility in a teamfight. Its only function is to enable the assembly of the Disperser, which then contributes strong dispel and mobility for fights. Stats: Cost: 800 gold.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: ITEM_DATA, OGRE_SEAL_TOTEM, CORE_DESCRIPTION, NEUTRAL, NON_PURCHASABLE, MOBILITY, INITIATION, AOE_DAMAGE, MAGICAL_DAMAGE, SLOW, CATCH] | Ogre Seal Totem, Tier N / Non-Purchasable: Activate to flop forward up to 400 units twice, dealing 250 magical damage and applying a 100% slow to enemies in a 275 radius for 1.5 seconds on each impact. Provides mobile initiation and chase with two burst damage and control instances. Stats: CD: 40s, Mana Cost: 25, Bounces: 2, Leap Speed: 800, Radius: 275, Slow Duration: 1.5s.
+---
+[TAGS: ITEM_DATA, AGHANIMS_SHARD, FULL_ITEM, SYNERGY_BUILD, UPGRADE, POWER_SPIKE] | Aghanim's Shard, Cost: 1400: Core item for any hero whose Shard upgrade significantly alters their power curve or role, providing a new essential tool. Synergy is entirely hero-dependent, often rounding out a hero's weaknesses or amplifying their strengths with the new ability. Critical timing purchase when the hero upgrade becomes tactically relevant.
+---
+[TAGS: RUBICK, ABILITY_DATA, Q, DISABLE, STUN] | Telekinesis (Q) lifts an enemy for 0.95/1.2/1.45/1.7 seconds, then hurls them to a target location up to 375 units away. The landing stuns enemies in a 300/325/350/375 radius for 0.9/1.1/1.3/1.5 seconds. The cooldown is 23/20/17/14 seconds. While the target is in the air, Rubick can use Telekinesis Land to choose the throw direction. The primary target is not stunned by the landing.
+---
+[TAGS: ITEM_DATA, POCKET_ROSHAN, EARLY_GAME_USAGE, CONSUMABLE, VISION, SCOUTING, UTILITY, SAFETY] | Pocket Roshan, Cost: 1000: Primarily a strategic vision and utility tool for the mid-to-late game. Use the Baby Roshan to provide vision without risking your hero, deward high ground, or scout Roshan pit. It can also absorb single-target spells in a pinch. Stats: Duration: 60s.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, ROSHAN_DROP, SYNERGIES] | Aghanim's Blessing - Roshan CORE_BUILD: No build path. This is a consumable dropped by Roshan. Synergy: Given to the hero whose ability upgrade has the highest immediate impact on the game state. Stats: Source: Roshan.
+---
+[TAGS: Ability, Control] | God's Rebuke Slow Duration Increase: Prolongs the slow effect of God's Rebuke, providing better control over enemy movement. Stats: Slow Duration: {bonus_knockback_slow_duration}s
+---
+[TAGS: ITEM_DATA, FULL_ITEM, TEAM_BUFF, TEAMFIGHT, PUSH] | A teamfight-enabling utility item. The active ability should be used at the start of a major engagement or objective push to maximize the value of the +15 all stats buff across your team. The large 450 AoE makes it effective for grouped teamfights and high-ground sieges. The bonus cast range allows the user to safely apply the buff from the edge of a fight.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, SUSTAIN, LATEGAME] | Block of Cheese TEAMFIGHT_ROLE: Enables a hero to re-enter a fight after taking significant damage, acting as a pseudo-lifeline. The 500 shield and rapid healing can turn a fight when used at low health.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, INITIATION, CATCH, LOCKDOWN, INTERRUPT] | Warhammer (FULL_ITEM) (Cost: 0): Functions as a targeted disable and burst damage tool. The stun interrupts channeling spells and provides a window for follow-up attacks or abilities. It's effective for focusing key targets or securing kills on mobile enemies.
+---
+[TAGS: ITEM_DATA, HEADDDRESS, SYNERGY_BUILD, FULL_ITEM, AURA, SUPPORT_ITEM, UTILITY, UPGRADE_COMPONENT] | Headdress, Cost: 425: Synergy build: Cost-effective early game aura for heroes looking to upgrade into Mekansm or build for pushes. Ideal for supports or initiators who stay near their team. Provides value before Mekansm is assembled.
+---
+[TAGS: ITEM_DATA, BOOK_OF_SHADOWS, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, SAVE, DEFENSIVE, DISPEL, ESCAPE, NIGHT_VISION, SILENCE, MUTE, DISARM, SELF_DISABLE] | Book of Shadows, Cost: 0: Tier 3 Neutral item. Grants Night Vision (400). Its active, Shadows, targets an enemy, ally, or self, making them untargetable to enemies for 4 seconds, but also silences, mutes, and disarms them. Applies a Basic Dispel on cast. Stats: CD: 8s, Duration: 4s, Night Vision: 400.
+---
+[TAGS: Roshan, Ability, Mobility, Slow Resistance] | Roshan Inherent Buffs: Enhances Roshan's mobility and resistance to slows, making it harder to kite or disrupt. Stats: Move Pits Bonus Speed Per Interrupt: 70, Move Pits Max Bonus Speed: 300, Move Pits Slow Resistance: 25
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: ITEM_DATA, AGHANIMS_SHARD_ROSHAN, CORE_MECHANICS, FULL_ITEM, UPGRADE, UTILITY, ABILITY_UPGRADE] | Aghanim's Shard - Consumable, Cost: 1400: Upgrades an existing ability or adds a new ability to your hero. This consumable item is permanently applied to your hero, providing a shard upgrade. The effect is hero-specific, enhancing ultimate abilities or adding new mechanics. Stats: Cost: 1400.
+---
+[TAGS: AGHS_STRATEGY, Visage, COUNTER_MECHANIC, AGHANIM] | Visage Aghanim's Shard: Gravekeeper's Cloak — Grants a strong self-sustain ability, countering burst damage and poke-heavy lineups. This transforms Visage into a more durable frontliner or split-pusher, reducing reliance on external healing sources.
+---
+[TAGS: DROW_RANGER, SITUATIONAL, HIGH_ARMOR, EVASION] | Scenario: Playing Against High Armor / Evasion. Build items like Monkey King Bar for true strike and armor pierce. Your Marksmanship already provides true strike and armor ignore on procs, but MKB ensures consistency. Consider a Daedalus for critical burst to overcome high armor through raw damage.
+---
+[TAGS: MAGNUS, ABILITY_DATA, REVERSE_POLARITY, R, ULTIMATE, STUN, AOE, INITIATION] | REVERSE POLARITY (R): Magnus pulls all enemies within a 430 radius in front of him, then slams them, dealing 100/200/300 magical damage and stunning them for 2.5/3.0/3.5 seconds. Cooldown is 115 seconds. Does NOT pierce BKB. The Facet 'Reverse Reverse Polarity' pushes enemies away instead of pulling them in. The level 20 talent can provide +12 All Attributes per hero hit for 7 seconds.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, OFFENSIVE, SLOW, ACTIVE_EFFECT] | Phylactery CORE_MECHANICS: Enhances the next single-target spell you cast on an enemy, adding a separate 150 bonus damage instance and applying a 30% slow for 3 seconds. The effect triggers automatically on the next applicable spell cast after the cooldown refreshes. Stats: Cost: 2600 gold, +7 All Attributes, +6.5 Health Regeneration, +2.5 Mana Regeneration, Empower Spell Bonus Damage: 150, Slow: 30%, Slow Duration: 3s, Cooldown: 9s.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, SITUATIONAL_VS_CONTROL, VS_CONTROL, DISPEL, CLEANSE, ESCAPE, DEFENSIVE] | Cost: 4650: Situational against control abilities and silences. The basic dispel effect can immediately remove debuffs like silences, slows, and roots, allowing you to escape or continue fighting. The short invulnerability on activation can be used to avoid follow-up damage or disables. Essential for carries who need to purge enemy control to maintain DPS. Stats: Dispels: Basic.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, UTILITY, OBJECTIVE] | Beloved Memory SITUATIONAL_UTILITY: Situational for specific game events or objectives related to Altars. No direct counterplay from enemies as it targets a friendly structure. Its value is derived from its unique interaction, not stats. Stats: Target Team: Friendly.
+---
+[TAGS: STRATEGY, Beastmaster, ITEM_BUILD, CORE] | Beastmaster Core Build: Helm of the Dominator/Overlord and Blink Dagger are essential for summons and initiation.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, TEAM_COORDINATION] | Forebearer's Fortune HARD_COUNTERS: The item is countered by disorganized play, teams that cannot communicate, or enemies that avoid full 5v5 engagements. Its benefit is entirely lost if even one ally does not activate their pledge before the fight. The effect is purely speculative from the item's lore description. Stats: Effect condition: All heroes in the battle must make an Undying Promise.
+---
+[TAGS: AGHS_STRATEGY, Morphling, COUNTER_MECHANIC, AGHANIM] | Morphling Aghanim's Shard: Attribute Shift can be used while stunned, providing a powerful anti-disable mechanic. This upgrade ensures Morphling maintains survivability and adaptability even under heavy control effects, countering lockdown-heavy lineups.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, VS_EVASION, OFFENSIVE] | Monkey King Bar CORE_MECHANICS: Grants an 80% chance per attack to pierce through evasion and deal 70 bonus magical damage, making it a reliable damage and anti-evasion tool. Its bonus attack speed complements the proc chance. Stats: Cost: 4700 gold, +40 Damage, +45 Attack Speed, Pierce Chance: 80%, Bonus Magical Damage: 70.
+---
+[TAGS: ITEM_DATA, BRACER, SYNERGY_BUILD, FULL_ITEM, UPGRADE, COMPONENT, UTILITY] | Bracer, Cost: 505: Core recipe component for powerful items like Drum of Endurance and Rod of Atos. Purchasing Bracers early in the laning stage builds into mid-game power spikes. Timing matters as its flat stat efficiency is best during the first 15 minutes. Stats: Cost: 505.
+---
+[TAGS: ITEM_DATA, DISPERSER, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_BUFFS, DISPEL, CLEANSE] | Disperser, Cost: 6100: Strong situational item against heroes reliant on mana or who are vulnerable to dispels. Counters heroes with key buffs to purge (e.g., Guardian Angel, Bloodlust) and heroes with low mana pools vulnerable to the burn. The self-dispel can also counter enemy roots and slows.
+---
+[TAGS: BEASTMASTER, SITUATIONAL, FROM_BEHIND] | Scenario: Playing from Behind. Focus on split-pushing with Wild Axes for wave clear. Use the Hawk for defensive vision around your jungle and towers. Build utility items like Pipe of Insight or Crimson Guard to help your team survive. The +250 Health talent at level 20 can provide crucial survivability for you and your summons.
+---
+[TAGS: SILENCER, FACET_STRATEGY, FACET_1, FACET_2, FACET_3, FACET_4] | Facet 1: Irrepressible makes Silencer immune to silence effects, crucial against heroes like DP, Skywrath, or Orchid carriers. This supports a durable core or offlane playstyle where you cannot be shut down. Facet 2: Reverberating Silence causes Global Silence to apply twice, extending total disable duration. This is best for a support role focused on fight control and maximizing disruption, especially against spell-heavy lineups. Facet 3: Synaptic Split upgrades Glaives of Wisdom to max level 5, allowing the glaives to bounce once to a random target within range. This significantly boosts farming speed and teamfight damage, making it ideal for a core, right-click Silencer build. Facet 4: Suffer In Silence causes Silencer to take less damage from and deal more damage to silenced targets. This enhances survivability and dueling power against enemies you or your team have silenced, fitting a mid-game fighter build.
+---
+[TAGS: PUDGE, ABILITY_DATA, DISEMBER, R, ULTIMATE] | ABILITY: Dismember (R). Channeled for up to 2.75 seconds. Targets an enemy unit, dealing 80/100/120 magic damage plus 30%/60%/90% of Pudge's Strength as damage per second. Heals Pudge for the total damage dealt. Disables the target and pulls them closer at 75 units per second, up to a minimum of 125 range. Cooldown: 30/25/20 seconds. Aghanim's Shard improves this ability. Does NOT pierce BKB (no immunity-piercing attribute found).
+---
+[TAGS: Roshan, Ability, Escape, Repositioning] | Teleport: Allows Roshan to relocate instantly, making it a versatile escape or repositioning tool. Stats: Cooldown: 0
+---
+[TAGS: BEASTMASTER, BASE_STATS] | Beastmaster is a Melee strength hero with an attack rate of 1.7 seconds per hit. He has above-average starting Strength (25) and average Agility (19) and Intelligence (16). As a melee core, his base stats are focused on survivability.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPELLABLE, NO_BKB_PIERCE] | Orb of Corrosion HARD_COUNTERS: The Corrosion effect is dispellable, meaning items like Manta Style or abilities with basic dispels can remove all debuffs (slow, armor reduction, heal reduction). Its effectiveness is limited against heroes who naturally build dispels or have innate magic resistance/status resistance. The effect does not pierce Spell Immunity. Stats: Dispellable: Yes, Does Not Pierce BKB.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: MonkeyKing, SITUATIONAL, VS_DISABLES] | When facing heroes with instant disables or silences (e.g., Skywrath Mage, Lion), Monkey King's Tree Dance escape is nullified. Itemize for early Black King Bar. Consider a Linken's Sphere against targeted disables. Position carefully and rely on teammates to initiate or absorb spells first. The Changing of the Guard Facet can provide a moment of unpredictability.
+---
+[TAGS: Roshan, Ability, Crowd Control, Slow] | Slam: A crowd control ability that slows and damages enemies, particularly effective against creeps. Stats: Radius: 350, Slow Duration: 4, Slow Amount: 50, Damage: 70, Damage Growth: 10, Damage Bonus Creeps: 100
+---
+[TAGS: ITEM_DATA, EULS_SCEPTER_OF_DIVINITY, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_PHYSICAL, DISPEL, SAVE, INTERRUPT, UTILITY] | Eul's Scepter of Divinity, Cost: 2600: Situational against heroes reliant on powerful single-target abilities or buffs that can be dispelled. The cyclone prevents channeled spells and can interrupt dangerous abilities. Defensively, it provides a key window of invulnerability against burst physical or magic damage.
+---
+[TAGS: STRATEGY, Beastmaster, FACETS] | Beastmaster Facet Strategy: Wild Hunt (Red) is preferred for aggressive pushing and teamfight presence with summons, while Beast Mode (Yellow) offers better solo kill potential with attack speed and damage amplification.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, POSITIONING, BACKLINE] | Magnifying Monocle TEAMFIGHT_ROLE: Enables backline positioning by increasing cast and attack range, allowing heroes to contribute from a distance in fights. Best for heroes who can avoid taking significant damage to keep the effect active, such as through stealth or barriers. Stats: Bonus Attack Range: 100, Bonus Cast Range: 100, Disable Condition: 25 damage from players or Roshan.
+---
+[TAGS: Necrophos, FACET_STRATEGY, FACET] | Facet 1: Profane Potency. This facet makes Sadist grant 1 bonus radius to Necrophos' area of effect abilities and items for each stack of Sadist he possesses. This is a scaling teamfight and farming facet, making his Death Pulse and items like Shiva's Guard and Radiance significantly larger as he gets kills, facilitating a high-tempo, snowballing playstyle. Facet 2: Rapid Decay. This facet changes Ghost Shroud. While active, it steals 16/19/22/25 movement speed from enemies within 700 range and reduces their healing and regeneration by 55%/60%/65%/70%. This turns Ghost Shroud into a powerful debuff tool, excelling against sustain-heavy lineups (e.g., with Wraith King, Alchemist, or multiple healing supports) and helps kite melee cores.
+---
+[TAGS: STRATEGY, Beastmaster, ITEM_BUILD, SITUATIONAL] | Beastmaster Situational: Buy Pipe vs magic damage, Shiva's vs physical damage, or Lotus Orb vs single-target disables.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, ROSHAN_DROP, LATE_GAME] | Aghanim's Blessing - Roshan LANING_PHASE: Not applicable for laning. This item is obtained exclusively by a team from killing Roshan. It represents a significant late-game power spike that cannot be purchased. Stats: Cost: N/A (Roshan drop).
+---
+[TAGS: ITEM_DATA, FULL_ITEM, VS_CONTROL, DISPEL, SAVE] | A powerful counter to single-target disables and debuffs due to its basic dispel effect on cast. Effective against heroes reliant on silences, roots, or other dispellable effects to lock down targets, as it can instantly remove them from an ally.
+---
+[TAGS: ITEM_DATA, BOOTS_OF_BEARING, SYNERGY_BUILD, FULL_ITEM, AURA, BUFF, UPGRADE] | Boots of Bearing, Cost: 4225: Synergizes with heroes who benefit from attack speed and want to build Drums of Slaughter, such as aura-based initiators (e.g., Undying) or core heroes who are already building for team fights. It's a natural upgrade for heroes who bought Tranquil Boots and need a late-game aura. Builds from Tranquil Boots, Drums of Slaughter, and Ring of Tarrasque.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, NEUTRAL_ITEM] | Pupil's Gift CORE_BUILD: This item has no build path, components, or direct upgrades. It is a Tier 1 neutral item that can be acquired by killing neutral creeps. Synergies: Works well on any hero that benefits from raw attributes, but is especially efficient for Universal heroes who gain a portion of the bonus to all attributes.
+---
+[TAGS: Ability, Control, Debuff] | Time Dilation: Faceless Void traps all nearby enemies in a time dilation field for 7 seconds, extending their cooldowns and slowing their movement and attack speed by 4%, amplified by each cooldown extended. Stats: Radius: 775, Duration: 7/8/9/10, Slow Per Cooldown: 4%/5%/6%/7%, Cooldown Progression Slow: 30%/40%/50%/60%, DPS Per Cooldown: 4/6/8/10, Cooldown: 28/24/20/16
+---
+[TAGS: ITEM_DATA, AGHANIMS_SHARD, FULL_ITEM, STAT_PROFILE, UTILITY] | Aghanim's Shard, Cost: 1400: Provides no direct attribute bonuses, damage, or health. All value is derived from the powerful ability upgrade it grants to your specific hero, making its statistical impact unique to each hero.
+---
+[TAGS: ITEM_DATA, AGHANIMS_SHARD, FULL_ITEM, TEAMFIGHT_ROLE, UTILITY, BUFF, ABILITY_UPGRADE] | Aghanim's Shard, Cost: 1400: Role varies dramatically by hero, but typically provides teamfight utility, survivability, or damage amplification through the new or upgraded ability. Can enable new initiation, save, or counter-initiating patterns depending on the hero-specific upgrade.
+---
+[TAGS: Beastmaster, Ability Upgrade, Damage] | Summon Damage Bonus: Enhances Beastmaster and his summons' physical damage.
+---
+[TAGS: ITEM_DATA, GLEIPNIR, FULL_ITEM, SYNERGY_BUILD, UPGRADE, INTELLIGENCE_HERO, UTILITY, INITIATION] | Gleipnir, Cost: 4550: Synergizes with heroes possessing other AOE disables or damage to chain crowd control. Core on intelligence heroes who want utility and tankiness. Good follow-up to Blink Dagger for instant AOE initiation. Upgrades from Rod of Atos and Point Booster.
+---
+[TAGS: Roshan, Ability, Disable, Damage] | Roar of Retribution: A powerful disable that disarms and damages enemies in a radius, scaling over time. Stats: Radius: 600, Damage: 50, Damage PCT: 25, Duration: 12, Damage Growth: 10, Disarm Duration: 2, Windup Time: 0.5
+---
+[TAGS: ITEM_DATA, FORCE_STAFF, FULL_ITEM, SITUATIONAL_VS_CONTROL, VS_CONTROL, ESCAPE, SURVIVAL, DEFENSIVE, REACTIVE] | Cost: 2200: Situational vs aggressive initiators and catch-heavy lineups. Force Staff counters enemy gap-close and allows allies to escape from danger zones. It is a reactive purchase against heroes who rely on getting on top of your team and locking them down, providing a crucial escape tool that can't be interrupted by most disables.
+---
+[TAGS: Beastmaster, Bonus, Cooldown] | Beastmaster's Wild Axes No Cooldown: Allows continuous use of Wild Axes, maximizing damage and area control. Stats: Cooldown: None
+---
+[TAGS: STRATEGY, Beastmaster, TIMING] | Beastmaster Power Spike: Strong at level 6 (Primal Roar) and with Necronomicon timing (when available) or Helm of the Dominator.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, AMPLIFY, COORDINATION] | Nemesis Curse TEAMFIGHT_ROLE: Focus on amplifying damage on a single priority target, such as the enemy carry or a critical spellcaster, to enable burst kills from your team. The self-inflicted damage vulnerability requires careful positioning to avoid being focused down while the debuff is active. The item encourages a 'marked for death' playstyle for coordinated teams. Stats: Enemy Damage Amplification: 12% for 5 seconds.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, COUNTER_PLAY, SURVIVABILITY] | Outworld Staff TEAMFIGHT_ROLE: Used to disjoint or completely negate a critical enemy spell or physical attack with precise timing. Can create a brief 0.7-second window where you cannot be targeted or affected, disrupting enemy combos. The self-damage and item mute on return requires careful positioning. Stats: Invulnerability Duration: 0.7 seconds, Cooldown: 30 seconds.
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: Ability, Survivability, Faceless Void] | Backtrack Chance: Improves survivability by granting an additional chance to avoid damage. Stats: Chance: 20%
+---
+[TAGS: ITEM_DATA, LINKENS_SPHERE, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, DEFENSIVE] | Linken's Sphere, Cost: 4800: A situational item against teams with key single-target disables or nukes (e.g., Doom, Laguna Blade, Fiend's Grip). It is less effective against teams with abundant area-of-effect spells or multiple low-cooldown targeted abilities that can pop the block easily. Prioritize this on mobile, high-priority cores who are the primary target for enemy disables. Stats: Block Cooldown: 14s.
+---
+[TAGS: Beastmaster, Bonus, Health] | Beastmaster's Health Bonus: Increases survivability for Beastmaster and his summons, making them more durable in fights. Stats: Health: 250
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, DISABLE, UTILITY] | Mind Breaker TEAMFIGHT_ROLE: Used to silence high-priority targets, particularly supports or mobile cores reliant on spells to escape or contribute. Its long cooldown requires precise timing to disable key abilities in engagements. Stats: Cooldown: 16 seconds, Silence Duration: 1.5 seconds.
+---
+[TAGS: FACELESS_VOID, ABILITY_DATA, TIME_DILATION, SLOW, AOE] | Ability: Time Dilation. Faceless Void traps all nearby enemies in a 775 radius for 7/8/9/10 seconds, extending their cooldowns and slowing their movement and attack speed by 4/5/6/7%. The slow is amplified by each cooldown extended. It also deals 4/6/8/10 damage per stack per second for each cooldown. Does not affect item cooldowns. Does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, AGHANIMS_SHARD, CORE_MECHANICS, FULL_ITEM, UPGRADE, ABILITY_UPGRADE, BUFF, UTILITY, POWER_SPIKE] | Aghanim's Shard, Cost: 1400: Upgrades an existing ability or adds a new passive or active ability to your hero. Consumable item with a powerful, permanent effect that unlocks additional power for your hero's kit. Typically purchased in the mid-to-late game to significantly improve a hero's capabilities. Stats: Cost: 1400.
+---
+[TAGS: AGHS_STRATEGY, Faceless Void, COUNTER_MECHANIC, AGHANIM] | Faceless Void Aghanim's Shard: Reverse Time Walk allows Void to rewind his position within 1.5 seconds of casting Time Walk. This counters aggressive enemy positioning and lockdown, enabling Void to escape dangerous situations or reposition for better follow-up abilities.
+---
+[TAGS: AGHS_STRATEGY, Vengeful Spirit, COUNTER_MECHANIC, SHARD] | Vengeful Spirit Aghanim's Shard: Magic Missile — Adds a bounce to Magic Missile, prioritizing heroes. This upgrade counters grouped enemy formations by increasing crowd control potential, transforming Vengeful Spirit into a more reliable initiator or follow-up disabler in chaotic fights.
+---
+[TAGS: UNDYING, ABILITY_DATA, DECAY, Q] | Ability: Decay (Q). Undying steals 4 Strength from all enemy heroes in a 325 radius, dealing 20/60/100/140 damage. It deals double damage to creeps. The stolen Strength lasts 35 seconds and stacks. The cooldown is 13/10/7/4 seconds. With Aghanim's Shard, it gains a 40-second buff that increases strength steal to 6 and causes a second Decay to be cast at the location after 1.5 seconds. This ability pierces spell immunity (pierces BKB).
+---
+[TAGS: Ability, Passive, Buff] | Roshan Halloween Levels: A passive ability that enhances Roshan's stats as he levels up. Stats: Bonus Movement: 8, Bonus Damage: 200, Bonus Armor: 1, Bonus Health Regen: 5, Bonus Magic Resist: 5.
+---
+[TAGS: ITEM_DATA, BELOVED_MEMORY, CORE_DESCRIPTION, NON_PURCHASABLE, EVENT, UTILITY] | Ofrenda - Beloved Memory, Tier N/A (Non-Purchasable): An Offering that can be placed on an Altar to honor the dead. Its sole ability honors the dead with a memory, targeted on friendly buildings. Provides no stat bonuses. This item is for event or tribute mechanics. Stats: CD: 3s, Cast Speed: 1000.
+---
+[TAGS: Keeper of the Light, HARD_COUNTERS] | Heroes with gap close (e.g., Storm Spirit, Phantom Assassin) can bypass his long-range spells. Spell immunity (BKB) negates his primary damage (Illuminate) and control (Blinding Light). High-burst heroes can exploit his low health pool before he channels spells.
+---
+[TAGS: FACELESS_VOID, SITUATIONAL, MAGIC_DAMAGE, BKB] | Scenario: Vs High Magic Burst Lineups. Against heavy magic damage, Faceless Void needs early Magic Resistance items like Hood of Defiance or Black King Bar. Timing BKB activation before jumping in is critical. Time Dilation is very effective against spell-reliant heroes, extending their long cooldowns. Linken's Sphere can block key initiation spells.
+---
+[TAGS: ITEM_DATA, MAGIC_WAND, FULL_ITEM, CORE_MECHANICS, SAVE, DEFENSIVE, SURVIVAL, SUSTAIN, UTILITY, BURST_HEAL, BURST_MANA, COUNTER_SPAM] | Cost: 460: Magic Wand provides instant burst healing and mana restoration based on stored charges. Gains a charge (max 20) whenever a visible enemy within 1200 range uses an ability. The active restores 15 health and mana per charge, making it a crucial reactive sustain and survival tool against spell-spamming enemies. Stats: CD: 15s, Max Charges: 20, Restore per Charge: 15 HP/MP.
+---
+[TAGS: STRATEGY, Faceless Void, WEAKNESS] | Faceless Void Weakness: Vulnerable to Break (Silver Edge) disabling Time Lock, and instant disables (Hex) preventing Time Walk escapes.
+---
+[TAGS: STRATEGY, Faceless Void, FACETS] | Faceless Void Facet Strategy: Choose Chronosphere for traditional teamfight control (ideal for carry role) or Time Zone for utility/support playstyle (slows enemies and speeds allies).
+---
+[TAGS: Ability, Survivability, Faceless Void] | Time Walk Backtrack Duration: Extends the duration of backtracking during Time Walk, increasing survivability in prolonged engagements. Stats: Duration: s
+---
+[TAGS: ITEM_DATA, LANING_PHASE, LATE_GAME] | Roshan's Banner LANING_PHASE: Not a laning item. This is a high-tier consumable obtained by killing Roshan, intended for mid-to-late game strategic pushes. The banner cannot be purchased, so its timing depends on successful Roshan kills. Stats: Cost: 0 gold (Roshan drop).
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, VS_INVIS, MAP_CONTROL] | Observer and Sentry Wards CONSUMABLE Cost: 50: Use Sentry Wards to secure key areas against invisible heroes like Riki or to destroy enemy Observer Wards when you suspect they have vision. Plant Observer Wards to provide vision for Roshan attempts, key jungle choke points, or to safely push towers. The ability to switch between ward types makes it a flexible tool for vision domination throughout the game.
+---
+[TAGS: ITEM_DATA, DISPERSER, TEAMFIGHT_ROLE, FULL_ITEM, UTILITY, CONTROL, SAVE, DEFENSIVE, DEBUFF] | Disperser, Cost: 6100: Team fight role focuses on powerful single-target control through mana burn and dispel-enabled chase or save. The active can be used offensively to slow and burn a key enemy's mana or defensively to cleanse and speed up an ally. The self-dispel always provides the beneficial effect.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: ITEM_DATA, OVERWHELMING_BLINK, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, LATE_GAME, SCALING, STRENGTH] | Cost: 6800: Overwhelming Blink. Core item for Strength-based initiators and durable cores who can survive in the middle of fights after blinking in (e.g., Centaur Warrunner, Tidehunter, Pudge). The damage scales with Strength, making it a powerful late-game damage and utility spike for heroes who stack Strength. Its high cost makes it a late-game luxury upgrade.
+---
+[TAGS: AGHS_STRATEGY, Meepo, COUNTER_MECHANIC, AGHANIM] | Meepo Aghanim's Shard: Dig — Counters burst damage and disables by making Meepo untargetable and invulnerable for 3 seconds while restoring health. Provides a survival mechanism against high-damage spikes and crowd control, ensuring Meepo's sustainability in prolonged engagements.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, DEFENSIVE, UTILITY, ACTIVE] | Linken's Sphere CORE_MECHANICS: Provides a powerful defensive block against a single targeted spell every 14 seconds (Spellblock). The active ability can transfer this block to an allied hero for 14 seconds, removing the Spellblock from the user. This makes it a key utility and survival item for cores against pick-off attempts. Stats: Cost: 4800 gold, +16 All Attributes, +6.5 Health Regeneration, +4.25 Mana Regeneration, Block Absorb: 300 damage, Block Cooldown: 14.0s, Transfer Duration: 14.0s.
+---
+[TAGS: CLOCKWERK, ABILITY_DATA, HOOKSHOT, R, ULTIMATE] | Hookshot: Fires a grappling hook at a target location at 4000/5000/6000 speed. If it hits an enemy, Clockwerk launches to them, dealing 75/175/275 damage and stunning for 1.2/1.4/1.6 seconds to all enemies in a 175 radius around the target. Enemies collided with along the path are also damaged and stunned. Can latch to allies without damaging or stunning them. Cooldown and manacost not specified in provided attributes.
+---
+[TAGS: STRATEGY, Beastmaster, WEAKNESS] | Beastmaster Weakness: Vulnerable to summons being killed (AoE damage) and heroes that can dispel Inner Beast buff.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: ITEM_DATA, ROD_OF_ATOS, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE, SETUP, COMBO] | Rod of Atos, Cost: 2250: Build synergy for intelligence heroes who benefit from the stats and need reliable setup for their abilities, such as Skywrath Mage (for Mystic Flare), Lina, or Zeus. The root guarantees follow-up on skillshots. Also a strong early-to-mid game item for initiators who lack a stun.
+---
+[TAGS: Void Spirit, FACET_STRATEGY, FACETS] | Void Spirit has three Facets. Sanctuary changes Resonant Pulse to provide an all-damage barrier, ideal against magic-heavy lineups. Symmetry provides a physical damage barrier, effective against physical attackers. Call of the Void creates Aether Remnants from Dissimilate portals, enhancing area control and burst damage in teamfights.
+
+=== GAME STATE ===
+Match Time: 25:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: beastmaster (Lvl 15) | HP: 1800/1800 | Mana: 600/900 | Alive: true
+Stats: K/D/A 4/3/10 | Gold: 3200 | LastHits: 110
+Inventory: [item_phase_boots (CD), item_helm_of_the_overlord, item_blink, item_aghanims_shard (CD), item_magic_wand x12, item_tpscroll x2]
+Abilities: [beastmaster_inner_beast(Lvl4)[NoMana/Silenced] | beastmaster_primal_roar(Lvl2)[ULTIMATE-READY] | beastmaster_wild_axes(Lvl4)[Rdy] | beastmaster_call_of_the_wild_boar(Lvl2)[Rdy]]
+User Situation Notes: Рошан респавнится через 30 секунд. У нас Beastmaster, Ursa, Dazzle, Sniper, Rubick. У врагов (Faceless Void, Lina, Puck, Vengeful Spirit, Ogre Mage) таймер на 5 минут до BKB Войда.
+
+=== USER QUESTION ===
+"Стоит ли нам идти на Рошана сейчас или лучше подождать?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Стоит ли нам идти на Рошана сейчас или лучше подождать?".**
+========================================
+
+[AI RESPONSE] (3.43s)
+Давайте подумаем. У нас есть **Бостмастер** с полным здоровьем, **Аганимс Шард** на cooldown, и у врагов **Фейслесс Войд** скоро получит **Блэк Кинг Бар**. Лучше подождать, пока у Войда не появится БКБ, чтобы избежать лишних рисков. Если сможете за этот время поднимать нейтралов и фармить, это будет полезно для всей команды.

@@ -1,0 +1,58 @@
+[
+  {
+    "display_text": "Arcane Boots, Cost: 1400: Active ability Replenish restores 150 mana to all allies within a large 1200 radius. Also grants a passive aura providing +1 mana regeneration to nearby allies. A core mana-battery for spell-heavy teams. Stats: CD: 55s, Cost: 1400, Radius: 1200, Mana Restore: 150.",
+    "search_text": "mana restore item, team mana support, mana boots, arcane boots, mana battery, mana regeneration aura, mana sustain, support mana item, replenish mana, restore ally mana, energy booster upgrade, early mana item, teamfight mana, Arcane Boots",
+    "tags": [
+      "ITEM_DATA",
+      "ARCANE_BOOTS",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "SUPPORT_ITEM",
+      "AURA",
+      "MANA_REGEN",
+      "UTILITY",
+      "TEAM_BUFF"
+    ]
+  },
+  {
+    "display_text": "Arcane Boots, Cost: 1400: Provides +45 movement speed and +0.25 base mana regeneration. Built from Boots and Ring of Basilius, transitioning early mana sustain into a team-wide mana restoration tool.",
+    "search_text": "arcane boots stats, movement speed, mana regen stats, boots upgrade, basilius upgrade, arcane cost, mana item stats, support boots, Arcane Boots",
+    "tags": [
+      "ITEM_DATA",
+      "ARCANE_BOOTS",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "MOBILITY",
+      "MANA_REGEN",
+      "UPGRADE",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Arcane Boots, Cost: 1400: Strong teamfight utility item for sustaining allies' mana pools. The aura passively helps during sieges and stand-offs, while the active can enable key follow-up spells after an engagement. Its value scales with the number of spellcasting allies.",
+    "search_text": "teamfight mana support, mana aura, team utility, siege sustain, mana sustain in fight, support teamfight item, mana for team, team buff item, Arcane Boots",
+    "tags": [
+      "ITEM_DATA",
+      "ARCANE_BOOTS",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "UTILITY",
+      "AURA",
+      "BUFF",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Arcane Boots, Cost: 1400: Ideal for support heroes who need mobility and want to empower their team. Excellent in lineups with high mana-cost abilities or long-duration spell spammers. Counters strategies reliant on mana burn by quickly replenishing pools. The active does not work on Meepo clones.",
+    "search_text": "support boots, mana intensive lineup, mana burn counter, support mobility, meepo counter, team mana, mana spammer support, hero mana sustain, Arcane Boots",
+    "tags": [
+      "ITEM_DATA",
+      "ARCANE_BOOTS",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "SUPPORT_ITEM",
+      "VS_MANA_BURN",
+      "UTILITY"
+    ]
+  }
+]

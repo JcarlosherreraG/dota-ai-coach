@@ -1,0 +1,170 @@
+[
+  {
+    "display_text": "Bane is a ranged intelligence hero. He has balanced attribute gains of 23 each. His attack time of 1.7 is relatively slow. His attack type is Ranged.",
+    "search_text": "Bane base stats ranged int hero attributes strength 23 agility 23 intelligence 23 attack rate 1.7",
+    "tags": [
+      "BANE",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Bane's Facet 5 'Dream Stalker' gives him increased attack speed when attacking Nightmared units, enhancing his solo kill potential. Facet 6 'Sleepwalk' makes Nightmared units walk in Bane's chosen direction, enabling powerful repositioning for setting up combos or saving allies by moving enemies away. Dream Stalker suits a core/mid Bane for solo pick-offs, while Sleepwalk is powerful for a support Bane to control teamfight positioning.",
+    "search_text": "Bane Facet choice Dream Stalker Sleepwalk Nightmare attack speed sleepwalk direction",
+    "tags": [
+      "BANE",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, Bane's high base damage from even stats and Brain Sap's 90/160/230/300 pure damage/heal make him a strong harasser and sustain hero. Use Enfeeble (30 cast reduction, -55/60/65/70 damage) on the enemy carry to ruin their last hitting. Nightmare is a versatile tool for securing kills by setting up for allies, or for saving yourself or your lane partner from ganks due to its 1.0s invulnerability period. Prioritize Brain Sap for sustain and kill threat.",
+    "search_text": "Bane laning phase Brain Sap heal damage Enfeeble attack damage reduction Nightmare setup save invulnerability 1s",
+    "tags": [
+      "BANE",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spike 1 (Level 6): Fiend's Grip provides a long, piercing disable (4.75/5.25/5.75s channel) for solo kills or key target lockdown. Power Spike 2 (Level 12): Talent choice (+13 Enfeeble DPS or +20% Enfeeble Cast Range Reduction) enhances his control. Power Spike 3 (Level 18): Fiend's Grip reaches max level. Power Spike 4 (Level 20): +275 Brain Sap Damage/Heal talent massively boosts his burst and survivability. Power Spike 5 (Level 25): +3s Fiend's Grip Duration talent makes his ultimate a near-guaranteed kill on any single target.",
+    "search_text": "Bane power spikes level 6 Fiend's Grip level 12 talents level 18 ult level 20 Brain Sap talent level 25 Fiend's Grip talent",
+    "tags": [
+      "BANE",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Bane is countered by heroes who can save his target (Abaddon, Oracle, Dazzle), heroes with AoE damage that can accidentally break his Nightmare setup, heroes with Lotus Orb to reflect his single-target spells, and heroes with strong dispels (Legion Commander Press the Attack). His channeled ultimate, Fiend's Grip, is interrupted by any stun or silence. High mobility heroes can avoid his short-range spells. Bane's abilities are all single-target, making him weak against illusion heroes like Chaos Knight or Phantom Lancer.",
+    "search_text": "Counters Bane Lotus Orb dispel save AOE damage break Nightmare channel interrupt stun silence illusion heroes",
+    "tags": [
+      "BANE",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Bane's core build consists of: 1) Tranquil Boots for mobility and sustain as he doesn't need mana boots. 2) Aether Lens to increase the cast range of all his crucial spells (Brain Sap, Nightmare, Fiend's Grip). 3) Force Staff or Glimmer Cape, depending on the enemy lineup, for positioning, saving allies, or saving himself while channeling Fiend's Grip.",
+    "search_text": "Bane core items Tranquil Boots Aether Lens Force Staff Glimmer Cape",
+    "tags": [
+      "BANE",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Bane's primary role is to instantly disable the most dangerous enemy core or initiator. Use Fiend's Grip to take a key hero out of the fight entirely. Use Nightmare to disable another enemy or to save an ally. Use Enfeeble on the enemy's physical damage dealer to reduce their impact. Position at the edge of the fight to avoid being interrupted during Fiend's Grip. He is a backline controller and single-target shutdown specialist.",
+    "search_text": "Bane teamfight role disable key target Fiend's Grip channel Nightmare save Enfeeble damage reduction backline controller",
+    "tags": [
+      "BANE",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Enfeeble. Deals damage every second and lowers the enemy's total attack damage and cast range. Deals 12/18/24/30 damage per second for 9 seconds. Reduces the target's total attack damage by 55/60/65/70. Reduces the target's cast range by 30. This spell is not dispellable.",
+    "search_text": "Enfeeble Bane ability Q damage per second 12 18 24 30 duration 9 attack damage reduction 55 60 65 70 cast range reduction 30",
+    "tags": [
+      "BANE",
+      "ABILITY_DATA",
+      "ENFEEBLE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Brain Sap. Feasts on the vital energies of an enemy unit, healing Bane and dealing damage. Deals 90/160/230/300 pure damage to the target and heals Bane for the same amount. Has a cast range of 625. Cooldown is 17/15/13/11 seconds.",
+    "search_text": "Brain Sap Bane ability W pure damage heal 90 160 230 300 cast range 625 cooldown 17 15 13 11",
+    "tags": [
+      "BANE",
+      "ABILITY_DATA",
+      "BRAIN_SAP"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Nightmare. Puts the target enemy or friendly Hero to sleep. Sleeping units are awakened when damaged. If the target was directly attacked, the Nightmare passes to the attacking unit. Bane can attack and damage Nightmared targets freely. Cooldown is 25/22/19/16 seconds. The target is invulnerable for the first 1.0 second. Bane can wake himself from Nightmare. On cast, it is replaced with Nightmare End: Ends all ongoing Nightmares on any affected units.",
+    "search_text": "Nightmare Bane ability E sleep disable invulnerable 1s transfer on attack cooldown 25 22 19 16 Nightmare End",
+    "tags": [
+      "BANE",
+      "ABILITY_DATA",
+      "NIGHTMARE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Fiend's Grip. CHANNELED - Grips an enemy unit, disabling it and causing heavy damage over time, while stealing mana every 0.5 seconds based on the unit's maximum mana. Deals 70/110/150 damage per tick every 0.5 seconds. Drains 5% of the target's max mana per tick (every 0.5s). Channels for 4.75/5.25/5.75 seconds. Cooldown is 120/110/100 seconds. This ability pierces spell immunity (BKB).",
+    "search_text": "Fiend's Grip Bane ultimate R channel disable damage 70 110 150 per 0.5s mana drain 5% max mana per tick duration 4.75 5.25 5.75 cooldown 120 110 100 pierces BKB",
+    "tags": [
+      "BANE",
+      "ABILITY_DATA",
+      "FIENDS_GRIP"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Versus a Heavy Physical Damage Carry. Use Enfeeble early and often on heroes like Phantom Assassin or Troll Warlord to reduce their attack damage by 55/60/65/70 for 9 seconds. This drastically lowers their teamfight damage output. In a duel, open with Enfeeble before using your other disables to maximize the damage reduction time.",
+    "search_text": "Bane vs physical damage carry Enfeeble attack damage reduction 55 60 65 70 PA Troll Warlord",
+    "tags": [
+      "BANE",
+      "SITUATIONAL",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Playing from Behind. As a support Bane, your impact diminishes. Focus on defensive Nightmare saves for your farming cores to protect them from ganks. Build cheap utility items like Force Staff and Glimmer Cape to save allies. Use Fiend's Grip defensively to stop an enemy diver on your most important hero, even if you die for it.",
+    "search_text": "Bane playing from behind support defensive Nightmare save Force Staff Glimmer Cape Fiend's Grip defensive",
+    "tags": [
+      "BANE",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Securing Solo Kills (Core Bane). With the Dream Stalker facet, your combo is: Nightmare (self-damage to wake, granting you attack speed), immediately attack, then Brain Sap, then Enfeeble, and continue attacking. This can kill many heroes from full health once you have a few levels. Always carry a TP scroll to punish overextended lanes.",
+    "search_text": "Bane solo kill combo Dream Stalker facet Nightmare attack speed Brain Sap Enfeeble",
+    "tags": [
+      "BANE",
+      "SITUATIONAL",
+      "SOLO_KILL"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Against Illusion Heroes (PL, Chaos Knight). Your single-target spells are weak here. Prioritize Aghanim's Shard to make Brain Sap heal secondary targets. Use Enfeeble on the real hero if you can identify it. Your main value is using Fiend's Grip on the real hero during a fight to lock them down, but be aware illusions can break your Nightmare setup easily.",
+    "search_text": "Bane vs illusion heroes Phantom Lancer Chaos Knight single target weak Aghanim Shard Brain Sap AoE heal",
+    "tags": [
+      "BANE",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "LEVEL 10 TALENTS. Left: +125 Brain Sap Cast Range. Right: +20% Enfeeble Cast Range Reduction. Choose +125 Brain Sap Range for safer harassment and initiation without getting as close. This is generally the safer, more reliable choice for support Bane. Choose +20% Enfeeble Range Reduction (making it -36 cast range reduction) if you are against a specific spellcasting core (like a Puck or Storm Spirit) where further reducing their effective range is crucial.",
+    "search_text": "Bane level 10 talent left +125 Brain Sap cast range right +20% Enfeeble cast range reduction 36",
+    "tags": [
+      "BANE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "LEVEL 15 TALENTS. Left: +13 Enfeeble Damage Per Second. Right: -3s Nightmare Cooldown. Choose +13 Enfeeble DPS to increase your overall damage output and lane pressure, making the spell deal 25/31/37/43 DPS. This is good for a core Bane or when you need more damage. Choose -3s Nightmare Cooldown to have more frequent disables and saves (cooldown becomes 13/10/7/4). This is excellent for a support Bane focused on control and saving allies.",
+    "search_text": "Bane level 15 talent left +13 Enfeeble DPS 25 31 37 43 right -3s Nightmare cooldown 13 10 7 4",
+    "tags": [
+      "BANE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "LEVEL 20 TALENTS. Left: +5% Fiend's Grip Max Mana Drain. Right: +30 Movement Speed. Choose +5% Fiend's Grip Mana Drain to increase the mana drain to 10% of max mana per tick, which is situationally powerful against mana-dependent heroes like Medusa or Wraith King. Choose +30 Movement Speed for overall better positioning, chasing, escaping, and getting your spells off. The movespeed is almost always the better, more reliable choice.",
+    "search_text": "Bane level 20 talent left +5% Fiend's Grip mana drain 10% right +30 movement speed",
+    "tags": [
+      "BANE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "LEVEL 25 TALENTS. Left: +275 Brain Sap Damage/Heal. Right: +3s Fiend's Grip Duration. Choose +275 Brain Sap Damage/Heal to make Brain Sap deal and heal for 365/435/505/575. This turns Brain Sap into a massive nuke and self-heal on a low cooldown, significantly boosting your survivability and burst. Choose +3s Fiend's Grip Duration to increase the channel to 7.75/8.25/8.75s, making it an almost guaranteed kill on any single target and an incredibly long BKB-piercing disable. Both are extremely powerful; choose based on whether you need more personal power (Brain Sap) or more control (Grip).",
+    "search_text": "Bane level 25 talent left +275 Brain Sap damage heal 365 435 505 575 right +3s Fiend's Grip duration 7.75 8.25 8.75",
+    "tags": [
+      "BANE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

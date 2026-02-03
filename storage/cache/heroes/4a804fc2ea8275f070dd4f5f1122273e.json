@@ -1,0 +1,221 @@
+[
+  {
+    "display_text": "Dark Willow is a ranged Intelligence hero with an attack range of 600. Her base stats are balanced: 20 Strength, 18 Agility, and 21 Intelligence, giving her decent starting damage. Her attack speed is average with a 1.5 attack rate, but she has a low base armor of 0.7, making her susceptible to physical harassment in lane.",
+    "search_text": "Dark Willow base stats strength agility intelligence attack range 600 armor 0.7 attack rate 1.5",
+    "tags": [
+      "Dark Willow",
+      "BASE_STATS",
+      "ATTACK_TYPE",
+      "ARMOR"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Throwing Shade causes Dark Willow to deal more damage to nearby heroes when in Shadow Realm. This encourages an aggressive, close-range burst playstyle. Facet 2: Thorny Thicket makes Bramble Maze create extra brambles, enhancing area control and defensive utility. Facet 3: Shattering Crown makes Cursed Crown accumulate damage dealt by Dark Willow and her allies; a percentage is dealt again as magic damage when the stun triggers, turning it into a powerful delayed AoE nuke. Choose Throwing Shade for burst, Thorny Thicket for control, and Shattering Crown for scaling teamfight damage.",
+    "search_text": "Dark Willow facets Throwing Shade damage Shadow Realm nearby Thorny Thicket extra brambles Bramble Maze Shattering Crown Cursed Crown accumulate damage delayed AOE",
+    "tags": [
+      "Dark Willow",
+      "FACET_STRATEGY",
+      "FACET",
+      "PLAYSTYLE"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, prioritize Shadow Realm (W) for safe, high-damage harassment due to its 600 bonus attack range and scaling magic damage up to 360. Use Cursed Crown (E) on the enemy support or carry to zone them, as the 1.5-2.4 second AoE stun after a 4-second delay creates kill threat with a partner. Bramble Maze (Q) is costly; use it sparingly to secure ranged creeps or trap enemies near trees. Her low base armor means positioning is key; avoid trading right-clicks. Focus on levels and securing farm with Shadow Realm.",
+    "search_text": "Dark Willow laning phase skill build Shadow Realm W harass 600 range 360 damage Cursed Crown E stun Bramble Maze Q trap low armor",
+    "tags": [
+      "Dark Willow",
+      "LANING_PHASE",
+      "SKILL_BUILD",
+      "HARASS"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a major spike with Bedlam (R), providing 70 DPS per target for 5.5 seconds. Levels 12 and 18 unlock her level 15 and 25 talents, enhancing damage or utility. The level 20 talent choice between +1.5s Shadow Realm Duration or -7s Bramble Maze CD is critical. Level 25 with +2 Bedlam Attack Targets is a massive teamfight spike. Item spikes include Aghanim's Shard for Terrorize, Eul's Scepter for combo setup, and Blink Dagger for initiation.",
+    "search_text": "Dark Willow power spikes level 6 Bedlam level 12 talent level 15 talent level 18 talent level 20 talent level 25 talent item timing Aghanim Shard Eul Blink Dagger",
+    "tags": [
+      "Dark Willow",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "TALENTS"
+    ]
+  },
+  {
+    "display_text": "Dark Willow is hard countered by instant silences (e.g., Skywrath Mage, Death Prophet) which prevent her from casting Shadow Realm to disjoint or become untargetable. Break (e.g., Silver Edge) disables her Pixie Dust passive regen. High mobility heroes (e.g., Storm Spirit, Anti-Mage) can easily escape her Bramble Maze and Cursed Crown. Instant hex (Scythe of Vyse) or BKB-piercing stuns prevent her from using her defensive abilities.",
+    "search_text": "Dark Willow counters silence break Silver Edge Pixie Dust mobility Storm Spirit Anti-Mage hex BKB piercing stun",
+    "tags": [
+      "Dark Willow",
+      "HARD_COUNTERS",
+      "SILENCE",
+      "BREAK",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Eul's Scepter of Divinity is absolutely essential. It provides mana regen, movement speed, and a setup for her Cursed Crown (E) stun, guaranteeing the delay hits. Blink Dagger is core for positioning to land multi-hero Bramble Mazes (Q) and Terrorize (R). Aghanim's Shard is a core upgrade, granting the Terrorize ability, a powerful BKB-piercing fear that also deals 500 damage with the level 25 talent.",
+    "search_text": "Dark Willow core items Eul Scepter Blink Dagger Aghanim Shard Terrorize setup mana regen initiation",
+    "tags": [
+      "Dark Willow",
+      "CORE_BUILD",
+      "ITEMS",
+      "EUL",
+      "BLINK"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Dark Willow's role is to initiate or counter-initiate with Blink + Bramble Maze (Q) or Terrorize (R). She then uses Cursed Crown (E) on clustered enemies and activates Shadow Realm (W) to become untargetable while dealing burst damage with her empowered attack. She stays on the fringe, using Bedlam (R) for sustained damage on key targets. Her job is to lock down areas, set up kills with her stuns and fears, and survive using her untargetable states.",
+    "search_text": "Dark Willow teamfight role initiator counter initiator Bramble Maze Terrorize Cursed Crown Shadow Realm untargetable Bedlam damage control",
+    "tags": [
+      "Dark Willow",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "CONTROL"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Bramble Maze (Q). Creates a maze of 8 brambles in a 500 AoE after a 0.3 second delay. Brambles last 12 seconds. Enemies walking into a bramble are rooted and take 50/55/60/65 damage per tick. The root (latch) lasts 1.0/1.5/2.0/2.5 seconds. The latch range is 90. Does not interrupt channeling spells. Cooldown: 22 seconds. Does NOT pierce BKB (pierce_immunity not present/0).",
+    "search_text": "Bramble Maze Q root damage 50 55 60 65 latch 1.0 1.5 2.0 2.5 seconds 500 AoE 8 brambles 22 sec cooldown",
+    "tags": [
+      "Dark Willow",
+      "ABILITY_DATA",
+      "BRAMBLE_MAZE",
+      "ROOT",
+      "AREA_CONTROL"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Shadow Realm (W). Dark Willow becomes untargetable and phased for up to 5 seconds. Her next attack has 600 bonus range and deals 120/200/280/360 bonus magic damage. Damage scales with time spent in the realm, reaching maximum after 3.0 seconds. The ability ends upon attacking. Cooldown: 21/19/17/15 seconds. Disjoints projectiles on cast. While untargetable, she gains +150% HP Regen and +150% Mana Regen from her Pixie Dust passive.",
+    "search_text": "Shadow Realm W untargetable phased 600 attack range bonus magic damage 120 200 280 360 scale 3 seconds max cooldown 21 19 17 15 disjoint",
+    "tags": [
+      "Dark Willow",
+      "ABILITY_DATA",
+      "SHADOW_REALM",
+      "UNTARGETABLE",
+      "BURST_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Cursed Crown (E). Places a curse on a target enemy. After a 4-second delay, the target and all enemies within a 360 radius are stunned for 1.5/1.8/2.1/2.4 seconds. Cooldown: 17/15/13/11 seconds. Does NOT pierce BKB (pierce_immunity not present/0).",
+    "search_text": "Cursed Crown E stun 1.5 1.8 2.1 2.4 seconds delay 4 seconds 360 AoE cooldown 17 15 13 11",
+    "tags": [
+      "Dark Willow",
+      "ABILITY_DATA",
+      "CURSED_CROWN",
+      "STUN",
+      "DELAYED_AOE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Bedlam (R - First Ultimate). Sends a wisp to orbit Dark Willow for 5.5 seconds, rapidly attacking the closest enemy within 300 range every 0.25 seconds. Each attack deals 70/120/170 magic damage to a single target. Cannot be used while Terrorize is active. Bedlam does NOT pierce BKB (pierce_immunity not present/0).",
+    "search_text": "Bedlam R ultimate wisp attack 0.25 interval 70 120 170 magic damage 300 range 5.5 second duration single target",
+    "tags": [
+      "Dark Willow",
+      "ABILITY_DATA",
+      "BEDLAM",
+      "MAGIC_DAMAGE",
+      "SUSTAINED_DPS"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Pixie Dust (Passive). Whenever Dark Willow becomes untargetable from a skill (Shadow Realm, Terrorize), she gains +150% HP Regeneration and +150% Mana Regeneration for the duration she is in that state.",
+    "search_text": "Pixie Dust passive untargetable skill Shadow Realm Terrorize 150% HP regen 150% mana regen",
+    "tags": [
+      "Dark Willow",
+      "ABILITY_DATA",
+      "PIXIE_DUST",
+      "PASSIVE",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Terrorize (R - Second Ultimate, requires Aghanim's Shard). Dark Willow releases a wisp that travels 2000 speed to a target location with a 400/450/500 radius. After a short delay, all enemies in the area become feared and run towards their fountain for 2.8/3.0/3.2 seconds. Cooldown: 100/90/80 seconds. Provides vision on affected units. Terrorize cannot be used while Bedlam is active. With the level 25 talent, Terrorize deals 500 impact damage.",
+    "search_text": "Terrorize R ultimate Aghanim Shard fear 2.8 3.0 3.2 seconds run home fountain 400 450 500 radius 100 90 80 cooldown 500 damage talent",
+    "tags": [
+      "Dark Willow",
+      "ABILITY_DATA",
+      "TERRORIZE",
+      "FEAR",
+      "BKB_PIERCE",
+      "SHARD_ABILITY"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Playing from behind as Dark Willow. Focus on defensive itemization like Glimmer Cape or Force Staff to save allies. Use Bramble Maze (Q) defensively to protect your high ground and Cursed Crown (E) to deter dives. Your Terrorize (with Shard) is a game-changing BKB-piercing disable; save it to counter enemy initiation or save a core. Farm safely with Shadow Realm (W) last hits. Avoid taking risky fights without your key disables ready.",
+    "search_text": "Dark Willow playing from behind defensive Glimmer Cape Force Staff Bramble Maze high ground Terrorize save counter initiation farm Shadow Realm",
+    "tags": [
+      "Dark Willow",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Against high magic resistance or BKB carriers. Your primary damage (Bedlam, Shadow Realm) is magical. Prioritize utility and control. Build items like Scythe of Vyse for instant hex or Rod of Atos for root setup. Your Terrorize (with Shard) is crucial as it pierces BKB. Use Cursed Crown before BKB activation, or use Bramble Maze to zone and control the fight area while their BKB is active.",
+    "search_text": "Dark Willow vs BKB magic resistance Terrorize BKB pierce Scythe Vyse Rod Atos utility control Bramble Maze zone",
+    "tags": [
+      "Dark Willow",
+      "SITUATIONAL",
+      "VS_BKB",
+      "UTILITY_BUILD"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: When your team needs initiation. Build Blink Dagger immediately after Eul's Scepter. Use Blink + Cursed Crown (E) on a key target, followed by Bramble Maze (Q) to trap multiple enemies. Follow up with Bedlam (R) on a high-priority target. This combo requires precise timing but can single-handedly win a fight. Ensure you have mana for the full combo (Eul's helps).",
+    "search_text": "Dark Willow initiation Blink Dagger combo Cursed Crown Bramble Maze Bedlam Eul Scepter mana timing",
+    "tags": [
+      "Dark Willow",
+      "SITUATIONAL",
+      "INITIATOR",
+      "BLINK_COMBO"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: As a position 4/5 support with limited farm. Max Shadow Realm (W) first for lane harassment and Cursed Crown (E) second for kill threat. Build Tranquil Boots for regen and mobility, then rush Aghanim's Shard for the Terrorize ability, which is your biggest teamfight contribution. Follow with Glimmer Cape or Force Staff. Your role is to provide vision, land key disables, and save allies with your items and Terrorize.",
+    "search_text": "Dark Willow support pos 4 5 skill build Shadow Realm Cursed Crown Tranquil Boots Aghanim Shard Terrorize Glimmer Cape Force Staff disable save",
+    "tags": [
+      "Dark Willow",
+      "SITUATIONAL",
+      "SUPPORT",
+      "LOW_FARM"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 10: Left choice is +1.0s Bedlam Duration (increasing total duration to 6.5s). Right choice is +10 Intelligence. Choose +1.0s Bedlam Duration if you are fighting frequently and need more sustained magic DPS. Choose +10 Intelligence if you are struggling with mana pool for your spells and need more spell damage from your Intelligence scaling.",
+    "search_text": "Dark Willow level 10 talent left +1.0s Bedlam Duration 6.5s right +10 Intelligence mana spell damage",
+    "tags": [
+      "Dark Willow",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 15: Left choice is +30 Bedlam Damage (increasing per-hit damage to 100/150/200). Right choice is -15s Terrorize Cooldown (reducing cooldown to 85/75/65 seconds). Choose +30 Bedlam Damage to significantly increase your magic DPS output in fights, especially against heroes without BKB. Choose -15s Terrorize Cooldown if you have Aghanim's Shard and the BKB-piercing fear is critical for your team's strategy, allowing you to use it more often.",
+    "search_text": "Dark Willow level 15 talent left +30 Bedlam Damage 100 150 200 right -15s Terrorize Cooldown 85 75 65 Aghanim Shard BKB pierce",
+    "tags": [
+      "Dark Willow",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 20: Left choice is +1.5s Shadow Realm Duration (increasing max duration to 6.5s). Right choice is -7s Bramble Maze CD (reducing cooldown to 15s). Choose +1.5s Shadow Realm Duration for more survivability, better positioning, and more time to wait for the perfect empowered attack in chaotic fights. Choose -7s Bramble Maze CD if you need more frequent area denial and control, especially in sieges or against illusion heroes.",
+    "search_text": "Dark Willow level 20 talent left +1.5s Shadow Realm Duration 6.5s right -7s Bramble Maze CD 15 seconds area control",
+    "tags": [
+      "Dark Willow",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 25: Left choice is +2 Bedlam Attack Targets (allowing Bedlam to hit up to 3 targets simultaneously). Right choice is 500 Terrorize Impact Damage. Choose +2 Bedlam Attack Targets for immense teamfight AOE magic damage, making you a huge threat to grouped enemies. Choose 500 Terrorize Impact Damage if you rely on Terrorize as your primary engagement tool, adding a significant nuke to its BKB-piercing fear, which can secure kills on fleeing heroes.",
+    "search_text": "Dark Willow level 25 talent left +2 Bedlam Attack Targets 3 AOE damage right 500 Terrorize Impact Damage nuke BKB pierce",
+    "tags": [
+      "Dark Willow",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

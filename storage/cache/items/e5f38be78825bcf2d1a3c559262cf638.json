@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Grove Bow, Tier 1: Neutral item providing a Magic Amp passive effect. Reduces magic resistance of the attacked enemy by 20% for 6 seconds. Enables physical attackers to amplify subsequent magic damage from their team, providing a unique hybrid utility. Stats: MR Reduction: 20%, Debuff Duration: 6s.",
+    "search_text": "grove bow, tier 1 neutral, magic amp, magic resistance reduction, debuff, amplify magic damage, magic damage support, hybrid item, neutral item, MR shred, amplify spells, magic amp item, Grove Bow",
+    "tags": [
+      "ITEM_DATA",
+      "GROVE_BOW",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "DEBUFF",
+      "MAGIC_AMPLIFICATION",
+      "UTILITY"
+    ]
+  }
+]

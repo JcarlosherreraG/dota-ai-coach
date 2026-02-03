@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Quicksilver Amulet, Cost: 0: An enchanted talisman that grants a persistent 5% movement speed and 20 attack speed whenever at least one of your abilities is on cooldown, making it ideal for heroes who cycle spells frequently. It provides a permanent baseline of 4% movement speed and 18 attack speed, and significantly increases your hero's attack animation and projectile speeds by 40%. This neutral item is focused on enhancing mobility and attack tempo. Stats: Base MS: +4%, Base AS: +18, Bonus MS: +5%, Bonus AS: +20, Attack Anim Increase: +40%, Projectile Speed Increase: +40%.",
+    "search_text": "neutral item, movement speed item, attack speed item, spell cooldown synergy, ability cycling, cast passive, stat booster, speed neutral, dps neutral, mobility neutral, Quicksilver Amulet",
+    "tags": [
+      "ITEM_DATA",
+      "QUICKSILVER_AMULET",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "MOBILITY",
+      "ATTACK_SPEED",
+      "UTILITY",
+      "BUFF",
+      "DPS"
+    ]
+  }
+]

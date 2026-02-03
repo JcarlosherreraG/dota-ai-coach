@@ -1,0 +1,211 @@
+[
+  {
+    "display_text": "Leshrac is a ranged Intelligence hero. Starting Stats: 20 Strength, 17 Agility, 22 Intelligence. Attack Rate: 1.7 seconds per attack. Average starting Intelligence, low Agility leading to poor armor, and an exceptionally slow attack rate which makes him poor at right-clicking.",
+    "search_text": "Leshrac ranged intelligence hero stats base attack rate 1.7 agi str int",
+    "tags": [
+      "LESHRAC",
+      "BASE_STATS",
+      "RANGED",
+      "INTELLIGENCE"
+    ]
+  },
+  {
+    "display_text": "Chronoptic Nourishment: Leshrac's attacks restore mana. This facilitates a sustained ability-spam playstyle in lane and later fights, rewarding you for weaving in auto-attacks between spells, especially valuable with his high mana costs. Misanthropy: Diabolic Edict explosion rate increased but it no longer damages buildings. This transforms Leshrac from a pushing hero into a pure hero-fight specialist, significantly boosting his single-target burst damage potential against enemy heroes at the cost of all building damage.",
+    "search_text": "leshrac facet Chronoptic Nourishment attacks restore mana Misanthropy Diabolic Edict faster explosions no building damage hero fight",
+    "tags": [
+      "LESHRAC",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Leshrac's laning phase revolves around his high magic burst. Prioritize Split Earth (Q) for its 1.7 second stun or Lightning Storm (E) for its long-range 75% slow to secure kills with a support. His low attack speed makes last-hitting difficult; rely on spells. Diabolic Edict (W) can be used at level 1 or 2 to threaten kills or push the wave. Manage mana carefully. Leshrac is vulnerable to ganks due to low mobility and armor.",
+    "search_text": "Leshrac laning early game skill build Split Earth stun Lightning Storm slow Diabolic Edict push mana management",
+    "tags": [
+      "LESHRAC",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 with Pulse Nova provides massive sustained AoE damage, enabling early tower pushes and fights. Level 12 with maxed core abilities (often Q/W/E) and Bloodstone timing. Level 18 with maxed Pulse Nova and high-level talents. Level 20 talent (Diabolic Edict Hits An Additional Target or +30 Pulse Nova Damage) significantly boosts damage output. Level 25 talent (+20 Diabolic Edict Explosions) makes his burst lethal.",
+    "search_text": "Leshrac power spike level 6 Pulse Nova level 12 bloodstone level 18 level 20 talent level 25 talent",
+    "tags": [
+      "LESHRAC",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: 1. High burst damage and instant silences/hexes (Skywrath Mage, Lion) prevent Leshrac from activating his survivability items (BKB) and kill him during Pulse Nova channel. 2. Pure damage and high magic resistance (Anti-Mage, Pudge, Visage) ignore or reduce his primary damage type. 3. Break (Shadow Demon, Doom) disables his Chronoptic Nourishment facet's mana sustain. 4. Kiting heroes (Drow Ranger, Sniper) can attack him from outside his Pulse Nova (500 radius) and Diabolic Edict (450 radius) ranges.",
+    "search_text": "Leshrac counter silence hex burst magic resistance pure damage Anti-Mage Pudge break Shadow Demon kiting",
+    "tags": [
+      "LESHRAC",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: Bloodstone is absolutely essential for mana sustain and survivability during Pulse Nova. Black King Bar (BKB) is mandatory in most games to prevent being stunned/silenced and killed while channeling Pulse Nova. Aether Lens or Kaya \u0026 Sange are common follow-ups; Lens increases cast range, K\u0026S provides status resistance and spell amplification.",
+    "search_text": "Leshrac core items bloodstone BKB Black King Bar aether lens kaya and sange",
+    "tags": [
+      "LESHRAC",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Leshrac is a frontline magic damage tank and area-of-effect (AoE) damage dealer. His job is to activate Pulse Nova and Black King Bar, walk into the enemy team, and use Diabolic Edict and Split Earth to deal massive, continuous magic damage in a large area. He soaks attention and spells, creating space for his carries. Positioning is key to maximize the number of enemies hit by his AoE spells.",
+    "search_text": "Leshrac teamfight frontliner AoE magic damage Pulse Nova Diabolic Edict BKB positioning",
+    "tags": [
+      "LESHRAC",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Split Earth (Q): Leshrac splits the earth under enemies after a 0.35 second delay, dealing damage and stunning them for 1.7 seconds. The radius is 150/170/190/210. It destroys trees in its area. This ability does NOT pierce BKB (pierce_immunity not present, default is 0).",
+    "search_text": "Split Earth Q stun 1.7 seconds delay 0.35 radius 150 170 190 210 destroys trees",
+    "tags": [
+      "LESHRAC",
+      "ABILITY_DATA",
+      "STUN",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Diabolic Edict (W): Leshrac creates 40 magical explosions over 10 seconds in a 450 radius around him. Each explosion deals 10/18/26/34 pure damage to enemy units and buildings. The fewer units available to attack, the more damage those units will take (damage is distributed). The explosions continue even if Leshrac dies. This ability affects buildings (affects_buildings: 1). It does NOT pierce BKB (pierce_immunity not present).",
+    "search_text": "Diabolic Edict W pure damage 10 18 26 34 per explosion 40 explosions 10 seconds radius 450 hits buildings",
+    "tags": [
+      "LESHRAC",
+      "ABILITY_DATA",
+      "PURE_DAMAGE",
+      "AOE",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Lightning Storm (E): Strikes a target enemy unit for 90/140/190/240 damage, then jumps to 5/7/9/11 additional nearby enemies within 450 radius. Each jump has a 0.25 second delay. Struck enemies have their movement speed slowed by 75% for 0.45/0.70/0.95/1.20 seconds. This ability does NOT pierce BKB (pierce_immunity not present).",
+    "search_text": "Lightning Storm E slow 75% damage 90 140 190 240 jumps 5 7 9 11 radius 450",
+    "tags": [
+      "LESHRAC",
+      "ABILITY_DATA",
+      "SLOW",
+      "CHAIN",
+      "NUKER"
+    ]
+  },
+  {
+    "display_text": "Nihilism (R): Causes Leshrac and all nearby enemies within a 500 radius to turn ethereal for 4 seconds. While ethereal, units cannot attack, are slowed by 30%, and take 30% increased magic damage. Leshrac's movement speed is increased rather than reduced. Leshrac does not take amplified magic damage from this ability. It does NOT pierce BKB (pierce_immunity not present).",
+    "search_text": "Nihilism R ethereal 4 seconds radius 500 magic amp 30% slow 30% Leshrac speed increased",
+    "tags": [
+      "LESHRAC",
+      "ABILITY_DATA",
+      "ETHEREAL",
+      "DEBUFF",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Defilement (Passive): Leshrac gains 0.7 attack area of effect per point of Intelligence. This increases the splash radius of his attacks based on his Intelligence, helping with farming and applying attack modifiers in a small area.",
+    "search_text": "Defilement passive AoE per int 0.7 attack splash radius intelligence",
+    "tags": [
+      "LESHRAC",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "FARM"
+    ]
+  },
+  {
+    "display_text": "Pulse Nova (Ultimate): Creates waves of damaging energy around Leshrac, one per second, dealing 80/135/180 magic damage to nearby enemies within 500 radius. Drains 25/45/65 mana per second. Can be toggled on and off. This ability does NOT pierce BKB (pierce_immunity not present).",
+    "search_text": "Pulse Nova ultimate toggle magic damage 80 135 180 per second radius 500 mana drain 25 45 65 per second",
+    "tags": [
+      "LESHRAC",
+      "ABILITY_DATA",
+      "TOGGLE",
+      "AOE",
+      "DPS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When losing, Leshrac cannot frontline. Build defensively with items like Force Staff, Ghost Scepter, or Eul's Scepter. Use Lightning Storm and Split Earth from a distance to defend high ground. Avoid using Pulse Nova aggressively without BKB. Focus on clearing creep waves safely with spells.",
+    "search_text": "Leshrac behind losing game defensive items force staff ghost eul defend high ground",
+    "tags": [
+      "LESHRAC",
+      "SITUATIONAL",
+      "DEFENSE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Illusion Heroes (Chaos Knight, Phantom Lancer). Leshrac excels. His Pulse Nova and Diabolic Edict deal constant AoE damage that quickly burns down illusions. Prioritize maxing Pulse Nova and building mana sustain (Bloodstone). A Shivas Guard later is excellent. Be careful of being manaburned (Anti-Mage, Diffusal Blade).",
+    "search_text": "Leshrac vs illusions Phantom Lancer Chaos Knight Pulse Nova Diabolic Edict AoE bloodstone shivas guard",
+    "tags": [
+      "LESHRAC",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy Team has High Magic Resistance (Pudge, Visage, Huskar). Your pure damage from Diabolic Edict becomes crucial. Consider the Misanthropy facet for faster hero burst. Itemize for utility and survivability (Rod of Atos, Hex) instead of pure magic amp. Aghanims Shard can provide extra utility.",
+    "search_text": "Leshrac vs magic resistance Pudge Huskar Visage Diabolic Edict pure damage Misanthropy facet utility items",
+    "tags": [
+      "LESHRAC",
+      "SITUATIONAL",
+      "VS_MAGIC_RESIST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Push Towers Early. Use the Chronoptic Nourishment facet for mana sustain from attacks on the tower. Max Diabolic Edict first. Use it on cooldown with creep waves to take towers quickly. Build early mana items (Soul Ring, Arcane Boots) to support this. Group with your team to secure objectives.",
+    "search_text": "Leshrac push towers early game Diabolic Edict building damage Chronoptic Nourishment facet soul ring arcane boots",
+    "tags": [
+      "LESHRAC",
+      "SITUATIONAL",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Multiple BKB Carries. Your main spells (Q, W, E, R) do not pierce BKB. Your role shifts to controlling and bursting heroes before they activate BKB, or kiting them after BKB ends. Items like Scythe of Vyse (Hex) and Shiva's Guard slow are critical. Position carefully and focus on heroes without BKB active.",
+    "search_text": "Leshrac vs BKB Black King Blade carriers control hex kiting scythe of vyse shivas guard",
+    "tags": [
+      "LESHRAC",
+      "SITUATIONAL",
+      "VS_BKB"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: +1.5 Mana Regen vs +4 Armor. Choose Mana Regen if you are struggling with mana for Pulse Nova and farming. Choose +4 Armor if you are taking significant physical damage in fights and need survivability, as Leshrac has low base armor.",
+    "search_text": "Leshrac talent level 10 1.5 mana regen 4 armor survivability sustain",
+    "tags": [
+      "LESHRAC",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: +80 Lightning Storm Damage vs +10% Damage Reduction during Pulse Nova. Choose the Lightning Storm damage if you need additional burst and wave clear. Choose the Damage Reduction if you are the primary frontline and are being focused, as it significantly increases your tankiness while your ultimate is active.",
+    "search_text": "Leshrac talent level 15 80 lightning storm damage 10 percent damage reduction Pulse Nova tank burst",
+    "tags": [
+      "LESHRAC",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Diabolic Edict Hits An Additional Target vs +30 Pulse Nova Damage. The additional Diabolic Edict target is generally superior, as it dramatically increases your single-target burst and overall damage output in fights, especially with the Misanthropy facet. +30 Pulse Nova Damage is a safe, consistent increase if fights are prolonged and you are constantly in the middle.",
+    "search_text": "Leshrac talent level 20 Diabolic Edict extra target 30 Pulse Nova damage burst DPS",
+    "tags": [
+      "LESHRAC",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Pulse Nova triggers Lightning Storm vs +20 Diabolic Edict Explosions. Pulse Nova triggering Lightning Storm provides incredible automatic AoE slow and damage, perfect for chaotic teamfights. +20 Diabolic Edict Explosions turns the ability into an instant 60-explosion nuke, making your burst nearly unsurvivable for a single target. Choose based on whether you need consistent teamfight control (Lightning) or instantaneous single-target delete (Explosions).",
+    "search_text": "Leshrac talent level 25 Pulse Nova triggers Lightning Storm 20 Diabolic Edict explosions burst control",
+    "tags": [
+      "LESHRAC",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

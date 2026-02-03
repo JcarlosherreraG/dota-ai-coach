@@ -1,0 +1,62 @@
+[
+  {
+    "display_text": "Cost: 460: Magic Wand provides instant burst healing and mana restoration based on stored charges. Gains a charge (max 20) whenever a visible enemy within 1200 range uses an ability. The active restores 15 health and mana per charge, making it a crucial reactive sustain and survival tool against spell-spamming enemies. Stats: CD: 15s, Max Charges: 20, Restore per Charge: 15 HP/MP.",
+    "search_text": "magic wand, burst heal, burst mana, reactive heal, spell counter, wand, stick, charges, heal stick, mana stick, sustain item, Magic Wand, enemy spell trigger, anti-spam item, cheap survival, instant regen, save item, lane sustain, early game item, survival",
+    "tags": [
+      "ITEM_DATA",
+      "MAGIC_WAND",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "SAVE",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "SUSTAIN",
+      "UTILITY",
+      "BURST_HEAL",
+      "BURST_MANA",
+      "COUNTER_SPAM"
+    ]
+  },
+  {
+    "display_text": "Cost: 460: Provides a small stat boost of +3 to all attributes (Strength, Agility, Intelligence), adding minor health, mana, attack speed, and damage. This base profile makes it a valuable early-game slot-efficient purchase that builds from Magic Stick.",
+    "search_text": "magic wand stats, +3 stats, all stats, attribute bonus, early stats, hp mana boost, all-rounder stats, small stats, Magic Wand",
+    "tags": [
+      "ITEM_DATA",
+      "MAGIC_WAND",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "HEALTH",
+      "MANA",
+      "ATTRIBUTES",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Cost: 460: Serves as a defensive and reactive support item in team fights, countering high-frequency spell combos. Its value scales with the number of enemy spells cast nearby, providing a crucial burst of HP and MP to turn fights or survive ganks initiated by spell-heavy lineups.",
+    "search_text": "magic wand team fight, reactive item, counter magic damage, survive burst, anti-caster, defensive item, team fight sustain, clutch save, turn fight, Magic Wand",
+    "tags": [
+      "ITEM_DATA",
+      "MAGIC_WAND",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DEFENSIVE",
+      "SAVE",
+      "SURVIVAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "Cost: 460: Situational vs spell-spamming heroes or lineups that cast frequently in skirmishes (e.g., Bristleback, Batrider, Zeus). Highly effective in early-game lanes against aggressive spell usage, making it a core early purchase for most heroes.",
+    "search_text": "magic wand vs casters, vs spam, lane counter, early lane item, vs bristleback, vs batrider, vs zeus, spell counter item, Magic Wand",
+    "tags": [
+      "ITEM_DATA",
+      "MAGIC_WAND",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "EARLY_GAME_USAGE",
+      "SUPPORT_ITEM",
+      "CORE_ITEM",
+      "VS_CASTER"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "display_text": "Tome of Knowledge, Cost: 75: Single-use consumable that grants 750 experience to the user. Grants an additional 150 experience for each tome consumed by your team after the first two. Does not have a cooldown. Stats: Charges: 1.",
+    "search_text": "experience item, level up item, tome, consumable experience, book of knowledge, tome of knowledge, level boost, fast level, catch up experience, xp item, support tome, share tome, team experience, xp boost",
+    "tags": [
+      "ITEM_DATA",
+      "TOME_OF_KNOWLEDGE",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "EXPERIENCE",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Tome of Knowledge, Cost: 75: Purchased by supports to accelerate their level progression when falling behind in experience, or to reach a critical level (e.g., level 6 for ultimate). Timing is crucial and benefits from coordination, as team-wide consumption increases the base reward.",
+    "search_text": "support item, catch up xp, underleveled support, level 6 tome, ultimate unlock, timing item, coordinated purchase, team xp, Tome of Knowledge",
+    "tags": [
+      "ITEM_DATA",
+      "TOME_OF_KNOWLEDGE",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "SUPPORT_ITEM",
+      "TIMING_ITEM"
+    ]
+  },
+  {
+    "display_text": "Tome of Knowledge, Cost: 75: Strategic item to provide a key experience spike for allies preparing for an objective or team fight. Use in the mid to late game to ensure a key hero has a crucial talent or ultimate upgrade. Prioritize usage on heroes who can immediately convert the level into map pressure.",
+    "search_text": "objective timing, talent unlock, level spike, talent tome, strategic xp, mid game tome, power spike tome, fight preparation, Tome of Knowledge",
+    "tags": [
+      "ITEM_DATA",
+      "TOME_OF_KNOWLEDGE",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "TIMING_ITEM",
+      "OBJECTIVE_CONTROL"
+    ]
+  }
+]

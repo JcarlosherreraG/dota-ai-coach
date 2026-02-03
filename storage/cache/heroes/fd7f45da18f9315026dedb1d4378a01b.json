@@ -1,0 +1,211 @@
+[
+  {
+    "display_text": "Ancient Apparition is a ranged intelligence hero with base 23 intelligence, 20 strength, and 20 agility. His attack rate is 1.7 seconds, which is slower than average for a ranged support. This makes his right-click unreliable without his Chilling Touch ability.",
+    "search_text": "Ancient Apparition stats ranged intelligence 23 20 20 strength agility 1.7 attack rate",
+    "tags": [
+      "Ancient Apparition",
+      "BASE_STATS",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Bone Chill (Facet): Ancient Apparition's abilities reduce the enemy's Strength. This facet is powerful against Strength-dependent heroes and tanks, amplifying physical damage and lowering their health pool. Exposure (Facet): Cold Feet applies in an AoE, depending on the current level of Ice Blast. This facet transforms a single-target control spell into a powerful area-of-effect setup, making it excellent for teamfight initiation and wombo-combos.",
+    "search_text": "Ancient Apparition facets Bone Chill reduces enemy Strength Exposure Cold Feet AOE area of effect Ice Blast level",
+    "tags": [
+      "Ancient Apparition",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "In lane, Ancient Apparition excels at harassing with his long attack range when enhanced by Chilling Touch. Use Chilling Touch level 1 for strong early trades. Cold Feet is your main kill threat, requiring the enemy to move 725-800 units away to avoid a 1.8-3.0 second stun. Coordinate with your lane partner's slows or stuns to secure it. Ice Vortex provides vision and amplifies magic damage, making it useful for zoning and securing ranged creep last hits.",
+    "search_text": "Ancient Apparition laning phase Chilling Touch harass Cold Feet stun break distance 725 750 775 800 Ice Vortex vision magic damage amplification",
+    "tags": [
+      "Ancient Apparition",
+      "LANING_PHASE",
+      "LANE"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a global power spike with Ice Blast, enabling kills anywhere on the map and countering healing. Level 12 with maxed Ice Vortex (70% movement slow, 25% magic resistance reduction) and a point in Chilling Touch provides strong utility and damage. Level 18 with maxed talents and abilities makes you a major teamfight threat. Key item spikes include Aghanim's Scepter (improves Ice Blast) and any item providing cooldown reduction or survivability like Glimmer Cape or Force Staff.",
+    "search_text": "Ancient Apparition power spikes level 6 Ice Blast global level 12 Ice Vortex max slow 70 magic resist reduction 25 level 18 talents Aghanim Scepter",
+    "tags": [
+      "Ancient Apparition",
+      "POWER_SPIKES",
+      "SPIKE"
+    ]
+  },
+  {
+    "display_text": "Ancient Apparition is hard-countered by heroes with high mobility or spell immunity that can easily break Cold Feet (e.g., Queen of Pain Blink, Anti-Mage Blink). Instant silences or hexes prevent him from casting Ice Blast or releasing it. Heroes with strong dispels (e.g., Oracle, Legion Commander) can remove the Frostbitten debuff from Ice Blast, negating its kill threat and healing prevention.",
+    "search_text": "Ancient Apparition counters hard counter mobility break Cold Feet spell immunity BKB silence hex dispel Frostbitten Ice Blast",
+    "tags": [
+      "Ancient Apparition",
+      "HARD_COUNTERS",
+      "COUNTER"
+    ]
+  },
+  {
+    "display_text": "Core items for Ancient Apparition are Aghanim's Scepter (massively increases Ice Blast radius and applies Frostbite to all enemies in the blast) and Boots of Travel (for global map presence to complement Ice Blast). A defensive item like Glimmer Cape or Force Staff is also essential to survive and reposition.",
+    "search_text": "Ancient Apparition core build Aghanim Scepter Ice Blast radius Frostbite Boots of Travel global Glimmer Cape Force Staff",
+    "tags": [
+      "Ancient Apparition",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Ancient Apparition's role is to initiate or counter-initiate with Ice Blast to apply the Frostbitten debuff (preventing healing) to key targets. Use Ice Vortex to amplify magic damage for your team and slow enemies. Cast Chilling Touch on your right-clicking cores before the fight. Use Cold Feet on priority targets to force them to reposition or be stunned. Stay at the far backline and survive to cast multiple rounds of spells.",
+    "search_text": "Ancient Apparition teamfight role Ice Blast Frostbitten prevent healing Ice Vortex magic amp slow Chilling Touch buff cores Cold Feet stun backline",
+    "tags": [
+      "Ancient Apparition",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Cold Feet (Q): Places Death Rime Stacks on an enemy that can be dispelled by moving away from the initial cast point. If the enemy unit doesn't move outside of the 725 / 750 / 775 / 800 unit range, it will be stunned and frozen in place after 4 seconds for 1.8 / 2.2 / 2.6 / 3.0 seconds. Does NOT pierce BKB. Deals damage every half second.",
+    "search_text": "Cold Feet Q stun break distance 725 750 775 800 stun duration 1.8 2.2 2.6 3.0 Death Rime Stacks dispel move away damage half second",
+    "tags": [
+      "Ancient Apparition",
+      "ABILITY_DATA",
+      "COLD_FEET",
+      "STUN",
+      "CONTROL"
+    ]
+  },
+  {
+    "display_text": "Ice Vortex (W): Creates a vortex of icy energy with a 275 radius that applies Death Rime Stacks. It slows enemy movement speed by 16% / 19% / 22% / 25%, reduces their spell resistance by 16% / 19% / 22% / 25%, and increases magic damage taken. The vortex lasts 6 / 8 / 10 / 12 seconds, dragging enemies at 40 / 50 / 60 / 70 speed towards its center, and provides vision in a 200 / 220 / 240 / 260 area. Cooldown is 10 / 8 / 6 / 4 seconds.",
+    "search_text": "Ice Vortex W slow 16 19 22 25 movement speed spell resist reduction magic amp 275 radius duration 6 8 10 12 drag speed 40 50 60 70 vision 200 220 240 260 cooldown 10 8 6 4",
+    "tags": [
+      "Ancient Apparition",
+      "ABILITY_DATA",
+      "ICE_VORTEX",
+      "SLOW",
+      "VISION",
+      "MAGIC_AMP"
+    ]
+  },
+  {
+    "display_text": "Chilling Touch (E): Enhances Ancient Apparition's attack with 60 / 90 / 120 / 150 bonus range and adds 30 / 60 / 90 / 120 magic damage. Applies 2 Death Rime Stacks that last 3 seconds. Additionally applies a 100% slow for 0.7 / 0.8 / 0.9 / 1.0 seconds. Costs 45 / 50 / 55 / 60 mana and has a 12 / 9 / 6 / 3 second cooldown.",
+    "search_text": "Chilling Touch E attack range bonus 60 90 120 150 magic damage 30 60 90 120 Death Rime Stacks 2 slow 100 percent 0.7 0.8 0.9 1.0 mana cost 45 50 55 60 cooldown 12 9 6 3",
+    "tags": [
+      "Ancient Apparition",
+      "ABILITY_DATA",
+      "CHILLING_TOUCH",
+      "BUFF",
+      "SLOW",
+      "NUKER"
+    ]
+  },
+  {
+    "display_text": "Death Rime (Passive): Ancient Apparition's abilities apply Death Rime Stacks on enemies. Each stack deals 10 damage per second and slows movement speed by 2%. Stacks from different abilities are independent.",
+    "search_text": "Death Rime passive stacks damage per second 10 slow 2 percent movement speed per stack",
+    "tags": [
+      "Ancient Apparition",
+      "ABILITY_DATA",
+      "DEATH_RIME",
+      "PASSIVE",
+      "DOT",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Ice Blast (R): Launches a tracer globally. When released, it explodes in an area. The explosion radius starts at 275 and grows by 50 per second traveled, max 1000. Enemies hit are Frostbitten for 10 / 11 / 12 seconds, gaining Death Rime Stacks and being prevented from healing. If a Frostbitten unit's health falls below 12% / 13% / 14%, they instantly shatter and die. The tracer moves at 1500 speed and reveals a 500 radius around its target. Does NOT pierce BKB (no pierce_immunity attribute).",
+    "search_text": "Ice Blast R ultimate global Frostbitten duration 10 11 12 prevent healing HP freeze shatter kill threshold 12 13 14 radius 275 1000 growth 50 per second speed 1500 target sight 500",
+    "tags": [
+      "Ancient Apparition",
+      "ABILITY_DATA",
+      "ICE_BLAST",
+      "ULTIMATE",
+      "GLOBAL",
+      "HEAL_BLOCK",
+      "EXECUTE"
+    ]
+  },
+  {
+    "display_text": "Release (Sub-Spell): Releases the ice blast to explode at the tracer's current location. Can be cast while silenced.",
+    "search_text": "Release sub spell Ice Blast detonate explode cast while silenced",
+    "tags": [
+      "Ancient Apparition",
+      "ABILITY_DATA",
+      "RELEASE",
+      "SUB_SPELL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Healing Lineups (e.g., Huskar, Alchemist, Necrophos). Ice Blast is your primary tool. Aim to land global Ice Blasts during engagements to apply Frostbitten, completely negating their healing and regeneration. Prioritize leveling Ice Blast and consider an Aghanim's Scepter to affect the entire enemy team. Your role is to make key targets vulnerable to burst.",
+    "search_text": "Ancient Apparition situational vs high healing Huskar Alchemist Necrophos Ice Blast Frostbitten prevent healing regeneration Aghanim Scepter",
+    "tags": [
+      "Ancient Apparition",
+      "SITUATIONAL",
+      "VS_HEALING"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When your team is losing, focus on defensive positioning and using Ice Blast to snipe low-health heroes globally for comeback gold. Use Ice Vortex to provide vision and slow enemy pushes from a safe distance. Build cheap utility items like Force Staff or Glimmer Cape to save yourself and allies, ensuring you can contribute without dying.",
+    "search_text": "Ancient Apparition situational playing from behind defensive Ice Blast global snipe Ice Vortex vision slow Force Staff Glimmer Cape",
+    "tags": [
+      "Ancient Apparition",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: With Heavy Physical Damage Cores (e.g., Drow Ranger, Sniper). Use Chilling Touch to buff your carries before fights, significantly increasing their burst damage. The Facet 'Bone Chill' is strong here as reducing enemy Strength lowers their max HP, making them easier to kill with physical damage. Your job is to amplify your team's damage output.",
+    "search_text": "Ancient Apparition situational with physical damage cores Drow Sniper Chilling Touch buff Bone Chill reduce Strength max HP",
+    "tags": [
+      "Ancient Apparition",
+      "SITUATIONAL",
+      "WITH_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Mobile Heroes (e.g., Storm Spirit, Puck). Landing Cold Feet becomes difficult. Use Ice Vortex to slow them in an area first, then follow with Cold Feet. Consider building a Rod of Atos to root them, guaranteeing the Cold Feet stun. The Exposure Facet can help if you can catch multiple mobile heroes in the AoE Cold Feet.",
+    "search_text": "Ancient Apparition situational vs mobile Storm Spirit Puck Ice Vortex slow setup Cold Feet Rod of Atos root Exposure Facet AOE",
+    "tags": [
+      "Ancient Apparition",
+      "SITUATIONAL",
+      "VS_MOBILE"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left talent grants +300 Chilling Touch Attack Range, significantly increasing your safe harass and right-click contribution in fights. Right talent gives +2 Cold Feet Death Rime Stacks, increasing the slow and damage from that ability. Choose the range if you need safer positioning and more consistent damage. Choose the stacks if you are focusing on locking down a single target with Cold Feet and your team lacks slows.",
+    "search_text": "Ancient Apparition talent level 10 left +300 Chilling Touch Attack Range right +2 Cold Feet Death Rime Stacks",
+    "tags": [
+      "Ancient Apparition",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left talent reduces Ice Vortex cooldown by 2 seconds, allowing more frequent slows and magic amplification. Right talent increases Cold Feet break distance by 300, making it much harder for enemies to escape the stun. Choose the cooldown reduction if you are spamming Ice Vortex in sieges or teamfights. Choose the break distance if the enemy team has low mobility and you need more reliable disables.",
+    "search_text": "Ancient Apparition talent level 15 left -2s Ice Vortex Cooldown right +300 Cold Feet Breaking distance",
+    "tags": [
+      "Ancient Apparition",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left talent adds +4 seconds to Ice Blast Frostbitten Duration, extending the healing prevention and kill threat window. Right talent adds +80 damage to Chilling Touch, significantly boosting your and your allies' right-click burst. Choose the duration if the enemy has strong healers or saves. Choose the damage if your team needs immediate physical burst to quickly eliminate key targets.",
+    "search_text": "Ancient Apparition talent level 20 left +4s Ice Blast Frostbitten Duration right +80 Chilling Touch Damage",
+    "tags": [
+      "Ancient Apparition",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left talent increases Death Rime Slow and Damage by 50%, making your passive significantly more potent at kiting and whittling down enemies. Right talent increases Ice Blast Kill Threshold by 4%, meaning enemies shatter at 16%/17%/18% health (from 12%/13%/14%). Choose the passive boost for consistent teamfight control and damage. Choose the kill threshold against high-health pool heroes to secure more executions.",
+    "search_text": "Ancient Apparition talent level 25 left +50% Death Rime Slow Damage right +4% Ice Blast Kill Threshold",
+    "tags": [
+      "Ancient Apparition",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

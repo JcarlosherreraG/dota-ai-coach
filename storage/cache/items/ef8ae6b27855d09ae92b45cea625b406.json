@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Whisper of the Dread, Tier 3: Neutral item equipped to the hero. Passive: Tunnel Vision - reduces the equipped hero's daytime vision by 15% but increases their Spell Damage by 10%. A trade-off for spellcasters seeking damage output at the cost of awareness. Stats: Vision Penalty: -15%, Spell Damage: +10%.",
+    "search_text": "neutral item, tier 3 neutral, spell damage increase, passive, tunnel vision, vision reduction, caster neutral, magic damage, intelligence neutral, Whisper of the Dread, whisper dread, spell amp neutral, damage amp, vision penalty, day vision, downside item",
+    "tags": [
+      "ITEM_DATA",
+      "WHISPER_OF_THE_DREAD",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "SPELL_AMPLIFICATION",
+      "MAGICAL_DAMAGE",
+      "UTILITY",
+      "PASSIVE",
+      "VISION",
+      "DISADVANTAGE"
+    ]
+  }
+]

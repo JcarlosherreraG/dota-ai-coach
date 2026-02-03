@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Pollywog Charm, Tier 1: Neutral item that can be cast on an ally to increase their health regeneration by 8 HP/s for 14 seconds. While the blessed unit is standing in water, they also gain 10% bonus movement speed. Provides no attributes. Stats: CD: 45s, Duration: 14s.",
+    "search_text": "pollywog charm, tier 1 neutral, neutral item, heal regen, health regeneration buff, regen boost, water movement speed, river speed, ally buff, targetable heal, support neutral, Pollywog Charm",
+    "tags": [
+      "ITEM_DATA",
+      "POLLIWOG_CHARM",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "REGEN",
+      "SUSTAIN",
+      "BUFF",
+      "MOBILITY",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "display_text": "Psychic Headband, Tier 3: Neutral item with Psychic Push ability that forcibly moves a target unit 400 distance away from you over 0.3 seconds. Single-target repositioning tool usable on both heroes and basic units. Does not trigger spell block or spell reflect. Stats: CD: 15s, Range: 0 (instant cast on target), Push Distance: 400, Push Duration: 0.3s.",
+    "search_text": "psychic push, reposition enemy, force movement, knockback item, displacement neutral, tier 3 neutral, move enemy, disrupt positioning, utility neutral, save tool, disrupt channeling, initiator tool, crowd control, Psychic Headband, headband",
+    "tags": [
+      "ITEM_DATA",
+      "PSYCHIC_HEADBAND",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "UTILITY",
+      "DISPLACEMENT",
+      "CROWD_CONTROL",
+      "DISABLE",
+      "SAVE",
+      "INITIATION",
+      "POSITIONING"
+    ]
+  }
+]

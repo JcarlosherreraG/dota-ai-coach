@@ -1,0 +1,14 @@
+[
+  {
+    "display_text": "Hermes Sandals Recipe. Cost: 500: Component required to assemble Hermes Sandals. Does not provide stats or abilities. Must be purchased from the shop to combine with its other components. Stats: Cost: 500.",
+    "search_text": "recipe, component, crafting item, item recipe, combine item, build item, assemble item, Hermes Sandals Recipe",
+    "tags": [
+      "ITEM_DATA",
+      "RECIPE_HERMES_SANDALS",
+      "CORE_DESCRIPTION",
+      "RECIPE",
+      "COMPONENT",
+      "UTILITY"
+    ]
+  }
+]

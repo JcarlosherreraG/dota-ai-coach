@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Barricade. Tier 0 (Consumable): Creates a destructible barrier wall at target location. Wall lasts 8 seconds, blocks movement and vision, and has 300 bonus health plus 5 armor, taking up to 5 hits from heroes before destruction. Provides map control for area denial, vision blocking, or defensive choke points. Stats: CD: 45s, Duration: 8s, Wall Health: 300 (+5 armor), Hits to Destroy: 5.",
+    "search_text": "barricade item, creates wall, destructible wall, area denial, vision block, map control, block path, terrain creation, neutral item, utility neutral, Barricade",
+    "tags": [
+      "ITEM_DATA",
+      "BARRICADE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_0",
+      "AREA_DENIAL",
+      "VISION_BLOCK",
+      "TERRAIN",
+      "UTILITY",
+      "MAP_CONTROL"
+    ]
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "display_text": "Shadow Shaman is an Intelligence-based ranged hero with a base attack range of 500. He has a slow attack rate of 1.7 seconds per attack, below average move speed of 285, and a moderate turn rate of 0.5. His starting stats of 20 Strength, 16 Agility, and 23 Intelligence provide decent mana pool and health for a support, with his primary weakness being low base armor and slow attack animation.",
+    "search_text": "Shadow Shaman stats base attributes attack type ranged attack rate 1.7 strength 20 agility 16 intelligence 23",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "BASE_STATS",
+      "RANGED",
+      "INTELLIGENCE"
+    ]
+  },
+  {
+    "display_text": "Cluster Cluck: Hex can be cast on allies, transforming them into chickens and applying a strong dispel. This adds a powerful save mechanic to his toolkit, allowing him to cleanse debuffs from teammates. Chicken Fingers: His attacks have a chance to Hex enemies, providing a significant amount of additional crowd control throughout the game. Massive Serpent Ward: Replaces his standard Ultimate, summoning a single massive ward with multiplied damage and health instead of 10 smaller ones. This is better for single-target focus and objective damage but loses area denial.",
+    "search_text": "Facet Shadow Shaman Cluster Cluck ally Hex strong dispel Chicken Fingers attack Hex chance Massive Serpent Ward single ward damage health multiplier",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "FACET_STRATEGY",
+      "FACET",
+      "CHOICE"
+    ]
+  },
+  {
+    "display_text": "In lane, use Ether Shock (Q) to secure last hits and harass the enemy duo. The damage (125/190/255/320) is high for level 1. Prioritize early levels in Hex (W) for kill threat with a 2/2.3/2.6/2.9 second disable. Use the long duration to set up for your core. Shackles (E) is a strong channeled disable but is risky without set-up; usually skilled at level 2 or 3. Buy mana regeneration items like Clarities and a Magic Stick. Your goal is to bully the enemy out of lane and secure kills with your disables.",
+    "search_text": "Shadow Shaman laning phase early game Ether Shock harass last hit Hex disable Shackles channel kill threat mana regen",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "LANING_PHASE",
+      "SUPPORT",
+      "LANE"
+    ]
+  },
+  {
+    "display_text": "Level 6 is the first major spike with Mass Serpent Ward, enabling tower pushes and Roshan attempts. Level 12 increases Shackles duration (with talent) and overall control. Level 18 provides maximum spell damage and duration. Level 20 talent for +250 Ether Shock damage or +1.5s Shackles is a significant power increase. Level 25 talent for +1 Ward Attack Targets dramatically increases ultimate DPS. Key item timings are Blink Dagger for initiation, Aghanim's Scepter for teamfight Shackles, and Refresher Orb for double ultimate.",
+    "search_text": "Shadow Shaman power spike level 6 Mass Serpent Ward push level 12 talent level 18 level 20 talent level 25 talent item timing Blink Dagger Aghanim Scepter Refresher Orb",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "POWER_SPIKES",
+      "LEVELS",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Silence and instant stuns prevent Shackles channeling. Linken's Sphere blocks his single-target initiation (Hex or Shackles). Heroes with high mobility (Queen of Pain, Anti-Mage) can easily escape his disables. Heroes who build Black King Bar are immune to all his spells (none pierce BKB). Spirit Vessel and other HP removal effects can kill him during his Fowl Play (Ultimate) damage reduction window. Break disables his Fowl Play passive.",
+    "search_text": "Shadow Shaman counters hard counters silence stun interrupt Shackles channel Linken's Sphere BKB immunity mobility escape Break disable Fowl Play",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "HARD_COUNTERS",
+      "COUNTER",
+      "WEAKNESS"
+    ]
+  },
+  {
+    "display_text": "Blink Dagger is absolutely essential for positioning to land Hex and Shackles. Aghanim's Scepter is core, allowing Shackles to chain to additional targets, massively increasing teamfight control. Refresher Orb is the late-game capstone, enabling two sets of Serpent Wards and double disables.",
+    "search_text": "Shadow Shaman core build essential items Blink Dagger initiation Aghanim Scepter Shackles chain Refresher Orb double ultimate",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "CORE_BUILD",
+      "ITEMS",
+      "BLINK",
+      "AGHANIM",
+      "REFRESHER"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Shadow Shaman's role is to lockdown key targets. Initiate with Blink + Hex on a core, followed by Shackles. Place Mass Serpent Wards to zone enemies, deal damage, and secure objectives. Use his spells to protect your carries by disabling divers. With Aghanim's Scepter, Shackles can control multiple enemies. He is a backline controller, not a frontliner.",
+    "search_text": "Shadow Shaman teamfight role lockdown disable Hex Shackles control Mass Serpent Ward zone damage protect carries backline controller",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "TEAMFIGHT_ROLE",
+      "CONTROL",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Ether Shock (Q) deals 125/190/255/320 magic damage in a cone, striking 3/5/7/9 enemy units. The cone starts with a 200 radius and expands to a 300 radius at 600 distance. Secondary targets can be hit up to 1000 units away from the primary target. This is his primary wave-clear and harassment tool.",
+    "search_text": "Ether Shock Q Shadow Shaman nuke magic damage cone 125 190 255 320 targets 3 5 7 9 start radius 200 end radius 300 distance 600 wave clear harass",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "ABILITY_DATA",
+      "ETHER_SHOCK",
+      "NOVA",
+      "MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Hex (W) transforms an enemy unit into a harmless creature for 2.0/2.3/2.6/2.9 seconds, disabling attacks and abilities. It instantly destroys illusions. The hexed target has a base movement speed of 100, but movement speed buffs are not disabled. Does NOT pierce BKB. A level 20 talent can make Hex apply Break.",
+    "search_text": "Hex W Shadow Shaman disable polymorph transform chicken 2.0 2.3 2.6 2.9 seconds destroys illusions movement speed 100 does not pierce BKB",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "ABILITY_DATA",
+      "HEX",
+      "DISABLE",
+      "POLYMORPH"
+    ]
+  },
+  {
+    "display_text": "Shackles (E) is a channeled ability. Magically binds an enemy unit from 450 range, preventing movement and attack for 2.4/3.0/3.6/4.2 seconds. Deals a total of 100/160/220/280 damage over the channel duration, ticking every 0.1 seconds. The target is leashed, but Shadow Shaman is vulnerable to interruption. Does NOT pierce BKB. Aghanim's Scepter allows it to chain to additional enemy heroes within range.",
+    "search_text": "Shackles E Shadow Shaman channel disable leash bind 2.4 3.0 3.6 4.2 seconds damage 100 160 220 280 range 450 tick 0.1 does not pierce BKB Aghanim chain",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "ABILITY_DATA",
+      "SHACKLES",
+      "CHANNEL",
+      "DISABLE",
+      "LEASH"
+    ]
+  },
+  {
+    "display_text": "Fowl Play is an innate ability. When Shadow Shaman takes lethal damage, he receives a strong dispel and survives with 1 HP, transformed into a chicken for 1 second. Incoming damage is reduced by 100% for 1 second. The cooldown resets on respawn. This does NOT prevent lethal damage from Culling Blade or Reaper's Scythe. It can be disabled by Break.",
+    "search_text": "Fowl Play innate passive Shadow Shaman survive lethal damage strong dispel chicken 1 HP 100% damage reduction 1 second cooldown reset respawn countered by Break Axe Necrophos",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "ABILITY_DATA",
+      "FOWL_PLAY",
+      "INNATE",
+      "SURVIVAL",
+      "DISPEL"
+    ]
+  },
+  {
+    "display_text": "Mass Serpent Ward (R) summons 10 Serpent Wards in a 150 radius that last 45 seconds. Wards are immune to magic and attack for 50/85/120 damage. They have 4 health and take 2 hits from heroes to destroy (creeps deal half damage). With the Massive Serpent Ward facet, a single ward with multiplied damage and health is summoned instead.",
+    "search_text": "Mass Serpent Ward R Ultimate Shadow Shaman summon 10 wards 50 85 120 damage 4 health 2 hits destroy magic immune duration 45 push tower massive ward facet",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "ABILITY_DATA",
+      "MASS_SERPENT_WARD",
+      "ULTIMATE",
+      "SUMMON",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your team is ahead and pushing high ground. Use Mass Serpent Wards to siege towers and barracks safely from outside the base. The wards provide vision and force enemies to commit into your team's disables. Prioritize the Hex + Shackles combo on any hero who tries to defend from the high ground ledge.",
+    "search_text": "Shadow Shaman situation ahead pushing high ground siege towers wards vision force fight disables Hex Shackles",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "SITUATIONAL",
+      "PUSH",
+      "AHEAD"
+    ]
+  },
+  {
+    "display_text": "Scenario: You are behind and need to defend. Place Serpent Wards at key choke points (e.g., near your Tier 3 towers, Roshan pit entrance) to deter enemy pushes and provide vision. Use Hex defensively on enemy initiators or divers targeting your carry. Shackles can be used to lock down a key target during a defensive teamfight under your towers.",
+    "search_text": "Shadow Shaman situation behind defending wards choke points vision deter push Hex defensive Shackles lockdown tower",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "SITUATIONAL",
+      "DEFENSE",
+      "BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy team has multiple BKB carriers. Since none of your spells pierce spell immunity, you must play around BKB durations. Initiate fights before BKBs are activated. After BKBs are used, focus your disables on supports or non-BKB cores. Items like Force Staff and Glimmer Cape become more valuable to save allies who are being focused by BKB'd enemies.",
+    "search_text": "Shadow Shaman situation enemy BKB spell immunity no pierce play around timing disables supports items Force Staff Glimmer Cape save",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "SITUATIONAL",
+      "VS_BKB",
+      "SPELL_IMMUNITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has high physical burst (e.g., Phantom Assassin, Templar Assassin). Your low armor makes you vulnerable. Prioritize defensive items like Ghost Scepter, Eul's Scepter, or a quick Aeon Disk. Position extremely carefully in fights, using Hex and Shackles from maximum range. The Fowl Play passive can save you from one burst, but its cooldown is long.",
+    "search_text": "Shadow Shaman situation high physical burst low armor vulnerable items Ghost Scepter Eul Aeon Disk positioning Fowl Play save",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "SITUATIONAL",
+      "VS_PHYSICAL",
+      "SQUISHY"
+    ]
+  },
+  {
+    "display_text": "At Level 10, choose between +170 total damage to Shackles or +1.75 Mana Regen. The Shackles damage increases kill threat and farming speed slightly. The Mana Regen is more consistent, allowing you to spam Ether Shock and Hex more freely without needing as many clarities. Pick damage if you are fighting constantly; pick mana regen if you are struggling with mana or playing a more passive, warding style.",
+    "search_text": "Shadow Shaman Talent Level 10 left +170 Shackles Total Damage right +1.75 Mana Regen kill threat farming mana sustain",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At Level 15, choose between +160 Serpent Wards Attack Range or Hex Breaks. The increased ward range allows them to attack from a safer distance, which is valuable for sieging and teamfights. The Hex Break is a powerful counter to passive-heavy heroes like Bristleback, Phantom Assassin, or Timbersaw. The choice is primarily dictated by the enemy lineup; pick Break if they have strong passives, otherwise the range is generally more reliable.",
+    "search_text": "Shadow Shaman Talent Level 15 left +160 Serpent Wards Attack Range right Hex Breaks passive counter Bristleback PA Timbersaw siege",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At Level 20, choose between +250 Ether Shock Damage or +1.5s Shackles Duration. The Ether Shock talent adds significant burst damage (now 570 at max level) for wave clear and hero damage. The Shackles duration increases his single-target lockdown to up to 5.7 seconds (with talent). Pick the damage if you need more burst and are having trouble reaching backline supports. Pick the duration if your team relies on locking down a single key enemy core (e.g., Medusa, Sven).",
+    "search_text": "Shadow Shaman Talent Level 20 left +250 Ether Shock Damage 570 total right +1.5s Shackles Duration lockdown burst wave clear",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At Level 25, choose between +50% Serpent Wards Max HP or +1 Ward Attack Targets. The HP talent makes wards significantly tankier (6 HP), requiring more hits to destroy, which is strong against cleave and illusion heroes. The +1 Attack Target talent allows each ward to hit two enemies, doubling potential DPS in teamfights and against creep waves. The DPS talent is almost always superior unless the enemy team has specific, consistent AoE to kill your wards instantly.",
+    "search_text": "Shadow Shaman Talent Level 25 left +50% Serpent Wards Max HP 6 health right +1 Ward Attack Targets two targets double DPS",
+    "tags": [
+      "SHADOW_SHAMAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

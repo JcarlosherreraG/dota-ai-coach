@@ -1,0 +1,275 @@
+FILE: splitpush_decision.json
+QUESTION: Мне помочь в защите или сплитпушить вражеский бот?
+GENERATION TIME: 2.09s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: Ability, Movement Speed] | Movement Speed Bonus 5%: Provides a slight mobility boost. Stats: Movement Speed: +5%
+---
+[TAGS: Magnus, Ability, Crowd Control] | Skewer Range: Extends Magnus' initiation and displacement range for better teamfight control. Stats: Bonus Range: [value not specified]
+---
+[TAGS: Ability, Movement, Buff] | Movement Speed Bonus (35): Provides superior mobility for initiation and disengagement. Stats: Movement Speed: +35
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, SITUATIONAL_USAGE, CONSUMABLE, MOBILITY, ESCAPE, SPLIT_PUSH, DEFENSE, VS_CONTROL] | Town Portal Scroll, Cost: 100: Core tactical tool for split-pushing safely and defending structures. Use to escape dangerous situations by channeling to a safe tower. Key for maintaining map pressure and forcing enemy reactions. Remember, roots prevent the channel. Stats: CD: 80s, Mana: 75.
+---
+[TAGS: STRATEGY, Sven, TIMING] | Sven Power Spike: Peaks at Level 6 (God's Strength) and with Echo Sabre + Blink Dagger timing for burst initiation.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, TEAMFIGHT, UTILITY, DEFENSIVE, SAVE, DISRUPTION] | Serves as a multi-purpose defensive and utility tool in teamfights. The cyclone can save a key ally by removing debuffs and granting them brief invulnerability, disrupt an enemy channeling or initiation, or provide self-safety. Its ability to dispel is crucial for removing silences and roots from teammates.
+---
+[TAGS: MAGNUS, BASE_STATS, STATS, MELEE] | Magnus is a Melee Strength hero with a base attack rate of 1.8, which is on the slower side. He starts with 23 Strength, 12 Agility, and 20 Intelligence, giving him a strong health pool but low armor and poor Agility growth for his right-clicks. His primary role is initiation and control through area-of-effect abilities.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, COUNTER_PLAY, SURVIVABILITY] | Outworld Staff TEAMFIGHT_ROLE: Used to disjoint or completely negate a critical enemy spell or physical attack with precise timing. Can create a brief 0.7-second window where you cannot be targeted or affected, disrupting enemy combos. The self-damage and item mute on return requires careful positioning. Stats: Invulnerability Duration: 0.7 seconds, Cooldown: 30 seconds.
+---
+[TAGS: Ability, Movement, Buff] | Movement Speed Bonus (75): Ultimate speed boost for unparalleled mobility. Stats: Movement Speed: +75
+---
+[TAGS: STRATEGY, Sven, FACETS] | Sven Facet Strategy: Heavy Plate provides defensive utility with Warcry's physical barrier, while Wrath of God scales damage with Strength. Heavy Plate is preferred for frontline durability, Wrath of God for carry damage.
+---
+[TAGS: MAGNUS, HARD_COUNTERS, COUNTERS, SILENCE, BREAK, DISJOINT] | Heroes with instant silences or hexes (Silencer, Shadow Shaman) prevent Blink initiation and Skewer escapes. Heroes with built-in Break (Hoodwink, Viper) disable his passive Solid Core (20/30/40/50% slow resistance and 50% knockback reduction). Mobile heroes with disjoints (Queen of Pain, Puck) can avoid Skewer and Shockwave. Heavy magic burst can kill him before he can initiate due to his low base armor.
+---
+[TAGS: Magnus, Ability, Crowd Control] | Shockwave: Damages and slows enemies in a line while pulling them closer for area denial. Stats: Damage: 75/150/225/300, Slow Duration: 2, Cast Range: 1200
+---
+[TAGS: SPECTRE, SITUATIONAL, SPLIT_PUSH] | Scenario: Split-Pushing and Map Pressure. Use Haunt to join fights instantly from anywhere. Build Manta Style to push lanes safely with illusions. Use Spectral Dagger to escape through trees. The Forsaken facet is weaker here as illusions lose Desolate for pushing. The Twist the Knife facet is better for joining fights with a slow.
+---
+[TAGS: STRATEGY, Sven, ITEM_BUILD, SITUATIONAL] | Sven Situational: Buy BKB vs disables, Satanic vs sustained damage, or Silver Edge vs passive-based counters.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, INITIATION, CATCH, LOCKDOWN, INTERRUPT] | Warhammer (FULL_ITEM) (Cost: 0): Functions as a targeted disable and burst damage tool. The stun interrupts channeling spells and provides a window for follow-up attacks or abilities. It's effective for focusing key targets or securing kills on mobile enemies.
+---
+[TAGS: Ability, Range, Buff] | Cast Range Bonus (350): Extends spellcasting reach for safer positioning or initiation. Stats: Cast Range: +350
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, FARMING_UTILITY, FARMING, SPLIT_PUSH, SAFE_FARM, ILLUSIONS] | Cost: 4650: Provides farming utility by using illusions to push out dangerous lanes safely or accelerate jungle clearing while your hero is elsewhere. The illusions last 18 seconds, allowing them to clear waves or camps. This split-push pressure creates space and forces enemies to reveal themselves. Stats: Illusion Duration: 18s.
+---
+[TAGS: ITEM_DATA, PENTA_EDGED_SWORD, CORE_DESCRIPTION, NEUTRAL, DAMAGE, ATTACK_RANGE, MAIM, SLOW, DEBUFF, ATTACK_MODIFIER, DPS, CARRY_ITEM] | Penta-Edged Sword, Cost: 0: Tier Neutral item providing +45 Damage and +100 Attack Range for melee heroes. Each attack has a 25% chance to maim the enemy, reducing their movement speed by 20% and attack speed by 60 for 3 seconds, making it a potent slow tool. Stats: CD: Passive, Damage: +45, Attack Range Bonus: +100 (Melee), Maim Chance: 25%, Slow Duration: 3s, Move Slow: 20%, Attack Slow: 60.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, STANDALONE] | Pocket Roshan CORE_BUILD: Has no components and is a standalone purchase. Synergy: Works well with strategies focused on split-pushing or creating map pressure, as the summoned unit can push lanes independently. It does not build into any other item. Stats: Cost: 1000 gold, No components.
+---
+[TAGS: ITEM_DATA, GLEIPNIR, FULL_ITEM, SYNERGY_BUILD, UPGRADE, INTELLIGENCE_HERO, UTILITY, INITIATION] | Gleipnir, Cost: 4550: Synergizes with heroes possessing other AOE disables or damage to chain crowd control. Core on intelligence heroes who want utility and tankiness. Good follow-up to Blink Dagger for instant AOE initiation. Upgrades from Rod of Atos and Point Booster.
+---
+[TAGS: AGHS_STRATEGY, Dawnbreaker, COUNTER_MECHANIC, AGHANIM] | Dawnbreaker Aghanim's Shard: Grants debuff immunity, 50% magic resistance, and free movement during Starbreaker, though slowed by 35%. This upgrade counters magic burst and disables, turning Dawnbreaker into a durable initiator who can disrupt enemies without fear of being interrupted or bursted down.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, SITUATIONAL_VS_CONTROL, VS_CONTROL, DISPEL, CLEANSE, ESCAPE, DEFENSIVE] | Cost: 4650: Situational against control abilities and silences. The basic dispel effect can immediately remove debuffs like silences, slows, and roots, allowing you to escape or continue fighting. The short invulnerability on activation can be used to avoid follow-up damage or disables. Essential for carries who need to purge enemy control to maintain DPS. Stats: Dispels: Basic.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_DEBUFFS, DISPELLABLE, COUNTER_DISABLE] | Manta Style SITUATIONAL_VS_DEBUFFS: Essential against heroes who rely on single-target, non-ultimate disables and debuffs. Counters silences (like Global Silence), roots (like Rod of Atos), and slows, allowing you to re-engage or escape. The invulnerability frame can dodge incoming stun projectiles. Stats: Active provides Basic Dispel.
+---
+[TAGS: ITEM_DATA, DIFFUSAL_BLADE_2, FULL_ITEM, SYNERGY_BUILD, CARRY_ITEM, AGILITY, ATTACK_SPEED, UPGRADE, HERO_SYNERGY] | Cost: 3850: Core synergy for agility heroes with high attack speed to maximize mana burn frequency, like Phantom Lancer or Riki. Also excellent on melee agility carries who can stick to targets. The built-in intelligence helps sustain mana for other abilities. Build from Diffusal Blade and recipe.
+---
+[TAGS: STRATEGY, Magnus, TEAMFIGHT] | Magnus Teamfight: Primary initiator and disruptor, using Reverse Polarity to disable enemies and Skewer to reposition threats.
+---
+[TAGS: Ability, Mobility, Positioning] | Leap: Increases mobility, allowing for better positioning and escape. Stats: Leap Distance: 150
+---
+[TAGS: Ability, Movement, Buff] | Movement Speed Bonus (45): Exceptional speed boost for high-impact rotations. Stats: Movement Speed: +45
+---
+[TAGS: Ability, Mobility, Positioning] | Movement Speed Bonus: Increases mobility for better positioning and escape. Stats: Speed Bonus: 10/15/100
+---
+[TAGS: Ability, Mobility, Utility] | Reality: Allows Spectre to teleport to a Haunt or Shadow Step illusion, enhancing mobility and escape potential. Stats: Cooldown: 1.5.
+---
+[TAGS: Ability, Cooldown, Utility] | Unleash Pulse Refreshes Rebound: Unleash Pulse resets the cooldown of Rebound, enabling rapid repositioning and continuous engagement.
+---
+[TAGS: PHANTOM ASSASSIN, SITUATIONAL, EARLY_END, PUSH] | Scenario: You Are the Primary Carry and Need to End Early. After Battle Fury and Desolator, build into a fast Black King Bar and Satanic. Take the Methodical facet for guaranteed crits on key targets. Group with your team at level 12+ and use Roshan advantage to siege high ground. Your goal is to burst key heroes before they can react.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, SUPPORT, SYNERGY, LATEGAME] | Spell Prism TEAMFIGHT_ROLE: Significantly amplifies teamfight presence by allowing key spells and disables to be cast more frequently. The cooldown reduction benefits all allies and synergizes with heroes possessing high-impact, long-cooldown ultimates or items like Refresher Orb. The bonus attributes and mana regeneration also provide modest survivability and sustain. Stats: +12% Cooldown Reduction, +5 All Attributes, +2 Mana Regeneration.
+---
+[TAGS: STRATEGY, Magnus, WEAKNESS] | Magnus Weakness: Vulnerable to Silence and Break, which disable Empower and Reverse Polarity.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY, TIMING] | Tome of Knowledge TEAMFIGHT_ROLE: Provides no direct combat benefit. Its value lies in securing key ability or talent level timings for your team before an engagement, such as reaching a critical ultimate level or a powerful talent tier earlier than the opponent. Stats: Experience: 750 base, 150 per extra team tome.
+---
+[TAGS: ITEM_DATA, MEKANSM, TEAMFIGHT_ROLE, FULL_ITEM, SAVE, DEFENSIVE, UTILITY, AURA, SUPPORT_ITEM, TEAMFIGHT_UTILITY] | Mekansm, Cost: 1775: Core teamfight utility item providing an instant group heal and passive sustain aura. Used to save multiple allies from burst damage, survive a push, or swing a fight with a large health swing. The long cooldown makes timing critical.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Force Staff Recipe TEAMFIGHT_ROLE: As a recipe, it has no direct role in teamfights. Its purpose is to enable the Force Staff, which provides repositioning and escape utility for team engagements. Stats: Cost: 950 gold.
+---
+[TAGS: STRATEGY, Sven, WEAKNESS] | Sven Weakness: Vulnerable to kiting (slows/roots) and armor reduction due to reliance on physical burst.
+---
+[TAGS: TECHIES, SITUATIONAL, FROM_BEHIND] | Scenario: Playing from Behind. When your team is losing map control, you cannot safely place offensive mines. Use Proximity Mines defensively around your towers and jungle entrances to deter pushes and secure farm for your carries. Skill the Reactive Tazer facet for extra utility and survivability. Build utility items like Force Staff, Glimmer Cape, or Lotus Orb to save allies. Your role shifts to defensive area denial and saving teammates with disarms and stuns.
+---
+[TAGS: ITEM_DATA, GLEIPNIR, FULL_ITEM, CORE_MECHANICS, ROOT, LOCKDOWN, DISABLE, AOE_DAMAGE, MULTI_TARGET, INITIATION, CATCH, UTILITY] | Gleipnir, Cost: 4550: Active ability 'Eternal Chains' roots all enemies in a 350 radius for 2 seconds at a targeted point. Roots function as a hard disable, interrupting channels and preventing movement. Combines utility and AOE initiation. Stats: CD: 18s, Mana Cost: 150, AoE Bonus: +75, Radius: 275/350, Duration: 2.0s.
+---
+[TAGS: ANTI-MAGE, SITUATIONAL] | When playing from behind, focus on split-pushing with Blink and Manta illusions. Avoid fights. Use Blink to escape ganks. Farm the enemy jungle if your own is unsafe. Your goal is to reach critical items (Manta, Basher) to become relevant.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Refresher Orb Recipe TEAMFIGHT_ROLE: Does not provide direct teamfight benefits; functions as a component for completing other items. Stats: Cost: 1600 gold.
+---
+[TAGS: PANGOLIER, SITUATIONAL, SPLIT_PUSH, ESCAPE, MOBILITY] | Scenario: Need to Split Push. Swashbuckle clears creep waves rapidly. Rolling Thunder allows you to escape from most gank attempts by rolling through trees and over cliffs. Carry a Teleport Scroll to join fights after pushing. The Double Jump Facet can help you traverse terrain to escape.
+---
+[TAGS: DISRUPTOR, SITUATIONAL, AS_INITIATOR] | Scenario: When your team lacks initiation. Strategy: You become the primary initiator. Rush Blink Dagger after basic boots and mana sustain. Use smoke ganks to Blink, Kinetic Field, and Static Storm a key target. Communicate with your team to follow up immediately.
+---
+[TAGS: ITEM_DATA, DIFFUSAL_BLADE, STAT_PROFILE, FULL_ITEM, AGILITY, INTELLIGENCE, DAMAGE, ATTACK_SPEED, MANA] | Diffusal Blade, Cost: 2500: Provides +15 Agility and +10 Intelligence, making it efficient for Agility heroes who scale with attack speed and damage. The Intelligence helps support the mana cost of its active ability. Stats: AGI: +15, INT: +10.
+---
+[TAGS: ITEM_DATA, DIFFUSAL_BLADE_2, FULL_ITEM, TEAMFIGHT_ROLE, DISPEL, DEBUFF, MANA_BURN, VS_SUMMONS, VS_ILLUSIONS, UTILITY, AOE_PURGE] | Cost: 3850: Provides teamfight utility through its on-hit mana burn, crippling spellcasters, and a dispel/slow active to counter enemy buffs and initiation. The 600-range purge allows you to break key enemy speed or defensive buffs, disrupting their plans. The summoned unit damage instantly clears illusions and low-HP summons.
+---
+[TAGS: PANGOLIER, CORE_BUILD, DIFFUSAL_BLADE, MAELSTROM, SYNERGY] | Core items for Pangolier are Diffusal Blade and Maelstrom. Diffusal Blade's mana burn and slow are applied by each slash of Swashbuckle, massively amplifying its damage and utility. Maelstrom (and later Mjollnir) causes chain lightning procs on each Swashbuckle slash, providing immense wave clear and magical damage in fights. These items synergize perfectly with his kit.
+---
+[TAGS: Ability, Movement Speed] | Movement Speed Bonus 10%: Increases mobility percentage-wise for faster rotations. Stats: Movement Speed: +10%
+---
+[TAGS: ITEM_DATA, SITUATIONAL, TEAM_COORDINATION, COUNTER_PUSH] | Forebearer's Fortune SITUATIONAL_VS_SETUP: Highly valuable in games where your team can reliably initiate or force predictable 5v5 engagements. Provides a scaling benefit that rewards coordinated team play over chaotic skirmishes. Countered by split-push or pick-off strategies that prevent full-team activation. Stats: Linger Duration: 5.0 seconds (timing window).
+---
+[TAGS: STRATEGY, Techies, ITEM_BUILD, SITUATIONAL] | Techies Situational: Force Staff vs melee divers (Ursa), Ghost Scepter vs physical burst (PA), or Lotus Orb vs targeted spells (Skywrath).
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, GLOBAL, DEFENSE] | Town Portal Scroll TEAMFIGHT_ROLE: Critical for global map presence to counter-gank, defend structures under siege, or secure Roshan after respawn. Successive teleports to the same location increase channel time, requiring coordination. Stats: Channel Time: 3 seconds, Range Max: 800.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE_RECIPE, CORE_DESCRIPTION, RECIPE, COMPONENT] | Manta Style Recipe. Cost: 1550: Component required to assemble Manta Style. Does not provide stats or abilities.
+---
+[TAGS: ITEM_DATA, RECIPE_DIFFUSAL_BLADE, CORE_DESCRIPTION, RECIPE, COMPONENT] | Diffusal Blade Recipe. Cost: 1050: Component required to assemble Diffusal Blade. Does not provide stats or abilities.
+---
+[TAGS: STRATEGY, Sven, ITEM_BUILD, CORE] | Sven Core Build: Blink Dagger (initiation) and Daedalus (damage amplification) are non-negotiable.
+---
+[TAGS: Ability, Cooldown, Combat] | Tidebringer Cooldown: Reduces the cooldown of Tidebringer, allowing more frequent use in combat.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, DEBUFF, VS_HEALING] | Orb of Frost TEAMFIGHT_ROLE: Applies a consistent slow and heal reduction in extended fights, useful for kiting melee cores and reducing the effectiveness of enemy healing/lifesteal. The debuff has no cooldown, allowing it to be reapplied constantly. Stats: Slow: 13%/6%, Heal Reduction: 13%, Duration: 3s.
+---
+[TAGS: Abilities, Mobility, Permanent Ability] | Permanent Scorched Earth: Grants Scorched Earth a permanent effect, providing continuous mobility and damage benefits. Stats: No additional stats.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Ring of Regen TEAMFIGHT_ROLE: Primarily a utility component; its role in fights is indirect. It provides sustain to build into other items like Headdress or Hood of Defiance, which offer teamfight benefits. The regeneration helps sustain between engagements. Stats: Health Regeneration: +1.25.
+---
+[TAGS: STRATEGY, Sven, LANING] | Sven Laning: Play aggressively with Storm Bolt harass and Warcry trades. Secure last hits with Great Cleave to accelerate farm.
+---
+[TAGS: Sven, Ability, Crowd Control] | Special Bonus Unique Sven 4: Increases Storm Hammer stun duration, enhancing crowd control capabilities. Stats: Stun Duration: +{bonus_bolt_stun_duration}s
+---
+[TAGS: MAGNUS, SITUATIONAL, FROM_BEHIND, DEFENSIVE] | Scenario: Playing from behind. Focus on defensive itemization like Force Staff or Lotus Orb instead of aggressive Blink initiations. Use Reverse Polarity defensively to counter-initiate on enemies diving your towers or high-ground. Max Shockwave and use it to safely clear waves from a distance. Consider the 'Reverse Reverse Polarity' Facet to create space and save your team from engagements.
+---
+[TAGS: Magnus, Ability, Crowd Control] | Greater Shockwave: Damages enemies in a line and pulls them closer for crowd control. Stats: Length: 1200, Cast Range: 1500, Cast Time: 0.1
+---
+[TAGS: MUERTA, SITUATIONAL, SPLIT_PUSHING] | SITUATION: Split Pushing. With the Ofrenda facet, you can place your respawn point near a dangerous lane, allowing you to aggressively split push. Use Dead Shot to clear waves quickly from a safe distance. Have an escape item (Blink, Force) ready. If you die, you respawn at the Ofrenda, making it very punishing for the enemy to commit on you.
+---
+[TAGS: Sven, Ability, Damage] | Special Bonus Unique Sven 8: Enhances Great Cleave damage, improving Sven's area-of-effect farming and teamfight presence. Stats: Cleave Damage: +{bonus_great_cleave_damage}%
+---
+[TAGS: ITEM_DATA, REFRESHER_ORB, TEAMFIGHT_ROLE, FULL_ITEM, UTILITY, HIGH_IMPACT, WIN_CONDITION, AMPLIFIER] | Refresher Orb, Cost: 5000: Team fight winning item that grants a hero a decisive advantage through a second cast of powerful ultimates or disable chains. It dramatically amplifies the impact of heroes with long cooldown, high value abilities, turning a single strong spell into two in rapid succession.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, AMPLIFY, COORDINATION] | Nemesis Curse TEAMFIGHT_ROLE: Focus on amplifying damage on a single priority target, such as the enemy carry or a critical spellcaster, to enable burst kills from your team. The self-inflicted damage vulnerability requires careful positioning to avoid being focused down while the debuff is active. The item encourages a 'marked for death' playstyle for coordinated teams. Stats: Enemy Damage Amplification: 12% for 5 seconds.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, STAT_PROFILE, AGILITY, ATTACK_SPEED, MOVEMENT_SPEED, CARRY_ITEM, UPGRADE] | Cost: 4650: Provides +10 Strength, +26 Agility, +10 Intelligence, +15 Attack Speed, and +10% Movement Speed. Primarily an Agility item offering significant bonus to Attack Speed and Movement Speed. The Yasha-based movement speed bonus does not stack with other Yasha items. Stats: Attributes: +10 Str, +26 Agi, +10 Int.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, WEAK_TO_AOE, ILLUSION_VULNERABLE] | Manta Style HARD_COUNTERS: Countered by abilities and items that quickly clear illusions or apply area-of-effect damage, such as Battle Fury, Maelstrom, and Shiva's Guard. The dispel is ineffective against hard disables like stuns (unless dodged) and most ultimate abilities. Illusions die quickly to magical burst damage. Stats: Illusions take 300% damage, Duration: 18 seconds.
+---
+[TAGS: ITEM_DATA, DIFFUSAL_BLADE_2, FULL_ITEM, STAT_PROFILE, AGILITY, INTELLIGENCE, DAMAGE, MANA, CARRY_ITEM] | Cost: 3850: Provides significant agility for attack damage and speed, plus intelligence for mana pool. Ideal for agility carries seeking damage and utility. Stats: +35 Agility, +15 Intelligence.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, CONSUMABLE] | Tier 3 Token TEAMFIGHT_ROLE: Consumed to grant a Tier 3 neutral item, which can provide various combat benefits such as additional stats or abilities for teamfights, though the token itself has no direct role. Stats: Activation redeems item, No direct fight contribution.
+---
+[TAGS: STRATEGY, Treant Protector, ITEM_BUILD, SITUATIONAL] | Treant Protector Situational: Buy Pipe of Insight vs magic damage, Shiva's Guard vs physical DPS, or Lotus Orb vs single-target disables. Consider Meteor Hammer for push if lacking wave clear.
+---
+[TAGS: RUBICK, SITUATIONAL, WITH_STOLEN_ULT] | Scenario: You have stolen a game-changing ultimate (e.g., Ravage, Chronosphere). Your positioning becomes paramount. Use Blink Dagger to get the perfect initiation angle. Coordinate with your team to follow up. Your Arcane Supremacy passive and Aghanim's Scepter (if you have it) increase the cast range and potency of this stolen spell.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, VS_CONTROL, CATCH, STRENGTH_CORE] | Warhammer (FULL_ITEM) (Cost: 0): A valuable pick-up for Strength core heroes who benefit from its stats and need additional catch. It is effective against heroes vulnerable to lockdown or those with channeled abilities. It can also be used to disable key targets in fights or secure last hits on fleeing enemies.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, CORE_MECHANICS, DISPELLABLE, UTILITY, ILLUSIONS, ESCAPE, DISPEL, VS_CONTROL] | Cost: 4650: Creates 2 illusions of your hero that last 18 seconds. Melee illusions deal 33% damage, ranged illusions deal 28% damage, and all illusions take 300% damage. Provides a 0.1 second invulnerability window on cast, and can be used as a basic dispel to remove certain debuffs. Stats: CD: 34s, Mana Cost: 125.
+---
+[TAGS: SPECTRE, SITUATIONAL, FROM_BEHIND] | Scenario: Playing from Behind. If you die in lane or your team is losing, skip Radiance. Build cheaper fighting items like Diffusal Blade and Blade Mail. Use Haunt to assist in fights anywhere on the map for easy kills and assist gold. Focus on farming jungle with Dispersion tankiness. Consider the Twist the Knife facet for easier pick-offs with Haunt + Reality + Dagger.
+---
+[TAGS: Ability, Movement Speed] | Movement Speed Bonus 90: Enhances mobility for repositioning and escapes. Stats: Movement Speed: +90
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY, INITIATION, POSITIONING] | Smoke of Deceit TEAMFIGHT_ROLE: Primarily a pre-fight positioning tool to flank, initiate, or set up teamfight combinations by moving your team unseen past common vision wards. It is not used during an active fight but to gain a decisive positional advantage before one starts. The True Sight immunity allows teams to bypass standard defensive vision. Stats: Duration: 45.0s, True Sight Immune.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_DEFENSE, SPLIT_PUSH] | Pocket Roshan SITUATIONAL_VS_DEFENSE: Can overwhelm single-target defenses by providing an extra unit that requires attention, effectively dividing enemy focus. Useful for creating pressure when the enemy team lacks strong area-of-effect abilities to clear it quickly. Stats: Summon Duration: 60 seconds.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DIMINISHING_RETURNS, VS_SPLIT_PUSH] | Mekansm HARD_COUNTERS: The healing effect has a 50-second cooldown and does not stack with multiple Mekansms or Guardian Greaves' Mend on the same target within its cooldown, reducing its value if multiple teammates build it. Its impact can be countered by enemies who focus on pick-offs or split-pushing, avoiding the 1200-radius teamfight where its aura and active shine. Stats: Cooldown: 50s, Heal does not stack with itself or Guardian Greaves Mend.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, SYNERGY_BUILD, CARRY_ITEM, AGILITY, UPGRADE, ILLUSIONS] | Cost: 4650: Core synergy with heroes who have abilities enhanced by their illusions, such as Chaos Knight or Terrorblade. High-Agility heroes benefit greatly from the Attack Speed and Movement Speed to kite and deal damage. The illusions can apply attack modifiers like Diffusal Blade's mana burn or Skadi's slow. Builds from Yasha, making it a natural progression for Agility cores.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Diffusal Blade Recipe CORE_BUILD / SYNERGIES: This recipe is solely used to build into Diffusal Blade. It must be combined with its requisite components to create the active item. Stats: Cost: 1050 gold.
+---
+[TAGS: ITEM_DATA, DIFFUSAL_BLADE_2, FULL_ITEM, CORE_MECHANICS, DISPEL, MANA_BURN, DEBUFF, SLOW, CARRY_ITEM, AGILITY, INTELLIGENCE, VS_SUMMONS, VS_ILLUSIONS] | Cost: 3850: Upgraded Diffusal Blade (Level 2). Active ability 'Purge' removes buffs from an enemy target, slows it for 4 seconds, and can instantly destroy summoned units. The passive 'Manabreak' burns 50 mana per attack, dealing physical damage equal to 0.8 per mana burned. Critical for disabling key enemy buffs and crippling mana-dependent heroes. Stats: CD: 4s, Purge Range: 600, Manaburn: 50/16/8, Damage per Burn: 0.8, Slow Duration: 4s, Root Duration: 3s.
+---
+[TAGS: STRATEGY, Sven, TEAMFIGHT] | Sven Teamfight: Frontline initiator with Blink + Storm Bolt, then clean up with God's Strength cleave damage.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Beloved Memory TEAMFIGHT_ROLE: Used outside of combat for objective-based actions. Targets friendly buildings (Altars). Low cooldown allows for repeatable use throughout the game to provide its utility. Stats: Cooldown: 3 seconds.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, TEAMFIGHT_ROLE, UTILITY, DEFENSIVE, DISRUPTION, SURVIVAL, VS_CONTROL] | Cost: 4650: Teamfight role is disruption and creating confusion. Illusions can tank spells, block projectiles, and draw focus away from your real hero. The instant dispel and invulnerability window can be used to dodge stuns, silences, and roots, turning an enemy initiation attempt into a counter-play opportunity. Stats: Illusion Count: 2, Duration: 18s.
+---
+[TAGS: Magnus, Ability, Survivability] | Solid Core: Reduces knockback and provides slow resistance, improving survivability against crowd control. Stats: Knockback Reduction: 50%, Slow Resistance: 20%/30%/40%/50%
+---
+[TAGS: ITEM_DATA, ROD_OF_ATOS, CORE_MECHANICS, FULL_ITEM, ROOT, DISABLE, LOCKDOWN, INITIATION, CATCH, INTELLIGENCE, ACTIVE_ABILITY, TARGETED] | Rod of Atos, Cost: 2250: Active ability Cripple roots a target enemy hero or basic unit for 2 seconds. Provides a catch and lockdown tool for setting up skillshots or securing kills on mobile targets. Essential for heroes needing to lock down single targets. Stats: CD: 18s, Mana: 100, Duration: 2s.
+---
+[TAGS: STRATEGY, Magnus, ITEM_BUILD, SITUATIONAL] | Magnus Situational: Buy Black King Bar against heavy disables or Manta Style to dispel silences.
+---
+[TAGS: SVEN, TALENT_LEVEL_DATA, TALENT_10] | Talent Level 10: Choose between +5s Warcry Duration or +10% Vanquisher Bonus Damage. The Warcry talent extends its powerful armor and movespeed buff to 13 seconds, excellent for prolonged fights and team sustain. The Vanquisher talent increases bonus damage vs stunned targets from 20% to 30%, significantly boosting burst potential. Pick Warcry for team utility; pick Vanquisher for personal damage if you can reliably stun targets.
+
+=== GAME STATE ===
+Match Time: 35:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: naga_siren (Lvl 20) | HP: 1600/1600 | Mana: 800/1200 | Alive: true
+Stats: K/D/A 3/1/4 | Gold: 4500 | LastHits: 280
+Inventory: [item_heart (CD), item_butterfly (CD), item_tpscroll x3, item_power_treads (CD), item_manta, item_diffusal_blade]
+Abilities: [naga_siren_song_of_the_siren(Lvl3)[ULTIMATE-READY] | naga_siren_mirror_image(Lvl4)[Rdy] | naga_siren_ensnare(Lvl4)[Rdy] | naga_siren_rip_tide(Lvl4)[NoMana/Silenced]]
+User Situation Notes: Играю за Naga Siren. Враги (Magnus, Sven, Shadow Demon, Grimstroke, Clockwerk) собрались на нашем миде, давят T3. У Magnus RP готова, у Sven BKB. Моя команда защищает.
+
+=== USER QUESTION ===
+"Мне помочь в защите или сплитпушить вражеский бот?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Мне помочь в защите или сплитпушить вражеский бот?".**
+========================================
+
+[AI RESPONSE] (5.24s)
+Играй осторожно. Используй **Manta Style** сейчас, чтобы создать иллюзии и дать им заблокировать вражеские скиллы, а затем присоединяйся к защите базы. Это поможет отвлечь внимание противников и даст твоей команде больше шансов на успешную оборону. Если удастся, попробуй использовать **Teleport Scroll** для быстрого переброса на вражеский бот, чтобы создать двойное давление.

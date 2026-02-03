@@ -1,0 +1,77 @@
+[
+  {
+    "display_text": "Gleipnir, Cost: 4550: Active ability 'Eternal Chains' roots all enemies in a 350 radius for 2 seconds at a targeted point. Roots function as a hard disable, interrupting channels and preventing movement. Combines utility and AOE initiation. Stats: CD: 18s, Mana Cost: 150, AoE Bonus: +75, Radius: 275/350, Duration: 2.0s.",
+    "search_text": "gleipnir, root item, AOE root, area root, chain root, initiation root, catch tool, lockdown item, team fight root, crowd control item, disable item, eternal chains, AOE disable, Gleipnir",
+    "tags": [
+      "ITEM_DATA",
+      "GLEIPNIR",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "ROOT",
+      "LOCKDOWN",
+      "DISABLE",
+      "AOE_DAMAGE",
+      "MULTI_TARGET",
+      "INITIATION",
+      "CATCH",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Gleipnir, Cost: 4550: Provides balanced bulk and intelligence scaling: +12 Intelligence, +450 Health, and +200 Mana. The +75 AoE bonus enhances the root's area. Stat profile offers survivability and mana for repeated casting. Stats: Int: +12, HP: +450, Mana: +200.",
+    "search_text": "gleipnir stats, intelligence item, health item, mana item, tank stats, int core stats, intelligence bonus, health bonus, mana pool, Gleipnir",
+    "tags": [
+      "ITEM_DATA",
+      "GLEIPNIR",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "HEALTH",
+      "MANA",
+      "INTELLIGENCE",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Gleipnir, Cost: 4550: Primarily an AOE initiation and team fight control tool. Cast from range to root multiple clustered enemies, enabling follow-up abilities and disrupting enemy formations. Effective for setting up high-impact AOE spells or peeling for allies.",
+    "search_text": "gleipnir team fight, team fight root, AOE catch, team fight initiation, root multiple heroes, group root, team fight control, crowd control tool, Gleipnir",
+    "tags": [
+      "ITEM_DATA",
+      "GLEIPNIR",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "INITIATION",
+      "CATCH",
+      "AOE_DAMAGE",
+      "MULTI_TARGET",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Gleipnir, Cost: 4550: Strong against high-mobility heroes and channeling spells that rely on positioning. The instant root locks down elusive targets and interrupts channeled ultimates. Also counters heroes who clump together for team fights, forcing them to spread out.",
+    "search_text": "gleipnir counters mobility, counter mobile heroes, stop blink, interrupt channel, channel counter, catch mobile, lock down escape, vs mobile heroes, root mobile, Gleipnir",
+    "tags": [
+      "ITEM_DATA",
+      "GLEIPNIR",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_CONTROL",
+      "VS_MOBILITY",
+      "DISABLE",
+      "CHANNEL_INTERRUPT",
+      "ROOT"
+    ]
+  },
+  {
+    "display_text": "Gleipnir, Cost: 4550: Synergizes with heroes possessing other AOE disables or damage to chain crowd control. Core on intelligence heroes who want utility and tankiness. Good follow-up to Blink Dagger for instant AOE initiation. Upgrades from Rod of Atos and Point Booster.",
+    "search_text": "gleipnir synergy, int hero item, utility core, follow-up root, chain CC, AOE combo, int initiator, rod of atos upgrade, point booster item, Gleipnir",
+    "tags": [
+      "ITEM_DATA",
+      "GLEIPNIR",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "UPGRADE",
+      "INTELLIGENCE_HERO",
+      "UTILITY",
+      "INITIATION"
+    ]
+  }
+]

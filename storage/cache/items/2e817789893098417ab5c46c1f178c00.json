@@ -1,0 +1,15 @@
+[
+  {
+    "display_text": "Accursed, Cost: 0: Provides a small boost to attributes and base damage. This non-purchasable item offers a modest stat advantage early in the game. Stats: All Stats: +6, Attack Damage: +12.",
+    "search_text": "all stats, early game stats, attribute bonus, damage boost, basic stats, starting stats, free stats, Accursed",
+    "tags": [
+      "ITEM_DATA",
+      "ACCURSED",
+      "CORE_DESCRIPTION",
+      "FULL_ITEM",
+      "DAMAGE",
+      "STATS",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "display_text": "Slark is a Melee agility hero with 20 base Strength, 21 base Agility, and 16 base Intelligence. His base attack time is 1.7 seconds, which is average for a melee carry.",
+    "search_text": "Slark stats melee agility attack type 1.7 attack rate 20 str 21 agi 16 int",
+    "tags": [
+      "Slark",
+      "BASE_STATS",
+      "MELEE",
+      "AGILITY"
+    ]
+  },
+  {
+    "display_text": "Leeching Leash: Pounce applies Essence Shift stacks on hit, accelerating your stat steal and damage output during ganks. Choose this for a more aggressive, pick-off focused playstyle where you want to maximize your damage per engagement. Dark Reef Renegade: Barracuda (the Shadow Dance cloud) lingers after you are revealed if you are not near allied heroes. Your attacks also reduce the target's armor while you are under Barracuda's effects. Choose this for a more deceptive, split-pushing, and sustained physical damage playstyle, allowing you to create space and chip down objectives. Fugitive: This facet provides no gameplay effect. Do not select it.",
+    "search_text": "Slark facet choice Leeching Leash Pounce Essence Shift stacks. Dark Reef Renegade Barracuda cloud linger armor reduction solo. Fugitive no effect.",
+    "tags": [
+      "Slark",
+      "FACET_STRATEGY",
+      "FACET",
+      "LEECHING_LEASH",
+      "DARK_REEF_RENEGADE"
+    ]
+  },
+  {
+    "display_text": "In lane, use Dark Pact level 1 to secure range creep lasthits and dispel negative effects like silences or roots. Max Pounce second for longer leash duration, which is crucial for securing kills with your support. Use Saltwater Shiv to slow the enemy and reduce their sustain, making trades favorable. Your low base armor and HP make you susceptible to physical damage harassment; use your high base regen from Shadow Dance passive when out of vision to recover.",
+    "search_text": "Slark laning phase use Dark Pact level 1 secure creep dispel. Max Pounce second for 3.25s leash. Shiv for slow and regen steal. Use Shadow Dance passive regen out of vision.",
+    "tags": [
+      "Slark",
+      "LANING_PHASE",
+      "LANE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a major spike with Shadow Dance active, allowing aggressive dives and escapes. Level 12 with maxed Dark Pact and Pounce gives high burst damage and lockdown. Level 18 is your final ultimate level. Talent spikes are significant: Level 10 for cooldown or leash duration, Level 15 for damage or regen, Level 20 for massive agility or attack speed, and Level 25 for extended ult duration or permanent stat steal. Key item spikes are Echo Sabre for mana and burst, Skull Basher/Abyssal Blade for lockdown, and Aghanim's Scepter for teamfight utility.",
+    "search_text": "Slark power spikes level 6 Shadow Dance active. Level 12 max Q W. Level 18 ult. Talents 10 15 20 25. Item timings Echo Sabre Basher Aghanim Scepter.",
+    "tags": [
+      "Slark",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "TALENTS",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Hard counters include heroes with Break (e.g., Doom, Silver Edge) which disables Essence Shift and the passive components of Shadow Dance. Instant, reliable lockdown (e.g., Beastmaster Roar, Skywrath Mage Ancient Seal) prevents you from using Dark Pact or Shadow Dance. Area-of-effect damage and reveals (e.g., Zeus Nimbus, Bloodseeker Thirst) counter your invisibility and low HP pool. High burst physical damage negates your regeneration.",
+    "search_text": "Slark counters Break disables Essence Shift Shadow Dance passive. Instant lockdown stun silence. AOE damage reveal Zeus Bloodseeker. Burst physical damage.",
+    "tags": [
+      "Slark",
+      "HARD_COUNTERS",
+      "COUNTER",
+      "BREAK",
+      "REVEAL",
+      "LOCKDOWN"
+    ]
+  },
+  {
+    "display_text": "Core essential items are Echo Sabre (provides needed mana, slow, and double hit for Essence Shift) and Skull Basher/Abyssal Blade (provides crucial lockdown to prevent enemies from escaping your leash). Aghanim's Scepter is also highly core, granting Depth Shroud to provide team-wide invisibility and Shadow Dance regen in an area.",
+    "search_text": "Slark core build Echo Sabre mana double hit. Skull Basher Abyssal Blade lockdown. Aghanim Scepter Depth Shroud team invisibility.",
+    "tags": [
+      "Slark",
+      "CORE_BUILD",
+      "ITEMS",
+      "ECHO_SABRE",
+      "ABYSSAL_BLADE",
+      "AGHANIM_SCEPTER"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Slark's role is to be a slippery skirmisher and backline assassin. Use Shadow Dance or Depth Shroud to initiate or reposition. Leap on a key support or damage dealer with Pounce, use Dark Pact to dispel disables and deal damage, and attack to stack Essence Shift. Your goal is to kill a priority target and then escape using your mobility and regen to re-engage. You can also use Depth Shroud to save allies or enable a team initiation.",
+    "search_text": "Slark teamfight role skirmisher assassin backline. Use Shadow Dance Pounce initate. Dark Pact dispel damage. Stack Essence Shift. Kill target escape re-engage. Depth Shroud save allies.",
+    "tags": [
+      "Slark",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT",
+      "ASSASSIN",
+      "SKIRMISHER"
+    ]
+  },
+  {
+    "display_text": "Dark Pact (Q): After a 1.5 second delay, Slark sacrifices health to purge most negative debuffs (Strong Dispel) and deal 75/150/225/300 magic damage to enemies in a 325 radius over 10 pulses. Slark only takes 30% of the damage. Cooldown is 9/8/7/6 seconds.",
+    "search_text": "Dark Pact Q ability strong dispel purge debuff 1.5s delay 325 radius 75 150 225 300 magic damage 10 pulses 30% self damage 9 8 7 6 cooldown",
+    "tags": [
+      "Slark",
+      "ABILITY_DATA",
+      "DARK_PACT",
+      "DISPEL",
+      "MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Pounce (W): Slark leaps forward 700 units, leashing the first enemy hero hit for 2.5/2.75/3/3.25 seconds. The leashed hero cannot move beyond 400 units from Slark's landing point. Cooldown is 24/20/16/12 seconds. Debuff Immune units cannot be leashed.",
+    "search_text": "Pounce W ability leap 700 distance leash 2.5 2.75 3 3.25 duration 400 leash radius 24 20 16 12 cooldown does not pierce BKB",
+    "tags": [
+      "Slark",
+      "ABILITY_DATA",
+      "POUNCE",
+      "LEASH",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Saltwater Shiv (E): Slark's attacks apply a debuff that steals 2/3/4/5 movement speed and 2/3/4/5 health regeneration from the target for 12 seconds. The effect stacks, and subsequent uses refresh the duration of all stacks.",
+    "search_text": "Saltwater Shiv E passive attack modifier steal 2 3 4 5 movement speed 2 3 4 5 health regen 12 second duration stack refresh",
+    "tags": [
+      "Slark",
+      "ABILITY_DATA",
+      "SALTWATER_SHIV",
+      "SLOW",
+      "HEAL_REDUCTION"
+    ]
+  },
+  {
+    "display_text": "Depth Shroud (Shard): Slark creates a cloud at a target location for 2 seconds with a 225 radius. All allies inside are hidden and gain the passive bonuses of Shadow Dance (bonus movement speed and health regeneration).",
+    "search_text": "Depth Shroud shard ability Aghanim Scepter create cloud 225 radius 2 seconds hide allies Shadow Dance passive regen movespeed",
+    "tags": [
+      "Slark",
+      "ABILITY_DATA",
+      "DEPTH_SHROUD",
+      "INVISIBILITY",
+      "AREA_OF_EFFECT"
+    ]
+  },
+  {
+    "display_text": "Essence Shift (Passive): Slark's attacks steal 1 point of each attribute (Strength, Agility, Intelligence) from enemy heroes, converting them to 3 bonus Agility for himself. Stacks last 15 seconds. If Slark kills an enemy hero with the debuff within 300 range, he permanently steals 1 Agility. Break disables the gaining of new temporary stacks but not permanent steals.",
+    "search_text": "Essence Shift passive steal 1 all stats convert to 3 agility 15 second duration 300 steal radius permanent agility steal on kill Break disables new stacks",
+    "tags": [
+      "Slark",
+      "ABILITY_DATA",
+      "ESSENCE_SHIFT",
+      "STAT_STEAL",
+      "SCALING"
+    ]
+  },
+  {
+    "display_text": "Shadow Dance (R): Passively, when not visible to enemies, Slark gains 24/36/48 bonus movement speed and 60/90/120 health regeneration. If damaged by a neutral creep, these bonuses are lost for 2 seconds. Actively, Slark hides in a cloud of shadows for 4/4.25/4.5 seconds, becoming immune to detection. Attacking, casting, or using items does not reveal him. Cooldown is 60/50/40 seconds.",
+    "search_text": "Shadow Dance R ultimate passive 24 36 48 movespeed 60 90 120 health regen invisible neutral disable 2s. Active 4 4.25 4.5 seconds hide undetectable 60 50 40 cooldown",
+    "tags": [
+      "Slark",
+      "ABILITY_DATA",
+      "SHADOW_DANCE",
+      "INVISIBILITY",
+      "REGENERATION",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing Against High Armor or Evasion. Slark's damage is primarily physical from right-clicks and Essence Shift agility. Consider building Monkey King Bar to counter evasion. Against high armor, the armor reduction from the Dark Reef Renegade facet is valuable. Items like Desolator or Assault Cuirass can further mitigate enemy armor.",
+    "search_text": "Slark vs high armor evasion build Monkey King Bar MKB Desolator Assault Cuirass. Dark Reef Renegade facet armor reduction.",
+    "tags": [
+      "Slark",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR",
+      "VS_EVASION",
+      "ITEMIZATION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing From Behind. When underfarmed, avoid direct fights. Use Dark Pact to farm jungle camps quickly. Focus on split-pushing with Pounce as an escape. Purchase cost-effective survival items like a Bracer or Magic Wand. Your power comes from Essence Shift stacks; look for isolated pick-offs on supports to gain permanent Agility and catch up.",
+    "search_text": "Slark playing from behind farm jungle Dark Pact split push Pounce escape buy Bracer Magic Wand pick off supports Essence Shift permanent agility",
+    "tags": [
+      "Slark",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND",
+      "FARMING",
+      "SPLIT_PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy Has Many Disables and Instant Cast Spells. In this case, your reliance on activating Dark Pact or Shadow Dance to survive is risky. Itemize for survivability and instant saves. Black King Bar is essential to avoid magic disables. Linken's Sphere can block a key targeted spell. A well-timed Manta Style can dodge projectiles and dispel silences.",
+    "search_text": "Slark vs many disables instant spells buy Black King Bar BKB Linken Sphere Manta Style dispel dodge projectiles survive",
+    "tags": [
+      "Slark",
+      "SITUATIONAL",
+      "VS_DISABLES",
+      "VS_INSTANT_CAST",
+      "DEFENSIVE_ITEMS"
+    ]
+  },
+  {
+    "display_text": "Scenario: With Aghanim's Scepter and Depth Shroud. Your role expands to a teamfight enabler. Use Depth Shroud to initiate teamfights by hiding your initiator (e.g., Tidehunter, Enigma). It can also be used defensively to disengage and save multiple allies. Place the cloud on key choke points or during Roshan attempts to provide regen and vision advantage.",
+    "search_text": "Slark with Aghanim Scepter Depth Shroud teamfight enable hide initiator save allies disengage Roshan choke point regen",
+    "tags": [
+      "Slark",
+      "SITUATIONAL",
+      "WITH_AGHANIMS",
+      "TEAMFIGHT",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy Has Break and Reveals. Heroes like Doom, Viper, or Silver Edge carriers can disable your passives. In these games, your survivability plummets. Play extremely cautiously; avoid being the first to engage. Consider buying a Satanic for its strong active heal that isn't disabled by Break. Lotus Orb can help dispel Break applied to you.",
+    "search_text": "Slark vs Break reveals Doom Viper Silver Edge play cautious avoid engage buy Satanic active heal Lotus Orb dispel Break",
+    "tags": [
+      "Slark",
+      "SITUATIONAL",
+      "VS_BREAK",
+      "VS_REVEALS",
+      "DEFENSIVE_PLAY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Lock Down a Mobile Core. Against heroes like Queen of Pain or Anti-Mage, your Pounce leash may not be enough. Prioritize Abyssal Blade for its instant stun that pierces spell immunity. The +0.5s Pounce Leash talent at level 10 becomes more valuable. Consider a Rod of Atos or Scythe of Vyse for additional lockdown.",
+    "search_text": "Slark lock down mobile core Anti-Mage Queen of Pain buy Abyssal Blade BKB piercing stun talent +0.5s Pounce Leash Rod of Atos Scythe of Vyse",
+    "tags": [
+      "Slark",
+      "SITUATIONAL",
+      "VS_MOBILE_HEROES",
+      "LOCKDOWN",
+      "ITEMIZATION"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice reduces Dark Pact cooldown by 0.75 seconds, increasing your farming speed, dispel uptime, and burst damage frequency. Right choice increases Pounce leash duration by 0.5 seconds, making it harder for enemies to escape and providing more time to stack Essence Shift. Choose the cooldown reduction for a farming/pushing tempo, or the leash for a ganking/kill-focused playstyle.",
+    "search_text": "Slark talent level 10 left -0.75s Dark Pact cooldown farm dispel. right +0.5s Pounce Leash duration gank kill",
+    "tags": [
+      "Slark",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice adds 70 damage to Dark Pact, increasing its total magic burst from 300 to 370. Right choice adds 30 health regeneration to Shadow Dance passive and active, significantly boosting your survivability and lane-sustain. Choose the damage if you need more burst to kill key targets. Choose the regeneration if you are taking heavy damage and need to stay on the map longer.",
+    "search_text": "Slark talent level 15 left +70 Dark Pact damage burst. right +30 Shadow Dance regeneration sustain survival",
+    "tags": [
+      "Slark",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice increases the Agility gain per Essence Shift stack from 3 to 4, dramatically scaling your damage and armor. Right choice provides +100 attack speed while Shadow Dance is active (passive or active), massively increasing your DPS during engagements. Choose the Agility for long-term scaling and overall stats. Choose the attack speed for immediate fight impact and faster Essence Shift stacking.",
+    "search_text": "Slark talent level 20 left +1 Agility per Essence Shift stack 4 total scaling. right +100 Shadow Dance attack speed DPS",
+    "tags": [
+      "Slark",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice increases Shadow Dance active duration by 1.5 seconds, giving you more time to deal damage safely or escape. Right choice increases Essence Shift debuff duration by 35 seconds (to 50 seconds total), making it almost impossible for enemies to wait out your stolen stats and allowing you to maintain stacks between fights more easily. Choose the duration for teamfight survivability. Choose the debuff duration for extreme stat dominance and map control.",
+    "search_text": "Slark talent level 25 left +1.5s Shadow Dance duration survivability. right +35s Essence Shift duration 50s total stat steal uptime",
+    "tags": [
+      "Slark",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

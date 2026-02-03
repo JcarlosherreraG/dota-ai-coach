@@ -4,7 +4,7 @@ import (
 	rl "github.com/gen2brain/raylib-go/raylib"
 )
 
-// renderAdviceLayer отрисовывает верхнюю плашку с советом AI.
+// renderAdviceLayer draws the top panel with the AI advice.
 func (o *Overlay) renderAdviceLayer() {
 	rl.DrawRectangleRec(o.adviceRect, rl.NewColor(20, 20, 30, 220))
 	rl.DrawRectangleLinesEx(o.adviceRect, 2, rl.NewColor(0, 255, 255, 255))
@@ -20,7 +20,7 @@ func (o *Overlay) renderAdviceLayer() {
 	o.drawWrappedText(o.aiAdvice, int32(o.adviceRect.X+padding), textY, int32(o.adviceRect.Width-padding*2), textSize, rl.Yellow)
 }
 
-// renderInputLayer отрисовывает нижнюю плашку для ввода вопроса.
+// renderInputLayer draws the bottom panel for question input.
 func (o *Overlay) renderInputLayer() {
 	borderColor := rl.NewColor(100, 100, 120, 255)
 	if o.GetActiveField() == FieldPrompt {
@@ -55,7 +55,7 @@ func (o *Overlay) renderInputLayer() {
 	o.drawWrappedText(displayText, int32(o.textBoxRect.X+padding), textY, int32(o.textBoxRect.Width-padding*2), textSize, color)
 }
 
-// renderContextLayer отрисовывает правую плашку для ввода игрового контекста.
+// renderContextLayer draws the right panel for game context input.
 func (o *Overlay) renderContextLayer() {
 	borderColor := rl.NewColor(80, 80, 100, 255)
 	if o.GetActiveField() == FieldContext {
@@ -78,7 +78,7 @@ func (o *Overlay) renderContextLayer() {
 	o.drawWrappedText(text, int32(o.contextRect.X+padding), int32(o.contextRect.Y+30), int32(o.contextRect.Width-padding*2), 14, rl.LightGray)
 }
 
-// drawWrappedText отрисовывает текст с переносом строк.
+// drawWrappedText draws text with word wrapping.
 func (o *Overlay) drawWrappedText(text string, x, y, maxWidth, fontSize int32, color rl.Color) {
 	if text == "" {
 		return

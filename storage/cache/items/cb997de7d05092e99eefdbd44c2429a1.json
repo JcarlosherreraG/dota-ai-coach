@@ -1,0 +1,60 @@
+[
+  {
+    "display_text": "Witless Shako, Cost: 0: A Neutral item that provides a massive increase to maximum health at the cost of maximum mana. This trade-off dramatically increases a hero's survivability and effective HP pool, making them significantly harder to kill with burst damage. However, the large mana penalty can cripple mana-dependent heroes. Stats: Max HP: +1350, Max Mana: -400.",
+    "search_text": "witless shako, tier 4 neutral, health item, mana penalty, tank item, survivability item, high hp neutral, health boost, effective hp, neutral drop, hp increase, reduce mana, mana reduction, sacrifice mana, tankiness, bulk item, neutral tier 4, Shako",
+    "tags": [
+      "ITEM_DATA",
+      "WITLESS_SHAKO",
+      "CORE_MECHANICS",
+      "NEUTRAL",
+      "TIER_4",
+      "HEALTH",
+      "SURVIVAL",
+      "DEFENSIVE",
+      "TANK_ITEM"
+    ]
+  },
+  {
+    "display_text": "Witless Shako, Cost: 0: Provides a massive +1350 maximum health, transforming a hero's HP pool, but reduces maximum mana by 400. This pure stat exchange offers no other attributes like damage or armor, focusing entirely on the health-for-mana trade. The extreme values make it a high-impact, slot-efficient source of raw durability.",
+    "search_text": "witless shako stats, health stats, +1350 hp, -400 mana, max health increase, max mana reduction, stat trade, hp mana trade, pure stats, neutral item stats, Witless Shako",
+    "tags": [
+      "ITEM_DATA",
+      "WITLESS_SHAKO",
+      "STAT_PROFILE",
+      "NEUTRAL",
+      "TIER_4",
+      "HEALTH",
+      "MANA"
+    ]
+  },
+  {
+    "display_text": "Witless Shako, Cost: 0: Primary role is to turn its wielder into an unkillable frontliner in team fights. The enormous health pool allows the hero to absorb immense amounts of damage and spells, creating space and surviving through extended engagements. It's best on heroes who can function with little to no mana, as the penalty is severe.",
+    "search_text": "witless shako team fight, frontliner item, tank neutral, absorb damage, survivability neutral, space creator, unkillable, team fight durability, hp tank, Witless Shako",
+    "tags": [
+      "ITEM_DATA",
+      "WITLESS_SHAKO",
+      "TEAMFIGHT_ROLE",
+      "NEUTRAL",
+      "TIER_4",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "FRONTLINE",
+      "TANK_ITEM"
+    ]
+  },
+  {
+    "display_text": "Witless Shako, Cost: 0: Situational for Strength heroes or heroes with minimal mana dependence like Centaur Warrunner, Axe, or Bristleback. It's particularly powerful against burst physical and magical damage that can be outlasted with raw HP. Avoid on intelligence cores or heroes who rely on frequent spellcasting.",
+    "search_text": "witless shako strength hero, low mana hero, axe item, centaur item, bristleback item, mana independent, tank hero item, strength core, burst counter, physical damage counter, magic damage counter, Witless Shako",
+    "tags": [
+      "ITEM_DATA",
+      "WITLESS_SHAKO",
+      "SYNERGY_BUILD",
+      "NEUTRAL",
+      "TIER_4",
+      "STRENGTH_HERO",
+      "VS_PHYSICAL",
+      "VS_MAGIC",
+      "TANK_ITEM"
+    ]
+  }
+]

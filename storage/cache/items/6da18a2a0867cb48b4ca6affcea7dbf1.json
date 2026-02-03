@@ -1,0 +1,23 @@
+[
+  {
+    "display_text": "Arcanist's Armor, Cost: 0: Tier 5 neutral item. Passively grants +4 armor and +8% magic resistance to all allies within a 1200 radius. Active ability 'Mega Shield' provides 25% damage reflection for 5 seconds. A powerful defensive aura for team-wide survivability in late-game sieges and high-ground defenses. Stats: CD: 35s, Duration: 5s, Aura Radius: 1200.",
+    "search_text": "arcanist armor, tier 5 neutral, defensive aura, team armor aura, magic resistance aura, damage reflection, reflect damage, damage bounce, protect allies, team shield, late game neutral, aura item, defensive neutral item, Arcanist's Armor, reflect, armor aura, magic resist aura, team fight aura, aura buff",
+    "tags": [
+      "ITEM_DATA",
+      "ARCANISTS_ARMOR",
+      "CORE_MECHANICS",
+      "NEUTRAL",
+      "TIER_5",
+      "DEFENSIVE",
+      "AURA",
+      "BUFF",
+      "ARMOR",
+      "MAGIC_RESISTANCE",
+      "DAMAGE_REFLECTION",
+      "VS_PHYSICAL",
+      "VS_MAGIC",
+      "TEAMFIGHT_ROLE",
+      "SAVE"
+    ]
+  }
+]

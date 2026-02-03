@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Illusionist's Cape, Cost: 0: Tier 2 Neutral item providing +14 Agility, +14 Strength, and the Create Illusion active ability. Creates an illusion under your control for 30 seconds, dealing 50% outgoing damage and taking 200% incoming damage. The Illusion Mastery passive increases damage of all units and illusions controlled by the hero by 6%. Stats: CD: 30s, Illusion Duration: 30s, Illusion Damage: 50%, Illusion Damage Taken: 200%, Bonus: +14 Str, +14 Agi.",
+    "search_text": "illusion item, create illusion, neutral illusion, illusionist cape, tier 2 neutral, illusion mastery, illusion damage, illusion duration, hero illusion, controlled illusion, agility neutral, strength neutral, free illusion, illusion control, Illusionist's Cape, Cloak of Apparition",
+    "tags": [
+      "ITEM_DATA",
+      "ILLUSIONISTS_CAPE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_2",
+      "ILLUSION",
+      "SUMMON",
+      "DAMAGE_BOOST",
+      "AGILITY",
+      "STRENGTH"
+    ]
+  }
+]

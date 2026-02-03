@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Disgraced Regalia, Cost: 0: This is the broken, non-functional version of a Divine-tier neutral item. It provides no stats or active benefits and is acquired when the carrier of Divine Regalia dies, leaving them with an inactive item. Its passive 'Fallen' ability signifies that the wielder has failed and the item's power is lost. Stats: No stats, abilities, or utility.",
+    "search_text": "broken neutral item, fallen item, divine regalia broken, inactive item, death penalty item, failed item, no stats item, useless item, disgraced regalia, broken tier 5, divine tier broken, death effect, neutral item broken, Disgraced Regalia",
+    "tags": [
+      "ITEM_DATA",
+      "DISGRACED_REGALIA",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "BROKEN_ITEM",
+      "NEUTRAL",
+      "TIER_5",
+      "NO_STATS"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Keen Optic, Cost: 0: Tier 2 Neutral item that passively grants bonus cast range and mana regeneration, enhancing a hero's ability to cast spells from a safer distance and sustain mana usage. Stats: +75 Cast Range, +1.25 Mana Regeneration.",
+    "search_text": "keen optic, tier 2 neutral, neutral item, cast range bonus, mana regen, mana regeneration neutral, casting range, support neutral, utility neutral, magic damage neutral, spellcaster neutral, Keen Optic",
+    "tags": [
+      "ITEM_DATA",
+      "KEEN_OPTIC",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_2",
+      "UTILITY",
+      "MANA_REGEN",
+      "CAST_RANGE"
+    ]
+  }
+]

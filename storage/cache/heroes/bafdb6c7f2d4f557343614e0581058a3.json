@@ -1,0 +1,216 @@
+[
+  {
+    "display_text": "Kunkka is a melee Strength hero with 24 base Strength, 14 Agility, and 18 Intelligence. His 1.7 base attack time is standard. As a melee hero, his starting stats are robust, focusing on health and damage from Strength, but his low Agility base results in low initial armor.",
+    "search_text": "Kunkka base stats melee strength 24 agility 14 intelligence 18 attack time 1.7",
+    "tags": [
+      "KUNKKA",
+      "BASE_STATS",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Kunkka has two Facets. High Tide: Each enemy hero hit by Tidebringer reduces its cooldown. This encourages aggressive, spell-casting builds focused on fighting heroes and weaving more Tidebringer cleaves. Grog Blossom: When X Marks the Spot returns its target, Kunkka and nearby allies gain the Ghostship's Admiral's Rum buff. This facilitates a more support-oriented playstyle, providing team-wide damage mitigation and speed during ganks or saves.",
+    "search_text": "Kunkka Facets High Tide Grog Blossom Tidebringer cooldown reduction X Marks the Spot Ghostship Rum buff team support",
+    "tags": [
+      "KUNKKA",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Laning focuses on last hitting with Tidebringer to secure creeps and harass the enemy lane. The cleave damages multiple targets. Use Torrent for kill setup or to secure ranged creeps. Kunkka's melee range requires good positioning to avoid harass. Admiral's Rum provides early survivability against burst. X Marks can be used defensively to pull yourself or an ally back to safety after trading.",
+    "search_text": "Kunkka laning Tidebringer last hit harass cleave Torrent setup Admiral's Rum survivability X Marks defensive",
+    "tags": [
+      "KUNKKA",
+      "LANING_PHASE",
+      "LANE"
+    ]
+  },
+  {
+    "display_text": "Key power spikes: Level 3-4 Tidebringer for strong harass. Level 6 with Ghostship for kill potential and teamfight initiation. Level 12 for maxed Torrent and Tidebringer. Level 20 talent for +15% Rum Damage Delay significantly increases survivability. Level 25 +130% Tidebringer Cleave Damage turns him into a devastating area damage threat. Item spikes include Blink Dagger for initiation, Shadow Blade/Silver Edge, Daedalus for burst, and Aghanim's Scepter for Tidal Wave.",
+    "search_text": "Kunkka power spikes level 6 Ghostship level 12 talents level 20 25 Tidebringer cleave Blink Dagger Daedalus Aghanim Scepter",
+    "tags": [
+      "KUNKKA",
+      "POWER_SPIKES",
+      "SPIKES"
+    ]
+  },
+  {
+    "display_text": "Kunkka is hard countered by heroes with instant disables that prevent him from casting X Marks the Spot or Ghostship initiation (e.g., Hex, Doom). High-mobility heroes can dodge his skill-shot abilities like Torrent and Ghostship. Mana drain or burn is effective due to his reliance on spells. Break (e.g., from Silver Edge) disables his Tidebringer and Admiral's Rum passives.",
+    "search_text": "Kunkka counters instant hex doom silence break disable Tidebringer Admiral's Rum passive mobility dodge Torrent Ghostship mana burn",
+    "tags": [
+      "KUNKKA",
+      "HARD_COUNTERS",
+      "COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items are Blink Dagger for reliable Ghostship and Torrent initiation. Shadow Blade or Silver Edge for surprise Tidebringer attacks, initiation, and break application. Daedalus provides massive critical strike damage that synergizes with Tidebringer's cleave. Armlet of Mordiggian is a common early fighting item for stats and damage.",
+    "search_text": "Kunkka core build Blink Dagger Shadow Blade Silver Edge Daedalus Tidebringer cleave crit Armlet",
+    "tags": [
+      "KUNKKA",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Kunkka's role is to initiate with Ghostship for area stun and Rum buff on allies, followed by Blink-Torrent combo on key targets. He then uses Tidebringer cleaves from the edge of the fight to deal massive physical area damage. X Marks can be used to save allies, reposition enemies, or guarantee Torrent/Ghostship hits.",
+    "search_text": "Kunkka teamfight role initiator Ghostship stun Rum buff Torrent Tidebringer cleave area damage X Marks save reposition",
+    "tags": [
+      "KUNKKA",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Ability: Torrent (Q). Summons a torrent after a 1.6 second delay in a 250 radius. It hurls enemies for 1.4 seconds, deals 110/180/250/320 damage, and slows movement speed by 40% for 1/2/3/4 seconds. The initial bubble provides vision. Cooldown is 16/14/12/10. Does NOT pierce BKB.",
+    "search_text": "Torrent Q delay 1.6 radius 250 stun 1.4 damage 110 180 250 320 slow 40% duration 1 2 3 4 cooldown 16 14 12 10 vision bubble",
+    "tags": [
+      "KUNKKA",
+      "ABILITY_DATA",
+      "TORRENT",
+      "STUN",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Ability: Tidebringer (W). Kunkka's next attack cleaves in a cone (starting width 150, ending width 500/550/600/650, distance 650/775/900/1025). It deals bonus damage of 35/70/105/140 and an additional 150 cleave damage. It has a base cooldown of 13/10/7/4 seconds. With the High Tide Facet, the cooldown is reduced per enemy hero hit.",
+    "search_text": "Tidebringer W cleave cone width 150 500 550 600 650 distance 650 775 900 1025 bonus damage 35 70 105 140 cleave damage 150 cooldown 13 10 7 4 High Tide",
+    "tags": [
+      "KUNKKA",
+      "ABILITY_DATA",
+      "TIDEBRINGER",
+      "CLEAVE",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Ability: X Marks the Spot (E). Targets a hero, marking their position. They are returned to the X after 3 seconds (6 seconds on allies). Kunkka can activate the Return sub-ability at any time to trigger it early. It interrupts channeling spells. Provides 400 range vision at the X for 5.94 seconds.",
+    "search_text": "X Marks the Spot E mark hero return 3 seconds allies 6 seconds interrupt channeling vision 400 range 5.94 seconds sub-ability",
+    "tags": [
+      "KUNKKA",
+      "ABILITY_DATA",
+      "X_MARKS_THE_SPOT",
+      "REPOSITION",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Ability: Admiral's Rum (D). A passive ability. If damage from heroes, buildings, or Roshan would reduce Kunkka below 65 health, he gains bonus 10% movement speed and delays 20% of incoming damage for 6 seconds. The delayed damage is non-lethal. Stacks additively with Ghostship's Rum buff.",
+    "search_text": "Admiral Rum D passive threshold 65 health movement speed 10% damage delay 20% duration 6 seconds non-lethal stacks with Ghostship",
+    "tags": [
+      "KUNKKA",
+      "ABILITY_DATA",
+      "ADMIRALS_RUM",
+      "SURVIVABILITY",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Ghostship (R). Summons a ship that travels 2000 distance at 650 speed with a 450 width, crashing after 3.1 seconds. Enemies in a 750 radius upon impact take 180 damage, are knocked back 600 units and stunned for 1.2 seconds. Allied heroes touched gain the Admiral's Rum buff: 35% damage delay, 15% bonus movement speed, and 10 second duration. Cooldown is 90/80/70. Does NOT pierce BKB.",
+    "search_text": "Ghostship R ultimate ship distance 2000 speed 650 width 450 crash delay 3.1 damage 180 radius 750 knockback 600 stun 1.2 allies Rum buff 35% delay 15% movespeed 10s duration cooldown 90 80 70",
+    "tags": [
+      "KUNKKA",
+      "ABILITY_DATA",
+      "GHOSTSHIP",
+      "ULTIMATE",
+      "STUN",
+      "AOE",
+      "BUFF"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against high-armor, low-health heroes. Prioritize Magic Damage: Kunkka's Torrent and Ghostship deal magical damage, which ignores armor. Use X Marks into Torrent combo for reliable burst. Build items like Aether Lens or Veil of Discord to amplify this damage.",
+    "search_text": "Kunkka vs high armor magic damage Torrent Ghostship X Marks combo Aether Lens Veil of Discord",
+    "tags": [
+      "KUNKKA",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind. Transition to Utility: Use X Marks defensively to save allies. Build team-oriented items like Aghanim's Scepter for Tidal Wave's control or Lotus Orb. Focus on landing Ghostship's Rum buff on your cores during fights to increase their survivability.",
+    "search_text": "Kunkka from behind utility X Marks save Aghanim Scepter Tidal Wave Lotus Orb Ghostship Rum buff allies",
+    "tags": [
+      "KUNKKA",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Facing high-mobility or elusive heroes. Guarantee Combos: Use X Marks the Spot on a mobile target, then cast Torrent and Ghostship on the X. Use items like Rod of Atos or Scythe of Vyse to lock them down first. Consider the Grog Blossom Facet to provide team buffs even if you miss direct spells.",
+    "search_text": "Kunkka vs mobility elusive X Marks combo Torrent Ghostship on X Rod of Atos Hex Grog Blossom Facet",
+    "tags": [
+      "KUNKKA",
+      "SITUATIONAL",
+      "VS_MOBILE"
+    ]
+  },
+  {
+    "display_text": "Scenario: When your team needs wave clear. Push with Tidebringer: Max Tidebringer early. Use its cleave to quickly kill creep waves from a safe distance (1025 at level 4). Build Battle Fury to further enhance cleave and farm speed, though it is situational.",
+    "search_text": "Kunkka wave clear push Tidebringer max cleave distance 1025 Battle Fury farm",
+    "tags": [
+      "KUNKKA",
+      "SITUATIONAL",
+      "WAVE_CLEAR"
+    ]
+  },
+  {
+    "display_text": "Scenario: As a position 4 support. Skill Build: Max Torrent for damage and slow duration. Use X Marks to set up kills or save cores. Build Mana Boots, Aether Lens, and Blink Dagger. The Grog Blossom Facet is ideal for providing team utility with every X Marks return.",
+    "search_text": "Kunkka support position 4 max Torrent X Marks setup save Mana Boots Aether Lens Blink Grog Blossom Facet",
+    "tags": [
+      "KUNKKA",
+      "SITUATIONAL",
+      "SUPPORT_BUILD"
+    ]
+  },
+  {
+    "display_text": "Scenario: To maximize physical damage carry potential. Itemization: After Blink and Shadow Blade, prioritize Daedalus, Assault Cuirass, and Divine Rapier. The High Tide Facet is crucial to reduce Tidebringer cooldown in fights. Position on the edge of fights to land massive Tidebringer cleaves on multiple heroes.",
+    "search_text": "Kunkka carry physical damage Daedalus Assault Cuirass Divine Rapier High Tide Facet Tidebringer cleave positioning",
+    "tags": [
+      "KUNKKA",
+      "SITUATIONAL",
+      "CARRY_BUILD"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents. Left: Tidebringer applies 60% slow for 1s. Enhances chase and kill potential after a cleave. Right: -15s Admiral's Rum Cooldown. Increases survivability by making the damage-delay passive available more frequently. Choose Left for more offensive pressure, Right for survivability in burst-heavy lineups.",
+    "search_text": "Kunkka talent level 10 Tidebringer 60% slow 1s Admiral Rum cooldown -15 seconds offensive survivability",
+    "tags": [
+      "KUNKKA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents. Left: +25% Torrent Damage/Knock Up Duration. Increases Torrent's damage to 137.5/225/312.5/400 and stun/air time to 1.75s. Right: +70 Tidebringer Damage. Increases Tidebringer's bonus damage to 105/140/175/210. Choose Left for stronger magical burst and control. Choose Right for significantly stronger physical cleave damage.",
+    "search_text": "Kunkka talent level 15 Torrent damage 25% knock up duration Tidebringer damage +70 magical burst physical cleave",
+    "tags": [
+      "KUNKKA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents. Left: -4s Torrent Cooldown. Reduces cooldown to 6/6/8/6 (based on level). Right: +15% Rum Damage Delay. Increases Ghostship and Admiral's Rum damage delay to 50% and 35% respectively. Choose Left for more frequent spellcasting and control. Choose Right for massive survivability boost for yourself and allies hit by Ghostship.",
+    "search_text": "Kunkka talent level 20 Torrent cooldown -4s Rum damage delay +15% spell frequency survivability Ghostship",
+    "tags": [
+      "KUNKKA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents. Left: +100 Spell AoE. Increases the radius of Torrent, X Marks vision, Ghostship impact, and Tidal Wave. Right: +130% Tidebringer Cleave Damage. Increases Tidebringer's cleave damage from 150 to 345. Choose Left for massive teamfight control and easier skillshot landing. Choose Right for devastating area physical damage, potentially one-shotting entire teams with a Daedalus crit.",
+    "search_text": "Kunkka talent level 25 Spell AoE +100 Tidebringer cleave damage +130% teamfight control physical burst one-shot",
+    "tags": [
+      "KUNKKA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

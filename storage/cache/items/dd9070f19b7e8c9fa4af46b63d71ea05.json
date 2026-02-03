@@ -1,0 +1,15 @@
+[
+  {
+    "display_text": "Energy Booster, Cost: 800: Secret shop item that grants a flat 250 bonus mana, increasing your total mana pool permanently. This is a pure utility component used to build larger items, providing significant mana scaling for heroes who need to cast more spells or sustain abilities with high costs. Stats: Bonus Mana: +250.",
+    "search_text": "mana item, mana boost, increase mana pool, spell spam, spell sustain, mana component, item component, secret shop, Energy Booster, mana bonus, intelligence item",
+    "tags": [
+      "ITEM_DATA",
+      "ENERGY_BOOSTER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "MANA",
+      "COMPONENT",
+      "UPGRADE"
+    ]
+  }
+]

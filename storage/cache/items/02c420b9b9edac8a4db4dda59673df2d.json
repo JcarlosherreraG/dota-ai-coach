@@ -1,0 +1,58 @@
+[
+  {
+    "display_text": "Soul Booster, Cost: 3000: Provides a significant boost to both health and mana pools. Built from Vitality Booster, Energy Booster, and Point Booster. A key component for late-game items that require high health and mana. Stats: Bonus Health: +425, Bonus Mana: +425.",
+    "search_text": "health item, mana item, stats item, hybrid item, tank item, spell caster, high HP, high mana, soul booster, health booster, mana booster, stat boost, attribute item, Soul Booster",
+    "tags": [
+      "ITEM_DATA",
+      "SOUL_BOOSTER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "UPGRADE",
+      "HEALTH",
+      "MANA",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Soul Booster, Cost: 3000: Stat profile focuses exclusively on raw health and mana pools without regen or other attributes. Provides +425 Health and +425 Mana. No active abilities, passives, or attack modifiers. Stats: Health: +425, Mana: +425.",
+    "search_text": "soul booster stats, hp boost, mana boost, raw stats, stat item, no regen, no active, passive stats, Soul Booster",
+    "tags": [
+      "ITEM_DATA",
+      "SOUL_BOOSTER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "MANA",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Soul Booster, Cost: 3000: Team fight role as a survivability buffer for tanks and spellcasters. The substantial health increase improves frontline durability, while the mana pool allows for multiple spell rotations in prolonged engagements. Stats: Health: +425, Mana: +425.",
+    "search_text": "soul booster tank, durability item, survivability, frontline item, spell caster item, team fight tank, mana for spells, long fights, sustain stats, Soul Booster",
+    "tags": [
+      "ITEM_DATA",
+      "SOUL_BOOSTER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "HEALTH",
+      "MANA",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Soul Booster, Cost: 3000: Synergy build for heroes with high mana-cost ultimates and those who become primary targets. Core component for Aghanim's Scepter, Bloodstone, and Octarine Core. Ideal for Strength/Intelligence heroes needing to survive burst and cast spells repeatedly. Stats: Health: +425, Mana: +425.",
+    "search_text": "soul booster build, component item, aghanim component, bloodstone component, octarine core component, core item, upgrade component, spell caster item, tank item, Soul Booster",
+    "tags": [
+      "ITEM_DATA",
+      "SOUL_BOOSTER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "COMPONENT",
+      "TANK_ITEM",
+      "SPELLCASTER_ITEM"
+    ]
+  }
+]

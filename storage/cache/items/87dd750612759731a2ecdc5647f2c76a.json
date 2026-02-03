@@ -1,0 +1,68 @@
+[
+  {
+    "display_text": "Harpoon, Cost: 4700: Active ability draws you toward an enemy hero up to 1000 range, pulling you and your target 35% closer together. For melee heroes, always pulls to within melee attack range. Passive causes attacks to hit twice, applying a 100% movement slow for 1 second. Stats: CD: 19s, Mana: 50, Passive CD: 5s, Cast Range: 700, Pull Duration: 0.3s.",
+    "search_text": "harpoon, pull item, gap closer, catch item, melee initiator item, echo strike, double attack, slow, lockdown, mobility item, positioning, close distance, melee range, force movement, attack modifier, Harpoon",
+    "tags": [
+      "ITEM_DATA",
+      "HARPOON",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "MOBILITY",
+      "INITIATION",
+      "CATCH",
+      "LOCKDOWN",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Harpoon, Cost: 4700: Provides a solid stat package for strength-based heroes who want to commit to fights. Primary attribute bonuses include +25 Strength, +25 Damage, +10 Agility, +10 Intelligence, and +2 Mana Regeneration, making it suitable for heroes who need health, damage, and sustain.",
+    "search_text": "harpoon stats, strength item, damage item, mana regen item, carry item, strength carry, stat item, damage strength, Harpoon",
+    "tags": [
+      "ITEM_DATA",
+      "HARPOON",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "STRENGTH",
+      "DAMAGE",
+      "MANA_REGEN",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Harpoon, Cost: 4700: Strong team fight initiation tool that forces melee engagement and creates catch opportunities. The active pull disrupts enemy positioning, while the passive double attack and 100% slow help lock down and burst a single target, making it excellent for heroes who need to stay on top of their foe.",
+    "search_text": "harpoon team fight, initiation tool, catch tool, disrupt positioning, single target lockdown, burst damage, fight control, force fight, melee carry initiator, Harpoon",
+    "tags": [
+      "ITEM_DATA",
+      "HARPOON",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "INITIATION",
+      "LOCKDOWN",
+      "BURST_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Harpoon, Cost: 4700: Counters mobile and slippery heroes who rely on distance to survive. The forced movement and melee-range pull prevent kiting and escape attempts. The on-hit slow further hampers disengagement, making it strong versus heroes with low mobility or when your team lacks lockdown.",
+    "search_text": "harpoon counter mobile, counter kite, catch slippery, anti escape, prevent disengage, force melee, stop kiting, versus mobility, gap close counter, Harpoon",
+    "tags": [
+      "ITEM_DATA",
+      "HARPOON",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_CONTROL",
+      "VS_MOBILITY",
+      "CATCH"
+    ]
+  },
+  {
+    "display_text": "Harpoon, Cost: 4700: Synergizes with heroes who have strong on-hit effects or need to guarantee melee attacks, such as heroes with built-in critical strikes or attack modifiers. The built-in Echo Strike passive double-dips on attack effects, amplifying damage output. Ideal for strength carries or initiators who want to commit to a single target.",
+    "search_text": "harpoon synergy, on hit effects, echo strike synergy, double attack, strength carry build, initiator build, attack modifier synergy, melee carry item, Harpoon",
+    "tags": [
+      "ITEM_DATA",
+      "HARPOON",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "INITIATOR_ITEM"
+    ]
+  }
+]

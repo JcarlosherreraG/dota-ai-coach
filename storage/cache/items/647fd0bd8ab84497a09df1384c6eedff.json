@@ -1,0 +1,76 @@
+[
+  {
+    "display_text": "Witch's Switch, Cost: 1900: Aura item providing team-wide sustain in a 900 radius, granting health regeneration, mana regeneration, and bonus armor to allies. Also provides increased personal regeneration and armor to the carrier, making it a cost-effective support item for maintaining team presence during pushes or sieges. Stats: CD: 1s, Aura Radius: 900, Personal Bonus: 3.5 HP Regen / 2 MP Regen / 5 Armor, Aura Bonus: 3 HP Regen / 1.5 MP Regen / 4 Armor.",
+    "search_text": "aura item, team buff, team sustain, pushing aura, team regen, support item, armor aura, heal regen, mana regen, siege item, group sustain, sustain aura, cost-effective aura, Witch's Switch",
+    "tags": [
+      "ITEM_DATA",
+      "WITCHS_SWITCH",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AURA",
+      "TEAM_BUFF",
+      "SUSTAIN",
+      "REGEN",
+      "MANA_REGEN",
+      "HEALTH",
+      "ARMOR",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Witch's Switch, Cost: 1900: Stat Profile: Provides significant personal bonuses of +3.5 health regeneration, +2 mana regeneration, and +5 armor, in addition to its powerful team-wide aura. Primarily a support-oriented item for its cost, lacking raw attribute bonuses but excelling in providing sustained value in team scenarios.",
+    "search_text": "witch's switch stats, aura stats, regen stats, armor stats, support item stats, personal regen, personal armor, item stats, Witch's Switch",
+    "tags": [
+      "ITEM_DATA",
+      "WITCHS_SWITCH",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "MANA_REGEN",
+      "REGEN",
+      "ARMOR",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Witch's Switch, Cost: 1900: Teamfight Role: Serves as a sustain-focused team buffer during prolonged engagements. The aura bolsters the survivability and spellcasting uptime of your entire team, making pushes and objective holds significantly stronger. This makes it a strategic pick for deathball or siege compositions.",
+    "search_text": "team fight aura, group sustain, pushing item, team survivability, sustain in fights, deathball item, siege item, team regen aura, aura teamfight, Witch's Switch",
+    "tags": [
+      "ITEM_DATA",
+      "WITCHS_SWITCH",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AURA",
+      "TEAM_BUFF",
+      "SUSTAIN",
+      "PUSHING"
+    ]
+  },
+  {
+    "display_text": "Witch's Switch, Cost: 1900: Synergy Build: Excellent for supports or aura-based cores (e.g., Underlord, Chen) looking to enhance their team's longevity during pushes or high-ground sieges. The item's power spikes when teams group together, making it situational in split-push strategies.",
+    "search_text": "witch's switch build, support aura item, team push build, aura carrier, aura stack, team item synergy, sustain build, Witch's Switch",
+    "tags": [
+      "ITEM_DATA",
+      "WITCHS_SWITCH",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "UTILITY",
+      "AURA"
+    ]
+  },
+  {
+    "display_text": "Witch's Switch, Cost: 1900: Situational vs Physical Damage: The aura and personal armor bonuses effectively counter sustained physical damage in team fights, reducing the impact of right-click heroes over time. This makes it a strong pick when facing teams with multiple physical damage dealers who rely on attrition.",
+    "search_text": "vs physical damage, physical damage counter, armor aura vs physical, right-click counter, physical sustain, armor item, reduce physical damage, Witch's Switch",
+    "tags": [
+      "ITEM_DATA",
+      "WITCHS_SWITCH",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "ARMOR",
+      "DEFENSIVE"
+    ]
+  }
+]

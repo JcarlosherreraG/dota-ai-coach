@@ -1,0 +1,84 @@
+[
+  {
+    "display_text": "Cost: 3850: Upgraded Diffusal Blade (Level 2). Active ability 'Purge' removes buffs from an enemy target, slows it for 4 seconds, and can instantly destroy summoned units. The passive 'Manabreak' burns 50 mana per attack, dealing physical damage equal to 0.8 per mana burned. Critical for disabling key enemy buffs and crippling mana-dependent heroes. Stats: CD: 4s, Purge Range: 600, Manaburn: 50/16/8, Damage per Burn: 0.8, Slow Duration: 4s, Root Duration: 3s.",
+    "search_text": "diffusal blade 2, mana burn item, purge item, debuff removal, dispel item, remove buffs, anti-mana item, slow item, burn mana, illusion counter, agility item, intelligence item, agility carry, burn mana per hit, mana drain, basic dispel, summoned unit kill, destroy illusions, Diffusal Blade, Diffusal",
+    "tags": [
+      "ITEM_DATA",
+      "DIFFUSAL_BLADE_2",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "DISPEL",
+      "MANA_BURN",
+      "DEBUFF",
+      "SLOW",
+      "CARRY_ITEM",
+      "AGILITY",
+      "INTELLIGENCE",
+      "VS_SUMMONS",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Cost: 3850: Provides significant agility for attack damage and speed, plus intelligence for mana pool. Ideal for agility carries seeking damage and utility. Stats: +35 Agility, +15 Intelligence.",
+    "search_text": "diffusal stats, agility item, intelligence item, attack damage, agility carry item, stat item, Diffusal Blade stats, Diffusal Blade 2 stats",
+    "tags": [
+      "ITEM_DATA",
+      "DIFFUSAL_BLADE_2",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "AGILITY",
+      "INTELLIGENCE",
+      "DAMAGE",
+      "MANA",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Cost: 3850: Provides teamfight utility through its on-hit mana burn, crippling spellcasters, and a dispel/slow active to counter enemy buffs and initiation. The 600-range purge allows you to break key enemy speed or defensive buffs, disrupting their plans. The summoned unit damage instantly clears illusions and low-HP summons.",
+    "search_text": "team fight item, counter buffs, break buffs, dispel team fight, slow enemy, anti-caster, mana drain team fight, illusion clear, destroy summons, team utility, Diffusal Blade team fight",
+    "tags": [
+      "ITEM_DATA",
+      "DIFFUSAL_BLADE_2",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DISPEL",
+      "DEBUFF",
+      "MANA_BURN",
+      "VS_SUMMONS",
+      "VS_ILLUSIONS",
+      "UTILITY",
+      "AOE_PURGE"
+    ]
+  },
+  {
+    "display_text": "Cost: 3850: Situational counter against heroes reliant on illusions, summons, or protective buffs (e.g., Omniknight's Guardian Angel). The 50 mana burn per hit severely punishes low-mana heroes and illusion-makers. Purge can remove powerful buffs like Haste, Guardian Angel, or Bloodlust.",
+    "search_text": "situational item, counter illusions, counter summons, anti-illusion, counter buffs, mana burn counter, purge counter, vs guardian angel, vs omniknight, vs chen, vs phantom lancer, counter summoners, Diffusal Blade counter",
+    "tags": [
+      "ITEM_DATA",
+      "DIFFUSAL_BLADE_2",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_ILLUSIONS",
+      "SITUATIONAL_VS_SUMMONS",
+      "VS_ILLUSIONS",
+      "VS_SUMMONS",
+      "VS_BUFFS",
+      "MANA_BURN",
+      "DISPEL"
+    ]
+  },
+  {
+    "display_text": "Cost: 3850: Core synergy for agility heroes with high attack speed to maximize mana burn frequency, like Phantom Lancer or Riki. Also excellent on melee agility carries who can stick to targets. The built-in intelligence helps sustain mana for other abilities. Build from Diffusal Blade and recipe.",
+    "search_text": "synergy item, agility carry, attack speed synergy, phantom lancer item, riki item, illusion hero, melee agility, hero synergy, Diffusal Blade build, Diffusal Blade upgrade",
+    "tags": [
+      "ITEM_DATA",
+      "DIFFUSAL_BLADE_2",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "AGILITY",
+      "ATTACK_SPEED",
+      "UPGRADE",
+      "HERO_SYNERGY"
+    ]
+  }
+]

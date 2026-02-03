@@ -17,7 +17,7 @@ const (
 	WS_EX_LAYERED     = 0x00080000
 )
 
-// SetClickThrough включает/выключает режим прозрачности для кликов через окно (Windows-specific).
+// SetClickThrough enables or disables the click-through mode for the window (Windows-specific).
 func (o *Overlay) SetClickThrough(enable bool) {
 	hwnd := uintptr(rl.GetWindowHandle())
 
@@ -25,8 +25,10 @@ func (o *Overlay) SetClickThrough(enable bool) {
 	style := uintptr(ret)
 
 	if enable {
+		// Add transparent and layered styles to enable click-through
 		style |= WS_EX_TRANSPARENT | WS_EX_LAYERED
 	} else {
+		// Remove transparent style to disable click-through
 		style &^= WS_EX_TRANSPARENT
 	}
 

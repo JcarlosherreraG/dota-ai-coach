@@ -1,0 +1,212 @@
+[
+  {
+    "display_text": "Crystal Maiden is a Ranged intelligence hero with a slow base attack time of 1.7 seconds (approximately 0.59 attacks per second). Her starting attributes are 17 Strength, 16 Agility, and 20 Intelligence. This gives her below-average physical durability and a slow attack speed, typical for a backline spellcaster.",
+    "search_text": "Crystal Maiden Ranged intelligence attack rate 1.7 strength 17 agility 16 intelligence 20",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Frozen Expanse: Freezing Field passively increases Crystal Maiden's cast range and area of effect. Choose this for a more traditional, positioning-focused build that enhances the threat and safety of her ultimate. Cold Comfort: Crystal Maiden restores her allies' Mana when casting spells and increases her innate Mana Regeneration Amplification. This facet supports a heavy caster lineup. Glacial Guard: Crystal Nova has increased radius and grants allied heroes a physical damage barrier, which is increased for Crystal Maiden. This is a defensive, teamfight-oriented choice against heavy physical damage. Arcane Overflow: Activating Arcane Aura temporarily increases Crystal Maiden's spell amplification and mana costs, and during the duration, she restores her and her allies' Mana when casting spells. This facet suits an aggressive, spell-spamming playstyle where you can manage the increased mana cost for burst.",
+    "search_text": "Facet Frozen Expanse Cold Comfort Glacial Guard Arcane Overflow cast range area of effect mana regen amplification physical barrier spell amplification",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Crystal Nova (110 damage at level 1, 700 cast range, 425 radius) to harass and secure range creep last hits. Its 20% move speed slow and 30 attack speed slow help secure kills. Frostbite (1.5 second root, 600 cast range, deals 100 damage per second) is a reliable disable and can instantly kill non-ancient creeps. Manage her low mana pool and slow base attack speed; prioritize securing runes and pulling camps. Arcane Aura provides global mana regeneration, helping your lane partner.",
+    "search_text": "Crystal Nova laning harass Frostbite root creep kill mana Arcane Aura",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a major spike with Freezing Field (110 damage per explosion, 810 radius). Level 10 talent choice between +200 Health or +12 Intelligence. Level 12 with maxed Crystal Nova and Frostbite offers strong control. Level 15 talent for -4.5s Crystal Nova cooldown increases fight frequency. Level 18 with level 3 Freezing Field (250 damage) and level 20 talent (+50 Freezing Field Damage or +1.0s Frostbite Duration) is a huge teamfight threat. Level 25 talent (+300 Crystal Nova Damage or +225 Attack Speed) solidifies late-game impact. Key item spikes are Tranquil Boots for sustain, Glimmer Cape/Force Staff for survival to channel ultimate, and Aghanim's Scepter for the Crystal Clone escape.",
+    "search_text": "Power spike level 6 Freezing Field level 10 talent level 15 talent level 20 talent level 25 talent Tranquil Boots Glimmer Cape Force Staff Aghanim Scepter",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Break disables the passive cast range and area of effect increase from Frozen Expanse (Freezing Field's passive). Instant silences (like Skywrath Mage's Ancient Seal) or hexes (Lion's Hex) prevent her from using Crystal Clone or Glimmer Cape to escape. Heroes with high burst magic damage (Lina, Lion) can kill her through her low health pool. Mobile heroes (Storm Spirit, Anti-Mage) can easily jump on her during Freezing Field channel. Does NOT pierce BKB for her disables (Frostbite is a root, does not pierce).",
+    "search_text": "Counter Break silence hex burst magic damage mobile heroes BKB Frostbite root",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Tranquil Boots are essential for health and movement speed regeneration due to her low base movement speed and fragility. Glimmer Cape provides magic resistance and invisibility, crucial for surviving and channeling Freezing Field. Force Staff offers positioning and escape, allowing her to reposition for Frostbite or to save allies. Aghanim's Scepter is a core luxury, granting the Crystal Clone ability for mobility and disjointing projectiles.",
+    "search_text": "Core build Tranquil Boots Glimmer Cape Force Staff Aghanim Scepter",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Crystal Maiden's role is backline control and area denial. Initiate with Crystal Nova to slow enemy movement and attack speed. Use Frostbite to lock down key targets or save allies from melee attackers. Position safely to channel Freezing Field, using Glimmer Cape or Force Staff to stay alive. Provide mana regeneration to allies globally via Arcane Aura. Use Crystal Clone (if Aghanim's Scepter is purchased) to reposition or disjoint spells.",
+    "search_text": "Teamfight backline control Crystal Nova slow Frostbite root Freezing Field channel Arcane Aura mana regen",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Crystal Nova. Description: A burst of damaging frost slows enemy movement in the targeted area. It deals 110/160/210/260 magic damage in a 425 radius with a 700 cast range. Slows move speed by 20%/30%/40%/50% and attack speed by 30/45/60/75 for 4 seconds. Costs 115/135/155/175 mana with an 11/10/9/8 second cooldown. Cast point is 0.3 seconds. Provides vision in the area for 6 seconds. Does NOT pierce BKB.",
+    "search_text": "Crystal Nova Q first skill slow damage 110 160 210 260 radius 425 cast range 700 mana cost 115 135 155 175 cooldown 11 10 9 8 vision",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "ABILITY_DATA",
+      "SLOW",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Ability: Frostbite. Description: Encases an enemy unit in ice, prohibiting movement and attack, while dealing damage over time. Roots the target for 1.5/2/2.5/3 seconds. Deals 100 damage per second (25 damage per 0.25 second tick). Deals 4x damage (400 DPS) to non-ancient creeps. Costs 125/135/145/155 mana with a 9/8/7/6 second cooldown. Cast range is 600. Cast point is 0.3 seconds. Does NOT pierce BKB.",
+    "search_text": "Frostbite W second skill root disable damage 100 per second creep multiplier 4x cast range 600 mana 125 135 145 155 cooldown 9 8 7 6",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "ABILITY_DATA",
+      "ROOT",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Arcane Aura. Description: Passive. Gives 0.4/0.6/0.8/1.0 base mana regeneration per second to all friendly units on the map. Allies within 1200 radius of Crystal Maiden receive 3x the mana regeneration (1.2/1.8/2.4/3.0 mana per second).",
+    "search_text": "Arcane Aura E third skill passive global mana regen 0.4 0.6 0.8 1.0 proximity bonus 1200 radius 3x",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "MANA_REGEN"
+    ]
+  },
+  {
+    "display_text": "Ability: Crystal Clone. Description: Granted by Aghanim's Scepter. Slides in a direction, creating a crystal clone of herself in her place and disjointing incoming projectiles. The clone has 150 health and lasts 5 seconds. If the clone takes enough damage or times out, it shatters, Frostbiting enemies in a 450 AoE around its place. The clone can be destroyed by Crystal Maiden's own spells. Slide distance is 275 over 0.3 seconds. Animation delay is 0.02 seconds.",
+    "search_text": "Crystal Clone Aghanim Scepter Shard slide disjoint projectile clone 150 health 5 second duration Frostbite 450 AoE",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "ABILITY_DATA",
+      "ESCAPE",
+      "DISJOINT"
+    ]
+  },
+  {
+    "display_text": "Ability: Blueheart Floe. Description: Innate passive. Crystal Maiden has 25/50/75/100% Mana Regeneration Amplification. This multiplies all sources of her mana regeneration.",
+    "search_text": "Blueheart Floe innate passive mana regen amplification 25 50 75 100 percent",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "ABILITY_DATA",
+      "INNATE",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Freezing Field. Description: Ultimate. Channeled for up to 10 seconds. Surrounds Crystal Maiden with 100 random icy explosions within 195 to 785 distance from her, each dealing 110/180/250 magic damage in a 320 radius. The entire ability radius is 810. Applies a 40% move speed slow and 80/120/160 attack speed slow to all enemies in the 810 radius for 1.0 second, even if not hit by an explosion. Explosions occur every 0.1 seconds. Costs 200/400/600 mana with a 100/95/90 second cooldown. Cast point is 0. Does NOT pierce BKB.",
+    "search_text": "Freezing Field R ultimate channel 10 seconds 100 explosions damage 110 180 250 radius 810 slow 40 move 80 120 160 attack speed mana 200 400 600 cooldown 100 95 90",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "CHANNELED",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Ability: Stop Freezing Field. Description: Immediately stops the channeling of Freezing Field.",
+    "search_text": "Stop Freezing Field cancel channel stop R ultimate",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Magic Burst. Build Glimmer Cape early for the magic resistance and active invisibility. Consider a BKB if you are the primary target. Use Crystal Clone (Aghanim's Scepter) to disjoint projectiles and escape. Position extremely carefully before channeling Freezing Field.",
+    "search_text": "Situational high magic burst Glimmer Cape BKB Crystal Clone disjoint positioning",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on defensive items like Force Staff and Glimmer Cape to save cores. Use Crystal Nova and Frostbite to defend high ground. Avoid channeling Freezing Field unless it's a guaranteed counter-initiation in your base. Max Arcane Aura to help your carries sustain mana for farming and defending.",
+    "search_text": "Situational behind losing game defensive items Force Staff Glimmer Cape high ground defend Arcane Aura",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Heavy Physical Damage Team (e.g., Drow Ranger, Sniper). Choose the Glacial Guard facet to provide physical damage barriers with Crystal Nova. Build items like Vladimir's Offering or Assault Cuirass to further amplify your team's physical damage.",
+    "search_text": "Situational physical damage team Glacial Guard facet barrier Crystal Nova Vladimir Assault Cuirass",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "SITUATIONAL",
+      "WITH_PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Illusion Heroes (Chaos Knight, Phantom Lancer). Use Crystal Nova's large AoE slow to reveal and slow illusions. Frostbite the real hero when identified. Consider a Shivas Guard later to further counter illusions with the attack speed slow aura.",
+    "search_text": "Situational illusion heroes Chaos Knight Phantom Lancer Crystal Nova AoE Frostbite real hero Shivas Guard",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: When Your Team Lacks Mana. Choose the Cold Comfort facet to restore ally mana on spell cast. Max Arcane Aura early. Consider building items like Arcane Boots (disassemble into Tranquil Boots later) or a Kaya and Sange for mana amplification.",
+    "search_text": "Situational team lacks mana Cold Comfort facet Arcane Aura max Arcane Boots Kaya Sange",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "SITUATIONAL",
+      "MANA_SUPPORT"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents. Left: +200 Health. Right: +12 Intelligence. Choose +200 Health if you are facing high burst damage or need to survive initiations. Choose +12 Intelligence for more mana pool, spell damage, and mana regeneration (amplified by Blueheart Floe and Arcane Aura), which is better for sustained casting.",
+    "search_text": "Talent level 10 left 200 health right 12 intelligence survive burst mana pool regen",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents. Left: +100 Frostbite Cast Range. Right: -4.5s Crystal Nova Cooldown. The Frostbite range increase allows you to root key targets from a safer distance (700 total range). The Crystal Nova cooldown reduction (to 3.5 seconds at max level) dramatically increases your damage output, slow uptime, and barrier application if you have Glacial Guard. Choose based on whether you need more reliable single-target control or more frequent AoE impact.",
+    "search_text": "Talent level 15 left 100 Frostbite cast range right 4.5 second Crystal Nova cooldown reduction control vs spam",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents. Left: +50 Freezing Field Damage per explosion. Right: +1.0s Frostbite Duration. The Freezing Field damage increase (to 160/230/300) significantly boosts your ultimate's teamfight damage, especially if you can channel it fully. The Frostbite duration increase (to 4.5 seconds at max level) provides incredibly long single-target disable. Choose based on whether your team needs more AoE damage or a reliable, long-duration root to lock down a key enemy core.",
+    "search_text": "Talent level 20 left 50 Freezing Field damage right 1.0 second Frostbite duration AoE damage vs single target disable",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents. Left: +300 Crystal Nova Damage. Right: +225 Attack Speed. The Crystal Nova damage increase (to 410/460/510) turns it into a massive nuke with a low cooldown, especially potent with the Glacial Guard barrier. The Attack Speed bonus is a meme talent that can situationally be useful if you have built right-click items, but the nuke damage is almost always superior for a support role.",
+    "search_text": "Talent level 25 left 300 Crystal Nova damage right 225 attack speed nuke vs right click",
+    "tags": [
+      "CRYSTAL_MAIDEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

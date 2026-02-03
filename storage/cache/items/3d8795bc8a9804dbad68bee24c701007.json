@@ -1,0 +1,66 @@
+[
+  {
+    "display_text": "Talisman of Evasion, Cost: 1300: Provides +15% Evasion chance, making attacks miss against the wielder. Stacks diminishingly with other evasion sources. A mid-game defensive option primarily effective against physical damage carries reliant on auto-attacks. Stats: Evasion: +15%.",
+    "search_text": "evasion item, miss chance, physical defense item, dodge attacks, chance to miss, defensive item, physical damage resistance, anti-carry item, armor alternative, agility item, Talisman of Evasion",
+    "tags": [
+      "ITEM_DATA",
+      "TALISMAN_OF_EVASION",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "EVASION",
+      "VS_PHYSICAL",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "SECRET_SHOP"
+    ]
+  },
+  {
+    "display_text": "Talisman of Evasion, Cost: 1300: Provides no direct attributes, damage, or health. Purely defensive item offering percentage-based evasion. Value derived entirely from chance to avoid incoming right-click attacks.",
+    "search_text": "talisman stats, evasion stats, no attributes, no damage, pure evasion, defensive stats, Talisman of Evasion",
+    "tags": [
+      "ITEM_DATA",
+      "TALISMAN_OF_EVASION",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Talisman of Evasion, Cost: 1300: Role is as a survivability item against physical damage in team fights. Increases effective health pool against auto-attackers like right-click carries. Less effective against spell damage or guaranteed physical damage from abilities. Stats: Evasion: +15%.",
+    "search_text": "team fight survival, physical damage mitigation, carry counter, right-click defense, survivability item, effective hp, dodge in fight, anti-physical, Talisman of Evasion",
+    "tags": [
+      "ITEM_DATA",
+      "TALISMAN_OF_EVASION",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Talisman of Evasion, Cost: 1300: Situational counter against heroes who rely heavily on basic attacks for damage, such as Sniper, Drow Ranger, or Troll Warlord. Ineffective against magic damage, true strike items (Monkey King Bar), or physical damage spells that cannot miss.",
+    "search_text": "counter item, anti-carry, vs auto-attackers, vs physical damage, vs right-click, anti-sniper, anti-drow, anti-troll, Talisman of Evasion",
+    "tags": [
+      "ITEM_DATA",
+      "TALISMAN_OF_EVASION",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "COUNTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Talisman of Evasion, Cost: 1300: Good synergy for heroes with high armor who want layered defense against physical damage, or for agility heroes who build into Butterfly later. Also a value component for Heaven's Halberd. Typically purchased by offlaners or supports facing heavy physical lineups.",
+    "search_text": "synergy item, butterfly component, halberd component, agility hero item, offlane item, support item, high armor synergy, layered defense, Talisman of Evasion",
+    "tags": [
+      "ITEM_DATA",
+      "TALISMAN_OF_EVASION",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "AGILITY",
+      "COMPONENT"
+    ]
+  }
+]

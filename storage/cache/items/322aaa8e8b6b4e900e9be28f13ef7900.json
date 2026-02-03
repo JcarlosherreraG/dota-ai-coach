@@ -1,0 +1,68 @@
+[
+  {
+    "display_text": "Boots of Travel, Cost: 2500: Upgrades your Town Portal Scroll ability, allowing it to target allied heroes or buildings with a reduced 40-second cooldown and no charge cost. The primary function is to provide global mobility and rapid map presence for split-pushing and responding to fights anywhere. Stats: CD: 40s, Bonus MS: +90, Teleport Vision Radius: 200.",
+    "search_text": "boots of travel, global teleport, teleport item, map mobility, split push item, boots upgrade, travel boots, TP upgrade, bot, BoT, reposition, global presence, fast travel, tower TP, hero TP, cooldown reduction, no charge cost, move speed, Boots of Travel",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_TRAVEL",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "UPGRADE",
+      "MOBILITY",
+      "GLOBAL",
+      "TELEPORT",
+      "REPOSITIONING"
+    ]
+  },
+  {
+    "display_text": "Boots of Travel, Cost: 2500: Provides +90 flat movement speed and a powerful active ability. No other stats or attributes are granted. Its entire value is derived from the enhanced Town Portal and superior movement speed for faster rotations. Stats: Bonus MS: +90.",
+    "search_text": "boots of travel stats, movement speed boots, travel boots stats, BoT stats, move speed item, no stats, teleport stats, Boots of Travel",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_TRAVEL",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "MOBILITY",
+      "MOVEMENT_SPEED"
+    ]
+  },
+  {
+    "display_text": "Boots of Travel, Cost: 2500: Core late-game item for applying global pressure and defending high ground. Enables a hero to split-push a lane safely and instantly join team fights when needed, creating map control and forcing reactions. Essential for high-mobility, split-push, or global strategies.",
+    "search_text": "boots of travel team fight, global pressure, split push, map control, high ground defense, late game mobility, BoT late game, split push defense, global item, fight participation, Boots of Travel",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_TRAVEL",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "MAP_CONTROL",
+      "SPLIT_PUSH",
+      "GLOBAL"
+    ]
+  },
+  {
+    "display_text": "Boots of Travel, Cost: 2500: Key item for heroes who need to maintain lane pressure and have global presence (Nature's Prophet, Tinker, Ember Spirit). Critical timing item after core damage or utility items to maximize map impact and turn split-pushing into a win condition.",
+    "search_text": "boots of travel synergy, global heroes, nature's prophet BoT, tinker BoT, ember spirit BoT, split push heroes, late game carry BoT, map impact item, timing item, Boots of Travel",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_TRAVEL",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "GLOBAL",
+      "SPLIT_PUSH",
+      "TIMING_ITEM"
+    ]
+  },
+  {
+    "display_text": "Boots of Travel, Cost: 2500: Enables rapid farming across the entire map by teleporting to lane creeps or allied heroes to clear dangerous waves. The free, charge-less TP allows for constant movement between jungle and lanes, significantly accelerating gold and experience gain in the late game.",
+    "search_text": "boots of travel farming, farm accelerator, map farming, wave clear mobility, jungle rotation, gold acceleration, late game farm, efficient farming, global farm, Boots of Travel",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_TRAVEL",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "GLOBAL",
+      "MOBILITY"
+    ]
+  }
+]

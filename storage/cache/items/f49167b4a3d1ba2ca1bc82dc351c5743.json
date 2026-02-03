@@ -1,0 +1,82 @@
+[
+  {
+    "display_text": "Guardian Greaves, Cost: 4300: Provides two core support abilities. The active 'Mend' instantly restores 325 health and 200 mana to all allies in a 1200 radius while removing most negative effects from the caster with a Basic Dispel. The passive 'Guardian Aura' provides a constant 2.5 health and 1.5 mana regeneration aura in the same radius, which dramatically increases to 14.5 health regen if the wearer falls below 25% health. Stats: CD: 45s, Mana: 0, Aura Radius: 1200.",
+    "search_text": "team fight save item, aura support item, save item, support aura, AoE heal mana, AOE heal, team heal, sustain aura, defensive aura, rescue item, basic dispel, remove debuffs, Mekansm upgrade, Guardian Greaves, Greaves",
+    "tags": [
+      "ITEM_DATA",
+      "GUARDIAN_GREAVES",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "AURA",
+      "BUFF",
+      "SAVE",
+      "DEFENSIVE",
+      "DISPEL",
+      "HEAL",
+      "MANA_REGEN",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Guardian Greaves, Cost: 4300: Stat profile includes +50 movement speed, +5 armor, +1.5 mana regeneration, and a team-wide 2.5 health regeneration aura. The armor and movement speed are substantial survivability boosts for a support hero. Stats: MS: +50, Armor: +5, Mana Regen: +1.5, Aura Hp Regen: +2.5.",
+    "search_text": "guardian greaves stats, greaves stats, stats guardian greaves, armor movement speed, stats, movement speed armor, aura hp regen, mana regen, Armor, MS, Guardian Greaves",
+    "tags": [
+      "ITEM_DATA",
+      "GUARDIAN_GREAVES",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "ARMOR",
+      "MOBILITY",
+      "MANA_REGEN",
+      "REGEN",
+      "HEALTH"
+    ]
+  },
+  {
+    "display_text": "Guardian Greaves, Cost: 4300: Primary team fight and defensive support item. The massive AoE heal and mana burst is a game-changer for team sustain during or after a fight, while the Basic Dispel on the caster can save you from disables. The aura provides critical regeneration for pushing and enduring sieges, and the low-health regen boost helps survive burst attempts. Its 45-second cooldown makes timing critical.",
+    "search_text": "support team fight item, team fight utility, AoE heal mana burst, fight sustain, post-fight recovery, sieging item, pushing aura, defensive support item, team save, clutch heal, Guardian Greaves",
+    "tags": [
+      "ITEM_DATA",
+      "GUARDIAN_GREAVES",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "SUPPORT_ITEM",
+      "DEFENSIVE",
+      "SAVE",
+      "UTILITY",
+      "AURA",
+      "BUFF"
+    ]
+  },
+  {
+    "display_text": "Guardian Greaves, Cost: 4300: Excellent against lineups with strong physical damage (armor bonus) and AoE magic damage that lowers the team's health (clutch AoE heal). It is a situational counter to control spells that can be Basic Dispelled (e.g., slows, DoTs), allowing the support to purge themself and heal allies simultaneously. The constant mana regen aura helps counter mana-burn strategies.",
+    "search_text": "counter AoE damage, versus physical damage, anti-control item, versus disables, purge debuffs, defensive versus burst, counter mana burn, mana regen aura, Guardian Greaves",
+    "tags": [
+      "ITEM_DATA",
+      "GUARDIAN_GREAVES",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_MAGIC",
+      "SITUATIONAL_VS_PHYSICAL",
+      "VS_CONTROL",
+      "DISPEL",
+      "DEFENSIVE",
+      "SAVE",
+      "MANA_REGEN"
+    ]
+  },
+  {
+    "display_text": "Guardian Greaves, Cost: 4300: Core late-game upgrade for Mekansm carriers, typically purchased by position 3-5 heroes (e.g., Underlord, Dark Seer). The movement speed bonus makes it surprisingly effective on non-traditional supports who need to be in the thick of the fight. It synergizes exceptionally well with aura-based team fight strategies and heroes who lack dispels, providing a crucial self-cleanse.",
+    "search_text": "greaves synergy, mekansm upgrade, aura synergy, team fight hero, support item, aura carrier, underlord item, dark seer item, team strategy, cleanse synergy, Guardian Greaves",
+    "tags": [
+      "ITEM_DATA",
+      "GUARDIAN_GREAVES",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "UPGRADE",
+      "SUPPORT_ITEM",
+      "TEAMFIGHT_ITEM",
+      "AURA",
+      "DISPEL"
+    ]
+  }
+]

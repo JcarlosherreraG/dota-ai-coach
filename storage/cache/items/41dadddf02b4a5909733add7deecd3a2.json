@@ -1,0 +1,23 @@
+[
+  {
+    "display_text": "Book of Shadows, Cost: 0: Tier 3 Neutral item. Grants Night Vision (400). Its active, Shadows, targets an enemy, ally, or self, making them untargetable to enemies for 4 seconds, but also silences, mutes, and disarms them. Applies a Basic Dispel on cast. Stats: CD: 8s, Duration: 4s, Night Vision: 400.",
+    "search_text": "neutral item, tier 3 neutral, book of shadows, untargetable, basic dispel, save item, defensive neutral, defensive utility, disable immunity, self banish, target removal, self save, shadow walk, dodge spells, self disable, silence, mute, disarm, night vision, neutral utility",
+    "tags": [
+      "ITEM_DATA",
+      "BOOK_OF_SHADOWS",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "UTILITY",
+      "SAVE",
+      "DEFENSIVE",
+      "DISPEL",
+      "ESCAPE",
+      "NIGHT_VISION",
+      "SILENCE",
+      "MUTE",
+      "DISARM",
+      "SELF_DISABLE"
+    ]
+  }
+]

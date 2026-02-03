@@ -1,0 +1,76 @@
+[
+  {
+    "display_text": "Dagon, Cost: 2800: Upgradable nuke item that deals heavy magical damage to a single target and heals the caster for 75% of the damage dealt. Instantly kills illusions. A powerful burst tool for intelligence heroes or anyone needing a finishing blow. Stats: CD: 27s, Mana Cost: 120/140/160/180/200, Damage: 400/500/600/700/800.",
+    "search_text": "nuke item, burst damage item, magic burst, single target nuke, magic damage item, intelligence nuke, dagon, finish target, kill illusions, spell lifesteal, magic lifesteal, kill hero, burst hero, finishing item, magical burst, intelligence item, Dagon",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MAGICAL_DAMAGE",
+      "BURST_DAMAGE",
+      "SINGLE_TARGET",
+      "SPELL_LIFESTEAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Dagon, Cost: 2800: Provides balanced attributes: +7/9/11/13/15 to Strength, Agility, and Intelligence. Grants 15/16/17/18/19% spell lifesteal passively. Stats: Str/Agi/Int: +15 at level 5, Spell Lifesteal: 15-19%.",
+    "search_text": "dagon stats, intelligence item stats, all stats item, balanced stats item, spell lifesteal item, magic lifesteal stats, attribute item, stats item, Dagon",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE",
+      "SPELL_LIFESTEAL",
+      "SUSTAIN",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Dagon, Cost: 2800: A high-impact magical burst tool for quickly eliminating key targets in team fights or pick-offs. The self-heal provides survivability during exchanges. Its low cooldown allows for multiple uses in prolonged engagements. Stats: CD: 27s.",
+    "search_text": "team fight burst, magic nuke team fight, finish off hero, pick off item, target elimination, team fight damage, survivability with heal, spell lifesteal team fight, burst kill, Dagon",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "BURST_DAMAGE",
+      "MAGICAL_DAMAGE",
+      "SUSTAIN",
+      "SINGLE_TARGET"
+    ]
+  },
+  {
+    "display_text": "Dagon, Cost: 2800: Synergizes with heroes who have high intelligence for increased damage scaling and need an instant-kill tool. Strong on burst mages and heroes lacking a reliable finishing ability. Upgrades provide increased stats and damage. Stats: Upgradable to level 5.",
+    "search_text": "dagon build, intelligence hero item, burst mage item, nuker item, scaling nuke item, spell damage build, magic build, int carry item, late game nuke, Dagon",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "MAGICAL_DAMAGE",
+      "UPGRADE",
+      "SCALING"
+    ]
+  },
+  {
+    "display_text": "Dagon, Cost: 2800: Counters illusion heroes and summons, as it instantly kills them. Effective against heroes with low magic resistance. The self-heal provides sustain against physical harassers, making it a good defensive option for intelligence cores. Stats: Illusion Kill: Instant.",
+    "search_text": "counter illusions, illusion counter item, kill illusions, anti illusion, vs phantom lancer, vs naga siren, vs summon heroes, counter low magic resist, magic damage vs low resist, sustain vs physical, Dagon",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON",
+      "SITUATIONAL_VS_ILLUSIONS",
+      "FULL_ITEM",
+      "VS_ILLUSIONS",
+      "VS_SUMMONS",
+      "VS_MAGIC",
+      "DEFENSIVE",
+      "SUSTAIN"
+    ]
+  }
+]

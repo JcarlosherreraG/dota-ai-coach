@@ -1,0 +1,59 @@
+[
+  {
+    "display_text": "Cost: 155: Circlet. Basic component item providing +2 to all attributes. An early game value purchase to boost base stats for last hitting, spell damage, and survivability. Often combined with other basic items to create more advanced equipment. Stats: Attributes: +2 All Stats.",
+    "search_text": "circlet, basic item, starting item, attribute item, all stats, early game stats, component item, cheap stats, last hit boost, spell damage boost, health boost, mana boost, armor boost, attack speed boost, damage boost, Circlet",
+    "tags": [
+      "ITEM_DATA",
+      "CIRCLET",
+      "FULL_ITEM",
+      "COMPONENT",
+      "STAT_PROFILE",
+      "ATTRIBUTES",
+      "EARLY_GAME",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Cost: 155: Circlet. Provides +2 Strength, +2 Agility, and +2 Intelligence, making it a stat-efficient pickup for any hero role in the early game. The broad attribute gain improves health, mana, attack speed, damage, and armor simultaneously.",
+    "search_text": "circlet stats, all stats item, strength agility intelligence, early game attributes, basic stats, hero stats, stat efficient, circlet attributes, Circlet",
+    "tags": [
+      "ITEM_DATA",
+      "CIRCLET",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "ATTRIBUTES",
+      "HEALTH",
+      "MANA",
+      "DAMAGE",
+      "ARMOR",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Cost: 155: Circlet. A versatile starting or early game purchase that builds into several key items like Wraith Band, Bracer, and Null Talisman. Its value comes from providing a balanced stat boost that benefits all heroes.",
+    "search_text": "circlet build, wraith band component, bracer component, null talisman component, early game component, stat component, item component, basic component, upgrade component, Circlet",
+    "tags": [
+      "ITEM_DATA",
+      "CIRCLET",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "COMPONENT",
+      "UPGRADE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Cost: 155: Circlet. Primary early game utility, purchased at the start of the match to gain an immediate advantage in lane for last hitting and trading. The small all-around stat boost makes it a cost-effective choice before committing to more expensive items.",
+    "search_text": "circlet starting item, early game purchase, laning item, last hit advantage, trading stats, lane sustain, early advantage, starting stats, Circlet",
+    "tags": [
+      "ITEM_DATA",
+      "CIRCLET",
+      "FULL_ITEM",
+      "EARLY_GAME_USAGE",
+      "STARTING_ITEM",
+      "LANING",
+      "SUSTAIN",
+      "UTILITY"
+    ]
+  }
+]

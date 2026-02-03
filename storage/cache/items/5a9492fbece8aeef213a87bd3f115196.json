@@ -1,0 +1,74 @@
+[
+  {
+    "display_text": "Aeon Disk, Cost: 3000: Defensive item that triggers when your health drops below 70%, applying a Strong Dispel and granting +75% Status Resistance for 2.5 seconds while nullifying all incoming and outgoing damage. Only triggers on damage from players. Each trigger increases the cooldown. Stats: Health: +250, Mana: +300, CD: 105/125/145/165s, Initial CD: 6s.",
+    "search_text": "defensive item, save item, survive burst, prevent death, burst counter, strong dispel, status resistance, damage block, trigger health, low hp survival, anti burst, defensive cooldown, Aeon Disk, health threshold, dispel item, anti-initiation",
+    "tags": [
+      "ITEM_DATA",
+      "AEON_DISK",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "VS_BURST",
+      "DISPEL",
+      "STATUS_RESISTANCE",
+      "HEALTH",
+      "MANA"
+    ]
+  },
+  {
+    "display_text": "Aeon Disk, Cost: 3000: Provides +250 Health and +300 Mana. Stats: Health: +250, Mana: +300.",
+    "search_text": "aeon disk stats, aeon disk health mana, defensive stats, hp mana boost, Aeon Disk",
+    "tags": [
+      "ITEM_DATA",
+      "AEON_DISK",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "HEALTH",
+      "MANA"
+    ]
+  },
+  {
+    "display_text": "Aeon Disk, Cost: 3000: Team fight role is as a critical defensive save item for key targets against burst damage and initiation. The Strong Dispel removes most disables, allowing you to escape or reposition after a sudden health drop. Its damage nullification and status resistance make it powerful for surviving and turning fights when focused.",
+    "search_text": "team fight save, save teammate, protect carry, defensive support, counter initiation, survive focus, Aeon Disk, anti burst in fight, strong dispel teamfight",
+    "tags": [
+      "ITEM_DATA",
+      "AEON_DISK",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "SAVE",
+      "DEFENSIVE",
+      "VS_BURST",
+      "DISPEL",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Aeon Disk, Cost: 3000: Situational against burst-heavy lineups or heroes with powerful single-target initiation that relies on quickly dropping an enemy's health. Counters chain-stuns and high-damage combos by providing a window of invulnerability and cleanse after being focused.",
+    "search_text": "situational vs burst, counter chain stun, counter initiation, anti burst, survive combo, Aeon Disk, vs high damage, vs single target, stop lockdown",
+    "tags": [
+      "ITEM_DATA",
+      "AEON_DISK",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_CONTROL",
+      "SITUATIONAL_VS_PHYSICAL",
+      "SITUATIONAL_VS_MAGIC",
+      "VS_BURST",
+      "VS_INITIATION"
+    ]
+  },
+  {
+    "display_text": "Aeon Disk, Cost: 3000: Synergy build for heroes who are priority targets in fights and lack innate survivability, or for supports who need to survive long enough to cast multiple spells. The cooldown increase per trigger encourages careful timing and positioning, making it a high-stakes purchase. Its high cost suits core heroes who can afford it later in the game.",
+    "search_text": "synergy for supports, synergy for cores, save item build, priority target item, survivability item, Aeon Disk build, late game defensive, expensive save item",
+    "tags": [
+      "ITEM_DATA",
+      "AEON_DISK",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "SUPPORT_ITEM",
+      "CARRY_ITEM",
+      "LATE_GAME"
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "display_text": "Vanguard, Cost: 1700: Grants a 60% chance to block 50 damage from incoming melee attacks and 25 damage from ranged attacks. Provides significant early-game survivability against physical damage harassment and creep attacks. Stats: CD: N/A, Mana: N/A.",
+    "search_text": "damage block item, early game tank item, physical damage mitigation, block chance, melee tank, lane sustain item, harass counter, HP regen item, durability item, Vanguard",
+    "tags": [
+      "ITEM_DATA",
+      "VANGUARD",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "VS_PHYSICAL",
+      "SURVIVAL",
+      "HEALTH",
+      "REGEN"
+    ]
+  },
+  {
+    "display_text": "Vanguard, Cost: 1700: Provides raw health and regeneration, increasing bulk and lane staying power. Stats: +250 Health, +4.5 Health Regeneration.",
+    "search_text": "vanguard stats, HP item, health regen item, tank stats, durability stats, bulk item, strength item substitute, survivability stats, Vanguard",
+    "tags": [
+      "ITEM_DATA",
+      "VANGUARD",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "REGEN",
+      "SURVIVAL",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Vanguard, Cost: 1700: Serves as a frontline defensive item, absorbing physical damage for the team during pushes and initiations. Makes the bearer significantly harder to kill with right-click attacks in early team fights. Effective against physical damage cores in the mid-game.",
+    "search_text": "team fight tank item, frontline item, physical damage soak, initiator survivability, push sustain, mid game tank, absorb damage, team fight defense, Vanguard",
+    "tags": [
+      "ITEM_DATA",
+      "VANGUARD",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "FRONTLINE",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Vanguard, Cost: 1700: Counters heroes and builds focused on rapid physical damage output. The damage block significantly reduces the effectiveness of heroes with high attack speed but low damage per hit. A strong counter to illusion-based heroes or summons early on.",
+    "search_text": "counter physical damage, anti-carry item, vs illusions, vs summons, vs high attack speed, damage per hit reduction, right click counter, physical harass counter, Vanguard",
+    "tags": [
+      "ITEM_DATA",
+      "VANGUARD",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "VS_ILLUSIONS",
+      "VS_SUMMONS"
+    ]
+  },
+  {
+    "display_text": "Vanguard, Cost: 1700: Ideal for melee strength heroes who intend to fight early and need to survive in the middle of combat. Synergizes with abilities that force enemies to attack you or with heroes who have high base health pools. A core component for tanky initiators like Axe or Bristleback.",
+    "search_text": "melee strength hero item, tank initiator item, axe item, bristleback item, early fighter, brawler item, strength core item, frontline initiator build, Vanguard",
+    "tags": [
+      "ITEM_DATA",
+      "VANGUARD",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "STRENGTH_ITEM",
+      "INITIATOR_ITEM",
+      "MELEE_HERO"
+    ]
+  },
+  {
+    "display_text": "Vanguard, Cost: 1700: Improves jungle farming efficiency for melee heroes by reducing damage taken from neutral creeps, allowing for healthier and faster clearing. The health regeneration sustains farming between camps without needing to return to base.",
+    "search_text": "jungle sustain item, farming tank item, jungle efficiency, creep block, neutral creep farming, health regen farming, melee jungler item, farming durability, Vanguard",
+    "tags": [
+      "ITEM_DATA",
+      "VANGUARD",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "SUSTAIN",
+      "VS_PHYSICAL"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "display_text": "Urn of Shadows, Cost: 825: Spirit Vessel precursor providing 2 Armor, 2 All Stats, and 1.25 Mana Regen. Gains a charge whenever an enemy hero dies within 1500 units. Cast Soul Release on an ally to heal 30 HP per second for 8s, or on an enemy to deal 25 magical damage per second for 8s. Healing stops if the ally is attacked by a hero or Roshan. Stats: CD: 10s, Duration: 8s, Heal: 30/s, Damage: 25/s, Initial Charges: 2.",
+    "search_text": "urn of shadows, spirit vessel, urn, charge item, heal item, damage over time, DoT, soul release, urn charges, support item, early team fight, urn heal, urn damage, hero death charges, heal ally, damage enemy, charge generation, offensive support, defensive support, Urn",
+    "tags": [
+      "ITEM_DATA",
+      "URN_OF_SHADOWS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "HEAL",
+      "REGEN",
+      "MAGICAL_DAMAGE",
+      "DOT",
+      "DEBUFF",
+      "BUFF",
+      "CHARGE_BASED"
+    ]
+  },
+  {
+    "display_text": "Urn of Shadows, Cost: 825: Provides balanced early-game survivability and mana sustain for supports and initiators. Stats: Armor: +2, All Attributes: +2, Mana Regen: +1.25.",
+    "search_text": "urn stats, urn attributes, early game stats, armor item, stat item, mana regen item, support stats, urn all stats, Urn of Shadows",
+    "tags": [
+      "ITEM_DATA",
+      "URN_OF_SHADOWS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ARMOR",
+      "STATS",
+      "MANA_REGEN",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Urn of Shadows, Cost: 825: Key team fight utility item for aggressive lineups. Its charge system rewards fighting, making it potent after early ganks. Provides sustain for allies and finishes damage on fleeing enemies, influencing skirmishes and post-fight recovery.",
+    "search_text": "urn team fight, urn utility, post-fight heal, post-fight damage, gank item, skirmish item, early fight item, aggressive support, sustain after fight, Urn of Shadows",
+    "tags": [
+      "ITEM_DATA",
+      "URN_OF_SHADOWS",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "UTILITY",
+      "SUPPORT_ITEM",
+      "HEAL",
+      "DOT",
+      "BUFF",
+      "DEBUFF"
+    ]
+  },
+  {
+    "display_text": "Urn of Shadows, Cost: 825: Synergizes with roaming supports (Bounty Hunter, Spirit Breaker) and initiators (Axe, Centaur) who can generate charges through kills. Its constant, low-level damage/heal is effective against heroes without burst regen or escapes. Becomes less effective against high-burst healing or BKB users.",
+    "search_text": "urn synergy, urn roaming support, urn initiator, urn bounty hunter, urn axe, urn centaur, urn spirit breaker, urn charges generator, fight-oriented lineup, Urn of Shadows",
+    "tags": [
+      "ITEM_DATA",
+      "URN_OF_SHADOWS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "ROAMER_ITEM",
+      "INITIATOR_ITEM"
+    ]
+  },
+  {
+    "display_text": "Urn of Shadows, Cost: 825: Situational counter against sustained regen and heroes who rely on escaping with low HP. The damage over time can cancel Blink Daggers and other channeling items. The healing effect can be dispelled, making it weaker against heroes with built-in dispels.",
+    "search_text": "urn counter, counter regen, stop healing, anti-heal, cancel blink, stop channeling, damage over time counter, Urn of Shadows, urn vs healing, urn vs blink",
+    "tags": [
+      "ITEM_DATA",
+      "URN_OF_SHADOWS",
+      "SITUATIONAL_USAGE",
+      "FULL_ITEM",
+      "VS_HEALERS",
+      "DOT",
+      "DEBUFF",
+      "UTILITY"
+    ]
+  }
+]

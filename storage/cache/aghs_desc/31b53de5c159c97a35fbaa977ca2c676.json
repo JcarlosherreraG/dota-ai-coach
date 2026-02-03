@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Lone Druid Aghanim's Scepter: Entangle applies stacks to enemy heroes in the area and has increased radius. This upgrade counters enemy positioning and mobility by making Entangle more reliable against grouped enemies, while removing their protection from gaining stacks. It transforms Lone Druid into a stronger teamfight presence with persistent area control.",
+    "search_text": "Lone Druid Aghanim Scepter Entangle anti-positioning mobility teamfight area control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lone Druid",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lone Druid Aghanim's Shard: Savage Roar applies a basic dispel and grants allies bonus movement and attack speed in an area. This upgrade counters enemy disables and slows, enabling Lone Druid to function as a support-style enabler for allies during engagements. The dispel and buffs make it valuable for counter-initiation or sustaining fights.",
+    "search_text": "Lone Druid Aghanim Shard Savage Roar anti-disable dispel buff support counter-initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lone Druid",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

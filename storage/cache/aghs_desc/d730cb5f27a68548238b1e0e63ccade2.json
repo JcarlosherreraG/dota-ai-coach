@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Gyrocopter Aghanim's Scepter: Adds a Side Gunner that attacks random enemy units near Gyrocopter. This upgrade counters split-push and kiting mechanics by providing sustained damage against scattered or evasive targets, especially during Flak Cannon activation, enhancing Gyrocopter's teamfight presence.",
+    "search_text": "Gyrocopter Aghanim Scepter side gunner anti-split-push anti-kiting sustained damage Flak Cannon",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Gyrocopter",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Gyrocopter Aghanim's Shard: Grants Homing Missile constant Rocket Barrage AoE damage in a 700 radius, prioritizing the missile target. This upgrade counters clumping mechanics by punishing grouped enemies and provides Gyrocopter with additional AoE burst damage potential.",
+    "search_text": "Gyrocopter Aghanim Shard Homing Missile Rocket Barrage AoE burst anti-clumping",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Gyrocopter",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Occult Bracelet, Tier 1: Neutral item providing a stacking mana regeneration passive. Each time the wearer is attacked, they gain a stack of +0.4 mana regen, up to 5 stacks (max +2.0 mana regen). Stacks last for 5 seconds. Provides no other stats, functioning as a mana sustain item for heroes frequently taking harass in lane or team fights. Stats: Max Stacks: 5, Mana Regen per Stack: 0.4, Stack Duration: 5s.",
+    "search_text": "occult bracelet, tier 1 neutral, mana regen neutral, passive mana regen, stacking mana regen, harass mana regen, attacked mana regen, lane sustain neutral, early game neutral, mana sustain, stacking buff, neutral item mana, Occult Bracelet",
+    "tags": [
+      "ITEM_DATA",
+      "OCCULT_BRACELET",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "MANA_REGEN",
+      "SUSTAIN",
+      "PASSIVE",
+      "STACKING_BUFF",
+      "LANING"
+    ]
+  }
+]

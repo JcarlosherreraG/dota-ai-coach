@@ -1,0 +1,68 @@
+[
+  {
+    "display_text": "Hyperstone, Cost: 2000: Provides a substantial +60 Attack Speed as a pure stat item, which is a significant percentage increase for heroes with lower base attack rates. Its primary value comes from accelerating a hero's right-click damage output. No active ability or cooldown. Stats: Attack Speed: +60.",
+    "search_text": "attack speed item, dps item, physical dps, right click damage, attack speed boost, hyperstone, dps boost, attack speed upgrade, core damage, carry item, AS item, physical damage, damage per second, farming speed, Hyperstone",
+    "tags": [
+      "ITEM_DATA",
+      "HYPERSTONE",
+      "FULL_ITEM",
+      "ATTACK_SPEED",
+      "DAMAGE",
+      "CARRY_ITEM",
+      "STAT_PROFILE"
+    ]
+  },
+  {
+    "display_text": "Hyperstone, Cost: 2000: Provides no active abilities, health, mana, damage, or armor—only raw attack speed. Acts as a key component for high-tier attack damage items like Assault Cuirass and Moon Shard. Value is purely in scaling physical attack frequency.",
+    "search_text": "hyperstone stats, no active, attack speed only, component item, recipe part, upgrade component, assault cuirass component, moon shard component, stats only, no health, no mana, Hyperstone",
+    "tags": [
+      "ITEM_DATA",
+      "HYPERSTONE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "UPGRADE",
+      "COMPONENT",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Hyperstone, Cost: 2000: Amplifies physical damage output in extended fights, particularly on heroes who rely on attack modifiers or have high base damage. It dramatically increases farming speed and siege potential. Critical timing window is mid-game to accelerate farm or before major team fight objectives.",
+    "search_text": "team fight dps, farming speed, right click team fight, physical team fight, siege damage, tower damage, hyperstone team fight, damage amplification, attack speed team fight, DPS team fight, Hyperstone",
+    "tags": [
+      "ITEM_DATA",
+      "HYPERSTONE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Hyperstone, Cost: 2000: Core synergy for heroes who scale with attack speed, such as those with critical strike, bash, or unique attack modifiers. Also synergizes with high base damage builds. Builds into Assault Cuirass for team utility or Moon Shard for permanent personal attack speed.",
+    "search_text": "hyperstone synergy, attack speed carry, critical strike synergy, bash synergy, modifer synergy, DPS build, damage build, assault cuirass build, moon shard build, attack speed scaling, Hyperstone",
+    "tags": [
+      "ITEM_DATA",
+      "HYPERSTONE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "ATTACK_SPEED",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Hyperstone, Cost: 2000: Provides excellent farming utility by increasing attack speed, allowing heroes to clear creep waves and jungle camps significantly faster. The increased attack speed translates directly to higher gold per minute and faster item progression after purchase.",
+    "search_text": "farming item, wave clear, jungle speed, farm acceleration, attack speed farming, gold efficiency, hyperstone farm, clear speed, farming acceleration, Hyperstone",
+    "tags": [
+      "ITEM_DATA",
+      "HYPERSTONE",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "FARMING",
+      "WAVECLEAR",
+      "ATTACK_SPEED",
+      "CARRY_ITEM"
+    ]
+  }
+]

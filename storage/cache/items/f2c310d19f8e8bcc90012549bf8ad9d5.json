@@ -1,0 +1,72 @@
+[
+  {
+    "display_text": "Ghost Scepter, Cost: 1500: Grants Ghost Form for 4 seconds, making you immune to physical damage but unable to attack and increasing magic damage taken by 30%. A defensive tool to survive against heavy physical burst from enemy cores. The form is dispellable and ends early if you become Debuff Immune. Stats: CD: 22s, Duration: 4s, Magic Vulnerability: +30%.",
+    "search_text": "ghost form, ethereal, physical immunity, magic vulnerable, defensive item, physical burst counter, survive right click, escape item, physical damage immune, ghost scepter, support item, save item, ethereal state, attack disabled, defensive active, immunity item, Ghost Scepter",
+    "tags": [
+      "ITEM_DATA",
+      "GHOST_SCEPTER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "GHOST_FORM",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "DISPELLABLE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Ghost Scepter, Cost: 1500: Provides +5 to all attributes (Strength, Agility, Intelligence). The primary value is the active ability; the stats offer minor survivability and utility.",
+    "search_text": "ghost scepter stats, all stats item, +5 all stats, attribute stats, minor stats, support stats, Ghost Scepter",
+    "tags": [
+      "ITEM_DATA",
+      "GHOST_SCEPTER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ALL_ATTRIBUTES",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Ghost Scepter, Cost: 1500: Defensive team fight role to nullify enemy physical damage dealers (e.g., Phantom Assassin, Sven) for a short duration. Enables supports and intelligence heroes to survive targeted initiations and physical burst combos, buying time for allies to respond.",
+    "search_text": "team fight defensive item, physical damage counter item, survive team fight, support save item, defensive active team fight, physical immunity team fight, counter carry item, save support, defensive tool, Ghost Scepter",
+    "tags": [
+      "ITEM_DATA",
+      "GHOST_SCEPTER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SAVE",
+      "VS_PHYSICAL",
+      "SURVIVAL",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Ghost Scepter, Cost: 1500: Situational against heavy physical burst damage compositions. Excellent counter to enemy right-click carries who rely on high physical DPS to secure kills. Be cautious against mixed damage teams or heroes with high magical burst, as the +30% magic vulnerability can be fatal.",
+    "search_text": "counter physical carry, vs physical damage, vs right click, physical dps counter, magic vulnerability warning, counter item, situational defensive, physical damage counter, Ghost Scepter",
+    "tags": [
+      "ITEM_DATA",
+      "GHOST_SCEPTER",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "SITUATIONAL",
+      "COUNTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Ghost Scepter, Cost: 1500: Core defensive synergy for heroes with escape abilities (e.g., Force Staff) or who are naturally fragile and targeted by physical damage. Often built by Intelligence supports and cores (e.g., Skywrath Mage, Zeus) to survive ganks and man-fights against physical carries.",
+    "search_text": "ghost scepter build, intelligence hero item, support build, fragile hero item, defensive build, save build, support item build, synergy with escape, Ghost Scepter",
+    "tags": [
+      "ITEM_DATA",
+      "GHOST_SCEPTER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SUPPORT_ITEM",
+      "INTELLIGENCE_HERO",
+      "SURVIVAL"
+    ]
+  }
+]

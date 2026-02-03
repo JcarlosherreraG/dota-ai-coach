@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Razor Aghanim's Scepter: Eye of the Storm now strikes two units and damages structures. This upgrade counters high-ground defense and siege scenarios, transforming Razor into a potent structure destroyer while maintaining teamfight pressure with double strikes.",
+    "search_text": "Razor Aghanim Scepter high-ground siege structure damage double strike teamfight pressure",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Razor",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Razor Aghanim's Shard: Increases Static Link cast range and slows the target based on damage stolen. This upgrade counters kiting and mobility, allowing Razor to maintain his link more effectively and punish enemies trying to escape his damage-draining tether.",
+    "search_text": "Razor Aghanim Shard anti-kite mobility slow damage steal Static Link range",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Razor",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

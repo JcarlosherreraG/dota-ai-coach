@@ -1,0 +1,229 @@
+[
+  {
+    "display_text": "Nyx Assassin is a melee hero with a slow attack rate of 1.7 seconds per attack. Base attributes: 17 strength, 18 agility, 21 intelligence. Compared to average heroes, he has low strength and agility, making him fragile, but higher intelligence for spellcasting.",
+    "search_text": "Nyx Assassin melee attack rate 1.7 base stats 17 strength 18 agility 21 intelligence fragile spellcaster",
+    "tags": [
+      "Nyx Assassin",
+      "BASE_STATS",
+      "MELEE",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Choose between Mana Burn and Scuttle facets. Mana Burn changes Mind Flare to burn a percentage of max mana, effective against mana-dependent heroes like Intelligence carries. Scuttle gives Vendetta free pathing and haste at the start, enhancing initiation and escape capabilities, useful for traversing terrain.",
+    "search_text": "Nyx Assassin facets Mana Burn Mind Flare burn mana Scuttle Vendetta free pathing haste initiation escape",
+    "tags": [
+      "Nyx Assassin",
+      "FACET_STRATEGY",
+      "MANA BURN",
+      "SCUTTLE"
+    ]
+  },
+  {
+    "display_text": "In the first 10 minutes, use Impale for harassment and securing kills with its stun and damage. Spiked Carapace can be used to trade hits favorably by reflecting damage. Mind Flare provides burst damage against enemies with high mana pools. Focus on levels and securing runes.",
+    "search_text": "Nyx Assassin laning phase early game Impale stun damage Spiked Carapace reflect trade Mind Flare burst mana runes",
+    "tags": [
+      "Nyx Assassin",
+      "LANING_PHASE",
+      "EARLY GAME",
+      "HARASSMENT"
+    ]
+  },
+  {
+    "display_text": "Key power spikes at level 6 with Vendetta for ganking, level 12 with maxed Impale or Mind Flare for increased damage, level 18 with all abilities maxed, and talent levels 10,15,20,25. Item timings like Blink Dagger around 10-15 minutes for better initiation, and Aghanim's Scepter for enhanced survivability and regen.",
+    "search_text": "Nyx Assassin power spikes level 6 Vendetta gank level 12 max Impale Mind Flare level 18 talents Blink Dagger Aghanim's Scepter",
+    "tags": [
+      "Nyx Assassin",
+      "POWER_SPIKES",
+      "LEVELS",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Heroes with Break abilities like Silver Edge can disable Spiked Carapace and Nyxth Sense. Instant disables like Hex can prevent Nyx from using Vendetta or Burrow. True sight from items like Dust or Gem reveals Vendetta invisibility.",
+    "search_text": "Nyx Assassin hard counters Break Silver Edge Spiked Carapace Nyxth Sense Hex disable Vendetta Burrow true sight Dust Gem",
+    "tags": [
+      "Nyx Assassin",
+      "HARD_COUNTERS",
+      "BREAK",
+      "DISABLES",
+      "TRUE SIGHT"
+    ]
+  },
+  {
+    "display_text": "Essential items include Blink Dagger for initiation and positioning, Aghanim's Scepter for health and mana regen during Vendetta, and a utility item like Force Staff or Lotus Orb for survivability.",
+    "search_text": "Nyx Assassin core build Blink Dagger initiation Aghanim's Scepter regen Force Staff Lotus Orb survivability",
+    "tags": [
+      "Nyx Assassin",
+      "CORE_BUILD",
+      "BLINK DAGGER",
+      "AGHANIM'S SCEPTER"
+    ]
+  },
+  {
+    "display_text": "In 5v5 teamfights, Nyx Assassin's role is to initiate with Vendetta and Impale to stun key targets, use Spiked Carapace to reflect damage and stun attackers, and burst down high-value enemies with Mind Flare. He can also burrow for sustained disables and damage reduction.",
+    "search_text": "Nyx Assassin teamfight role initiator Vendetta Impale stun Spiked Carapace reflect Mind Flare burst burrow disables damage reduction",
+    "tags": [
+      "Nyx Assassin",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "DISABLER"
+    ]
+  },
+  {
+    "display_text": "Impale deals 100/160/220/280 damage and stuns for 1.1/1.4/1.7/2.0 seconds. The spikes move at 1600 units per second over 750 range with a width of 140. Cannot be blocked by Linken's Sphere.",
+    "search_text": "Impale Q stun damage 100 160 220 280 duration 1.1 1.4 1.7 2.0 range 750 speed 1600 width 140 pierces Linken's Sphere",
+    "tags": [
+      "Nyx Assassin",
+      "ABILITY_DATA",
+      "IMPALE",
+      "STUN",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Mind Flare has a cooldown of 11/9.5/8/6.5 seconds. It deals damage equal to 25%/30%/35%/40% of the target's max mana, plus 15% of the damage dealt by Nyx Assassin to the target in the last 15 seconds. Resets accumulated damage before applying.",
+    "search_text": "Mind Flare W mana burn damage max mana 25% 30% 35% 40% echo damage 15% last 15s cooldown 11 9.5 8 6.5 burst",
+    "tags": [
+      "Nyx Assassin",
+      "ABILITY_DATA",
+      "MIND FLARE",
+      "MANA BURN",
+      "BURST"
+    ]
+  },
+  {
+    "display_text": "Spiked Carapace reflects 140% of incoming damage back to the source for 2.0 seconds, and stuns them for 0.7/1.0/1.3/1.6 seconds. While burrowed, it instantly stuns nearby enemies when cast. Activating does not break Vendetta invisibility.",
+    "search_text": "Spiked Carapace E reflect damage 140% duration 2.0 stun 0.7 1.0 1.3 1.6 burrowed instant stun defensive",
+    "tags": [
+      "Nyx Assassin",
+      "ABILITY_DATA",
+      "SPIKED CARAPACE",
+      "REFLECT",
+      "STUN"
+    ]
+  },
+  {
+    "display_text": "Burrow has a cast range of 500. Once burrowed, Nyx Assassin is stationary, invisible, and gains 40% damage reduction. While burrowed, Spiked Carapace stuns in a 400 radius, Mind Flare and Impale range increased, and Impale cooldown reduced by 25%. Provides 1 health and mana regen per second.",
+    "search_text": "Burrow D cast range 500 stationary invisible damage reduction 40% Spiked Carapace radius 400 Mind Flare Impale range increase Impale cooldown reduction 25% regen 1 health mana",
+    "tags": [
+      "Nyx Assassin",
+      "ABILITY_DATA",
+      "BURROW",
+      "INVISIBILITY",
+      "DAMAGE REDUCTION"
+    ]
+  },
+  {
+    "display_text": "Nyxth Sense allows Nyx Assassin to detect enemy heroes within 400 units of himself.",
+    "search_text": "Nyxth Sense passive true sight detection heroes within 400 radius",
+    "tags": [
+      "Nyx Assassin",
+      "ABILITY_DATA",
+      "NYXTH SENSE",
+      "PASSIVE",
+      "DETECTION"
+    ]
+  },
+  {
+    "display_text": "Vendetta makes Nyx Assassin invisible for 60 seconds with a movement speed bonus of 16/18/20. Breaking invisibility with an attack deals 300/400/500 bonus damage, with 75 extra attack range and 70% faster attack animation. Cooldown is 80/70/60 seconds, mana cost 180/240/300. With Aghanim's Scepter, provides 3 health and mana regen per second.",
+    "search_text": "Vendetta R ultimate invisibility duration 60 movement speed 16 18 20 bonus damage 300 400 500 attack range 75 attack animation 70% faster cooldown 80 70 60 mana cost 180 240 300 Aghanim's Scepter regen 3 health mana",
+    "tags": [
+      "Nyx Assassin",
+      "ABILITY_DATA",
+      "VENDETTA",
+      "INVISIBILITY",
+      "BURST DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Unburrow allows Nyx Assassin to emerge from burrow.",
+    "search_text": "Unburrow emerge from burrow utility",
+    "tags": [
+      "Nyx Assassin",
+      "ABILITY_DATA",
+      "UNBURROW",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "When facing high mana heroes, the Mana Burn facet is crucial. Mind Flare deals damage based on max mana, making it effective against intelligence carries like Storm Spirit or Medusa. Use Vendetta to initiate and follow up with Impale and Mind Flare for quick kills.",
+    "search_text": "Nyx Assassin situational vs high mana heroes Mana Burn facet Mind Flare max mana damage intelligence carries Storm Spirit Medusa Vendetta initiation",
+    "tags": [
+      "Nyx Assassin",
+      "SITUATIONAL",
+      "HIGH MANA",
+      "MANA BURN"
+    ]
+  },
+  {
+    "display_text": "Playing from behind, focus on defensive items like Blink Dagger for escape and positioning. Use Burrow for damage reduction and regen in fights. Prioritize stuns with Impale and Spiked Carapace to protect allies and counter-initiate.",
+    "search_text": "Nyx Assassin situational playing from behind defensive Blink Dagger escape Burrow damage reduction regen Impale stun Spiked Carapace counter-initiate",
+    "tags": [
+      "Nyx Assassin",
+      "SITUATIONAL",
+      "FROM BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "With Aghanim's Scepter, Vendetta provides 3 health and mana regen per second, enhancing sustainability during ganks and teamfights. This allows Nyx to stay active on the map longer and use abilities more frequently.",
+    "search_text": "Nyx Assassin situational with Aghanim's Scepter Vendetta regen 3 health mana sustainability ganks teamfights",
+    "tags": [
+      "Nyx Assassin",
+      "SITUATIONAL",
+      "AGHANIM'S SCEPTER",
+      "REGEN"
+    ]
+  },
+  {
+    "display_text": "Against mobile heroes with escapes, use Vendetta's initiation with Impale to lock them down quickly. The Scuttle facet can help chase over terrain with free pathing. Coordinate with allies for chain disables.",
+    "search_text": "Nyx Assassin situational against mobile heroes escapes Vendetta Impale lockdown Scuttle facet free pathing chase terrain coordination",
+    "tags": [
+      "Nyx Assassin",
+      "SITUATIONAL",
+      "MOBILE HEROES",
+      "CHASE"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +25% Spiked Carapace Damage Reflect or +0.2s Impale Stun Duration. Pick the damage reflect for better trading and survivability in fights, or the stun duration for more reliable disables and set-up for allies.",
+    "search_text": "Nyx Assassin talent level 10 left +25% Spiked Carapace Damage Reflect right +0.2s Impale Stun Duration trading survivability disables",
+    "tags": [
+      "Nyx Assassin",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between +50 Vendetta Damage or -3s Mind Flare Cooldown. Pick the Vendetta damage for higher burst and assassination potential, or the Mind Flare cooldown for more frequent spell usage and sustained damage.",
+    "search_text": "Nyx Assassin talent level 15 left +50 Vendetta Damage right -3s Mind Flare Cooldown burst assassination spell frequency",
+    "tags": [
+      "Nyx Assassin",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between +0.6s Spiked Carapace Stun Duration or +140 Impale Damage. Pick the stun duration for longer disables and crowd control, or the Impale damage for increased burst and wave clear.",
+    "search_text": "Nyx Assassin talent level 20 left +0.6s Spiked Carapace Stun Duration right +140 Impale Damage disables crowd control burst wave clear",
+    "tags": [
+      "Nyx Assassin",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between 600 Mind Flare Radius or +80 Agility. Pick the Mind Flare radius for AoE damage in teamfights and hitting multiple enemies, or the agility for increased attack speed, armor, and physical damage.",
+    "search_text": "Nyx Assassin talent level 25 left 600 Mind Flare Radius right +80 Agility AoE teamfight attack speed armor physical damage",
+    "tags": [
+      "Nyx Assassin",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

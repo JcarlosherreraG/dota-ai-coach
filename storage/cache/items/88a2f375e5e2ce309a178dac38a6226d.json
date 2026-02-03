@@ -1,0 +1,66 @@
+[
+  {
+    "display_text": "Pavise, Cost: 1400: Grants an ally a physical damage barrier that absorbs 250 damage for 7 seconds. Has a 16-second cooldown and costs 60 mana to cast. A single-target defensive tool ideal for protecting fragile heroes against burst damage. Stats: CD: 16s, Mana Cost: 60, Absorb: 250, Duration: 7s.",
+    "search_text": "save item, protect ally, defensive item, physical barrier, shield item, absorb damage, ally save, support item, team fight save, defensive support, Pavise",
+    "tags": [
+      "ITEM_DATA",
+      "PAVISE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Pavise, Cost: 1400: Provides a balanced mix of survivability and mana pool with +175 Health and +250 Mana. Also offers +3 Armor, improving physical damage resistance. Stats: Health: +175, Mana: +250, Armor: +3.",
+    "search_text": "pavise stats, health item, mana item, armor item, tank stats, support stats, durability stats, Pavise",
+    "tags": [
+      "ITEM_DATA",
+      "PAVISE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "MANA",
+      "ARMOR",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Pavise, Cost: 1400: Provides a single-target defensive save in team fights, shielding a key ally from the initial burst of physical damage. Its low cooldown allows it to be used multiple times in prolonged engagements. Stats: CD: 16s.",
+    "search_text": "team fight save, protect carry, burst counter, defensive tool, save teammate, team fight utility, defensive support, Pavise",
+    "tags": [
+      "ITEM_DATA",
+      "PAVISE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Pavise, Cost: 1400: Counters heroes with high physical burst damage (e.g., Phantom Assassin, Templar Assassin). The 250-damage shield is effective against right-click focused heroes or abilities with physical damage spikes. Stats: Absorb: 250.",
+    "search_text": "counter physical burst, physical damage counter, shield vs right click, burst damage counter, anti physical, Pavise",
+    "tags": [
+      "ITEM_DATA",
+      "PAVISE",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Pavise, Cost: 1400: Synergizes with heroes who have low base armor or need to survive initial magic damage to retaliate. Good for supports protecting their position 1 or 2 cores. The +250 mana also supports ability casting for mana-hungry supports. Stats: Mana: +250.",
+    "search_text": "support item, mana support, protect core, hero synergy, mana pool item, support utility, Pavise",
+    "tags": [
+      "ITEM_DATA",
+      "PAVISE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  }
+]

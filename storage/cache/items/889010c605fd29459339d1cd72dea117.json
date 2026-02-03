@@ -1,0 +1,53 @@
+[
+  {
+    "display_text": "Voodoo Mask, Cost: 650: A basic item that provides 12% Spell Lifesteal. Magical damage dealt to enemy heroes is returned to the caster as health. This sustain allows spellcasters to stay in fights and recover from magic damage trades. Stats: Spell Lifesteal: 12%.",
+    "search_text": "spell lifesteal item, magic lifesteal, caster sustain, magic damage heal, spell damage heal, mana sustain, health recovery from spells, Voodoo Mask",
+    "tags": [
+      "ITEM_DATA",
+      "VOODOO_MASK",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SUSTAIN",
+      "MANA_REGEN",
+      "REGEN",
+      "MAGICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Voodoo Mask, Cost: 650: No additional stats or attributes are provided. Pure sustain item focused on converting magical output into survivability. It is often an early component for magic damage dealers building into more powerful items.",
+    "search_text": "Voodoo Mask stats, component item stats, spell lifesteal stats, no stats item, component stats, early game sustain item",
+    "tags": [
+      "ITEM_DATA",
+      "VOODOO_MASK",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "COMPONENT"
+    ]
+  },
+  {
+    "display_text": "Voodoo Mask, Cost: 650: Enhances sustainability in extended magic-based skirmishes and team fights for heroes who deal frequent spell damage. The returned health allows casters to stay alive longer after committing their abilities, improving their overall fight contribution and lane presence.",
+    "search_text": "team fight sustain, caster sustainability, magic skirmish sustain, spell damage survivability, health recovery in fights, Voodoo Mask team fight",
+    "tags": [
+      "ITEM_DATA",
+      "VOODOO_MASK",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SUSTAIN",
+      "REGEN",
+      "MAGICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Voodoo Mask, Cost: 650: Core synergy item for heroes with high magic damage output and/or area of effect spells, allowing them to heal significantly from hitting multiple enemies. It is particularly effective on heroes who can safely spam low-cooldown nukes to maintain high health pools.",
+    "search_text": "magic damage synergy, high magic damage hero item, spell spam sustain, AoE spell lifesteal, caster core item, sustain build, Voodoo Mask build",
+    "tags": [
+      "ITEM_DATA",
+      "VOODOO_MASK",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "UTILITY",
+      "AOE_DAMAGE"
+    ]
+  }
+]

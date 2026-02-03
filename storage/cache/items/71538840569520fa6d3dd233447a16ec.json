@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Cost: 0 (Neutral Item): Philosopher's Stone, Tier 2 (Gold Bonus). Passive item providing +75 Gold Per Minute and +200 Mana. Reduces attack damage by -30. Grants extra passive gold income and mana pool, ideal for supports or utility heroes who don't rely on right-click damage. Stats: GPM: +75, Mana: +200, Attack Damage Penalty: -30.",
+    "search_text": "neutral item, gold per minute item, mana item, gold bonus, tier 2 neutral, passive gold, support item, utility item, gpm bonus, philosopher stone, Philosopher's Stone, gold boost",
+    "tags": [
+      "ITEM_DATA",
+      "PHILOSOPHERS_STONE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_2",
+      "GOLD_INCOME",
+      "MANA",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

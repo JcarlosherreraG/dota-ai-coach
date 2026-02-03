@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Dezun Bloodrite, Tier 5: Neutral item that grants the Blood Invocation passive, causing spells to have a 16% larger Area of Effect but additionally cost health equal to 35% of their mana cost. This is a high-tier trade-off item that massively scales a hero's spell-clear and team fight impact at the cost of significant HP expenditure per cast. Use cautiously on heroes with innate spell lifesteal, high health pools, or built-in sustain to offset the health penalty. Stats: AOE Increase: +16%, Health Cost Multiplier: 35%.",
+    "search_text": "dezun bloodrite, blood invocation, neutral item, tier 5, aoe increase, spell aoe, larger aoe, area of effect, health cost, spell cost hp, mana cost health, trade-off item, spell lifesteal synergy, high tier neutral, scaling aoe, Dezun Bloodrite",
+    "tags": [
+      "ITEM_DATA",
+      "DEZUN_BLOODRITE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_5",
+      "AOE_DAMAGE",
+      "MULTI_TARGET",
+      "TEAMFIGHT_ROLE",
+      "SYNERGY_BUILD",
+      "TRADE_OFF",
+      "HIGH_TIER"
+    ]
+  }
+]

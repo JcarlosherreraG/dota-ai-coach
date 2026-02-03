@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Tier 2: Mana Draught. Neutral consumable that restores 70 mana plus 3% of the user's max mana over 6 seconds. If the hero is attacked by an enemy hero or Roshan during the channel, the effect is lost. Can be cast on allies by holding Control. Stats: CD: 60s, Duration: 6s, Base Heal: 70 Mana, Percentage Heal: 3% Max Mana.",
+    "search_text": "neutral mana consumable, mana regen neutral, team mana potion, mana flask, share mana, mana restore, neutral tier 2, mana sustain, bottle alternative, mana draught, consumable mana",
+    "tags": [
+      "ITEM_DATA",
+      "MANA_DRAUGHT",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_2",
+      "CONSUMABLE",
+      "MANA",
+      "MANA_REGEN",
+      "SUSTAIN",
+      "UTILITY"
+    ]
+  }
+]

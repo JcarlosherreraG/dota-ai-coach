@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Ring of Regen, Cost: 175: Basic component item providing +1.25 Health Regeneration. A cost-efficient early game sustain item, often purchased in laning phase to offset harass damage and allow heroes to stay on the map longer without having to return to fountain. Typically upgraded into more powerful items rather than held long-term. Stats: HP Regen: +1.25.",
+    "search_text": "health regen item, lane sustain, early regen, hp regen component, cheap regen, laning item, +hp regen, sustain early, cheap heal, small regen, Ring of Regen",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_REGEN",
+      "CORE_DESCRIPTION",
+      "COMPONENT",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "EARLY_GAME",
+      "LANING"
+    ]
+  }
+]

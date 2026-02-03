@@ -1,0 +1,188 @@
+[
+  {
+    "display_text": "Batrider is a ranged intelligence hero with 23 base Strength (average), 13 base Agility (very low), and 22 base Intelligence (average). He has a slow base attack time of 1.7 seconds and 600 base attack range. His starting attributes point towards a hero reliant on spells rather than right-clicks for damage output.",
+    "search_text": "Batrider stats ranged intelligence 23 strength 13 agility 22 intelligence 1.7 attack time 600 range",
+    "tags": [
+      "Batrider",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Batrider has two Facets. 1) Stoked: Firefly also lights Batrider on fire. He gains increasingly more Move Speed and Spell Amplification and burns away a portion of his max health each second. This Facet encourages a high-risk, high-mobility playstyle, amplifying his initiation damage and chase potential. 2) Arsonist: Increases the max level of Sticky Napalm. Level ? Sticky Napalm causes every attack to apply ? stack of Sticky Napalm. This Facet focuses on maximizing his signature slow and damage amplification, making him a persistent nuisance in fights and lanes.",
+    "search_text": "Batrider Facets Stoked Firefly move speed spell amplification self damage Arsonist Sticky Napalm max level attacks apply stacks",
+    "tags": [
+      "Batrider",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, use your 600 attack range and Sticky Napalm to harass. Each cast deals 5/10/15/20 damage and applies a stack, slowing enemy turn rate by 10/30/50/70% and movement speed by 0.75/1.5/2.25/3%. Stacks amplify all your damage. Focus on securing last hits and denying with your attack. Use Flamebreak (22/19/16/13s cooldown) for kill attempts, as it deals 25/50/75/100 initial damage, stuns for 0.5s, knocks back 250 units, and applies a 6/12/18/24% slow with a 40 radius burn.",
+    "search_text": "Batrider laning phase Sticky Napalm harass slow turn rate movement speed stack damage Flamebreak stun knockback kill",
+    "tags": [
+      "Batrider",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Key power spikes are: Level 3 (2 points in Sticky Napalm, strong slow). Level 6 (Flaming Lasso, 90s cooldown, 2.25s duration, 200 damage). Level 12 (Level 2 Flaming Lasso, 75s cooldown, 2.75s duration, 350 damage). Level 15 talent (+20 Movement Speed). Level 18 (Level 3 Flaming Lasso, 60s cooldown, 3.25s duration, 500 damage). Level 20 talent (+4s Smoldering Resin Duration). Level 25 talent (Flamebreak applies 4 Sticky Napalm Stacks). Item timings include Blink Dagger for initiation, Aghanim's Scepter for area lasso, and Black King Bar.",
+    "search_text": "Batrider power spikes level 6 Flaming Lasso level 12 level 18 talents 15 20 25 Blink Dagger BKB",
+    "tags": [
+      "Batrider",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard counters include heroes with instant disables or silences that prevent Blink Dagger initiation and Flaming Lasso channel (e.g., Skywrath Mage, Silencer). Heroes with built-in status resistance or escape abilities can reduce Lasso's effectiveness (e.g., Slark, Juggernaut). Illusion or summon-based heroes can body-block the lasso drag path. Pure damage nukes can kill Batrider during Firefly's self-damage from the Stoked Facet.",
+    "search_text": "Batrider counters silence instant disable status resistance escape illusions summons body block pure damage",
+    "tags": [
+      "Batrider",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core build absolutely requires Blink Dagger to initiate with Flaming Lasso. Boots of Travel are essential for global map presence and repositioning. Black King Bar is critical to ensure you can complete your Lasso drag without being interrupted by disables.",
+    "search_text": "Batrider core items Blink Dagger Boots of Travel Black King Bar BKB initiation",
+    "tags": [
+      "Batrider",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Batrider's role is to initiate with Blink Dagger and Flaming Lasso (2.25/2.75/3.25s duration) on a key enemy core or support, dragging them into your team. Use Firefly (15s duration, 25/50/75/100 dps, 250 radius) to create a damage zone and fly over terrain. Cast Sticky Napalm to slow groups and amplify your team's damage. Use Flamebreak to knock enemies apart or into your team.",
+    "search_text": "Batrider teamfight role initiator Flaming Lasso grab drag Firefly damage zone Sticky Napalm slow Flamebreak knockback",
+    "tags": [
+      "Batrider",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Sticky Napalm. Drenches a 375 radius area in sticky oil, dealing 5/10/15/20/20 damage. Slows enemy movement speed by 0.75/1.5/2.25/3/3% and turn rate by 10/30/50/70/70% for 6 seconds. Each stack amplifies all damage Batrider deals (except Radiance, Orb of Venom, Urn, Spirit Vessel) by 2.5/5/7.5/10/10. Max 20 stacks. Additional casts add 2 stacks. Deals 20% damage to creeps, 0% to buildings. Cooldown: 3.0s. Cast Range: 600. Does NOT pierce BKB.",
+    "search_text": "Sticky Napalm Q slow turn rate movement speed damage amplifier stack 20 max 2 per cast 600 range 3s cooldown creep damage 20%",
+    "tags": [
+      "Batrider",
+      "ABILITY_DATA",
+      "Sticky Napalm"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Flamebreak. Hurls an explosive cocktail that travels at 1700 speed to a target location, exploding in a 400 radius. Deals 25/50/75/100 impact damage and stuns for 0.5 seconds. Knocks enemies back 250 units over 0.35 seconds. After, deals 25/30/35/40 damage per second for 2/3/4/5 seconds and slows movement speed by 6/12/18/24%. Cooldown: 22/19/16/13s. Does NOT pierce BKB.",
+    "search_text": "Flamebreak W stun knockback damage over time slow 400 radius 1700 speed 22 19 16 13 cooldown",
+    "tags": [
+      "Batrider",
+      "ABILITY_DATA",
+      "Flamebreak"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Firefly. Batrider takes flight for 15 seconds, gaining flying movement. Leaves a trail of flames with a 250 radius that deals 25/50/75/100 damage per second to enemies and destroys trees in a 100 radius below him. The trail persists through death. Tick interval: 0.5s. Does NOT pierce BKB.",
+    "search_text": "Firefly E flying movement trail flames 250 radius 25 50 75 100 dps tree destroy 15 duration",
+    "tags": [
+      "Batrider",
+      "ABILITY_DATA",
+      "Firefly"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Smoldering Resin (Passive). Batrider's attacks apply a debuff that deals 20% of the attack's damage every 1 second for 2 seconds (2 total ticks).",
+    "search_text": "Smoldering Resin passive attack apply damage over time 20% attack damage 1s tick 2 ticks",
+    "tags": [
+      "Batrider",
+      "ABILITY_DATA",
+      "Smoldering Resin"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Flaming Lasso. Lassoes a target enemy, dragging them with Batrider for 2.25/2.75/3.25 seconds. Deals 200/350/500 damage over the duration (ticks every 0.5s). The dragged unit is unable to move, attack, or use abilities. The lasso breaks if Batrider moves more than 425 units in 0.05 seconds (e.g., from Teleport or Blink) or if either unit dies. Batrider cannot attack during the lasso. Cooldown: 90/75/60s. Does NOT pierce BKB.",
+    "search_text": "Flaming Lasso R ultimate grab drag disable 2.25 2.75 3.25 duration 200 350 500 damage break 425 distance 90 75 60 cooldown",
+    "tags": [
+      "Batrider",
+      "ABILITY_DATA",
+      "Flaming Lasso"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Playing from behind. Prioritize defensive items like Force Staff or Glimmer Cape to save allies or yourself after a failed initiation. Use Flamebreak to break enemy channels (e.g., Black Hole, Fiend's Grip) from a safe distance due to its long range. Focus on applying Sticky Napalm stacks in fights to amplify your team's damage rather than committing with Lasso.",
+    "search_text": "Batrider behind losing Force Staff Glimmer Cape save Flamebreak cancel channel Sticky Napalm amplify team damage",
+    "tags": [
+      "Batrider",
+      "SITUATIONAL",
+      "From Behind"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Vs high-mobility/escape heroes. Wait for them to use their escape ability (e.g., Blink, Leap) before committing Flaming Lasso. Consider purchasing Rod of Atos to root them first, or Scythe of Vyse for instant hex. Use Flamebreak to knock them out of position or cancel Town Portal Scrolls.",
+    "search_text": "Batrider vs mobile escape wait for cooldown Rod of Atos Scythe of Vyse hex Flamebreak cancel TP",
+    "tags": [
+      "Batrider",
+      "SITUATIONAL",
+      "Vs Mobility"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Need to push lanes safely. Use Firefly to clear waves quickly from a safe flying position, destroying trees to create vision. The 15-second duration and 250 damage radius allow you to shove lanes and retreat. Combine with Sticky Napalm stacks to kill creeps faster.",
+    "search_text": "Batrider push lane farm Firefly clear wave flying safety destroy trees vision",
+    "tags": [
+      "Batrider",
+      "SITUATIONAL",
+      "Split Push"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Enemy has Linken's Sphere. Use Sticky Napalm or Flamebreak to pop the spell block before casting Flaming Lasso. Alternatively, build items like Nullifier or Eul's Scepter to dispel the buff.",
+    "search_text": "Batrider Linken's Sphere pop block Sticky Napalm Flamebreak Nullifier Eul's Scepter dispel",
+    "tags": [
+      "Batrider",
+      "SITUATIONAL",
+      "Vs Linkens"
+    ]
+  },
+  {
+    "display_text": "SITUATION: With Aghanim's Scepter. Flaming Lasso gains the ability to grab multiple heroes within a radius, turning it into a powerful area disable. Initiate from high ground or fog to catch multiple cores. Ensure you have Black King Bar active to complete the drag.",
+    "search_text": "Batrider Aghanim's Scepter Aghs upgrade Flaming Lasso multiple heroes area disable teamfight",
+    "tags": [
+      "Batrider",
+      "SITUATIONAL",
+      "With Aghs"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 10: Choose between +50 Sticky Napalm Radius and +50 Flamebreak Knockback Distance. The Sticky Napalm radius increase (from 375 to 425) improves your area slow and stacking capability in fights and chases. The Flamebreak knockback increase (from 250 to 300) provides better displacement for interrupting channels or separating enemies. Pick Sticky Napalm for more consistent damage and control; pick Flamebreak for better utility and disruption.",
+    "search_text": "Batrider talent level 10 +50 Sticky Napalm Radius 425 vs +50 Flamebreak Knockback Distance 300 utility control",
+    "tags": [
+      "Batrider",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 15: The only choice is +20 Movement Speed. This talent increases Batrider's mobility, helping with positioning, chasing, and initiation without Blink Dagger. Always take this talent.",
+    "search_text": "Batrider talent level 15 +20 Movement Speed mobility",
+    "tags": [
+      "Batrider",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 20: Choose between -8s Flaming Lasso Cooldown and +4s Smoldering Resin Duration. The cooldown reduction lowers Lasso from 60/52.5/45s (at levels 6/12/18) to 52/44.5/37s, allowing more frequent initiations. The Smoldering Resin duration increase extends the damage over time from attacks from 2s to 6s, significantly boosting your right-click damage output. Pick Lasso cooldown if you are the primary initiator and need to fight often. Pick Smoldering Resin if you are building right-click items or need more sustained damage.",
+    "search_text": "Batrider talent level 20 -8s Flaming Lasso Cooldown 52 44.5 37 vs +4s Smoldering Resin Duration 6s attack damage over time",
+    "tags": [
+      "Batrider",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 25: Choose between +10 Sticky Napalm Damage per stack and Flamebreak applies 4 Sticky Napalm Stacks. The +10 damage increases the damage amp per stack from 10 to 20, doubling your total amplification potential (max 400 bonus damage vs 200). The Flamebreak talent allows you to instantly apply 4 stacks of Napalm to all heroes in its 400 radius, greatly accelerating your damage output and slow. Pick the damage amp for single-target burst (especially with Lasso). Pick the Flamebreak talent for massive area control and teamfight damage.",
+    "search_text": "Batrider talent level 25 +10 Sticky Napalm Damage 20 per stack vs Flamebreak applies 4 Sticky Napalm Stacks area teamfight",
+    "tags": [
+      "Batrider",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

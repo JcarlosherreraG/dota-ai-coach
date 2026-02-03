@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Lance of Pursuit, Cost: 0: Tier neutral item providing +200 Mana. Its Hound passive deals 20 bonus damage and slows enemies by 16% (8% if Ranged) for 2 seconds when attacking from behind (within 90-degree angle). This creates significant chasing potential and duel advantage for melee heroes who can position behind their target. Stats: Mana: +200, Slow Duration: 2s, Backstab Damage: 20, Angle: 90°.",
+    "search_text": "neutral item, chase item, backstab item, slow on hit, behind attack, bonus damage slow, slow passive, chasing item, hound effect, Lance of Pursuit, lance pursuit, slow attack, pursuit item, melee advantage, duel item",
+    "tags": [
+      "ITEM_DATA",
+      "LANCE_OF_PURSUIT",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "UTILITY",
+      "SLOW",
+      "DEBUFF",
+      "CHASE",
+      "MANA",
+      "BONUS_DAMAGE",
+      "BACKSTAB"
+    ]
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "display_text": "Venomancer is a Ranged agility hero with 19 base Strength, 25 base Agility, and 19 base Intelligence. His attack rate is 1.7. His base stats are below average; low HP pool but higher starting armor due to Agility. He has no innate movement speed or turn rate data.",
+    "search_text": "Venomancer ranged agility hero stats attack rate 1.7 strength 19 agility 25 intelligence 19 low health high armor starting stats",
+    "tags": [
+      "VENOMANCER",
+      "BASE_STATS",
+      "AGILITY",
+      "RANGED"
+    ]
+  },
+  {
+    "display_text": "Patient Zero: This facet makes Noxious Plague spread again when a target dies, extending the area control and damage of the ultimate in prolonged teamfights or clustered enemies. It emphasizes Venomancer's role as a fight disruptor and area denial hero. Plague Carrier: When Venomous Gale hits enemy heroes, bonus Plague Wards are created around them, and Plague Wards also deal Septic Shock damage based on their attack damage. This facet pushes Venomancer towards a more aggressive, ward-spamming playstyle with higher burst potential from Gale and stronger lane pressure.",
+    "search_text": "Venomancer facets Patient Zero Noxious Plague spreads again Plague Carrier Venomous Gale creates Plague Wards wards deal Septic Shock area denial burst damage",
+    "tags": [
+      "VENOMANCER",
+      "FACET_STRATEGY",
+      "PATIENT_ZERO",
+      "PLAGUE_CARRIER"
+    ]
+  },
+  {
+    "display_text": "Prioritize Poison Sting for right-click harassment, as its 6/9/12/15 second duration and -8/-10/-12/-14 movement slow make it oppressive against melee cores. Venomous Gale at level 1 secures first blood or forces TPs. Use Plague Ward to block enemy pull camps, secure ranged creep last hits safely, and harass. Due to low HP, position behind Wards and use the slow to kite. Your job is to make the enemy offlaner's life miserable.",
+    "search_text": "Venomancer laning poison sting harass slow venomous gale kill threat plague wards block camps secure creeps low hp kite position support",
+    "tags": [
+      "VENOMANCER",
+      "LANING_PHASE",
+      "HARASS",
+      "LANE_DOMINANCE"
+    ]
+  },
+  {
+    "display_text": "Level 6: Noxious Plague provides huge kill threat and teamfight presence with its 200/300/400 initial damage and 3%/4%/5% max HP damage over time. Level 12: Level 2 ultimate and maxed Poison Sting/Plague Wards increases damage output and slow. Level 15: Talent choice (15% Poison Sting Health Regen Reduction or -1s Plague Ward Cooldown) spikes his utility. Level 20: +50 Base Damage talent significantly increases right-click DPS. Level 25: 2.5x Plague Ward HP/Damage or Noxious Plague Aura reduces 200 Attack Speed are massive late-game spikes.",
+    "search_text": "Venomancer power spikes level 6 Noxious Plague level 12 max skills level 15 talent level 20 +50 base damage level 25 talent ward HP damage or attack speed slow ultimate",
+    "tags": [
+      "VENOMANCER",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_15",
+      "LEVEL_20",
+      "LEVEL_25"
+    ]
+  },
+  {
+    "display_text": "Venomancer is countered by heroes with strong dispels (Oracle, Legion Commander) which remove his Poison Sting and Noxious Plague debuffs. Break (e.g., from Silver Edge) disables his Septic Shock passive's bonus damage. Heroes with high mobility (Queen of Pain, Anti-Mage) can easily reposition out of his slows and Plague Ward zones. Magic immunity (BKB) blocks all his damage-over-time abilities except Noxious Plague's initial burst and Septic Shock bonus damage (if not from Break).",
+    "search_text": "Venomancer counters dispels oracle legion commander break silver edge disables septic shock mobility qop anti-mage bkb magic immunity poison sting plague wards noxious plague",
+    "tags": [
+      "VENOMANCER",
+      "HARD_COUNTERS",
+      "DISPEL",
+      "BREAK",
+      "MOBILITY",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "Aghanim's Scepter is core, upgrading Noxious Plague to spread again (inherent with Patient Zero facet) and adding an attack speed slow aura. For Plague Carrier, it's still strong for the spread. Force Staff/Glimmer Cape are essential defensively due to his low HP and lack of escape. Shiva's Guard provides armor, intelligence, and an active slow that synergizes with his kit for area control.",
+    "search_text": "Venomancer core items aghanim scepter aghs force staff glimmer cape shiva guard armor intelligence slow defensive survival area control",
+    "tags": [
+      "VENOMANCER",
+      "CORE_BUILD",
+      "AGHANIMS_SCEPTER",
+      "FORCE_STAFF",
+      "SHIVA_GUARD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Venomancer's role is Area Denial and Backline Disabler. Pre-fight, plant Plague Wards to create a defensive perimeter. Initiate with Venomous Gale on clustered enemies for the slow. Cast Noxious Plague on the highest HP core to maximize the percent-based damage and spread the slow aura. Use Poison Sting right-clicks to apply sustained slows and damage. Stay at the edge, using Wards as bodyblocks, to whittle down enemies with damage-over-time effects and severe movement impairement.",
+    "search_text": "Venomancer teamfight role area denial backline disabler plague wards perimeter venomous gale slow initiation noxious plague high hp core percent damage poison sting right click slow stay edge",
+    "tags": [
+      "VENOMANCER",
+      "TEAMFIGHT_ROLE",
+      "AREA_DENIAL",
+      "DISABLER",
+      "DOT"
+    ]
+  },
+  {
+    "display_text": "Venomous Gale (Q): Launches a projectile that deals 25/50/75/100 initial strike damage and then 10/40/70/100 damage every 3 seconds over 15 seconds. It also applies a -35%/-40%/-45%/-50% movement slow that decays over time. Cooldown: 21/20/19/18 seconds. Speed: 1200. Radius: 125. Does NOT pierce BKB (no 'pierce_immunity' attribute). Can be lethal.",
+    "search_text": "Venomous Gale Q poison slow strike damage 25 50 75 100 tick damage 10 40 70 100 duration 15 seconds slow -35 -40 -45 -50 cooldown 21 20 19 18 speed 1200 radius 125 lethal",
+    "tags": [
+      "VENOMANCER",
+      "ABILITY_DATA",
+      "VENOMOUS_GALE",
+      "SLOW",
+      "DOT",
+      "NUKER"
+    ]
+  },
+  {
+    "display_text": "Poison Sting (W): Passive ability. Venomancer's attacks apply a debuff for 6/9/12/15 seconds, dealing 8/16/24/32 damage per second and slowing movement speed by -8%/-10%/-12%/-14%. This damage can be lethal. Does NOT pierce BKB (no 'pierce_immunity' attribute). Does not interrupt healing items or activate Blink Dagger cooldown.",
+    "search_text": "Poison Sting W passive attack modifier debuff damage per second 8 16 24 32 duration 6 9 12 15 slow -8 -10 -12 -14 lethal does not interrupt healing blink dagger",
+    "tags": [
+      "VENOMANCER",
+      "ABILITY_DATA",
+      "POISON_STING",
+      "PASSIVE",
+      "SLOW",
+      "DOT"
+    ]
+  },
+  {
+    "display_text": "Plague Ward (E): Summons an immune-to-magic ward that attacks enemies. Ward lasts 40 seconds. Cooldown: 5 seconds. Ward HP: 150/250/350/450. Ward Damage: 16/24/32/40. The ward's attacks inherit Poison Sting, dealing 50% of the full damage. Gold bounty: 100%.",
+    "search_text": "Plague Ward E summon ward magic immune duration 40 cooldown 5 HP 150 250 350 450 damage 16 24 32 40 applies poison sting 50% damage gold bounty",
+    "tags": [
+      "VENOMANCER",
+      "ABILITY_DATA",
+      "PLAGUE_WARD",
+      "SUMMON",
+      "MAGIC_IMMUNE",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "Septic Shock (R - Passive): Venomancer's attacks deal extra magical damage based on how many debuffs the target has. Bonus damage is 8% per debuff. Only counts debuffs from Venomancer or his Plague Wards. Break disables this bonus damage for Venomancer's attacks.",
+    "search_text": "Septic Shock R passive attack modifier bonus magical damage per debuff 8% only veno and ward debuffs break disables attack damage",
+    "tags": [
+      "VENOMANCER",
+      "ABILITY_DATA",
+      "SEPTIC_SHOCK",
+      "PASSIVE",
+      "MAGICAL_DAMAGE",
+      "DEBUFF_SCALING"
+    ]
+  },
+  {
+    "display_text": "Noxious Plague (Upgraded R with Aghanim's Scepter): Infects a target, dealing 200/300/400 initial impact damage and 3%/4%/5% of their max health as damage per second over time. Slows the target and nearby enemies within 800 radius by 15%-50% based on distance. Duration: 5 seconds. When the target dies or the debuff expires, it spreads to nearby enemies with a non-communicable version. Projectile speed: 1200. Patient Zero facet makes it spread again on death.",
+    "search_text": "Noxious Plague R scepter ultimate impact damage 200 300 400 max HP damage 3 4 5 percent slow aura 15 50 radius 800 duration 5 seconds spreads on death debuff expire projectile speed 1200 patient zero",
+    "tags": [
+      "VENOMANCER",
+      "ABILITY_DATA",
+      "NOXIOUS_PLAGUE",
+      "ULTIMATE",
+      "PERCENT_DAMAGE",
+      "SLOW_AURA",
+      "SPREAD"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Armor / High Magic Resistance Cores. Venomancer excels here as his primary damage is magical damage-over-time (Poison Sting, Venomous Gale ticks) and percent-based health removal (Noxious Plague). High armor is irrelevant. High magic resistance reduces damage but not the powerful slows. Build Aghanim's Scepter and Shiva's Guard to maximize the HP-based damage and control. Your value is in the relentless slows, not burst physical DPS.",
+    "search_text": "Venomancer vs high armor magic resistance cores damage over time magical percent HP noxious plague slows control aghanims scepter shiva guard",
+    "tags": [
+      "VENOMANCER",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR",
+      "VS_HIGH_MAGIC_RESIST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When your team is losing, Venomancer transitions to a defensive vision and area denial hero. Spam Plague Wards to secure vision around your jungle and defensive objectives. Use Venomous Gale to slow enemy pushes. Avoid showing on the map; let wards scout. Your talents like -1s Plague Ward Cooldown (level 15) and 2.5x Plague Ward HP/Damage (level 25) become high-value for holding high ground. Itemize for survival (Force Staff, Glimmer Cape) and control (Shiva's Guard).",
+    "search_text": "Venomancer playing from behind defensive vision plague wards area denial venomous gale slow hold high ground talents ward cooldown ward HP damage survival items force staff glimmer",
+    "tags": [
+      "VENOMANCER",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND",
+      "DEFENSIVE",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "Scenario: As a Core (Mid/Safe Lane). Focus on farming with Plague Wards to push lanes safely and accelerate items like Aghanim's Scepter and Hurricane Pike. Max Plague Ward first for farm and push. Your level 20 +50 Base Damage talent significantly increases your right-click threat. Use the Plague Carrier facet for aggressive ward placement during ganks. Your job shifts to applying map pressure with wards and being a major source of damage in fights.",
+    "search_text": "Venomancer core mid safelane farm plague wards push lanes aghanims scepter hurricane pike level 20 +50 base damage plague carrier facet map pressure damage",
+    "tags": [
+      "VENOMANCER",
+      "SITUATIONAL",
+      "CORE_PLAYSTYLE",
+      "MID",
+      "SAFELANE",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusions and Summons. Venomancer is strong against illusion heroes (Chaos Knight, Phantom Lancer) and summoners (Broodmother, Lycan). Poison Sting applies to all units, providing vision and slow. Plague Wards can body-block and attack illusions. Noxious Plague's spread effect (with Aghs/Patient Zero) can decimate clustered illusion armies. Prioritize Aghanim's Scepter and consider a Shard for the ward attack applying Septic Shock (if Plague Carrier facet is active).",
+    "search_text": "Venomancer vs illusions summons phantom lancer chaos knight broodmother poison sting vision slow plague wards body block noxious plague spread aghanims scepter plague carrier",
+    "tags": [
+      "VENOMANCER",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "VS_SUMMONS"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left: -5s Venomous Gale Cooldown. Right: 15% Poison Sting Health Regen Reduction. Choose -5s CD if you need more frequent initiations and slows for chasing or teamfight control. Choose Health Regen Reduction against heroes with high inherent regeneration (Alchemist, Huskar, Healing Salve abusers) to severely limit their sustain in lane and fights.",
+    "search_text": "Venomancer level 10 talent left -5 seconds venomous gale cooldown right 15 poison sting health regen reduction initiation control vs high regeneration alchemist huskar",
+    "tags": [
+      "VENOMANCER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left: -1s Plague Ward Cooldown. Right: +5% Poison Sting Slow. Choose -1s Ward Cooldown for significantly higher ward count, which means more vision, more pushing power, more body blocks, and more damage if you have the Plague Carrier facet. Choose +5% Slow if your team lacks control and you need to ensure key targets (like a mobile carry) cannot escape your slows.",
+    "search_text": "Venomancer level 15 talent left -1 second plague ward cooldown right +5 poison sting slow more wards vision push plague carrier vs mobile carry control",
+    "tags": [
+      "VENOMANCER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left: +1% Noxious Plague Max HP Damage. Right: +50 Base Damage. The +50 Base Damage is almost always the superior choice. It massively increases your right-click DPS, improves last hitting, and synergizes with Septic Shock. The +1% Max HP damage is situational, only consider it if you are against multiple extremely high HP strength heroes and you are not right-clicking much.",
+    "search_text": "Venomancer level 20 talent left +1 noxious plague max HP damage right +50 base damage right click DPS last hit septic shock vs high HP strength heroes",
+    "tags": [
+      "VENOMANCER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left: Noxious Plague Aura reduces 200 Attack Speed. Right: 2.5x Plague Ward HP/Damage. The Attack Speed reduction is a game-changing teamfight debuff against right-click carries (e.g., Faceless Void, Troll Warlord). The 2.5x Ward HP/Damage turns Plague Wards into formidable pushers and fighters that are much harder to clear. Choose based on need: teamfight control vs. split-push and sustained damage.",
+    "search_text": "Venomancer level 25 talent left noxious plague aura reduces 200 attack speed right 2.5x plague ward HP damage teamfight debuff vs right click carries push split push",
+    "tags": [
+      "VENOMANCER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_25"
+    ]
+  }
+]

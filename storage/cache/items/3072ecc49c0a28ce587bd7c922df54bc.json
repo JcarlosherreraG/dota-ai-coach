@@ -1,0 +1,75 @@
+[
+  {
+    "display_text": "Yasha, Cost: 2100: Provides a significant boost to agility, attack speed, and movement speed. A core agility component for heroes focused on right-click damage and mobility. Its unique movement speed bonuses from multiple Yasha-based items do not stack. Stats: +16 Agility, +15 Attack Speed, +10% Movement Speed.",
+    "search_text": "agility item, attack speed item, movement speed item, right click item, carry item, agility bonus, attack speed bonus, movement speed bonus, stats item, yasha, stats bonus, damage item, mobility item, agility core, speed item, core component, farming speed, positioning, chase, kiting",
+    "tags": [
+      "ITEM_DATA",
+      "YASHA",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AGILITY",
+      "ATTACK_SPEED",
+      "MOBILITY",
+      "STATS",
+      "CARRY_ITEM",
+      "UPGRADE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Yasha, Cost: 2100: Key stat profile for agility heroes and attack damage builders. Primary value comes from substantial agility increase (16), enhancing damage, armor, and attack speed. The attack speed bonus (15) synergizes with the agility, while the movement speed (10%) improves positioning and farming efficiency. Stats: +16 Agility, +15 Attack Speed, +10% Movement Speed.",
+    "search_text": "yasha stats, agility stats, attack speed stats, movement speed stats, agility damage, right click stats, agility bonus, attack speed bonus, movement speed bonus, agility item stats, carry stats, Yasha",
+    "tags": [
+      "ITEM_DATA",
+      "YASHA",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "AGILITY",
+      "ATTACK_SPEED",
+      "MOVEMENT_SPEED",
+      "DAMAGE",
+      "ARMOR"
+    ]
+  },
+  {
+    "display_text": "Yasha, Cost: 2100: A versatile item that enhances a hero's kiting, chasing, and repositioning capabilities in fights through increased movement speed. The agility and attack speed boost directly translate to higher right-click DPS and survivability from agility's armor bonus. Useful for staying on targets and outputting consistent physical damage.",
+    "search_text": "yasha team fight, kiting item, chase item, reposition item, physical dps, agility carry, right click dps, team fight mobility, chasing speed, agility armor, agility survivability, Yasha",
+    "tags": [
+      "ITEM_DATA",
+      "YASHA",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "MOBILITY",
+      "POSITIONING",
+      "DAMAGE",
+      "SURVIVAL",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Yasha, Cost: 2100: Core item for agility heroes who benefit from all three stats, such as Juggernaut, Phantom Assassin, or Drow Ranger. Excellent first or second major item to accelerate farm by moving faster between camps and lanes. A foundational component for powerful upgrades like Manta Style, Sange and Yasha, and Yasha and Kaya. Purchase timing is often during the mid-game to transition into a stronger fighter.",
+    "search_text": "yasha build, agility hero item, juggernaut item, phantom assassin item, drow ranger item, farming item, core item, manta style component, sange and yasha, yasha and kaya, mid game item, farm acceleration, attack speed build, agility carry build, Yasha",
+    "tags": [
+      "ITEM_DATA",
+      "YASHA",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "FARMING",
+      "UPGRADE_COMPONENT"
+    ]
+  },
+  {
+    "display_text": "Yasha, Cost: 2100: The movement speed boost from multiple Yasha-based items does not stack. Primarily a farming and stats accelerator in the early to mid-game rather than a specific counter item. Its value is generic physical damage and mobility, making it less situational and more of a core build-up item for many agility carries.",
+    "search_text": "yasha movement speed stack, yasha stack, speed stack, movement speed no stack, generic item, farming accelerator, physical dps item, core build item, carry item, Yasha",
+    "tags": [
+      "ITEM_DATA",
+      "YASHA",
+      "SITUATIONAL_USAGE",
+      "FULL_ITEM",
+      "FARMING",
+      "MOBILITY",
+      "PHYSICAL_DAMAGE"
+    ]
+  }
+]

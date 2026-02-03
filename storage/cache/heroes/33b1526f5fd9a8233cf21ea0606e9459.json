@@ -1,0 +1,234 @@
+[
+  {
+    "display_text": "Troll Warlord is an Agility hero with Ranged attack type (base 350 range), high base Agility (23), and low Intelligence (13). This gives him low starting mana and HP but good starting armor. His BAT is 1.4, which is faster than the standard 1.7. Average attack range and armor, but his turn rate is standard, requiring good positioning.",
+    "search_text": "Troll Warlord base stats ranged agility strength intelligence armor hp mana base attack time BAT 1.4",
+    "tags": [
+      "TROLL_WARLORD",
+      "BASE_STATS",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Insensitive: Fervor grants armor per stack while in melee form. This is a strong defensive choice, making you tankier in extended fights, ideal for a frontline, man-fighting core against high physical damage. Bad Influence: During Battle Trance, max Fervor stacks increased, no attack speed limit, and grants allied heroes a percentage of the attack speed bonus. This is a teamfight-oriented choice, significantly boosting your team's DPS, especially when paired with other right-click heroes like Drow Ranger or Sniper.",
+    "search_text": "Troll Warlord Facet choice Insensitive Bad Influence Fervor armor stack melee defense Battle Trance attack speed limit team buff",
+    "tags": [
+      "TROLL_WARLORD",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Laning Phase (Levels 1-5): Start with Whirling Axes (Ranged) for harassment and securing ranged creeps. Use its 950 range, 60 damage per axe (up to 5 axes), and 40% slow to zone enemies. At level 2, take Berserker's Rage to toggle into melee for last-hitting under tower or man-up for a kill with its bonus armor and MS. Max Whirling Axes (Ranged) first, then Berserker's Rage. Use mana carefully due to low Int. Aim for a Wraith Band and Power Treads.",
+    "search_text": "Troll Warlord laning early game whirling axes ranged harass slow berserker rage melee last hit armor movement speed mana management",
+    "tags": [
+      "TROLL_WARLORD",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 with Battle Trance gives you a strong kill threat and survivability (lifesteal, attack speed). Level 12 with maxed Whirling Axes and level 2 ult. Key item spikes: Diffusal Blade (adds slow to your high attack speed), BKB (allows you to manfight uninterrupted), and Satanic (massive survivability with ult). Level 18 with maxed ult and level 20 talent. Level 25 talents are a massive power spike, especially the Battle Trance strong dispel.",
+    "search_text": "Troll Warlord power spike level 6 battle trance level 12 diffusal blade BKB satanic level 18 level 20 level 25 talent",
+    "tags": [
+      "TROLL_WARLORD",
+      "POWER_SPIKES",
+      "TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: Break (from Silver Edge, Doom) disables Fervor, preventing you from gaining attack speed stacks, and disables the Aghanim's Shard proc chance. Instant disables and hex prevent you from activating Battle Trance. Kiting heroes with heavy slows, disarms (Heaven's Halberd), or evasion (but you can buy MKB). High burst magic damage can kill you before you get lifesteal off. Heroes like Faceless Void (Chronosphere), Bane (Fiend's Grip), or any hero with long-duration lockdown.",
+    "search_text": "counter Troll Warlord break Silver Edge Doom disables Fervor shard hex disable kiting slow disarm evasion burst magic Chronosphere Bane",
+    "tags": [
+      "TROLL_WARLORD",
+      "HARD_COUNTERS",
+      "COUNTER"
+    ]
+  },
+  {
+    "display_text": "Core Build Essentials: 1. Power Treads - For stats and attack speed, toggling for efficiency. 2. Black King Bar (BKB) - Absolutely mandatory. Allows you to manfight without being disabled, crucial for Battle Trance. 3. Satanic - Synergizes perfectly with Battle Trance's lifesteal and attack speed, making you nearly unkillable during its duration. Diffusal Blade is also a very common early core item for the slow and mana burn.",
+    "search_text": "Troll Warlord core items build power treads BKB black king bar satanic diffusal blade essential",
+    "tags": [
+      "TROLL_WARLORD",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Your job is to be the primary right-click damage dealer and frontliner. Wait for key enemy disables to be used, then pop Battle Trance and BKB. Use Whirling Axes (Melee) to blind enemies in the center of the fight. Focus the closest enemy hero, prioritizing high-value targets. You are not an initiator; you are a follow-up damage dealer who becomes unstoppable for 6.5+ seconds. Your presence forces the enemy to kite or die.",
+    "search_text": "Troll Warlord teamfight role carry right click damage frontliner Battle Trance BKB whirling axes melee blind focus target",
+    "tags": [
+      "TROLL_WARLORD",
+      "TEAMFIGHT_ROLE",
+      "STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Ability: Battle Stance. This is not a skill point ability. It switches Troll between Ranged (350 bonus range) and Melee form. Melee form grants a faster base attack time of 1.4. This toggle affects your other abilities (Whirling Axes) and item cooldowns (like Basher).",
+    "search_text": "Troll Warlord Battle Stance toggle switch ranged melee form base attack time BAT 1.4 range 350",
+    "tags": [
+      "TROLL_WARLORD",
+      "ABILITY_DATA",
+      "ABILITY",
+      "BATTLE_STANCE"
+    ]
+  },
+  {
+    "display_text": "Ability: Whirling Axes (Ranged). Troll hurls 5 axes in a 950 range cone, dealing 60/80/100/120 damage per axe and slowing enemies by 40% for 2.5/3/3.5/4 seconds. The axes have a 25-degree spread and a width of 100. Does NOT pierce BKB (pierces_magic_immunity is empty/0). It does not affect Roshan. Cooldown: 9s. Mana Cost: 60.",
+    "search_text": "Troll Warlord Whirling Axes Ranged Q skill damage 60 80 100 120 slow 40% duration 2.5 3 3.5 4 range 950 cone 5 axes cooldown 9 mana 60 does not pierce BKB",
+    "tags": [
+      "TROLL_WARLORD",
+      "ABILITY_DATA",
+      "ABILITY",
+      "WHIRLING_AXES_RANGED",
+      "SLOW",
+      "NUK"
+    ]
+  },
+  {
+    "display_text": "Ability: Whirling Axes (Melee). Troll hurls axes around him in a 450 range, dealing 50/100/150/200 damage and applying a 60% miss chance debuff for 5 seconds. The whirl lasts 3 seconds. Does NOT pierce BKB (pierces_magic_immunity: 0). It does not affect Roshan. Cooldown: 9s. Mana Cost: 50.",
+    "search_text": "Troll Warlord Whirling Axes Melee W skill damage 50 100 150 200 blind miss chance 60% duration 5 radius 450 cooldown 9 mana 50 does not pierce BKB",
+    "tags": [
+      "TROLL_WARLORD",
+      "ABILITY_DATA",
+      "ABILITY",
+      "WHIRLING_AXES_MELEE",
+      "BLIND",
+      "NUK"
+    ]
+  },
+  {
+    "display_text": "Ability: Fervor. A passive ability. With each continuous attack on the same target, Troll gains 15/20/25/30 attack speed per stack, up to 10 stacks. If he changes targets, stacks are lost. Break disables gaining new stacks and the Aghanim's Shard proc chance. During Battle Trance, the stack limit is increased to 0? (The attribute 'stack_limit_during_battle_trance' is 0, which likely means the limit is removed or set to a very high number, see Facet).",
+    "search_text": "Troll Warlord Fervor E passive attack speed 15 20 25 30 per stack max 10 stacks break disables lose stack on target change shard",
+    "tags": [
+      "TROLL_WARLORD",
+      "ABILITY_DATA",
+      "ABILITY",
+      "FERVOR",
+      "PASSIVE",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Ability: Berserker's Rage. A passive ability that provides different bonuses based on form. Melee Form: Grants 15/25/35/45 bonus movement speed, 3/4/5/6 bonus armor, and a 20% chance to ensnare the target for 0.8/1.2/1.6/2.0 seconds. Ranged Form: Grants 350 bonus attack range, and a 20% chance to Maim the target, dealing 10/15/20/25 bonus damage and slowing movement and attack speed by 8/16/24/32% for 0.8/1.2/1.6/2.0 seconds. Item cooldowns are based on the form you were in when using the item.",
+    "search_text": "Troll Warlord Berserker's Rage passive melee movement speed 15 25 35 45 armor 3 4 5 6 ensnare root 20% chance duration 0.8 1.2 1.6 2.0 ranged range 350 maim slow damage 10 15 20 25 attack slow movement slow 8 16 24 32%",
+    "tags": [
+      "TROLL_WARLORD",
+      "ABILITY_DATA",
+      "ABILITY",
+      "BERSERKERS_RAGE",
+      "PASSIVE",
+      "ROOT",
+      "SLOW",
+      "MS",
+      "ARMOR"
+    ]
+  },
+  {
+    "display_text": "Ability: Battle Trance. Troll's ultimate. Forces him to continuously attack the closest enemy within 900 range (prioritizing heroes) for 6.5 seconds. Grants 140/170/200 attack speed, 40/60/80 lifesteal, and 25/30/35 movement speed. Damage does not kill Troll during this mode. Applies a Basic Dispel on cast. Cooldown: 90/80/70s. Mana Cost: Not listed, likely 0 or low. Troll can still use items and abilities but not other commands.",
+    "search_text": "Troll Warlord Battle Trance ultimate R forced attack closest target 900 range attack speed 140 170 200 lifesteal 40 60 80 movement speed 25 30 35 duration 6.5 basic dispel cannot be killed cooldown 90 80 70",
+    "tags": [
+      "TROLL_WARLORD",
+      "ABILITY_DATA",
+      "ABILITY",
+      "BATTLE_TRANCE",
+      "ULTIMATE",
+      "LIFESTEAL",
+      "ATTACK_SPEED",
+      "DISPEL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus High Magic Burst (e.g., Zeus, Lina). Your low HP pool is a liability. Build early survivability like a Bracer into Drums or a fast BKB. Use Battle Trance's lifesteal to survive through the burst if you can get attacks off. Consider the Insensitive facet for extra armor in melee. Positioning is key; don't be the first one in unless you have BKB active.",
+    "search_text": "Troll Warlord situation vs magic burst nuke Zeus Lina build BKB bracer drums positioning facet Insensitive armor",
+    "tags": [
+      "TROLL_WARLORD",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus High Physical Damage and Man-fighters (e.g., Ursa, Lifestealer). This is your ideal matchup. Build items like Skadi to slow their attack speed and reduce healing, and Satanic for the heal war. The Insensitive facet is excellent here for the extra armor per Fervor stack. Use Whirling Axes (Melee) to blind them in the duel.",
+    "search_text": "Troll Warlord situation vs physical damage manfight Ursa Lifestealer build Skadi Satanic facet Insensitive armor Fervor whirling axes melee blind",
+    "tags": [
+      "TROLL_WARLORD",
+      "SITUATIONAL",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. If you are getting kited or killed before fights, focus on farming with Battle Trance to clear ancients and dangerous lanes. Build cheaper fighting items like Diffusal Blade and Sange \u0026 Yasha instead of rushing Satanic. Consider the Bad Influence facet to be more useful for your team even if you are focused down.",
+    "search_text": "Troll Warlord situation behind losing game farm battle trance ancients diffusal sange yasha facet Bad Influence team buff",
+    "tags": [
+      "TROLL_WARLORD",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Wombo-Combo Team (e.g., Magnus, Enigma). Your job is to provide massive sustained damage after the big disable. Build pure damage items like Daedalus, MKB, or Monkey King Bar. The Bad Influence facet is perfect here, as your team will be grouped up and can benefit from the shared attack speed during your ult after the combo lands.",
+    "search_text": "Troll Warlord situation wombo combo Magnus Enigma build Daedalus MKB damage facet Bad Influence attack speed share",
+    "tags": [
+      "TROLL_WARLORD",
+      "SITUATIONAL",
+      "WITH_WOMBO_COMBO"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion Heroes (e.g., Chaos Knight, Phantom Lancer). You have no innate cleave or illusion clear. Battle Trance will force you to attack the closest illusion. Build Battle Fury or Mjollnir for wave/illusion clear. Mjollnir's active is particularly good. Be careful with your target selection in fights.",
+    "search_text": "Troll Warlord situation vs illusions Chaos Knight Phantom Lancer build Battle Fury Mjollnir clear",
+    "tags": [
+      "TROLL_WARLORD",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Push High Ground. Use Ranged form with Whirling Axes (Ranged) to safely clear waves from 950+350=1300 range. Your ensnare and maim are less relevant here. Switch to melee when committing to hit buildings for the faster BAT (1.4). Siege with your team and use Battle Trance to secure kills on defenders who overextend.",
+    "search_text": "Troll Warlord situation high ground push siege ranged whirling axes clear wave 1300 range melee hit building BAT 1.4",
+    "tags": [
+      "TROLL_WARLORD",
+      "SITUATIONAL",
+      "HIGH_GROUND"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10 Choice: Left: +2.5s Whirling Axes Debuff Duration. Right: +20 Berserker's Rage Movement Speed. The Whirling Axes duration extends the slow (Ranged) or blind (Melee), improving your control and survivability. The +20 MS is a constant benefit, making you faster in both forms for chasing, farming, and positioning. Generally, take the MS for overall tempo; take the debuff duration if you need more control against mobile heroes.",
+    "search_text": "Troll Warlord talent level 10 left Whirling Axes debuff duration 2.5s right Berserker's Rage movement speed 20",
+    "tags": [
+      "TROLL_WARLORD",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15 Choice: Left: +4 Fervor Attack Speed. Right: +115 Whirling Axes Damage. +4 AS per Fervor stack adds up to +40 max attack speed, a significant DPS increase for your core manfighting role. +115 damage to both Whirling Axes spells is a large nuke boost, improving burst and wave clear. The Attack Speed talent is almost always better for your primary role as a sustained right-clicker.",
+    "search_text": "Troll Warlord talent level 15 left Fervor attack speed 4 per stack right Whirling Axes damage 115",
+    "tags": [
+      "TROLL_WARLORD",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20 Choice: Left: +1.5s Battle Trance Duration. Right: +10 Berserker's Rage Armor. +1.5s on your ultimate is huge, extending your unstoppable state to 8 seconds. +10 Armor is a massive defensive boost, making you incredibly tanky against physical damage. Take the duration if you have BKB and are the main damage source. Take the armor if you are being focused by physical cores or lack survivability items.",
+    "search_text": "Troll Warlord talent level 20 left Battle Trance duration 1.5s right Berserker's Rage armor 10",
+    "tags": [
+      "TROLL_WARLORD",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25 Choice: Left: Whirling Axes Pierce Magic Immunity. Right: Battle Trance Strong Dispels. Making Whirling Axes pierce BKB allows you to slow or blind BKB'd targets, a powerful utility tool. Battle Trance applying a Strong Dispel means you can use it to remove stuns, silences, roots, etc., and it can be cast while stunned. This is an insane survivability and initiation tool. The Strong Dispel talent is generally considered game-winning and is the standard pick.",
+    "search_text": "Troll Warlord talent level 25 left Whirling Axes pierce magic immunity BKB right Battle Trance strong dispel cast while stunned",
+    "tags": [
+      "TROLL_WARLORD",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

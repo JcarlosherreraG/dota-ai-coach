@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Minotaur Horn, Tier 5: Neutral item providing the active ability Lesser Avatar. Applies a basic dispel, grants 50% magic resistance, and immunity to pure and reflected damage for 2 seconds. During this brief duration, negative effects from enemy spells have no effect. This creates a powerful, short-term defensive window against heavy magic burst and dispellable disables. Stats: CD: 40s, Duration: 2s, Magic Resistance: 50%.",
+    "search_text": "neutral item, minotaur horn, dispel item, magic resistance item, basic dispel, magic immune, damage immunity, pure damage immunity, reflected damage immunity, short immunity, defensive neutral, tier 5 neutral, save neutral, status resist, anti-spell, Lesser Avatar, Tier 5",
+    "tags": [
+      "ITEM_DATA",
+      "MINOTAUR_HORN",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_5",
+      "DISPEL",
+      "DEFENSIVE",
+      "SAVE",
+      "MAGIC_RESISTANCE",
+      "VS_MAGIC",
+      "VS_CONTROL"
+    ]
+  }
+]

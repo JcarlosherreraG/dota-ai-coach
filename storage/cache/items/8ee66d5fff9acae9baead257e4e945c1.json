@@ -1,0 +1,20 @@
+[
+  {
+    "display_text": "Book of the Dead, Tier 5: Neutral item with a powerful summoning active. Summons 2 demonic warriors and 2 demonic archers for 65 seconds. The warrior applies mana burn on hit, reveals invisible units, and deals high magical damage upon death, while the archer provides a basic dispel with slow and grants a movement speed aura to nearby units. Stats: CD: 80s, Duration: 65s.",
+    "search_text": "summon item, neutral item, tier 5 neutral, demon summon, demonic summoning, demonic warriors, demonic archers, summons units, summons neutral, true sight, dispel, mana burn, movement speed aura, slow, Book of the Dead, demonicon",
+    "tags": [
+      "ITEM_DATA",
+      "BOOK_OF_THE_DEAD",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_5",
+      "SUMMONS",
+      "TRUE_SIGHT",
+      "DISPEL",
+      "SLOW",
+      "MANA_BURN",
+      "AURA",
+      "MOBILITY"
+    ]
+  }
+]

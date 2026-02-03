@@ -1,0 +1,20 @@
+[
+  {
+    "display_text": "Wand of Sanctitude, Cost: 0: Tier 3 Neutral item that creates a 450 radius zone for 6 seconds. Allies within the zone gain +15 to all attributes and +200 bonus cast range. Pulses every 1.5 seconds. Stats: CD: 40s, Radius: 450, Duration: 6s, Tick Rate: 1.5s.",
+    "search_text": "wand of sanctitude, tier 3 neutral, attribute aura, all stats buff, cast range aura, team buff aura, zone buff, support neutral, teamfight aura, area buff, attribute bonus, all attributes, cast range bonus, neutral item, Wand of Sanctitude",
+    "tags": [
+      "ITEM_DATA",
+      "WAND_OF_SANCTITUDE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "AURA",
+      "BUFF",
+      "STATS",
+      "UTILITY",
+      "TEAMFIGHT_ROLE",
+      "ATTRIBUTES",
+      "CAST_RANGE"
+    ]
+  }
+]

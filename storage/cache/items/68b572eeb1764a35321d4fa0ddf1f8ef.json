@@ -1,0 +1,30 @@
+[
+  {
+    "display_text": "Greater Healing Lotus, Cost: 0: Consumable item that instantly restores 900 health and 900 mana to a hero upon use. Can be cast on a nearby allied hero by holding the Control key. Provides a single large burst of sustain with a short cooldown. Stats: CD: 5s, Heal: 900 HP, Mana Restore: 900, Charges: 1.",
+    "search_text": "instant heal item, instant mana item, burst heal, burst mana, consumable heal, consumable mana, heal item, mana item, lotus heal, greater famango, share heal, ally heal, Greater Healing Lotus, lotus",
+    "tags": [
+      "ITEM_DATA",
+      "GREATER_HEALING_LOTUS",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "HEALTH",
+      "MANA",
+      "REGEN",
+      "SUSTAIN",
+      "INSTANT_CAST"
+    ]
+  },
+  {
+    "display_text": "Greater Healing Lotus, Cost: 0: A high-impact sustain consumable providing an emergency burst of health and mana. Ideal for heroes who need a large, immediate resource pool in crucial moments. Cooldown is low enough to be available each fight. Stats: CD: 5s, Heal: 900 HP, Mana Restore: 900, Charges: 1.",
+    "search_text": "emergency heal, emergency mana, sustain burst, fight sustain, instant recovery, team fight heal, mana burst, critical heal, Greater Healing Lotus, lotus",
+    "tags": [
+      "ITEM_DATA",
+      "GREATER_HEALING_LOTUS",
+      "TEAMFIGHT_ROLE",
+      "CONSUMABLE",
+      "SUSTAIN",
+      "SUPPORT_ITEM",
+      "DEFENSIVE"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "display_text": "Metamorphic Mandible, Tier 4: Neutral item with an active ability to enter an insect form for 4 seconds, granting +35% magic resistance and +15% movement speed. While transformed, your hero size is decreased and your armor is reduced by 45%. This provides a burst of survivability against magic damage and mobility, at the cost of physical defense. Stats: CD: 30s, Duration: 4s, Magic Res Bonus: +35%, MS Bonus: +15%, Armor Reduction: -45%.",
+    "search_text": "neutral item, tier 4 neutral, insect form, pupate, magic resistance, movement speed, size reduction, armor reduction, escape tool, magic defense, mobility, burst defense, physical vulnerability, Metamorphic Mandible, mandible",
+    "tags": [
+      "ITEM_DATA",
+      "METAMORPHIC_MANDIBLE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_4",
+      "ACTIVE",
+      "MAGIC_RESISTANCE",
+      "MOBILITY",
+      "ESCAPE",
+      "SURVIVAL",
+      "VS_MAGIC",
+      "UTILITY",
+      "DEFENSIVE"
+    ]
+  }
+]

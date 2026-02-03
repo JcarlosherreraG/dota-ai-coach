@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Bullwhip, Cost: 0: Non-purchasable neutral item that grants 25% movement speed to an ally or slows an enemy by 25% for 4 seconds. Casting has a 0.3-second delay. A powerful utility tool for chasing, escaping, or repositioning in fights. Stats: CD: 11s, Duration: 4s, MS Bonus/Slow: 25%, Delay: 0.3s.",
+    "search_text": "neutral item, utility neutral, movement speed item, slow item, chase tool, reposition item, ally speed, enemy slow, Bullwhip, speed boost, catch tool, escape tool, buff item, debuff item, team fight utility",
+    "tags": [
+      "ITEM_DATA",
+      "BULLWHIP",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "UTILITY",
+      "MOBILITY",
+      "SLOW",
+      "BUFF",
+      "DEBUFF",
+      "TEAMFIGHT_ROLE"
+    ]
+  }
+]

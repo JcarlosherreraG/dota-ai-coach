@@ -1,0 +1,71 @@
+[
+  {
+    "display_text": "Cost: 4000: Moon Shard can be consumed to permanently grant +60 attack speed and 200 bonus night vision, up to one use per hero. While uneaten, it provides +140 attack speed and 400 night vision as a passive effect. This item is a late-game damage accelerator for heroes scaling with attack speed. Stats: Consumed Bonus AS: 60, Base Bonus AS: 140, Bonus Night Vision: 400.",
+    "search_text": "attack speed item, consume item, late game damage, dps item, vision item, night vision, permanent buff, damage scaling, carry item, farming accelerator, Moon Shard, moon shard consume, perma attack speed, hyper stone upgrade",
+    "tags": [
+      "ITEM_DATA",
+      "MOON_SHARD",
+      "FULL_ITEM",
+      "ATTACK_SPEED",
+      "DAMAGE",
+      "VISION",
+      "CONSUMABLE_BUFF",
+      "CARRY_ITEM",
+      "SCALING",
+      "CORE_MECHANICS"
+    ]
+  },
+  {
+    "display_text": "Cost: 4000: Provides a substantial +140 Attack Speed and 400 bonus Night Vision as a passive stat bundle. This is one of the highest raw attack speed sources in the game, directly translating to faster farming and team fight DPS. Stats: Attack Speed: +140.",
+    "search_text": "moon shard stats, attack speed stats, hyper stone, dps stats, night vision stats, bonus vision, attack speed buff, carry dps, Moon Shard",
+    "tags": [
+      "ITEM_DATA",
+      "MOON_SHARD",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "ATTACK_SPEED",
+      "VISION",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Cost: 4000: Its primary role is to amplify late-game physical damage output and hero scaling. The consumed effect allows a hero to reach an attack speed cap without sacrificing an inventory slot, freeing it for another major item. It provides a significant vision advantage in night-time fights. Stats: Consumed Bonus Night Vision: 200.",
+    "search_text": "late game scaling, damage accelerator, slot efficiency, six slot item, hyper late game, vision advantage, night fight advantage, dps scaling, Moon Shard",
+    "tags": [
+      "ITEM_DATA",
+      "MOON_SHARD",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DAMAGE",
+      "SCALING",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "Cost: 4000: The consumed effect synergizes with heroes whose damage output scales multiplicatively with attack speed, such as those with high base damage or on-hit effects. It is a core, final item for traditional right-click carries. The night vision boost provides an edge in night-time skirmishes and juking. Stats: Consumed Bonus AS: 60.",
+    "search_text": "attack speed synergy, right click carry item, dps carry, final item, consumable attack speed, night vision utility, hyper carry, Moon Shard",
+    "tags": [
+      "ITEM_DATA",
+      "MOON_SHARD",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "SCALING",
+      "ATTACK_SPEED",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "Cost: 4000: Directly accelerates farming speed by increasing attack speed, allowing for faster jungle clears and pushing waves. Its permanent consumption frees an inventory slot for other items while maintaining the attack speed bonus, indirectly boosting farm rate later in the game. Stats: Attack Speed: +140.",
+    "search_text": "farming item, attack speed farm, jungle speed, wave clear, carry farm, dps farm, Moon Shard",
+    "tags": [
+      "ITEM_DATA",
+      "MOON_SHARD",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "ATTACK_SPEED",
+      "FARMING",
+      "SCALING"
+    ]
+  }
+]

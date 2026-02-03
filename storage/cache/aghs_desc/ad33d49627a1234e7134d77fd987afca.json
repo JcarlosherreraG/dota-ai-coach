@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Techies Aghanim's Scepter: Upgrades Minefield Sign to create a temporary minefield when enemies approach, dealing damage whenever they move within its area. This is a powerful anti-movement mechanic, forcing enemies to either avoid the area or take significant damage, making it ideal for high-ground defense or choke point control.",
+    "search_text": "Techies Aghanim Scepter anti-movement area denial high-ground defense choke point control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Techies",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Techies Aghanim's Shard: Allows Reactive Tazer to be cast on allies, dealing damage to enemies when detonated or when they attack the ally. This transforms Techies into a supportive anti-physical damage hero, discouraging focus fire and providing area denial for team fights.",
+    "search_text": "Techies Aghanim Shard anti-physical damage supportive focus fire deterrence team fight",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Techies",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

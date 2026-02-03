@@ -1,0 +1,76 @@
+[
+  {
+    "display_text": "Mercy \u0026 Grace, Cost: 0: Non-purchasable item providing a powerful active ability. Fires a ghostly bullet that deals 300 magical damage and applies a 100% slow for 0.5 seconds to a target enemy or tree, then ricochets in a targeted direction. The ricochet damages all units it passes through and stops at the first hero hit, fearing them for 2 seconds in the direction of the shot. Stats: CD: 10s, Mana: 160, Cast Range: 1000, Fear Duration: 2s.",
+    "search_text": "muertas gun, dead shot, ghost bullet, fear item, ricochet ability, crowd control, multi-target fear, disable item, vector target, targeted fear, spirit shooter, long range catch, initiation tool, magic damage, target fear, teamfight control, crowd control item, Muerta's Gun",
+    "tags": [
+      "ITEM_DATA",
+      "MUERTAS_GUN",
+      "CORE_MECHANICS",
+      "NON_PURCHASABLE",
+      "DISABLE",
+      "FEAR",
+      "CROWD_CONTROL",
+      "MAGICAL_DAMAGE",
+      "MULTI_TARGET",
+      "INITIATION",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Mercy \u0026 Grace, Cost: 0: Provides a massive 100% spell amplification and 100% bonus cast range, but at a severe cost of 70% maximum health penalty. Requires careful positioning and timing due to the health trade-off. This powerful buff amplifies the damage and reach of Dead Shot and all other spells. Stats: Spell Amp: +100%, Cast Range Bonus: +100%, Max HP Penalty: -70%.",
+    "search_text": "muertas gun stats, spell amp item, cast range bonus, health penalty item, high risk high reward, spell damage boost, range amplifier, glass cannon item, sacrifice health, damage amplifier, nuke amplifier, Muerta's Gun",
+    "tags": [
+      "ITEM_DATA",
+      "MUERTAS_GUN",
+      "STAT_PROFILE",
+      "NON_PURCHASABLE",
+      "SPELL_AMPLIFICATION",
+      "CASTER_ITEM",
+      "GLASS_CANNON",
+      "HIGH_RISK",
+      "HIGH_REWARD"
+    ]
+  },
+  {
+    "display_text": "Mercy \u0026 Grace, Cost: 0: High-impact initiation and area control tool in team fights. The initial single-target slow and damage can catch key targets, while the vector-targeted ricochet can fear multiple heroes, scattering the enemy team and creating chaos. The long-range and fear effect make it excellent for disrupting enemy positioning and turning fights. Stats: CD: 10s, Fear Duration: 2s.",
+    "search_text": "teamfight disruption item, fear multiple heroes, enemy scatter, area fear, team fight control, initiation item, catch tool, reposition enemy, break formation, chaotic item, crowd scatter, Muerta's Gun",
+    "tags": [
+      "ITEM_DATA",
+      "MUERTAS_GUN",
+      "TEAMFIGHT_ROLE",
+      "NON_PURCHASABLE",
+      "INITIATION",
+      "DISABLE",
+      "FEAR",
+      "CROWD_CONTROL",
+      "POSITIONING",
+      "AOE_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Mercy \u0026 Grace, Cost: 0: Situational item against teams that rely on grouped formations and channeled abilities. The fear effect provides strong control against heroes who require careful positioning or sustained channeling. However, the severe health penalty makes it risky against high-burst physical damage dealers or heroes with gap-close to exploit the vulnerability. Stats: HP Penalty: -70%.",
+    "search_text": "counter formation, anti-clump item, anti-channel item, disrupt team fight, fear channeling, grouped enemy counter, scatter enemy, health penalty risk, glass cannon risk, burst damage weak, Muerta's Gun",
+    "tags": [
+      "ITEM_DATA",
+      "MUERTAS_GUN",
+      "SITUATIONAL_VS_CONTROL",
+      "NON_PURCHASABLE",
+      "VS_CHANNELING",
+      "GLASS_CANNON",
+      "HIGH_RISK"
+    ]
+  },
+  {
+    "display_text": "Mercy \u0026 Grace, Cost: 0: Synergizes with spellcasting heroes who can leverage the massive spell amplification and cast range without needing to be in the front lines due to the health penalty. Ideal for intelligence heroes with long-range, high-impact nukes and disables who can stay safe. The ricochet mechanic rewards skilled vector targeting to maximize fear effects.",
+    "search_text": "intelligence hero item, caster item, spell caster synergy, long range nuke, stay back item, glass cannon caster, vector skill item, skill shot item, Muerta's Gun",
+    "tags": [
+      "ITEM_DATA",
+      "MUERTAS_GUN",
+      "SYNERGY_BUILD",
+      "NON_PURCHASABLE",
+      "CASTER_ITEM",
+      "INTELLIGENCE",
+      "GLASS_CANNON"
+    ]
+  }
+]

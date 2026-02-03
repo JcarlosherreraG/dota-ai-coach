@@ -1,0 +1,71 @@
+[
+  {
+    "display_text": "Arcane Blink, Cost: 6800: Provides a 1400-range targeted teleport. After blinking, heals the user for 250 HP and restores 100 Mana. Cannot be used for 3 seconds after taking hero or Roshan damage. Upgraded Blink Dagger variant offering sustain after repositioning. Stats: CD: 9s, Range: 1400, Heal: 250, Mana Restore: 100, Damage Cooldown: 3s.",
+    "search_text": "arcane blink, blink dagger upgrade, sustain blink, mana blink, intelligence blink, blink heal, blink mana restore, reposition heal, reposition sustain, long range teleport, high mobility, initiation sustain, arcane blink dagger, escape item, initiation tool, mobility item, blink item, Arcane Blink",
+    "tags": [
+      "ITEM_DATA",
+      "ARCANE_BLINK",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "MOBILITY",
+      "POSITIONING",
+      "SURVIVAL",
+      "HEALTH",
+      "MANA",
+      "UPGRADE",
+      "INTELLIGENCE"
+    ]
+  },
+  {
+    "display_text": "Arcane Blink, Cost: 6800: Provides +25 Intelligence and the core Blink active. No other stat bonuses. The Intelligence boost increases the mana pool, benefiting spellcasters who need to follow up blinks with mana-intensive combos. Stats: Intelligence: +25.",
+    "search_text": "arcane blink stats, intelligence stats, intelligence item, blink stats, mana pool item, int blink, Arcane Blink",
+    "tags": [
+      "ITEM_DATA",
+      "ARCANE_BLINK",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "INTELLIGENCE",
+      "MANA"
+    ]
+  },
+  {
+    "display_text": "Arcane Blink, Cost: 6800: A high-impact initiation and repositioning tool that also heals and restores mana, allowing casters to commit to a fight after blinking. The sustain helps mitigate poke damage that would disable the item. Its long range enables deep dives and decisive team fight starts.",
+    "search_text": "arcane blink initiation, team fight blink, sustain after blink, caster initiation, hero blink, reposition sustain, aggressive blink, sustain repositioning, team fight role, fight sustain, Arcane Blink",
+    "tags": [
+      "ITEM_DATA",
+      "ARCANE_BLINK",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "INITIATION",
+      "MOBILITY",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Arcane Blink, Cost: 6800: Ideal for high-mana, high-impact spellcasters and initiators who need to land combos after a long-range blink (e.g., Magnus, Enigma, Tidehunter). The mana restore ensures ability follow-through, and the Intelligence scales with spell damage. A luxury upgrade for Blink Dagger users.",
+    "search_text": "arcane blink synergy, blink magnus, blink enigma, blink tidehunter, intelligence initiator, luxury blink, late game blink, spellcaster blink, combo blink, mana initiator, Arcane Blink",
+    "tags": [
+      "ITEM_DATA",
+      "ARCANE_BLINK",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "UPGRADE",
+      "INITIATOR_ITEM",
+      "LATE_GAME_ITEM",
+      "SPELLCASTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Arcane Blink, Cost: 6800: Primarily a situational luxury upgrade for Blink Dagger carriers who also benefit from Intelligence. Consider against lineups that apply frequent hero damage, as the 3-second damage lockout is a key weakness. The item's high cost delays other core items.",
+    "search_text": "situational blink, luxury upgrade, late game item, int hero item, mana sustain item, hero damage counter, poke counter, expensive blink, Arcane Blink",
+    "tags": [
+      "ITEM_DATA",
+      "ARCANE_BLINK",
+      "FULL_ITEM",
+      "SITUATIONAL_USAGE",
+      "UPGRADE",
+      "LATE_GAME_ITEM",
+      "EXPENSIVE"
+    ]
+  }
+]

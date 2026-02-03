@@ -1,0 +1,63 @@
+[
+  {
+    "display_text": "Wand of the Brine, Cost: 0, Tier N/A: Active item that can be cast on allies or self. Heals 40 health every 0.5 seconds for 3 seconds while increasing the target's heal amplification by 15% and movement speed by 50%. Also grants 50% damage reduction for the duration. A powerful defensive save tool that boosts sustain and survivability during fights. Stats: CD: 35s, Mana Cost: 90, Duration: 3s, Interval: 0.5s.",
+    "search_text": "heal item, save item, defensive item, ally buff, damage reduction item, movement speed buff, heal amp item, burst save, team fight save, utility item, Wand of the Brine, save ally, support item, sustain tool, emergency heal",
+    "tags": [
+      "ITEM_DATA",
+      "WAND_OF_THE_BRINE",
+      "CORE_MECHANICS",
+      "SAVE",
+      "DEFENSIVE",
+      "HEAL",
+      "BUFF",
+      "MOBILITY",
+      "SURVIVAL",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Wand of the Brine, Cost: 0: Provides no base stats or attributes. Value comes entirely from its powerful active defensive ability. A pure utility item for support or core heroes needing a save option.",
+    "search_text": "wand of the brine stats, no stats item, utility save item, active only item, defensive active, Wand of the Brine",
+    "tags": [
+      "ITEM_DATA",
+      "WAND_OF_THE_BRINE",
+      "STAT_PROFILE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Wand of the Brine, Cost: 0: Serves as a team fight save tool, turning the tide by rapidly healing a single ally while making them significantly more durable and mobile. Excellent for keeping a key carry alive through focus fire or allowing a tank to frontline longer with damage reduction.",
+    "search_text": "team fight save, keep ally alive, anti-burst, defensive support, clutch heal, damage reduction tool, reposition tool, Wand of the Brine",
+    "tags": [
+      "ITEM_DATA",
+      "WAND_OF_THE_BRINE",
+      "TEAMFIGHT_ROLE",
+      "SAVE",
+      "DEFENSIVE",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Wand of the Brine, Cost: 0: Situational against high burst damage teams lacking a lot of healing reduction. The combined heal, damage reduction, and speed boost makes an ally extremely difficult to kill quickly. Less effective against heavy anti-heal items like Spirit Vessel or Skadi.",
+    "search_text": "save vs burst, anti-burst item, counter burst damage, sustain vs burst, Wand of the Brine",
+    "tags": [
+      "ITEM_DATA",
+      "WAND_OF_THE_BRINE",
+      "SITUATIONAL_USAGE",
+      "VS_BURST",
+      "DEFENSIVE",
+      "SAVE"
+    ]
+  },
+  {
+    "display_text": "Wand of the Brine, Cost: 0: Strong synergy with heroes who have high maximum health or innate damage mitigation, as the damage reduction multiplies their effective HP. Also excellent on supports paired with a high-value single-core lineup to protect the main damage dealer.",
+    "search_text": "tank synergy, save support, core protector, high HP synergy, Wand of the Brine",
+    "tags": [
+      "ITEM_DATA",
+      "WAND_OF_THE_BRINE",
+      "SYNERGY_BUILD",
+      "SUPPORT_ITEM",
+      "SAVE"
+    ]
+  }
+]

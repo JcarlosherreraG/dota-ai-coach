@@ -1,0 +1,213 @@
+[
+  {
+    "display_text": "Shadow Fiend is a ranged agility hero with 19 base strength, 25 base agility, and 18 base intelligence. He has an attack rate of 1.6, which is average. His high base agility for a ranged hero gives him decent starting armor and damage. He relies on farming and stacking souls to scale his damage output, making him a classic mid-lane core.",
+    "search_text": "Shadow Fiend stats 19 strength 25 agility 18 intelligence attack rate 1.6 ranged attack",
+    "tags": [
+      "Shadow Fiend",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Shadow Fiend has two Facets. 'Lasting Presence' enhances his late-game scaling: each hero kill near him increases Presence of the Dark Lord's armor reduction by -1 and permanently increases Necromastery's maximum soul capacity by 1 until he dies. Choose this for a hard carry build focused on right-click damage. 'Shadowmire' adds a 3-second slow to Shadowraze (25% movement slow at all levels), improving his early-game kill threat and lane control. Choose this for a burst magic damage or ganking playstyle.",
+    "search_text": "Shadow Fiend facets Lasting Presence Shadowmire Shadowraze slow armor reduction Necromastery souls",
+    "tags": [
+      "Shadow Fiend",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Shadow Fiend aims to secure last hits and denies with his high base damage. Prioritize leveling Shadowraze (Q/W/E) for last-hitting ranged creeps and harassing. His low base health makes him vulnerable to ganks. Use Shadowraze to stack damage amplifiers on the enemy hero. Your goal is to reach level 5-7 with a fast bottle or Wraith Band to maximize farming speed and prepare for the mid-game.",
+    "search_text": "Shadow Fiend laning last hits Shadowraze harass low health bottle",
+    "tags": [
+      "Shadow Fiend",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spike 1: Level 3-5 with maxed Shadowraze (300 damage per cast) and a value point in Necromastery for damage. Power Spike 2: Level 8 with maxed Necromastery (up to +104 damage from 26 souls). Power Spike 3: Level 12 with talent (likely +30 Shadowraze stack damage). Power Spike 4: Level 18 with level 3 Requiem of Souls. Item spikes are Eul's Scepter for solo kills, Black King Bar for teamfight survivability, and Daedalus for critical damage.",
+    "search_text": "Shadow Fiend power spikes level 3 level 8 level 12 level 18 Eul's Scepter Black King Bar Daedalus",
+    "tags": [
+      "Shadow Fiend",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Shadow Fiend is hard countered by heroes with Break (e.g., Silver Edge, Hoodwink) which prevents him from gaining new Necromastery souls, though existing souls remain. Instant disables like Hex prevent him from casting Requiem of Souls. High burst physical damage (e.g., Templar Assassin) can kill him through his low health pool. Anti-mage heroes with high magic resistance reduce his Shadowraze and Requiem damage.",
+    "search_text": "Shadow Fiend counters Break Silver Edge Necromastery Hex instant disable burst physical damage",
+    "tags": [
+      "Shadow Fiend",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core build essentials: 1) Black King Bar is non-negotiable for surviving teamfights and allowing him to right-click. 2) Satanic provides lifesteal and survivability to man-fight. 3) Eul's Scepter of Divinity is critical for setting up guaranteed Shadowraze combos and providing mana regeneration and dispel.",
+    "search_text": "Shadow Fiend core items Black King Bar Satanic Eul's Scepter",
+    "tags": [
+      "Shadow Fiend",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Shadow Fiend's role is to deal massive AoE magic damage with Requiem of Souls at the fight's initiation, fearing and reducing the magic resistance of enemies hit. After using Requiem, he transitions to a right-click carry, using his high Necromastery damage and Feast of Souls attack speed bonus to kill priority targets from the edge of the fight. He must be protected as he is squishy.",
+    "search_text": "Shadow Fiend teamfight role Requiem of Souls AoE magic damage fear right-click carry Necromastery",
+    "tags": [
+      "Shadow Fiend",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Shadowraze (Close). Shadow Fiend razes the ground directly in front of him (200 range), dealing 90/160/230/300 damage in a 250 radius. Adds a stacking damage amplifier that lasts 7 seconds, causing the target to take 35/50/65/80 bonus damage from subsequent Shadowraze casts per stack. The ability has a 9 second cooldown, but individual casts have a 3 second cooldown between uses. This ability does NOT pierce BKB.",
+    "search_text": "Shadowraze Close Q damage 90 160 230 300 radius 250 range 200 stack damage 35 50 65 80 duration 7s cooldown 9s 3s between casts",
+    "tags": [
+      "Shadow Fiend",
+      "ABILITY_DATA",
+      "Q",
+      "SHADOWRAZE"
+    ]
+  },
+  {
+    "display_text": "Ability: Shadowraze (Medium). Shadow Fiend razes the ground a short distance away (450 range), dealing 90/160/230/300 damage in a 250 radius. Adds a stacking damage amplifier that lasts 7 seconds, causing the target to take 35/50/65/80 bonus damage from subsequent Shadowraze casts per stack. The ability has a 9 second cooldown, but individual casts have a 3 second cooldown between uses. This ability does NOT pierce BKB.",
+    "search_text": "Shadowraze Medium W damage 90 160 230 300 radius 250 range 450 stack damage 35 50 65 80 duration 7s cooldown 9s 3s between casts",
+    "tags": [
+      "Shadow Fiend",
+      "ABILITY_DATA",
+      "W",
+      "SHADOWRAZE"
+    ]
+  },
+  {
+    "display_text": "Ability: Shadowraze (Far). Shadow Fiend razes the ground a longer distance away (700 range), dealing 90/160/230/300 damage in a 250 radius. Adds a stacking damage amplifier that lasts 7 seconds, causing the target to take 35/50/65/80 bonus damage from subsequent Shadowraze casts per stack. The ability has a 9 second cooldown, but individual casts have a 3 second cooldown between uses. This ability does NOT pierce BKB.",
+    "search_text": "Shadowraze Far E damage 90 160 230 300 radius 250 range 700 stack damage 35 50 65 80 duration 7s cooldown 9s 3s between casts",
+    "tags": [
+      "Shadow Fiend",
+      "ABILITY_DATA",
+      "E",
+      "SHADOWRAZE"
+    ]
+  },
+  {
+    "display_text": "Ability: Feast of Souls. Shadow Fiend gains 40/55/70/85 bonus attack speed and 5/7/9/11 bonus movement speed for 8 seconds. For the duration, Necromastery's max soul count is increased by 5. After the effect ends, he loses 5 souls. Costs 5 souls to cast. This ability has a 100% cast speed.",
+    "search_text": "Feast of Souls R attack speed 40 55 70 85 movement speed 5 7 9 11 duration 8s max souls increase 5 soul cost 5",
+    "tags": [
+      "Shadow Fiend",
+      "ABILITY_DATA",
+      "F",
+      "FEASOFS"
+    ]
+  },
+  {
+    "display_text": "Ability: Presence of the Dark Lord. Passive aura in a 1200 radius. Reduces the armor of nearby enemies by 3/4/5/6. This armor reduction stacks fully with other sources.",
+    "search_text": "Presence of the Dark Lord passive aura armor reduction -3 -4 -5 -6 radius 1200",
+    "tags": [
+      "Shadow Fiend",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "ARMOR_REDUCTION"
+    ]
+  },
+  {
+    "display_text": "Ability: Requiem of Souls. Shadow Fiend releases captured souls as lines of demonic energy in a 1000 radius. Each soul creates one line. Units hit take damage per line. Any unit damaged is feared and has its movement speed reduced by 20/25/30% and magic resistance reduced by 10% for 0.6 seconds per line hit, up to a maximum of 2.15 seconds. Cooldown is 120/110/100 seconds. Automatically casts on death. Does NOT pierce BKB.",
+    "search_text": "Requiem of Souls R ultimate damage lines fear movement slow -20 -25 -30% magic resistance -10% duration per line 0.6s max 2.15s radius 1000 cooldown 120 110 100 cast on death",
+    "tags": [
+      "Shadow Fiend",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "REQUIEM"
+    ]
+  },
+  {
+    "display_text": "Ability: Necromastery. Passive. Shadow Fiend gains 1/2/3/4 bonus damage per soul from units he kills. Max souls are 20/22/24/26. Hero kills grant 4 souls. On death, he releases 30% of his souls. Denies and neutral creeps also provide souls. Break disables gaining new souls but does not remove existing bonus damage.",
+    "search_text": "Necromastery passive bonus damage per soul 1 2 3 4 max souls 20 22 24 26 hero kill 4 souls death release 30% Break disables gain",
+    "tags": [
+      "Shadow Fiend",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "NECROMASTERY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Facing multiple high-armor, high-physical damage cores (e.g., Terrorblade, Dragon Knight). Strategy: Prioritize maximizing Presence of the Dark Lord and the Lasting Presence Facet. Build items like Assault Cuirass and Desolator to compound armor reduction. Your physical damage output will be extremely high against these targets.",
+    "search_text": "Shadow Fiend vs high armor Terrorblade Dragon Knight Presence of the Dark Lord armor reduction Assault Cuirass Desolator",
+    "tags": [
+      "Shadow Fiend",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind with a poor laning stage. Strategy: Focus on farming jungle camps with Shadowraze to recover. Use the Shadowmire Facet to help secure kills with your team if a gank opportunity arises. Itemize for survivability first (e.g., BKB, Hurricane Pike) before committing to pure damage items. Avoid risky fights until you have key items.",
+    "search_text": "Shadow Fiend playing from behind farming jungle Shadowraze Shadowmire slow survivability BKB Hurricane Pike",
+    "tags": [
+      "Shadow Fiend",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy team has heavy magical burst (e.g., Zeus, Lina). Strategy: The magic resistance reduction from Requiem of Souls is less valuable. Prioritize the magic damage talent (+120 Shadowraze Damage) at level 15. Itemize for magic resistance (e.g., Black King Bar, Mage Slayer, Satanic) and consider a Linken's Sphere to block key initiations.",
+    "search_text": "Shadow Fiend vs magic burst Zeus Lina Requiem magic resist reduction Shadowraze damage talent BKB Mage Slayer",
+    "tags": [
+      "Shadow Fiend",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your team lacks initiation and you need to start fights. Strategy: Use Blink Dagger to get into the enemy team and cast Requiem of Souls for a massive AoE fear and damage opener. Follow up with your team's spells. The level 25 talent '+0.2s Requiem Fear per line' becomes very powerful for this playstyle.",
+    "search_text": "Shadow Fiend initiator Blink Dagger Requiem of Souls opener AoE fear talent fear duration",
+    "tags": [
+      "Shadow Fiend",
+      "SITUATIONAL",
+      "AS_INITIATOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has multiple heroes with spell immunity (e.g., Juggernaut, Lifestealer). Strategy: Shadowraze and Requiem do not pierce BKB. You must rely on physical damage. Max Necromastery and Presence of the Dark Lord early. Build right-click items like Monkey King Bar, Daedalus, and Satanic. Use Feast of Souls for attack speed during their BKB duration.",
+    "search_text": "Shadow Fiend vs BKB Juggernaut Lifestealer physical damage Necromastery Presence of the Dark Lord Monkey King Bar Daedalus",
+    "tags": [
+      "Shadow Fiend",
+      "SITUATIONAL",
+      "VS_SPELL_IMMUNITY"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is +30 Shadowraze Stack Damage, increasing the bonus damage per stack from 35/50/65/80 to 65/80/95/110. Right choice is +30 Feast of Souls Attack Speed, increasing the bonus from 40/55/70/85 to 70/85/100/115. Choose the Shadowraze talent if you are focusing on magic burst. Choose the Feast of Souls talent if you are building for right-click damage or need faster farming.",
+    "search_text": "Shadow Fiend talent level 10 left +30 Shadowraze Stack Damage right +30 Feast of Souls Attack Speed magic burst physical damage farming",
+    "tags": [
+      "Shadow Fiend",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is +2 Presence Armor Reduction, increasing the aura from -3/-4/-5/-6 to -5/-6/-7/-8. Right choice is +120 Shadowraze Damage, increasing the base damage from 90/160/230/300 to 210/280/350/420. Choose the armor reduction talent against high-armor lineups or if your team has strong physical damage. Choose the Shadowraze damage talent for maximum magic burst, especially with Eul's combo.",
+    "search_text": "Shadow Fiend talent level 15 left +2 Presence Armor Reduction right +120 Shadowraze Damage physical damage lineup magic burst Eul's combo",
+    "tags": [
+      "Shadow Fiend",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is +2 Damage Per Soul, increasing Necromastery's bonus from 1/2/3/4 to 3/4/5/6 per soul. Right choice is +0.2s Requiem Fear per line, increasing the maximum fear duration from 2.15 seconds to 4.15 seconds (assuming 10 lines). Choose the Damage Per Soul talent for a massive late-game right-click damage increase. Choose the Fear duration talent for incredible teamfight control, especially if you are initiating with Blink+Requiem.",
+    "search_text": "Shadow Fiend talent level 20 left +2 Damage Per Soul Necromastery right +0.2s Requiem Fear per line max duration 4.15s right-click damage teamfight control initiator",
+    "tags": [
+      "Shadow Fiend",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is Feast of Souls Grants +30% Cast Speed. Right choice is Shadowraze Applies Attack Damage. The Cast Speed talent allows you to cast Shadowraze and items like Eul's and BKB much faster, crucial for getting your combo off. The Attack Damage talent makes each Shadowraze hit also apply your current attack damage, including crits and modifiers, turning it into a massive physical nuke. Choose Cast Speed for reliability and magic build. Choose Attack Damage for an extreme hybrid damage output, especially with high physical damage items.",
+    "search_text": "Shadow Fiend talent level 25 left Feast of Souls +30% Cast Speed right Shadowraze Applies Attack Damage combo reliability magic build hybrid damage physical nuke",
+    "tags": [
+      "Shadow Fiend",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

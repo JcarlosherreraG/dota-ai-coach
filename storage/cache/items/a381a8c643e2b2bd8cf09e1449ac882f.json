@@ -1,0 +1,74 @@
+[
+  {
+    "display_text": "Satanic, Cost: 5050: Core Strength carry item providing a powerful defensive active ability. Unholy Rage grants 175% Lifesteal for 6 seconds, healing for massive amounts of damage dealt. The 30% passive lifesteal provides sustained survivability. Essential for turning fights and sustaining through heavy damage. Stats: Active CD: 30s, Active Lifesteal: 175% for 6s, Passive Lifesteal: 30%.",
+    "search_text": "lifesteal item, survival item, tank item, carry survivability, satanic active, unholy rage, lifesteal boost, fight sustain, self heal, damage heal, satanic, strength carry item, defensive carry, lifesteal active, satanic item",
+    "tags": [
+      "ITEM_DATA",
+      "SATANIC",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "LIFESTEAL",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "HEAL",
+      "CARRY_ITEM",
+      "ACTIVE_ITEM"
+    ]
+  },
+  {
+    "display_text": "Satanic, Cost: 5050: Stat profile focuses on durability and damage output for strength-based cores. Grants +25 Strength for health and damage, +25 flat damage, and permanent 30% lifesteal. The strength bonus synergizes with the lifesteal by increasing health pool and attack damage.",
+    "search_text": "satanic stats, strength damage item, lifesteal stats, strength lifesteal, damage lifesteal, Satanic, strength item, Satanic stats, +25 strength, +25 damage, 30% lifesteal",
+    "tags": [
+      "ITEM_DATA",
+      "SATANIC",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "STRENGTH",
+      "HEALTH",
+      "LIFESTEAL"
+    ]
+  },
+  {
+    "display_text": "Satanic, Cost: 5050: Team fight role is that of a defensive sustain and reversal tool. The active Unholy Rage allows a core hero to absorb immense focus fire and heal back to full health through damage. This turns losing engagements and forces enemies to commit significant control or damage to secure kills.",
+    "search_text": "team fight satanic, sustain carry, fight reversal, tank satanic, lifesteal team fight, satanic team fight, satanic active team fight, satanic defensive, survival team fight, Satanic",
+    "tags": [
+      "ITEM_DATA",
+      "SATANIC",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "SUSTAIN",
+      "FIGHT_REVERSAL",
+      "TANK"
+    ]
+  },
+  {
+    "display_text": "Satanic, Cost: 5050: Situational against high physical damage lineups. The massive lifesteal active directly counters heroes relying on high sustained physical DPS. It provides limited value against heavy burst magic damage or instant disables that prevent you from attacking. It is a counter to physical damage cores.",
+    "search_text": "satanic vs physical, satanic vs right click, satanic vs dps, physical damage counter, lifesteal vs physical, anti physical item, satanic counter physical, vs physical damage, Satanic",
+    "tags": [
+      "ITEM_DATA",
+      "SATANIC",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "VS_PHYSICAL",
+      "LIFESTEAL",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Satanic, Cost: 5050: Synergizes with heroes who have high attack speed and damage output to maximize lifesteal value. Strength cores like Sven or Chaos Knight benefit greatly from the stat and defensive utility. It is also a key late-game survivability item for agility carries when paired with Butterfly or Skadi.",
+    "search_text": "satanic build, satanic synergy, satanic on carry, satanic hero, lifesteal carry, satanic sven, satanic chaos knight, satanic agility carry, satanic late game, Satanic",
+    "tags": [
+      "ITEM_DATA",
+      "SATANIC",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "STRENGTH_CORE",
+      "LATE_GAME_ITEM"
+    ]
+  }
+]

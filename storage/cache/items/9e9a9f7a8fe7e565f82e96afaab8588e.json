@@ -1,0 +1,62 @@
+[
+  {
+    "display_text": "Mekansm, Cost: 1775: Provides an active ability, Restore, that instantly heals all allied heroes in a 1200 radius for 250 health for a high mana cost. Also grants a passive aura that provides +2.5 health regeneration to nearby allies. Stats: CD: 50s, Mana Cost: 100, Heal: 250, Aura Radius: 1200, Heal Radius: 1200.",
+    "search_text": "aoe heal item, team heal item, burst heal, healing aura, health regeneration aura, support item, team save, group heal, Mekansm aura, aura item, teamfight sustain, group fight item, Mek, active heal item, mana intensive heal, Mekansm",
+    "tags": [
+      "ITEM_DATA",
+      "MEKANSM",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AURA",
+      "HEAL",
+      "BUFF",
+      "SAVE",
+      "TEAMFIGHT_UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Mekansm, Cost: 1775: Provides +5 armor and +2.5 health regeneration from its passive aura. Offers moderate survivability and constant lane sustain for the holder and nearby allies.",
+    "search_text": "Mekansm stats, Mek armor, health regen aura, aura stats, support stats, tanky stats, Mekansm item stats, armor item, Mekansm",
+    "tags": [
+      "ITEM_DATA",
+      "MEKANSM",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ARMOR",
+      "REGEN",
+      "SUSTAIN",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Mekansm, Cost: 1775: Core teamfight utility item providing an instant group heal and passive sustain aura. Used to save multiple allies from burst damage, survive a push, or swing a fight with a large health swing. The long cooldown makes timing critical.",
+    "search_text": "team fight utility, team heal, group fight item, aura item, support utility, team buff, sustain aura, defensive aura, save team, fight swing item, Mekansm role, Mekansm",
+    "tags": [
+      "ITEM_DATA",
+      "MEKANSM",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "UTILITY",
+      "AURA",
+      "SUPPORT_ITEM",
+      "TEAMFIGHT_UTILITY"
+    ]
+  },
+  {
+    "display_text": "Mekansm, Cost: 1775: A classic support and offlane item. High value on heroes who group early to push towers or teamfight, or on melee initiators who can apply the heal in the middle of a fight. Its high mana cost requires mana management from the user.",
+    "search_text": "Mekansm build, Mek support, offlane Mek, aura support, group push item, early teamfight, melee initiator item, mana management, Mekansm synergy, Mekansm",
+    "tags": [
+      "ITEM_DATA",
+      "MEKANSM",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "OFFLANE_ITEM",
+      "AURA",
+      "PUSH_ITEM"
+    ]
+  }
+]

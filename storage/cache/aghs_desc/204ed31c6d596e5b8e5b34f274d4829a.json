@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Medusa Aghanim's Scepter: Split Shot now applies on-hit effects to secondary attacks and increases arrow count. This upgrade transforms Medusa into a hyper-efficient multi-target damage dealer, countering high-armor or evasion-heavy lineups by spreading item-based effects like Maelstrom procs or Skadi slows across multiple enemies.",
+    "search_text": "Medusa Aghanim Scepter Split Shot on-hit effects multi-target damage counter-armor counter-evasion item procs",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Medusa",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Medusa Aghanim's Shard: Cold Blooded automatically retaliates against spellcasters with a single-target Mystic Snake that petrifies them. This is a powerful anti-caster mechanic, punishing aggressive spell usage and disrupting enemy combos by turning initiators into stone mid-engagement.",
+    "search_text": "Medusa Aghanim Shard Cold Blooded anti-caster spell retaliation petrify counter-initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Medusa",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

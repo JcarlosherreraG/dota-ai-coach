@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Elixir, Tier ???/Event: Consumable with 3 charges that restores 500 health and 250 mana to a target hero over 6 seconds. The healing effect is dispelled if the target takes damage from an enemy hero or Roshan. Stats: Charges: 3, Health Restored: 500, Mana Restored: 250, Duration: 6s.",
+    "search_text": "elixir item, consumable heal, consumable mana, health and mana, sustain consumable, team fight sustain, burst heal, burst mana, post fight recovery, health mana combo, Elixir",
+    "tags": [
+      "ITEM_DATA",
+      "ELIXIR",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "EVENT",
+      "CONSUMABLE",
+      "HEALTH",
+      "MANA",
+      "SUSTAIN",
+      "DISPELLABLE"
+    ]
+  }
+]

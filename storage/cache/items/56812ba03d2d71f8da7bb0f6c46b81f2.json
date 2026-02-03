@@ -1,0 +1,71 @@
+[
+  {
+    "display_text": "Gem of True Sight, Cost: 900: Permanent item that grants the carrier True Sight, revealing invisible units and wards to all allied vision within a 900 radius. Its active ability reveals a 300 radius area for 4 seconds, even through fog of war. Dropped on death but cannot be destroyed, making its retrieval a key objective. Stats: CD: 12s, Passive Radius: 900, Active Radius: 300, Duration: 4s.",
+    "search_text": "true sight item, detection item, invis counter, reveal invis, true vision, deward, vision control, ward detection, see invisible, gem carrier, risk reward item, Gem of True Sight, gem, true sight gem, anti-invis, permanent detection, dropped on death",
+    "tags": [
+      "ITEM_DATA",
+      "GEM_OF_TRUE_SIGHT",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "VISION",
+      "DETECTION",
+      "TRUE_SIGHT",
+      "VS_INVIS",
+      "SUPPORT_ITEM",
+      "HIGH_RISK"
+    ]
+  },
+  {
+    "display_text": "Gem of True Sight, Cost: 900: Does not provide any bonus attributes or stats. The value lies entirely in its powerful detection utility, making it a slot-efficient vision tool for supports or initiators when detection is the primary need. Stats: No bonus stats.",
+    "search_text": "gem stats, gem of true sight stats, no stats item, vision only item, utility only, slot efficiency, pure utility, Gem of True Sight",
+    "tags": [
+      "ITEM_DATA",
+      "GEM_OF_TRUE_SIGHT",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "UTILITY",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "Gem of True Sight, Cost: 900: Core team fight and map control item. The 900 radius True Sight aura enables aggressive pushes and defensive holds against invisibility-based heroes, providing constant vision and dewarding pressure. Losing the gem grants the enemy team a significant advantage. Stats: N/A.",
+    "search_text": "gem team fight, map control item, team vision, vision control item, dewarding tool, push detection, hold high ground, counter invis team fight, team utility, Gem of True Sight",
+    "tags": [
+      "ITEM_DATA",
+      "GEM_OF_TRUE_SIGHT",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "VISION",
+      "DETECTION",
+      "MAP_CONTROL",
+      "TEAM_UTILITY"
+    ]
+  },
+  {
+    "display_text": "Gem of True Sight, Cost: 900: Counter-pick item against heavy invisibility lineups (Riki, Clinkz, Bounty Hunter). The permanent detection shuts down enemy escape and initiation. Prioritize purchase after winning a team fight or gaining a significant lead to minimize the risk of dropping it. Stats: N/A.",
+    "search_text": "gem vs invis, invisibility counter item, counter riki, counter clinkz, anti-invis lineup, vs invisible heroes, detection against stealth, gank detection, Gem of True Sight",
+    "tags": [
+      "ITEM_DATA",
+      "GEM_OF_TRUE_SIGHT",
+      "SITUATIONAL_VS_INVIS",
+      "FULL_ITEM",
+      "VS_INVIS",
+      "COUNTER_PICK",
+      "HIGH_RISK"
+    ]
+  },
+  {
+    "display_text": "Gem of True Sight, Cost: 900: Situational purchase for team leaders or initiators who can survive fights and control vision. Ideal timing is during mid-late game when teams group for objectives like Roshan or high ground. Crucial for securing vision dominance and pressuring enemy wards around key objectives. Stats: N/A.",
+    "search_text": "gem timing, when to buy gem, mid game gem, late game vision, roshan vision, high ground vision, objective control, vision dominance, gem carrier role, Gem of True Sight",
+    "tags": [
+      "ITEM_DATA",
+      "GEM_OF_TRUE_SIGHT",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "INITIATOR_ITEM",
+      "TIMING",
+      "OBJECTIVE_CONTROL"
+    ]
+  }
+]

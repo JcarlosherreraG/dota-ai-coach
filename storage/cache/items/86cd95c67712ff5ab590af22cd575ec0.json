@@ -1,0 +1,15 @@
+[
+  {
+    "display_text": "Broadsword, Cost: 1000: A basic component item providing +15 damage. Used as a building block for more advanced damage and attack items. It provides no other stats or active abilities. Stats: Damage: +15.",
+    "search_text": "broadsword component, +15 damage, damage item component, early game damage, physical damage component, carry item component, Broadsword",
+    "tags": [
+      "ITEM_DATA",
+      "BROADSWORD",
+      "CORE_DESCRIPTION",
+      "COMPONENT",
+      "DAMAGE",
+      "PHYSICAL_DAMAGE",
+      "CARRY_ITEM"
+    ]
+  }
+]

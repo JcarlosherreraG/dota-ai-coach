@@ -1,0 +1,73 @@
+[
+  {
+    "display_text": "Aether Lens, Cost: 2275: Purchasable item that increases cast range by 225 and provides significant mana sustain with +300 Mana and +2.5 Mana Regeneration. A crucial utility tool for spellcasting heroes to position safely and cast more abilities in fights. Stats: CD: N/A, Mana: +300, Mana Regen: +2.5, Cast Range Bonus: 225.",
+    "search_text": "cast range item, range increase, mana sustain, mana regen item, spellcaster item, utility support, safe positioning, spell range, int item, magic item, aether lens, mana pool, mana item, utility item, casting range, nuker item",
+    "tags": [
+      "ITEM_DATA",
+      "AETHER_LENS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "UTILITY",
+      "MANA",
+      "MANA_REGEN",
+      "CAST_RANGE",
+      "SUPPORT_ITEM",
+      "INTELLIGENCE"
+    ]
+  },
+  {
+    "display_text": "Aether Lens, Cost: 2275: Provides a pure stat profile focused on mana and casting utility: +300 Mana and +2.5 Mana Regeneration. Does not grant attributes like Intelligence, Strength, or Agility, or attack damage. The value is in its unique cast range enhancement and mana pool for spell usage.",
+    "search_text": "aether lens stats, mana stats, cast range stats, no attributes, utility stats, mana pool, mana regen, pure utility, spellcaster stats, int caster item, Aether Lens",
+    "tags": [
+      "ITEM_DATA",
+      "AETHER_LENS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "MANA",
+      "MANA_REGEN",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Aether Lens, Cost: 2275: Enhances a hero's team fight role by allowing them to contribute from a safer, more distant position. The cast range bonus enables spells like stuns, hexes, and nukes to be cast from outside typical counter-initiation range, improving a spellcaster's survivability and control potential.",
+    "search_text": "team fight positioning, safe casting, backline caster, range advantage, control positioning, initiation range, counter-initiation, backline support, spellcaster safety, utility in fights, Aether Lens",
+    "tags": [
+      "ITEM_DATA",
+      "AETHER_LENS",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "POSITIONING",
+      "SAVE",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Aether Lens, Cost: 2275: Strong synergy with heroes who rely on long-range or critical single-target spells, such as Lion, Pudge, or Skywrath Mage, amplifying their catch or burst potential. The mana pool and regen also support heroes with high-cost abilities. Builds from Energy Booster and Void Stone.",
+    "search_text": "aether lens synergy, long range spells, catch item, burst item, lion item, pudge item, skywrath item, mana caster, int core, spell amplification, support build, Aether Lens",
+    "tags": [
+      "ITEM_DATA",
+      "AETHER_LENS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CAST_RANGE",
+      "UTILITY",
+      "SUPPORT_ITEM",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Aether Lens, Cost: 2275: Provides limited defensive utility against heroes with gap-closing abilities by allowing spellcasters to maintain distance. However, it offers no direct counters to magic damage, physical burst, or disables. The situational value is purely offensive positioning, not defensive stats.",
+    "search_text": "vs gap close, vs melee, positioning vs initiators, range vs melee, counter mobility, kiting item, distance keeper, vs physical, no defense, Aether Lens",
+    "tags": [
+      "ITEM_DATA",
+      "AETHER_LENS",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "POSITIONING",
+      "UTILITY",
+      "VS_MOBILE"
+    ]
+  }
+]

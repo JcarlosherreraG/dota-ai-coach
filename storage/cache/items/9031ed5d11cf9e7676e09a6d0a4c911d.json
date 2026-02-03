@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Iron Talon, Cost: 0: A non-purchasable neutral item that instantly destroys a tree from 450 range. When cast on a non-player enemy unit, it removes 80% of their current HP. Enables clearing trees for vision or pathing. Stats: CD: 15s (4s for trees), Cast Range: 450 (trees), Creep Damage: 80% current HP.",
+    "search_text": "chop tree item, destroy tree neutral, iron talon, tree clearing, neutral creep damage, remove tree vision, jungle utility, pathing neutral, Iron Talon",
+    "tags": [
+      "ITEM_DATA",
+      "IRON_TALON",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "JUNGLE_UTILITY",
+      "VISION_CONTROL",
+      "TREE_CLEAR",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "display_text": "Quelling Blade, Cost: 100: Low-cost utility component that chops down trees and increases attack damage against non-hero units. The Chop ability destroys a targeted tree within 350 range on a 4-second cooldown. The passive Quell effect grants +8 damage for melee heroes and +4 for ranged heroes specifically against creeps and other non-hero units. Useful for clearing paths, farming jungle camps faster, and itemizing against heavy forest area denial. Stats: CD: 4s, Range: 350, Bonus Damage: +8 (Melee) / +4 (Ranged).",
+    "search_text": "quelling blade, farming item, jungle item, chop trees, destroy trees, bonus damage to creeps, attack damage vs creeps, cost efficient farm, early game farm, creep damage, wave clear, attack damage, wood cutting, tree destruction, clear path, melee damage, ranged damage, creep farming, jungling item, Quelling Blade",
+    "tags": [
+      "ITEM_DATA",
+      "QUELLING_BLADE",
+      "CORE_MECHANICS",
+      "COMPONENT",
+      "FARMING_UTILITY",
+      "FARMING",
+      "DAMAGE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Quelling Blade, Cost: 100: Provides no primary attributes or defensive stats. Its stat profile consists solely of the Quell passive damage bonus against non-hero units, making it purely a farming acceleration and terrain manipulation tool. Value is derived from utility rather than combat stats.",
+    "search_text": "quelling blade stats, no stats, no attributes, farming damage, creep damage only, utility stats, component stats, Quelling Blade",
+    "tags": [
+      "ITEM_DATA",
+      "QUELLING_BLADE",
+      "STAT_PROFILE",
+      "COMPONENT",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Quelling Blade, Cost: 100: Primarily accelerates early game farming speed for both melee and ranged cores, allowing them to secure last hits more easily and clear jungle camps faster. The tree destruction capability provides utility for creating vision paths, juking, or escaping through forests. It has minimal direct impact on team fights.",
+    "search_text": "early game farming, jungle clear, accelerate farm, last hit helper, creep clear, path creation, tree cut, vision line, juke path, terrain manipulation, farm efficiency, farming tool, Quelling Blade",
+    "tags": [
+      "ITEM_DATA",
+      "QUELLING_BLADE",
+      "FARMING_UTILITY",
+      "COMPONENT",
+      "FARMING",
+      "WAVECLEAR",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Quelling Blade, Cost: 100: Highly synergistic on melee position 1 heroes (like Anti-Mage, Faceless Void) looking to accelerate jungle farm early. Also effective on ranged heroes who struggle with last-hitting or want to clear stacked camps faster. The utility pairs well with heroes who use tree line of sight for abilities (like Nature's Prophet, Hoodwink).",
+    "search_text": "melee carry farm, ranged carry farm, last hit help, farming hero item, jungle hero, stack clear, tree line of sight, terrain ability synergy, Nature's Prophet item, Hoodwink item, Quelling Blade",
+    "tags": [
+      "ITEM_DATA",
+      "QUELLING_BLADE",
+      "SYNERGY_BUILD",
+      "COMPONENT",
+      "FARMING",
+      "CARRY_ITEM",
+      "UTILITY"
+    ]
+  }
+]

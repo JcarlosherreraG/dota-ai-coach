@@ -1,0 +1,14 @@
+[
+  {
+    "display_text": "Ofrenda - Beloved Memory, Tier N/A (Non-Purchasable): An Offering that can be placed on an Altar to honor the dead. Its sole ability honors the dead with a memory, targeted on friendly buildings. Provides no stat bonuses. This item is for event or tribute mechanics. Stats: CD: 3s, Cast Speed: 1000.",
+    "search_text": "non-purchasable item, event item, tribute item, offering, altar item, honor the dead, Beloved Memory, Ofrenda, placeable item, cosmetic mechanic, side mechanic, lore item",
+    "tags": [
+      "ITEM_DATA",
+      "BELOVED_MEMORY",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "EVENT",
+      "UTILITY"
+    ]
+  }
+]

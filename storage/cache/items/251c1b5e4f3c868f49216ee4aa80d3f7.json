@@ -1,0 +1,87 @@
+[
+  {
+    "display_text": "Glimmer Cape, Cost: 2150: Provides a targeted defensive active that grants a 375 magic damage barrier, 20% Magic Resistance, and invisibility after a 0.5s fade to you or an ally for 5 seconds. This can be used while channeling. Primarily a support save item to protect fragile allies against magic damage burst or to enable repositioning. Stats: CD: 15s, Mana: 125, Magic Barrier: 375, Duration: 5s, Fade Delay: 0.5s.",
+    "search_text": "save item, magic resistance item, defensive support item, save teammate, protect ally, magic barrier, invisibility save, purgeable save, channeling save, magic damage counter, counter magic burst, invisible save, Glimmer Cape, glimmer, support defensive, team fight save, cast while channeling",
+    "tags": [
+      "ITEM_DATA",
+      "GLIMMER_CAPE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "SUPPORT_ITEM",
+      "UTILITY",
+      "TEAMFIGHT_ROLE",
+      "VS_MAGIC",
+      "MAGIC_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "Glimmer Cape, Cost: 2150: Provides +20% Magic Resistance. No raw attributes like Strength or Agility. The item's value is derived entirely from its defensive active ability and magic resistance aura. Stats: Magic Resistance: +20%.",
+    "search_text": "glimmer cape stats, magic resistance stats, defensive stats, support stats, Glimmer Cape",
+    "tags": [
+      "ITEM_DATA",
+      "GLIMMER_CAPE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "MAGIC_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "Glimmer Cape, Cost: 2150: Core defensive support item in team fights to save key teammates. The barrier and invisibility disrupt enemy targeting and focus fire, allowing allies to survive or escape lethal magic burst. It excels at countering lineups heavy with magic damage nukes and delayed disables. Stats: CD: 15s, Magic Barrier: 375.",
+    "search_text": "team fight save, magic damage save, save in fight, support role, anti-burst, protect carry, defensive support, team utility, magic nuke counter, Glimmer Cape",
+    "tags": [
+      "ITEM_DATA",
+      "GLIMMER_CAPE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "SAVE",
+      "DEFENSIVE",
+      "SUPPORT_ITEM",
+      "VS_MAGIC",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Glimmer Cape, Cost: 2150: Situational counter to enemy lineups that rely on high magic damage or single-target nukes. The magic barrier and resistance directly reduce the effectiveness of magical burst combos. The invisibility can also delay or prevent follow-up physical attacks. Stats: Magic Resistance: +20%, Magic Barrier: 375.",
+    "search_text": "counter magic, magic burst counter, magic damage counter, magic nuke counter, defensive item, save vs magic, anti-magic item, situational vs magic, Glimmer Cape",
+    "tags": [
+      "ITEM_DATA",
+      "GLIMMER_CAPE",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_MAGIC",
+      "DEFENSIVE",
+      "SAVE",
+      "VS_MAGIC",
+      "MAGIC_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "Glimmer Cape, Cost: 2150: Situational for countering heroes with channeling or long-cast-time abilities. Because it can be cast while channeling, it allows heroes like Crystal Maiden or Witch Doctor to complete their ultimates while gaining magic protection and the chance to become invisible. It's a strong save for heroes who are stunned or rooted. Stats: CD: 15s, Magic Barrier: 375.",
+    "search_text": "cast while channeling, channeling save, save while channeling, channeling protection, ultimate protection, save from stun, disable counter, rooting counter, Glimmer Cape",
+    "tags": [
+      "ITEM_DATA",
+      "GLIMMER_CAPE",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_CONTROL",
+      "SAVE",
+      "DEFENSIVE",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Glimmer Cape, Cost: 2150: High synergy for heroes who need to protect themselves while casting stationary spells, such as Crystal Maiden, Witch Doctor, or Bane. Also a natural purchase for position 4/5 supports looking for a reliable save tool to counter enemy magic cores like Zeus or Lina. The build-up is relatively smooth with Shadow Amulet and Cloak.",
+    "search_text": "glimmer synergy, support synergy, crystal maiden, witch doctor, bane, channeling hero, shadow amulet build, support item build, defensive build, Glimmer Cape",
+    "tags": [
+      "ITEM_DATA",
+      "GLIMMER_CAPE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "SUPPORT_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "UTILITY"
+    ]
+  }
+]

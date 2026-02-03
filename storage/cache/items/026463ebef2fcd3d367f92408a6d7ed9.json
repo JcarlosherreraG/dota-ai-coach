@@ -1,0 +1,46 @@
+[
+  {
+    "display_text": "Dust of Appearance, Cost: 80: Consumable item that creates a large area (1050 radius) for 12 seconds, granting True Sight and applying a -20% movement slow to revealed invisible enemy units. The slow debuff persists for 8 seconds after leaving the area, and revealed units take 25 damage. Essential tool for countering invisibility ganks and controlling vision during engagements. Stats: CD: 30s, Duration: 12s, Slow: -20%, Damage: 25, Radius: 1050, Linger Duration: 8s.",
+    "search_text": "detection item, invis counter, reveal invis, true sight, dust, see invisible, anti-invis, counter gank, vision control, deward, support item, consumable detection, cheap detection, Dust of Appearance, reveal, slow, reveal area, invisible heroes",
+    "tags": [
+      "ITEM_DATA",
+      "DUST_OF_APPEARANCE",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "DETECTION",
+      "TRUE_SIGHT",
+      "VS_INVIS",
+      "VISION",
+      "SLOW",
+      "DEBUFF"
+    ]
+  },
+  {
+    "display_text": "Dust of Appearance, Cost: 80: Critical early-game item for laning supports to provide security against roaming invisible heroes like Riki or Bounty Hunter. Carrying Dust deters ganks and allows you to secure kills on low-health invisible targets trying to escape. Its low cost makes it a staple for vision control in the first 10-15 minutes.",
+    "search_text": "early game detection, support starting item, counter roamer, anti-gank item, laning vision, secure kills, catch invisible, escape counter, Dust of Appearance, early game, support",
+    "tags": [
+      "ITEM_DATA",
+      "DUST_OF_APPEARANCE",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "SUPPORT_ITEM",
+      "LANING",
+      "VS_INVIS",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Dust of Appearance, Cost: 80: Use proactively before entering high-ground or Roshan pit to reveal sentry wards or invisible heroes. The area slow makes it effective for chasing down elusive invisibility-based heroes. Always carry at least one charge during team fights or when pushing against heroes with escape or initiation via invisibility.",
+    "search_text": "situational dust, high ground vision, roshan vision, push detection, team fight detection, chase invisible, sentry ward reveal, area slow, chasing tool, Dust of Appearance, situational use",
+    "tags": [
+      "ITEM_DATA",
+      "DUST_OF_APPEARANCE",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "VS_INVIS",
+      "VISION",
+      "SITUATIONAL_VS_INVIS",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "display_text": "Razor is a Ranged Agility hero with a base Agility of 24 and Strength of 22, making him somewhat durable but not exceptional. His base attack time of 1.7 seconds is standard. His base movement speed is average, but his level-scaling passive, Unstable Current, grants him 1% bonus movement speed per hero level.",
+    "search_text": "Razor base stats ranged agility hero attack rate 1.7 strength 22 agility 24 int 21",
+    "tags": [
+      "RAZOR",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Razor has two facets. The Thunderhead facet causes Storm Surge to strike more often and hit all units within Eye of the Storm's area of effect when it is active. This greatly enhances his area damage and control during his ultimate. The Spell Amplification facet simply provides a flat bonus to spell damage.",
+    "search_text": "Facet Thunderhead Storm Surge Eye of the Storm area effect more strikes. Facet Spell Amplification bonus spell damage.",
+    "tags": [
+      "RAZOR",
+      "FACET_STRATEGY",
+      "THUNDERHEAD",
+      "SPELL_AMP"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Plasma Field (Q) to secure ranged creep last hits and harass enemies simultaneously. The ability deals damage twice and the slow/damage increases with distance. Use Static Link (W) at level 2 or 3 to drain enemy core damage for up to 18 seconds, securing last hits and denying theirs. His passive movement speed increase helps with positioning. Prioritize levels in Plasma Field for wave clear and harassment.",
+    "search_text": "Laning Phase early game last hit harass Plasma Field Q Static Link W steal damage movement speed positioning",
+    "tags": [
+      "RAZOR",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Razor's first power spike is at level 6 with Eye of the Storm, allowing him to pressure towers and win early fights. Level 12 is significant for maxing Static Link. The level 15 talent (+5 Static Link Damage Steal) is a major damage spike. Level 18 is for max ultimate. The level 20 talent (+25% Storm Surge Slow and Damage) and level 25 talents (Second Plasma Field or Static Link Steals Attack Speed) are massive late-game spikes. Key item spikes are Phase Boots for chase, Dragon Lance for range, and BKB for uninterrupted channeling.",
+    "search_text": "Power Spike level 6 Eye of the Storm ult level 12 max Static Link level 15 talent damage steal level 20 talent storm surge level 25 talent Phase Boots BKB Dragon Lance",
+    "tags": [
+      "RAZOR",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Razor is hard-countered by heroes with Break (e.g., Silver Edge, Viper) which disables his Unstable Current movement speed and Storm Surge passive. Instant disables or silences can prevent him from casting Static Link or escaping. High mobility heroes can break his Static Link tether range (250 buffer beyond 550 cast range). Pure burst damage can kill him before he drains significant damage.",
+    "search_text": "Counters Break Silver Edge Viper disable Unstable Current Storm Surge silence stop Static Link mobility break tether 250 range burst damage",
+    "tags": [
+      "RAZOR",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Razor's core build is non-negotiable. Phase Boots provide needed movement speed and armor. Dragon Lance (or Hurricane Pike) increases his attack range, making it harder to break Static Link and letting him attack safely. Black King Bar is essential to channel Static Link and stand in fights for his ultimate without being disabled.",
+    "search_text": "Core Items Phase Boots Dragon Lance Hurricane Pike Black King Bar BKB essential must have",
+    "tags": [
+      "RAZOR",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Razor's primary role is to be a front-line damage drainer and area-of-effect nuisance. He should initiate or counter-initiate by using Static Link on the enemy's highest physical damage dealer, significantly reducing their threat. Activate Eye of the Storm to shred armor and deal damage to low-health targets. Use Plasma Field to slow multiple enemies. His job is to absorb spells (proccing Storm Surge), drain damage, and create chaos with his persistent AoE damage.",
+    "search_text": "Teamfight role front line damage drainer Static Link steal damage Eye of the Storm armor reduction AoE Plasma Field slow Storm Surge proc",
+    "tags": [
+      "RAZOR",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Plasma Field releases a wave that expands and contracts over 2.2 seconds, hitting enemies twice. Deals 35-80/40-115/45-150/50-185 damage based on distance from Razor. Slows enemies by 5-25%/5-30%/5-35%/5-40% for 1.5 seconds, with the slow also scaling with distance. Radius is 700. Does NOT pierce BKB.",
+    "search_text": "Plasma Field Q ability wave expand contract damage 35-80 40-115 45-150 50-185 slow 5-25 5-30 5-35 5-40 duration 1.5 radius 700 AoE nuke slow",
+    "tags": [
+      "RAZOR",
+      "ABILITY_DATA",
+      "PLASMA_FIELD"
+    ]
+  },
+  {
+    "display_text": "Static Link creates a tether to an enemy hero within 550 range for 12/14/16/18 seconds, stealing 5/10/15/20 damage per second and granting it to Razor. The link breaks if the distance exceeds 800 (550 cast + 250 buffer) or if either unit dies. Razor can attack and move freely while the link is active. Provides vision of the target for 3.34 seconds. Does NOT pierce BKB.",
+    "search_text": "Static Link W tether steal damage 5 10 15 20 per second duration 12 14 16 18 cast range 550 break range 800 buffer 250 vision 3.34",
+    "tags": [
+      "RAZOR",
+      "ABILITY_DATA",
+      "STATIC_LINK"
+    ]
+  },
+  {
+    "display_text": "Storm Surge is a passive ability. When Razor is attacked, there is a 20% chance, and when he is targeted by a spell, it always procs. It releases a forked lightning that strikes the attacker and 2 other nearby enemies (3 total), dealing 50/90/130/170 damage and slowing movement speed by 25%/30%/35%/40% for 1.0 second. Search radius is 700. Prioritizes the unit type of the attacker (hero/creep). Does NOT pierce BKB.",
+    "search_text": "Storm Surge passive E proc on attacked 20% chance on spell targeted always lightning strike damage 50 90 130 170 slow 25 30 35 40 duration 1.0 targets 3 radius 700",
+    "tags": [
+      "RAZOR",
+      "ABILITY_DATA",
+      "STORM_SURGE"
+    ]
+  },
+  {
+    "display_text": "Unstable Current is a passive ability that grants Razor 1% bonus movement speed per hero level.",
+    "search_text": "Unstable Current passive movement speed 1% per hero level",
+    "tags": [
+      "RAZOR",
+      "ABILITY_DATA",
+      "UNSTABLE_CURRENT"
+    ]
+  },
+  {
+    "display_text": "Eye of the Storm summons a lightning storm that lasts 30 seconds. It strikes the lowest health enemy unit within 500 range every 0.7/0.6/0.5 seconds, dealing 60/75/90 damage and reducing their armor by 1 per strike. Successive casts stack. The storm will prioritize striking heroes affected by Static Link.",
+    "search_text": "Eye of the Storm ultimate R lightning storm duration 30 strike interval 0.7 0.6 0.5 damage 60 75 90 armor reduction 1 radius 500 priority lowest health Static Link",
+    "tags": [
+      "RAZOR",
+      "ABILITY_DATA",
+      "EYE_OF_THE_STORM"
+    ]
+  },
+  {
+    "display_text": "Against illusion or summon-based heroes (e.g., Phantom Lancer, Broodmother), Razor excels. His Eye of the Storm with the Thunderhead facet will constantly proc Storm Surge on all units in the area, dealing massive AoE damage. Build items like Mjollnir and Shiva's Guard to further amplify his area clear.",
+    "search_text": "Situational vs illusions summons PL Broodmother Thunderhead facet Eye of the Storm Storm Surge AoE clear Mjollnir Shiva's Guard",
+    "tags": [
+      "RAZOR",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, Razor should focus on split-pushing with Plasma Field for wave clear and his movement speed to escape. Avoid 5v5 fights. Use Static Link defensively to drain damage from a diving core. Itemize for survival (e.g., Sange and Yasha, Heaven's Halberd) and pick the level 25 talent that creates a second Plasma Field to enhance wave clear and teamfight disruption from a distance.",
+    "search_text": "Situational playing from behind split push Plasma Field wave clear escape Static Link defensive drain survival items Sange Yasha Halberd talent second Plasma Field",
+    "tags": [
+      "RAZOR",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "When the enemy has high physical burst (e.g., PA, Clinkz), Razor must prioritize linking them immediately in fights. Build armor items like Assault Cuirass and Shiva's Guard. The level 25 talent that lets Static Link also steal attack speed is extremely valuable here to cripple their DPS.",
+    "search_text": "Situational vs high physical burst PA Clinkz Static Link priority armor items Assault Cuirass Shiva's Guard talent steal attack speed",
+    "tags": [
+      "RAZOR",
+      "SITUATIONAL",
+      "VS_PHYSICAL_BURST"
+    ]
+  },
+  {
+    "display_text": "Against heavy magic damage and silence lineups (e.g., Skywrath, Silencer), Razor needs a dispel. Lotus Orb is ideal as it can reflect silences and allows him to keep Static Link active. BKB timing is also critical. The Spell Amplification facet can be considered to increase his magic damage output if he can survive.",
+    "search_text": "Situational vs magic damage silences Skywrath Silencer dispel Lotus Orb BKB Spell Amplification facet",
+    "tags": [
+      "RAZOR",
+      "SITUATIONAL",
+      "VS_MAGIC_SILENCE"
+    ]
+  },
+  {
+    "display_text": "At Level 10, choose between +0.75s Plasma Field Slow Duration or +10% Spell Lifesteal. The slow duration is better for chase and kiting, making Plasma Field a stronger control tool. Spell Lifesteal is better if you are facing constant harass and need sustain, as it works on all your spell damage.",
+    "search_text": "Talent Level 10 left +0.75s Plasma Field slow duration right +10% Spell Lifesteal sustain",
+    "tags": [
+      "RAZOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At Level 15, choose between +5 Static Link Damage Steal or +12 Strength. The +5 Damage Steal is a massive DPS increase, taking an extra 100/140/180/216 damage over the full link duration. This is almost always the choice. The +12 Strength (228 HP) is only for survival in games where you are being instantly focused and cannot maintain the link.",
+    "search_text": "Talent Level 15 left +5 Static Link Damage Steal per second right +12 Strength health survival",
+    "tags": [
+      "RAZOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At Level 20, choose between +25% Storm Surge Slow and Damage or -0.1s Eye of the Storm Strike Interval. The +25% Storm Surge boost increases its damage to 62.5/112.5/162.5/212.5 and slow to 31.25%/37.5%/43.75%/50%, making your passive significantly more impactful. The reduced strike interval (to 0.6/0.5/0.4) increases ultimate DPS and armor reduction frequency. Choose Storm Surge for general teamfight power, and Eye interval if you need to melt a single high-armor target.",
+    "search_text": "Talent Level 20 left +25% Storm Surge slow damage right -0.1s Eye of the Storm strike interval",
+    "tags": [
+      "RAZOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At Level 25, choose between Creates A Second Plasma Field Delayed By 0.8s or Static Link Steals Attack Speed. The second Plasma Field does less damage (data shows 0% reduction in this batch, but often reduced) but provides enormous area control and damage. Static Link Steals Attack Speed transforms the ability, crippling enemy carries' DPS while boosting your own. Choose the second Plasma Field for overwhelming AoE in big teamfights. Choose Attack Speed steal against single, powerful right-click cores like Troll Warlord or Faceless Void.",
+    "search_text": "Talent Level 25 left second Plasma Field delayed 0.8s right Static Link steals attack speed",
+    "tags": [
+      "RAZOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

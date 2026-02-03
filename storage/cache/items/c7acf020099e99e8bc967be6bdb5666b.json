@@ -1,0 +1,73 @@
+[
+  {
+    "display_text": "Spirit Vessel, Cost: 2725: Active ability 'Soul Release' targets an enemy hero to drain 4% of their current health per second and reduce their healing and regeneration by 70% for 8 seconds, dealing 25 damage per second. Targets an allied hero to provide 40 health regeneration per second for 8 seconds. Gains charges when an enemy hero dies nearby or the user dies. Critical for amplifying damage against high-health targets and countering healing. Stats: CD: 10s, Duration: 8s, Charges Gain Radius: 1500.",
+    "search_text": "heal reduction item, anti-heal item, healing counter, stop healing, reduce healing, health drain, current hp damage, health regeneration item, heal allies, support item, Spirit Vessel, Urn upgrade, heal amp, regeneration reduction, amplification, Soul Release, death charge, charges on kill",
+    "tags": [
+      "ITEM_DATA",
+      "SPIRIT_VESSEL",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "HEAL_REDUCTION",
+      "ANTI_HEAL",
+      "VS_HEALERS",
+      "REGEN",
+      "SUSTAIN",
+      "DEBUFF",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Spirit Vessel, Cost: 2725: Provides +10 to all attributes, +2 armor, and +1.75 mana regeneration. Balanced stats offer defensive and mana sustainability. No bonus health directly from item. Stats: All Stats: +10, Armor: +2, Mana Regen: +1.75.",
+    "search_text": "Spirit Vessel stats, attribute item, stats item, all stats, armor item, mana regen item, Spirit Vessel, stats",
+    "tags": [
+      "ITEM_DATA",
+      "SPIRIT_VESSEL",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ALL_STATS",
+      "ARMOR",
+      "MANA_REGEN",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Spirit Vessel, Cost: 2725: Team fight role centers on dramatically weakening tanky, high-healing enemies and sustaining frontline allies. The active amplifies damage against durable cores by scaling with their current HP and cuts through their regeneration, while simultaneously providing significant heal-over-time to your own heroes. It is a pivotal item for tipping long engagements in your favor.",
+    "search_text": "team fight item, sustain allies, weaken tanks, support team fight, anti-tank item, durable hero counter, team sustain, fight longevity, team utility, Spirit Vessel",
+    "tags": [
+      "ITEM_DATA",
+      "SPIRIT_VESSEL",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "UTILITY",
+      "BUFF",
+      "DEBUFF"
+    ]
+  },
+  {
+    "display_text": "Spirit Vessel, Cost: 2725: Situational against heroes reliant on healing or regeneration, such as Huskar, Alchemist, or Morphling. The 70% healing reduction significantly neuters their survivability, and the percentage-based health drain is highly effective against high-HP targets. It's also strong in drawn-out fights where the sustained heal and damage over time have maximum impact.",
+    "search_text": "counter healing heroes, vs healers, anti heal counter, Huskar counter, Alchemist counter, Morphling counter, regeneration counter, sustain counter, Spirit Vessel",
+    "tags": [
+      "ITEM_DATA",
+      "SPIRIT_VESSEL",
+      "SITUATIONAL_VS_HEALERS",
+      "FULL_ITEM",
+      "VS_HEALERS",
+      "ANTI_HEAL",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Spirit Vessel, Cost: 2725: Ideal for support heroes who can stay near fights to gain charges and consistently apply the debuff. Heroes who benefit from the all-around stats and can leverage both the offensive and defensive aspects of the active excel with it. It synergizes well with lineups that need to burst down durable enemies or sustain through prolonged engagements.",
+    "search_text": "Spirit Vessel support, which hero buys, hero synergy, support synergy, healer support, utility support, Spirit Vessel build",
+    "tags": [
+      "ITEM_DATA",
+      "SPIRIT_VESSEL",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Enhancement Alert, Tier 1 / Non-purchasable: Neutral item providing a permanent buff to the player who equips it. Grants bonus attack speed and attack range bonus at higher tiers, as well as increasing night vision. Essential for heroes who rely on attacking from the shadows. Stats: Attack Speed: +10 / +17 / +24 / +31, Attack Range (Melee \u0026 Ranged): +0 / +0 / +0 / +100, Night Vision: +0 / +150 / +225 / +300.",
+    "search_text": "enhancement alert, tier 1 neutral, neutral item, attack speed neutral, night vision neutral, vision item, ranged attack range, attack range neutral, passive neutral, vision bonus, range bonus, melee range, alert neutral, Enhancement Alert",
+    "tags": [
+      "ITEM_DATA",
+      "ENHANCEMENT_ALERT",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "ATTACK_SPEED",
+      "ATTACK_RANGE",
+      "VISION",
+      "NIGHT_VISION",
+      "UTILITY"
+    ]
+  }
+]

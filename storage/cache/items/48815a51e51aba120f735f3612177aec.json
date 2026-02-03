@@ -1,0 +1,71 @@
+[
+  {
+    "display_text": "Holy Locket, Cost: 2250: Activate on an ally to increase their incoming Heal Amplification by 10% for 4s and instantly restore health and mana based on charges stored (17 HP and 15 mana per charge). Automatically gains a charge every 10 seconds and whenever a visible enemy within 1200 range uses any ability. Provides a passive 15% boost to all heals you provide. Stats: CD: 13s, Max Charges: 25, Charge Radius: 1200.",
+    "search_text": "holy locket, heal amplification, heal booster, heal increase, health restore, mana restore, charge item, healing item, support item, save item, heal amplifier, incoming heal increase, energy charge, heal amp item, Holy Locket, mana sustain, HP sustain, support utility, defensive item, buff item",
+    "tags": [
+      "ITEM_DATA",
+      "HOLY_LOCKET",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "SAVE",
+      "DEFENSIVE",
+      "BUFF",
+      "HEALTH",
+      "MANA",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Holy Locket, Cost: 2250: Stat profile provides +7 to all attributes (Strength, Agility, Intelligence). The primary value lies in its powerful active and passive healing effects rather than raw attribute bonuses. No additional flat health or mana regeneration is provided.",
+    "search_text": "holy locket stats, stats holy locket, attributes holy locket, +7 all stats, all attribute item, support stats, Holy Locket",
+    "tags": [
+      "ITEM_DATA",
+      "HOLY_LOCKET",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "ATTRIBUTES",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Holy Locket, Cost: 2250: Core defensive support item for amplifying healing output in team fights. Use the active on key healing targets (like your carry or initiator) to significantly boost their survivability from all healing sources. The instant heal/mana burst can save allies on the brink of death or enable them to cast another crucial spell.",
+    "search_text": "team fight holy locket, support team fight item, defensive support, amplify healing, save ally, burst heal, mana restore team fight, team heal boost, healing in fight, Holy Locket",
+    "tags": [
+      "ITEM_DATA",
+      "HOLY_LOCKET",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DEFENSIVE",
+      "SAVE",
+      "SUPPORT_ITEM",
+      "BUFF"
+    ]
+  },
+  {
+    "display_text": "Holy Locket, Cost: 2250: Particularly effective against high sustained damage teams where keeping cores alive is paramount. The amplified healing helps counter damage-over-time effects and chip damage in prolonged engagements. Not ideal vs. instant burst compositions that kill heroes before sustained healing matters.",
+    "search_text": "holy locket counter, vs sustained damage, counter chip damage, anti burst item, healing vs damage over time, DOT counter, long fight item, Holy Locket",
+    "tags": [
+      "ITEM_DATA",
+      "HOLY_LOCKET",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_PHYSICAL",
+      "DEFENSIVE",
+      "SUSTAIN",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Holy Locket, Cost: 2250: Synergizes with heroes possessing strong innate healing or regeneration spells (Dazzle, Omniknight, Witch Doctor). Also powerful on supports who build other healing items (Mekansm, Guardian Greaves). Heroes who frequently cast spells near enemies will generate charges faster, maximizing its burst potential.",
+    "search_text": "holy locket synergy, healing hero synergy, support hero item, heal amp build, mana restore build, spellcaster support, charge generator, Holy Locket",
+    "tags": [
+      "ITEM_DATA",
+      "HOLY_LOCKET",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "SUPPORT_ITEM",
+      "HEALING",
+      "SYNERGY"
+    ]
+  }
+]

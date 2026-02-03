@@ -1,0 +1,244 @@
+[
+  {
+    "display_text": "Lone Druid is a ranged Universal hero with 1.6 base attack time. He has average base attributes: 20 Strength, 20 Agility, and 13 Intelligence. His starting attack range and armor are not specified in this data batch. His strength and agility gain are high (4.5 each), suggesting he becomes naturally tanky and gains good attack damage.",
+    "search_text": "Lone Druid stats ranged universal attack rate 1.6 strength 20 agility 20 intelligence 13 strength gain 4.5 agility gain 4.5",
+    "tags": [
+      "Lone Druid",
+      "BASE_STATS",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Facet: Bear with Me. This facet increases Spirit Link's Shared Armor and causes Lone Druid's attacks to heal the Spirit Bear. This significantly improves the survivability of the Spirit Bear, allowing it to frontline and tank more effectively. Ideal for a playstyle where the Bear is the primary focus and needs to stay alive to deal damage and apply crowd control.",
+    "search_text": "Lone Druid facet Bear with Me Spirit Link shared armor heal Spirit Bear with attacks",
+    "tags": [
+      "Lone Druid",
+      "FACET_STRATEGY",
+      "BEAR_WITH_ME"
+    ]
+  },
+  {
+    "display_text": "Facet: Unbearable. This facet makes True Form transform the Spirit Bear instead of Lone Druid and increases the distance from Lone Druid at which the Bear can attack. This changes Lone Druid's ultimate from a self-buff to a massive Bear buff, allowing the hero to stay safely at range while the Bear becomes an extremely powerful melee fighter with increased freedom to chase.",
+    "search_text": "Lone Druid facet Unbearable True Form transforms Spirit Bear not Lone Druid increases bear attack leash range",
+    "tags": [
+      "Lone Druid",
+      "FACET_STRATEGY",
+      "UNBEARABLE"
+    ]
+  },
+  {
+    "display_text": "Facet: Bear Necessities. This facet makes Lone Druid's items more powerful but his inventory is smaller. This encourages a hyper-carry playstyle on the Druid himself, focusing on buying a few expensive, high-impact items like Divine Rapier, while relying less on the Bear's items.",
+    "search_text": "Lone Druid facet Bear Necessities items more powerful inventory smaller",
+    "tags": [
+      "Lone Druid",
+      "FACET_STRATEGY",
+      "BEAR_NECESSITIES"
+    ]
+  },
+  {
+    "display_text": "Facet: Forbearance. This facet does nothing. It is a placeholder while the hero is attuning to nature. Do not select this facet.",
+    "search_text": "Lone Druid facet Forbearance does nothing placeholder",
+    "tags": [
+      "Lone Druid",
+      "FACET_STRATEGY",
+      "FORBEARANCE"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use the Spirit Bear to harass and secure last hits. Its high base HP (1500) and movespeed (310) make it strong. Use Entangle on the wave to apply stacks to creeps for easy last hits and potential roots on enemy heroes. Spirit Link provides movement speed (10/20/30/40 for Druid, 20/40/60/80 for Bear) and shared lifesteal, which is crucial for sustain. Position the Druid safely while the Bear trades.",
+    "search_text": "Lone Druid laning phase early game Spirit Bear harass last hit Entangle wave Spirit Link movement speed lifesteal",
+    "tags": [
+      "Lone Druid",
+      "LANING_PHASE",
+      "SPIRIT_BEAR"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 unlocks True Form or its Facet effect, providing a significant survivability and damage boost. Level 12 (maxed Entangle) provides strong fight control. Level 18 (maxed Savage Roar) gives a 2.0 second fear. The level 20 talents (+150 Savage Roar radius or +55 Attack Speed) are major spikes. The level 25 talent (True Form 60% Slow Resistance) makes the hero or bear nearly unstoppable.",
+    "search_text": "Lone Druid power spikes level 6 True Form level 12 max Entangle level 18 max Savage Roar level 20 talent 25 talent",
+    "tags": [
+      "Lone Druid",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_18",
+      "LEVEL_20",
+      "LEVEL_25"
+    ]
+  },
+  {
+    "display_text": "Lone Druid is hard-countered by heroes with Break (e.g., Silver Edge, Viper), which disables the shared lifesteal from Spirit Link. Heroes with strong AoE damage can kill the Spirit Bear, causing Lone Druid to take 20% of his max health as backlash damage. Instant disables like Hex prevent Savage Roar usage. High mobility heroes can kite the Bear.",
+    "search_text": "Lone Druid counters break Silver Edge Viper disables Spirit Link lifesteal AOE kill Spirit Bear backlash damage 20 percent max health hex disable Savage Roar kite",
+    "tags": [
+      "Lone Druid",
+      "HARD_COUNTERS",
+      "BREAK",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Core Build: Mask of Madness is essential for the Spirit Bear, providing attack speed and lifesteal that is shared with Lone Druid via Spirit Link. Assault Cuirass is a key late-game item for the Bear, providing armor and attack speed aura. For Lone Druid himself, items like Maelstrom and Skadi are strong.",
+    "search_text": "Lone Druid core items Mask of Madness Spirit Bear Assault Cuirass Maelstrom Skadi",
+    "tags": [
+      "Lone Druid",
+      "CORE_BUILD",
+      "MASK_OF_MADNESS",
+      "ASSAULT_CUIRASS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Lone Druid's role is split. The Spirit Bear should initiate or counter-initiate with Savage Roar (350 radius fear) and apply Entangle roots. Lone Druid stays at the back, attacking with ranged attacks. With the Unbearable facet, the Bear transformed by True Form becomes the main frontline fighter. Use Savage Roar to disrupt enemy positioning and save allies.",
+    "search_text": "Lone Druid teamfight role Spirit Bear initiate Savage Roar fear Entangle root Lone Druid backline ranged attack Unbearable facet True Form bear frontline",
+    "tags": [
+      "Lone Druid",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "DISABLER"
+    ]
+  },
+  {
+    "display_text": "Ability: Entangle. Cooldown: 20/19/18/17. Applies a stack counter to enemies. At 5 stacks, the enemy is rooted for 1.2/1.6/2.0/2.4 seconds and takes 90 damage. When cast, applies 2 stacks to heroes and 5 stacks to creeps in a 350 radius. Also empowers Lone Druid for 10 seconds, making his attacks apply 1 stack to heroes. The empowered buff and enemy stack debuff cannot be dispelled. The root debuff is dispellable. Does NOT pierce BKB.",
+    "search_text": "Entangle Lone Druid Q ability root 1.2 1.6 2.0 2.4 seconds 90 damage stack counter 5 stacks cast apply 2 heroes 5 creeps 350 radius empower 10 seconds attack apply stack dispellable does not pierce BKB",
+    "tags": [
+      "Lone Druid",
+      "ABILITY_DATA",
+      "ENTANGLE",
+      "ROOT",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Spirit Link. No cooldown or mana cost. Links Lone Druid and Spirit Bear for 20 seconds, increasing their movement speed (Druid: 10/20/30/40, Bear: 20/40/60/80) and sharing 15/30/45/60% of their lifesteal with each other. Break disables the shared lifesteal.",
+    "search_text": "Spirit Link Lone Druid W ability no cooldown no mana cost duration 20 seconds movement speed Druid 10 20 30 40 Bear 20 40 60 80 shared lifesteal 15 30 45 60 percent break disables",
+    "tags": [
+      "Lone Druid",
+      "ABILITY_DATA",
+      "SPIRIT_LINK",
+      "BUFF",
+      "LIFESTEAL",
+      "MOVEMENT_SPEED"
+    ]
+  },
+  {
+    "display_text": "Ability: Savage Roar. Cooldown: 29/26/23/20. Causes nearby enemies within 350 radius to flee in terror for 0.8/1.2/1.6/2.0 seconds. Increases Lone Druid and Spirit Bear's movement speed by 20% for the duration. Cooldown is shared with Spirit Bear. An entangled hero cannot move while feared. Does NOT pierce BKB.",
+    "search_text": "Savage Roar Lone Druid E ability fear 0.8 1.2 1.6 2.0 seconds radius 350 movement speed increase 20 percent shared cooldown with Spirit Bear entangled root prevents movement does not pierce BKB",
+    "tags": [
+      "Lone Druid",
+      "ABILITY_DATA",
+      "SAVAGE_ROAR",
+      "FEAR",
+      "DISABLE",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Ability: Summon Spirit Bear. Cooldown: 120. Summons a Spirit Bear companion with 1500 HP, 310 move speed, 1.5 base attack time, 25% magic resistance, and 0 armor. The Bear can equip items. If the Bear moves 1100 units away from Lone Druid, it cannot attack. If the Bear dies, Lone Druid takes 20% of his max health as damage. The Bear has its own Demolish, Return, Entangling Claws, Savage Roar, and Spirit Link abilities.",
+    "search_text": "Summon Spirit Bear Lone Druid ultimate R ability cooldown 120 bear stats 1500 HP 310 move speed 1.5 BAT 25 magic resistance 0 armor leash range 1100 backlash damage 20 percent max health Bear abilities Demolish Return Entangling Claws Savage Roar Spirit Link",
+    "tags": [
+      "Lone Druid",
+      "ABILITY_DATA",
+      "SUMMON_SPIRIT_BEAR",
+      "PET",
+      "SUMMON"
+    ]
+  },
+  {
+    "display_text": "Ability: True Form. Cooldown: 60/55/50. Lone Druid transforms into a bear over 1.933 seconds, gaining 500/1000/1500 bonus HP, 10/15/20 bonus armor, and 50/90/130 bonus attack damage for 25 seconds. He becomes melee. With the Unbearable facet, this transforms the Spirit Bear instead.",
+    "search_text": "True Form Lone Druid D ability transform cooldown 60 55 50 transformation time 1.933 duration 25 seconds bonus HP 500 1000 1500 bonus armor 10 15 20 bonus attack damage 50 90 130 becomes melee Unbearable facet transforms Spirit Bear",
+    "tags": [
+      "Lone Druid",
+      "ABILITY_DATA",
+      "TRUE_FORM",
+      "TRANSFORM",
+      "BUFF",
+      "SURVIVABILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Physical Damage. Build armor items like Assault Cuirass on the Spirit Bear and consider Vladimir's Offering for the team. The Bear with Me facet is strong here, as the shared armor increase and healing from Druid's attacks will keep the Bear alive. Use Savage Roar to peel for your backline.",
+    "search_text": "Lone Druid situation versus high physical damage armor Assault Cuirass Vladimir Offering Bear with Me facet shared armor heal Savage Roar peel",
+    "tags": [
+      "Lone Druid",
+      "SITUATIONAL",
+      "VS_PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on farming safely with the Spirit Bear split-pushing a different lane. Use Entangle to quickly clear waves. Build survivability items like Heart of Tarrasque on the Bear. Avoid fights until key items like Assault Cuirass are completed.",
+    "search_text": "Lone Druid situation playing from behind split push farm Entangle clear wave survivability items Heart of Tarrasque Bear avoid fights",
+    "tags": [
+      "Lone Druid",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "FARM"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion Heroes. Build Radiance on the Spirit Bear. The burn damage and miss chance are effective against illusions. Use Entangle and Savage Roar for area control. The Bear can tank illusion hits well with its high HP pool.",
+    "search_text": "Lone Druid situation versus illusion heroes Radiance Spirit Bear burn miss chance Entangle Savage Roar area control",
+    "tags": [
+      "Lone Druid",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Siege High Ground. Use the Spirit Bear's Demolish ability (inherent to the Bear) to take towers. Its high HP allows it to tank tower hits. Have Lone Druid stand safely back. Use Savage Roar if enemies jump on the Bear to cancel their initiation.",
+    "search_text": "Lone Druid situation siege high ground Spirit Bear Demolish ability take tower tank Savage Roar cancel initiation",
+    "tags": [
+      "Lone Druid",
+      "SITUATIONAL",
+      "SIEGE",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Multiple Disables. Build Black King Bar on Lone Druid himself to ensure he can cast Savage Roar and not be locked down. Consider Linken's Sphere for single-target spells. The Unbearable facet is good here, as it keeps the Druid at range and safer.",
+    "search_text": "Lone Druid situation enemy multiple disables Black King Bar BKB Savage Roar Linken Sphere Unbearable facet safe range",
+    "tags": [
+      "Lone Druid",
+      "SITUATIONAL",
+      "VS_DISABLES"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left talent reduces Summon Spirit Bear cooldown by 25 seconds. Right talent gives +12 Agility. Choose the cooldown reduction if you are facing a lot of pressure where your Bear might die frequently, or if you want more map presence with multiple Bears. Choose the Agility for more consistent damage, armor, and attack speed on Lone Druid.",
+    "search_text": "Lone Druid talent level 10 left -25s Summon Spirit Bear cooldown right +12 Agility cooldown reduction map presence agility damage armor attack speed",
+    "tags": [
+      "Lone Druid",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left talent adds +20 damage per second to Entangle's root. Right talent reduces Savage Roar cooldown by 5 seconds. Choose the Entangle damage if you are focusing on killing power and your Bear is reliably applying roots. Choose the Savage Roar cooldown if you need the defensive/disruptive fear more often in fights.",
+    "search_text": "Lone Druid talent level 15 left +20 Entangle Root Damage Per Second right -5s Savage Roar Cooldown damage killing power fear cooldown defensive disruptive",
+    "tags": [
+      "Lone Druid",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left talent increases Savage Roar radius by 150. Right talent gives +55 Attack Speed. Choose the radius if your team needs larger area control and you are having trouble catching key targets with the fear. Choose the attack speed for significantly higher DPS on both Lone Druid and the Spirit Bear.",
+    "search_text": "Lone Druid talent level 20 left +150 Savage Roar Radius right +55 Attack Speed area control fear catch targets DPS damage per second",
+    "tags": [
+      "Lone Druid",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: The available talent provides 60% Slow Resistance during True Form. This makes Lone Druid (or the Spirit Bear with the Unbearable facet) extremely hard to kite and lock down with slows, allowing him to stick to targets. The right talent choice is not present in this data batch.",
+    "search_text": "Lone Druid talent level 25 True Form provides 60 percent Slow Resistance slow resistance kite lock down Unbearable facet Spirit Bear",
+    "tags": [
+      "Lone Druid",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_25"
+    ]
+  }
+]

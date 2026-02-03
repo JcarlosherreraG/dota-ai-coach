@@ -1,0 +1,223 @@
+[
+  {
+    "display_text": "Jakiro is a ranged intelligence hero with a base attack time of 1.7 seconds. He has average starting attributes (25 Strength, 15 Agility, 26 Intelligence). His ranged attack type allows him to harass from a distance in lane.",
+    "search_text": "Jakiro stats attack type ranged base attack time 1.7 strength 25 agility 15 intelligence 26",
+    "tags": [
+      "JAKIRO",
+      "BASE_STATS",
+      "STATS",
+      "ATTACK_TYPE"
+    ]
+  },
+  {
+    "display_text": "Jakiro must choose two Facets from four options. Liquid Fire Facet provides AoE attack damage over time and attack speed slow, ideal for pushing lanes and towers. Liquid Frost Facet provides attack-based movement slow and a damage amplification debuff for your spells, better for ganking and bursting single targets. Twin Terror increases the damage of your double attacks, scaling with physical damage. Ice Breaker makes Ice Path last longer and detonate for a second stun and damage, enhancing crowd control.",
+    "search_text": "Jakiro facets jakiro_fire Liquid Fire Facet attack speed slow damage over time AoE jakiro_ice Liquid Frost Facet movement slow damage amplification debuff jakiro_twin_terror Twin Terror double attack damage jakiro_ice_breaker Ice Breaker Ice Path detonate stun",
+    "tags": [
+      "JAKIRO",
+      "FACET_STRATEGY",
+      "FACETS",
+      "PLAYSTYLE"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Dual Breath (850 cast range, 1025 total reach) to harass enemies with its slow and damage over time. Max Liquid Fire or Liquid Frost (depending on your chosen Facet) to pressure the lane and tower. Your low base agility means low armor; position safely. Use Ice Path for defensive setups or to secure kills with its 1.25 to 2.0 second stun.",
+    "search_text": "Jakiro laning phase Dual Breath harass 850 cast range 1025 reach Liquid Fire Liquid Frost facet lane pressure Ice Path stun 1.25 2.0 seconds",
+    "tags": [
+      "JAKIRO",
+      "LANING_PHASE",
+      "EARLY_GAME",
+      "LANE"
+    ]
+  },
+  {
+    "display_text": "Jakiro's power spikes are at level 6 with Macropyre for teamfight area denial, level 12 with maxed basic abilities and the level 10 talent, level 18 with maxed talents, and level 20 for a significant Ice Path or Macropyre upgrade. Key item timings include early mana boots for sustain and a Blink Dagger or Force Staff to position his spells.",
+    "search_text": "Jakiro power spikes level 6 Macropyre level 12 level 18 level 20 talent Ice Path Macropyre upgrade item timing Blink Dagger Force Staff",
+    "tags": [
+      "JAKIRO",
+      "POWER_SPIKES",
+      "TIMING",
+      "LEVELS"
+    ]
+  },
+  {
+    "display_text": "Jakiro is hard-countered by heroes with high mobility or spell immunity that can ignore his slows and stuns. Heroes with instant silences or hexes can prevent him from casting his channeled and delayed spells. Break mechanics can disable his Double Trouble passive and Facet passives.",
+    "search_text": "Jakiro counters mobility spell immunity BKB silence hex break Double Trouble passive facets",
+    "tags": [
+      "JAKIRO",
+      "HARD_COUNTERS",
+      "COUNTERS",
+      "WEAKNESS"
+    ]
+  },
+  {
+    "display_text": "Core items for Jakiro are Arcane Boots for mana, Aether Lens to increase his already long spell cast ranges, and a Blink Dagger to land optimal Ice Path and Macropyre combinations. These items solve his mana issues and positioning needs.",
+    "search_text": "Jakiro core items Arcane Boots Aether Lens Blink Dagger mana cast range positioning",
+    "tags": [
+      "JAKIRO",
+      "CORE_BUILD",
+      "ITEMS",
+      "ESSENTIAL"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Jakiro's role is area control and crowd control. Use Ice Path to stun multiple enemies, Dual Breath to slow and damage groups, and Macropyre to cut off paths and deal damage over a large zone. Stay at the backline and use your attack modifiers (Liquid Fire/Frost) to slow key targets.",
+    "search_text": "Jakiro teamfight role area control crowd control Ice Path stun Dual Breath slow Macropyre zone backline attack modifier Liquid Fire Liquid Frost",
+    "tags": [
+      "JAKIRO",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT",
+      "POSITIONING"
+    ]
+  },
+  {
+    "display_text": "Dual Breath is a two-part spell. First, an icy blast slows enemy movement speed by 25/30/35/40% and attack speed by 25/30/35/40% for its duration. Then, a wave of fire deals 20/40/60/80 magic damage per second. The spell has an 850 cast range, travels 1025 units total, and has a 10.0 second cooldown. It does not pierce BKB. The ice and fire are launched 0.2 seconds apart.",
+    "search_text": "Dual Breath Q slow movement speed 25 30 35 40 attack speed 25 30 35 40 damage 20 40 60 80 magic cast range 850 travel 1025 cooldown 10 Does NOT pierce BKB",
+    "tags": [
+      "JAKIRO",
+      "ABILITY_DATA",
+      "DUAL_BREATH",
+      "SLOW",
+      "DAMAGE_OVER_TIME",
+      "NUKER"
+    ]
+  },
+  {
+    "display_text": "Ice Path creates a line of ice that stuns enemies for 1.25/1.50/1.75/2.0 seconds and deals 50 magic damage. The path takes 0.2 seconds to form and lasts 3.0/3.5/4.0/4.5 seconds. It has a 150 radius. Cooldown is 20/17/14/11 seconds. Does NOT pierce BKB.",
+    "search_text": "Ice Path W stun 1.25 1.5 1.75 2.0 damage 50 magic path duration 3 3.5 4 4.5 cooldown 20 17 14 11 Does NOT pierce BKB",
+    "tags": [
+      "JAKIRO",
+      "ABILITY_DATA",
+      "ICE_PATH",
+      "STUN",
+      "CROWD_CONTROL"
+    ]
+  },
+  {
+    "display_text": "Liquid Fire is an attack modifier that, when active, causes Jakiro's attacks to burn enemies in a 300 radius around the target. It deals 15/25/35/45 magic damage per second and slows attack speed by 30/40/50/60%. Against buildings, it deals 75% of its damage. It shares a cooldown with Liquid Frost. The damage ticks every 0.5 seconds.",
+    "search_text": "Liquid Fire E attack modifier AoE 300 radius damage 15 25 35 45 magic attack speed slow 30 40 50 60 building damage 75 percent shares cooldown Liquid Frost",
+    "tags": [
+      "JAKIRO",
+      "ABILITY_DATA",
+      "LIQUID_FIRE",
+      "ATTACK_MODIFIER",
+      "PUSH",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Liquid Frost is an attack modifier that slows enemy movement speed and amplifies damage they take from Jakiro's other spells. It shares a cooldown with Liquid Fire. The specific slow and amplification values are not defined in the raw data, but it is the ice counterpart to Liquid Fire.",
+    "search_text": "Liquid Frost attack modifier movement slow damage amplification Jakiro spells shares cooldown Liquid Fire",
+    "tags": [
+      "JAKIRO",
+      "ABILITY_DATA",
+      "LIQUID_FROST",
+      "ATTACK_MODIFIER",
+      "SLOW",
+      "DEBUFF"
+    ]
+  },
+  {
+    "display_text": "Double Trouble is Jakiro's innate passive. Each of his attacks launches two projectiles, but each one deals 50% reduced damage. The second attack is launched 0.2 seconds after the first.",
+    "search_text": "Double Trouble innate passive double attack damage reduction 50 percent second attack delay 0.2",
+    "tags": [
+      "JAKIRO",
+      "ABILITY_DATA",
+      "DOUBLE_TROUBLE",
+      "PASSIVE",
+      "ATTACK"
+    ]
+  },
+  {
+    "display_text": "Macropyre is Jakiro's ultimate. He exhales a line of fire 1400 units long and 500 units wide that lasts 10 seconds. It deals 100/150/200 magic damage per second to enemies in the area. Enemies continue to burn for 1 second after leaving the area. Cooldown is not specified in the raw data. Does NOT pierce BKB.",
+    "search_text": "Macropyre R ultimate line 1400 range 500 width duration 10 damage per second 100 150 200 magic linger 1 second Does NOT pierce BKB",
+    "tags": [
+      "JAKIRO",
+      "ABILITY_DATA",
+      "MACROPYRE",
+      "ULTIMATE",
+      "AREA_DAMAGE",
+      "NUKER"
+    ]
+  },
+  {
+    "display_text": "When playing against high magic resistance or HP-pool heroes, focus on the utility of your spells. Ice Path's stun and the slows from Dual Breath and your attack Facets remain effective. Consider items like Veil of Discord to amplify your magical damage.",
+    "search_text": "Jakiro situational vs high magic resistance high HP utility Ice Path stun slow Veil of Discord",
+    "tags": [
+      "JAKIRO",
+      "SITUATIONAL",
+      "HIGH_MAGIC_RESIST",
+      "HIGH_HP"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, use your spells defensively. Ice Path to stop chases, Dual Breath to slow pursuers, and Macropyre to zone areas you need to defend. Build cheap utility items like Force Staff and Glimmer Cape to save allies and yourself.",
+    "search_text": "Jakiro situational playing from behind defensive Ice Path Dual Breath slow Macropyre zone Force Staff Glimmer Cape",
+    "tags": [
+      "JAKIRO",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "When your team is ahead and sieging, use Liquid Fire Facet to rapidly destroy towers from a safe distance. Spam Dual Breath to clear waves and harass defenders. Use Macropyre to cut off enemy reinforcements or zone defenders away from the tower.",
+    "search_text": "Jakiro situational sieging ahead Liquid Fire Facet push tower Dual Breath clear wave Macropyre zone",
+    "tags": [
+      "JAKIRO",
+      "SITUATIONAL",
+      "SIEGING",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Against illusion or summon-based heroes, your AoE abilities are strong. Max Dual Breath and Liquid Fire for wave clear. Macropyre can wipe out large groups. The Ice Breaker Facet can provide additional AoE stun and damage against clustered units.",
+    "search_text": "Jakiro situational vs illusions summons AoE Dual Breath Liquid Fire Macropyre Ice Breaker Facet",
+    "tags": [
+      "JAKIRO",
+      "SITUATIONAL",
+      "ILLUSIONS",
+      "SUMMONS",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +30 Liquid Fire Attack Speed Slow or +60 Ice Path Base Damage. The attack speed slow is better if you are focusing on right-click pressure and pushing. The Ice Path damage is better if you are playing as a nuker and need more burst from your combo.",
+    "search_text": "Talent level 10 left +30 Liquid Fire Attack Speed Slow right +60 Ice Path Base Damage nuker push",
+    "tags": [
+      "JAKIRO",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between +175 Attack Range or -3s Dual Breath Cooldown. Increased attack range improves your safety and ability to apply your attack Facets. The reduced cooldown on Dual Breath allows for more frequent harassment and wave clear.",
+    "search_text": "Talent level 15 left +175 Attack Range right -3s Dual Breath Cooldown safety harassment wave clear",
+    "tags": [
+      "JAKIRO",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between +0.4s Ice Path Stun Duration (also increases path duration) or +20 Macropyre Damage. The longer Ice Path stun is a significant crowd control upgrade for teamfights. The extra Macropyre damage is better if the enemy team is often stuck in it or for burning down high-HP targets.",
+    "search_text": "Talent level 20 left +0.4s Ice Path Stun Duration path duration right +20 Macropyre Damage crowd control damage",
+    "tags": [
+      "JAKIRO",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between +100% Dual Breath Damage and Range or +3% Liquid Frost and Fire Max Health Damage. The Dual Breath upgrade massively increases its nuking potential and safety. The max health damage is a percentage-based boost that excels against tanky heroes but does not work on buildings.",
+    "search_text": "Talent level 25 left +100% Dual Breath Damage Range right +3% Liquid Frost Fire Max Health Damage tanky heroes no buildings",
+    "tags": [
+      "JAKIRO",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

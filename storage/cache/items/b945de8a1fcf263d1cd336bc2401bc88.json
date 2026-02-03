@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Black Grimoire, Tier Special / Non-Purchasable: Right-click to consume all stored charges, granting 200 experience per charge. Starts on cooldown. Gains charges from kills and assists, empowering your hero with bonus experience to accelerate leveling. This item cannot be dropped. Stats: CD: 420s, XP per charge: 200.",
+    "search_text": "black grimoire, experience item, xp item, consumable xp, level up item, kill assist xp, charge consume, experience booster, level acceleration, consume item, non-purchasable item, unique item, Black Grimoire",
+    "tags": [
+      "ITEM_DATA",
+      "BLACK_GRIMOIRE",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "SPECIAL_ITEM",
+      "EXPERIENCE",
+      "UTILITY",
+      "KILL_REWARD",
+      "ASSIST_REWARD"
+    ]
+  }
+]

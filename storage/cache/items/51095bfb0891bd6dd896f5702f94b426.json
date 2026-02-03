@@ -1,0 +1,86 @@
+[
+  {
+    "display_text": "Cost: 4200: Sange and Yasha is a powerful hybrid item combining attributes, resistance, and speed. Provides 16 Strength, 16 Agility, +20 attack speed, +12% movement speed, 15% status resistance, +20% health regen amplification, and 25% slow resistance. The combination creates a well-rounded item for survivability, damage, and mobility. Stats: Strength: +16, Agility: +16, Attack Speed: +20, Movement Speed: +12%, Status Resistance: +15%, Health Regen Amp: +20%, Slow Resistance: +25%.",
+    "search_text": "sange and yasha, sny, hybrid item, status resistance, movement speed, attack speed, agility strength, slow resistance, health regen, carry item, mid game item, survivability, mobility, Sange and Yasha, SnY, well rounded, tanky damage",
+    "tags": [
+      "ITEM_DATA",
+      "SANGE_AND_YASHA",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "STATUS_RESISTANCE",
+      "MOVEMENT_SPEED",
+      "ATTACK_SPEED",
+      "HEALTH",
+      "SUSTAIN",
+      "SLOW_RESISTANCE",
+      "HYBRID",
+      "STATS",
+      "DAMAGE",
+      "SURVIVABILITY"
+    ]
+  },
+  {
+    "display_text": "Cost: 4200: Grants a balanced profile of attributes and defensive utility. Strength provides health and regen amplification, Agility provides armor and attack speed. The +12% movement speed and 25% slow resistance significantly enhance mobility and chase potential. Stats: Strength: +16, Agility: +16, Attack Speed: +20, Movement Speed: +12%, Status Resistance: +15%, Health Regen Amp: +20%, Slow Resistance: +25%.",
+    "search_text": "stats breakdown, attribute item, stat profile, strength agility item, health regen amplification, status resistance item, slow resistance item, movement speed item, Sange and Yasha stats, SnY stats",
+    "tags": [
+      "ITEM_DATA",
+      "SANGE_AND_YASHA",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "AGILITY",
+      "STATS",
+      "ATTRIBUTES",
+      "MOVEMENT_SPEED",
+      "REGEN",
+      "HEALTH",
+      "SURVIVABILITY"
+    ]
+  },
+  {
+    "display_text": "Cost: 4200: Functions as a powerful mid-game fighting and mobility item. The movement speed and status resistance help heroes stick to targets and survive through disables. The combined stats and utility make it a strong choice for carries and durable fighters who need to stay mobile and resilient in prolonged engagements. Stats: Movement Speed: +12%, Status Resistance: +15%, Slow Resistance: +25%.",
+    "search_text": "team fight item, mid game fighting, survivability item, status resistance, mobility in fight, chase item, fighting core, durable carry, prolonged fight, stick to targets, Sange and Yasha fight",
+    "tags": [
+      "ITEM_DATA",
+      "SANGE_AND_YASHA",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "MOBILITY",
+      "SURVIVABILITY",
+      "CHASE",
+      "FIGHTING",
+      "DURABLE"
+    ]
+  },
+  {
+    "display_text": "Cost: 4200: Excellent against teams with multiple disables and slows. The status resistance reduces stun and silence durations, while the slow resistance reduces the impact of movement impairing effects. The health regen amplification synergizes with other sources of regen and lifesteal. Stats: Status Resistance: +15%, Slow Resistance: +25%, Health Regen Amp: +20%.",
+    "search_text": "counter disables, status resistance item, stun reduction, slow resistance, against slows, anti slow, disable reduction, counter control, vs disables, Sange and Yasha counter, SnY vs control",
+    "tags": [
+      "ITEM_DATA",
+      "SANGE_AND_YASHA",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "STATUS_RESISTANCE",
+      "SLOW_RESISTANCE",
+      "VS_CONTROL",
+      "SURVIVABILITY",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Cost: 4200: Synergizes with heroes who benefit from all aspects of its stats and want to be in the thick of fights. Particularly effective on strength or agility carries who rely on sustained damage and need to close gaps or survive burst (e.g., Sven, Juggernaut, Lifestealer, Dragon Knight). The movement speed passive does not stack with other Yasha-based items.",
+    "search_text": "sny hero, who builds sange and yasha, strength carry item, agility carry item, sustained damage, fighter item, gap closer, chase hero, build path, Yasha passive, movement speed stack, Sange and Yasha build",
+    "tags": [
+      "ITEM_DATA",
+      "SANGE_AND_YASHA",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "FIGHTER",
+      "STRENGTH",
+      "AGILITY",
+      "SUSTAINED_DAMAGE",
+      "MOVEMENT_SPEED"
+    ]
+  }
+]

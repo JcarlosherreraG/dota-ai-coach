@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "name": "npc_dota_hero_faceless_void",
+    "level": 25,
+    "health": 2400,
+    "max_health": 2400,
+    "mana": 1000,
+    "max_mana": 1000,
+    "alive": true
+  },
+  "items": {
+    "slot0": { "name": "item_power_treads" },
+    "slot1": { "name": "item_mask_of_madness" },
+    "slot2": { "name": "item_monkey_king_bar" },
+    "slot3": { "name": "item_black_king_bar" },
+    "slot4": { "name": "item_empty" }
+  },
+  "user_context": "Лейт гейм против Phantom Lancer. Как только он подходит, появляется миллион иллюзий, и у меня сгорает вся мана. Я не могу найти настоящего, чтобы поставить купол.",
+  "user_question": "Меня сжирают иллюзии Лансера. Чем мне их быстро убивать?"
+}

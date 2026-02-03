@@ -1,0 +1,201 @@
+[
+  {
+    "display_text": "Enchantress is a ranged intelligence hero with very high base movement speed (340), slow base attack time (1.7), and good starting attack range (575). Her base stats (17 Strength, 19 Agility, 22 Intelligence) are decent for a ranged core. She has a high turn rate, which aids her mobility.",
+    "search_text": "Enchantress Base Stats Attack Type Ranged Attack Range 575 Attack Rate 1.7 Strength 17 Agility 19 Intelligence 22 Movement Speed 340 Turn Rate High",
+    "tags": [
+      "Enchantress",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Enchantress has two Facets: Overprotective Wisps and Spellbound. Overprotective Wisps creates Healing Wisps when Enchantress takes damage, providing defensive sustain for front-line or baiting playstyles. Spellbound increases the cast range of Enchant and the attack range of Impetus against Enchanted targets, rewarding a more aggressive, long-range kiting and control strategy.",
+    "search_text": "Enchantress Facet Overprotective Wisps Spellbound Healing Wisps on damage Enchant range Impetus range sustain kiting control",
+    "tags": [
+      "Enchantress",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Enchant to dominate a powerful neutral creep (e.g., Hellbear Smasher) to harass and zone enemies. Max Untouchable first to heavily punish enemy right-clicks. Use Nature's Attendants to sustain yourself and your lane partner. Leverage her high base movement speed to position aggressively.",
+    "search_text": "Enchantress Laning Phase Enchant dominate creep Untouchable slow Nature's Attendants heal sustain harass zoning",
+    "tags": [
+      "Enchantress",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 unlocks Sproink, providing a crucial escape. Level 12 with maxed Untouchable and Impetus makes her very hard to kill and deal significant damage. Level 18 with max talents and Aghanim's Scepter/Little Friends is a major teamfight power spike. Level 20 and 25 talent choices significantly amplify her damage or survivability.",
+    "search_text": "Enchantress Power Spikes Level 6 Sproink Level 12 Untouchable Impetus Level 18 Aghanim Scepter Little Friends Level 20 Talent Level 25 Talent",
+    "tags": [
+      "Enchantress",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Enchantress is hard countered by Break (e.g., Silver Edge, Doom), which disables Untouchable. High burst magic damage ignores Untouchable. Instant disables (e.g., Hex) prevent Sproink escape. High-mobility heroes and gap closers can bypass her kiting. Illusion heroes are weak against Impetus' double damage.",
+    "search_text": "Enchantress Hard Counters Break Silver Edge Doom Untouchable disabled Burst magic damage Hex disable Sproink Gap close Illusions Impetus double damage",
+    "tags": [
+      "Enchantress",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: Dragon Lance/Hurricane Pike is essential for increasing Impetus range and damage. Aghanim's Scepter is core for Little Friends, providing teamfight control and damage amplification. Black King Bar is often necessary to survive in fights and maintain Impetus uptime.",
+    "search_text": "Enchantress Core Build Dragon Lance Hurricane Pike Impetus range damage Aghanim Scepter Little Friends Black King Bar BKB",
+    "tags": [
+      "Enchantress",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Enchantress' role is to stay at maximum attack range, using Impetus to deal heavy pure damage to the highest priority target. She uses Little Friends (with Aghanim's Sproink) to root and focus a key enemy. She must use Sproink to dodge projectiles and re-position. Nature's Attendants provides AoE healing to allies.",
+    "search_text": "Enchantress Teamfight Role backline kite Impetus pure damage Little Friends root focus Nature's Attendants heal Sproink dodge reposition",
+    "tags": [
+      "Enchantress",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Impetus (Ultimate). Places an enchantment on each attack while activated, dealing additional pure damage based on distance to the target, up to a max of 1750 range. Deals 5/10/15/20% of the distance as damage. Deals double damage to illusions. Does NOT pierce BKB.",
+    "search_text": "Impetus Enchantress Ultimate R Pure Damage distance based 5% 10% 15% 20% max range 1750 double damage illusions BKB piercing No",
+    "tags": [
+      "Enchantress",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "PURE_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Enchant. Charms an enemy unit. On Heroes: dispels (Basic Dispel) and slows them by 30/40/50/60% for 3.5/4/4.5/5 seconds. On Creeps: brings it under Enchantress' control for 30/60/90/120 seconds. Grants 40% of the creep's XP bounty. Can target illusions. Cast range is 500/550/600/650.",
+    "search_text": "Enchant Enchantress Charm Slow 30% 40% 50% 60% duration 3.5s 4s 4.5s 5s Basic Dispel Dominate Creep control duration 30s 60s 90s 120s XP bounty 40% illusion target Cast Range 500 550 600 650",
+    "tags": [
+      "Enchantress",
+      "ABILITY_DATA",
+      "SLOW",
+      "DISABLE",
+      "SUMMON"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Nature's Attendants. Summons 9 wisps that heal Enchantress and nearby friendly units for 4/8/12/16 health every 0.5 seconds over 7/9/11/13 seconds, for a total potential heal of 504/648/792/936 per target. Radius is 275. Does NOT pierce BKB.",
+    "search_text": "Nature's Attendants Enchantress Heal 9 wisps 4 8 12 16 heal per tick 0.5s interval total duration 7s 9s 11s 13s radius 275 BKB piercing No",
+    "tags": [
+      "Enchantress",
+      "ABILITY_DATA",
+      "HEAL"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Sproink (Shard). Enchantress leaps backward, dodging incoming projectiles, and launches an Impetus attack on the 2 furthest enemy units within her attack range + 100. Leap distance is 500 over 0.4 seconds. Does NOT pierce BKB.",
+    "search_text": "Sproink Enchantress Shard Aghanim Shard Leap Dodge projectiles Impetus attack 2 targets farthest range attack range + 100 leap distance 500 duration 0.4s BKB piercing No",
+    "tags": [
+      "Enchantress",
+      "ABILITY_DATA",
+      "MOBILITY",
+      "DODGE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Little Friends (Scepter). Enchantress roots an enemy unit for 2 seconds. All creeps (ally, enemy, neutral) within a 1200 radius gain 100 bonus movement speed and 70 bonus attack speed, and attack the rooted target for 6 seconds. Each additional target hit increases the root duration by 0.5 seconds, up to a maximum of 5 seconds.",
+    "search_text": "Little Friends Enchantress Aghanim Scepter Root 2s duration creeps ally enemy neutral radius 1200 buff move speed 100 attack speed 70 attack target 6s duration root per target 0.5s max root 5s",
+    "tags": [
+      "Enchantress",
+      "ABILITY_DATA",
+      "ULTIMATE_UPGRADE",
+      "ROOT",
+      "BUFF"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Untouchable (Passive). When Enchantress is attacked, the attacking unit has its attack speed slowed by 110/160/210 for 4 seconds. The slow is applied on attack start. Does NOT pierce BKB.",
+    "search_text": "Untouchable Enchantress Passive attack speed slow 110 160 210 duration 4s on attack start BKB piercing No",
+    "tags": [
+      "Enchantress",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Rabble-Rouser (Passive). All neutral camps and creeps under Enchantress' control (via Enchant) deal 4% more damage to enemy heroes. Does NOT affect converted neutrals, Tormentor, or Roshan.",
+    "search_text": "Rabble-Rouser Enchantress Passive creep damage increase 4% controlled neutrals Enchant hero damage Tormentor Roshan excluded",
+    "tags": [
+      "Enchantress",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "DAMAGE_AMP"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Physical Damage/Right-Click Cores. Max Untouchable early to heavily punish their attacks. Build items like Solar Crest, Halberd, and Ghost Scepter. Positioning is key; use Sproink to create distance. The Overprotective Wisps facet provides extra sustain against chip damage.",
+    "search_text": "Enchantress Situational High Physical Damage Right Click Untouchable Solar Crest Halberd Ghost Scepter positioning Sproink Overprotective Wisps sustain",
+    "tags": [
+      "Enchantress",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on securing farm with Enchanted creeps and split-pushing safely with Sproink. Build utility items like Force Staff and Glimmer Cape to save allies. Max Nature's Attendants for team sustain. The Spellbound facet can help you secure kills from a safer distance.",
+    "search_text": "Enchantress Situational From Behind farming Enchant creeps split push Sproink utility Force Staff Glimmer Cape save Nature's Attendants heal Spellbound range",
+    "tags": [
+      "Enchantress",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Illusion Heroes (e.g., Phantom Lancer, Chaos Knight). Impetus deals double damage to illusions, making Enchantress a natural counter. Prioritize levels in Impetus. Build Hurricane Pike for kiting and Mjollnir for cleave. Use Little Friends to control the real hero.",
+    "search_text": "Enchantress Situational Illusions Phantom Lancer Chaos Knight Impetus double damage counter Hurricane Pike kiting Mjollnir Little Friends root",
+    "tags": [
+      "Enchantress",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Deathball/Push Lineup. Use Enchant to dominate catapults and siege creeps. Rabble-Rouser amplifies all your creeps' damage. Build Aghanim's Scepter early for Little Friends to buff your entire creep wave and provide strong crowd control during pushes.",
+    "search_text": "Enchantress Situational Deathball Push lineup Enchant dominate catapult siege creep Rabble-Rouser damage amp Aghanim Scepter Little Friends creep wave buff control",
+    "tags": [
+      "Enchantress",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talent: Left choice grants +5 Armor to Enchantress and her controlled units, providing significant survivability against physical damage, especially for her summons. Right choice grants +30 Movement Speed during Nature's Attendants, improving mobility and positioning while healing. Choose Armor for survivability, Movement Speed for aggressive kiting.",
+    "search_text": "Enchantress Talent Level 10 left +5 Armor self and units right +30 Movespeed during Nature's Attendants survivability physical damage mobility kiting",
+    "tags": [
+      "Enchantress",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talent: Left choice grants +30 Attack Speed for Enchantress and her controlled units, requiring at least 1 point in Enchant. This significantly increases DPS for her and her army. Right choice grants +8 Heal per wisp for Nature's Attendants, boosting her and her team's survivability. Choose Attack Speed for damage, Heal for sustain.",
+    "search_text": "Enchantress Talent Level 15 left +30 Attack Speed self and units requires Enchant right +8 Nature's Attendants Heal per wisp DPS army sustain",
+    "tags": [
+      "Enchantress",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talent: Left choice grants +150 Health and +25 Damage to Enchantress and her controlled units, requiring at least 1 point in Enchant. This is a massive boost to both survivability and damage output for her and her summons. Right choice grants +9 Wisps for Nature's Attendants, dramatically increasing total healing output. Choose Stats for a hybrid carry build, Wisps for a dedicated healer/sustain role.",
+    "search_text": "Enchantress Talent Level 20 left +150 Health +25 Damage self and units requires Enchant right +9 Nature's Attendants Wisps survivability damage healing output carry healer",
+    "tags": [
+      "Enchantress",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talent: Left choice grants +6.5% Impetus Damage, multiplicatively increasing her primary source of late-game damage. Right choice grants +70 Untouchable Attack Slow, increasing the slow from 210 to 280, making her nearly impossible for right-clickers to attack. Choose Impetus Damage for maximum carry potential, Untouchable Slow for extreme survivability against physical cores.",
+    "search_text": "Enchantress Talent Level 25 left +6.5% Impetus Damage right +70 Untouchable Attack Slow 210 to 280 carry damage survivability physical cores",
+    "tags": [
+      "Enchantress",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

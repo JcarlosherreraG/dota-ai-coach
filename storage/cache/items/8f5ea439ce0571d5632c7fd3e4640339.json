@@ -1,0 +1,61 @@
+[
+  {
+    "display_text": "Cost: 4200: Ultimate Scepter upgrades ultimate and some abilities of all heroes. Core late-game upgrade for heroes with powerful ultimate abilities. Provides attribute bonuses improving survivability and mana pool. Stats: CD: N/A, Mana Cost: N/A, Health: +175, Mana: +175, All Attributes: +10.",
+    "search_text": "aghanim's scepter, ultimate upgrade, hero upgrade, ability upgrade, scepter, late game item, core item, ultimate booster, improve ultimate, upgrade ultimates, aghs, ultimate scaling, hero scaling, attribute booster, utility scaling, Ultimate Scepter",
+    "tags": [
+      "ITEM_DATA",
+      "ULTIMATE_SCEPTER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "UPGRADE",
+      "UTILITY",
+      "HEALTH",
+      "MANA",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Cost: 4200: Stat profile provides +10 to all attributes, +175 health, and +175 mana. Comprehensive stat boost improving survivability, damage, and mana pool for all hero types. Stats: All Attributes: +10, Health: +175, Mana: +175.",
+    "search_text": "aghanim's stats, attribute item, all stats item, health mana boost, scepter stats, raw stats, stat booster, all-around stats, general stats, Ultimate Scepter",
+    "tags": [
+      "ITEM_DATA",
+      "ULTIMATE_SCEPTER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "MANA",
+      "ATTRIBUTES",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Cost: 4200: High-impact team fight item by significantly enhancing ultimate abilities. Upgraded ultimates can change fight outcomes with improved damage, duration, or mechanics. Critical for heroes whose power spikes depend on ultimate scaling. Stats: Provides no active cooldown or mana cost.",
+    "search_text": "aghanim's team fight, ultimate enhancement, fight win condition, ultimate scaling, late game power spike, team fight impact, ultimate boost, ability enhancement, ultimate win condition, Ultimate Scepter",
+    "tags": [
+      "ITEM_DATA",
+      "ULTIMATE_SCEPTER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "UPGRADE",
+      "UTILITY",
+      "SCALING"
+    ]
+  },
+  {
+    "display_text": "Cost: 4200: Core purchase for heroes with game-changing ultimates that benefit from upgrades. Essential for carries who rely on ultimate scaling and supports whose ultimates gain crowd control or utility. Consider timing based on hero's ultimate power spike in mid-to-late game. Stats: No farm acceleration or wave clear mechanics.",
+    "search_text": "aghanim's core item, ultimate heroes, aghs heroes, hero scaling item, scepter timing, late game scaling, hero upgrade core, ultimate dependent, ability scaling item, hero specific upgrade, Ultimate Scepter",
+    "tags": [
+      "ITEM_DATA",
+      "ULTIMATE_SCEPTER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "CORE_ITEM",
+      "LATE_GAME",
+      "SCALING"
+    ]
+  }
+]

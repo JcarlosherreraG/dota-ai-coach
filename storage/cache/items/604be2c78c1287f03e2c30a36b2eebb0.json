@@ -1,0 +1,53 @@
+[
+  {
+    "display_text": "Aghanim's Shard, Cost: 1400: Upgrades an existing ability or adds a new passive or active ability to your hero. Consumable item with a powerful, permanent effect that unlocks additional power for your hero's kit. Typically purchased in the mid-to-late game to significantly improve a hero's capabilities. Stats: Cost: 1400.",
+    "search_text": "aghanims shard, ability upgrade, unlock new ability, hero upgrade, shard upgrade, permanent ability, mid game upgrade, late game power spike, hero buff, talent upgrade, add ability, passive upgrade, active ability unlock, Aghanim's Shard",
+    "tags": [
+      "ITEM_DATA",
+      "AGHANIMS_SHARD",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "UPGRADE",
+      "ABILITY_UPGRADE",
+      "BUFF",
+      "UTILITY",
+      "POWER_SPIKE"
+    ]
+  },
+  {
+    "display_text": "Aghanim's Shard, Cost: 1400: Provides no direct attribute bonuses, damage, or health. All value is derived from the powerful ability upgrade it grants to your specific hero, making its statistical impact unique to each hero.",
+    "search_text": "aghanims shard stats, no stats item, ability only, pure upgrade item, utility stats, Aghanim's Shard",
+    "tags": [
+      "ITEM_DATA",
+      "AGHANIMS_SHARD",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Aghanim's Shard, Cost: 1400: Role varies dramatically by hero, but typically provides teamfight utility, survivability, or damage amplification through the new or upgraded ability. Can enable new initiation, save, or counter-initiating patterns depending on the hero-specific upgrade.",
+    "search_text": "aghanims shard role, teamfight utility, hero specific upgrade, shard teamfight, ability enhancement, utility upgrade, hero role, Aghanim's Shard",
+    "tags": [
+      "ITEM_DATA",
+      "AGHANIMS_SHARD",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "UTILITY",
+      "BUFF",
+      "ABILITY_UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Aghanim's Shard, Cost: 1400: Core item for any hero whose Shard upgrade significantly alters their power curve or role, providing a new essential tool. Synergy is entirely hero-dependent, often rounding out a hero's weaknesses or amplifying their strengths with the new ability. Critical timing purchase when the hero upgrade becomes tactically relevant.",
+    "search_text": "aghanims shard core, shard timing, hero core item, power spike timing, mandatory shard, hero synergy, Aghanim's Shard",
+    "tags": [
+      "ITEM_DATA",
+      "AGHANIMS_SHARD",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "UPGRADE",
+      "POWER_SPIKE"
+    ]
+  }
+]

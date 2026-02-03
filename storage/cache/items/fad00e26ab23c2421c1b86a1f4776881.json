@@ -1,0 +1,44 @@
+[
+  {
+    "display_text": "Cost: 50: Sentry Ward, a consumable detection tool. Provides True Sight within 1050 radius around allied vision, revealing invisible units, wards, and mines. It does not grant ground vision itself. Lasts 7 minutes and can be planted by holding Control to give one to an allied hero. Stats: Lifetime: 7 min (420s), True Sight Range: 1050, CD: 1s, Charges: 1, Health: 200.",
+    "search_text": "sentry ward, detection item, deward item, ward removal, true sight ward, invis counter, see invisible, invisible detection, counter ward, vision control, support item, consumable vision, Sentry Ward, sentry, dewarding tool",
+    "tags": [
+      "ITEM_DATA",
+      "WARD_SENTRY",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "VISION",
+      "DETECTION",
+      "TRUE_SIGHT",
+      "VS_INVIS"
+    ]
+  },
+  {
+    "display_text": "Cost: 50: Essential early-game consumable for securing vision control and countering enemy vision. Used to deward Observer Wards and block enemy camp pulls. Provides no regen or stats, but grants True Sight to deny enemy information and gold. Stats: Lifetime: 7 min (420s), True Sight Range: 1050.",
+    "search_text": "sentry early game, deward, vision control, counter ward, early vision, lane vision, jungle vision, pull block, early detection, support role, dewarding, Sentry Ward",
+    "tags": [
+      "ITEM_DATA",
+      "WARD_SENTRY",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "VISION",
+      "DETECTION",
+      "SUPPORT_ITEM",
+      "LANING"
+    ]
+  },
+  {
+    "display_text": "Cost: 50: Key situational item against invisible heroes (Riki, Bounty Hunter) and for objective control (dewarding Roshan pit). Critical for high-ground siege to clear enemy vision and for protecting key areas. Can be shared with an ally. Stats: Lifetime: 7 min (420s), True Sight Range: 1050.",
+    "search_text": "invis counter, counter invisible heroes, counter riki, counter bounty hunter, roshan vision, deward roshan, high ground vision, objective control, sentry placement, situational detection, Sentry Ward",
+    "tags": [
+      "ITEM_DATA",
+      "WARD_SENTRY",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "VS_INVIS",
+      "VISION",
+      "DETECTION",
+      "SITUATIONAL_VS_INVIS"
+    ]
+  }
+]

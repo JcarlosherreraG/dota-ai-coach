@@ -1,0 +1,218 @@
+[
+  {
+    "display_text": "Ember Spirit is a Melee hero with a base attack time of 1.7 seconds. He has balanced starting attributes (22 Strength, 22 Agility, 20 Intelligence), giving him average survivability, armor, and mana pool for the early game.",
+    "search_text": "Melee attack type 1.7 BAT 22 STR 22 AGI 20 INT",
+    "tags": [
+      "EMBER_SPIRIT",
+      "BASE_STATS",
+      "MELEE",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Double Impact. Sleight of Fist hits one of its targets an extra time. This significantly increases the spell's damage output and synergizes heavily with attack modifiers like Maelstrom. It facilitates a core, physical damage-focused playstyle.",
+    "search_text": "Double Impact Facet Sleight of Fist extra attack damage modifier",
+    "tags": [
+      "EMBER_SPIRIT",
+      "FACET_STRATEGY",
+      "DOUBLE_IMPACT"
+    ]
+  },
+  {
+    "display_text": "Facet 2: Chain Gang. Searing Chains can affect two additional enemies (from 2 to 4 total). When Searing Chains is cast, they are also cast around each Fire Remnant. This provides immense crowd control and teamfight lockdown, facilitating a more utility and magic-damage oriented build.",
+    "search_text": "Chain Gang Facet Searing Chains 4 targets Fire Remnant crowd control utility",
+    "tags": [
+      "EMBER_SPIRIT",
+      "FACET_STRATEGY",
+      "CHAIN_GANG"
+    ]
+  },
+  {
+    "display_text": "In lane, use Searing Chains (50-110 damage, 1.5-3.0 second root) for last hitting and harassing. Flame Guard (60-300 damage absorb, 20-50 DPS) is crucial for trading and farming. Prioritize levels in these two spells. Your high base damage and root help secure ranged creeps and kills with a support.",
+    "search_text": "Laning Phase Searing Chains root harass Flame Guard shield damage farming",
+    "tags": [
+      "EMBER_SPIRIT",
+      "LANING_PHASE",
+      "HARASS",
+      "FARM"
+    ]
+  },
+  {
+    "display_text": "Level 6 provides initiation and escape with Fire Remnant. Level 8 (max Flame Guard) is a major farming and fighting spike. Level 12 unlocks Aghanim's Scepter potential (Fist charges) or major item timings like Maelstrom, Desolator, or Eul's. Talents at 15 (+165 Barrier) and 20 (+50 Fist damage) are significant power boosts. Level 25 with the -12s Remnant cooldown talent enables near-permanent mobility.",
+    "search_text": "Power Spike Level 6 Fire Remnant Level 12 Aghanim Scepter Maelstrom Desolator Talent 15 Talent 20 Talent 25",
+    "tags": [
+      "EMBER_SPIRIT",
+      "POWER_SPIKES",
+      "LEVELS",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Break disables his Immolation passive aura, reducing his area damage. Instant Hex or Silence prevents his Activate Fire Remnant escape. High burst physical damage can break his Flame Guard shield quickly. Heroes with passive evasion can be problematic before acquiring MKB.",
+    "search_text": "Hard Counter Break Immolation Hex Silence Activate Fire Remnant Flame Guard shield burst physical evasion",
+    "tags": [
+      "EMBER_SPIRIT",
+      "HARD_COUNTERS",
+      "BREAK",
+      "HEX",
+      "SILENCE"
+    ]
+  },
+  {
+    "display_text": "Magic Wand and Boots of Speed are essential early. Aghanim's Scepter is core for providing two charges of Sleight of Fist, drastically increasing mobility and damage uptime. Maelstrom/Mjollnir is essential for physical damage builds to maximize Sleight of Fist output.",
+    "search_text": "Core Build Magic Wand Boots Aghanim Scepter Sleight of Fist charges Maelstrom Mjollnir",
+    "tags": [
+      "EMBER_SPIRIT",
+      "CORE_BUILD",
+      "AGHANIM_SCEPTER",
+      "MAELSTROM"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Ember Spirit's role is to dive the backline, disrupt key targets, and deal sustained AoE damage. Use Sleight of Fist to safely damage multiple enemies while untargetable. Use Fire Remnants to initiate, reposition, or escape. Apply Searing Chains on high-priority targets.",
+    "search_text": "Teamfight Role Dive backline AoE damage Sleight of Fist untargetable Fire Remnant initiate reposition escape Searing Chains root",
+    "tags": [
+      "EMBER_SPIRIT",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Searing Chains (Q). Ember Spirit unleashes fiery bolas that wrap around 2 nearby enemies, anchoring them in place for 1.5/2.0/2.5/3.0 seconds and dealing 50/70/90/110 damage per second (total 75/140/225/330 damage). Does not affect Debuff Immune or invisible units.",
+    "search_text": "Ability Q Searing Chains root damage 50 70 90 110 duration 1.5 2.0 2.5 3.0 2 targets no BKB no invis",
+    "tags": [
+      "EMBER_SPIRIT",
+      "ABILITY_DATA",
+      "SEARING_CHAINS",
+      "ROOT",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Sleight of Fist (W). Ember Spirit dashes around with blazing speed, attacking all enemies in a 250/350/450/550 radius area, then returning. He deals his normal attack plus 25/70/115/160 bonus damage to heroes. Does not affect creeps. The ability has a 13/11/9/7 second cooldown and does not cost mana.",
+    "search_text": "Ability W Sleight of Fist AoE attack 250 350 450 550 radius bonus hero damage 25 70 115 160 13 11 9 7 cooldown no mana",
+    "tags": [
+      "EMBER_SPIRIT",
+      "ABILITY_DATA",
+      "SLEIGHT_OF_FIST",
+      "DAMAGE",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Flame Guard (E). Ember Spirit surrounds himself with a ring of fire that absorbs 60/140/220/300 magic damage. While active, it deals 20/30/40/50 damage per second in a 500 radius for 12/14/16/18 seconds. If the shield is broken, the damage aura stops.",
+    "search_text": "Ability E Flame Guard magic shield absorb 60 140 220 300 damage per second 20 30 40 50 radius 500 duration 12 14 16 18",
+    "tags": [
+      "EMBER_SPIRIT",
+      "ABILITY_DATA",
+      "FLAME_GUARD",
+      "MAGIC_SHIELD",
+      "DAMAGE_AURA"
+    ]
+  },
+  {
+    "display_text": "Immolation (Passive). Ember Spirit is continuously burning, dealing 10/18/26/34 damage per second in a 175 radius. This passive aura is always active.",
+    "search_text": "Passive Immolation aura damage per second 10 18 26 34 radius 175",
+    "tags": [
+      "EMBER_SPIRIT",
+      "ABILITY_DATA",
+      "IMMOLATION",
+      "PASSIVE",
+      "DAMAGE_AURA"
+    ]
+  },
+  {
+    "display_text": "Fire Remnant (D). Ember Spirit sends a Fire Remnant that runs to a target location at high speed. He starts with 3 charges, which restore every 35 seconds.",
+    "search_text": "Ability D Fire Remnant charge max 3 restore time 35 seconds mobility",
+    "tags": [
+      "EMBER_SPIRIT",
+      "ABILITY_DATA",
+      "FIRE_REMNANT",
+      "MOBILITY",
+      "CHARGE"
+    ]
+  },
+  {
+    "display_text": "Activate Fire Remnant (R). Ember Spirit dashes to all active Fire Remnants, destroying them and dealing 100/200/300 damage in a 450 radius at each one, then moves to the nearest Remnant. He will end at the Remnant closest to the targeted location.",
+    "search_text": "Ability R Activate Fire Remnant dash damage 100 200 300 radius 450 travel remnant",
+    "tags": [
+      "EMBER_SPIRIT",
+      "ABILITY_DATA",
+      "ACTIVATE_FIRE_REMNANT",
+      "DAMAGE",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Armor Enemies. Your magic damage from Flame Guard and Searing Chains becomes crucial. Build Veil of Discord and Kaya to amplify this. Consider the Chain Gang facet for more lockdown.",
+    "search_text": "Situational High Armor enemy magic damage Flame Guard Searing Chains Veil of Discord Kaya Chain Gang facet",
+    "tags": [
+      "EMBER_SPIRIT",
+      "SITUATIONAL",
+      "HIGH_ARMOR",
+      "MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on split-pushing and farming with Sleight of Fist and Flame Guard. Build defensive items like Eul's Scepter or Linken's Sphere to survive. Use Fire Remnants for safe map movement and escape.",
+    "search_text": "Situational Behind losing split push farm Sleight of Fist Flame Guard Eul Scepter Linken Sphere survival Fire Remnant escape",
+    "tags": [
+      "EMBER_SPIRIT",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "SPLIT_PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy Team Has Heavy Silence/Root. These prevent Activate Fire Remnant. Prioritize items like Eul's Scepter (self-dispel) or Lotus Orb. BKB is also critical to ensure you can use your mobility spells.",
+    "search_text": "Situational Silence Root disable Activate Fire Remnant Eul Scepter dispel Lotus Orb BKB mobility",
+    "tags": [
+      "EMBER_SPIRIT",
+      "SITUATIONAL",
+      "SILENCE",
+      "ROOT",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents. Left: +12 Damage. Right: +165 Flame Guard Barrier Amount. Choose +12 Damage if you are focusing on right-click and Sleight of Fist physical damage. Choose +165 Barrier if you need more survivability against magic damage or are playing a magic damage/tankier role.",
+    "search_text": "Talent Level 10 +12 Damage +165 Flame Guard Barrier Amount physical damage survivability magic tank",
+    "tags": [
+      "EMBER_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents. Left: +100% Flame Guard DPS. Right: +0.8s Searing Chains Duration. Choose +100% Flame Guard DPS if you are the primary magic damage source or need farming speed. Choose +0.8s Searing Chains Duration for increased crowd control, especially powerful with the Chain Gang facet.",
+    "search_text": "Talent Level 15 +100% Flame Guard DPS +0.8s Searing Chains Duration magic damage farm crowd control lockdown Chain Gang",
+    "tags": [
+      "EMBER_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents. Left: +50 Searing Chains Damage. Right: +50 Sleight of Fist Hero Damage. Choose +50 Searing Chains Damage to boost your magic burst combo. Choose +50 Sleight of Fist Hero Damage for a significant boost to your physical damage output, especially with the Double Impact facet.",
+    "search_text": "Talent Level 20 +50 Searing Chains Damage +50 Sleight of Fist Hero Damage magic burst physical damage Double Impact",
+    "tags": [
+      "EMBER_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents. Left: +2 Sleight of Fist Charges (from Aghanim's Scepter). Right: -12s Remnant Charge Restore Time. Choose +2 Sleight of Fist Charges for incredible mobility and near-permanent damage uptime. Choose -12s Remnant Charge Restore Time for extreme map presence, escape, and initiation with Fire Remnants.",
+    "search_text": "Talent Level 25 +2 Sleight of Fist Charges Aghanim Scepter -12s Remnant Charge Restore Time mobility damage map presence escape",
+    "tags": [
+      "EMBER_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

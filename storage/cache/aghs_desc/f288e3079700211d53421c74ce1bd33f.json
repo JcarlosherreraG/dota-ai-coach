@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Puck Aghanim's Scepter: Dream Coil now causes Puck to attack all affected enemies at 90% of its attack rate. This upgrade counters enemy disengagement mechanics by punishing movement during the coil stun, transforming Puck into a sustained damage threat during team fights.",
+    "search_text": "Puck Aghanim Scepter Dream Coil attack rate anti-disengage sustained damage team fight",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Puck",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Puck Aghanim's Shard: Phase Shift now causes Puck to attack all enemies within its attack range each time it shifts. This upgrade counters burst damage and dive-heavy lineups by adding offensive pressure during Puck's invulnerability window, enhancing its role as an elusive magic damage dealer.",
+    "search_text": "Puck Aghanim Shard Phase Shift attack burst damage counter-dive magic damage invulnerability",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Puck",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

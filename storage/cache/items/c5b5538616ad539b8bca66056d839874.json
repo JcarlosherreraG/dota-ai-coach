@@ -1,0 +1,56 @@
+[
+  {
+    "display_text": "Perseverance, Cost: 1400: Foundational component item providing a steady stream of health and mana regeneration for lane sustainability. It is typically built into items that require high sustain and regeneration, like Battle Fury and Linken's Sphere. Good early purchase for heroes that need to spam abilities and stay in lane longer. Stats: Health Regen: +6.5, Mana Regen: +2.25.",
+    "search_text": "health regeneration item, mana regeneration item, lane sustain item, perseverance, regen item, early game sustain, hp regen, mana regen, component item, sustain component, Perseverance",
+    "tags": [
+      "ITEM_DATA",
+      "PERSEVERANCE",
+      "FULL_ITEM",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "MANA",
+      "UPGRADE",
+      "STAT_PROFILE"
+    ]
+  },
+  {
+    "display_text": "Perseverance, Cost: 1400: Provides no active abilities or combat stats. Purely grants +6.5 health regeneration and +2.25 mana regeneration. Builds from Ring of Health and Void Stone. Stats: Health Regen: +6.5, Mana Regen: +2.25.",
+    "search_text": "perseverance stats, regen stats, hp regen, mana regen, perseverance components, ring of health, void stone, Perseverance",
+    "tags": [
+      "ITEM_DATA",
+      "PERSEVERANCE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "HEALTH",
+      "MANA",
+      "REGEN"
+    ]
+  },
+  {
+    "display_text": "Perseverance, Cost: 1400: Core early-game sustain item for heroes who rely heavily on mana and health to farm or trade in lane. The combined regeneration allows for more ability usage and reduces reliance on consumables. It accelerates farm by enabling longer stays in jungle or lane without needing to return to base. Stats: Health Regen: +6.5, Mana Regen: +2.25.",
+    "search_text": "perseverance farming, perseverance laning, early game item, farming sustain, lane sustain item, mana sustain, health sustain, spam abilities, farm accelerator, Perseverance",
+    "tags": [
+      "ITEM_DATA",
+      "PERSEVERANCE",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "LANING",
+      "SUSTAIN",
+      "FARMING"
+    ]
+  },
+  {
+    "display_text": "Perseverance, Cost: 1400: The key component for heroes transitioning into items like Battle Fury (farm), Linken's Sphere (survival), or Eternal Shroud (magic sustain). Ideal for strength or intelligence cores who need to farm with abilities (e.g., Battle Fury builders, Medusa). The regeneration pairs well with any hero planning to build a major item requiring the component. Stats: Health Regen: +6.5, Mana Regen: +2.25.",
+    "search_text": "perseverance build up, battle fury component, linkens sphere component, eternal shroud component, core item component, perseverance upgrade, Perseverance",
+    "tags": [
+      "ITEM_DATA",
+      "PERSEVERANCE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "UPGRADE",
+      "COMPONENT",
+      "CORE_ITEM"
+    ]
+  }
+]

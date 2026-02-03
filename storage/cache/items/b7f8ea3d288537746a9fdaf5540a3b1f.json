@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Nether Shawl, Cost: 0: A neutral item providing +20% Magic Resistance and +6% Spell Amplification at the cost of -2 Armor. This unique defensive-offensive hybrid is ideal for spellcasters facing heavy magic damage, allowing them to amplify their own magic output while mitigating incoming spells. The armor penalty makes them more vulnerable to physical attacks. Stats: Magic Resistance: +20%, Spell Amp: +6%, Armor: -2.",
+    "search_text": "magic resistance neutral, spell amp neutral, caster neutral item, magic defense neutral, spell damage neutral, nether shawl, tier 2 neutral, hybrid neutral, magic damage amp, caster item, spellcaster neutral, utility neutral, magic survivability, spellcaster defense, magic damage boost",
+    "tags": [
+      "ITEM_DATA",
+      "NETHER_SHAWL",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "MAGIC_RESISTANCE",
+      "SPELL_AMPLIFICATION",
+      "VS_MAGIC",
+      "MAGICAL_DAMAGE",
+      "UTILITY"
+    ]
+  }
+]

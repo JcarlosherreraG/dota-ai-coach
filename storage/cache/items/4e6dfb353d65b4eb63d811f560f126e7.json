@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Spider Legs, Tier 5: Neutral item granting Spider active ability. For 10 seconds, grants 20% bonus movement speed, 50% turn rate improvement, free pathing through trees and terrain, and destroys trees walked over. Provides extreme mobility and unconventional pathing for initiation, escape, or chase. Stats: CD: 20s, Duration: 10s.",
+    "search_text": "spider legs neutral, tier 5 neutral, free pathing, tree destroy, movement speed active, turn rate, chase item, escape item, terrain pathing, run through trees, mobility neutral, Spider Legs",
+    "tags": [
+      "ITEM_DATA",
+      "SPIDER_LEGS",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_5",
+      "MOBILITY",
+      "POSITIONING",
+      "ESCAPE",
+      "INITIATION",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Batrider Aghanim's Scepter: Flaming Lasso now grabs both its target and the nearest allied hero within 650 units. This upgrade counters split-push and teamfight positioning by allowing Batrider to disable two key enemy heroes simultaneously, drastically increasing his initiation impact in clustered engagements.",
+    "search_text": "Batrider Aghanim Scepter anti-split-push teamfight control multi-hero disable initiation upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Batrider",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Batrider Aghanim's Shard: Removes the stack limit on Sticky Napalm and allows it to damage structures. This upgrade counters turtling and high-ground defense by transforming Batrider into a siege threat, forcing enemies to engage or lose buildings to relentless stacking damage.",
+    "search_text": "Batrider Aghanim Shard anti-turtle siege structure damage unlimited stacks Sticky Napalm",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Batrider",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

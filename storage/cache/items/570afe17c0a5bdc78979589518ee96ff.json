@@ -1,0 +1,75 @@
+[
+  {
+    "display_text": "Hurricane Pike, Cost: 4450: Active ability Hurricane Thrust pushes your hero and the targeted enemy 450 units apart, or can be self/ally-cast to push the target 600 units forward. For 6 seconds after casting on an enemy, you can make 5 attacks against them without range restriction and with +100 attack speed. Provides stats, increased attack range for ranged heroes, and is a powerful repositioning and dueling tool. Stats: CD: 19s, Mana Cost: 150, Range Duration: 6s, Max Attacks: 5.",
+    "search_text": "force staff upgrade, hurricane pike, reposition item, self disengage, escape item, save ally, push enemy, break force staff, long range attacks, attack speed buff, ranged carry item, gap creator, defensive mobility, hurricane thrust, Hurricane Pike",
+    "tags": [
+      "ITEM_DATA",
+      "HURRICANE_PIKE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MOBILITY",
+      "ESCAPE",
+      "SAVE",
+      "POSITIONING",
+      "RANGED_BUFF",
+      "ATTACK_SPEED",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Hurricane Pike, Cost: 4450: Provides well-rounded attribute bonuses and health. Grants +15 Strength, +20 Agility, +15 Intelligence, and +200 Health. Additionally, grants +140 Attack Range for ranged heroes. Its utility stems from its active ability.",
+    "search_text": "hurricane pike stats, pike stats, force staff stats, agility item, strength item, intelligence item, range item, dragon lance upgrade, Hurricane Pike",
+    "tags": [
+      "ITEM_DATA",
+      "HURRICANE_PIKE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE",
+      "HEALTH",
+      "ATTACK_RANGE"
+    ]
+  },
+  {
+    "display_text": "Hurricane Pike, Cost: 4450: Defensive teamfight tool used to save allies or yourself from initiation, or to create distance from melee attackers. The active also enables ranged carries to safely attack priority targets from a long distance without being kited. Provides key defensive repositioning and offensive positioning.",
+    "search_text": "save item, hurricane pike save, reposition tool, team fight utility, defensive item, protect ally, anti-melee, kiting tool, ranged kiting, Hurricane Pike",
+    "tags": [
+      "ITEM_DATA",
+      "HURRICANE_PIKE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SAVE",
+      "POSITIONING",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Hurricane Pike, Cost: 4450: Situational item against heroes reliant on close-range lockdown and gap-close. The forced movement can break chases from heroes like Ursa, Slark, or Lifestealer, saving yourself or an ally from being focused down.",
+    "search_text": "vs melee carries, anti melee item, escape from melee, break chase, counter melee initiator, gap creator, force ursa, force slark, Hurricane Pike",
+    "tags": [
+      "ITEM_DATA",
+      "HURRICANE_PIKE",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_MELEE",
+      "DEFENSIVE",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Hurricane Pike, Cost: 4450: Core item for ranged agility carries (Drow Ranger, Sniper, Medusa) who need to create space to attack safely. The stats and range complement their damage output, and the active provides crucial survivability. Often built after a damage item like Dragon Lance.",
+    "search_text": "drow pike, sniper pike, medusa pike, ranged carry item, agility carry, safe positioning, kiting item, ranged hero item, Hurricane Pike",
+    "tags": [
+      "ITEM_DATA",
+      "HURRICANE_PIKE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "RANGED_BUFF",
+      "AGILITY",
+      "UPGRADE"
+    ]
+  }
+]

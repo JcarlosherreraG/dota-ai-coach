@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Spell Prism, Cost: 0 / Tier Neutral: Neutral item providing +12% Cooldown Reduction, +5 to all attributes, and +2 mana regeneration. Significantly increases spellcasting uptime and general survivability. Primarily beneficial for ability-dependent heroes and supports. Stats: Cooldown Reduction: +12%, All Attributes: +5, Mana Regen: +2.",
+    "search_text": "cooldown reduction neutral, neutral item, cooldown item, spell cdr, spell uptime, mana regen neutral, all stats neutral, neutral tier, Spell Prism",
+    "tags": [
+      "ITEM_DATA",
+      "SPELL_PRISM",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "COOLDOWN_REDUCTION",
+      "MANA_REGEN",
+      "UTILITY",
+      "SUSTAIN",
+      "SUPPORT_ITEM",
+      "ALL_STATS"
+    ]
+  }
+]

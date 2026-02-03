@@ -1,0 +1,79 @@
+[
+  {
+    "display_text": "Kaya and Sange, Cost: 4200: Hybrid attribute item providing both spell and survivability amplification. Improves spell damage output while enhancing mana efficiency and resistance to slows, making it effective for spellcaster heroes who also need to withstand physical engagement. Stats: CD: None, Mana Cost: None.",
+    "search_text": "kaya and sange, kaya sange, spell amp item, mana regen item, slow resist item, sange and kaya, hybrid item, spell damage, mana efficiency, mana cost reduction, spell amplification, health regen amp, mana regen amp, Kaya Sange, strength int item",
+    "tags": [
+      "ITEM_DATA",
+      "KAYA_AND_SANGE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "UPGRADE",
+      "SPELL_AMPLIFICATION",
+      "MANA_REGEN",
+      "SLOW_RESISTANCE",
+      "STATUS_RESISTANCE",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Kaya and Sange, Cost: 4200: Provides balanced attribute bonuses with +16 Strength and +16 Intelligence. Enhances health restoration from all sources by 20% and mana regeneration by 50% while reducing mana costs by 25%. Stats: Strength: +16, Intelligence: +16, HP Regen Amp: 20%, Mana Regen Amp: 50%, Mana Cost Reduction: 25%, Slow Resist: 25%, Spell Amp: 12%.",
+    "search_text": "kaya sange stats, strength int, attributes, hp regen amp, mana regen amp, mana cost reduction, slow resistance, spell amp, Kaya Sange",
+    "tags": [
+      "ITEM_DATA",
+      "KAYA_AND_SANGE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "INTELLIGENCE",
+      "HEALTH",
+      "REGEN",
+      "MANA",
+      "MANA_REGEN",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Kaya and Sange, Cost: 4200: Teamfight role focuses on sustain and amplified damage output for spell-reliant cores. The spell amplification increases magic damage, while the health restoration amplification and slow resistance help survive focus fire. Provides frontline magic damage dealers with needed durability.",
+    "search_text": "team fight sustain, spell caster sustain, survivability for mages, damage amp sustain, hybrid core item, frontline mage item, team fight amp, Kaya Sange",
+    "tags": [
+      "ITEM_DATA",
+      "KAYA_AND_SANGE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SUSTAIN",
+      "SURVIVAL",
+      "DEFENSIVE",
+      "DAMAGE",
+      "SPELL_AMPLIFICATION"
+    ]
+  },
+  {
+    "display_text": "Kaya and Sange, Cost: 4200: Situational versus heroes that rely on slows and sustained damage. The 25% slow resistance reduces the impact of movement-impairing effects. The mana cost reduction and amplified regeneration provide superior resource management in extended engagements against heroes with high mana consumption.",
+    "search_text": "slow counter item, versus slows, anti slow, mana sustain, mana fight, extended engagement, resource management, mana efficiency, Kaya Sange",
+    "tags": [
+      "ITEM_DATA",
+      "KAYA_AND_SANGE",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_CONTROL",
+      "STATUS_RESISTANCE",
+      "SLOW_RESISTANCE",
+      "MANA",
+      "REGEN"
+    ]
+  },
+  {
+    "display_text": "Kaya and Sange, Cost: 4200: Synergy build for heroes who cast frequent spells and benefit from both attributes. Ideal for Strength-based spellcasters (e.g., Leshrac, Dragon Knight) or Intelligence heroes needing extra bulk. Upgrades from Sange and Kaya, often built on heroes who already utilize one of the components for its defensive or offensive properties.",
+    "search_text": "kaya sange build, strength caster item, int hero bulk, hybrid caster, spell caster durability, leshrac item, dragon knight item, Kaya Sange",
+    "tags": [
+      "ITEM_DATA",
+      "KAYA_AND_SANGE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "STRENGTH_CORE",
+      "INTELLIGENCE_CORE",
+      "HYBRID_CORE",
+      "UPGRADE"
+    ]
+  }
+]

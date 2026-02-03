@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Mantle of Intelligence, Cost: 140: Provides +3 Intelligence. A basic component for items that provide intelligence or mana pool increases. Stats: Intelligence: +3.",
+    "search_text": "mantle intelligence, +3 int, int item, intelligence component, starting item, cheap int, small int boost, int stat item, mana pool item, component item, Mantle of Intelligence, mantle",
+    "tags": [
+      "ITEM_DATA",
+      "MANTLE_OF_INTELLIGENCE",
+      "STAT_PROFILE",
+      "COMPONENT",
+      "INTELLIGENCE",
+      "MANA",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "1234567892",
+    "game_time": 3300,
+    "clock_time": 3300,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": true
+  },
+  "player": {
+    "team_name": "Radiant",
+    "name": "HOHO_HAHA",
+    "gold": 5200,
+    "kills": 15,
+    "deaths": 2,
+    "assists": 8,
+    "last_hits": 450,
+    "gpm": 750,
+    "xpm": 800
+  },
+  "hero": {
+    "name": "npc_dota_hero_sniper",
+    "level": 28,
+    "health": 2100,
+    "max_health": 2100,
+    "mana": 1200,
+    "max_mana": 1200,
+    "alive": true
+  },
+  "items": {
+    "slot0": { "name": "item_hurricane_pike", "can_cast": true },
+    "slot1": { "name": "item_mjollnir", "can_cast": true },
+    "slot2": { "name": "item_silver_edge", "can_cast": true },
+    "slot3": { "name": "item_monkey_king_bar", "can_cast": false },
+    "slot4": { "name": "item_satanic", "can_cast": true },
+    "slot5": { "name": "item_power_treads", "can_cast": true }
+  },
+  "abilities": {
+    "ability0": { "name": "sniper_shrapnel", "level": 4, "can_cast": true },
+    "ability1": { "name": "sniper_headshot", "level": 4, "can_cast": false },
+    "ability2": { "name": "sniper_take_aim", "level": 4, "can_cast": true },
+    "ability3": { "name": "sniper_assassinate", "level": 3, "can_cast": true, "ultimate": true }
+  },
+  "user_context": "Играю против героев с мгновенной инициацией: Spectre, Spirit Breaker и Storm Spirit. В нашей команде я единственный кор-герой, играем стратегию '4 защищают одного'.",
+  "user_question": "Какой предмет мне срочно собрать, чтобы перестать умирать с прокаста?"
+}

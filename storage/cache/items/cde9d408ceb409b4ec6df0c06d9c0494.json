@@ -1,0 +1,20 @@
+[
+  {
+    "display_text": "Giant's Maul, Cost: 0, Tier 4: Neutral item that empowers one attack every 15 seconds to become a guaranteed critical hit. Hitting an enemy with this empowered attack inflicts a 3-second debuff that slows their movement by 10%, attack speed by 15%, and cast speed by 20%. Valuable for ganking and dueling by amplifying burst damage and crippling the target's ability to fight or escape. Stats: CD: 15s, Crit Multiplier: 140%, Slow Duration: 3s.",
+    "search_text": "critical strike neutral, attack empower, on-hit debuff, slow neutral, attack slow, movement slow, cast slow, tier 4 neutral, gank neutral, duel neutral, burst damage, Giant Maul, Giant's Maul",
+    "tags": [
+      "ITEM_DATA",
+      "GIANTS_MAUL",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_4",
+      "CRIT",
+      "CRITICAL_STRIKE",
+      "DEBUFF",
+      "SLOW",
+      "ATTACK_SLOW",
+      "CATCH",
+      "PHYSICAL_DAMAGE"
+    ]
+  }
+]

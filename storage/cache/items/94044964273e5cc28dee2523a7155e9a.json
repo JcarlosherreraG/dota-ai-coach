@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Cost: null: Pocket Tower. Places a small immobile tower at a target location that attacks enemy units and buildings with projectiles. Has a limited lifetime and can be used to push lanes or defend towers during sieges. Stats: CD: 15s.",
+    "search_text": "pocket tower, deploy tower, building summon, lane push, siege defense, defensive building, immobile tower, push tool, summon structure, spawn tower, place tower, Pocket Tower",
+    "tags": [
+      "ITEM_DATA",
+      "POCKET_TOWER",
+      "CORE_DESCRIPTION",
+      "FULL_ITEM",
+      "SUMMON",
+      "PUSH_UTILITY",
+      "DEFENSE",
+      "SITUATIONAL_USAGE",
+      "UTILITY"
+    ]
+  }
+]

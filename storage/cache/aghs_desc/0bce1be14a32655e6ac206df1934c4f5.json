@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Brewmaster Aghanim's Scepter: Primal Split gains an additional level and can be cancelled early. This upgrade enhances the Brewlings' abilities and provides flexibility in controlling the battlefield, countering prolonged engagements by allowing strategic repositioning or early re-integration.",
+    "search_text": "Brewmaster Aghanim Scepter Primal Split Brewlings control repositioning early cancellation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Brewmaster",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Brewmaster Aghanim's Shard: Provides a strong drink that activates Liquid Courage's maximum power for teammates or self, granting high HP regeneration. This upgrade counters burst damage and sustained damage during teamfights, enabling Brewmaster to act as a sustain support or tank in critical moments.",
+    "search_text": "Brewmaster Aghanim Shard Liquid Courage HP regeneration burst damage sustain support",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Brewmaster",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

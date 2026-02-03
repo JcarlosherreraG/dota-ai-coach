@@ -1,0 +1,29 @@
+[
+  {
+    "display_text": "Animal Courier, Cost: 50: Summons a courier unit that ferries items from your team's fountain to your heroes on the map. It is controlled by the player who purchased it but benefits the entire team. Destroying the courier grants a 175 gold bounty to the enemy team and prevents item delivery for 3 minutes. It can be upgraded to a Flying Courier for 150 gold. Stats: Base Speed: 350 (ground), Upgraded Speed: 350/430/580 (ground/flying/in haste), Haste Duration: 40s.",
+    "search_text": "courier item, animal courier, deliver items, team courier, flying courier, item delivery, summon courier, team utility, early game courier, mid courier, support courier, Animal Courier",
+    "tags": [
+      "ITEM_DATA",
+      "ANIMAL_COURIER",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "TEAM_UTILITY",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Animal Courier, Cost: 50: Purchased immediately at game start by a support or mid player. Enables all heroes on the team to receive consumables, runes, and completed items without leaving their lane. Essential for maintaining lane presence, efficient resource delivery, and overall map control. A core early game team purchase. Stats: Cost: 50.",
+    "search_text": "starting item, game start item, early game essential, support item, mid item, lane sustain, item delivery, team sustain, no return fountain, stay in lane, early courier, Animal Courier",
+    "tags": [
+      "ITEM_DATA",
+      "ANIMAL_COURIER",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "STARTING_ITEM",
+      "TEAM_UTILITY",
+      "LANING",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

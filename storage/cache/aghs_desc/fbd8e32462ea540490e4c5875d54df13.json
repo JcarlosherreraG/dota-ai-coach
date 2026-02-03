@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Centaur Aghanim's Scepter: Work Horse — Grants Stampede benefits passively and allows casting Hitch a Ride on an ally. This upgrade transforms Centaur into a mobile repositioning tool, countering enemy focus-fire by enabling rapid ally relocation during fights.",
+    "search_text": "Centaur Aghanim Scepter Hitch a Ride ally repositioning anti-focus Stampede",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Centaur",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Centaur Aghanim's Shard: Double Edge — Slows enemy heroes and grants temporary Strength per hero hit. This upgrade counters kiting and physical damage dealers by enhancing Centaur's tankiness and crowd control in prolonged engagements.",
+    "search_text": "Centaur Aghanim Shard Double Edge slow Strength anti-kiting physical damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Centaur",
+      "COUNTER_MECHANIC",
+      "SHARD"
+    ]
+  }
+]

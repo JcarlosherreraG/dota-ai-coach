@@ -1,0 +1,48 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "100000007",
+    "game_time": 600,
+    "clock_time": 600,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": true
+  },
+  "player": {
+    "team_name": "Radiant",
+    "name": "Support4",
+    "gold": 800,
+    "kills": 1,
+    "deaths": 2,
+    "assists": 3,
+    "last_hits": 15,
+    "gpm": 280,
+    "xpm": 320
+  },
+  "hero": {
+    "name": "npc_dota_hero_shadow_shaman",
+    "level": 6,
+    "health": 700,
+    "max_health": 900,
+    "mana": 400,
+    "max_mana": 700,
+    "alive": true,
+    "stunned": false,
+    "silenced": false
+  },
+  "items": {
+    "slot0": { "name": "item_arcane_boots", "can_cast": true },
+    "slot1": { "name": "item_magic_wand", "charges": 6, "can_cast": true },
+    "slot2": { "name": "item_ward_observer", "charges": 2, "can_cast": true },
+    "slot3": { "name": "item_ward_sentry", "charges": 3, "can_cast": true },
+    "slot4": { "name": "item_smoke_of_deceit", "can_cast": true },
+    "slot5": { "name": "item_tpscroll", "charges": 1, "can_cast": true }
+  },
+  "abilities": {
+    "ability0": { "name": "shadow_shaman_ether_shock", "level": 2, "can_cast": true, "cooldown": 0 },
+    "ability1": { "name": "shadow_shaman_voodoo", "level": 2, "can_cast": true },
+    "ability2": { "name": "shadow_shaman_shackles", "level": 1, "can_cast": true },
+    "ability3": { "name": "shadow_shaman_mass_serpent_ward", "level": 1, "can_cast": true, "cooldown": 0, "ultimate": true }
+  },
+  "user_context": "Играю на 4-ке. Враги взяли Broodmother на мид, и наш Lina не справляется. Вражеская Brood уже 6-0. У нас нет героев с хорошим AOE уроном.",
+  "user_question": "Как мне помочь против Broodmother? Какой предмет собрать?"
+}

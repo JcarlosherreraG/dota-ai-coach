@@ -1,0 +1,178 @@
+[
+  {
+    "display_text": "Riki is a Melee Agility hero with starting stats of 18 Strength, 30 Agility, and 14 Intelligence. His high base Agility of 30 gives him 5.4 bonus armor, excellent attack damage, and decent health. His attack rate is 1.7 seconds per attack, which is slightly slower than average. His primary attribute gain and melee nature define his core playstyle as a physical damage dealer and assassin.",
+    "search_text": "Riki base stats Melee Agility starting 30 Agility high armor 5.4 attack rate 1.7 Strength 18 Intelligence 14",
+    "tags": [
+      "RIKI",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Riki has three Facets. Contract Killer gives Riki bonus experience for assists and kills, accelerating his level progression. Exterminator modifies Tricks of the Trade to have a 2.5x Agility Bonus when attacking non-hero units and reduces its cooldown by 4 seconds per non-hero kill. Choose Contract Killer for a ganking/roaming playstyle to secure level advantages. Choose Exterminator for a farming/pushing playstyle, allowing him to clear waves and camps quickly and have his ultimate ready more often.",
+    "search_text": "Riki Facet choice Contract Killer bonus XP assists kills Exterminator Tricks of the Trade 2.5x Agility creep kills cooldown reduction 4s",
+    "tags": [
+      "RIKI",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Riki's high base Agility gives him strong harass potential with Backstab on melee lane opponents. Cloak and Dagger provides safety and the threat of invisibility, but the 4-second fade delay at level 1 is long. Use Blink Strike at level 1 or 2 to secure last hits, harass the enemy support, or escape by blinking to a creep. Prioritize levels to reduce the Cloak and Dagger fade delay. Riki is fragile against heavy magic burst and stuns, so positioning is key.",
+    "search_text": "Riki laning phase early game Backstab harass Cloak and Dagger invisibility fade delay Blink Strike last hit escape",
+    "tags": [
+      "RIKI",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Riki's first power spike is at level 6 with Cloak and Dagger, enabling permanent invisibility and bonus kill/assist XP. Level 12 with maxed Smoke Screen and Blink Strike provides high kill threat with a 4-second cooldown Blink and strong area silence/miss chance. His level 20 talent for +500 Blink Strike Cast Range significantly increases his initiation range. Level 25 with +0.3 Backstab Multiplier is a massive damage increase. Key item spikes are Diffusal Blade for mana burn and slow, and Aghanim's Scepter for Tricks of the Trade mobility.",
+    "search_text": "Riki power spike level 6 Cloak and Dagger level 12 max Smoke Screen Blink Strike level 20 talent Blink range level 25 Backstab multiplier Diffusal Blade Aghanim's Scepter",
+    "tags": [
+      "RIKI",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Riki is hard countered by heroes and items that provide True Sight or break his invisibility, such as Slardar, Bounty Hunter, and Sentry Wards. Heroes with area-of-effect damage and disables like Leshrac or Earthshaker can reveal and control him. Items like Ghost Scepter or Ethereal Blade make him unable to attack. Break effects from Silver Edge or Hoodwink's Bushwhack disable his Backstab and Cloak and Dagger passives, removing his damage and invisibility.",
+    "search_text": "Riki counters True Sight Sentry Ward Dust Gem Slardar Bounty Hunter break Silver Edge Hoodwink disable Backstab Cloak and Dagger",
+    "tags": [
+      "RIKI",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Riki's core build is centered on items that augment his agility and disable enemies. Diffusal Blade is essential for the active slow, which synergizes with Backstab, and the mana burn. Manta Style is critical for dispelling dust and other debuffs, creating illusions that benefit from his agility, and increasing his farming speed. Aghanim's Scepter is a core luxury item, making Tricks of the Trade a mobile, untargetable initiation and escape tool.",
+    "search_text": "Riki core items Diffusal Blade slow mana burn Manta Style dispel illusions Aghanim's Scepter Tricks of the Trade mobile untargetable",
+    "tags": [
+      "RIKI",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Riki's role is to pick off key backline supports and spellcasters. He should initiate with Smoke Screen on high-value targets to silence them and cause their attacks to miss. Use Tricks of the Trade to become invulnerable while dealing damage in an area, or to dodge major enemy spells. His job is to create chaos in the enemy backline, force the purchase of detection, and secure kills on fleeing heroes with Blink Strike.",
+    "search_text": "Riki teamfight role assassin pickoff backline Smoke Screen silence miss chance Tricks of the Trade invulnerable dodge Blink Strike chase",
+    "tags": [
+      "RIKI",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Smoke Screen (Q). Throws down a smoke bomb in a 425 radius, silencing enemies and causing their attacks to miss for 6 seconds. The miss chance is 30%/45%/60%/75%. Cooldown is 17/15/13/11 seconds. Can be cast during Tricks of the Trade. Does not prevent the use of active items. Does NOT pierce BKB.",
+    "search_text": "Riki Smoke Screen Q ability area silence attack miss 30 45 60 75 percent duration 6 seconds cooldown 17 15 13 11 radius 425 cast during Tricks of the Trade",
+    "tags": [
+      "RIKI",
+      "ABILITY_DATA",
+      "SILENCE"
+    ]
+  },
+  {
+    "display_text": "Blink Strike (W). Teleports behind a target unit within 600/700/800/900 range, momentarily slowing them by 50% and attacking them for 15/30/45/60 bonus damage if it is an enemy. Cooldown is 13/10/7/4 seconds. Can be used on allies for mobility, but no damage or slow is applied.",
+    "search_text": "Riki Blink Strike W ability teleport behind target range 600 700 800 900 slow 50% bonus damage 15 30 45 60 cooldown 13 10 7 4 ally blink mobility",
+    "tags": [
+      "RIKI",
+      "ABILITY_DATA",
+      "BLINK",
+      "NUKER"
+    ]
+  },
+  {
+    "display_text": "Tricks of the Trade (R). Riki channels for up to 6 seconds, phasing out of the world. Every 1.5 seconds, he strikes 2 random enemy units within a 425 radius from behind, dealing 25/50/75/100 fixed damage per hit plus his Backstab bonus. Cooldown is 21/18/15/12 seconds. Backstab damage is applied to all units hit. Riki is invulnerable and hidden for the duration.",
+    "search_text": "Riki Tricks of the Trade R ultimate channel 6 seconds invulnerable hidden strikes 2 random enemies radius 425 damage 25 50 75 100 fixed plus Backstab cooldown 21 18 15 12",
+    "tags": [
+      "RIKI",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "CHANNELED"
+    ]
+  },
+  {
+    "display_text": "Backstab (Passive). Every time Riki strikes an enemy from behind (within a 105-degree rear cone), he deals additional bonus damage equal to 0.6 times his current Agility. Works when denying friendly units at 25% effectiveness. Illusions play the animation but deal no bonus damage.",
+    "search_text": "Riki Backstab passive ability behind target 105 degree angle bonus damage 0.6x Agility multiplier deny 25% effectiveness illusions no damage",
+    "tags": [
+      "RIKI",
+      "ABILITY_DATA",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Cloak and Dagger (Innate Passive). Riki fades into the shadows, becoming invisible after a 4/3/2 second delay when not attacking. Hero kills grant 130/260/390 bonus experience, and assists grant 100 bonus experience. This is his innate ability, always active.",
+    "search_text": "Riki Cloak and Dagger innate passive permanent invisibility fade delay 4 3 2 seconds bonus XP kill 130 260 390 assist 100 XP",
+    "tags": [
+      "RIKI",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "INVISIBILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing Against Heavy Magic Damage and Disables. In this scenario, enemies have strong nukes and stuns like Lion or Skywrath Mage. Your goal is to survive initial bursts. Build a Black King Bar to become spell immune during fights, allowing you to use Tricks of the Trade or attack freely. Consider a Linken's Sphere against single-target disables like Doom or Hex. Play cautiously; use Smoke Screen to silence key casters before they can react.",
+    "search_text": "Riki vs magic damage disables Lion Skywrath counter build Black King Bar BKB spell immune Linken's Sphere defensive play Smoke Screen silence",
+    "tags": [
+      "RIKI",
+      "SITUATIONAL",
+      "DEFENSIVE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy Team Has Multiple Cores with High Armor. Against heroes like Dragon Knight or Terrorblade with high armor, your physical damage from Backstab is less effective. Your goal is to reduce their armor and lock them down. Build a Desolator for armor reduction and increased burst. Consider a Nullifier to prevent them from using defensive items like Ghost Scepter or Eul's. Focus on using Smoke Screen to disable their right-clicks and secure kills with your team.",
+    "search_text": "Riki vs high armor heroes Dragon Knight Terrorblade counter build Desolator armor reduction Nullifier disable items Smoke Screen miss chance",
+    "tags": [
+      "RIKI",
+      "SITUATIONAL",
+      "DAMAGE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Scenario: You Are the Primary Carry and Need to Farm. When your team needs you to scale into a late-game carry, your goal is to maximize farm and avoid fights early. Choose the Exterminator Facet. Use Tricks of the Trade with the facet bonus to quickly clear stacked jungle camps and waves. Build a Battle Fury for cleave and regen to accelerate farm. Use your invisibility to move safely between lanes and jungle. Join fights only with a significant item advantage.",
+    "search_text": "Riki farming carry Exterminator Facet Tricks of the Trade clear camps waves Battle Fury cleave farm avoid fights",
+    "tags": [
+      "RIKI",
+      "SITUATIONAL",
+      "FARMING"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing Against Invisible or Mobile Heroes. Against heroes like Bounty Hunter, Nyx, or Puck, your goal is to control and reveal them. Carry Sentry Wards and Dust yourself. Build a Silver Edge for break against passive-based heroes and for its own invisibility. Your Smoke Screen is excellent against mobile heroes as it silences, preventing their escape abilities. Coordinate with your team to place detection and pick them off.",
+    "search_text": "Riki vs invisible mobile heroes Bounty Hunter Nyx Puck counter Sentry Ward Dust Silver Edge break Smoke Screen silence detection",
+    "tags": [
+      "RIKI",
+      "SITUATIONAL",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left Talent is +50 Smoke Screen Radius. Right Talent is +10% Cloak and Dagger Movement Speed. Choose +50 Smoke Screen Radius if you are fighting often, as it makes your silence and miss chance easier to land on multiple enemies. Choose +10% Cloak and Dagger Movement Speed if you are focused on map movement, ganking, or farming, as it increases your travel speed while invisible.",
+    "search_text": "Riki talent level 10 left +50 Smoke Screen radius right +10% Cloak and Dagger movement speed",
+    "tags": [
+      "RIKI",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left Talent is -3s Smoke Screen Cooldown. Right Talent is +0.3 Backstab Multiplier. Choose -3s Smoke Screen Cooldown if the enemy team relies on spellcasting or right-click damage, allowing you to silence and debuff them more frequently. Choose +0.3 Backstab Multiplier if you need raw single-target damage increase, significantly boosting your assassination potential on key targets.",
+    "search_text": "Riki talent level 15 left -3s Smoke Screen cooldown right +0.3 Backstab multiplier damage",
+    "tags": [
+      "RIKI",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left Talent is -1s Blink Strike Cooldown. Right Talent is -4s Tricks of the Trade Cooldown. Choose -1s Blink Strike Cooldown for extreme mobility, allowing you to chase and reposition constantly in fights. Choose -4s Tricks of the Trade Cooldown if you are using your ultimate frequently for initiation, damage, or survival, making it available every 8 seconds at max level.",
+    "search_text": "Riki talent level 20 left -1s Blink Strike cooldown right -4s Tricks of the Trade cooldown",
+    "tags": [
+      "RIKI",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left Talent is +500 Blink Strike Cast Range. Right Talent is +0.3 Backstab Multiplier (additional). Choose +500 Blink Strike Cast Range for unparalleled initiation and chase, bringing your total range to 1400 at max level. Choose the additional +0.3 Backstab Multiplier for the highest possible single-target damage output, bringing the total multiplier to 0.9x Agility, making you a true late-game monster.",
+    "search_text": "Riki talent level 25 left +500 Blink Strike cast range right +0.3 Backstab multiplier 0.9x Agility",
+    "tags": [
+      "RIKI",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

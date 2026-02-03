@@ -1,0 +1,73 @@
+[
+  {
+    "display_text": "Skull Basher, Cost: 2875: Provides a 25% chance on melee attacks (10% for ranged) to stun the target for 1.2 seconds and deal 100 bonus physical damage. This Bash effect has a 2.3 second internal cooldown per target, cannot stack with other Bash sources, and does not work on Spirit Breaker, Faceless Void, Slardar, or Kez in Sai mode. It is a reliable source of single-target lockdown, particularly effective on heroes with high attack speed. Stats: CD: 2.3s (proc), Duration: 1.2s (stun), Damage: 100 (bonus physical).",
+    "search_text": "bash item, stun item, lockdown item, chance to stun, melee bash, random stun, attack proc stun, disable item, catch item, hard control, physical lockdown, proc chance, Skull Basher, basher, interrupt, bash cooldown",
+    "tags": [
+      "ITEM_DATA",
+      "SKULL_BASHER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "STUN",
+      "LOCKDOWN",
+      "DISABLE",
+      "PHYSICAL_DAMAGE",
+      "PROC_CHANCE"
+    ]
+  },
+  {
+    "display_text": "Skull Basher, Cost: 2875: Provides a solid stat profile with +30 damage and +10 Strength, boosting both offense and survivability. The damage increase enhances right-click potential, while the Strength adds health and a small amount of damage, making the holder more durable in fights. Stats: Damage: +30, Strength: +10.",
+    "search_text": "skull basher stats, damage item, strength item, right-click stats, physical damage item, carry stats, strength and damage, Skull Basher",
+    "tags": [
+      "ITEM_DATA",
+      "SKULL_BASHER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "STRENGTH",
+      "PHYSICAL_DAMAGE",
+      "HEALTH",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Skull Basher, Cost: 2875: Acts as a mid-to-late game team fight control item, adding reliable single-target lockdown to physical attackers. The chance to stun interrupts channeling spells and can lock down key targets, allowing for picks or providing extra control during engagements. It is not a guaranteed initiation tool but adds significant catch and disruption potential to a hero's basic attacks.",
+    "search_text": "team fight control, fight lockdown, interrupt item, catch potential, single target disable, attack modifier control, team fight utility, Skull Basher",
+    "tags": [
+      "ITEM_DATA",
+      "SKULL_BASHER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "LOCKDOWN",
+      "INTERRUPT",
+      "DISABLE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Skull Basher, Cost: 2875: Counters heroes reliant on channeling abilities or those with escape tools that can be interrupted by a stun. The physical stun bypasses spell immunity, making it effective against enemies with Black King Bar active. It provides a form of control that is difficult to itemize against with standard magic immunity. Stats: Damage Type: Physical, Dispel: Strong Dispels Only.",
+    "search_text": "counter channeling, interrupt channel, stop channel, BKB pierce, pierce spell immunity, counter BKB, disable through BKB, physical disable, vs channelers, Skull Basher",
+    "tags": [
+      "ITEM_DATA",
+      "SKULL_BASHER",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_CHANNELING",
+      "BKB_PIERCE",
+      "PHYSICAL_DAMAGE",
+      "INTERRUPT"
+    ]
+  },
+  {
+    "display_text": "Skull Basher, Cost: 2875: Synergizes well with heroes who have high attack speed or can proc it multiple times, as the 2.3 second cooldown allows for frequent stunning. It is a natural upgrade for melee cores looking to transition into having more control. Considered for builds that already include damage and attack speed items to maximize the chance and impact of the Bash proc.",
+    "search_text": "high attack speed, fast attacker, proc synergy, melee core item, bash synergy, attack speed item follow up, carry item upgrade, Skull Basher, basher build",
+    "tags": [
+      "ITEM_DATA",
+      "SKULL_BASHER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "MELEE_ITEM",
+      "ATTACK_SPEED_SYNERGY"
+    ]
+  }
+]

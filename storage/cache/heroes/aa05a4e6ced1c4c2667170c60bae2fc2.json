@@ -1,0 +1,202 @@
+[
+  {
+    "display_text": "Pugna is a Ranged Intelligence Hero with below-average Strength (19 base) and average Agility (21 base). His high Intelligence (26 base) provides good starting mana. His attack rate is 1.7, indicating a slow attack animation. This statline makes him fragile but with strong spellcasting potential from the start.",
+    "search_text": "Pugna stats ranged intelligence hero 19 strength 21 agility 26 intelligence 1.7 attack rate fragile",
+    "tags": [
+      "PUGNA",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "The Facet 'Siphoning Ward' causes Nether Ward to restore mana and health to Pugna based on damage dealt. This facilitates a sustain-focused playstyle, allowing Pugna to stay active and spam spells in prolonged sieges or fights. The Facet 'Rewards of Ruin' grants Pugna spell amplification per destroyed tower, scaling his magic damage output as the game progresses and rewarding a map-control and objective-focused strategy.",
+    "search_text": "Pugna facets Siphoning Ward Nether Ward restore mana health sustain Rewards of Ruin spell amplification per destroyed tower scaling objective",
+    "tags": [
+      "PUGNA",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Use Nether Blast (95/170/245/320 damage) to secure ranged creep last hits and harass the enemy laner. Your high base intelligence allows for frequent spell usage. Prioritize levels in Nether Blast for wave clear and tower damage (65% vs structures). Use Decrepify defensively on yourself or offensively to set up kills, noting it slows enemy movement by 45/50/55/60% and increases magic damage they take by 20/30/40/50%. Focus on securing farm and pressuring the enemy tower.",
+    "search_text": "Pugna laning phase early game Nether Blast last hit harass 95 170 245 320 damage Decrepify slow 45 50 55 60 percent magic damage amp 20 30 40 50 pressure tower",
+    "tags": [
+      "PUGNA",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6: Life Drain provides kill threat and sustain. Level 12: Maxed Nether Blast and Decrepify for high burst damage and control. Level 18: Max Life Drain for 350 health drain per second. Talent Levels: 10 (CDR vs Ward Health), 15 (HP vs Decrepify Ally Speed), 20 (Life Drain Heal vs Decrepify Duration), 25 (Nether Blast Damage vs Ward Damage). Key item timings: Aghanim's Scepter for Life Drain break, Kaya \u0026 Sange for amplification, Blink Dagger for positioning.",
+    "search_text": "Pugna power spikes level 6 Life Drain 12 max Q W 18 max ult 350 drain talents 10 15 20 25 Aghanim Scepter Kaya Sange Blink Dagger",
+    "tags": [
+      "PUGNA",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Pugna is hard countered by heroes with high burst physical damage that can ignore or quickly remove Decrepify (e.g., TA, Ursa). Heroes with instant silences or hexes can stop his Life Drain channeling. Magic immunity (BKB) renders most of his damage useless. High mobility heroes can dodge Nether Blast and escape Life Drain range.",
+    "search_text": "Pugna counters hard counter physical burst Decrepify ignore silence hex stop Life Drain channel BKB magic immunity mobility dodge",
+    "tags": [
+      "PUGNA",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Aghanim's Scepter is an absolute core item, allowing Life Drain to pierce spell immunity and drain through magic resistance. Kaya (or Kaya \u0026 Sange) is essential for mana management, spell lifesteal, and amplifying all of Pugna's magic damage. Blink Dagger or Force Staff are crucial for positioning to land key Decrepifies and to maintain Life Drain channeling.",
+    "search_text": "Pugna core build Aghanim Scepter Life Drain pierce BKB Kaya Sange mana spell amp Blink Dagger Force Staff positioning",
+    "tags": [
+      "PUGNA",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Pugna's role is backline artillery and disruption. Use Nether Blast for area damage on clustered enemies. Place Nether Ward in the fight to punish enemy spellcasters. Use Decrepify to save a key ally from physical damage, or to amplify magic damage on a crucial enemy target. Channel Life Drain on a low-health enemy to secure a kill or on an ally to provide significant healing.",
+    "search_text": "Pugna teamfight role backline artillery disruption Nether Blast AOE Nether Ward punish casters Decrepify save ally amp magic Life Drain heal kill secure",
+    "tags": [
+      "PUGNA",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Nether Blast deals 95/170/245/320 magical damage in a 400 radius after a 0.8 second delay. It deals 65% of its damage to structures. Cooldown is 5 seconds.",
+    "search_text": "Nether Blast Q spell AOE damage 95 170 245 320 magic 400 radius 0.8 second delay 65 percent structure damage 5 second cooldown",
+    "tags": [
+      "PUGNA",
+      "ABILITY_DATA",
+      "ABILITY_Q",
+      "DAMAGE",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Decrepify slows an enemy's movement speed by 45/50/55/60% for 3.5 seconds, and increases magic damage they take by 20/30/40/50%. On allies, it only provides a 10/15/20/25% bonus to healing received. Does NOT pierce BKB. Can be cast on Nether Ward.",
+    "search_text": "Decrepify W spell slow 45 50 55 60 percent 3.5 seconds magic damage amp 20 30 40 50 percent ally heal amp 10 15 20 25 cannot attack ethereal does not pierce BKB",
+    "tags": [
+      "PUGNA",
+      "ABILITY_DATA",
+      "ABILITY_W",
+      "SLOW",
+      "AMPLIFY",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Nether Ward lasts until destroyed (4 attacks to kill). It has a 1400 radius. When an enemy hero casts a spell within range, the Ward fires at them, dealing 50/70/90/110 base damage plus 1/1.2/1.4/1.6 times the mana cost of the spell as damage. The damage is magical.",
+    "search_text": "Nether Ward E spell ward 4 attacks health 1400 radius base damage 50 70 90 110 damage multiplier 1 1.2 1.4 1.6 per mana spent punish spellcasters",
+    "tags": [
+      "PUGNA",
+      "ABILITY_DATA",
+      "ABILITY_E",
+      "WARD",
+      "PUNISH"
+    ]
+  },
+  {
+    "display_text": "Oblivion Savant is a passive ability that allows Pugna to cast spells and use items while channeling Life Drain. This includes channeled items like Meteor Hammer or Shiva's Guard.",
+    "search_text": "Oblivion Savant passive talent cast spells use items while channeling Life Drain channeled items",
+    "tags": [
+      "PUGNA",
+      "ABILITY_DATA",
+      "ABILITY_D",
+      "PASSIVE",
+      "CHANNEL"
+    ]
+  },
+  {
+    "display_text": "Life Drain is a channeled ability. When cast on an enemy, it drains 150/250/350 health per second from the target to heal Pugna. When cast on an ally, it drains Pugna's health to heal the ally for 150/250/350 health per second. It provides vision over the target. Cooldown is 7 seconds. Does NOT pierce BKB without Aghanim's Scepter.",
+    "search_text": "Life Drain R ultimate channel drain enemy 150 250 350 health per second heal self heal ally cooldown 7 vision does not pierce BKB",
+    "tags": [
+      "PUGNA",
+      "ABILITY_DATA",
+      "ABILITY_R",
+      "ULTIMATE",
+      "CHANNEL",
+      "HEAL",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing against high physical burst damage (e.g., Phantom Assassin, Templar Assassin). In this scenario, Decrepify becomes your primary survival tool. Use it preemptively on yourself when you anticipate a jump. Positioning Nether Ward safely behind your team can still punish their spell usage (e.g., PA's Blink Strike). Itemize for survivability like Ghost Scepter (which stacks with Decrepify) or Glimmer Cape.",
+    "search_text": "Pugna situational vs physical burst high damage PA TA Templar Assassin Decrepify survival Ghost Scepter Glimmer Cape Nether Ward punish",
+    "tags": [
+      "PUGNA",
+      "SITUATIONAL",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your team lacks push. Pugna excels at sieging with Nether Blast, which deals 65% damage to structures. Group with your team early, use Decrepify on the enemy tower to make it immune to physical attacks from defenders, and spam Nether Blast. Nether Ward protects your team during the siege by punishing enemy defenders who try to cast spells.",
+    "search_text": "Pugna situational team lacks push siege tower Nether Blast 65 percent structure damage Decrepify tower immune physical Nether Ward protect",
+    "tags": [
+      "PUGNA",
+      "SITUATIONAL",
+      "SIEGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.",
+    "search_text": "Pugna situational enemy BKB carriers magic immunity Aghanim Scepter rush Life Drain pierce BKB Decrepify Nether Blast other targets Hex",
+    "tags": [
+      "PUGNA",
+      "SITUATIONAL",
+      "VS_BKB"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind. Focus on defensive utility. Use Nether Ward to protect your high ground. Use Decrepify to save your core heroes from ganks. Use Life Drain to keep your carries alive in fights. Itemize for team utility like Force Staff, Glimmer Cape, or Lotus Orb instead of pure damage items.",
+    "search_text": "Pugna situational playing from behind defensive utility Nether Ward high ground Decrepify save core Life Drain heal ally Force Staff Glimmer Cape Lotus Orb",
+    "tags": [
+      "PUGNA",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has heavy magic damage lineup. Your Decrepify can be a double-edged sword, as it amplifies magic damage. Be extremely careful when using it on enemies, as it can lead to your team being wiped by AOE magic. Prioritize using it defensively on allies for the healing amplification or to make them immune to physical damage during magic bursts.",
+    "search_text": "Pugna situational enemy heavy magic damage lineup Decrepify amp magic careful AOE wipe use defensively ally heal amp",
+    "tags": [
+      "PUGNA",
+      "SITUATIONAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "At Level 10, choose between -1s Nether Blast Cooldown or +2 Nether Ward Health. The CDR talent allows for more frequent wave clear, tower damage, and teamfight DPS, ideal for a core/pushing Pugna. The Ward Health talent makes the ward more durable against summons and AOE spells, valuable against spell-heavy lineups where the ward needs to survive longer.",
+    "search_text": "Pugna talent level 10 left -1s Nether Blast Cooldown right +2 Nether Ward Health cooldown reduction vs durability spell heavy lineup",
+    "tags": [
+      "PUGNA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At Level 15, choose between +30% Decrepify Movement Speed To Allies or +250 Health. The movement speed talent transforms Decrepify into a potent save/speed boost for allies, great for a utility/support Pugna. The flat +250 Health talent significantly improves survivability against burst damage, a safer choice for a core Pugna or when facing high physical damage.",
+    "search_text": "Pugna talent level 15 left +30% Decrepify Movement Speed To Allies right +250 Health utility save vs survivability burst",
+    "tags": [
+      "PUGNA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At Level 20, choose between +15% Life Drain Heal or +1.5s Decrepify Duration. The Life Drain talent increases your sustain and healing output dramatically, crucial for a frontlining or drain-tank playstyle. The Decrepify duration talent provides longer disables and damage amplification, excellent for locking down key targets or protecting allies for extended periods.",
+    "search_text": "Pugna talent level 20 left +15% Life Drain Heal right +1.5s Decrepify Duration heal sustain vs disable duration amp",
+    "tags": [
+      "PUGNA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At Level 25, choose between +200 Nether Blast Damage or +1.9 Nether Ward Damage Per Mana. The Nether Blast talent provides massive AOE burst (320 + 200 = 520 damage), making you a primary damage dealer. The Nether Ward talent turns the ward into an extreme threat against high-mana-cost spells, potentially one-shotting supports, ideal against intelligence-heavy lineups.",
+    "search_text": "Pugna talent level 25 left +200 Nether Blast Damage right +1.9 Nether Ward Damage Per Mana AOE burst 520 damage vs ward one-shot support high mana cost",
+    "tags": [
+      "PUGNA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

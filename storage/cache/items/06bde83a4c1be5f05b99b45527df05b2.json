@@ -1,0 +1,75 @@
+[
+  {
+    "display_text": "Dagon (Level 5), Cost: 6250: Instantly deals 800 magical damage to a single target enemy and heals the caster for 75% of the damage dealt (600 HP). Instantly kills illusions. High burst damage tool for finishing low-health heroes or deleting key targets. Stats: CD: 27s, Mana: 200, Range: 600.",
+    "search_text": "magic burst item, nuke item, single target damage, delete hero, illusion killer, instant kill illusions, Dagon, burst damage, magic damage, intelligence item, int carry, spell damage, Dagon 5, Energy Burst",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "MAGICAL_DAMAGE",
+      "SINGLE_TARGET",
+      "VS_ILLUSIONS",
+      "BURST_DAMAGE",
+      "INTELLIGENCE_ITEM",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Dagon (Level 5), Cost: 6250: Provides +15 to all attributes (Strength, Agility, Intelligence) and +15% Spell Lifesteal. Balanced stat profile making it suitable for many hero types seeking burst damage and survivability through spell lifesteal. Stats: Str/Agi/Int: +15, Spell Lifesteal: +15%.",
+    "search_text": "Dagon stats, all stats item, attributes item, spell lifesteal item, int str agi item, universal stats, lifesteal from spells, Dagon 5, Dagon level 5",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE",
+      "SPELL_LIFESTEAL",
+      "SUSTAIN",
+      "UNIVERSAL_STATS"
+    ]
+  },
+  {
+    "display_text": "Dagon (Level 5), Cost: 6250: Teamfight role as a high-burst, single-target magic nuke for quickly eliminating key targets or securing kills. The heal on cast provides sustain during engagements, allowing casters to survive return damage. Particularly effective against illusion-based heroes.",
+    "search_text": "Dagon teamfight, burst role, single target nuke, kill secure, anti-illusion, caster sustain, int nuker, magic nuke item, hero delete, Dagon 5",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "BURST_DAMAGE",
+      "SINGLE_TARGET",
+      "SURVIVAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Dagon (Level 5), Cost: 6250: Situational vs high-HP illusion heroes (Phantom Lancer, Chaos Knight) as it instantly destroys illusions while dealing significant main-target damage. The heal also provides counter-sustain against chip damage in prolonged fights.",
+    "search_text": "Dagon vs illusions, anti illusion item, kill illusions, counter pl, counter phantom lancer, counter naga, illusion clear, Dagon illusion counter, Dagon 5",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_ILLUSIONS",
+      "VS_ILLUSIONS",
+      "VS_SUMMONS",
+      "COUNTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Dagon (Level 5), Cost: 6250: Synergy build for intelligence heroes with high magical burst potential (Nyx Assassin, Tinker) or heroes who can lower magic resistance to amplify damage. Scales with raw intelligence and benefits from Spell Lifesteal due to high damage output.",
+    "search_text": "Dagon build, intelligence core, magic damage build, int nuker item, spell lifesteal build, Dagon nyx, Dagon tinker, Dagon puck, Dagon invoker, Dagon 5",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "INTELLIGENCE_ITEM",
+      "MAGIC_DAMAGE_BUILD",
+      "BURST_DAMAGE_BUILD",
+      "NUKER_ITEM"
+    ]
+  }
+]

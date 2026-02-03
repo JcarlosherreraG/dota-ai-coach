@@ -1,0 +1,79 @@
+[
+  {
+    "display_text": "Soul Ring, Cost: 805: Active ability Sacrifice consumes 170 health to temporarily gain 170 mana, lasting 10 seconds. Creates a mana buffer if the gained mana exceeds your maximum mana pool. This is a self-sustain tool for heroes who rely on abilities but lack mana regen, particularly strength heroes. Stats: CD: 25s, Mana Gain: 170, Duration: 10s.",
+    "search_text": "mana item, health for mana, soul ring, mana sustain, hp to mana, sacrifice health, mana cost item, ability sustain, strength mana item, early mana, self mana regen, Soul Ring, mana buffer, mana pool, Soul Ring",
+    "tags": [
+      "ITEM_DATA",
+      "SOUL_RING",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MANA",
+      "SUSTAIN",
+      "HEALTH_COST",
+      "ACTIVE"
+    ]
+  },
+  {
+    "display_text": "Soul Ring, Cost: 805: Provides +6 Strength and +2 Armor. The Strength bonus increases health pool, which synergizes with the health cost of its active ability. The armor provides survivability against physical damage. Stats: Strength: +6, Armor: +2.",
+    "search_text": "soul ring stats, strength item, armor item, hp item, tank item, Soul Ring stats, soul ring strength, soul ring armor, Soul Ring",
+    "tags": [
+      "ITEM_DATA",
+      "SOUL_RING",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "ARMOR",
+      "HEALTH",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Soul Ring, Cost: 805: Enables repeated ability usage in fights and sieges by converting health to mana. It acts as a combat sustain item for spellcasters, allowing them to maintain pressure. The short cooldown means it can be used multiple times in prolonged engagements.",
+    "search_text": "team fight mana, soul ring sustain, mana for spells, fight sustain, siege mana, Soul Ring team fight, ability sustain item, mana battery, Soul Ring",
+    "tags": [
+      "ITEM_DATA",
+      "SOUL_RING",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SUSTAIN",
+      "MANA"
+    ]
+  },
+  {
+    "display_text": "Soul Ring, Cost: 805: Synergizes with heroes who have high base health or health regen, such as Bristleback, Timbersaw, or Centaur Warrunner. It's excellent for heroes who spam low-cost, high-impact abilities. Also valuable on intelligence cores who need early mana for farming spells. Stats: CD: 25s.",
+    "search_text": "soul ring bristleback, soul ring timber, soul ring centaur, spell spam item, low mana cost hero, soul ring hero, soul ring synergy, farming mana, Soul Ring",
+    "tags": [
+      "ITEM_DATA",
+      "SOUL_RING",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "MANA",
+      "STRENGTH_HEROES"
+    ]
+  },
+  {
+    "display_text": "Soul Ring, Cost: 805: Accelerates farming for heroes who use abilities to clear jungle stacks or creep waves, like Leshrac, Sand King, or Tidehunter. The temporary mana buffer ensures you can cast your full combo even when mana is low, improving jungle and lane efficiency.",
+    "search_text": "soul ring farming, wave clear mana, jungle sustain, mana for farming, soul ring jungle, farming item, creep clear item, Soul Ring farm, Soul Ring",
+    "tags": [
+      "ITEM_DATA",
+      "SOUL_RING",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "MANA",
+      "WAVECLEAR"
+    ]
+  },
+  {
+    "display_text": "Soul Ring, Cost: 805: Situational against heroes who can punish low health or lack burst healing, as the self-damage can be fatal if used carelessly. Be cautious when facing high burst damage heroes like Lion or Lina, or heroes with percent-based damage. Stats: Health Cost: 170.",
+    "search_text": "soul ring counters, self damage item, health cost danger, risky mana item, soul ring bad matchups, soul ring vs burst, Soul Ring counterplay, Soul Ring",
+    "tags": [
+      "ITEM_DATA",
+      "SOUL_RING",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "HEALTH_COST",
+      "RISK"
+    ]
+  }
+]

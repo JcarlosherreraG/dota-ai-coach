@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Tier 3 Token. Tier 3: A redeemable token that provides a Tier 3 Neutral Item upon activation. The resulting item is exclusive to the redeeming hero, cannot be shared with allies, and only one token per tier can be redeemed per hero. This mechanic allows for targeted neutral item acquisition. Stats: No CD, No Mana Cost.",
+    "search_text": "neutral token, tier token, redeem item, neutral item token, tier 3 token, activate neutral item, exclusive item, non-shareable neutral, item claim, token redeem, Tier 3 Token",
+    "tags": [
+      "ITEM_DATA",
+      "TIER_3_TOKEN",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "NON_PURCHASABLE",
+      "UTILITY",
+      "ACTIVATE"
+    ]
+  }
+]

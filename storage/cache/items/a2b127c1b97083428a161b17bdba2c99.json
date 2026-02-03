@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Repair Kit, Cost: 0: Non-purchasable consumable that targets a friendly building, restoring 40% of its maximum health and granting +10 bonus armor over 30 seconds. Provides significant tower sustain during pushes or high-ground defenses. Comes with 3 charges. Stats: CD: 60s, Duration: 30s, Heal: 40% max HP, Armor Bonus: +10, HP Regen: +25.",
+    "search_text": "repair kit, tower repair, building heal, tower sustain, push sustain, defend high ground, building health, armor buff, structure repair, push item, defense item, siege, repair charges, Repair Kit",
+    "tags": [
+      "ITEM_DATA",
+      "REPAIR_KIT",
+      "CORE_DESCRIPTION",
+      "CONSUMABLE",
+      "NON_PURCHASABLE",
+      "DEFENSIVE",
+      "SUSTAIN",
+      "AURA",
+      "BUFF"
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "display_text": "Grandmaster's Glaive, Cost: 5000: Can be instantly toggled between three powerful stances, each granting a 100% chance for a 100% damage critical strike and bash (1.5s bash duration, 2.3s bash cooldown). The Strength Stance amplifies Sange's effects (+16 Strength, +16% Status Resistance, +24% HP Regen Amplification), the Agility Stance enhances Yasha's benefits (+16 Agility, +12 Attack Speed, +8% Movement Speed), and the Intelligence Stance empowers Kaya's properties (+16 Intelligence, +8% Spell Amp, +24% Mana Regen Amplification, +14 Magic Damage to attacks). The stance bonus lasts for 6 seconds, allowing adaptive combat power. Stats: CD: Instant (Toggle), Bonus Crit Damage: 100%.",
+    "search_text": "hybrid item, triple stance, sange yasha kaya, stance switcher, grandmasters glaive, bashing crits, bash chance, critical strike chance, strength stance, agility stance, intelligence stance, status resistance item, spell amp item, attack speed item, grandmaster glaive, super Sange and Yasha and Kaya, Grandmaster's Glaive",
+    "tags": [
+      "ITEM_DATA",
+      "GRANDMASTERS_GLAIVE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "CRITICAL_STRIKE",
+      "BASH",
+      "STANCE_SWITCHING",
+      "STATS",
+      "DAMAGE",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Grandmaster's Glaive, Cost: 5000: Grants +10 Strength, +25 Bonus Damage, and the ability to toggle between powerful secondary buffs. The Strength Stance provides +16 Strength, +16% Status Resistance, and +24% HP Regen Amp. The Agility Stance offers +16 Agility, +12 Attack Speed, and +8% Movement Speed. The Intelligence Stance gives +16 Intelligence, +8% Spell Amp, +24% Mana Regen Amp, and +14 Magic Damage per attack. Stats: Str: +10(+16), Agi: +16, Int: +16, Damage: +25, AS: +12, MS%: +8.",
+    "search_text": "grandmaster glaive stats, attribute bonuses, strength agility intelligence stats, bonus damage, attack speed, movement speed, spell amplification, mana regen, status resistance, hp regen, Grandmaster's Glaive",
+    "tags": [
+      "ITEM_DATA",
+      "GRANDMASTERS_GLAIVE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE",
+      "ATTACK_SPEED",
+      "MOVEMENT_SPEED",
+      "SPELL_AMP",
+      "MANA_REGEN"
+    ]
+  },
+  {
+    "display_text": "Grandmaster's Glaive, Cost: 5000: Functions as a high-impact teamfight and catch item. The guaranteed bash (25% chance for melee, 10% for ranged) provides reliable lockdown and channeling interruption. The 100% damage crit chance ensures major physical burst on every hit, while the choice of stance (Strength for survival, Agility for mobility/attack, Intelligence for magical damage output) allows dynamic adaptation mid-fight to counter enemy compositions. Stats: Bash Duration: 1.5s, Stance Duration: 6s.",
+    "search_text": "teamfight item, lockdown item, catch item, bash item, critical strike item, melee bash, ranged bash, disable, hard disable, physical burst, hybrid damage, fight adaptation, Grandmaster's Glaive",
+    "tags": [
+      "ITEM_DATA",
+      "GRANDMASTERS_GLAIVE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "STUN",
+      "LOCKDOWN",
+      "CRITICAL_STRIKE",
+      "HYBRID_DAMAGE",
+      "ADAPTIVE"
+    ]
+  },
+  {
+    "display_text": "Grandmaster's Glaive, Cost: 5000: Situational vs physical damage and control-heavy lineups. The Strength Stance (+16% Status Resistance) significantly reduces the duration of stuns, slows, and silences. The item's own bash and high damage output can quickly eliminate squishy targets or locked-down cores. The 100% crit chance on every attack ensures high, consistent physical damage regardless of stance. Stats: Status Resistance: 16% (Str Stance).",
+    "search_text": "status resistance item, vs disables, vs control, counter lockdown, anti-control, reduce stun duration, vs physical damage, tank item, survive control, Grandmaster's Glaive",
+    "tags": [
+      "ITEM_DATA",
+      "GRANDMASTERS_GLAIVE",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "STATUS_RESISTANCE",
+      "SURVIVAL",
+      "TANK",
+      "VS_CONTROL"
+    ]
+  },
+  {
+    "display_text": "Grandmaster's Glaive, Cost: 5000: Excellent synergy with high attack speed and right-click heroes (Sven, Troll Warlord, Phantom Assassin) to maximize the bash and critical strike potential. Also powerful on heroes who scale with multiple attributes or benefit from hybrid physical and magical damage output. The 6-second stance duration allows strategic pre-fight buffing. Stats: Bonus Duration: 6s.",
+    "search_text": "synergy item, high attack speed hero, bash hero, crit hero, right-click damage, Sven item, Troll item, Phantom Assassin item, carry item, attribute scaling, Grandmaster's Glaive",
+    "tags": [
+      "ITEM_DATA",
+      "GRANDMASTERS_GLAIVE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Grandmaster's Glaive, Cost: 5000: Provides some farming utility through its passive critical strike chance, accelerating jungle clear and creep wave pushing. The Intelligence Stance can add magical damage to attacks, speeding up farm on heroes with lower base damage. The Agility Stance's attack speed also helps farm acceleration. However, its primary purpose is combat. Stats: Crit Chance: 100%, Attack Speed: +12 (Agi Stance).",
+    "search_text": "farming item, jungle clear, wave clear, attack speed farm, crit farm, magic damage farm, accelerate farm, Grandmaster's Glaive",
+    "tags": [
+      "ITEM_DATA",
+      "GRANDMASTERS_GLAIVE",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "ATTACK_SPEED"
+    ]
+  }
+]

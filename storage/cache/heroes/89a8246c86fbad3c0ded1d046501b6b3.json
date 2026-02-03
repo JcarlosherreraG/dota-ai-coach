@@ -1,0 +1,199 @@
+[
+  {
+    "display_text": "Shadow Demon is a Ranged Intelligence hero. Starting stats: 23 Strength, 18 Agility, 22 Intelligence. Base Attack Time: 1.7 seconds. This gives him a slower than average attack animation and attack rate. As a ranged support, his starting attributes are balanced, with no standout survivability or damage.",
+    "search_text": "Shadow Demon stats ranged intelligence attack type base attack time BAT 1.7 strength 23 agility 18 intelligence 22",
+    "tags": [
+      "SHADOW_DEMON",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet 1 (Promulgate): Disseminate instantly removes a percentage of the opponent's health for its duration. This makes Disseminate a powerful burst damage tool, particularly effective against high-health, low-resistance heroes. Choose this facet when your team needs immediate burst or to counter healing/regen. Facet 2 (Soul Mastery): No descriptive text is provided. This likely modifies another ability, such as Shadow Poison or Demonic Purge. Choose this facet to enhance sustained damage or control, depending on the unlisted effect.",
+    "search_text": "Shadow Demon facets promulgate disseminate percentage health removal burst soul mastery",
+    "tags": [
+      "SHADOW_DEMON",
+      "FACET_STRATEGY",
+      "FACET_PROMULGATE",
+      "FACET_SOUL_MASTERY"
+    ]
+  },
+  {
+    "display_text": "In laning, use Shadow Poison (level 1 or 2) to harass from a distance. Its low 2.5s cooldown allows for frequent stacking. Disruption (level 1) can save your core from ganks or set up kills, but its long 26-second cooldown is costly. Focus on stacking Shadow Poison on the enemy offlaner; a release with 3+ stacks can secure kills. Your low base armor and HP make positioning critical. Use Disseminate to trade favorably, as shared damage punishes enemies for attacking your core.",
+    "search_text": "Shadow Demon laning phase early game harass shadow poison stacking disruption save setup kill positioning",
+    "tags": [
+      "SHADOW_DEMON",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6: Demonic Purge provides a strong slow and basic dispel, a major ganking and counter-initiation spike. Level 12: With level 2 Demonic Purge and maxed Shadow Poison, your magic burst potential peaks. Level 20: The +150 Demonic Purge Damage talent significantly increases your ultimate's nuke. Level 25: The 2 Charges of Disruption talent dramatically increases your teamfight control and save potential. Key item spikes: Aghanim's Scepter (for Demonic Cleanse), Blink Dagger (for initiation), and Shiva's Guard (for armor and int).",
+    "search_text": "Shadow Demon power spikes level 6 demonic purge level 12 level 20 talent +150 damage level 25 talent 2 disruption charges aghanims scepter blink dagger",
+    "tags": [
+      "SHADOW_DEMON",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: 1. Heroes with Spell Immunity (BKB/Lifestealer Rage): Shadow Demon's abilities, except for the Demonic Purge damage portion, do not pierce BKB (pierce_immunity is not present for any ability, indicating it's 0). 2. Break (e.g., Silver Edge, Doom): Disables the application of new Menace (amplify damage) stacks, reducing his right-click contribution. 3. Instant disables (e.g., Lion Hex, Shadow Shaman Shackles): Prevent him from casting Disruption defensively. 4. High Magic Resistance/Pipe of Insight: Severely reduces the impact of Shadow Poison and Demonic Purge damage.",
+    "search_text": "Shadow Demon counters spell immunity BKB break silver edge doom instant hex disable magic resistance pipe of insight",
+    "tags": [
+      "SHADOW_DEMON",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: 1. Aghanim's Scepter: Upgrades Demonic Purge to Demonic Cleanse, providing a powerful dispel and heal for allies. Essential against debuff-heavy lineups. 2. Blink Dagger: Allows Shadow Demon to initiate with Demonic Purge/Disseminate or reposition for crucial Disruption saves. 3. Force Staff/Glimmer Cape: Provides mobility and survivability for himself or his core, synergizing with his save-oriented kit.",
+    "search_text": "Shadow Demon core items aghanims scepter demonic cleanse blink dagger force staff glimmer cape",
+    "tags": [
+      "SHADOW_DEMON",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Disabler and Save Support. Use Disruption to banish key enemy initiators or save allies from burst damage. Cast Disseminate on the primary enemy target to spread damage across their team. Stack Shadow Poison on clumped enemies for massive deferred damage, then use Shadow Poison Release. Use Demonic Purge to dispel key buffs (e.g., Guardian Angel, Press the Attack) and slow high-priority targets. Position at the edge of fights to avoid being focused.",
+    "search_text": "Shadow Demon teamfight role disabler save support disruption banish save disseminate share damage shadow poison stack demonic purge dispel slow",
+    "tags": [
+      "SHADOW_DEMON",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Disruption. Banish target unit for 2.75 seconds. Upon return, creates two illusions of the unit under your control. Illusions last 11/12/13/14 seconds. Illusions deal bonus 20/35/50/65 flat damage but have -80%/-70%/-60%/-50% outgoing damage (20%/30%/40%/50% of normal damage). Illusions take 300% incoming damage. Cooldown: 26/24/22/20 seconds. Mana Cost: 100/110/120/130. Does NOT pierce BKB.",
+    "search_text": "Disruption Q banish illusion create two illusions duration 11 12 13 14 bonus damage 20 35 50 65 outgoing damage 20% 30% 40% 50% incoming damage 300% cooldown 26 24 22 20 mana cost save setup",
+    "tags": [
+      "SHADOW_DEMON",
+      "ABILITY_DATA",
+      "DISRUPTION"
+    ]
+  },
+  {
+    "display_text": "Ability: Disseminate. Applies a debuff for 6 seconds. Whenever the debuffed target takes damage, all enemies within 675 range also take 20%/25%/30%/35% of that damage. Can target enemies or allies. Effect is paused if target is banished by Disruption. Does NOT pierce BKB.",
+    "search_text": "Disseminate W share damage aura 675 radius 20% 25% 30% 35% duration 6 can target allies paused during disruption",
+    "tags": [
+      "SHADOW_DEMON",
+      "ABILITY_DATA",
+      "DISSEMINATE"
+    ]
+  },
+  {
+    "display_text": "Ability: Shadow Poison. Fires a projectile in a line with 1200 speed and 200 radius, dealing 24/36/48/60 initial damage. Applies a stackable debuff. When the debuff expires or is released, it deals damage per stack. Damage per stack is 24/36/48/60, multiplied by 1/2/4/8/16 for having 1/2/3/4/5 stacks respectively. Stacks beyond 5 deal an extra 50 damage each. Max 5 stacks. Cooldown: 2.5 seconds at all levels. Vision Radius: 300. Does NOT pierce BKB.",
+    "search_text": "Shadow Poison E line projectile 1200 speed 200 radius initial damage 24 36 48 60 stack damage multiplier 1 2 4 8 16 max stacks 5 extra damage 50 cooldown 2.5 vision 300",
+    "tags": [
+      "SHADOW_DEMON",
+      "ABILITY_DATA",
+      "SHADOW_POISON"
+    ]
+  },
+  {
+    "display_text": "Ability: Shadow Poison Release. Releases the poison to do damage on all affected enemies. Units under Disruption can still be affected. Does NOT pierce BKB.",
+    "search_text": "Shadow Poison Release R release damage trigger all stacks",
+    "tags": [
+      "SHADOW_DEMON",
+      "ABILITY_DATA",
+      "SHADOW_POISON_RELEASE"
+    ]
+  },
+  {
+    "display_text": "Ability: Demonic Cleanse. Upgraded from Demonic Purge with Aghanim's Scepter. Cleanses target ally for 6 seconds, continuously removing negative buffs (Basic Dispel). At the end of the duration, the ally is healed for 450 health. Units under Disruption can still be affected. Cooldown: 70/65/60 seconds. Does NOT pierce BKB.",
+    "search_text": "Demonic Cleanse Aghanims Scepter upgrade cleanse ally remove negative buffs basic dispel heal 450 duration 6 cooldown 70 65 60",
+    "tags": [
+      "SHADOW_DEMON",
+      "ABILITY_DATA",
+      "DEMONIC_CLEANSE"
+    ]
+  },
+  {
+    "display_text": "Ability: Demonic Purge. Purges target enemy, continuously removing positive buffs (Basic Dispel) and slowing them for 6 seconds. Slow starts at 100% and decays to 20% over the duration. At the end, deals 300/450/600 magic damage. Units under Disruption can still be affected. Cooldown: 70/65/60 seconds. Does NOT pierce BKB.",
+    "search_text": "Demonic Purge Ultimate R purge enemy remove positive buffs basic dispel slow 100 to 20 decay duration 6 damage 300 450 600 cooldown 70 65 60",
+    "tags": [
+      "SHADOW_DEMON",
+      "ABILITY_DATA",
+      "DEMONIC_PURGE"
+    ]
+  },
+  {
+    "display_text": "Ability: Menace. Passive. Shadow Demon's attacks apply a stacking debuff that amplifies damage taken by the target by 2.5% per stack for 8 seconds. Break disables the application of new stacks but does not remove existing ones.",
+    "search_text": "Menace passive attack amplify damage 2.5% per stack duration 8 seconds break disables new stacks",
+    "tags": [
+      "SHADOW_DEMON",
+      "ABILITY_DATA",
+      "MENACE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Magic Resistance/HP Heroes (e.g., Huskar, Pudge). Your pure damage spells (Disseminate percentage health removal with Promulgate facet) and Demonic Purge damage become more valuable than Shadow Poison. Prioritize maxing Disseminate and Demonic Purge. Build utility items like Solar Crest and Aghanim's Scepter to enhance your team's physical damage and saves.",
+    "search_text": "Shadow Demon situation high magic resistance huskar pudge disseminate percentage health demonic purge damage utility solar crest aghanims",
+    "tags": [
+      "SHADOW_DEMON",
+      "SITUATIONAL",
+      "HIGH_MAGIC_RESIST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When your team is losing, shift to a defensive save role. Max Disruption first for the reduced cooldown (20s at level 4) to save your carries. Use Disseminate on your own diving core to punish enemies for focusing them. Build save items like Glimmer Cape and Force Staff. Use Shadow Poison for vision and scouting rather than aggressive stacking.",
+    "search_text": "Shadow Demon situation behind losing defensive save disruption cooldown glimmer cape force staff shadow poison vision",
+    "tags": [
+      "SHADOW_DEMON",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Illusion Heroes (e.g., Chaos Knight, Phantom Lancer). Your Disruption is a double-edged sword; it can save an ally but also create two strong illusions for the enemy. Use it carefully, preferably on allies only. Demonic Purge is excellent for dispelling positive buffs from the illusion hero. Build AOE control items like Shiva's Guard or Gleipnir.",
+    "search_text": "Shadow Demon situation illusion heroes chaos knight phantom lancer disruption creates enemy illusions demonic purge dispel shiva guard gleipnir",
+    "tags": [
+      "SHADOW_DEMON",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: With Global/Semi-Global Allies (e.g., Spectre, Zeus, Nature's Prophet). Use Disseminate on an enemy just as your global ally uses their ability (e.g., Spectre's Haunt, Zeus's Thundergod's Wrath). This shares a massive portion of that global damage to all nearby enemies, potentially turning a pick-off into a teamfight win.",
+    "search_text": "Shadow Demon situation global ally spectre zeus nature's prophet disseminate share global damage haunt thundergods wrath",
+    "tags": [
+      "SHADOW_DEMON",
+      "SITUATIONAL",
+      "WITH_GLOBAL"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents. Left: +50% Shadow Poison Damage. Increases the base and stack damage of Shadow Poison by 50%. Pick when you are the primary magic damage source and can reliably stack Poison. Right: +8 Strength. Grants 152 extra HP and 0.24 HP regen. Pick for survivability against burst-heavy lineups or if you are being focused.",
+    "search_text": "Shadow Demon talent level 10 left 50% shadow poison damage right 8 strength HP survivability",
+    "tags": [
+      "SHADOW_DEMON",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents. Left: +25 Movement Speed. Increases mobility for better positioning, juking, and initiation. Crucial against mobile heroes or if you lack a Blink Dagger. Right: -1s Shadow Poison Cooldown. Reduces cooldown from 2.5s to 1.5s, allowing for much faster stacking and spamming. Pick for maximum magic damage output and wave clear.",
+    "search_text": "Shadow Demon talent level 15 left 25 movement speed right -1s shadow poison cooldown 1.5s",
+    "tags": [
+      "SHADOW_DEMON",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents. Left: +15% Disseminate Shared Damage. Increases the shared damage from 20/25/30/35% to 35/40/45/50%. A massive boost in teamfight damage if you can apply Disseminate to the primary target. Right: +150 Demonic Purge Damage. Increases the end damage from 300/450/600 to 450/600/750. Provides reliable burst, especially valuable against magic-resistant targets.",
+    "search_text": "Shadow Demon talent level 20 left 15% disseminate shared damage right +150 demonic purge damage 450 600 750",
+    "tags": [
+      "SHADOW_DEMON",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents. Left: -30s Demonic Purge Cooldown. Reduces cooldown from 70/65/60s to 40/35/30s. Allows you to use your ultimate in every fight and even multiple times in prolonged engagements. Essential for high-uptime control. Right: 2 Charges of Disruption. Doubles your save/setup potential. Allows you to banish two enemies or save two allies in quick succession. Transformative for teamfight control.",
+    "search_text": "Shadow Demon talent level 25 left -30s demonic purge cooldown right 2 charges of disruption",
+    "tags": [
+      "SHADOW_DEMON",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

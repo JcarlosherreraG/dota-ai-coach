@@ -1,0 +1,283 @@
+[
+  {
+    "display_text": "Medusa is a ranged Agility hero with a slow 1.7 base attack rate. She has high base Intelligence (25) and starting Agility (22), providing decent damage, mana pool, and armor. Her base Strength is 0, indicating a low natural health pool, making her very reliant on her Mana Shield. As a ranged carry, she farms safely from a distance but has low base movement speed.",
+    "search_text": "Medusa stats attack type ranged agility intelligence attack rate 1.7 base armor move speed",
+    "tags": [
+      "MEDUSA",
+      "BASE_STATS",
+      "RANGED",
+      "AGILITY",
+      "INTELLIGENCE",
+      "LOW_HP",
+      "SLOW_ATTACK_RATE"
+    ]
+  },
+  {
+    "display_text": "Medusa's Engorged facet causes Mystic Snake to grant Medusa attack damage. This synergizes with aggressive laning and fighting, rewarding players who land Mystic Snake consistently. The Mana Pact facet allows Medusa to gain attack speed at the cost of mana over time. This is a high-risk, high-reward option for players who manage their mana shield carefully, trading defensive longevity for offensive power.",
+    "search_text": "Facets Engorged Mystic Snake grants attack damage Mana Pact gain attack speed cost mana over time playstyle aggressive laning high risk damage",
+    "tags": [
+      "MEDUSA",
+      "FACET_STRATEGY",
+      "ENGROSSED",
+      "MANA_PACT",
+      "PLAYSTYLE"
+    ]
+  },
+  {
+    "display_text": "In lane, use Mystic Snake (80 mana at level 1) to harass and secure last hits from a safe 750 range. The snake bounces 3 times, dealing 90 damage and stealing 15 mana per target, then returns mana to you. Conserve mana for the shield. Use Split Shot to farm stacked camps later. Aim to have at least one point in Mana Shield early to survive ganks. Farm priority is key; Medusa is a hard carry.",
+    "search_text": "Laning phase first 10 minutes Mystic Snake harass 750 range mana steal 15 mana 90 damage Split Shot farm camps Mana Shield survival hard carry",
+    "tags": [
+      "MEDUSA",
+      "LANING_PHASE",
+      "MYSTIC_SNAKE",
+      "HARASS",
+      "FARM"
+    ]
+  },
+  {
+    "display_text": "Level 6 power spike with Stone Gaze for survivability and counter-initiation. Level 12 with maxed Mana Shield and Mystic Snake for farming and fighting. Level 20 talent is a major spike (+40 Intelligence). Level 25 talent choice offers huge power. Key item spikes: Manta Style for illusions, Skadi for tank and slow, and Daedalus/Moonshard for damage. Timing is critical for Medusa to come online before enemies can burst through her shield.",
+    "search_text": "Power spikes level 6 Stone Gaze level 12 max Mana Shield level 20 talent 40 Intelligence level 25 talent item timing Manta Style Skadi Daedalus Moonshard",
+    "tags": [
+      "MEDUSA",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_20",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Break effects (e.g., from Silver Edge) disable Mana Shield, making her extremely fragile. Mana Burn heroes (Anti-Mage, Nyx Assassin) directly counter her survivability by depleting her HP buffer. Instant disables like Hex prevent her from using Stone Gaze. High physical burst damage can overwhelm the shield if her mana pool is low. Heroes that reduce mana (Invoker EMP, Diffusal Blade) are also strong counters.",
+    "search_text": "Hard counters Break disables Mana Shield Silver Edge Mana Burn Anti-Mage Nyx Assassin Hex instant disable physical burst Diffusal Blade Invoker EMP",
+    "tags": [
+      "MEDUSA",
+      "HARD_COUNTERS",
+      "BREAK",
+      "MANA_BURN",
+      "HEX",
+      "PHYSICAL_BURST"
+    ]
+  },
+  {
+    "display_text": "Manta Style is essential. Illusions benefit from Split Shot and deal significant damage with Mana Shield's damage-per-mana scaling (2.0 + 0.1 per level). Eye of Skadi provides massive stats for HP, mana, and attack damage, synergizing perfectly with her tank-and-spank role. Aghanim's Scepter is highly situational but can be core against heavy single-target spell lineups to trigger Cold Blooded.",
+    "search_text": "Core build essential items Manta Style illusions Split Shot Mana Shield damage Eye of Skadi stats HP mana attack damage Aghanim's Scepter Cold Blooded",
+    "tags": [
+      "MEDUSA",
+      "CORE_BUILD",
+      "MANTA_STYLE",
+      "SKADI",
+      "AGHANIMS_SCEPTER"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Medusa's role is to be an immobile, tanky damage core. Activate Split Shot to hit multiple targets. Position to catch multiple enemies in Stone Gaze (1200 radius), slowing them by 35% and threatening a 2.4s petrify. Use Mystic Snake to burst and regain mana. She soaks damage with Mana Shield while dealing consistent AoE physical damage. She is a frontline anchor that the enemy must focus but struggles to kill.",
+    "search_text": "Teamfight role 5v5 tank damage anchor Split Shot AoE Stone Gaze 1200 radius slow 35% petrify 2.4s soak damage Mana Shield frontline",
+    "tags": [
+      "MEDUSA",
+      "TEAMFIGHT_ROLE",
+      "TANK",
+      "DAMAGE",
+      "AOE",
+      "FRONTLINE"
+    ]
+  },
+  {
+    "display_text": "Split Shot: Medusa magically splits her shot into 4 arrows. These arrows deal a lower percent of her normal damage: 50%/60%/70%/80% damage. The extra targets will not receive other attack effects (like critical strike). Secondary targets are the closest enemy units excluding the primary target. Grants 150 bonus attack range while active. Illusions of Medusa created while Split Shot is active also have this ability.",
+    "search_text": "Ability Q Split Shot toggle 4 arrows damage modifier 50 60 70 80 percent no attack effects bonus range 150 illusions",
+    "tags": [
+      "MEDUSA",
+      "ABILITY_DATA",
+      "SPLIT_SHOT",
+      "AOE",
+      "FARM",
+      "ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Mystic Snake: Sends a snake that jumps between enemy units. Cast Range: 750. Mana Cost: 80/100/120/140. Cooldown: 15/14/13/12s. Deals 90/140/190/240 damage on first hit. Damage increases by 25% with each jump. Jumps 3/4/5/6 times. Steals 15 mana from each target hit. Returns to Medusa after the last jump, restoring mana equal to a percentage of the total mana stolen from all targets. Cannot be disjointed.",
+    "search_text": "Ability W Mystic Snake bounce jumps 3 4 5 6 damage 90 140 190 240 increase 25% per jump mana steal 15 cast range 750 cooldown 15 14 13 12 mana cost 80 100 120 140 undispellable",
+    "tags": [
+      "MEDUSA",
+      "ABILITY_DATA",
+      "MYSTIC_SNAKE",
+      "NUKEDAMAGE",
+      "MANA_BURN",
+      "HARASS"
+    ]
+  },
+  {
+    "display_text": "Gorgon's Grasp: Medusa fires arrows in a line that land in 3 groups over 0.5 seconds. Each grouping is larger than the previous. Enemies struck by a volley take 30/70/110/150 initial burst damage and then are rooted, cannot turn, are revealed, and take 100 damage per second. Root duration: 0.8/1.2/1.6/2.0 seconds. Damage interval: 0.2 seconds. Does NOT pierce BKB.",
+    "search_text": "Ability E Gorgon's Grasp arrows line 3 volleys burst damage 30 70 110 150 root duration 0.8 1.2 1.6 2.0 dps 100 per second root mute turn reveal",
+    "tags": [
+      "MEDUSA",
+      "ABILITY_DATA",
+      "GORGONS_GRASP",
+      "ROOT",
+      "DAMAGE",
+      "REVEAL",
+      "NON_BKB_PIERCE"
+    ]
+  },
+  {
+    "display_text": "Cold Blooded (Aghanim's Scepter Upgrade): When Medusa is targeted with a spell, a single-target Mystic Snake is sent back towards the enemy that turns them into stone for 1 second. This effect has a 1 second cooldown.",
+    "search_text": "Scepter Aghanim's Shard Cold Blooded passive when targeted spell single target Mystic Snake counter stone 1 second cooldown 1s",
+    "tags": [
+      "MEDUSA",
+      "ABILITY_DATA",
+      "COLD_BLOODED",
+      "AGHANIMS_SCEPTER",
+      "PASSIVE",
+      "COUNTER",
+      "STUN"
+    ]
+  },
+  {
+    "display_text": "Mana Shield: Creates a shield that absorbs 98% of incoming damage before reductions, in exchange for Medusa's mana. Damage per mana absorbed: 2.0/2.1/2.2/2.3/2.4/2.5/2.6/2.7 (scales with hero level). Illusions absorb 60% less damage per point of mana. This is Medusa's core survivability tool.",
+    "search_text": "Ability D Mana Shield toggle absorb 98 percent damage per mana 2.0 scales with level illusions 60 percent less effective",
+    "tags": [
+      "MEDUSA",
+      "ABILITY_DATA",
+      "MANA_SHIELD",
+      "SURVIVAL",
+      "DAMAGE_BLOCK",
+      "ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Stone Gaze: Any enemy units within 1200 range looking at Medusa have their movement and attack speed slowed by 35%. If a unit accumulates 2.0 seconds of facing time while Stone Gaze is active, they turn to stone for 2.0/2.2/2.4 seconds. Petrified units are stunned and take 35%/45%/55% bonus physical damage from attacks. Duration: 5/5.5/6 seconds. Mana Cost: 250. Cooldown: 90 seconds. Provides 50 movement speed to Medusa. Pierces BKB (slow and stun).",
+    "search_text": "Ultimate R Stone Gaze aura 1200 radius slow 35% move speed attack speed petrify stone 2.0 second accumulate face duration 2.0 2.2 2.4 stun bonus physical damage 35 45 55 percent duration 5 5.5 6 cooldown 90 mana 250 speed boost 50 BKB pierce",
+    "tags": [
+      "MEDUSA",
+      "ABILITY_DATA",
+      "STONE_GAZE",
+      "ULTIMATE",
+      "AURA",
+      "SLOW",
+      "STUN",
+      "PHYSICAL_AMPLIFY",
+      "BKB_PIERCE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs. High Armor / Evasion. Medusa's primary damage is physical. Build Monkey King Bar to counter evasion. Her Split Shot and Stone Gaze's physical damage bonus are less effective against high armor. Consider items that reduce armor like Assault Cuirass or that deal magic damage through talents/illusions.",
+    "search_text": "Situational vs high armor evasion Monkey King Bar MKB Assault Cuirass armor reduction physical damage countered",
+    "tags": [
+      "MEDUSA",
+      "SITUATIONAL",
+      "HIGH_ARMOR",
+      "EVASION",
+      "MKB",
+      "ASSAULT_CUIRASS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind / Defending High Ground. Medusa excels at defending with Split Shot clearing waves and Stone Gaze zoning the choke. Prioritize survivability items like Skadi and Butterfly. Use Mystic Snake to farm safely. Your Mana Shield makes you very hard to dive under tower. Drag the game out to reach your late-game potential.",
+    "search_text": "Situational playing from behind defending high ground Split Shot wave clear Stone Gaze zone choke survivability Skadi Butterfly stall game late game",
+    "tags": [
+      "MEDUSA",
+      "SITUATIONAL",
+      "DEFENSE",
+      "HIGH_GROUND",
+      "STALL",
+      "LATE_GAME"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Mana Burn (Anti-Mage, Nyx). Mana Burn is a direct counter to Mana Shield. Itemize for instant lockdown (Scythe of Vyse) to kill them quickly. Build raw HP items like Eye of Skadi and Heart of Tarrasque to have a health buffer when your mana is drained. Consider Linken's Sphere to block key mana burn spells.",
+    "search_text": "Situational enemy mana burn Anti-Mage Nyx Assassin counter Mana Shield Scythe of Vyse hex Skadi Heart HP buffer Linken's Sphere",
+    "tags": [
+      "MEDUSA",
+      "SITUATIONAL",
+      "MANA_BURN",
+      "ANTI_MAGE",
+      "NYX",
+      "HEX",
+      "HP_BUFFER",
+      "LINKENS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Accelerate Farm. Medusa farms slowly without items. Use Mystic Snake to secure lane creeps from a distance. Use Split Shot to farm jungle camps and ancient stacks. Early game items like Mask of Madness (if not using Mana Pact facet) or Maelstrom can significantly increase farm speed. Take the +8% Split Shot damage talent at level 15.",
+    "search_text": "Situational accelerate farm speed Mystic Snake lane Split Shot jungle ancients Mask of Madness Maelstrom talent Split Shot damage",
+    "tags": [
+      "MEDUSA",
+      "SITUATIONAL",
+      "FARM_SPEED",
+      "SPLIT_SHOT",
+      "MAELSTROM",
+      "MASK_OF_MADNESS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Heavy Single-Target Disable (Bane, Doom). Aghanim's Scepter is crucial. Cold Blooded will trigger when targeted, sending a Mystic Snake back that stuns the attacker for 1 second, potentially interrupting channels or saving you. Combine with Linken's Sphere for layered protection.",
+    "search_text": "Situational heavy single target disable Bane Doom Aghanim's Scepter Cold Blooded counter stun 1 second interrupt Linken's Sphere",
+    "tags": [
+      "MEDUSA",
+      "SITUATIONAL",
+      "SINGLE_TARGET",
+      "DISABLE",
+      "AGHANIMS_SCEPTER",
+      "COLD_BLOODED",
+      "LINKENS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your Team Lacks Initiation. While not a natural initiator, Medusa can force fights with Stone Gaze. Use it to catch key targets looking at you as your team follows up. Build a Blink Dagger to get into optimal position to catch multiple enemies in the Stone Gaze cone. The 50 movement speed bonus helps reposition.",
+    "search_text": "Situational team lacks initiation Stone Gaze force fight catch targets Blink Dagger positioning movement speed 50",
+    "tags": [
+      "MEDUSA",
+      "SITUATIONAL",
+      "INITIATION",
+      "BLINK_DAGGER",
+      "STONE_GAZE_POSITIONING"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is +20% Gorgon's Grasp Radius. This increases the area covered by the arrow volleys, making it easier to land the root and damage, useful for control and farming. Right choice is +10% Stone Gaze Bonus Physical Damage. This increases the damage amp on petrified targets from 35%/45%/55% to 45%/55%/65%, a significant boost for killing key targets. Choose left for utility/farm, right for fight damage.",
+    "search_text": "Talent level 10 left 20 percent Gorgon's Grasp radius right 10 percent Stone Gaze bonus physical damage control vs damage amp",
+    "tags": [
+      "MEDUSA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10",
+      "GORGONS_GRASP",
+      "STONE_GAZE"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is +8% Split Shot Outgoing Damage. This increases the damage of Split Shot arrows from 50%/60%/70%/80% to 58%/68%/78%/88%, a substantial boost to your AoE physical DPS and farming speed. Right choice is -3s Mystic Snake Cooldown. Reduces cooldown from 12s to 9s at max level, increasing harassment, mana sustain, and burst frequency. Choose left for pure damage and farm, right for spell spam and lane dominance.",
+    "search_text": "Talent level 15 left 8 percent Split Shot outgoing damage right minus 3 second Mystic Snake cooldown AoE DPS vs spell spam",
+    "tags": [
+      "MEDUSA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15",
+      "SPLIT_SHOT",
+      "MYSTIC_SNAKE"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is +3 Mystic Snake Bounces. Increases maximum jumps from 6 to 9, dramatically increasing its potential damage and mana steal/return in crowded fights. Right choice is +2s Stone Gaze Duration. Increases ultimate duration from 6s to 8s at max level, providing longer slow and more time for enemies to be petrified. Choose left for sustained mana and damage in long fights, right for stronger teamfight control and area denial.",
+    "search_text": "Talent level 20 left 3 Mystic Snake bounces jumps right 2 second Stone Gaze duration mana steal vs control duration",
+    "tags": [
+      "MEDUSA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20",
+      "MYSTIC_SNAKE_BOUNCES",
+      "STONE_GAZE_DURATION"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is +40 Intelligence. This provides a massive 520 mana, 40 attack speed, and 2.8% spell amp. It significantly boosts Mana Shield's effective HP and Mystic Snake damage. Right choice is Gorgon's Grasp Applies Stone Form. This causes Gorgon's Grasp to also petrify enemies for its root duration (2.0s at max level), providing a hard stun on a basic ability. Choose left for overall stats and survivability, right for insane single-target lockdown and burst combo potential.",
+    "search_text": "Talent level 25 left 40 Intelligence mana attack speed right Gorgon's Grasp applies Stone Form petrify stun stats vs lockdown",
+    "tags": [
+      "MEDUSA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25",
+      "INTELLIGENCE",
+      "GORGONS_GRASP_STONE_FORM"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "display_text": "Swift Blink, Cost: 6800: Teleport to a target point up to 1200 units away. Cannot be used for 3 seconds after taking hero or Roshan damage. After teleporting, grants 40% phased movement speed and +35 Agility for 6 seconds. High-tier mobility upgrade for extreme positioning and chase potential. Stats: CD: 15s, Range: 1200, Damage Disable: 3s, Agility Buff: +35, Phased MS: 40%, Duration: 6s.",
+    "search_text": "blink upgrade, swift blink, advanced blink, mobility item, repositioning tool, chase tool, agility blink, speed blink, teleport item, initiation item, escape tool, instant movement, gap closer, agility buff, phased movement, phase speed, advanced mobility, Swift Blink",
+    "tags": [
+      "ITEM_DATA",
+      "SWIFT_BLINK",
+      "FULL_ITEM",
+      "UPGRADE",
+      "CORE_MECHANICS",
+      "MOBILITY",
+      "POSITIONING",
+      "ESCAPE",
+      "INITIATION",
+      "AGILITY"
+    ]
+  },
+  {
+    "display_text": "Swift Blink, Cost: 6800: Provides +25 Agility passively. The primary upgrade from Blink Dagger or Arcane Blink, trading raw stats for superior chase and initiation power with the speed and agility buff on use. Stats: Agility: +25.",
+    "search_text": "swift blink stats, agility item, stat profile, attribute bonuses, passive agility, agility bonus, swift blink agility, stat item, Swift Blink",
+    "tags": [
+      "ITEM_DATA",
+      "SWIFT_BLINK",
+      "FULL_ITEM",
+      "UPGRADE",
+      "STAT_PROFILE",
+      "AGILITY"
+    ]
+  },
+  {
+    "display_text": "Swift Blink, Cost: 6800: Premium team fight and pickoff item for Agility carries and initiators. The post-blink speed and Agility boost lets heroes stick to targets or reposition aggressively during fights. The damage cooldown window requires precise engagement timing. Stats: Agility Active: +35, Duration: 6s.",
+    "search_text": "swift blink team fight, agility carry item, chase item, stick to target, repositioning, aggressive positioning, team fight mobility, carry initiation, fight reposition, Swift Blink",
+    "tags": [
+      "ITEM_DATA",
+      "SWIFT_BLINK",
+      "FULL_ITEM",
+      "UPGRADE",
+      "TEAMFIGHT_ROLE",
+      "AGILITY",
+      "CARRY_ITEM",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Swift Blink, Cost: 6800: Essential for Agility heroes who rely on mobility and positioning for damage output (e.g., Phantom Assassin, Templar Assassin). The post-blink Agility spike significantly increases right-click damage for the duration. Stats: Agility Buff: +35.",
+    "search_text": "swift blink synergy, agility hero item, physical damage carry, right click damage, attack damage, agility timing, damage window, carry dps, hero synergy, Swift Blink",
+    "tags": [
+      "ITEM_DATA",
+      "SWIFT_BLINK",
+      "FULL_ITEM",
+      "UPGRADE",
+      "SYNERGY_BUILD",
+      "AGILITY",
+      "CARRY_ITEM",
+      "DAMAGE",
+      "ATTACK_SPEED"
+    ]
+  }
+]

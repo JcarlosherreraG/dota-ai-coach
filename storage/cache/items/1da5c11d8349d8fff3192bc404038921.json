@@ -1,0 +1,43 @@
+[
+  {
+    "display_text": "Overflowing Elixir, Cost: 0: Non-purchasable utility item that provides burst healing and mana restoration to allies or self. Targets an allied hero (including yourself) to restore 500 HP and 200 Mana over 4 seconds. Can be used to save a teammate in a fight or to rapidly replenish resources after a skirmish. Stats: CD: 45s, Heal: 500, Mana: 200, Duration: 4s.",
+    "search_text": "consumable heal item, consumable mana item, burst heal item, burst mana item, ally heal, save ally, team fight save, consumable support item, heal consumable, mana consumable, post-fight regen, Overflowing Elixir",
+    "tags": [
+      "ITEM_DATA",
+      "OVERFLOWING_ELIXIR",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "HEALTH",
+      "MANA",
+      "SAVE",
+      "SUPPORT_ITEM",
+      "BUFF"
+    ]
+  },
+  {
+    "display_text": "Overflowing Elixir, Cost: 0: Ideal for high-impact support heroes during the late game or after securing a key neutral item. Provides a significant burst of sustain that can turn the tide of a fight by quickly restoring a core hero's HP and mana pool, allowing them to continue casting spells and dealing damage. Its 45-second cooldown demands careful timing for maximum value.",
+    "search_text": "late game consumable, support save item, turn fight item, sustain in fight, high impact consumable, burst sustain, team fight sustain, heal and mana, utility consumable, Overflowing Elixir",
+    "tags": [
+      "ITEM_DATA",
+      "OVERFLOWING_ELIXIR",
+      "TEAMFIGHT_ROLE",
+      "CONSUMABLE",
+      "SUPPORT_ITEM",
+      "SAVE",
+      "SITUATIONAL_USAGE"
+    ]
+  },
+  {
+    "display_text": "Overflowing Elixir, Cost: 0: Use this item situationally to save a core hero from being burst down or to enable a key ultimate by restoring mana. It excels in prolonged engagements where the extra 500 HP and 200 Mana can allow your team to outlast the opponent. Also effective for quickly healing up after taking Roshan or a tower to maintain map pressure.",
+    "search_text": "situational heal, mana restore for ult, save from burst, prolonged fight item, sustain advantage, map pressure sustain, roshan heal, tower siege sustain, clutch save, Overflowing Elixir",
+    "tags": [
+      "ITEM_DATA",
+      "OVERFLOWING_ELIXIR",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "SAVE",
+      "SITUATIONAL_USAGE",
+      "UTILITY"
+    ]
+  }
+]

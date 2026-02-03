@@ -1,0 +1,247 @@
+[
+  {
+    "display_text": "Brewmaster is a melee strength hero with a base attack range of 150. His starting stats are 24 strength, 19 agility, and 17 intelligence. He has a base attack time of 1.7, making his attacks slightly slower than average. As a melee core, his early laning survivability is built around his base stats and abilities, not inherent high armor or speed.",
+    "search_text": "Brewmaster stats melee strength 24 str 19 agi 17 int attack range 150 1.7 BAT base attack time",
+    "tags": [
+      "BREWMASTER",
+      "BASE_STATS",
+      "MELEE",
+      "STRENGTH"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Roll Out the Barrel. Replaces Cinder Brew's projectile with a barrel throw, damaging enemies in a line. Facilitates safer long-range harass, poking, and slow application from a 950 range, but loses the large 400 radius area effect of standard Cinder Brew. Good for matchups where you cannot walk up or need to secure ranged creeps. Facet 2: Drunken Master. While Brewed Up, movement speed alternates between 15% slower and 50% faster every second. Introduces chaotic, unpredictable mobility during your burst window, aiding initiation and escape. Adds a high skill-cap micro-benefit. Facet 3: Hungover. Does nothing. A joke facet for flavor. Never pick this.",
+    "search_text": "Brewmaster facet roll out the barrel 950 range line damage drunken master brewed up movement speed alternate 15 slower 50 faster hungover does nothing",
+    "tags": [
+      "BREWMASTER",
+      "FACET_STRATEGY",
+      "ROLL_OUT_THE_BARREL",
+      "DRUNKEN_MASTER",
+      "HUNGOVER"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, focus on securing last hits with your decent base damage. Use Thunder Clap level 1 to secure ranged creeps and harass the enemy duo with its 80 damage and 15% slow. Prioritize Drunken Brawler for survivability and trade potential; the Earth Brawler stance provides 2 armor and 8% magic resistance passively. Use Cinder Brew to control the lane by slowing enemies (24%) for last hitting or setting up kills with your support. Your goal is to reach level 6 with reasonable farm to enable ganks or survival with Primal Split.",
+    "search_text": "Brewmaster laning phase thunder clap last hit harass 80 damage cinder brew slow 24% drunken brawler earth stance 2 armor 8% magic resist level 6 primal split",
+    "tags": [
+      "BREWMASTER",
+      "LANING_PHASE",
+      "LAST_HIT",
+      "HARASS"
+    ]
+  },
+  {
+    "display_text": "Power Spike 1: Level 6 with Primal Split. Provides a strong dispel, escape, and kill potential for 16 seconds. Power Spike 2: Level 12 with maxed Cinder Brew (320 damage, 36% slow) and level 2 ultimate (20s duration). Power Spike 3: Level 18 with maxed Thunder Clap (320 damage, 60% slow) and level 3 ultimate (24s duration). Power Spike 4: Level 20 Talent +110 Attack Speed significantly boosts physical DPS, especially with Fire Brawler stance. Power Spike 5: Level 25 Talent Cinder Brew applies Fear when ignited provides powerful AOE control.",
+    "search_text": "Brewmaster power spikes level 6 primal split 16s level 12 max cinder brew 320 damage level 18 max thunder clap 60 slow level 20 talent 110 attack speed level 25 talent cinder brew fear",
+    "tags": [
+      "BREWMASTER",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_18",
+      "LEVEL_20",
+      "LEVEL_25"
+    ]
+  },
+  {
+    "display_text": "Break mechanics (e.g., Doom, Silver Edge) completely disable his core passive, Drunken Brawler, removing all stance bonuses (armor, magic resistance, evasion, crit, attack speed). High burst magic damage before he can activate Primal Split can kill him through his Liquid Courage status resistance. Instant disables like Hex prevent Primal Split activation. Heroes with high mobility can easily kite him and his brewlings. Area of Effect damage and control can kill his brewlings, ending Primal Split early.",
+    "search_text": "Brewmaster counters break doom silver edge disables drunken brawler passive burst magic damage kill before primal split instant hex disable split activation kite brewlings AOE damage kill brewlings",
+    "tags": [
+      "BREWMASTER",
+      "HARD_COUNTERS",
+      "BREAK",
+      "BURST",
+      "HEX",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Core Item 1: Blink Dagger. Non-negotiable for initiating with Thunder Clap and Cinder Brew, or escaping to split. Core Item 2: Aghanim's Scepter. Upgrades Primal Split, giving brewlings +1 level to their abilities and significantly increasing their power and utility. Core Item 3: Black King Bar. Critical for channeling Primal Split without interruption in the middle of fights and to ensure you can apply your spells through enemy control.",
+    "search_text": "Brewmaster core build blink dagger initiate thunder clap cinder brew aghanims scepter upgrade primal split brewling levels black king bar BKB channel split uninterrupted",
+    "tags": [
+      "BREWMASTER",
+      "CORE_BUILD",
+      "BLINK_DAGGER",
+      "AGHANIMS_SCEPTER",
+      "BLACK_KING_BAR"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Brewmaster's primary role is initiation and disruption. Use Blink Dagger to jump into the enemy team, cast Thunder Clap for AOE damage and attack/movement slow, then apply Cinder Brew to a key cluster. Immediately use Primal Split to dispel debuffs, become invulnerable, and spawn three brewlings. Micro each brewling: Earth to tank and use Pulverize (stun), Storm to Cyclone key targets, and Fire to deal physical damage. Your goal is to create chaos, disable carries, and survive until the split ends.",
+    "search_text": "Brewmaster teamfight role initiator disrupt blink thunder clap AOE slow cinder brew primal split invulnerable brewlings micro earth storm fire cyclone stun damage chaos",
+    "tags": [
+      "BREWMASTER",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "DISRUPTION",
+      "MICRO"
+    ]
+  },
+  {
+    "display_text": "Ability: Thunder Clap (Q). Slams the ground, dealing 80/160/240/320 magical damage in a 400 radius and slowing enemy movement speed by 15%/30%/45%/60% and attack speed by 15/30/45/60 for 4 seconds. Cooldown is 18/16/14/12 seconds. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Thunder Clap Q ability AOE damage 80 160 240 320 magic slow movement 15 30 45 60 attack speed slow 15 30 45 60 4s duration 400 radius cooldown 18 16 14 12",
+    "tags": [
+      "BREWMASTER",
+      "ABILITY_DATA",
+      "THUNDER_CLAP",
+      "AOE",
+      "SLOW",
+      "MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Ability: Cinder Brew (W). Rolls a barrel of ale 950 units at 950 speed, damaging enemies along its 350 width path for 40/70/100/130 magic damage and spills at the target 400 radius location. Enemies in path or spill are drenched, becoming slowed by 24%/28%/32%/36%. If a drenched enemy takes magic or pure damage, they are ignited, taking 80/160/240/320 magic damage over time and extending the slow duration by 3 seconds. Cooldown not in data, but standard is 21/18/15/12. Does NOT pierce BKB.",
+    "search_text": "Cinder Brew W ability barrel roll 950 range 950 speed 40 70 100 130 path damage 350 width 400 radius spill slow 24 28 32 36 ignite magic pure damage 80 160 240 320 damage over time extend slow 3s",
+    "tags": [
+      "BREWMASTER",
+      "ABILITY_DATA",
+      "CINDER_BREW",
+      "SLOW",
+      "DAMAGE_OVER_TIME",
+      "LINE_SPELL"
+    ]
+  },
+  {
+    "display_text": "Ability: Drunken Brawler (E). Passive that allows Brewmaster to switch between three stances. Earth Brawler grants 8%/12%/16%/20% magic resistance and 2/4/6/8 armor. Storm Brawler grants 15%/20%/25%/30% evasion and 4/6/8/10% movement speed. Fire Brawler grants 10/20/30/40 attack speed and a 20% chance to critical strike for 120%/140%/160%/180% damage. Casting any ability grants Brewed Up, increasing stance power by 150% for 5s. Casting another ability while Brewed Up extends duration by 2s. After Brewed Up, a 9s Hangover timer prevents another Brewed Up.",
+    "search_text": "Drunken Brawler E passive stance switch earth brawler 8 12 16 20 magic resist 2 4 6 8 armor storm brawler 15 20 25 30 evasion 4 6 8 10 movement speed fire brawler 10 20 30 40 attack speed 20 crit chance 120 140 160 180 crit damage brewed up 150 power 5s duration extend 2s hangover 9s",
+    "tags": [
+      "BREWMASTER",
+      "ABILITY_DATA",
+      "DRUNKEN_BRAWLER",
+      "PASSIVE",
+      "STANCE",
+      "EVASION",
+      "CRIT",
+      "MAGIC_RESIST"
+    ]
+  },
+  {
+    "display_text": "Ability: Liquid Courage (Innate). When Brewmaster drops below 50% Health, he gains Status Resistance and his movement speed alternates every 1 second between being faster and slower. The effect strength scales from 0 at 50% HP to maximum at 20% HP, providing up to 10.5% Status Resistance, up to 30% max movement speed increase, and up to 10% min movement speed decrease. The HP regen value is 0, so it provides no healing.",
+    "search_text": "Liquid Courage innate ability below 50 health status resistance 10.5 max movement speed alternate 1s faster slower scaling 20 hp 30 speed max 10 speed min 0 hp regen",
+    "tags": [
+      "BREWMASTER",
+      "ABILITY_DATA",
+      "LIQUID_COURAGE",
+      "INNATE",
+      "STATUS_RESISTANCE",
+      "MOVEMENT_SPEED"
+    ]
+  },
+  {
+    "display_text": "Ability: Primal Split (R). Splits Brewmaster into Earth, Storm, and Fire brewlings for 16/20/24/24 seconds. If any survive, Brewmaster is reborn. Earth Brewling has 1400/2300/3200/4100 HP and 35/70/105/140 damage. Storm Brewling has 1000/1500/2000/2500 HP and 30/50/70/90 damage. Fire Brewling has 1300/1450/1600/1750 HP and 70/120/170/220 damage. Each brewling gains its respective Drunken Brawler stance. Cooldown is 140/130/120 seconds. Aghanim's Scepter grants +1 level to brewling abilities.",
+    "search_text": "Primal Split R ultimate split brewlings earth storm fire 16 20 24 24 duration earth hp 1400 2300 3200 4100 damage 35 70 105 140 storm hp 1000 1500 2000 2500 damage 30 50 70 90 fire hp 1300 1450 1600 1750 damage 70 120 170 220 cooldown 140 130 120 aghanims scepter +1 level",
+    "tags": [
+      "BREWMASTER",
+      "ABILITY_DATA",
+      "PRIMAL_SPLIT",
+      "ULTIMATE",
+      "SUMMON",
+      "INVULNERABILITY",
+      "DISRUPT"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Physical Damage Teams. Prioritize Earth Brawler stance for its bonus armor. Consider items like Assault Cuirass and Heaven's Halberd. Use Primal Split's Earth brewling to tank and stun (Pulverize) the primary right-clicker. The +600 Brewlings Health talent at level 15 is highly valuable here.",
+    "search_text": "Brewmaster vs high physical damage earth brawler armor assault cuirass heaven halberd primal split earth brewling tank stun pulverize talent 600 brewling health",
+    "tags": [
+      "BREWMASTER",
+      "SITUATIONAL",
+      "VS_PHYSICAL_DAMAGE",
+      "ITEMIZATION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Magic Damage Teams. Prioritize Earth Brawler stance for its magic resistance. Build a Pipe of Insight and consider a Hood of Defiance early. Use Primal Split to dodge big magical nukes with the invulnerability frames. The +40% Cinder Brew Damage/Duration talent at level 10 increases your magic damage output and control.",
+    "search_text": "Brewmaster vs high magic damage earth brawler magic resist pipe of insight hood defiance primal split invulnerability dodge nukes talent 40 cinder brew damage duration",
+    "tags": [
+      "BREWMASTER",
+      "SITUATIONAL",
+      "VS_MAGIC_DAMAGE",
+      "MAGIC_RESIST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on split-pushing with Fire brewling's high attack damage and phased movement. Use Primal Split defensively to escape ganks. Build utility items like Vladmir's Offering or Solar Crest to help your team. The Roll Out the Barrel facet allows you to farm and harass safely from range.",
+    "search_text": "Brewmaster playing from behind split push fire brewling phased movement primal split escape defensive utility items vlads solar crest facet roll out the barrel safe farm",
+    "tags": [
+      "BREWMASTER",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "SPLIT_PUSH",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Wombo-Combo Team (e.g., Magnus, Enigma). Your role is follow-up. Blink in after the big set-up, use Thunder Clap and Cinder Brew on the grouped enemies, then immediately Primal Split to keep them controlled. The Drunken Master facet provides chaotic movement to position perfectly amidst the chaos. Itemize for survivability (BKB, Heart) to stay alive after your combo.",
+    "search_text": "Brewmaster wombo combo team follow up magnus enigma blink thunder clap cinder brew grouped primal split control drunken master facet positioning survivability BKB heart",
+    "tags": [
+      "BREWMASTER",
+      "SITUATIONAL",
+      "WOOMBO_COMBO",
+      "FOLLOW_UP",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion Heroes (e.g., Chaos Knight, Phantom Lancer). Thunder Clap's AOE attack speed slow is highly effective against illusions. Cinder Brew's ignite damage can clear them if they take magic damage. Use Storm brewling's Cyclone on the real hero. Consider Battle Fury or Mjollnir for additional illusion clear. The +14 Brewlings Base Damage talent at level 10 helps your summons deal with illusions.",
+    "search_text": "Brewmaster vs illusion heroes chaos knight phantom lancer thunder clap attack speed slow cinder brew ignite clear illusions storm brewling cyclone real hero battle fury mjollnir talent 14 brewlings base damage",
+    "tags": [
+      "BREWMASTER",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "AOE",
+      "CLEAR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Lock Down a Single Target (e.g., Storm Spirit, Weaver). Your combo is Blink, Thunder Clap (slow), Cinder Brew (slow), then Primal Split. Micro the Earth brewling to use Pulverize (stun) and the Storm brewling to use Cyclone (disable) on the target. The Cinder Brew applies Fear when ignited level 25 talent provides another layer of powerful single-target control.",
+    "search_text": "Brewmaster lock down single target storm spirit weaver blink thunder clap cinder brew primal split micro earth brewling pulverize stun storm brewling cyclone disable level 25 talent cinder brew fear",
+    "tags": [
+      "BREWMASTER",
+      "SITUATIONAL",
+      "SINGLE_TARGET",
+      "LOCKDOWN",
+      "MICRO"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left: +14 Brewlings Base Damage. Right: +40% Cinder Brew Damage/Duration. Choose Brewlings Damage if you are fighting frequently with Primal Split, focusing on brewling micro and physical damage. Choose Cinder Brew if you need more magic damage and control in fights, or are using the Roll Out the Barrel facet for poke.",
+    "search_text": "Brewmaster level 10 talent left 14 brewlings base damage right 40 cinder brew damage duration choice split micro vs magic damage control",
+    "tags": [
+      "BREWMASTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left: +600 Brewlings Health. Right: Not provided in data (commonly +40 Drunken Brawler Brewed Up Attack Speed or similar). Based on given data, the +600 Brewlings Health is a massive survivability boost for your ultimate, making it much harder for enemies to kill your brewlings and end Primal Split early. This is often the default choice unless the right talent offers something extremely critical.",
+    "search_text": "Brewmaster level 15 talent left 600 brewlings health right unknown common 40 brewed up attack speed choice brewling survivability primal split duration",
+    "tags": [
+      "BREWMASTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left: +110 Attack Speed. Right: Not provided in data (commonly -30s Primal Split Cooldown). The +110 Attack Speed synergizes incredibly well with the Fire Brawler stance and any physical damage items, turning Brewmaster into a formidable right-click threat during Brewed Up windows. Choose this if you are building for physical damage. The cooldown reduction is better for a utility/initiation build where you need Primal Split up more often.",
+    "search_text": "Brewmaster level 20 talent left 110 attack speed right unknown common 30 primal split cooldown choice physical dps fire brawler vs utility initiation cooldown",
+    "tags": [
+      "BREWMASTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left: Cinder Brew applies Fear when ignited. Right: Not provided in data (commonly +1s Thunder Clap Slow Duration or +2 Brewlings Summoned). The Fear talent transforms Cinder Brew into a powerful AOE control spell. When ignited (by any magic/pure damage), affected enemies are feared for 1.5s (value inferred, not in data), causing them to run uncontrollably. This is a massive late-game teamfight talent, especially against tightly grouped enemies.",
+    "search_text": "Brewmaster level 25 talent left cinder brew applies fear when ignited right unknown common thunder clap slow duration brewlings summoned choice AOE control fear late game teamfight",
+    "tags": [
+      "BREWMASTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

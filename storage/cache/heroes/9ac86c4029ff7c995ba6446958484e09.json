@@ -1,0 +1,180 @@
+[
+  {
+    "display_text": "Ursa is a melee agility hero. His base Attack Rate is 1.7, with 25 base strength, 18 base agility, and 16 base intelligence. As a melee hero, he has to get close to his target to deal damage, a factor that influences his laning phase and item choices. His base agility is average for an Agility core.",
+    "search_text": "Ursa base stats melee agility hero strength agility intelligence attack rate 1.7",
+    "tags": [
+      "URSA",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Ursa has two Facets: Grudge Bearer and Debuff Reduce. Grudge Bearer states: 'When damaged during Enrage, Ursa gains bonus attack damage.' This encourages players to take damage while Enrage is active to scale their damage output, favoring aggressive, all-in engagements. Debuff Reduce currently has no description provided in the data, making Grudge Bearer the clear default choice for most situations.",
+    "search_text": "Ursa Facet Grudge Bearer Debuff Reduce Enrage bonus damage when attacked facet choice",
+    "tags": [
+      "URSA",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Ursa uses his high base strength to trade hits. He should skill Fury Swipes early to punish heroes who stay in lane, stacking bonus damage on repeated attacks. Use Earthshock's slow and damage to secure last hits and harass. Overpower should be skilled at level 2 or 4 to improve kill threat with a support stun. Focus on farming safely near the tower until you have level 6 and a core item component.",
+    "search_text": "Ursa laning early game 1-10 minutes Fury Swipes Earthshock Overpower harass kill",
+    "tags": [
+      "URSA",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Ursa's power spikes are: Level 6 (Enrage becomes available for survivability and dives), Level 12 (Level 2 Enrage cooldown drops to 45 seconds), and Level 18 (Level 3 Enrage cooldown is 30 seconds). Level 20 talent (+3 Overpower Attacks) massively increases burst. Level 25 talent (Earthshock has 2 Charges) greatly improves mobility and control. Item spikes are Blink Dagger for initiation, Basher/Abyssal Blade for lockdown, and BKB to ensure you can attack during fights.",
+    "search_text": "Ursa power spike level 6 12 18 20 25 talent item timing blink dagger abyssal bkb",
+    "tags": [
+      "URSA",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Ursa is hard countered by Break mechanics, which disable the application of new Fury Swipes stacks and his Grudge Bearer Facet. Heroes like Shadow Demon, Hoodwink, and Silver Edge carriers can shut down his main damage source. Heavy kiting through slows, stuns, and force staffs prevents him from sticking to targets. Instant disables like Hex stop his Enrage activation and prevent him from fighting back.",
+    "search_text": "Ursa counter break Fury Swipes Grudge Bearer disabled kiting hex shadow demon hoodwink silver edge",
+    "tags": [
+      "URSA",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Ursa's core build is Blink Dagger, Black King Bar, and Abyssal Blade. Blink Dagger is non-negotiable to close the gap and initiate with Overpower. Black King Bar is essential to prevent being kited and disabled during fights. Abyssal Blade provides the reliable single-target lockdown needed to burst a key target with your high attack speed and Fury Swipes damage.",
+    "search_text": "Ursa core items build blink dagger bkb black king bar abyssal blade",
+    "tags": [
+      "URSA",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Ursa's role is to initiate or counter-initiate on a single high-priority target, often the enemy carry or midlaner. He uses Blink Dagger and Earthshock to get on top of his target, activates Overpower and Enrage, and uses Abyssal Blade to lock them down. He aims to eliminate one hero quickly to create a numbers advantage. After the initial kill, he can clean up the fight with his sustained damage, using Enrage to survive focus fire.",
+    "search_text": "Ursa teamfight role initiator burst single target abyssal blade overpower enrage cleanup",
+    "tags": [
+      "URSA",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Earthshock: Ursa leaps forward 250 units and slams the earth, damaging and slowing all enemies in a 385 radius for 4 seconds. The slow is -22/-28/-34/-40%. Cooldown is 15/13/11/9 seconds. Mana cost is not provided in the data. This ability does not pierce spell immunity unless specified otherwise in the attributes, which it is not.",
+    "search_text": "Earthshock Q Ursa leap 250 distance slow 22 28 34 40 percent radius 385 cooldown 15 13 11 9 mobility",
+    "tags": [
+      "URSA",
+      "ABILITY_DATA",
+      "EARTHSHOCK"
+    ]
+  },
+  {
+    "display_text": "Overpower: Ursa gains 400% increased attack speed and 25% slow resistance for 3/4/5/6 subsequent attacks. Missing an attack still consumes a charge. Cooldown and mana cost are not provided in the data. This ability is a powerful steroid for burst damage.",
+    "search_text": "Overpower W Ursa attack speed 400 percent slow resist 25 3 4 5 6 attacks burst",
+    "tags": [
+      "URSA",
+      "ABILITY_DATA",
+      "OVERPOWER"
+    ]
+  },
+  {
+    "display_text": "Fury Swipes: Ursa's consecutive attacks on the same enemy deal bonus damage per stack: 13/21/29/37. If the same target is not attacked for 8/12/16/20 seconds (8 seconds against Roshan), the bonus damage is lost. Break disables the application of new stacks but does not remove existing ones. This is Ursa's primary source of damage.",
+    "search_text": "Fury Swipes E Ursa passive bonus damage per stack 13 21 29 37 reset time 8 12 16 20 Roshan 8 break disables new stacks",
+    "tags": [
+      "URSA",
+      "ABILITY_DATA",
+      "FURY_SWIPES"
+    ]
+  },
+  {
+    "display_text": "Maul: Ursa gains bonus damage equal to 1.25% of his Current HP. This is a built-in passive that scales with his health pool.",
+    "search_text": "Maul passive Ursa bonus damage percent current health 1.25 scaling",
+    "tags": [
+      "URSA",
+      "ABILITY_DATA",
+      "MAUL"
+    ]
+  },
+  {
+    "display_text": "Enrage: Ursa goes into a frenzy for 4/4.5/5 seconds, providing 80% damage reduction and 50% status resistance. This is a Strong Dispel, removing any existing debuffs on cast. Cooldown is 60/45/30 seconds. This ability does not pierce spell immunity unless specified otherwise.",
+    "search_text": "Enrage R Ursa ultimate damage reduction 80 percent status resistance 50 duration 4 4.5 5 cooldown 60 45 30 strong dispel",
+    "tags": [
+      "URSA",
+      "ABILITY_DATA",
+      "ENRAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against heavy physical damage lineups (e.g., Sniper, Drow Ranger). Ursa's Enrage provides 80% damage reduction, making him deceptively tanky against right-clicks. Prioritize a fast Blink Dagger to bypass their frontline and jump directly on the backline physical damage dealer. Consider an early Blade Mail to punish them for focusing you during Enrage. The Grudge Bearer facet synergizes well here as you will be taking attacks.",
+    "search_text": "Ursa vs physical damage sniper drow enrage 80 reduction blink dagger blademail grudge bearer",
+    "tags": [
+      "URSA",
+      "SITUATIONAL",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: When playing from behind and unable to initiate. If Ursa falls behind, his Blink initiation becomes risky. Build items like BKB and Linken's Sphere to survive initiation from the enemy. Play as a counter-initiator, waiting for the enemy to commit on an ally, then use Enrage and Overpower to turn the fight. Focus on farming jungle camps with Overpower and Fury Swipes to recover.",
+    "search_text": "Ursa behind playing from behind counter initiate bkb linken farm jungle recovery",
+    "tags": [
+      "URSA",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus heroes with strong dispels or saves (e.g., Oracle, Abaddon, Legion Commander Duel). Your single-target burst can be negated. Coordinate with your team to force out key dispel abilities on other targets first, or use Abyssal Blade's active through BKB to lock down the primary target even through magic immunity. Consider Aghanim's Scepter (not in data but common) for its Enrage dispel to counter Legion Commander's Duel.",
+    "search_text": "Ursa vs dispel save oracle abaddon legion commander duel abyssal bkb coordination",
+    "tags": [
+      "URSA",
+      "SITUATIONAL",
+      "VS_DISPEL"
+    ]
+  },
+  {
+    "display_text": "Scenario: When your team lacks lockdown. Ursa relies on sticking to targets. If your team has minimal control, your item build must compensate. Core Blink Dagger is even more critical. Rush Abyssal Blade after Blink. Consider a Skadi or Sange \u0026 Yasha for the permanent slow and status resistance to help you chase and survive.",
+    "search_text": "Ursa team lacks lockdown control abyssal blade skadi sange yasha slow chase",
+    "tags": [
+      "URSA",
+      "SITUATIONAL",
+      "LACK_LOCKDOWN"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left talent offers +9 seconds to Fury Swipes Reset Time. Right talent offers +1.75 Mana Regen. The Fury Swipes talent is generally superior. It increases the reset time from 8/12/16/20 to 17/21/25/29 seconds, making it much harder to lose stacks in chaotic fights or when kiting, significantly improving your sustained damage output. The mana regen talent is only valuable if you are struggling severely with mana for Earthshock and Overpower, which is uncommon with proper management.",
+    "search_text": "Ursa talent level 10 left 9 seconds Fury Swipes reset time right 1.75 mana regen comparison",
+    "tags": [
+      "URSA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Data shows a left talent slot but no description. The right talent is +25% Enrage Status Resistance. Without a competing left talent, the +25% Enrage Status Resistance is the default choice. This increases Ursa's status resistance during Enrage from 50% to 75%, making him significantly harder to control with stuns and slows while his ultimate is active, which is core to his survivability.",
+    "search_text": "Ursa talent level 15 right 25 percent enrage status resistance",
+    "tags": [
+      "URSA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left talent offers +300 Earthshock Radius. Right talent offers +6 Fury Swipes Damage. The Fury Swipes damage talent adds 6 damage per stack (increasing from 13/21/29/37 to 19/27/35/43), which is a substantial DPS increase, especially against Roshan and high-HP targets. The Earthshock radius talent (increasing from 385 to 685) provides massive AoE slow and improves farming speed and teamfight impact. The choice depends on needs: consistent single-target damage (Fury Swipes) vs. control and farming (Earthshock). Fury Swipes is often preferred for maximum kill threat.",
+    "search_text": "Ursa talent level 20 left 300 Earthshock radius right 6 Fury Swipes damage comparison",
+    "tags": [
+      "URSA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left talent is +3 Overpower Attacks. Right talent is Earthshock has 2 Charges. The Overpower talent increases the attack count from 3/4/5/6 to 6/7/8/9, nearly doubling the burst potential at max level. The Earthshock Charges talent gives immense mobility, allowing two leaps in quick succession for chase, escape, or repositioning. The Overpower talent is for maximizing single-target delete potential against a key hero. The Earthshock talent is for extreme mobility and control in fights. The choice is between raw kill power and unparalleled agility.",
+    "search_text": "Ursa talent level 25 left 3 Overpower attacks right Earthshock 2 charges comparison",
+    "tags": [
+      "URSA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

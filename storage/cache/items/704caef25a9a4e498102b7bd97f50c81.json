@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Weighted Dice, Tier 1: Neutral item providing Loaded passive. When calculating base damage or creep bounty from last hits, the value is computed twice and the highest value is taken, increasing gold and damage variance from attacks and denies. Useful for amplifying luck-based damage or gold acquisition. Stats: Tier: 1, Roll Count: 2.",
+    "search_text": "neutral item, tier 1 neutral, loaded passive, last hit bonus, damage variance, creep bounty, gold variance, rng item, luck item, gamble item, high roll, random damage, damage roll, bounty roll, Weighted Dice",
+    "tags": [
+      "ITEM_DATA",
+      "WEIGHTED_DICE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "UTILITY",
+      "GOLD",
+      "DAMAGE",
+      "RNG"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "display_text": "Vitality Booster, Cost: 1000: Purchasable from the Secret Shop. Provides a flat +250 maximum Health, offering raw survivability with no active abilities. A core component for many late-game health-focused items like Heart of Tarrasque. Stats: Health Bonus: +250.",
+    "search_text": "health item, vitality booster, HP item, raw health, secret shop item, component item, health component, tank item, survivability item, health stack, early health, tankiness, Vitality Booster",
+    "tags": [
+      "ITEM_DATA",
+      "VITALITY_BOOSTER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "SURVIVAL",
+      "COMPONENT",
+      "SECRET_SHOP"
+    ]
+  },
+  {
+    "display_text": "Vitality Booster, Cost: 1000: Provides no active abilities, mana, or damage, only a substantial health pool increase. Increases your hero's effective HP against all damage types. Ideal for heroes who scale well with raw HP or need to survive burst. Stats: Health Bonus: +250.",
+    "search_text": "vitality booster stats, HP booster, health only, no active, pure HP, effective HP, health pool, tank item, survivability stats, health stat stick, Vitality Booster",
+    "tags": [
+      "ITEM_DATA",
+      "VITALITY_BOOSTER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "SURVIVAL",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Vitality Booster, Cost: 1000: A defensive item that significantly increases survivability, making it harder for enemies to burst you down. Effective against mixed damage compositions where specific resistances are less valuable. The lack of regeneration means it's best paired with other sustain items. Stats: Health Bonus: +250.",
+    "search_text": "defensive item, HP survivability, burst survival, tank item, mixed damage defense, survivability, effective HP, anti-burst, health stack, Vitality Booster",
+    "tags": [
+      "ITEM_DATA",
+      "VITALITY_BOOSTER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "VS_PHYSICAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "Vitality Booster, Cost: 1000: Strong against early magical burst damage (e.g., from nukers like Lina or Zeus) where health directly counters pure damage spells. However, it provides no protection against percentage-based damage or armor reduction. Purchase when you need immediate, all-purpose durability. Stats: Health Bonus: +250.",
+    "search_text": "vs magic burst, anti-nuke, burst counter, magic damage counter, HP vs magic, early tank, durability item, defensive early, health against spells, Vitality Booster",
+    "tags": [
+      "ITEM_DATA",
+      "VITALITY_BOOSTER",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "Vitality Booster, Cost: 1000: Core component for heroes building into Heart of Tarrasque, Aghanim's Blessing, or Holy Locket. Provides an efficient health spike for strength heroes who benefit from both the raw HP and the item upgrades. Often rushed after early-game items to enable more aggressive play. Stats: Health Bonus: +250.",
+    "search_text": "vitality booster component, heart component, aghanims blessing component, holy locket component, strength hero item, HP component, item upgrade, tank build, health upgrade, Vitality Booster",
+    "tags": [
+      "ITEM_DATA",
+      "VITALITY_BOOSTER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "COMPONENT",
+      "UPGRADE",
+      "STRENGTH_HERO",
+      "TANK"
+    ]
+  }
+]

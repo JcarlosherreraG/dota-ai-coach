@@ -1,0 +1,88 @@
+[
+  {
+    "display_text": "Meteor Hammer, Cost: 2850: Channeled active ability that calls down a meteor after 2 seconds, dealing 130 magical damage and stunning all enemies in a 400 AoE for 0.75 seconds upon impact. Continues to burn for 6 seconds, dealing 50 magical damage per second to units and buildings while slowing non-building units by 20%. A potent area control and pushing tool. Stats: CD: 24s, Mana Cost: 75, Channel Time: 2s, Landing Delay: 0.5s, Burn Duration: 6s.",
+    "search_text": "meteor hammer, channeling item, area stun item, aoe stun, push item, building damage, siege item, wave clear item, channeled stun, ground target, team fight control, magic damage over time, slow aura, disable tool, Meteor Hammer",
+    "tags": [
+      "ITEM_DATA",
+      "METEOR_HAMMER",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "AOE_DAMAGE",
+      "STUN",
+      "SLOW",
+      "LOCKDOWN",
+      "CHANNELED",
+      "PUSH_ITEM"
+    ]
+  },
+  {
+    "display_text": "Meteor Hammer, Cost: 2850: Provides substantial Intelligence and utility stats: +6 Strength, +6 Agility, +24 Intelligence, 10% Spell Amplification, and 40% Mana Regen Amplification. Strong item for Intelligence-based heroes seeking mana, regen, and magic damage output. Stats: Int: +24, Spell Amp: 10%, Mana Regen Amp: 40%, Str/Ag: +6 each.",
+    "search_text": "meteor hammer stats, intelligence item, spell amp item, mana regen item, stat item, utility stats, int core item, mana sustain, spell damage amplification, Meteor Hammer",
+    "tags": [
+      "ITEM_DATA",
+      "METEOR_HAMMER",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "INTELLIGENCE",
+      "SPELL_AMPLIFICATION",
+      "MANA_REGEN",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Meteor Hammer, Cost: 2850: Team fight role focuses on area control and disruption. The channeled stun provides a significant setup for follow-up abilities, while the burning area damages and slows enemies, creating zones of control. Effective for initiating fights or securing chokepoints. Stats: Stun Duration: 0.75s, AoE Radius: 400, Slow: 20%.",
+    "search_text": "team fight meteor hammer, area control item, zoning item, setup stun, follow-up disable, fight control, zone creation, choke point control, Meteor Hammer",
+    "tags": [
+      "ITEM_DATA",
+      "METEOR_HAMMER",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "AOE_DAMAGE",
+      "STUN",
+      "LOCKDOWN",
+      "ZONING",
+      "CONTROL"
+    ]
+  },
+  {
+    "display_text": "Meteor Hammer, Cost: 2850: Situational against heroes vulnerable to channeled setups or teams that clump together. Strong in sieging situations due to its building damage, but channeling time makes it risky versus interrupts. The magic damage over time and slow can counter heroes reliant on mobility. Stats: Building Impact Damage: 90, Building Burn DPS: 50.",
+    "search_text": "meteor hammer situational, push counter, building siege, channel interrupt counter, clump counter, slow counter, mobility counter, Meteor Hammer",
+    "tags": [
+      "ITEM_DATA",
+      "METEOR_HAMMER",
+      "FULL_ITEM",
+      "SITUATIONAL_USAGE",
+      "PUSH_ITEM",
+      "VS_MOBILITY",
+      "CHANNEL_INTERRUPT",
+      "BUILDING_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Meteor Hammer, Cost: 2850: Synergizes with heroes who have other disables to secure the channel time, or who need extra wave clear and pushing power. The Intelligence and mana regen amplification benefit heroes who spam spells, while the stun and zone control complement team fight initiators. Stats: Channel Time: 2s.",
+    "search_text": "meteor hammer synergy, channel setup, disable combo, int hero item, pusher item, spell spammer, team fight initiator item, Meteor Hammer",
+    "tags": [
+      "ITEM_DATA",
+      "METEOR_HAMMER",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "PUSH_ITEM",
+      "INTELLIGENCE",
+      "SPELL_AMPLIFICATION",
+      "SETUP_ITEM"
+    ]
+  },
+  {
+    "display_text": "Meteor Hammer, Cost: 2850: Farming utility is significant through its ability to clear entire creep waves with one cast and deal damage to neutral camps. The channel time can be a drawback, but the area damage and building damage make it an excellent tool for accelerating farm and applying tower pressure. Stats: Unit Burn DPS: 50, AoE Radius: 400.",
+    "search_text": "meteor hammer farming, wave clear item, jungle clear, push lanes, farm acceleration, tower damage, lane pressure, Meteor Hammer",
+    "tags": [
+      "ITEM_DATA",
+      "METEOR_HAMMER",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "WAVECLEAR",
+      "PUSH_ITEM",
+      "FARM_ACCELERATION"
+    ]
+  }
+]

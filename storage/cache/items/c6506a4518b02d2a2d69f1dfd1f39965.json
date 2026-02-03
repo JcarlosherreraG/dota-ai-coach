@@ -1,0 +1,74 @@
+[
+  {
+    "display_text": "Ring of Protection, Cost: 175: Grants +2 bonus armor. Basic component for armor-focused defensive items. Provides cost-efficient physical damage reduction in the early laning phase. Stats: Armor: +2.",
+    "search_text": "armor item, physical defense, early game armor, cheap armor, component item, armor component, cost efficient armor, laning armor, ring of armor, ring of protection, Ring of Protection",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_PROTECTION",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "ARMOR",
+      "VS_PHYSICAL",
+      "COMPONENT",
+      "DEFENSIVE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Ring of Protection, Cost: 175: A low-cost defensive component that builds into items like Basilius and Buckler. The +2 armor provides early game sustain against physical harass from enemy right-clicks. Its low cost makes it a staple in early builds for squishy heroes.",
+    "search_text": "armor component, basilius component, buckler component, defensive component, cheap defense, laning sustain, early defense, physical harass counter, Ring of Protection",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_PROTECTION",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "COMPONENT",
+      "SUSTAIN",
+      "LANING",
+      "VS_PHYSICAL",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Ring of Protection, Cost: 175: A pure defensive item that provides no offensive capabilities. Its primary role is to increase effective HP against physical attacks, allowing heroes to trade more favorably in lane. It synergizes with early regen items like Tango for robust laning.",
+    "search_text": "defensive item, no damage, physical resistance, effective HP, lane trading, lane sustain, tank item, survivability, Ring of Protection",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_PROTECTION",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "UTILITY",
+      "LANING"
+    ]
+  },
+  {
+    "display_text": "Ring of Protection, Cost: 175: Situational against heavy physical damage lineups or aggressive right-click laners (e.g., Drow Ranger, Clinkz). Prioritize when expecting significant physical harass from enemy heroes or tower hits during dives. Countered by armor reduction effects.",
+    "search_text": "physical harass counter, right click counter, armor against physical, laning defense, harass counter item, early game physical defense, Ring of Protection",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_PROTECTION",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_PHYSICAL",
+      "VS_PHYSICAL",
+      "DEFENSIVE",
+      "LANING",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.",
+    "search_text": "armor synergy, component synergy, basilius build, aquila build, vanguard component, low armor heroes, support survival, Ring of Protection",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_PROTECTION",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "COMPONENT",
+      "UTILITY",
+      "SUPPORT_ITEM",
+      "CARRY_ITEM"
+    ]
+  }
+]

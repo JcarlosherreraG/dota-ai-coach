@@ -1,0 +1,42 @@
+[
+  {
+    "display_text": "Cost: 90: Consumable item that consumes a target tree or Ironwood Tree to provide health regeneration. Provides 7 health regeneration for 16 seconds, consuming an Ironwood Tree doubles the heal duration to 32 seconds. Comes with 3 charges that can be shared with an allied hero by using on them. Stats: Heal Regeneration: 7 HP/s, Base Duration: 16s, Ironwood Duration: 32s, Charges: 3, Tree Range: 165.",
+    "search_text": "tango, lane sustain, health regen, consumable heal, eat tree, ironwood tree, starting item, early game, hp regen, share consumable, Tango, regen item, heal item, tango share, tree eating",
+    "tags": [
+      "ITEM_DATA",
+      "TANGO",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "SHAREABLE"
+    ]
+  },
+  {
+    "display_text": "Cost: 90: Essential starting item for laning phase sustain. The health regeneration allows heroes to recover from harassment, maintaining a higher health pool to contest last hits and stay in the lane longer. Its low cost and shareable nature make it a core purchase for supports to provide additional sustain to the team's core heroes.",
+    "search_text": "starting item, lane sustain, laning phase, early game regen, tango starting, harass recovery, stay in lane, support item, shareable consumable, Tango",
+    "tags": [
+      "ITEM_DATA",
+      "TANGO",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "LANING",
+      "SUSTAIN",
+      "STARTING_ITEM",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Cost: 90: Share charges with your mid laner during the initial bounty rune exchange to give them a significant lane advantage. Consuming an Ironwood Tree, found in the Secret Shop area, provides twice the total healing for extended jungle farming or staying on the map. Its utility also allows for temporary pathing through trees to juke or escape by consuming blocking foliage.",
+    "search_text": "tango share, tango mid, ironwood tree, double heal, secret shop tree, jungle sustain, tree juke, pathing, escape tool, tango utility, Tango",
+    "tags": [
+      "ITEM_DATA",
+      "TANGO",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "UTILITY",
+      "SITUATIONAL_USAGE"
+    ]
+  }
+]

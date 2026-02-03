@@ -1,0 +1,202 @@
+[
+  {
+    "display_text": "Clinkz is a ranged Agility hero (starting Agility 25). His base Attack Type is ranged and his Attack Rate is 1.7. This average attack speed combined with high starting Agility makes him a potent last hitter in lane, though his low starting Strength (18) means he is fragile and vulnerable to bursts.",
+    "search_text": "Clinkz stats ranged agility attack rate 1.7 strength 18 agility 25 intelligence 21 starting stats base damage",
+    "tags": [
+      "CLINKZ",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Suppressive Fire. Strafe attacks cause enemies to miss more often. This adds a blind effect to the attack speed steroid, significantly improving Clinkz's man-fight potential and survivability against right-click heavy lineups. It makes him more of a direct, sustained DPS threat. Facet 2: Engulfing Step. Death Pact teleports Clinkz towards his victim and reduces its cooldown. This vastly improves Clinkz's farming speed, mobility, and pick-off potential. It facilitates a hit-and-run or ganking playstyle, allowing him to close gaps and clear camps more efficiently. Facet 3: Trial By Pyre. This facet is noted as having no effect.",
+    "search_text": "clinkz facets suppressive fire strafe blind miss engulfing step death pact teleport cooldown reduction trial by pyre does nothing",
+    "tags": [
+      "CLINKZ",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, focus on securing last hits with your high base damage. Use Searing Arrows (hotkey: W) for harass and secure ranged creeps; it deals bonus 20/35/50/65 physical damage. Skeleton Walk (hotkey: E) is a defensive escape tool with a 35/40/45 second duration and a long 24/21/18 second cooldown; use it judiciously to avoid ganks. Your goal is to reach level 6 for Death Pact to gain health (175/250/325/400 HP) from a neutral creep, massively improving your survivability and farming sustain.",
+    "search_text": "clinkz laning phase last hit searing arrows harass skeleton walk escape death pact level 6 health bonus farming sustain early game",
+    "tags": [
+      "CLINKZ",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6 is your first major spike, unlocking Death Pact for 400 bonus HP and improved jungle farming. Level 12 with maxed Searing Arrows (+65 damage) and a Dragon Lance or Orchid Malevolence makes you a strong pick-off hero. Level 18 with maxed talents and Burning Barrage allows for high teamfight AOE damage. Talent level 20 offers +350 Death Pact Bonus Health for tankiness or +40 Strafe Attack Speed for DPS. Level 25 talent enables Searing Arrows Multishot, which is a massive damage multiplier in fights.",
+    "search_text": "Clinkz power spikes level 6 death pact level 12 searing arrows orchid level 18 burning barrage talent 20 25 multishot attack speed health",
+    "tags": [
+      "CLINKZ",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Clinkz is hard countered by heroes with instant disables or silences that prevent him from using Skeleton Walk (e.g., Storm Bolt, Hex, Silence). He is also countered by high burst damage due to his low health pool, even after Death Pact. Break effects (e.g., Silver Edge) will disable his Infernal Shred passive and his Facets. Heroes with AoE damage and wave clear can kill his fragile Skeleton Archers, reducing his damage output in fights.",
+    "search_text": "counter Clinkz silence disable burst damage break silver edge infernal shred dead stop skeleton walk kill skeletons",
+    "tags": [
+      "CLINKZ",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "1. Dragon Lance (upgraded to Hurricane Pike): Essential for increasing your attack range and survivability. 2. Orchid Malevolence (or Bloodthorn): Solves mana issues, provides silence for pick-offs, and amplifies your single-target burst. 3. Black King Bar (BKB): Critical for ensuring you can channel Burning Barrage and deal sustained damage in teamfights without being locked down.",
+    "search_text": "clinkz core build items dragon lance hurricane pike orchid malevolence bloodthorn black king bar bkb",
+    "tags": [
+      "CLINKZ",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Clinkz's role is to position safely and focus a high-priority target. Use Strafe to melt a key hero from a distance. If the enemy is clumped, channel Burning Barrage through them for massive area damage. Use Skeleton Walk and your high movement speed to reposition or escape. Your Skeleton Archers provide additional single-target DPS, and your Infernal Shred passive helps reduce the effectiveness of enemy armor.",
+    "search_text": "clinkz teamfight role position focus target strafe attack speed burning barrage channel aoe damage skeleton walk reposition archers dps",
+    "tags": [
+      "CLINKZ",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Strafe (Q). Clinkz gains 120/160/200/240 attack speed and 200 bonus attack range for 3.5 seconds. Cooldown: 30/25/20/15 seconds. Any current and future Skeleton Archers within 1200 radius also gain the bonus attack range and 50% of the attack speed bonus. Casting Strafe does not break Skeleton Walk invisibility.",
+    "search_text": "clinkz ability Q strafe attack speed 120 160 200 240 range bonus 200 duration 3.5 cooldown 30 25 20 15 buffs skeletons",
+    "tags": [
+      "CLINKZ",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Ability: Searing Arrows (W). A toggleable attack modifier. Imbues Clinkz's arrows with fire for 20/35/50/65 bonus physical damage per attack. Cast Range: 600. Skeleton Archers will fire Searing Arrows at targets Clinkz attacks for 50% damage. Deals damage to structures.",
+    "search_text": "clinkz ability W searing arrows toggle attack modifier bonus damage 20 35 50 65 physical cast range 600 skeletons 50% damage buildings",
+    "tags": [
+      "CLINKZ",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Ability: Death Pact (R). Target Enemy Creep or Friendly Skeleton Archer. Consumes the target, healing Clinkz and granting him 175/250/325/400 bonus max health for 45 seconds. Cooldown per Charge: 40 seconds. Starts with 1/1/2/2 charges. Does not take Clinkz out of Skeleton Walk. Gain experience and gold if the target is an enemy creep.",
+    "search_text": "clinkz ability R death pact consume creep skeleton heal bonus health 175 250 325 400 duration 45 charges 1 1 2 2 restore 40s",
+    "tags": [
+      "CLINKZ",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Ability: Burning Barrage (R - New). Channeled for up to 3 seconds. Clinkz shoots 6 waves of piercing arrows in a target direction up to 850 range (increased by Attack Range bonuses). Arrows hit all enemy units, dealing 75% of Clinkz's attack damage and applying attack modifiers. Projectile width is 200.",
+    "search_text": "clinkz ability R burning barrage channeled pierce arrows 6 waves 75% attack damage applies modifiers range 850 width 200",
+    "tags": [
+      "CLINKZ",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Ability: Burning Army (Ultimate). Summons a row of 6 Burning Skeleton Archers in the target location, 900 range. They spawn over a 0.6-second interval. The Skeleton Archers are permanent until killed.",
+    "search_text": "clinkz ability ultimate burning army summon 6 skeleton archers row location range 900 spawn interval 0.1",
+    "tags": [
+      "CLINKZ",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Ability: Skeleton Walk (E). Clinkz becomes invisible and gains 25%/35%/45% movement speed for up to 35/40/45 seconds. Fade time is 0.6 seconds. Cooldown: 24/21/18 seconds. Leaving invisibility creates 2/3/4 Skeleton Archers that last 20/25/30 seconds. Skeletons are immobile, die in 2 hits from heroes or towers, deal 20% of Clinkz's damage, and deal 25% less damage to buildings. Their attack range equals Clinkz's.",
+    "search_text": "clinkz ability E skeleton walk invisibility move speed bonus 25 35 45 duration 35 40 45 fade 0.6s cooldown 24 21 18 spawn skeletons 2 3 4",
+    "tags": [
+      "CLINKZ",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Ability: Infernal Shred (Passive). Clinkz and his skeletons apply a stacking debuff on attack that pierces up to 20 of the target's total physical armor. Clinkz applies 3% per attack, skeletons apply 1%. Stacks last 5 seconds. This does not reduce the target's armor, but ignores it for damage calculation.",
+    "search_text": "clinkz passive infernal shred armor pierce up to 20 stacks clinkz 3% skeleton 1% per attack duration 5 seconds",
+    "tags": [
+      "CLINKZ",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Armor / Strength Cores. Itemize for armor reduction and pure/magic damage. Your Infernal Shred passive helps, but you may need a Daedalus for critical strike burst or a Bloodthorn for true strike and magic damage amp. Burning Barrage's damage is physical and reduced by armor, so prioritize single-target focus with Strafe and Searing Arrows.",
+    "search_text": "clinkz vs high armor strength daedalus bloodthorn infernal shred burning barrage physical damage single target focus",
+    "tags": [
+      "CLINKZ",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. If you are underleveled and underfarmed, avoid man-fights. Use Skeleton Walk to split push lanes safely. Farm jungle with Death Pact on large creeps for sustain. Build cost-effective stats like Wraith Bands and a Falcon Blade. Your Burning Barrage can help defend high ground by clearing waves from a safe distance.",
+    "search_text": "clinkz playing from behind split push skeleton walk farm jungle death pact wraith band falcon blade defend high ground",
+    "tags": [
+      "CLINKZ",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Illusion Heroes (e.g., Chaos Knight, Phantom Lancer). Your Burning Barrage is excellent for clearing illusions due to its piercing nature. Build a Battle Fury or Maelstrom/Mjollnir for additional cleave/proc damage. Avoid getting surrounded; use Strafe and Searing Arrows to focus the real hero once identified.",
+    "search_text": "clinkz vs illusions chaos knight phantom lancer burning barrage clears maelstrom mjollnir battle fury focus real hero",
+    "tags": [
+      "CLINKZ",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to End Game Early. If you have a strong early lead, pressure towers aggressively with your Skeleton Archers and Searing Arrows. Build Desolator to melt buildings and heroes. Group with your team and use Strafe to take Roshan quickly. Your physical damage peaks earlier than many carries.",
+    "search_text": "clinkz end game early pressure towers desolator skeleton archers searing arrows group roshan strafe attack speed",
+    "tags": [
+      "CLINKZ",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Invisible Heroes. Carry Dust of Appearance and Sentry Wards. Consider building a Silver Edge for its own break and invisibility, or a Bloodthorn for true strike on revealed targets. Your Skeleton Archers will not reveal invis units but can attack them if they are already revealed.",
+    "search_text": "clinkz vs invisible heroes dust sentry wards silver edge bloodthorn true strike skeleton archers attack",
+    "tags": [
+      "CLINKZ",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Initiate or Chase. With the Engulfing Step Facet, Death Pact becomes a targeted teleport. Use it on a lane creep or neutral to close distance on an enemy, then use Orchid/Scythe to lock them down. This facet turns Death Pact into a powerful mobility and initiation tool.",
+    "search_text": "clinkz initiate chase engulfing step facet death pact teleport creep close gap orchid scythe hex lockdown",
+    "tags": [
+      "CLINKZ",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10. Left: +0.75s Strafe Duration. Right: -4s Skeleton Walk Cooldown. Choose the Strafe duration if you are focusing on fights and man-fighting, as it gives you more time to deal damage. Choose the Skeleton Walk cooldown if you need more frequent escapes, mobility for farming, or are against aggressive gankers.",
+    "search_text": "clinkz talent level 10 left +0.75 strafe duration right -4s skeleton walk cooldown fight vs mobility",
+    "tags": [
+      "CLINKZ",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15. Left: +60 Attack Range. Right: -10s Death Pact Charge Restore Time. The attack range talent synergizes with Strafe and Dragon Lance, making you much safer in fights. The Death Pact cooldown talent is for high-tempo play where you are constantly fighting and need the heal and HP buff more often, especially with the Engulfing Step facet.",
+    "search_text": "clinkz talent level 15 left +60 attack range right -10s death pact charge restore time safe dps vs sustain uptime",
+    "tags": [
+      "CLINKZ",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20. Left: +350 Death Pact Bonus Health. Right: +40 Strafe Attack Speed. The health talent makes you significantly tankier, crucial if you are being focused. The attack speed talent is a massive DPS increase, ideal if you have survivability from items (BKB, Satanic) and can freely attack.",
+    "search_text": "clinkz talent level 20 left +350 death pact health right +40 strafe attack speed survivability vs pure damage",
+    "tags": [
+      "CLINKZ",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25. Left: -9s Strafe Cooldown. Right: Searing Arrows Multishot (attacks fire an extra arrow at a random enemy in range). The cooldown reduction makes Strafe almost always available. The Multishot talent is one of the highest DPS talents in the game, effectively doubling your output in fights against multiple heroes. Almost always take Multishot.",
+    "search_text": "clinkz talent level 25 left -9s strafe cooldown right searing arrows multishot extra arrow random enemy high dps",
+    "tags": [
+      "CLINKZ",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

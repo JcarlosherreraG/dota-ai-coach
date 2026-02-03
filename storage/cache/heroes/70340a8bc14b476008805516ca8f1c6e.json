@@ -1,0 +1,166 @@
+[
+  {
+    "display_text": "Techies is a ranged Intelligence hero with a base attack range of 600. They have average starting attributes with 19 Strength, 16 Agility, and 25 Intelligence. Their base attack rate is 1.7 seconds per attack, which is slower than average. This makes their last hitting reliant on good timing and their high Intelligence pool for spammable spells.",
+    "search_text": "Techies base stats attack ranged intelligence hero attack speed 1.7 range 600 starting stats 19 strength 16 agility 25 int",
+    "tags": [
+      "TECHIES",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Techies has three facets. The first facet grants extra attack range, which is useful for safely applying pressure and last hitting from a distance. The second facet, Spleen's Secret Sauce, increases both the damage dealt and the self-damage taken by Blast Off!, making it a higher-risk, higher-reward option for aggressive, suicidal plays. The third facet increases backpack slot capacity, which is a highly utility-focused choice for carrying more items like wards, gems, or situational consumables.",
+    "search_text": "Techies facets first extra attack range facet second Spleen's Secret Sauce increase Blast Off damage self damage third facet backpack slot capacity utility",
+    "tags": [
+      "TECHIES",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "During the laning phase, Techies relies on Sticky Bomb for harassment and zoning. The ability slows by 25/35/45/55% for 1.2 seconds, making it easier for you or your lane partner to secure kills. Use your high starting Intelligence to spam it. Place Proximity Mines defensively near your tower or offensively in lane bushes to control the area, but remember they have a 1-second activation delay and become visible if an enemy is within 500 AoE. Avoid taking bad trades due to your low base armor and HP.",
+    "search_text": "Techies laning phase early game skill build Sticky Bomb slow 25 35 45 55 harassment Proximity Mine zone control activation delay 1 second visible range 500",
+    "tags": [
+      "TECHIES",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Techies' first major power spike is at level 6 with Blast Off!, a 400 AoE stun and nuke. A good Blast Off! can win a fight. Level 12 unlocks the level 15 talent tier. The 25 talent of +252 damage is a massive spike, turning Techies into a right-click threat. Key item spikes are Aghanim's Scepter for mobile mines and Kaya \u0026 Sange for spell damage amplification and survivability. The 20 talent for -0.8s Proximity Mines activation delay is also a huge offensive spike.",
+    "search_text": "Techies power spikes level 6 Blast Off stun damage level 12 15 talents level 20 talent -0.8s mine delay level 25 talent +252 damage Aghanim Scepter Kaya Sange",
+    "tags": [
+      "TECHIES",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Techies is hard countered by heroes with high mobility and vision. Heroes like Zeus (Nimbus, True Sight), Bounty Hunter (Track), Slardar (Amplify Damage), or any hero with Gem of True Sight can reveal and destroy Proximity Mines easily. Instant disables like Hex or long-range stuns prevent Techies from using Blast Off! or escaping. High magic resistance or pipe carriers greatly reduce Techies' spell damage output.",
+    "search_text": "Techies counters hard counters True Sight Zeus Bounty Hunter Slardar Gem instant hex stun stop Blast Off high magic resistance Pipe",
+    "tags": [
+      "TECHIES",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Aghanim's Scepter is an absolutely essential core item for Techies. It allows Proximity Mines to move, transforming them from static area denial into active, roaming threats. Kaya \u0026 Sange is another core item, providing spell damage amplification for all of Techies' magic damage, plus status resistance and health for survivability. Aghanim's Shard is also critical, granting the Minefield Sign which makes mines within 500 range invulnerable and deal 15% more damage.",
+    "search_text": "Techies core build essential items Aghanim Scepter mobile Proximity Mines Kaya Sange spell amp status resistance Aghanim Shard Minefield Sign invulnerable damage 15%",
+    "tags": [
+      "TECHIES",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In a teamfight, Techies' primary role is area control and initiation. Use Blast Off! to jump into the enemy team, dealing 200/300/400/500 damage and stunning for 0.8/1/1.2/1.4 seconds in a 400 radius. Pre-fight, litter the battlefield with Proximity Mines and use Minefield Sign to protect key clusters. Use Sticky Bomb to slow key targets. Reactive Tazer provides a disarm for divers and, when detonated, a 450 radius AoE disarm. Your job is to disrupt and zone, not to manfight.",
+    "search_text": "Techies teamfight role area control initiation Blast Off jump stun damage Proximity Mine zone Minefield Sign protect Sticky Bomb slow Reactive Tazer disarm",
+    "tags": [
+      "TECHIES",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Sticky Bomb (Q): Techies lobs a bomb that sticks to the first enemy hero it lands near, slowing their movement speed by 25/35/45/55% for 1.2 seconds. After a 2-second countdown, it explodes for 95/170/245/320 magic damage in a 350 radius and applies a secondary slow of 15/25/35/45% for 3 seconds. The bomb has a travel speed of 500 and chases a target for up to 4 seconds if none is initially stuck. It has a 300 placement radius.",
+    "search_text": "Techies Sticky Bomb Q slow 25 35 45 55 duration 1.2 damage 95 170 245 320 radius 350 secondary slow 15 25 35 45 countdown 2 travel speed 500 chase time 4",
+    "tags": [
+      "TECHIES",
+      "ABILITY_DATA",
+      "STICKY_BOMB"
+    ]
+  },
+  {
+    "display_text": "Reactive Tazer (W): Activating this ability grants Techies 18/22/26/30 bonus movement speed for 6 seconds. During this time, any enemy that attacks Techies is disarmed for 2.4/2.7/3/3.3 seconds and receives a Basic Dispel. At the end of the 6-second duration, the charge explodes, disarming all enemies within a 450 radius for the same duration. The ability can be manually detonated early.",
+    "search_text": "Techies Reactive Tazer W bonus movement speed 18 22 26 30 duration 6 disarm attacker 2.4 2.7 3 3.3 Basic Dispel final AoE disarm radius 450 manual detonate",
+    "tags": [
+      "TECHIES",
+      "ABILITY_DATA",
+      "REACTIVE_TAZER"
+    ]
+  },
+  {
+    "display_text": "Blast Off! (E): Techies hurtles forward and explodes upon landing, dealing 200/300/400/500 magic damage and stunning enemies in a 400 radius for 0.8/1/1.2/1.4 seconds. The ability costs 20% of Techies' current HP as non-lethal pure self-damage and has a cooldown of 40/35/30/25 seconds. This ability destroys trees in its path.",
+    "search_text": "Techies Blast Off E jump damage 200 300 400 500 radius 400 stun 0.8 1 1.2 1.4 self damage 20 current HP non lethal pure cooldown 40 35 30 25 destroys trees",
+    "tags": [
+      "TECHIES",
+      "ABILITY_DATA",
+      "BLAST_OFF"
+    ]
+  },
+  {
+    "display_text": "Minefield Sign (R): Techies plants a sign with a 500 radius aura that lasts 60 seconds. Proximity Mines and Sticky Bombs within this aura become invulnerable and deal 15% increased damage. Only one sign can exist at a time. The ability has a 60-second cooldown.",
+    "search_text": "Techies Minefield Sign R ultimate aura radius 500 duration 60 makes Proximity Mines Sticky Bombs invulnerable damage increase 15% one sign cooldown 60",
+    "tags": [
+      "TECHIES",
+      "ABILITY_DATA",
+      "MINEFIELD_SIGN"
+    ]
+  },
+  {
+    "display_text": "Proximity Mines (D): Techies plants an invisible mine that lasts until destroyed or triggered. It becomes visible if an enemy is within its 500 active AoE. If an enemy remains within that AoE for 1.0 second, it explodes, dealing 400/575/750 magic damage (reduced by distance, down to 60 on the edge) and reducing the enemy's magic resistance by 15/20/25% for 5 seconds. Deals 30% damage to buildings. Mines cannot be placed within 350 range of another mine. They have a 15-second charge restore time. Grants 30 gold to an enemy hero if destroyed.",
+    "search_text": "Techies Proximity Mines D invisible damage 400 575 750 radius 500 activation delay 1.0 second magic resistance reduction 15 20 25 building damage 30% charge cooldown 15 gold bounty 30",
+    "tags": [
+      "TECHIES",
+      "ABILITY_DATA",
+      "PROXIMITY_MINES"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing Against True Sight. When facing heroes like Zeus, Slardar, or a team with Gem/Gem carriers, your static Proximity Mines become useless. In this scenario, prioritize Aghanim's Scepter to make your mines mobile and harder to track. Avoid static minefields. Focus on using Sticky Bomb and Blast Off! for direct combat impact. Consider the Backpack Facet to carry your own Gem or Dust to counter enemy invisibility.",
+    "search_text": "Techies vs True Sight Zeus Slardar Gem counter build Aghanim Scepter mobile mines avoid static minefields focus Sticky Bomb Blast Off backpack facet carry gem",
+    "tags": [
+      "TECHIES",
+      "SITUATIONAL",
+      "VS_TRUE_SIGHT"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When your team is losing map control, you cannot safely place offensive mines. Use Proximity Mines defensively around your towers and jungle entrances to deter pushes and secure farm for your carries. Skill the Reactive Tazer facet for extra utility and survivability. Build utility items like Force Staff, Glimmer Cape, or Lotus Orb to save allies. Your role shifts to defensive area denial and saving teammates with disarms and stuns.",
+    "search_text": "Techies playing from behind defensive mines tower protection jungle entrances use Reactive Tazer utility build Force Staff Glimmer Cape Lotus Orb save allies",
+    "tags": [
+      "TECHIES",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: High-Tempo Pushing Lineups. Against heroes like Lycan, Chen, or Death Prophet that want to group and push early, your mine setup time is limited. Max Sticky Bomb first for reliable wave clear and teamfight damage. Use Blast Off! aggressively to stop channeled spells or break up the push. The +200 Blast Off! Damage talent at level 15 becomes very valuable. Place Minefield Sign directly on the creep wave or under your tower to amplify your mine damage during the defense.",
+    "search_text": "Techies vs push lineups Lycan Chen Death Prophet max Sticky Bomb wave clear Blast Off stop push talent +200 Blast Off damage Minefield Sign on creep wave",
+    "tags": [
+      "TECHIES",
+      "SITUATIONAL",
+      "VS_PUSH"
+    ]
+  },
+  {
+    "display_text": "At Level 10, Techies chooses between +20% Magic Resistance or -3s Proximity Mines Cooldown. +20% Magic Resistance is the defensive choice, greatly increasing survivability against magic-heavy lineups. -3s Proximity Mines Cooldown is the aggressive, farming, and area-control choice, allowing you to lay mines more frequently. Choose Magic Resistance if you are being focused by spells. Choose the cooldown reduction if you have space to mine and need faster farm or map control.",
+    "search_text": "Techies level 10 talent left +20 magic resistance right -3s Proximity Mines cooldown defensive vs magic aggressive farming map control",
+    "tags": [
+      "TECHIES",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At Level 15, Techies chooses between +200 Blast Off! Damage or +3 Mana Regen. +200 Blast Off! Damage turns your initiation into a much more lethal nuke, increasing its damage to 400/500/600/700. This is crucial for burst damage and teamfight impact. +3 Mana Regen is a sustain talent, allowing for more frequent spellcasting, especially Sticky Bomb spam and mine placement, without needing mana items. Pick the damage if you are landing good Blast Off! initiations. Pick mana regen if you are struggling with mana or focused on prolonged sieging/defending.",
+    "search_text": "Techies level 15 talent left +200 Blast Off damage right +3 mana regen burst damage initiation vs spell sustain spam",
+    "tags": [
+      "TECHIES",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At Level 20, Techies chooses between -15s Blast Off! Cooldown or +160 Sticky Bomb Damage. -15s Blast Off! Cooldown reduces the cooldown to 25/20/15/10 seconds, allowing for multiple initiations or escapes in a single fight. This is incredibly powerful for a playmaking Techies. +160 Sticky Bomb Damage increases its explosion damage to 255/330/405/480, making it a potent spammable nuke. Choose the cooldown reduction for high-frequency disruption. Choose the damage if you need safer, long-range poke and wave clear.",
+    "search_text": "Techies level 20 talent left -15s Blast Off cooldown right +160 Sticky Bomb damage more initiations vs higher damage poke wave clear",
+    "tags": [
+      "TECHIES",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At Level 25, Techies chooses between +252 Damage or -0.8s Proximity Mines Activation Delay. +252 Damage is a transformative talent, turning Techies into a formidable right-click physical damage dealer, especially potent with the Attack Range facet. -0.8s Proximity Mines Activation Delay reduces the trigger time from 1.0s to 0.2s, making mines almost instantaneous and far more reliable against mobile heroes. This is a massive offensive spike for mine-based play. Choose +252 Damage to become a carry. Choose the activation delay to become an unescapable area-denial monster.",
+    "search_text": "Techies level 25 talent left +252 damage right -0.8s Proximity Mines activation delay physical carry vs instant mines area denial",
+    "tags": [
+      "TECHIES",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

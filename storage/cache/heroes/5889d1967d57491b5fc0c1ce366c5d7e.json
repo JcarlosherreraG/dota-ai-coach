@@ -1,0 +1,199 @@
+[
+  {
+    "display_text": "Monkey King is a Melee hero with a base attack range of 150. He has a base attack time of 1.6, which is average. He starts with 24 base Agility (good), 19 base Strength (average), and 20 base Intelligence (average). His primary attribute is Agility. This gives him reasonable starting damage and armor, but his melee nature and lack of inherent health regeneration require careful positioning in lane.",
+    "search_text": "Monkey King MK stats melee attack range 150 base attack time 1.6 BAT agility strength intelligence",
+    "tags": [
+      "MonkeyKing",
+      "BASE_STATS",
+      "MELEE",
+      "AGILITY"
+    ]
+  },
+  {
+    "display_text": "Monkey King has three Facets. Wukong's Faithful extends the duration his Wukong's Command soldiers last and prevents them from dispersing unless he spends more than a specified time (value not provided in raw data) outside the area. This enhances his teamfight zone control. Simian Stride increases the max level of Tree Dance, and at max level reduces its cooldown to zero, enabling near-permanent mobility and escape. Changing of the Guard allows him to transform into one of his soldiers during Wukong's Command, adding deception and survivability. Choose Wukong's Faithful for pure teamfight, Simian Stride for maximum mobility and split-push, or Changing of the Guard for deceptive plays and evasion within your ultimate.",
+    "search_text": "Monkey King Facets Wukong's Faithful soldier duration Simian Stride Tree Dance zero cooldown Changing of the Guard transform soldier ultimate",
+    "tags": [
+      "MonkeyKing",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Monkey King's laning phase focuses on trading with Jingu Mastery. His goal is to land four consecutive attacks on the same enemy hero to activate the bonus damage and lifesteal. Use Boundless Strike to secure last hits, harass, and add a stack to the Jingu counter. Use Tree Dance primarily as an escape tool to avoid ganks or to set up for a Primal Spring nuke. Harass aggressively when Jingu Mastery is charged, using the lifesteal to sustain. Be wary of opponents with strong dispels or who can break your passive. Ward enemy jungle camps to use trees for mobility.",
+    "search_text": "Monkey King laning early game Jingu Mastery 4 hits lifesteal Boundless Strike last hit Tree Dance escape Primal Spring harass",
+    "tags": [
+      "MonkeyKing",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Monkey King's power spikes are tied to levels and key items. Level 2 is a minor spike with a point in Jingu Mastery. Level 6 with Wukong's Command provides massive kill threat in fights and dives. Level 12 (maxed Jingu Mastery) significantly increases his sustained damage and lifesteal. Level 15 talent (+0.2s Boundless Strike stun) increases lockdown. Level 18 (maxed Primal Spring) provides high burst damage. The level 20 talent choice (0 Cooldown Primal Spring or +60% Boundless Strike crit) defines his late-game playstyle as a mobile nuker or a burst fighter. Level 25 talents provide massive upgrades to his core mechanics. Item spikes include Echo Sabre (for easy Jingu procs), Desolator (armor reduction), and Black King Bar (to enable his ultimate).",
+    "search_text": "Monkey King power spike level 6 ultimate Wukong's Command level 12 Jingu Mastery level 18 Primal Spring level 20 talent Echo Sabre Desolator BKB",
+    "tags": [
+      "MonkeyKing",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Monkey King is hard countered by several mechanics. Break effects (e.g., from Silver Edge, Viper's Nethertoxin) disable the gaining of new Jingu Mastery stacks, crippling his trading. Instant disables and hexes prevent him from using Tree Dance to escape. Area-of-effect damage and stuns can knock him out of trees, causing a 3-second stun. Heroes with high mobility can kite him outside his Wukong's Command circle. Illusion and summon-based heroes can body-block his movements and dilute his single-target focus. Dispels can remove his active Jingu Mastery buff.",
+    "search_text": "Monkey King counters break Silver Edge Viper Nethertoxin Jingu Mastery hex instant disable tree stun 3 seconds kiting dispel",
+    "tags": [
+      "MonkeyKing",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Monkey King's core build is essential for enabling his playstyle. Echo Sabre is the first major item, providing mana regeneration, strength, and a double-hit that guarantees a quick Jingu Mastery proc. Black King Bar is almost always mandatory to allow him to channel Primal Spring and fight inside Wukong's Command without being disabled. Desolator is a classic damage item that synergizes with his high physical damage output from Jingu Mastery and Boundless Strike, helping him shred armor.",
+    "search_text": "Monkey King core items Echo Sabre double hit Jingu Mastery Black King Bar BKB magic immunity Desolator armor reduction",
+    "tags": [
+      "MonkeyKing",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Monkey King's role is to initiate or counter-initiate with a well-placed Wukong's Command, creating a large zone of control. He should look to land a multi-hero Boundless Strike for the stun and crit damage. His job is to jump on priority targets using Tree Dance and Primal Spring, then use his Jingu Mastery lifesteal to manfight within his ultimate circle. He must stay within the area of his soldiers to maintain the bonus armor and zone, unless using the Changing of the Guard Facet. He is a front-line fighter and disruptor.",
+    "search_text": "Monkey King teamfight role initiator Wukong's Command zone control Boundless Strike stun Primal Spring jump Jingu Mastery lifesteal manfight",
+    "tags": [
+      "MonkeyKing",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Boundless Strike (Q): Monkey King enlarges his staff and slams it against the ground, stunning enemies in a line for 0.7/0.9/1.1/1.3 seconds. Deals 20/40/60/80 flat damage plus a critical strike based on his attack. The critical multiplier is 120%/140%/160%/180%. Has True Strike. Cast range is 1100. Radius is 150. Cooldown is 24/21/18/15 seconds. Does not affect spell-immune enemies.",
+    "search_text": "Boundless Strike Q stun line 0.7 0.9 1.1 1.3 seconds damage 20 40 60 80 crit 120 140 160 180 true strike range 1100 radius 150 cooldown 24 21 18 15 pierces bkb? 0",
+    "tags": [
+      "MonkeyKing",
+      "ABILITY_DATA",
+      "BOUNDLESS_STRIKE",
+      "STUN",
+      "NUKER"
+    ]
+  },
+  {
+    "display_text": "Tree Dance (W): Monkey King jumps to a tree and perches atop it. Ground jump distance is 800. Cast range is 800. While perched, he gains Primal Spring. His perched vision is 700 day and 500 night. If his tree is destroyed, he falls and is stunned for 3.0 seconds. Taking damage while on the ground puts Tree Dance on a 3.0 second cooldown. Cooldown starts upon landing.",
+    "search_text": "Tree Dance W jump tree perch Primal Spring vision 700 500 tree destroy stun 3 seconds ground damage cooldown 3",
+    "tags": [
+      "MonkeyKing",
+      "ABILITY_DATA",
+      "TREE_DANCE",
+      "MOBILITY",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Primal Spring (E): This is a channeled leap attack available while perched on a tree. Monkey King springs from his perch, damaging and slowing enemies where he lands. Damage is up to 110/200/290/380. Slow is up to 35%/50%/65%/80% for 4.0 seconds. Damage and slow scale with channel duration. Impact radius is 375. Cooldown is 18/16/14/12 seconds.",
+    "search_text": "Primal Spring E channeled leap perch tree damage 110 200 290 380 slow 35 50 65 80 4 seconds radius 375 cooldown 18 16 14 12",
+    "tags": [
+      "MonkeyKing",
+      "ABILITY_DATA",
+      "PRIMAL_SPRING",
+      "NUKER",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Jingu Mastery (Passive): Monkey King's attacks awaken the Jingu Bang's power. Upon the fourth hit on the same enemy hero, he earns 4 charged attacks. These charged attacks have 30/75/120/165 bonus damage and 20%/40%/60%/80% lifesteal. The counter debuff on the enemy lasts 5.5/7.0/8.5/10.0 seconds. The buff on Monkey King lasts a maximum of 35 seconds. Hitting an enemy with Boundless Strike adds to the hit counter. Break disables gaining new stacks but does not disable bonuses from existing stacks. The Jingu Mastery buff on self can be dispelled.",
+    "search_text": "Jingu Mastery passive 4 hits same hero bonus damage 30 75 120 165 lifesteal 20 40 60 80 charged attacks 4 duration 35 break dispel Boundless Strike adds stack",
+    "tags": [
+      "MonkeyKing",
+      "ABILITY_DATA",
+      "JINGU_MASTERY",
+      "PASSIVE",
+      "LIFESTEAL",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Mischief (F): Monkey King changes shape to a nearby object, creating a disguise. Taking damage, attacking, or using any item or ability breaks the disguise. Grants damage immunity for 0.1 seconds upon transforming. Revert Form ability returns him to normal.",
+    "search_text": "Mischief F disguise transform object damage immunity 0.1 seconds break on damage attack",
+    "tags": [
+      "MonkeyKing",
+      "ABILITY_DATA",
+      "MISCHIEF",
+      "DISGUISE",
+      "SURVIVABILITY"
+    ]
+  },
+  {
+    "display_text": "Wukong's Command (R): Monkey King creates a circular formation of soldiers. The first ring has 5 soldiers at a 300 radius. The second ring has 9 soldiers at a 750 radius. Soldiers have Monkey King's attack damage and only target heroes. Monkey King gains 15/20/25 bonus armor for the 14 second duration. If Monkey King leaves the area, his soldiers disperse (modified by Facets). Soldiers do not receive Jingu Mastery bonuses, Basher, or Abyssal Blade effects. Cast range is 625.",
+    "search_text": "Wukong's Command R ultimate soldiers ring 5 9 radius 300 750 bonus armor 15 20 25 duration 14 seconds target heroes only cast range 625",
+    "tags": [
+      "MonkeyKing",
+      "ABILITY_DATA",
+      "WUKONGS_COMMAND",
+      "ULTIMATE",
+      "AREA_OF_EFFECT",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "When playing against high armor and evasion heroes, Monkey King struggles as his damage is primarily physical. Prioritize items like Monkey King Bar to counter evasion and Assault Cuirass or Desolator to reduce armor. Consider a Nullifier against targets with Ghost Scepter or Ethereal Blade. Your Jingu Mastery lifesteal is less effective against high physical resistance.",
+    "search_text": "situation vs high armor evasion Monkey King Bar MKB true strike Assault Cuirass Desolator armor reduction Nullifier ghost",
+    "tags": [
+      "MonkeyKing",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR",
+      "VS_EVASION"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, Monkey King should avoid direct 5v5 confrontations. Use Tree Dance and Primal Spring to safely wave clear and split push lanes. Place deep wards to scout and use Mischief for deception when farming risky areas. Build cost-effective survivability items like Black King Bar and Sange and Yasha. Look for pick-offs with teammates using your mobility and Boundless Strike stun.",
+    "search_text": "situation playing from behind split push Tree Dance Primal Spring wave clear Mischief farm wards pickoff",
+    "tags": [
+      "MonkeyKing",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "When facing heroes with instant disables or silences (e.g., Skywrath Mage, Lion), Monkey King's Tree Dance escape is nullified. Itemize for early Black King Bar. Consider a Linken's Sphere against targeted disables. Position carefully and rely on teammates to initiate or absorb spells first. The Changing of the Guard Facet can provide a moment of unpredictability.",
+    "search_text": "situation vs instant disables silences BKB Black King Bar Linken's Sphere positioning Tree Dance escape countered",
+    "tags": [
+      "MonkeyKing",
+      "SITUATIONAL",
+      "VS_DISABLES"
+    ]
+  },
+  {
+    "display_text": "With a level 10 talent, choose between +85 Primal Spring Max Damage or +0.2s Boundless Strike Stun Duration. Take the Primal Spring damage if you are focusing on burst and wave clear, especially from a distance using trees. Take the extra stun duration if your team needs more lockdown or you are fighting more directly, as it increases the window for your team to follow up.",
+    "search_text": "talent level 10 left +85 Primal Spring damage right +0.2s Boundless Strike stun burst wave clear lockdown",
+    "tags": [
+      "MonkeyKing",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "With a level 15 talent, choose between +450 Tree Dance Cast Range or +110 Jingu Mastery Damage. The increased Tree Dance range dramatically improves your mobility, initiation range, and escape options, making you much harder to catch. The Jingu Mastery damage is a substantial raw damage increase for manfighting. Choose Tree Dance range for utility and survivability, or Jingu damage if you are the primary right-click core and can stick to targets.",
+    "search_text": "talent level 15 left +450 Tree Dance cast range right +110 Jingu Mastery damage mobility initiation damage manfight",
+    "tags": [
+      "MonkeyKing",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "With a level 20 talent, choose between 0 Cooldown Primal Spring or +60% Boundless Strike Critical Damage. 0 Cooldown Primal Spring transforms Monkey King into an extremely mobile hero, allowing constant leaps for damage, slow, and repositioning. The +60% Boundless Strike crit turns it into a massive nuke, especially when combined with high attack damage items. Choose based on whether you need mobility and sustained harass (Primal Spring) or front-loaded burst damage (Boundless Strike).",
+    "search_text": "talent level 20 left 0 cooldown Primal Spring right +60% Boundless Strike crit damage mobility burst",
+    "tags": [
+      "MonkeyKing",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "With a level 25 talent, choose between -1 Jingu Mastery Required Hits or Additional Wukong's Command Ring. -1 Jingu Mastery Required Hits means you only need 3 attacks to activate the bonus damage and lifesteal, making it much easier to proc in fights and dramatically increasing your sustained damage and survivability. The Additional Wukong's Command Ring creates an extra ring of soldiers at an unspecified range, greatly increasing the area coverage and damage potential of your ultimate in teamfights. Choose Jingu for a self-focused damage boost, or the extra ring for area control and teamfight presence.",
+    "search_text": "talent level 25 left -1 Jingu Mastery hits 3 attacks right Additional Wukong's Command Ring extra soldiers area control",
+    "tags": [
+      "MonkeyKing",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

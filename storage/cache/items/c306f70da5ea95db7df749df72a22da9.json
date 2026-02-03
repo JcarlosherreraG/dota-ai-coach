@@ -1,0 +1,78 @@
+[
+  {
+    "display_text": "Radiance, Cost: 4700: Grants the Burn toggle ability, scorching nearby enemies for 60 magical damage per second. Illusions created by the wielder also deal 35 magic DPS with the aura. Provides substantial raw damage and evasion for survivability, primarily used to accelerate farm and exert constant pressure in fights. Stats: CD: N/A (Toggle), Damage: +55, Evasion: +25%, Burn Radius: 650.",
+    "search_text": "aoe farm item, farming item, wave clear, illusion item, burn aura, aura damage, magic dps, magic aura, illusion dps, evasion item, damage item, carry item, radiance, Radiance",
+    "tags": [
+      "ITEM_DATA",
+      "RADIANCE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "MAGICAL_DAMAGE",
+      "AOE_DAMAGE",
+      "AURA",
+      "DEBUFF",
+      "DAMAGE",
+      "EVASION",
+      "ILLUSION_SYNERGY"
+    ]
+  },
+  {
+    "display_text": "Radiance, Cost: 4700: Stat Profile: Provides a flat +55 Damage increase and +25% Evasion. The item offers no other attribute bonuses, focusing on offensive power and survivability through evasion. This stat combination makes it a strong scaling item for agility and illusion-based heroes.",
+    "search_text": "radiance stats, evasion item stats, damage stats, carry item stats, illusion stats, Radiance",
+    "tags": [
+      "ITEM_DATA",
+      "RADIANCE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "EVASION",
+      "CARRY_ITEM",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Radiance, Cost: 4700: Team Fight Role: Provides constant area-of-effect magical damage that pressures and zones enemy heroes during prolonged engagements. The aura forces opponents to disengage or suffer significant DPS, while the evasion bonus helps the core survive focus fire.",
+    "search_text": "radiance team fight, aoe pressure, zone control item, constant dps, team fight dps, magic zone, Radiance",
+    "tags": [
+      "ITEM_DATA",
+      "RADIANCE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AURA",
+      "DEBUFF",
+      "MAGICAL_DAMAGE",
+      "AOE_DAMAGE",
+      "ZONE_CONTROL"
+    ]
+  },
+  {
+    "display_text": "Radiance, Cost: 4700: Farming Utility: The permanent aura dramatically accelerates hero farming speed by damaging all nearby creeps simultaneously. It is a premier farming item that allows the holder to clear camps and waves quickly, generating a significant gold advantage over time.",
+    "search_text": "radiance farm, farming acceleration, jungle clear, wave clear, fast farm, gold acceleration, farming item, Radiance",
+    "tags": [
+      "ITEM_DATA",
+      "RADIANCE",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "JUNGLE",
+      "AOE_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Radiance, Cost: 4700: Synergy Build: Core timing item for illusion heroes (e.g., Naga Siren, Phantom Lancer) and heroes with high natural durability (e.g., Wraith King, Bristleback), as the Burn aura is applied by each illusion, multiplying its damage output. Also synergizes with evasion stacks and other survivability items.",
+    "search_text": "radiance illusion hero, radiance naga, radiance phantom lancer, radiance wraith king, illusion synergy, illusion damage, Radiance",
+    "tags": [
+      "ITEM_DATA",
+      "RADIANCE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "ILLUSION_SYNERGY",
+      "CARRY_ITEM",
+      "SCALING",
+      "DAMAGE"
+    ]
+  }
+]

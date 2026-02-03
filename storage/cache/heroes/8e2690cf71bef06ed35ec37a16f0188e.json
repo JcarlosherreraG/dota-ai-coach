@@ -1,0 +1,188 @@
+[
+  {
+    "display_text": "Zeus is a Ranged Intelligence hero with below average Strength (19) and Agility (11), but very high starting Intelligence (23). This gives him high base mana and damage, but low physical durability and a slow 1.7 attack speed. His starting health and armor are poor, making him vulnerable to physical harass and ganks early on.",
+    "search_text": "Zeus stats Ranged Intelligence hero attack type base armor move speed turn rate low hp low armor high int mana damage",
+    "tags": [
+      "ZEUS",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Zeus has two Facets. The Livewire Facet causes Static Field to deal more damage to nearby enemies. This synergizes with his Arc Lightning and Nimbus for mass AOE damage in close-range fights. The Divine Rampage Facet increases Thundergod's Wrath damage to other enemies when it kills a target. This excels for securing kills across the map and executing fleeing low-health heroes. Choose Livewire for teamfight-focused builds where you get close, and Divine Rampage for a more global, assassination-oriented playstyle.",
+    "search_text": "Zeus Facet Livewire Static Field more damage nearby Divine Rampage Thundergod's Wrath kill more damage other enemies choice teamfight global",
+    "tags": [
+      "ZEUS",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, max Arc Lightning first for spammable harass (90/120/150/180 damage, 1.6s cooldown). Use it to secure ranged creeps and chip down enemy heroes. Get 1 value point in Lightning Bolt (140 damage, 0.35s ministun) for last-hitting under tower or interrupting channeling. Your low armor and hp make you susceptible to physical attacks; position behind creeps. Prioritize mana regen items like Null Talismans and a Bottle to spam Arc Lightning for lane control.",
+    "search_text": "Zeus laning phase skill build Arc Lightning max spam harass damage 90 120 150 180 cooldown 1.6 Lightning Bolt ministun last hit low armor mana regen Bottle",
+    "tags": [
+      "ZEUS",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Zeus's power spikes are tied to his ultimate levels and key items. Level 6 unlocks Thundergod's Wrath (300 global damage), a massive spike for securing kills globally. Level 12 with maxed Arc Lightning and Lightning Bolt provides huge burst (180+380 damage). Level 18 unlocks his third basic ability, Heavenly Jump (700+ range mobility). Talent spikes at 10, 15, 20, and 25 are critical. Item spikes include Aghanim's Scepter (Nimbus) for map control, and Kaya upgrades for increased spell damage output.",
+    "search_text": "Zeus power spikes level 6 Thundergod's Wrath 300 damage level 12 max Arc Lightning Lightning Bolt Heavenly Jump talent 10 15 20 25 item Aghanim's Scepter Nimbus",
+    "tags": [
+      "ZEUS",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Zeus is hard countered by heroes with high magic resistance (e.g., Visage, Pudge), gap-close and silence (e.g., Storm Spirit, Riki, Night Stalker), and items that provide spell immunity (Black King Bar) as most of his damage is magical and does not pierce BKB. Break (e.g., from Silver Edge) disables his Static Field and Lightning Hands passives. Instant disables and high burst physical damage can kill him before he casts due to his low health pool.",
+    "search_text": "Zeus counters magic resistance Visage Pudge silence Storm Spirit Riki Night Stalker BKB Black King Bar spell immunity break Silver Edge Static Field low hp",
+    "tags": [
+      "ZEUS",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "The core build for Zeus focuses on mana sustain and spell amplification. Bottle and Arcane Boots are essential for early mana. Aghanim's Scepter (Nimbus) is his most important core item, providing massive global teamfight presence and control. Following this, Kaya and Yasha or Kaya and Sange provide survivability and spell amp. Force Staff or Blink Dagger can be situational for positioning or escaping.",
+    "search_text": "Zeus core build items essential Bottle Arcane Boots mana Aghanim's Scepter Nimbus Kaya Yasha spell amp Force Staff Blink Dagger",
+    "tags": [
+      "ZEUS",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Zeus's role is backline magical artillery. He should stay at maximum range, using Arc Lightning to damage multiple enemies, Lightning Bolt to burst key targets and interrupt channeling, and Heavenly Jump to reposition or escape. He activates Thundergod's Wrath at the start of a fight to reveal and damage all enemy heroes globally. He uses Nimbus to create zone control, punish clumped enemies, and provide vision. His passive Static Field adds percentage-based damage to all his spell casts.",
+    "search_text": "Zeus teamfight role backline artillery Arc Lightning AOE Lightning Bolt burst interrupt Heavenly Jump reposition Thundergod's Wrath global Nimbus zone control",
+    "tags": [
+      "ZEUS",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Arc Lightning hurls a bolt that leaps through up to 5/7/9/11 nearby enemy units, dealing 90/120/150/180 damage per jump with a 1.6 second cooldown. The jump radius is 450. It is Zeus's primary farming and harassing tool.",
+    "search_text": "Arc Lightning Q ability damage 90 120 150 180 jump count 5 7 9 11 radius 450 cooldown 1.6s farm harass",
+    "tags": [
+      "ZEUS",
+      "ABILITY_DATA",
+      "ARC_LIGHTNING"
+    ]
+  },
+  {
+    "display_text": "Lightning Bolt strikes a target, dealing 140/220/300/380 damage and applying a 0.35 second ministun. It provides 5 seconds of unobstructed vision and True Sight in a 500 radius around the target. It can be cast on the ground, affecting the closest enemy hero within 325 range. It can interrupt channeling spells.",
+    "search_text": "Lightning Bolt W ability damage 140 220 300 380 ministun 0.35s True Sight vision 500 radius ground cast interrupt channeling",
+    "tags": [
+      "ZEUS",
+      "ABILITY_DATA",
+      "LIGHTNING_BOLT"
+    ]
+  },
+  {
+    "display_text": "Heavenly Jump makes Zeus leap forward and shock the closest visible nearby enemy (prioritizing heroes), dealing 25/50/75/100 damage and reducing their movement and attack speed by 80% and 100% respectively for 1.4 seconds. The leap range is 700/800/900/1000, the hop distance is 375/450/525/600, and it grants Zeus 900 unobstructed vision around him for 3 seconds. Cooldown is 26/22/18/14 seconds. It's a mobility and slow tool.",
+    "search_text": "Heavenly Jump mobility slow damage 25 50 75 100 move slow 80% attack slow 100% range 700 800 900 1000 vision 900 cooldown 26 22 18 14",
+    "tags": [
+      "ZEUS",
+      "ABILITY_DATA",
+      "HEAVENLY_JUMP"
+    ]
+  },
+  {
+    "display_text": "Nimbus creates a storm cloud anywhere on the map for 30 seconds. It has a 450 radius and automatically casts Zeus's current level of Lightning Bolt on nearby enemies every 2.5 seconds. It provides vision and can be destroyed by enemy heroes for 125 gold. Towers and creeps do half damage to it.",
+    "search_text": "Nimbus Aghanim Scepter ultimate storm cloud duration 30s radius 450 casts Lightning Bolt every 2.5s global vision bounty 125 gold",
+    "tags": [
+      "ZEUS",
+      "ABILITY_DATA",
+      "NIMBUS"
+    ]
+  },
+  {
+    "display_text": "Lightning Hands is a toggled passive. When active, Zeus gains 30 attack speed and his attacks create Arc Lightnings that deal 50% of his attack damage to the target and nearby enemies (20% for illusions). This can be toggled off.",
+    "search_text": "Lightning Hands passive toggle attack speed 30 Arc Lightning on attack damage 50% 20% illusions",
+    "tags": [
+      "ZEUS",
+      "ABILITY_DATA",
+      "LIGHTNING_HANDS"
+    ]
+  },
+  {
+    "display_text": "Thundergod's Wrath strikes all enemy heroes globally, dealing 300/475/650 damage. It also provides True Sight around each hero struck for 3 seconds. If an invisible hero is struck, it creates True Sight but deals no damage. This is Zeus's global execution and vision tool.",
+    "search_text": "Thundergod's Wrath R ultimate global damage 300 475 650 all enemy heroes True Sight vision reveal invisible",
+    "tags": [
+      "ZEUS",
+      "ABILITY_DATA",
+      "THUNDERGODS_WRATH"
+    ]
+  },
+  {
+    "display_text": "Static Field shocks any enemy Zeus attacks or hits with his abilities, dealing damage equal to 2.5%/3.25%/4%/4.75% of their current health. This is a percentage-based damage passive that amplifies all his spell damage.",
+    "search_text": "Static Field passive damage percentage current health 2.5 3.25 4 4.75% on attack ability hit",
+    "tags": [
+      "ZEUS",
+      "ABILITY_DATA",
+      "STATIC_FIELD"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy team has high mobility heroes like Storm Spirit or Anti-Mage. You need defensive positioning items like Force Staff or Eul's Scepter to survive jumps. Consider an early Aether Lens to cast spells from further away. Hold Heavenly Jump as an escape tool. Use Thundergod's Wrath to reveal their location before they engage.",
+    "search_text": "Zeus vs high mobility Storm Spirit Anti-Mage Force Staff Eul Scepter defensive Aether Lens range Heavenly Jump escape Thundergod Wrath reveal",
+    "tags": [
+      "ZEUS",
+      "SITUATIONAL",
+      "VS_MOBILE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.",
+    "search_text": "Zeus vs BKB Black King Bar does not pierce focus supports Nimbus outside BKB utility Octarine Core Refresher Orb",
+    "tags": [
+      "ZEUS",
+      "SITUATIONAL",
+      "VS_BKB"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind with low farm. Prioritize cheap survivability like Bracer and Magic Wand. Max Arc Lightning to farm jungle camps safely from a distance. Use Thundergod's Wrath to assist in fights and secure assist gold globally. Build utility items like Force Staff to save allies and yourself instead of rushing damage.",
+    "search_text": "Zeus playing from behind poor farm Bracer Magic Wand Arc Lightning farm jungle Thundergod Wrath assist gold Force Staff utility",
+    "tags": [
+      "ZEUS",
+      "SITUATIONAL",
+      "PLAYING_BEHIND"
+    ]
+  },
+  {
+    "display_text": "At level 10, Zeus chooses between +1 Heavenly Jump Target or +200 Health. The extra jump target improves his teamfight mobility and slow potential. The +200 Health significantly improves his survivability against early burst. Choose the Health if you are being targeted and dying, otherwise the extra target provides more utility.",
+    "search_text": "Zeus talent level 10 left Heavenly Jump +1 target right +200 Health choice survivability vs utility",
+    "tags": [
+      "ZEUS",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, Zeus chooses between +75 Thundergod's Wrath Damage or -0.4s Arc Lightning Cooldown. The +75 damage boosts his global execution potential, crucial for securing kills. The Arc Lightning cooldown reduction (from 1.6s to 1.2s) dramatically increases his farming speed and sustained damage in fights. Pick the damage if you need burst, pick the cooldown for farming and constant DPS.",
+    "search_text": "Zeus talent level 15 left Thundergod Wrath +75 damage right Arc Lightning -0.4s cooldown burst vs farm DPS",
+    "tags": [
+      "ZEUS",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, Zeus chooses between +60 Arc Lightning Damage or +0.5s Lightning Bolt Ministun. The +60 damage (making it 240 at max level) significantly boosts his primary damage spell. The increased ministun (to 0.85s) provides much better lockdown for interrupting channels like TP scrolls or Black Hole. Choose damage if you need raw output, choose stun for control against key enemy spells.",
+    "search_text": "Zeus talent level 20 left Arc Lightning +60 damage right Lightning Bolt +0.5s ministun interrupt channel control",
+    "tags": [
+      "ZEUS",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, Zeus chooses between 325 AoE Lightning Bolt or +2% Static Field Damage. The 325 AoE turns Lightning Bolt into a potent area-of-effect nuke and slow, amazing against clumped enemies. The +2% Static Field increase (to 6.75% max) amplifies all his damage output, especially against high-health heroes. The AoE is better for teamfight presence, while the Static Field is better for single-target and tank-busting.",
+    "search_text": "Zeus talent level 25 left Lightning Bolt 325 AoE right Static Field +2% damage AOE teamfight vs single target tank busting",
+    "tags": [
+      "ZEUS",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

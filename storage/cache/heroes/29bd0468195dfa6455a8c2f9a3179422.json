@@ -1,0 +1,234 @@
+[
+  {
+    "display_text": "Tusk is a Melee hero with average stats. His starting Strength is 23, Agility 23, and Intelligence 18, giving him average HP and mana. His attack rate is 1.7 seconds per attack. He has no innate high armor or move speed advantages in his base stats.",
+    "search_text": "Tusk stats melee attack type strength 23 agility 23 intelligence 18 base hp mana attack rate 1.7",
+    "tags": [
+      "Tusk",
+      "BASE_STATS",
+      "MELEE",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Facet choice: Tag Team vs. Drinking Buddies. Tag Team is an offensive aura that makes nearby enemies take bonus damage from all attacks, enhancing your team's physical damage output in fights. Drinking Buddies is a mobility and initiation tool that pulls Tusk and an ally together, granting both bonus Movement Speed and Attack Damage, useful for ganking or saving. Choose Tag Team for sustained teamfight damage; choose Drinking Buddies for aggressive pick-offs and burst.",
+    "search_text": "Tusk facet tag team drinking buddies choice tag team aura bonus attack damage drinking buddies pull ally movement speed attack damage gank save",
+    "tags": [
+      "Tusk",
+      "FACET_STRATEGY",
+      "FACET",
+      "TAG_TEAM",
+      "DRINKING_BUDDIES"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Ice Shards (Q) for harassment, zoning, and securing last hits from range. At level 1, it deals 75 damage. Its cooldown is long (23 seconds), so use it wisely. Consider an early point in Bitter Chill (passive) to reduce the enemy carry's attack speed if facing a strong right-click lane. Snowball (W) is a strong level 2 or 3 tool for trading or setting up kills with a lane partner, stunning for 0.6 seconds and dealing 80 damage. Focus on securing runes and setting up ganks with Snowball.",
+    "search_text": "Tusk laning phase ice shards Q harass zone last hit 75 damage 23s cooldown bitter chill passive attack speed slow snowball W level 2 stun 0.6s 80 damage gank rune control",
+    "tags": [
+      "Tusk",
+      "LANING_PHASE",
+      "LANE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Tusk's power spikes are: Level 6 with Walrus PUNCH! (R), a 200% critical strike with 60 bonus damage that launches enemies. Level 12 with level 2 Walrus Punch (250% crit, 90 bonus damage). Level 18 with level 3 Walrus Punch (300% crit, 120 bonus damage). Talent spikes at 15 (+325 Health), 20 (+120 Snowball Damage), and 25 (12% Chance Walrus Punch proc). Item spikes include Blink Dagger for initiation and Aghanim's Scepter for Walrus Kick.",
+    "search_text": "Tusk power spike level 6 walrus punch R crit 200% 60 bonus damage level 12 250% 90 damage level 18 300% 120 damage talent 15 health 325 talent 20 snowball damage 120 talent 25 12% chance walrus punch blink dagger aghanims scepter",
+    "tags": [
+      "Tusk",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "TALENTS",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Tusk is hard countered by heroes with instant disables (Lion, Shadow Shaman) that can interrupt his Snowball or Walrus Punch channel. Heroes with high mobility (Queen of Pain, Anti-Mage) can easily escape his initiation. Break effects (Silver Edge, Hoodwink) disable his Bitter Chill passive. Illusion heroes (Phantom Lancer, Chaos Knight) are less affected by his single-target burst. Spell immunity (Black King Bar) blocks all his spells except Walrus Punch (which has true strike).",
+    "search_text": "Tusk counters hard counter instant disable lion shadow shaman interrupt snowball walrus punch high mobility queen of pain anti-mage escape break silver edge hoodwink disable bitter chill passive illusion phantom lancer chaos knight bkb spell immunity",
+    "tags": [
+      "Tusk",
+      "HARD_COUNTERS",
+      "COUNTERS",
+      "DISABLES",
+      "BREAK",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "Tusk's core build absolutely requires Blink Dagger for reliable initiation with Snowball or Walrus Punch. Phase Boots are essential for chasing, armor, and damage to complement his physical burst. Aghanim's Scepter is core for the Walrus Kick ability, providing a strong disable, repositioning tool, and teamfight AoE damage (550).",
+    "search_text": "Tusk core build essential items blink dagger initiation snowball walrus punch phase boots chase armor damage aghanims scepter walrus kick disable reposition aoe damage 550",
+    "tags": [
+      "Tusk",
+      "CORE_BUILD",
+      "ITEMS",
+      "BLINK_DAGGER",
+      "PHASE_BOOTS",
+      "AGHANIMS_SCEPTER"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Tusk's role is to initiate and disrupt. Use Blink Dagger into Snowball to catch key targets, stunning them for up to 1.2 seconds (plus bonus per ally). Follow up with Walrus Punch on a high-priority target to deal massive critical damage and launch them. Use Ice Shards to cut off escape routes or isolate enemies. If you have Aghanim's Scepter, use Walrus Kick to kick a dangerous enemy into your team or away from the fight, slowing and damaging nearby heroes.",
+    "search_text": "Tusk teamfight role initiate disrupt blink snowball stun 1.2s walrus punch crit launch target ice shards block escape walrus kick aghanims scepter kick enemy slow damage 550 aoe",
+    "tags": [
+      "Tusk",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "DISABLER",
+      "BURST"
+    ]
+  },
+  {
+    "display_text": "Ice Shards (Q). Tusk compresses shards of ice into a ball that damages all enemies it contacts. At the target location, shards create an impassable barrier for 4/5/6/7 seconds. The ball deals 75/150/225/300 damage. Cooldown is 23/20/17/14 seconds. The ability creates terrain. Does NOT pierce BKB.",
+    "search_text": "Ice Shards Q damage 75 150 225 300 barrier wall impassable 4s 5s 6s 7s duration cooldown 23 20 17 14 terrain block",
+    "tags": [
+      "Tusk",
+      "ABILITY_DATA",
+      "ICE_SHARDS",
+      "Q",
+      "DAMAGE",
+      "TERRAIN"
+    ]
+  },
+  {
+    "display_text": "Snowball (W). Tusk rolls into a snowball over 3 seconds. Allies within 325 radius can add themselves. Once launched, it moves at 575/600/625/650 speed, stunning enemies hit for 0.6/0.8/1.0/1.2 seconds and dealing 80/140/200/260 damage. Each allied hero adds 40/65/90/115 bonus damage and 0.2s bonus stun. The snowball lasts max 3 seconds after launch. Cooldown is 21/19/17/15 seconds. Does NOT pierce BKB.",
+    "search_text": "Snowball W roll charge 3s allies add 325 radius launch speed 575 600 625 650 stun 0.6 0.8 1.0 1.2 damage 80 140 200 260 bonus damage per ally 40 65 90 115 bonus stun 0.2s cooldown 21 19 17 15",
+    "tags": [
+      "Tusk",
+      "ABILITY_DATA",
+      "SNOWBALL",
+      "W",
+      "STUN",
+      "INITIATION"
+    ]
+  },
+  {
+    "display_text": "Launch Snowball (D). This sub-ability launches the rolling snowball early toward a target. The snowball destroys trees.",
+    "search_text": "Launch Snowball D sub ability early launch snowball target destroy trees",
+    "tags": [
+      "Tusk",
+      "ABILITY_DATA",
+      "LAUNCH_SNOWBALL",
+      "D",
+      "SUB_ABILITY"
+    ]
+  },
+  {
+    "display_text": "Bitter Chill (Passive). Passively slows the attack speed of all enemy heroes within 350 radius by 20/40/60/80. This is an aura. Does NOT pierce BKB.",
+    "search_text": "Bitter Chill passive aura attack speed slow 20 40 60 80 radius 350",
+    "tags": [
+      "Tusk",
+      "ABILITY_DATA",
+      "BITTER_CHILL",
+      "PASSIVE",
+      "AURA",
+      "ATTACK_SPEED_SLOW"
+    ]
+  },
+  {
+    "display_text": "Walrus PUNCH! (R). Tusk performs a critical strike with 200%/250%/300% critical damage and 60/90/120 bonus damage, launching the victim into the air for 1 second. This ability has true strike, meaning it cannot miss. Cooldown is not specified in data. Pierces BKB due to true strike property.",
+    "search_text": "Walrus Punch R ult critical strike crit 200% 250% 300% bonus damage 60 90 120 launch air 1s true strike pierce bkb",
+    "tags": [
+      "Tusk",
+      "ABILITY_DATA",
+      "WALRUS_PUNCH",
+      "R",
+      "ULTIMATE",
+      "CRITICAL_STRIKE",
+      "TRUE_STRIKE",
+      "BKB_PIERCING"
+    ]
+  },
+  {
+    "display_text": "Walrus Kick (Aghanim's Scepter). Kicks the closest enemy unit in the targeted direction, stunning them, dealing 550 damage, and slowing their move speed by 40% for 2 seconds. Also deals 550 damage to all heroes within 250 radius of the landing area. The target is pushed 1200 units. Cooldown is reduced by 50% if kicking a creep. Pierces BKB (implied by being a forced movement ability on immune targets).",
+    "search_text": "Walrus Kick aghanims scepter kick enemy direction stun damage 550 move slow 40% 2s aoe damage 550 radius 250 push 1200 units creep cooldown reduction 50% bkb piercing",
+    "tags": [
+      "Tusk",
+      "ABILITY_DATA",
+      "WALRUS_KICK",
+      "AGHANIMS",
+      "DISABLE",
+      "REPOSITION",
+      "AOE_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind as Tusk. Focus on defensive utility. Use Ice Shards to block choke points and delay pushes. Save Snowball to save allies by scooping them up to escape. Prioritize cheap utility items like Magic Wand and Drums of Slaughter over greedy damage. Your role shifts to protecting your carry with Walrus Kick and setting up counter-initiation with Snowball.",
+    "search_text": "Tusk scenario playing from behind defensive ice shards block choke snowball save ally escape utility items magic wand drums of slaughter protect carry walrus kick counter initiation",
+    "tags": [
+      "Tusk",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor or Illusion heroes. Your physical burst from Walrus Punch is less effective. Build items that provide control and utility. Consider Aghanim's Scepter earlier to kick key heroes. Items like Shiva's Guard (armor, attack speed slow) and Gleipnir (root) are valuable. Use Ice Shards to cut off illusion paths.",
+    "search_text": "Tusk scenario vs high armor illusion heroes physical burst walrus punch less effective build control utility aghanims scepter early shivas guard gleipnir root ice shards block illusions",
+    "tags": [
+      "Tusk",
+      "SITUATIONAL",
+      "HIGH_ARMOR",
+      "ILLUSIONS",
+      "ITEMIZATION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Initiating against heroes with instant escapes (e.g., Storm Spirit, Puck). You must pre-cast Snowball from fog and launch it instantly with the sub-ability (Launch Snowball) to give them no time to react. Coordinate with instant silences (e.g., Orchid Malevolence, Skywrath Mage) to ensure your combo lands.",
+    "search_text": "Tusk scenario initiating vs instant escape storm spirit puck snowball precast fog launch snowball sub ability D instant reaction coordination silence orchid malevolence skywrath mage",
+    "tags": [
+      "Tusk",
+      "SITUATIONAL",
+      "INITIATION",
+      "MOBILE_HEROES"
+    ]
+  },
+  {
+    "display_text": "Scenario: When your team lacks lockdown. Your Snowball stun (max 1.2s + allies) and Walrus Kick are crucial. Prioritize maxing Snowball and getting Aghanim's Scepter. Talent choice at level 20 should be +120 Snowball Damage to increase your burst contribution. Consider items like Abyssal Blade for additional stun.",
+    "search_text": "Tusk scenario team lacks lockdown snowball stun walrus kick crucial max snowball aghanims scepter talent 20 +120 snowball damage burst abyssal blade stun",
+    "tags": [
+      "Tusk",
+      "SITUATIONAL",
+      "LOCKDOWN",
+      "CONTROL"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left choice is +2s Tag Team Duration. Right choice is +0.75s Walrus Punch Stun Duration. Choose +2s Tag Team Duration if you selected the Tag Team facet and are fighting frequently with your team, as it extends the debuff duration on enemies. Choose +0.75s Walrus Punch Stun if you need more single-target lockdown or have the Drinking Buddies facet for pick-offs.",
+    "search_text": "Talent level 10 left +2s tag team duration right +0.75s walrus punch stun duration tag team facet teamfight walrus punch stun lockdown drinking buddies pickoff",
+    "tags": [
+      "Tusk",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left choice is +325 Health. Right choice is +120 Snowball Damage. Choose +325 Health for survivability if you are being focused or initiating deep. Choose +120 Snowball Damage if you are snowballing (pun intended) and want to increase your burst damage, especially effective with multiple allies inside the Snowball.",
+    "search_text": "Talent level 15 left +325 health right +120 snowball damage survivability initiation burst damage snowball allies inside",
+    "tags": [
+      "Tusk",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left choice is -6s Ice Shards Cooldown. Right choice is +75% Walrus Punch Crit. Choose -6s Ice Shards Cooldown if you need more frequent terrain creation and zoning in prolonged fights or sieges. Choose +75% Walrus Punch Crit for massive single-target burst, making your ultimate crit for 375%/325%/375% depending on level.",
+    "search_text": "Talent level 20 left -6s ice shards cooldown right +75% walrus punch crit terrain zoning siege burst damage critical 375% 325% 375%",
+    "tags": [
+      "Tusk",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left choice is 12% Chance Walrus Punch, which gives normal attacks a 12% chance to trigger Walrus Punch independently of its mana cost and cooldown. Right choice is -8s Snowball Cooldown. Choose 12% Chance Walrus Punch for incredible sustained damage in right-click builds, effectively turning you into a critical threat. Choose -8s Snowball Cooldown for ultra-high initiation uptime, allowing you to engage every 7-9 seconds (base 15-21s).",
+    "search_text": "Talent level 25 left 12% chance walrus punch proc right click sustained damage right -8s snowball cooldown initiation uptime engage 7s 9s cooldown",
+    "tags": [
+      "Tusk",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

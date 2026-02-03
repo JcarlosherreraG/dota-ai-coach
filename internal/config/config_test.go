@@ -32,7 +32,7 @@ func TestLoadConfig(t *testing.T) {
 	}
 
 	if cfg.Provider != "gemini" {
-		t.Errorf("Expected provider 'openai', got '%s'", cfg.Provider)
+		t.Errorf("Expected provider 'gemini', got '%s'", cfg.Provider)
 	}
 	if cfg.GsiPort != 3000 {
 		t.Errorf("Expected port 3000, got %d", cfg.GsiPort)

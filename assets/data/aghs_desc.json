@@ -1,0 +1,2532 @@
+[
+  {
+    "display_text": "Axe Aghanim's Scepter: Removes Counter Helix cooldown and applies a stacking debuff that reduces enemy attack damage. This upgrade counters physical damage-heavy lineups, transforming Axe into a durable tank that punishes sustained attacks and thrives in prolonged fights.",
+    "search_text": "Axe Aghanim Scepter Counter Helix physical damage reduction no cooldown stacking debuff tank",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Axe",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Axe Aghanim's Shard: Allows Battle Hunger to stack on a single target, amplifying its damage and slow effects. This upgrade counters mobility and sustain, enabling Axe to disrupt key targets more effectively and apply consistent pressure in lane or teamfights.",
+    "search_text": "Axe Aghanim Shard Battle Hunger stack damage slow mobility sustain disrupt",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Axe",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Anti-Mage Aghanim's Scepter: Enhances Blink to burn an additional 20% max mana and prevent mana regeneration or gain upon Mana Break. This upgrade counters mana-reliant heroes by severely crippling their ability to cast spells, making Anti-Mage a more effective anti-caster assassin.",
+    "search_text": "Anti-Mage Aghanim Scepter anti-caster mana burn prevent mana regeneration spell cripple",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Anti-Mage",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Anti-Mage Aghanim's Shard: Creates a blinked fragment of Anti-Mage next to enemy casters upon reflecting their spell. This counters spell-reliant heroes by positioning Anti-Mage aggressively during Counterspell activation, enabling immediate counter-pressure.",
+    "search_text": "Anti-Mage Aghanim Shard anti-caster spell reflection counter-pressure",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Anti-Mage",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Bloodseeker Aghanim's Scepter: Rupture gains increased initial damage and 2 charges. This upgrade counters mobility and escape mechanics, allowing Bloodseeker to punish multiple fleeing enemies or reapply Rupture after dispels or BKB usage.",
+    "search_text": "Bloodseeker Aghanim Scepter Rupture charges anti-mobility escape punish dispel BKB reapply",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Bloodseeker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Bloodseeker Aghanim's Shard: Bloodrage attacks deal 2% of target's max health as Pure damage. This upgrade counters high-health and armor-reliant heroes, transforming Bloodseeker into a tank-buster who can shred durable frontliners.",
+    "search_text": "Bloodseeker Aghanim Shard Bloodrage pure damage anti-tank high-health armor shred",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Bloodseeker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Bane Aghanim's Scepter: Creates two uncontrollable illusions that channel Fiend's Grip alongside Bane. This upgrade counters single-target disables by making it harder to interrupt all Fiend's Grip channels simultaneously, significantly increasing teamfight control and damage.",
+    "search_text": "Bane Aghanim Scepter counter-disable anti-interrupt Fiend's Grip illusions teamfight control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Bane",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Bane Aghanim's Shard: Turns Brain Sap into an AoE spell, healing Bane and damaging enemies in a 550 radius. This upgrade counters AoE damage spells by ensuring Bane sustains health even in chaotic teamfights, transforming him into a durable teamfight presence.",
+    "search_text": "Bane Aghanim Shard AoE Brain Sap healing anti-burst teamfight sustain",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Bane",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Crystal Maiden Aghanim's Scepter: Allows movement, casting, and attacking during Freezing Field while slowing movement speed by 75%. Counters enemy positioning and initiation by making Freezing Field harder to interrupt, while also applying Frostbite to enemies who stay too long. Transforms Crystal Maiden into a persistent teamfight anchor who remains a threat even when repositioning.",
+    "search_text": "Crystal Maiden Aghanim Scepter anti-interrupt positioning control teamfight anchor persistent damage Frostbite",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Crystal Maiden",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Crystal Maiden Aghanim's Shard: Grants a new ability, Crystal Clone, which disjoints projectiles and creates a decoy that Frostbites enemies upon destruction. Counters projectile-based disables and nukes by providing an escape tool, while also adding extra crowd control. Enhances her survivability and playmaking potential, allowing for safer positioning and surprise Frostbite setups.",
+    "search_text": "Crystal Maiden Aghanim Shard disjoint projectile escape crowd control Frostbite survivability playmaking",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Crystal Maiden",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Drow Ranger Aghanim's Scepter: Frost Arrows now apply Hypothermia stacks, increasing damage and reducing regeneration. This upgrade counters sustained healing and tanky heroes by bursting enemies upon death, dealing AoE damage and slows, making it a strong tool against high-regen and grouped-up opponents.",
+    "search_text": "Drow Ranger Aghanim Scepter anti-healing anti-tank high-regen burst damage AoE slow",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Drow Ranger",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Drow Ranger Aghanim's Shard: Glacier creates an ice hill, granting bonus attack range, high ground advantage, and Multishot arrows. This upgrade transforms Drow into a high-ground defense powerhouse, countering melee attackers and enabling safer positioning during sieges or defenses.",
+    "search_text": "Drow Ranger Aghanim Shard high-ground defense attack range Multishot siege positioning",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Drow Ranger",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Earthshaker Aghanim's Scepter: Enchant Totem becomes a ground target ability with cleaving attack. This upgrade counters positioning-dependent enemies by allowing Earthshaker to jump into the fight or escape, while also enhancing his area damage against grouped enemies, transforming him into a more mobile initiator or counter-initiator.",
+    "search_text": "Earthshaker Aghanim Scepter mobility positioning cleave jump initiation counter-initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Earthshaker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Earthshaker Aghanim's Shard: Reduces Fissure cooldown and adds Aftershock stuns along its path. This upgrade counters high-mobility heroes and teamfight engagements by providing additional crowd control, making Earthshaker a more persistent zoning and disruption threat in prolonged fights.",
+    "search_text": "Earthshaker Aghanim Shard Fissure cooldown Aftershock stun crowd control anti-mobility zoning",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Earthshaker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Juggernaut Aghanim's Scepter: Swiftslash — Enhances Omnislash with a quicker execution, transforming Juggernaut into a reliable burst damage dealer against key targets, particularly effective against squishy backline heroes.",
+    "search_text": "Juggernaut Aghanim Scepter burst damage anti-backline squishy target quick execution",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Juggernaut",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Juggernaut Aghanim's Shard: Increases Blade Fury radius and slows enemies by 35%. This upgrade counters kiting mechanics, making Juggernaut more effective in prolonged team fights and against mobile heroes.",
+    "search_text": "Juggernaut Aghanim Shard anti-kiting slow blade fury team fight mobile heroes",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Juggernaut",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Morphling Aghanim's Scepter: Morph creates a strong illusion of the target hero that can cast basic abilities. This upgrade transforms Morphling into a hybrid illusion-based hero, enabling him to apply pressure from multiple fronts while being unpredictable, countering single-target focus strategies.",
+    "search_text": "Morphling Aghanim Scepter illusion hybrid counter-single-target pressure unpredictable role change",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Morphling",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Morphling Aghanim's Shard: Attribute Shift can be used while stunned, providing a powerful anti-disable mechanic. This upgrade ensures Morphling maintains survivability and adaptability even under heavy control effects, countering lockdown-heavy lineups.",
+    "search_text": "Morphling Aghanim Shard Attribute Shift anti-disable counter-lockdown survivability",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Morphling",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Mirana Aghanim's Scepter: Causes Sacred Arrow to release Starstorm along its path and upon impact. This upgrade counters grouped enemy formations by adding AoE damage to Sacred Arrow, making it a powerful anti-clustering tool during team fights and skirmishes.",
+    "search_text": "Mirana Aghanim Scepter anti-clustering Sacred Arrow Starstorm AoE damage team fight",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Mirana",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Mirana Aghanim's Shard: Grants +1 Leap charge and critical strikes during Leap. This upgrade counters kiting and evasion mechanics by enhancing Mirana's mobility and burst damage potential, transforming her into a more reliable physical damage dealer in skirmishes.",
+    "search_text": "Mirana Aghanim Shard Leap critical strike mobility anti-kiting burst damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Mirana",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Phantom Lancer Aghanim's Scepter: Phantom Rush creates Juxtapose illusions when rushing through enemies and generates an additional illusion every 600 units rushed. This upgrade counters single-target burst damage by overwhelming enemies with illusions, forcing them to deal with multiple threats. It enhances Phantom Lancer's role as a chaotic teamfight presence and split-pusher by increasing his illusion generation during engagements.",
+    "search_text": "Phantom Lancer Aghanim Scepter anti-burst illusion generation split-push teamfight chaos",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Phantom Lancer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Phantom Lancer Aghanim's Shard: Grants Juxtapose an active ability that provides invisibility and movement speed while creating a decoy illusion. This upgrade counters detection-heavy lineups by allowing Phantom Lancer to reposition safely, evade ganks, and confuse enemies with deceptive illusions. It shifts his role toward a more slippery and unpredictable playstyle, enhancing his survivability and initiation potential.",
+    "search_text": "Phantom Lancer Aghanim Shard anti-detection invisibility reposition decoy illusion escape initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Phantom Lancer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Puck Aghanim's Scepter: Dream Coil now causes Puck to attack all affected enemies at 90% of its attack rate. This upgrade counters enemy disengagement mechanics by punishing movement during the coil stun, transforming Puck into a sustained damage threat during team fights.",
+    "search_text": "Puck Aghanim Scepter Dream Coil attack rate anti-disengage sustained damage team fight",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Puck",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Puck Aghanim's Shard: Phase Shift now causes Puck to attack all enemies within its attack range each time it shifts. This upgrade counters burst damage and dive-heavy lineups by adding offensive pressure during Puck's invulnerability window, enhancing its role as an elusive magic damage dealer.",
+    "search_text": "Puck Aghanim Shard Phase Shift attack burst damage counter-dive magic damage invulnerability",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Puck",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Pudge Aghanim's Scepter: Increases Rot radius and damage, and reduces enemy Health Restoration. This upgrade counters high-health regeneration and healing mechanics, making Pudge a strong counter to heroes reliant on sustain tactics. It enhances his area denial capabilities in team fights.",
+    "search_text": "Pudge Aghanim Scepter anti-healing health restoration sustain counter area denial",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Pudge",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Pudge Aghanim's Shard: Meat Hook deals bonus damage based on distance when hitting enemies and reduces cooldown by 50% when hitting allies. This upgrade counters long-range disengages and synergizes with ally repositioning, enhancing Pudge’s role as both a damage dealer and a support for saving allies.",
+    "search_text": "Pudge Aghanim Shard long-range damage repositioning disengage support ally save",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Pudge",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Nevermore Aghanim's Scepter: Increases Necromastery max souls. This enhances his sustained damage output and transforms him into a late-game powerhouse, countering tanky lineups with high physical durability.",
+    "search_text": "Nevermore Aghanim Scepter Necromastery late-game physical durability sustained damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Nevermore",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Nevermore Aghanim's Shard: Reduces Shadowraze cooldown per enemy hero. This upgrade improves his burst potential and anti-kiting capabilities, making him more effective against mobile or clustered enemy teams.",
+    "search_text": "Nevermore Aghanim Shard Shadowraze burst potential anti-kiting mobile clustered teams",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Nevermore",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Sand King Aghanim's Scepter: Epicenter now creates 3 Stinger attack areas every 0.5s at random locations, dealing 50% of Stinger damage. This upgrade counters enemy positioning and clustering by creating unpredictable damage zones, forcing enemies to scatter or take significant AoE damage during team fights.",
+    "search_text": "Sand King Aghanim Scepter Epicenter Stinger anti-clustering AoE control random damage zones",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Sand King",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Sand King Aghanim's Shard: Increases Epicenter damage per pulse and causes a small single Epicenter Pulse around Sand King every 3s. This upgrade enhances Sand King's sustained damage output and zone control, making him a persistent threat even outside of full Epicenter casts, countering prolonged engagements and slow-push strategies.",
+    "search_text": "Sand King Aghanim Shard Epicenter sustained damage zone control anti-slow push",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Sand King",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Storm Spirit Aghanim's Scepter: Electric Vortex affects all enemies within a radius around Storm Spirit. This upgrade provides strong AoE control, countering grouped enemy formations and enabling multi-hero disables during team fights, enhancing Storm Spirit's initiation and crowd control potential.",
+    "search_text": "Storm Spirit Aghanim Scepter AoE control multi-hero disable team fight initiation crowd control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Storm Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Storm Spirit Aghanim's Shard: Grants Storm Spirit and nearby allies 3 Overload charges with bonus Attack Speed. This upgrade counters prolonged engagements by providing burst damage potential, transforming Storm Spirit into a teamfight enabler who can quickly amplify allied right-click damage.",
+    "search_text": "Storm Spirit Aghanim Shard Overload charges attack speed burst damage teamfight enabler right-click damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Storm Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Sven Aghanim's Scepter: Storm Hammer counters invulnerable enemies and can be alt-cast for an additional damage boost, making it a versatile initiation tool that bypasses evasion or immunity effects while offering mobility.",
+    "search_text": "Sven Aghanim Scepter anti-invulnerability evasion immunity initiation mobility",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Sven",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Sven Aghanim's Shard: Warcry becomes undispellable and passively provides armor, turning Sven into a durable aura carrier who counters physical damage dealers and ensures team survivability in prolonged fights.",
+    "search_text": "Sven Aghanim Shard undispellable physical damage armor aura team survivability",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Sven",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Tiny Aghanim's Scepter: Tree Volley — This upgrade transforms Tiny into a long-range artillery unit, countering high-ground defense and area denial by channeling continuous tree throws. It forces enemies to reposition constantly or risk being overwhelmed by sustained damage in team fights.",
+    "search_text": "Tiny Aghanim Scepter Tree Volley high-ground defense area denial sustained damage artillery role change",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Tiny",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Tiny Aghanim's Shard: Increases Tree Throw damage — This upgrade enhances Tiny's burst potential in skirmishes, countering squishy heroes and reinforcing his role as a mid-game tempo controller who can quickly eliminate key targets with amplified tree damage.",
+    "search_text": "Tiny Aghanim Shard Tree Throw burst damage squishy heroes tempo control mid-game power spike",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Tiny",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Vengeful Spirit Aghanim's Scepter: Vengeance Aura — Creates a strong illusion upon death that can cast spells and deals full damage. This upgrade counters death-timing punishes by maintaining teamfight presence and XP retention, effectively turning Vengeful Spirit into a persistent threat even after death.",
+    "search_text": "Vengeful Spirit Aghanim Scepter anti-death-timing persistent threat illusion XP retention",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Vengeful Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Vengeful Spirit Aghanim's Shard: Magic Missile — Adds a bounce to Magic Missile, prioritizing heroes. This upgrade counters grouped enemy formations by increasing crowd control potential, transforming Vengeful Spirit into a more reliable initiator or follow-up disabler in chaotic fights.",
+    "search_text": "Vengeful Spirit Aghanim Shard anti-grouped-enemies crowd control initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Vengeful Spirit",
+      "COUNTER_MECHANIC",
+      "SHARD"
+    ]
+  },
+  {
+    "display_text": "Windranger Aghanim's Scepter: Enhances Windrun to reduce physical damage by 45% and grant invisibility that is not broken by attacking or casting spells. This upgrade provides strong anti-physical damage protection and evasion, allowing Windranger to sustain in fights and reposition safely.",
+    "search_text": "Windranger Aghanim Scepter anti-physical-damage invisibility evasion sustain reposition",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Windranger",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Windranger Aghanim's Shard: Summons Gale Force to push enemies in a target direction. This upgrade adds a powerful AoE control mechanic, enabling Windranger to disrupt enemy positioning and create opportunities for team fights or disengagements.",
+    "search_text": "Windranger Aghanim Shard AoE-control positioning-push team-fight disengage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Windranger",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Zeus Aghanim's Scepter: Nimbus — Creates a global presence threat that counters passive play and high-ground defense. The storm cloud automatically punishes grouped enemies or those hiding in fog, forcing repositioning and disrupting channeling abilities.",
+    "search_text": "Zeus Aghanim Scepter Nimbus global presence anti-high-ground fog disruption channeling counter",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Zeus",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Zeus Aghanim's Shard: Lightning Hands — Counters evasion and physical damage mitigation by converting Zeus' attacks into magical burst. This transforms Zeus into a hybrid right-clicker against low-magic-resistance targets while maintaining his spellcasting role.",
+    "search_text": "Zeus Aghanim Shard Lightning Hands anti-evasion physical mitigation hybrid right-click magical burst",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Zeus",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Kunkka Aghanim's Scepter: Ghostship creates a fleet of 2 ships at the target point on a 2.5 second interval. Each ship now also fires 3 waves of cannonballs from the port and starboard side that deal 40% of Ghostship's damage as they pass through enemies. This upgrade enhances AoE control and damage output, forcing enemies to scatter or take significant damage, making it a strong counter to grouped formations and teamfight cluster strategies.",
+    "search_text": "Kunkka Aghanim Scepter AoE control teamfight damage scatter grouped formations",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Kunkka",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Kunkka Aghanim's Shard: Releases a Tidal Wave that spawns behind Kunkka. Deals damage and drags enemies along it. Enemies cannot attack while being dragged. This upgrade introduces a new anti-control mechanic, disrupting enemy positioning and disabling their attack capability, which is particularly effective against melee carries and stationary spellcasters.",
+    "search_text": "Kunkka Aghanim Shard anti-control drag disable positioning attack interrupt",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Kunkka",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lina Aghanim's Scepter: Flame Cloak grants unobstructed movement, increased spell damage, magic resistance, and max Fiery Soul stacks. This upgrade counters movement impairment and magic burst, transforming Lina into a highly mobile, spell-resistant damage dealer during engagements.",
+    "search_text": "Lina Aghanim Scepter Flame Cloak unobstructed movement anti-magic spell damage Fiery Soul stacks",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lina",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lina Aghanim's Shard: Converts Laguna Blade damage into a barrier, countering burst damage and sustain threats. This enables Lina to survive retaliation after using her ultimate, reinforcing her role as a high-risk, high-reward nuker in teamfights.",
+    "search_text": "Lina Aghanim Shard Laguna Blade barrier anti-burst sustain survivability",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lina",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lion Aghanim's Scepter: Finger of Death becomes an AoE nuke with increased damage and reduced cooldown. This upgrade counters clustered enemy formations, punishing grouped pushes or teamfight positioning while amplifying Lion's burst damage potential in late-game engagements.",
+    "search_text": "Lion Aghanim Scepter AoE burst damage teamfight counter-push Finger of Death upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lion",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lion Aghanim's Shard: Mana Drain now affects multiple enemies and grants Debuff Immunity with magic resistance during channeling. This hard-counters single-target disables and magic nukes, transforming Lion into a resilient mana-denial tool against spell-reliant lineups while sustaining himself in fights.",
+    "search_text": "Lion Aghanim Shard Mana Drain anti-disable debuff immune magic resistance multi-target",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lion",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Shadow Shaman Aghanim's Scepter: Shackles — Enhances control and damage output by emitting Ether Shock from shackled units and allows casting on allies or Mass Serpent Wards. This upgrade counters enemy positioning by forcing them to spread out or take additional damage, while also providing utility for ally protection or ward defense.",
+    "search_text": "Shadow Shaman Aghanim Scepter Shackles Ether Shock ally protection anti-positioning ward defense",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Shadow Shaman",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Shadow Shaman Aghanim's Shard: Fowl Play — Increases survivability and utility by granting invulnerability frames and creating additional uncontrollable chickens. This upgrade counters burst damage and provides disruption potential by creating chaos with multiple chickens, while also allowing item usage during transformation.",
+    "search_text": "Shadow Shaman Aghanim Shard Fowl Play invulnerability burst damage disruption chickens chaos",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Shadow Shaman",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Slardar Aghanim's Scepter: Seaborn Sentinel — Enhances Slardar's survivability and map control by granting increased durability and area denial in water-based terrain, countering heavy physical damage and control spells with Status Resistance. This transforms him into a sustained frontliner and map control specialist, especially in river-based engagements.",
+    "search_text": "Slardar Aghanim Scepter counter-physical anti-control map control sustained frontliner",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Slardar",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Slardar Aghanim's Shard: Slithereen Crush — Adds Corrosive Haze to every Slithereen Crush hit, amplifying teamfight impact by providing vision, armor reduction, and debuff application in an AoE. This counters tanky lineups and high-armor enemies, reinforcing Slardar's role as a durable initiator and debuffer.",
+    "search_text": "Slardar Aghanim Shard anti-tank armor reduction AoE debuff initiator",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Slardar",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Tidehunter Aghanim's Scepter: Gush becomes a ground-targeted wave ability. This upgrade counters enemy positioning and mobility, allowing Tidehunter to debuff multiple enemies in a line from a safer distance, enhancing his zoning and initiation potential.",
+    "search_text": "Tidehunter Aghanim Scepter Gush wave ability line debuff positioning mobility zoning initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Tidehunter",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Tidehunter Aghanim's Shard: Dead in the Water leashes an enemy hero, countering mobility and escape attempts. This transforms Tidehunter into a stronger single-target lockdown hero, enabling better pick-offs and preventing slippery enemies from disengaging.",
+    "search_text": "Tidehunter Aghanim Shard Dead in the Water leash lockdown mobility counter escape prevention pick-off",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Tidehunter",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Witch Doctor Aghanim's Scepter: Death Ward attacks bounce between nearby enemies. This upgrade counters clustered enemy formations by amplifying damage output against grouped targets, turning Witch Doctor into a teamfight powerhouse that punishes poor positioning.",
+    "search_text": "Witch Doctor Aghanim Scepter Death Ward bounce teamfight anti-cluster anti-grouping damage amplification",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Witch Doctor",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Witch Doctor Aghanim's Shard: Voodoo Switcheroo turns Witch Doctor into a Death Ward briefly while hidden. This upgrade counters direct targeting and burst damage, allowing Witch Doctor to reposition safely or continue dealing damage while evading enemy focus.",
+    "search_text": "Witch Doctor Aghanim Shard Voodoo Switcheroo anti-targeting anti-burst reposition evasion hidden damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Witch Doctor",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lich Aghanim's Scepter: Sinister Gaze becomes an Area of Effect ability. This is a powerful anti-grouping mechanic, punishing grouped enemies by locking down multiple targets simultaneously and allowing Lich to cast other abilities during channeling for continuous disruption.",
+    "search_text": "Lich Aghanim Scepter Sinister Gaze AoE anti-grouping multi-target disruption channel",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lich",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lich Aghanim's Shard: Ice Spire is a versatile terrain control tool. It counters high-mobility heroes by slowing enemies and forcing them to focus on destroying the spire, while providing additional utility for Chain Frost bounces and Frost Shield healing.",
+    "search_text": "Lich Aghanim Shard Ice Spire terrain control slow anti-mobility Chain Frost Frost Shield",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lich",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Riki Aghanim's Scepter: Tricks of the Trade — Counters enemy vision and detection by allowing Riki to hide inside an allied unit, providing mobility and extended burst potential. This transforms Riki into a mobile ambush unit that can reposition safely while enhancing his assassination tools.",
+    "search_text": "Riki Aghanim Scepter anti-vision reposition mobility burst damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Riki",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Riki Aghanim's Shard: Smoke Screen — Counters physical damage dealers by reducing armor and isolating targets from ally assistance. This upgrade turns Riki into an area-denial specialist, crippling enemy carries and disrupting teamfight coordination.",
+    "search_text": "Riki Aghanim Shard anti-physical armor reduction isolation disable",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Riki",
+      "COUNTER_MECHANIC",
+      "SHARD"
+    ]
+  },
+  {
+    "display_text": "Enigma Aghanim's Scepter: Enhances Black Hole to deal percentage-based Max Health damage and pull units towards it from a 1200 AoE. This upgrade counters high-health tanks and mobile heroes by ensuring they cannot easily escape the ultimate's pull, turning Black Hole into a devastating teamfight control tool.",
+    "search_text": "Enigma Aghanim Scepter Black Hole pull high-health tanks anti-mobility teamfight control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Enigma",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Enigma Aghanim's Shard: Increases Malefice stun duration and spawns Eidolons with each stun. This upgrade counters squishy or mobile heroes by amplifying crowd control and providing additional pushing power without relying on Eidolon multiplication.",
+    "search_text": "Enigma Aghanim Shard Malefice stun Eidolons anti-mobile crowd control pushing power",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Enigma",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Tinker Aghanim's Scepter: Upgrades Laser into Shrink Ray, reducing target's size, health, and maximum health. This counters tanky heroes and high-health pool strategies, making it a potent tool against durability-focused lineups.",
+    "search_text": "Tinker Aghanim Scepter counter-tank high-health durability shrink ray laser upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Tinker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Tinker Aghanim's Shard: Grants Warp Flare, teleporting and rooting enemies while reducing their Cast and Attack Range. This counters positioning-dependent heroes and ranged attackers, disrupting their effectiveness in team fights.",
+    "search_text": "Tinker Aghanim Shard counter-positioning range reduction teleport root warp flare",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Tinker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Sniper Aghanim's Scepter: Causes Assassinate to fire quicker and stun the enemy target. This upgrade enhances Sniper's anti-escape and initiation capabilities, allowing him to reliably disable key targets before they can react or retreat.",
+    "search_text": "Sniper Aghanim Scepter anti-escape initiation stun disable Assassinate",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Sniper",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Sniper Aghanim's Shard: Grants Concussive Grenade, which disarms and slows enemies while knocking them and Sniper back. This upgrade provides Sniper with anti-melee defense and crowd control, enabling him to create space and disrupt enemy positioning in fights.",
+    "search_text": "Sniper Aghanim Shard anti-melee crowd control disarm knockback Concussive Grenade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Sniper",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Necrophos Aghanim's Scepter: Enhances Heartstopper Aura by scaling its Health Decay with Necrophos's health regeneration. This upgrade counters sustain-heavy lineups by amplifying percentage-based damage, forcing enemies to either disengage or invest in additional healing reduction.",
+    "search_text": "Necrophos Aghanim Scepter Heartstopper Aura sustain counter health regeneration percentage damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Necrophos",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Necrophos Aghanim's Shard: Death Seeker transforms Necrophos into a mobile Death Pulse, allowing him to reposition aggressively while simultaneously healing allies and damaging enemies. This counters kiting and split-push strategies by providing instant AoE presence and sustain in teamfights.",
+    "search_text": "Necrophos Aghanim Shard Death Seeker mobility reposition anti-kite teamfight sustain",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Necrophos",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Warlock Aghanim's Scepter: Calls 2 Golems instead of one. This upgrade counters high-ground defense and split-push strategies by doubling the hero's summon pressure, forcing enemies to deal with multiple high-HP units or lose structures.",
+    "search_text": "Warlock Aghanim Scepter double golems summon pressure high-ground defense split-push counter",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Warlock",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Warlock Aghanim's Shard: Increases the power of all imps summoned by Warlock. This upgrade counters low-HP backline heroes and supports by enhancing the zoning and harassment potential of imps, making them a persistent nuisance in teamfights.",
+    "search_text": "Warlock Aghanim Shard imp buff backline harassment zoning support counter",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Warlock",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Beastmaster Aghanim's Scepter: Drums of Slom — Counters sustained damage by providing AoE healing for Beastmaster and his units. Transforms Beastmaster into a sustain-focused teamfight presence, leveraging frequent attacks and Primal Roar to maximize healing output and damage in prolonged engagements.",
+    "search_text": "Beastmaster Aghanim Scepter counter-sustain healing drums of slom teamfight role change",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Beastmaster",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Beastmaster Aghanim's Shard: Enhances Call of the Wild Hawk — Counters vision denial by increasing Hawk duration and summoning an additional Hawk. Strengthens Beastmaster's scouting and map control capabilities, making him a superior information provider for team engagements and objective control.",
+    "search_text": "Beastmaster Aghanim Shard counter-vision hawk scouting map control role change",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Beastmaster",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Queen of Pain Aghanim's Scepter: Shadow Strike becomes an AoE spell and triggers Scream of Pain when it ends or is reapplied. This upgrade counters grouped enemy formations by punishing clumped-up heroes, transforming Queen of Pain into a sustained AoE damage threat in teamfights.",
+    "search_text": "Queen of Pain Aghanim Scepter AoE damage anti-grouping teamfight sustain damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Queen of Pain",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Queen of Pain Aghanim's Shard: Blink releases a sonic boom that damages and silences enemies at both start and end locations. This upgrade counters spell-reliant enemies by disrupting their ability to retaliate, enabling safer initiations and escapes while adding utility to Queen of Pain's mobility.",
+    "search_text": "Queen of Pain Aghanim Shard silence anti-caster blink initiation escape utility",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Queen of Pain",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Venomancer Aghanim's Scepter: Increases base damage per debuff from Septic Shock. This upgrade enhances Venomancer's role as a sustained damage dealer, punishing enemies who stay in prolonged engagements or fail to purge debuffs, making it particularly effective against tanky or healing-reliant heroes.",
+    "search_text": "Venomancer Aghanim Scepter Septic Shock sustained damage anti-heal anti-tank debuff damage increase",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Venomancer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Venomancer Aghanim's Shard: Adds a 300 damage and 1.6-second stun to Venomous Gale if dispelled. This upgrade acts as a strong anti-dispel mechanic, discouraging enemies from using purge spells or items like Eul's Scepter or Lotus Orb against Venomous Gale, turning it into a highly punishing initiation tool.",
+    "search_text": "Venomancer Aghanim Shard Venomous Gale anti-dispel punish Eul Lotus Orb stun damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Venomancer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Faceless Void Aghanim's Scepter: Applies Time Lock to all units at the landing destination of Time Walk. This upgrade counters grouped-up enemy formations by providing AoE control and damage, transforming Void into a powerful initiator and teamfight disruptor.",
+    "search_text": "Faceless Void Aghanim Scepter Time Lock AoE control initiation teamfight disruptor",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Faceless Void",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Faceless Void Aghanim's Shard: Reverse Time Walk allows Void to rewind his position within 1.5 seconds of casting Time Walk. This counters aggressive enemy positioning and lockdown, enabling Void to escape dangerous situations or reposition for better follow-up abilities.",
+    "search_text": "Faceless Void Aghanim Shard Reverse Time Walk escape reposition anti-lockdown",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Faceless Void",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Wraith King Aghanim's Scepter: Reduces Reincarnation cooldown. This upgrade counters the enemy's timing windows by allowing Wraith King to re-enter fights more frequently, making him a relentless threat and forcing the enemy to delay engagements or focus him down repeatedly.",
+    "search_text": "Wraith King Aghanim Scepter counter-timing fight frequency reincarnation cooldown relentless threat",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Wraith King",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Wraith King Aghanim's Shard: Removes Reincarnation mana cost, ensuring Wraith King can always revive even when silenced or mana-drained. This upgrade counters mana burn and silence mechanics, solidifying Wraith King's role as an unkillable frontline tank.",
+    "search_text": "Wraith King Aghanim Shard anti-silence mana burn mana cost reincarnation unkillable frontline tank",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Wraith King",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Death Prophet Aghanim's Scepter: Exorcism now spawns additional ghosts when attacking or casting spells on enemies, increasing damage output and sustain. This upgrade counters high-mobility and evasion heroes by ensuring continuous ghost attacks that return health, making Death Prophet harder to burst down in fights.",
+    "search_text": "Death Prophet Aghanim Scepter Exorcism sustain damage anti-evasion high-mobility ghost attacks lifesteal",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Death Prophet",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Death Prophet Aghanim's Shard: Spirit Siphon gains an extra charge and fears enemies after 3 seconds of continuous siphon. This upgrade counters aggressive melee heroes and divers by disrupting their positioning and forcing retreats, enhancing Death Prophet's survivability and control in chaotic fights.",
+    "search_text": "Death Prophet Aghanim Shard Spirit Siphon fear anti-dive crowd control positioning disruption survivability",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Death Prophet",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Phantom Assassin Aghanim's Scepter: Fan of Knives — This upgrade counters high-health, tanky heroes by dealing percentage-based damage and applying Break, effectively neutralizing passive defensive abilities like Armor or Regeneration.",
+    "search_text": "Phantom Assassin Aghanim Scepter Fan of Knives anti-tank Break percentage damage high-health heroes",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Phantom Assassin",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Phantom Assassin Aghanim's Shard: Advances ability cooldowns on hero kills, enabling her to snowball more effectively in team fights. This counters prolonged engagements by allowing quicker access to critical abilities like Blur and Phantom Strike.",
+    "search_text": "Phantom Assassin Aghanim Shard cooldown reduction snowball team fight quicker abilities Blur Phantom Strike",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Phantom Assassin",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Pugna Aghanim's Scepter: Life Drain reduces enemy spell damage and amplifies Pugna's spell damage, countering spell-heavy lineups and enhancing his role as a spell damage dealer and suppressor.",
+    "search_text": "Pugna Aghanim Scepter spell damage reduction amplification anti-magic role change spell suppressor",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Pugna",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Pugna Aghanim's Shard: Life Drain can target Nether Ward, refracting its effect to nearby enemies, countering grouped-up teams and enhancing Pugna's area control and teamfight impact.",
+    "search_text": "Pugna Aghanim Shard Nether Ward Life Drain area control teamfight refract",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Pugna",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Templar Assassin Aghanim's Scepter: Psionic Projection — Provides global mobility and burst damage potential, countering split-push strategies and enabling surprise initiations. The channeled teleport to traps allows TA to bypass vision control and instantly detonate traps for 400 bonus damage, creating sudden pickoff opportunities.",
+    "search_text": "Templar Assassin Aghanim Scepter global mobility split-push counter vision bypass burst damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Templar Assassin",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Templar Assassin Aghanim's Shard: Psionic Trap Upgrade — Enhances area denial and vision control while adding a silence effect to trap detonations. This counters channeled abilities and escape mechanisms, forcing enemies to reposition or lose access to crucial spells during engagements.",
+    "search_text": "Templar Assassin Aghanim Shard silence anti-channel vision control area denial",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Templar Assassin",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Viper Aghanim's Scepter: Nosedive — Counters clustered enemy formations by applying Corrosive Skin to all enemies in an AoE, transforming Viper into a disruptive teamfight presence that punishes grouped enemies with area denial and damage amplification.",
+    "search_text": "Viper Aghanim Scepter Nosedive AoE teamfight Corrosive Skin area denial counter-clustering",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Viper",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Viper Aghanim's Shard: Poison Attack — Counters high-armor targets and structures by reducing armor per stack, shifting Viper into a potent siege hero capable of weakening buildings and tanky frontliners over sustained engagements.",
+    "search_text": "Viper Aghanim Shard Poison Attack armor reduction siege building damage anti-tank",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Viper",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Luna Aghanim's Scepter: Allows Eclipse to be cast on an allied unit or area, doubling beam speed and removing beam limits. This upgrade drastically improves anti-split-push and teamfight potential, enabling Luna to dominate key areas or protect allies during critical engagements.",
+    "search_text": "Luna Aghanim Scepter Eclipse anti-split-push teamfight area control beam speed",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Luna",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Luna Aghanim's Shard: Increases Glaives' collision damage and rotation speed. This upgrade enhances Luna's anti-physical damage and farming efficiency, allowing her to clear waves and jungle camps faster while maintaining strong dueling potential against tanky heroes.",
+    "search_text": "Luna Aghanim Shard Glaives anti-physical damage farming efficiency dueling potential",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Luna",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Dragon Knight Aghanim's Scepter: Adds Level 4 Black Dragon Form, providing free pathing, increased damage, and enhanced Wyrm's Wrath attacks. This upgrade counters terrain-dependent strategies by enabling unrestricted movement and siege potential, transforming Dragon Knight into a high-ground siege and teamfight dominator.",
+    "search_text": "Dragon Knight Aghanim Scepter free pathing siege terrain counter high-ground teamfight dominator",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Dragon Knight",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Dragon Knight Aghanim's Shard: Grants Fireball, an area damage-over-time ability. This upgrade counters clustered positioning and provides lane control, enhancing Dragon Knight's role as a sustained damage dealer and map control specialist.",
+    "search_text": "Dragon Knight Aghanim Shard Fireball area damage lane control sustained damage positioning counter",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Dragon Knight",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Dazzle Aghanim's Scepter: Shadow Wave can now target and bounce between enemies, dealing damage and healing allies. This upgrade counters AoE control by enabling Dazzle to damage enemies while simultaneously healing allies, turning him into a versatile damage and support hybrid in teamfights.",
+    "search_text": "Dazzle Aghanim Scepter Shadow Wave counter-AoE control damage heal teamfight hybrid",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Dazzle",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Dazzle Aghanim's Shard: Nothl Projection can be cast while disabled, increasing healing in the Nothl Realm. This upgrade counters disables, allowing Dazzle to maintain crucial healing and utility even when targeted by silence or stuns, reinforcing his role as a reliable team sustain hero.",
+    "search_text": "Dazzle Aghanim Shard Nothl Projection counter-disable silence stun reliable sustain healing",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Dazzle",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Clockwerk Aghanim's Scepter: Overclocking — Supercharges all of Clockwerk's abilities, enhancing Battery Assault's AoE control, Power Cogs' attack speed, Rocket Flare's cooldown and multi-shot capability, and Hookshot's stun radius and duration. This upgrade transforms Clockwerk into a relentless teamfight disruptor, countering clustered enemy formations with overwhelming area denial and lockdown potential.",
+    "search_text": "Clockwerk Aghanim Scepter Overclocking AoE control teamfight disruptor area denial lockdown",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Clockwerk",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Clockwerk Aghanim's Shard: Jetpack — Grants flying movement, flying vision, and bonus movement speed at the cost of attack capability and turn rate. This upgrade enables Clockwerk to scout and reposition with unparalleled mobility, countering terrain-based defenses and providing critical vision control for high-ground pushes or Roshan contests.",
+    "search_text": "Clockwerk Aghanim Shard Jetpack flying vision mobility scouting high-ground Roshan",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Clockwerk",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Leshrac Aghanim's Scepter: Nihilism — Turns Leshrac and nearby enemies ethereal, preventing attacks and amplifying magic damage while increasing Leshrac's speed. This upgrade counters physical damage dealers by making them unable to attack and vulnerable to magic burst, transforming Leshrac into an anti-carry zone controller in team fights.",
+    "search_text": "Leshrac Aghanim Scepter Nihilism anti-physical damage ethereal magic amplification speed boost team fight control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Leshrac",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Leshrac Aghanim's Shard: Split Earth — Causes the ability to repeat twice with increasing radius, creating delayed zoning and area denial. This upgrade counters stationary or slow-moving enemies by forcing repositioning and punishing predictable pathing, enhancing Leshrac's role as an area-control mage.",
+    "search_text": "Leshrac Aghanim Shard Split Earth zoning area denial delayed damage anti-positioning",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Leshrac",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Nature's Prophet Aghanim's Scepter: Wrath of Nature entangles all enemies it hits, scaling from 1.5s to 3.0s at max bounce. This upgrade counters mobility and escape mechanics, providing strong AoE control and disrupting enemy repositioning.",
+    "search_text": "Nature's Prophet Aghanim Scepter counter-mobility anti-escape AoE control entanglement",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Nature's Prophet",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Nature's Prophet Aghanim's Shard: Curse of the Oldgrowth applies a curse on all enemy heroes within 900 range, revealing them in fog, slowing them, and dealing damage over time based on nearby trees. This counters fog-of-war reliance and jungle mobility, forcing enemies out of tree-heavy areas.",
+    "search_text": "Nature's Prophet Aghanim Shard anti-fog-of-war jungle mobility tree-reliant curse slow reveal",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Nature's Prophet",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lifestealer Aghanim's Scepter: Infest can now target enemy heroes for a short duration, attacking from inside while increasing regeneration. This upgrade counters high-mobility and tanky heroes by allowing Lifestealer to bypass frontline defenses and sustain himself while dealing damage from within an enemy.",
+    "search_text": "Lifestealer Aghanim Scepter Infest enemy heroes counter-mobility sustain inside-attack regeneration",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lifestealer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lifestealer Aghanim's Shard: Infest explosion applies a 50% duration Open Wounds, enabling stronger crowd control after exiting. This upgrade counters enemy escape attempts and teamfight disengagement by ensuring a follow-up slow on multiple targets.",
+    "search_text": "Lifestealer Aghanim Shard Infest explosion Open Wounds slow anti-escape crowd control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lifestealer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Dark Seer Aghanim's Scepter: Normal Punch — This upgrade counters evasion and physical immunity mechanics, providing True Strike and creating a replica that stuns and damages based on Dark Seer's movement. It transforms Dark Seer into a potent single-target initiator, capable of disrupting key enemy heroes.",
+    "search_text": "Dark Seer Aghanim Scepter True Strike anti-evasion physical damage replica stun disable",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Dark Seer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Dark Seer Aghanim's Shard: Surge — Adds a slowing trail to Surged units, countering mobility-heavy lineups and enabling better area control. This upgrade enhances Dark Seer's utility role, making Surge a key tool for zoning and team fight disruption.",
+    "search_text": "Dark Seer Aghanim Shard Surge trail slow anti-mobility area control team fight disruption",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Dark Seer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Clinkz Aghanim's Shard: Burning Barrage allows Clinkz to channel and shoot multiple piercing arrows in a direction, hitting all enemies and applying attack modifiers. This upgrade transforms Clinkz into a potent area denial and wave-clear hero, countering grouped enemy formations and enabling sustained teamfight damage.",
+    "search_text": "Clinkz Aghanim Shard Burning Barrage area denial wave-clear teamfight damage attack modifiers",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Clinkz",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Clinkz Aghanim's Scepter: Increases the health of Skeleton Archers spawned by Skeleton Walk. This upgrade enhances Clinkz's push potential and survivability during sieges, countering wave-clear abilities and providing sustained map pressure.",
+    "search_text": "Clinkz Aghanim Scepter Skeleton Walk Skeleton Archers push survivability siege map pressure",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Clinkz",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Omniknight Aghanim's Scepter: Turns Guardian Angel into a global ability that also affects buildings and amplifies healing. This upgrade counters AoE damage and siege strategies, transforming Omniknight into a reliable teamfight protector and high-ground defender.",
+    "search_text": "Omniknight Aghanim Scepter global healing counter-AoE anti-siege high-ground defender",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Omniknight",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Omniknight Aghanim's Shard: Purification now re-applies after 3 seconds at reduced effectiveness, countering burst damage over time and prolonged engagements by ensuring sustained healing and damage mitigation.",
+    "search_text": "Omniknight Aghanim Shard Purification burst counter sustained healing damage mitigation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Omniknight",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Enchantress Aghanim's Scepter: Little Friends — Counters high-mobility and escape mechanics by rooting an enemy unit. Transforms Enchantress into a teamfight initiator by forcing all nearby creeps to attack the rooted target, creating additional pressure and area denial.",
+    "search_text": "Enchantress Aghanim Scepter counter-mobility escape root teamfight initiation area denial",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Enchantress",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Enchantress Aghanim's Shard: Sproink — Counters projectile-based damage and crowd control by dodging incoming projectiles. Enhances her kiting potential and survivability by leaping backward and launching Impetus attacks, repositioning her safely while maintaining damage output.",
+    "search_text": "Enchantress Aghanim Shard counter-projectile projectile-dodge kiting survivability repositioning",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Enchantress",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Huskar Aghanim's Scepter: Life Break forces the enemy target to attack Huskar and increases cast range. This upgrade counters kiting and evasion mechanics, ensuring Huskar can reliably initiate and force engagements against mobile or ranged enemies while maintaining his berserker playstyle.",
+    "search_text": "Huskar Aghanim Scepter anti-kite forced attack initiation berserker range increase",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Huskar",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Huskar Aghanim's Shard: Inner Fire lowers cooldown, applies a movement speed slow, and heals Huskar based on damage dealt. This upgrade counters high-damage burst and kiting, transforming Huskar into a sustained frontline brawler who thrives in prolonged fights while disrupting enemy positioning.",
+    "search_text": "Huskar Aghanim Shard sustain slow anti-burst frontline brawler healing",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Huskar",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Night Stalker Aghanim's Scepter: Crippling Fear becomes a toggle that drains mana per second after the initial duration. This upgrade counters spell-reliant heroes by maintaining constant silence pressure, forcing enemies to either disengage or fight without abilities.",
+    "search_text": "Night Stalker Aghanim Scepter anti-spell silence toggle mana drain counter-disable",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Night Stalker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Night Stalker Aghanim's Shard: Hunter in the Night can be cast on creeps for instant kill, restoring health and mana. This counters lane pressure and sustain issues, transforming Night Stalker into a self-sufficient jungler who can recover quickly between engagements.",
+    "search_text": "Night Stalker Aghanim Shard sustain creep kill health mana restore jungle recovery",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Night Stalker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Broodmother Aghanim's Scepter: Spinner's Snare creates invisible web lines that root and damage enemy heroes crossing them. This upgrade counters enemy movement and initiation, forcing them to either avoid key paths or suffer severe consequences, while also providing map control and vision.",
+    "search_text": "Broodmother Aghanim Scepter Spinner's Snare root damage map control anti-initiation vision",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Broodmother",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Broodmother Aghanim's Shard: Enhances Insatiable Hunger with increasing bonus damage over time during active duration. This upgrade counters prolonged fights by making Broodmother a persistent threat against tanks and high-health heroes, amplifying her role as a durable damage dealer.",
+    "search_text": "Broodmother Aghanim Shard Insatiable Hunger damage over time tank counter durable damage dealer",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Broodmother",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Bounty Hunter Aghanim's Scepter: Shuriken Toss gains increased cast range and applies Jinada on hit. This upgrade enhances Bounty Hunter's burst damage and catch potential, making it a strong counter to mobile heroes by ensuring guaranteed Jinada procs on distant targets.",
+    "search_text": "Bounty Hunter Aghanim Scepter Shuriken Toss Jinada burst damage catch potential anti-mobility",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Bounty Hunter",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Bounty Hunter Aghanim's Shard: Friendly Shadow applies Shadow Walk to an ally, including its bonuses, with a reduced fade time. This upgrade transforms Bounty Hunter into a support enabler, countering enemy vision and detection by providing allies with temporary invisibility and movement speed.",
+    "search_text": "Bounty Hunter Aghanim Shard Friendly Shadow Shadow Walk ally invisibility anti-vision support enabler",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Bounty Hunter",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Weaver Aghanim's Scepter: Allows Time Lapse to target allied Heroes with 500 cast range. This upgrade counters lethal damage and disables by providing a powerful save mechanic, transforming Weaver into a reliable support for saving key allies in clutch situations.",
+    "search_text": "Weaver Aghs Scepter Time Lapse ally save anti-disable lethal damage counter mechanic support role change",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Weaver",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Weaver Aghanim's Shard: Enhances Shukuchi by marking enemies and triggering a secondary Geminate attack. This upgrade counters evasion and mobility by ensuring additional damage and harassment potential, making Weaver a more aggressive laner and teamfight contributor.",
+    "search_text": "Weaver Aghs Shard Shukuchi mark Geminate attack anti-evasion harassment damage counter mechanic aggressive",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Weaver",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Jakiro Aghanim's Scepter: Enhances Macropyre with extended duration, Pure damage, and ice walls that slow enemies attempting to cross them. This upgrade counters Anti-Mobility mechanics by restricting enemy movement and positioning, making it a potent tool for area denial and high-ground defense.",
+    "search_text": "Jakiro Aghanim Scepter anti-mobility area denial high-ground defense Pure damage Macropyre",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Jakiro",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Jakiro Aghanim's Shard: Allows Liquid Frost to be used independently of Liquid Fire's cooldown. This upgrade counters Anti-Push mechanics by enabling consistent harassment of enemy towers and lane control, enhancing Jakiro's role as a lane dominator and siege enabler.",
+    "search_text": "Jakiro Aghanim Shard anti-push lane control tower harassment Liquid Frost",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Jakiro",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Batrider Aghanim's Scepter: Flaming Lasso now grabs both its target and the nearest allied hero within 650 units. This upgrade counters split-push and teamfight positioning by allowing Batrider to disable two key enemy heroes simultaneously, drastically increasing his initiation impact in clustered engagements.",
+    "search_text": "Batrider Aghanim Scepter anti-split-push teamfight control multi-hero disable initiation upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Batrider",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Batrider Aghanim's Shard: Removes the stack limit on Sticky Napalm and allows it to damage structures. This upgrade counters turtling and high-ground defense by transforming Batrider into a siege threat, forcing enemies to engage or lose buildings to relentless stacking damage.",
+    "search_text": "Batrider Aghanim Shard anti-turtle siege structure damage unlimited stacks Sticky Napalm",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Batrider",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Chen Aghanim's Scepter: Hand of God — Counters heavy magic damage and debuff effects by providing debuff immunity and 60% magic resistance to nearby allies during the channel. This transforms Chen into a teamfight sustain machine, enabling prolonged engagements and high-ground defense.",
+    "search_text": "Chen Aghanim Scepter Hand of God anti-magic debuff immunity magic resistance teamfight sustain",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Chen",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Chen Aghanim's Shard: Holy Persuasion — Counters map control limitations by allowing Chen to dominate Ancient creeps, significantly increasing his pushing and teamfight potential. This upgrade shifts Chen's role into a late-game power unit with access to high-tier neutral abilities.",
+    "search_text": "Chen Aghanim Shard Holy Persuasion Ancient creeps map control teamfight pushing",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Chen",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Spectre Aghanim's Scepter: Enhances Haunt with Fear and slow on first Reality cast. This is a powerful AoE control upgrade, countering enemy teamfight positioning by scattering clustered enemies and disrupting their formation, while also reducing cooldown for more frequent global presence.",
+    "search_text": "Spectre Aghanim Scepter Haunt Fear AoE control teamfight disruption global presence",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Spectre",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Spectre Aghanim's Shard: Allows Dispersion to be activated for increased damage absorption and reflection. This counters burst damage and physical-heavy lineups by significantly improving Spectre's survivability and threat during engagements, making her harder to focus down.",
+    "search_text": "Spectre Aghanim Shard Dispersion burst damage counter physical survivability damage reflection",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Spectre",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ancient Apparition Aghanim's Scepter: Removes cooldown and reduces manacost of Chilling Touch by 40%. This upgrade transforms Ancient Apparition into a sustained magical damage powerhouse, countering high-health regeneration and tanky lineups by enabling constant magical damage pressure in fights.",
+    "search_text": "Ancient Apparition Aghanim Scepter Chilling Touch no cooldown manacost reduction anti-regen sustained damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ancient Apparition",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ancient Apparition Aghanim's Shard: Freezes enemies hit with Ice Blast for 50% of Cold Feet's duration. This upgrade counters mobile heroes by adding a strong soft-disable effect to Ice Blast, forcing enemies to reposition or risk being frozen mid-fight.",
+    "search_text": "Ancient Apparition Aghanim Shard Ice Blast Cold Feet freeze anti-mobility soft-disable",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ancient Apparition",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Razor Aghanim's Scepter: Eye of the Storm now strikes two units and damages structures. This upgrade counters high-ground defense and siege scenarios, transforming Razor into a potent structure destroyer while maintaining teamfight pressure with double strikes.",
+    "search_text": "Razor Aghanim Scepter high-ground siege structure damage double strike teamfight pressure",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Razor",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Razor Aghanim's Shard: Increases Static Link cast range and slows the target based on damage stolen. This upgrade counters kiting and mobility, allowing Razor to maintain his link more effectively and punish enemies trying to escape his damage-draining tether.",
+    "search_text": "Razor Aghanim Shard anti-kite mobility slow damage steal Static Link range",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Razor",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Doom Aghanim's Scepter: Doom now affects all allies in a 350 radius around the target or Doom himself when self-cast. This upgrade enhances Doom's teamfight control and anti-support capabilities by silencing and disabling multiple enemies simultaneously, countering grouped-up strategies and protecting key allies.",
+    "search_text": "Doom Aghanim Scepter anti-support silence disable teamfight control group-up strategy",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Doom",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Doom Aghanim's Shard: Scorched Earth now heals Doom and his controlled units for 60% of the damage dealt. This upgrade significantly improves Doom's sustain and anti-push potential, allowing him to maintain pressure and survive prolonged engagements.",
+    "search_text": "Doom Aghanim Shard sustain heal anti-push prolonged engagement survival",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Doom",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Spirit Breaker Aghanim's Scepter: Planar Pocket redirects all unit-targeted spells cast by enemy heroes towards Spirit Breaker. This is a powerful anti-targeted-spell mechanic, forcing enemies to choose between wasting their spells on Spirit Breaker or avoiding casting entirely, disrupting their ability to focus key targets.",
+    "search_text": "Spirit Breaker Aghanim Scepter anti-targeted-spell redirect spell disruption role change",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Spirit Breaker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Spirit Breaker Aghanim's Shard: Increases Charge of Darkness bonus speed, turning Spirit Breaker into a faster and more efficient initiator. This upgrade enhances his ability to rapidly close gaps on enemies, making it harder for them to escape or prepare for his engagement.",
+    "search_text": "Spirit Breaker Aghanim Shard faster initiation charge speed gap closer",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Spirit Breaker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ursa Aghanim's Scepter: Allows Enrage to be used while disabled. This is a crucial anti-control upgrade, making Ursa immune to anti-initiation disables like Silence or Hex, guaranteeing maximum damage uptime.",
+    "search_text": "Ursa Aghanim Scepter anti-disable anti-control silence hex usable while disabled",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ursa",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ursa Aghanim's Shard: Earthshock applies 3 Fury Swipes to enemies hit. This upgrade counters AoE damage mitigation and enhances Ursa's crowd control, making him a stronger teamfight presence by rapidly stacking damage on multiple targets.",
+    "search_text": "Ursa Aghanim Shard Earthshock Fury Swipes AoE damage crowd control teamfight anti-mitigation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ursa",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Gyrocopter Aghanim's Scepter: Adds a Side Gunner that attacks random enemy units near Gyrocopter. This upgrade counters split-push and kiting mechanics by providing sustained damage against scattered or evasive targets, especially during Flak Cannon activation, enhancing Gyrocopter's teamfight presence.",
+    "search_text": "Gyrocopter Aghanim Scepter side gunner anti-split-push anti-kiting sustained damage Flak Cannon",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Gyrocopter",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Gyrocopter Aghanim's Shard: Grants Homing Missile constant Rocket Barrage AoE damage in a 700 radius, prioritizing the missile target. This upgrade counters clumping mechanics by punishing grouped enemies and provides Gyrocopter with additional AoE burst damage potential.",
+    "search_text": "Gyrocopter Aghanim Shard Homing Missile Rocket Barrage AoE burst anti-clumping",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Gyrocopter",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Invoker Aghanim's Scepter: Grants 1 current and max level to Exort. This upgrade significantly enhances spell damage output, enabling Invoker to counter tanky heroes and push high-ground defenses more effectively.",
+    "search_text": "Invoker Aghanim Scepter Exort level increase spell damage counter-tanky high-ground defense",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Invoker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Alchemist Aghanim's Scepter: Grants an allied hero all Aghanim's Scepter upgrades. This is a game-changing support/utility upgrade, allowing Alchemist to accelerate a teammate's power spike and counter late-game scaling issues by instantly unlocking their full Scepter potential.",
+    "search_text": "Alchemist Aghanim Scepter support utility power spike late-game scaling ally upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Alchemist",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Alchemist Aghanim's Shard: Provides an ally with a basic dispel, attack speed, movement speed, and HP regen. This is a versatile anti-disable and sustain tool, countering slows, silences, and roots while enhancing an ally's survivability and DPS in fights.",
+    "search_text": "Alchemist Aghanim Shard dispel anti-disable sustain attack speed movement speed HP regen",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Alchemist",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Silencer Aghanim's Scepter: Global Silence applies Arcane Curse to heroes for the duration of Global Silence. This upgrade counters spell-spamming heroes by punishing frequent ability usage, forcing enemies to either disengage or suffer prolonged damage and silence.",
+    "search_text": "Silencer Aghanim Scepter anti-spell-spam counter-caster Arcane Curse synergy",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Silencer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Silencer Aghanim's Shard: Increases the Intelligence stolen per kill. This upgrade enhances Silencer's snowball potential by accelerating his Intelligence theft, making him a stronger late-game threat against mana-dependent heroes and amplifying his right-click damage.",
+    "search_text": "Silencer Aghanim Shard Intelligence steal snowball anti-mage late-game scaling",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Silencer",
+      "COUNTER_MECHANIC",
+      "SHARD"
+    ]
+  },
+  {
+    "display_text": "Lycan Aghanim's Scepter: Wolf Bite — Grants Shapeshift properties to an ally, creating a symbiotic lifesteal bond. This upgrade counters burst damage and sustain wars by providing shared 40% Lifesteal, turning Lycan into a force multiplier for his team's frontline.",
+    "search_text": "Lycan Aghanim Scepter Wolf Bite lifesteal sustain anti-burst force multiplier",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lycan",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lycan Aghanim's Shard: Summon Wolves — Enhances creep waves with uncontrollable wolves that pressure lanes and cripple towers. This upgrade counters passive defense strategies by applying constant structural pressure, transforming Lycan into an unstoppable split-pusher.",
+    "search_text": "Lycan Aghanim Shard Summon Wolves split-push tower pressure lane sustain",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lycan",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Outworld Destroyer Aghanim's Scepter: Provides a strong dispel and damage barrier when health drops below 20%. This upgrade counters burst damage and control effects, ensuring Outworld Destroyer survives critical health moments and maintains teamfight presence.",
+    "search_text": "Outworld Destroyer Aghanim Scepter counter-burst anti-control strong dispel damage barrier survival upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Outworld Destroyer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Outworld Destroyer Aghanim's Shard: Astral Imprisonment deals damage in an area and allows allies to move at 70% speed while imprisoned. This upgrade counters area denial and enhances team mobility during fights, enabling safer positioning and escapes.",
+    "search_text": "Outworld Destroyer Aghanim Shard counter-area control mobility team utility Astral Imprisonment upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Outworld Destroyer",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Brewmaster Aghanim's Scepter: Primal Split gains an additional level and can be cancelled early. This upgrade enhances the Brewlings' abilities and provides flexibility in controlling the battlefield, countering prolonged engagements by allowing strategic repositioning or early re-integration.",
+    "search_text": "Brewmaster Aghanim Scepter Primal Split Brewlings control repositioning early cancellation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Brewmaster",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Brewmaster Aghanim's Shard: Provides a strong drink that activates Liquid Courage's maximum power for teammates or self, granting high HP regeneration. This upgrade counters burst damage and sustained damage during teamfights, enabling Brewmaster to act as a sustain support or tank in critical moments.",
+    "search_text": "Brewmaster Aghanim Shard Liquid Courage HP regeneration burst damage sustain support",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Brewmaster",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lone Druid Aghanim's Scepter: Entangle applies stacks to enemy heroes in the area and has increased radius. This upgrade counters enemy positioning and mobility by making Entangle more reliable against grouped enemies, while removing their protection from gaining stacks. It transforms Lone Druid into a stronger teamfight presence with persistent area control.",
+    "search_text": "Lone Druid Aghanim Scepter Entangle anti-positioning mobility teamfight area control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lone Druid",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Lone Druid Aghanim's Shard: Savage Roar applies a basic dispel and grants allies bonus movement and attack speed in an area. This upgrade counters enemy disables and slows, enabling Lone Druid to function as a support-style enabler for allies during engagements. The dispel and buffs make it valuable for counter-initiation or sustaining fights.",
+    "search_text": "Lone Druid Aghanim Shard Savage Roar anti-disable dispel buff support counter-initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Lone Druid",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Shadow Demon Aghanim's Scepter: Causes Demonic Purge to break and gain 2 charges. This upgrade counters sustained fights and mobility heroes by allowing multiple applications of Demonic Purge, significantly increasing area control and disruption potential.",
+    "search_text": "Shadow Demon Aghanim Scepter counter-mobility area control disruption Demonic Purge charges ultimate upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Shadow Demon",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Shadow Demon Aghanim's Shard: Grants Demonic Cleanse, a basic dispel that removes negative buffs and heals an ally at the end of its duration. This upgrade counters debuffs and disables, transforming Shadow Demon into a powerful support with anti-debuff capabilities.",
+    "search_text": "Shadow Demon Aghanim Shard counter-debuff anti-disable Demonic Cleanse heal basic dispel",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Shadow Demon",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Chaos Knight Aghanim's Scepter: Creates an illusion of allied heroes globally and an additional illusion for Chaos Knight. This significantly enhances Chaos Knight's split-push and teamfight presence by overwhelming enemies with illusions, countering their ability to focus fire effectively.",
+    "search_text": "Chaos Knight Aghanim Scepter split-push teamfight anti-focus fire illusion clone global",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Chaos Knight",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Chaos Knight Aghanim's Shard: Chaos Bolt creates a Phantasm illusion to attack the target, dealing reduced damage. This adds consistent extra damage in skirmishes and counters enemy squishy targets by forcing them to deal with additional threats.",
+    "search_text": "Chaos Knight Aghanim Shard skirmish anti-squishy Phantasm illusion reduced damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Chaos Knight",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Treant Protector Aghanim's Scepter: Enhances Overgrowth with a powerful buff that counters Anti-Initiator setups and mechanics. This transforms Treant Protector into a tanky, high-impact initiator, ensuring map control and sustained teamfight presence by phasing through enemies and dealing splash damage.",
+    "search_text": "Treant Protector Aghanim Scepter anti-initiator map control teamfight splash damage phased movement tanky initiator",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Treant Protector",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Treant Protector Aghanim's Shard: Grants Eyes In The Forest, countering Ward Control and Vision Denial mechanics. This enables Treant Protector to dominate map vision, ensuring safe objective control and providing critical information for team movements.",
+    "search_text": "Treant Protector Aghanim Shard ward control vision denial map vision safe objectives unobstructed vision Eyes In The Forest",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Treant Protector",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Meepo Aghanim's Scepter: MegaMeepo Fling — Counters mobility and facilitates pick-offs by flinging a Meepo towards a target, dealing damage and slowing them. Enhances Meepo's role as a relentless hunter and initiator in chaotic teamfights.",
+    "search_text": "Meepo Aghanim Scepter counter-mobility initiation pick-off MegaMeepo Fling",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Meepo",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Meepo Aghanim's Shard: Dig — Counters burst damage and disables by making Meepo untargetable and invulnerable for 3 seconds while restoring health. Provides a survival mechanism against high-damage spikes and crowd control, ensuring Meepo's sustainability in prolonged engagements.",
+    "search_text": "Meepo Aghanim Shard anti-burst disable avoidance sustain Dig invulnerability",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Meepo",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ogre Magi Aghanim's Scepter: Adds Unrefined Fireblast, a high-damage single-target stun scaling with Ogre's Strength. This upgrade counters durable heroes by ensuring a reliable and mana-efficient disable, transforming Ogre into a potent initiation and pickoff threat.",
+    "search_text": "Ogre Magi Aghanim Scepter anti-durable single-target disable str scaling mana-efficient initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ogre Magi",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ogre Magi Aghanim's Shard: Adds Fire Shield, a damage-absorption shield for allies that retaliates with fireballs. This counters physical burst damage, enabling Ogre to protect key allies or towers during sieges, shifting his role towards a supportive guardian.",
+    "search_text": "Ogre Magi Aghanim Shard anti-physical damage absorption shield retaliate fireballs tower protection support guardian",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ogre Magi",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Rubick Aghanim's Scepter: Spell Steal — Counters enemy reliance on powerful spells by stealing two abilities and upgrading them to Scepter versions. This transforms Rubick into a hyper-versatile threat, capable of adapting to any teamfight scenario with enhanced spellcasting range and upgraded stolen abilities.",
+    "search_text": "Rubick Aghanim Scepter Spell Steal counter-spellcasting anti-utility versatility spell upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Rubick",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Rubick Aghanim's Shard: Telekinesis — Counters enemy positioning and initiation by allowing Rubick to reposition allies or himself with increased throw range and reduced delay. This enables safer initiation, escape, or disruption of enemy engagements, shifting Rubick into a flexible support role.",
+    "search_text": "Rubick Aghanim Shard Telekinesis counter-positioning anti-initiation ally reposition escape utility",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Rubick",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Undying Aghanim's Scepter: Increases strength steal from Decay. This upgrade amplifies Undying's role as a tanky disabler, countering strength-dependent heroes by reducing their durability and boosting his own survivability in prolonged fights.",
+    "search_text": "Undying Aghanim Scepter strength steal tanky disabler counter-strength heroes",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Undying",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Undying Aghanim's Shard: Allows Tombstone to be cast on an allied hero, providing a bunkering mechanic. This counters burst damage and dive-heavy lineups by offering temporary invulnerability and forcing enemies to deal with the Tombstone's zone control before finishing kills.",
+    "search_text": "Undying Aghanim Shard Tombstone bunker anti-burst anti-dive zone control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Undying",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Disruptor Aghanim's Scepter: Static Storm now mutes items. This is a powerful anti-item counter, crippling enemies reliant on active item effects like BKB, Eul's Scepter, or Glimmer Cape, ensuring they remain vulnerable during team fights.",
+    "search_text": "Disruptor Aghanim Scepter anti-item counter item disable BKB Eul's Glimmer Cape team fight mute",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Disruptor",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Disruptor Aghanim's Shard: Thunder Strike gains increased cast range, strike count, and ground-targeted functionality. This enhances Disruptor's role as a zoning and initiation hero, allowing him to set up ambushes in key chokepoints or deny enemy movement safely.",
+    "search_text": "Disruptor Aghanim Shard Thunder Strike zoning initiation ambush ground-targeted chokepoint",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Disruptor",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Naga Siren Aghanim's Scepter: Enhances Ensnare to target and affect Debuff Immune units and applies Break. This upgrade counters Debuff Immunity mechanics like Black King Bar, allowing Naga Siren to disable key enemy heroes during crucial moments and neutralize passives.",
+    "search_text": "Naga Siren Aghanim Scepter Ensnare Break Debuff Immune Black King Bar counter-disable",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Naga Siren",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Naga Siren Aghanim's Shard: Improves Song of the Siren with increased regeneration and added mana regeneration for allies. This upgrade transforms Naga Siren into a team sustain powerhouse, enabling prolonged engagements and recovery during or after teamfights.",
+    "search_text": "Naga Siren Aghanim Shard Song of the Siren regeneration mana sustain teamfight",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Naga Siren",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Nyx Assassin Aghanim's Scepter: Burrow — Provides high damage reduction and strong AoE control with instant Spiked Carapace stuns. This transforms Nyx Assassin into a stationary defensive powerhouse, countering heavy AoE damage and enabling safer high-ground defense or objective control.",
+    "search_text": "Nyx Assassin Aghanim Scepter Burrow anti-AoE damage reduction stationary defensive high-ground control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Nyx Assassin",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Nyx Assassin Aghanim's Shard: Vendetta — Applies Break on attack, directly countering passives like Evasion or Dispersion. This enhances Nyx Assassin's assassination potential, allowing him to shut down key enemy heroes reliant on passive abilities.",
+    "search_text": "Nyx Assassin Aghanim Shard Vendetta Break counter-passives anti-evasion assassination",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Nyx Assassin",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Keeper of the Light Aghanim's Scepter: Will-O-Wisp summons a mesmerising ward that draws enemies closer. This upgrade counters enemy positioning and movement, forcing foes into unfavorable engagements or disrupting their retreat.",
+    "search_text": "Keeper of the Light Aghanim Scepter counter-positioning disrupt movement control force engagement",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Keeper of the Light",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Keeper of the Light Aghanim's Shard: Enhances Illuminate's healing capability. This upgrade shifts his role into a more reliable support, countering sustained damage by providing amplified survivability for allies during prolonged engagements.",
+    "search_text": "Keeper of the Light Aghanim Shard counter-sustain damage support role Illuminate heal",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Keeper of the Light",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Visage Aghanim's Scepter: Silent as the Grave — Provides invisibility and flying movement to Visage and familiars, countering vision-based detection and terrain obstacles. Upon breaking invisibility, the damage burst allows for surprise engagements or disengagements, shifting Visage into a high-mobility ambush predator.",
+    "search_text": "Visage Aghanim Scepter invisibility flying movement surprise burst anti-vision terrain ambush",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Visage",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Visage Aghanim's Shard: Gravekeeper's Cloak — Grants a strong self-sustain ability, countering burst damage and poke-heavy lineups. This transforms Visage into a more durable frontliner or split-pusher, reducing reliance on external healing sources.",
+    "search_text": "Visage Aghanim Shard sustain anti-burst durability self-heal split-push",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Visage",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Io Aghanim's Scepter: Spirits now passively spawn around Io constantly. This upgrade counters anti-push and anti-teamfight mechanics by providing continuous area denial and slow effects, enhancing Io's role as a persistent teamfight nuisance.",
+    "search_text": "Io Aghanim Scepter anti-push anti-teamfight area denial slow persistent teamfight",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Io",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Io Aghanim's Shard: Tether now damages enemies touching it while healing Io for 50% of the damage dealt. This upgrade counters anti-heal and anti-sustain mechanics, transforming Io into a more durable and aggressive support during engagements.",
+    "search_text": "Io Aghanim Shard anti-heal anti-sustain durable aggressive support healing damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Io",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Slark Aghanim's Scepter: Pounce gains charges and increased range. This upgrade enhances Slark's mobility and chase potential, allowing him to repeatedly engage or disengage from fights, countering kiting and positioning-based defenses.",
+    "search_text": "Slark Aghanim Scepter Pounce charges range mobility chase engage disengage kiting positioning",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Slark",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Slark Aghanim's Shard: Depth Shroud creates a cloud that hides allies and grants them Shadow Dance effects. This upgrade counters vision-based strategies and AoE damage, enabling team-wide stealth and survivability in fights.",
+    "search_text": "Slark Aghanim Shard Depth Shroud cloud hide allies Shadow Dance vision AoE damage stealth survivability",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Slark",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Troll Warlord Aghanim's Scepter: Whirling Axes (Melee) dispels Troll Warlord, reducing cooldown and mana cost. This upgrade counters debuffs with a Basic Dispel, allowing Troll to maintain combat effectiveness against slows, stuns, and other control effects.",
+    "search_text": "Troll Warlord Aghanim Scepter anti-disable dispel basic buff removal mana cost reduction",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Troll Warlord",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Troll Warlord Aghanim's Shard: Grants Troll a chance to fire additional ranged attacks based on Fervor stacks. This transforms Troll into a more versatile damage dealer, countering kiting and high-mobility heroes by ensuring consistent ranged damage application.",
+    "search_text": "Troll Warlord Aghanim Shard ranged attack fervor stacks anti-kite mobility counter",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Troll Warlord",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Medusa Aghanim's Scepter: Split Shot now applies on-hit effects to secondary attacks and increases arrow count. This upgrade transforms Medusa into a hyper-efficient multi-target damage dealer, countering high-armor or evasion-heavy lineups by spreading item-based effects like Maelstrom procs or Skadi slows across multiple enemies.",
+    "search_text": "Medusa Aghanim Scepter Split Shot on-hit effects multi-target damage counter-armor counter-evasion item procs",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Medusa",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Medusa Aghanim's Shard: Cold Blooded automatically retaliates against spellcasters with a single-target Mystic Snake that petrifies them. This is a powerful anti-caster mechanic, punishing aggressive spell usage and disrupting enemy combos by turning initiators into stone mid-engagement.",
+    "search_text": "Medusa Aghanim Shard Cold Blooded anti-caster spell retaliation petrify counter-initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Medusa",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Centaur Aghanim's Scepter: Work Horse — Grants Stampede benefits passively and allows casting Hitch a Ride on an ally. This upgrade transforms Centaur into a mobile repositioning tool, countering enemy focus-fire by enabling rapid ally relocation during fights.",
+    "search_text": "Centaur Aghanim Scepter Hitch a Ride ally repositioning anti-focus Stampede",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Centaur",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Centaur Aghanim's Shard: Double Edge — Slows enemy heroes and grants temporary Strength per hero hit. This upgrade counters kiting and physical damage dealers by enhancing Centaur's tankiness and crowd control in prolonged engagements.",
+    "search_text": "Centaur Aghanim Shard Double Edge slow Strength anti-kiting physical damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Centaur",
+      "COUNTER_MECHANIC",
+      "SHARD"
+    ]
+  },
+  {
+    "display_text": "Magnus Aghanim's Scepter: Horn Toss — This upgrade counters positioning-heavy strategies by forcibly relocating enemies to the rear, creating chaos in team fights and enabling follow-up stuns and damage. It transforms Magnus into a disruptor who can split enemy formations.",
+    "search_text": "Magnus Aghanim Scepter Horn Toss anti-positioning disruptor team fight reposition",
+    "tags": [
+      "AGHS_STRATEGY",
+      "npc_dota_hero_magnataur",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Magnus Aghanim's Shard: Enhances Skewer — Counters map mobility and farming efficiency by punishing enemies for positioning near trees or cliffs. This upgrade turns Magnus into a formidable chaser and area controller, restricting enemy movement.",
+    "search_text": "Magnus Aghanim Shard Skewer anti-mobility chaser tree cliff damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "npc_dota_hero_magnataur",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Shredder Aghanim's Scepter: Activates Reactive Armor for max stacks and a damage barrier, scaling with nearby enemy heroes. This upgrade counters sustained damage and burst damage, allowing Shredder to frontline effectively by mitigating incoming damage and punishing enemies who group up. It transforms Shredder into a tanky initiator who thrives in chaotic teamfights.",
+    "search_text": "Shredder Aghanim Scepter Reactive Armor anti-damage tanky initiator sustain burst mitigation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Shredder",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Shredder Aghanim's Shard: Adds Flamethrower, dealing damage over time and slowing enemies, even affecting buildings. This upgrade counters high-mobility heroes and enhances Shredder's siege potential, allowing him to pressure towers and control choke points effectively. It shifts Shredder's role towards a sustained damage dealer and pusher.",
+    "search_text": "Shredder Aghanim Shard Flamethrower anti-mobility siege push sustained damage slow",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Shredder",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Tusk Aghanim's Scepter: Adds Walrus Kick, which counters mobility and clumping by kicking an enemy unit, stunning and slowing them while damaging nearby heroes. This upgrade turns Tusk into a disruption tool, ideal for breaking enemy formations and isolating key targets.",
+    "search_text": "Tusk Aghanim Scepter Walrus Kick anti-mobility clumping isolation disruption",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Tusk",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Tusk Aghanim's Shard: Enhances Ice Shards to trap enemies more effectively with a slow and damage-over-time effect. This counters melee heroes and escape attempts, solidifying Tusk's role as a zoning and area control specialist.",
+    "search_text": "Tusk Aghanim Shard Ice Shards anti-melee zoning area control escape counter",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Tusk",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Bristleback Aghanim's Scepter: Adds active ability to forcefully eject Quill Sprays in a tight conical pattern. This upgrade counters enemy clustering by threatening massive area denial and damage, forcing opponents to scatter or face burst quill damage.",
+    "search_text": "Bristleback Aghanim Scepter area denial burst damage quill spray clustering counter-control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Bristleback",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Bristleback Aghanim's Shard: Adds Hairball ability to cough a quill-packed hairball that spreads Viscous Nasal Goo and Quill Spray. This upgrade enhances Bristleback's utility as a debuffer and enables him to initiate fights from a safe distance by applying stacks efficiently.",
+    "search_text": "Bristleback Aghanim Shard debuffer safe initiation Viscous Nasal Goo Quill Spray Hairball",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Bristleback",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Skywrath Mage Aghanim's Scepter: Creates an additional Mystic Flare on a random nearby enemy within 500 range of the original target. This upgrade counters AoE healing or damage mitigation by applying double burst damage in a clustered fight, forcing enemies to spread out or suffer massive magical damage.",
+    "search_text": "Skywrath Mage Aghanim Scepter AOE burst damage counter-mitigation spread-out strategic damage upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Skywrath Mage",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Skywrath Mage Aghanim's Shard: Fires two additional Arcane Bolts at random enemies near the original target, prioritizing heroes. This upgrade counters hero-focused sustain or evasion mechanics by ensuring consistent magical damage output even against elusive or healing-heavy targets.",
+    "search_text": "Skywrath Mage Aghanim Shard counter-heal counter-evasion hero-focused magical damage upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Skywrath Mage",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Abaddon Aghanim's Scepter: Increases Borrowed Time duration and automatically casts Mist Coil on allies taking more than 550 damage within range. This is a potent anti-burst mechanic, enabling Abaddon to sustain allies during critical moments and counter high-damage spikes effectively.",
+    "search_text": "Abaddon Aghanim Scepter anti-burst sustain automatic Mist Coil Borrowed Time duration",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Abaddon",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Abaddon Aghanim's Shard: 75% of absorbed damage from Aphotic Shield is dealt to nearby enemies. This transforms Abaddon into a counter-push specialist, punishing enemies for focusing shielded units and enhancing his teamfight presence.",
+    "search_text": "Abaddon Aghanim Shard counter-push Aphotic Shield damage reflection teamfight",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Abaddon",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Elder Titan Aghanim's Scepter: Causes Elder Titan to become debuff immune and gain magic resistance when the spirit returns. This is a strong anti-burst and anti-control upgrade, allowing Elder Titan to survive magic-heavy initiation attempts and continue teamfighting effectively.",
+    "search_text": "Elder Titan Aghanim Scepter anti-control anti-magic debuff immune magic resistance spirit return",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Elder Titan",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Elder Titan Aghanim's Shard: Lowers Echo Stomp cooldown and allows Elder Titan to swap places with the Astral Spirit during its stomp. This transforms Elder Titan into a versatile initiator, enabling unexpected positioning for stuns and disrupting enemy formations.",
+    "search_text": "Elder Titan Aghanim Shard initiate positioning swap Astral Spirit Echo Stomp cooldown",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Elder Titan",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Legion Commander Aghanim's Scepter: Increases Duel duration and grants debuff immunity during Duel. This is a critical anti-disable upgrade, ensuring Legion Commander remains unstoppable during Duels, preventing counter-initiation with silences, slows, or other debuffs.",
+    "search_text": "Legion Commander Aghanim Scepter anti-disable debuff immunity Duel counter-initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Legion Commander",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Legion Commander Aghanim's Shard: Permanently increases Duel damage by 5 per win, retroactively applied. This upgrade emphasizes Legion Commander's role as a snowballing threat, accelerating her ability to dominate late-game Duels and punish enemy cores more effectively.",
+    "search_text": "Legion Commander Aghanim Shard Duel damage snowball late-game core punish",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Legion Commander",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Techies Aghanim's Scepter: Upgrades Minefield Sign to create a temporary minefield when enemies approach, dealing damage whenever they move within its area. This is a powerful anti-movement mechanic, forcing enemies to either avoid the area or take significant damage, making it ideal for high-ground defense or choke point control.",
+    "search_text": "Techies Aghanim Scepter anti-movement area denial high-ground defense choke point control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Techies",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Techies Aghanim's Shard: Allows Reactive Tazer to be cast on allies, dealing damage to enemies when detonated or when they attack the ally. This transforms Techies into a supportive anti-physical damage hero, discouraging focus fire and providing area denial for team fights.",
+    "search_text": "Techies Aghanim Shard anti-physical damage supportive focus fire deterrence team fight",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Techies",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ember Spirit Aghanim's Scepter: Increases Fire Remnant cast range, initial speed, and maximum charges. This upgrade enhances mobility and initiation potential, allowing Ember Spirit to traverse the map faster and engage or disengage from fights more effectively. It counters mobility-dependent heroes by enabling rapid repositioning and improved map control.",
+    "search_text": "Ember Spirit Aghanim Scepter mobility initiation disengage reposition map control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ember Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ember Spirit Aghanim's Shard: Replenishes Fire Remnant charge upon enemy hero death nearby. This upgrade synergizes with teamfight dominance, turning Ember Spirit into a relentless chase-and-pursuit hero who can sustain mobility throughout extended engagements. It counters tanky or grouped-up enemies by ensuring continuous high-mobility pressure.",
+    "search_text": "Ember Spirit Aghanim Shard teamfight chase pursuit sustain mobility relentless pressure",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ember Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Earth Spirit Aghanim's Scepter: Enchant Remnant — Counters enemy initiation and burst damage by temporarily turning allies into invulnerable Stone Remnants, disrupting enemy combos and providing a defensive repositioning tool. Enables Earth Spirit to save allies from lethal damage or disable chains.",
+    "search_text": "Earth Spirit Aghanim Scepter anti-burst anti-initiation save ally invulnerability reposition counter-disable",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Earth Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Earth Spirit Aghanim's Shard: Geomagnetic Grip — Enhances crowd control and repositioning by reducing cooldown and increasing pull speed/range, countering enemy positioning and enabling faster ally saves or enemy displacements during fights.",
+    "search_text": "Earth Spirit Aghanim Shard reposition crowd-control ally save displacement faster pull",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Earth Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Abyssal Underlord Aghanim's Scepter: Summons a Pit of Malice around each of the portals and reduces cooldown. This upgrade enhances area denial and counters mobility, forcing enemies to avoid or suffer disables when using portals, making it a strong tool for controlling map movement.",
+    "search_text": "Abyssal Underlord Aghanim Scepter area denial anti-mobility map control portal disable",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Abyssal Underlord",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Abyssal Underlord Aghanim's Shard: Firestorm can be allied targeted, following the hero around with increased wave count and faster tick rate. This upgrade transforms Firestorm into a versatile zoning and sustain tool, countering enemy focus fire and enabling Abyssal Underlord to support allies directly in fights.",
+    "search_text": "Abyssal Underlord Aghanim Shard allied target sustain zoning focus fire support",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Abyssal Underlord",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Phoenix Aghanim's Scepter: Increases the number of attacks required to destroy Supernova and allows Phoenix to cast it on an allied hero. This upgrade is a potent anti-focus fire mechanic, protecting Phoenix and an ally from being burst down during critical moments, ensuring teamfight survivability.",
+    "search_text": "Phoenix Aghanim Scepter Supernova anti-focus fire teamfight survivability ally protection",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Phoenix",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Phoenix Aghanim's Shard: Allows Sun Ray to be cast during Supernova and slows affected enemies. This upgrade counters mobility and sustain mechanics, applying pressure to high-movement enemies while maintaining Phoenix's healing and damage output during Supernova.",
+    "search_text": "Phoenix Aghanim Shard Sun Ray Supernova anti-mobility sustain slow teamfight control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Phoenix",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Terrorblade Aghanim's Scepter: Terror Wave forces enemy heroes to become Feared and grants Metamorphosis for a short time. This upgrade counters enemy teamfight coordination and initiation by disrupting enemy positioning and providing Terrorblade with a temporary power spike in the middle of a fight.",
+    "search_text": "Terrorblade Aghanim Scepter Fear disrupt teamfight initiation ultimate upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Terrorblade",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Terrorblade Aghanim's Shard: Demon Zeal sacrifices HP to provide Terrorblade and illusions bonus movement, HP regen, and attack speed. This upgrade counters sustain issues by boosting Terrorblade's durability and mobility, allowing him to kite enemies and maintain map presence, especially when pushing lanes or defending objectives.",
+    "search_text": "Terrorblade Aghanim Shard sustain mobility HP regen attack speed illusions kiting",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Terrorblade",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Oracle Aghanim's Scepter: Enhances False Promise with invisibility, increased Spell Damage, and reduced Base Attack Time. This upgrade counters burst damage and anti-heal mechanics, transforming Oracle into a powerful enabler for spellcasting carries and ensuring survivability during critical moments.",
+    "search_text": "Oracle Aghanim Scepter False Promise anti-burst anti-heal invisibility spell damage enable carry",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Oracle",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Oracle Aghanim's Shard: Introduces Rain of Destiny, an area-based ability that damages enemies and boosts ally healing. This counters enemy sustain and heal reduction strategies, shifting Oracle’s role to a teamfight controller with strong area denial and healing amplification.",
+    "search_text": "Oracle Aghanim Shard Rain of Destiny anti-sustain heal amplification area denial teamfight control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Oracle",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Arc Warden Aghanim's Scepter: Flux silences when the target is alone, deals more damage, and lasts longer. This upgrade counters solo heroes and split-pushers by applying a punishing silence and amplified damage, forcing enemies to stay grouped or suffer heavy penalties.",
+    "search_text": "Arc Warden Aghanim Scepter anti-split-push silence isolation counter-disable solo hero punishment",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Arc Warden",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Arc Warden Aghanim's Shard: When Spark Wraith activates, a secondary Spark Wraith fuses to the next closest target, dealing 80% damage. This upgrade counters grouped enemies and teamfight positioning, adding area denial and punishing clumped formations with additional burst damage.",
+    "search_text": "Arc Warden Aghanim Shard anti-grouping area denial teamfight positioning Spark Wraith chain damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Arc Warden",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Winter Wyvern Aghanim's Scepter: Turns Arctic Burn into a toggle ability, removing the limit on attacks per target and increasing movement speed. This upgrade counters kiting and evasion mechanics, allowing Winter Wyvern to maintain consistent damage output and chase down fleeing enemies effectively.",
+    "search_text": "Winter Wyvern Aghanim Scepter counter-kiting anti-evasion chase movement speed toggle ability",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Winter Wyvern",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Winter Wyvern Aghanim's Shard: Causes a Splinter Blast to trigger at the end of Cold Embrace, hitting enemies within 1150 range with reduced cooldown. This upgrade counters clustered enemy formations, punishing melee heroes or groups attempting to focus down an ally protected by Cold Embrace.",
+    "search_text": "Winter Wyvern Aghanim Shard counter-cluster anti-melee splash damage Cold Embrace Splinter Blast",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Winter Wyvern",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Monkey King Aghanim's Scepter: Wukong's Command spawns monkey soldiers at regular intervals. This upgrade counters high-ground defense and siege scenarios by overwhelming enemy structures with continuous reinforcements, especially when Monkey King is nearby. Soldiers can now independently charge Jingu Mastery, making Monkey King a relentless split-push threat.",
+    "search_text": "Monkey King Aghanim Scepter counter-defensive counter-siege split-push siege high-ground defense split-push threat",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Monkey King",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Monkey King Aghanim's Shard: Boundless Strike applies Primal Spring effects, transforming Monkey King into a versatile initiator and escape artist. This upgrade counters clumped enemy teams by delivering AoE damage and stuns, while also enabling Monkey King to leap to safety or reposition during fights.",
+    "search_text": "Monkey King Aghanim Shard counter-clump anti-grouping AoE damage initiation escape reposition",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Monkey King",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Dark Willow Aghanim's Scepter: Shadow Realm attacks no longer break invisibility. This is a powerful counter to initiation detection, allowing Dark Willow to deal sustained burst damage while remaining untargetable.",
+    "search_text": "Dark Willow Aghanim Scepter Shadow Realm counter-initiation invisibility burst damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Dark Willow",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Dark Willow Aghanim's Shard: Cursed Crown spawns brambles upon expiration or dispel. This upgrade counters clumped positioning and dispels, punishing enemies for grouping up or attempting to remove the debuff, while also enhancing area denial.",
+    "search_text": "Dark Willow Aghanim Shard Cursed Crown brambles counter-clumping dispel area denial",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Dark Willow",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Pangolier Aghanim's Scepter: Enhances Shield Crash to cast Swashbuckle attacks in four directions. This upgrade counters clustered enemy formations, allowing Pangolier to deal sustained AoE damage and control multiple targets simultaneously while maintaining his mobility.",
+    "search_text": "Pangolier Aghanim Scepter Shield Crash Swashbuckle AoE damage multi-target control mobility",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Pangolier",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Pangolier Aghanim's Shard: Grants Roll Up, providing debuff immunity and magic resistance. This upgrade counters burst magic damage and disables, transforming Pangolier into a durable initiator who can stall fights or disrupt enemy formations with Rolling Thunder follow-ups.",
+    "search_text": "Pangolier Aghanim Shard Roll Up debuff immunity magic resistance anti-burst anti-disable initiator",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Pangolier",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Hoodwink Aghanim's Scepter: Increases Sharpshooter's arrow speed and movement speed slow. This upgrade enhances Hoodwink's ability to counter mobile heroes and ensures more reliable initiation and follow-up damage in skirmishes.",
+    "search_text": "Hoodwink Aghanim Scepter counter-mobility anti-kiting slow initiation skirmish reliability",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Hoodwink",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Hoodwink Aghanim's Shard: Grants a new skill, Hunter’s Boomerang, which slows enemies and increases their vulnerability to spell damage. This upgrade transforms Hoodwink into a potent teamfight disruptor and spell damage amplifier, countering tanky and spell-resistant lineups.",
+    "search_text": "Hoodwink Aghanim Shard spell damage amplification slow disruptor anti-tank teamfight",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Hoodwink",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Grimstroke Aghanim's Scepter: Dark Portrait creates an ink illusion of an enemy hero with debuff immunity and high magic resistance. This upgrade counters single-target disables and magic damage, allowing Grimstroke to create a powerful, nearly unkillable distraction that can disrupt enemy formations and force them to focus the illusion.",
+    "search_text": "Grimstroke Aghanim Scepter Dark Portrait illusion debuff immunity magic resistance anti-disable distraction",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Grimstroke",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Grimstroke Aghanim's Shard: Enhances Ink Swell with a basic dispel on cast and increases its damage while healing the target. This upgrade counters soft disables (slows, roots) and sustain damage, transforming Ink Swell into a defensive and offensive tool that enables safer initiations and sustain for allies.",
+    "search_text": "Grimstroke Aghanim Shard Ink Swell dispel sustain heal anti-disable initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Grimstroke",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Void Spirit Aghanim's Scepter: Resonant Pulse silences enemies and gains 2 charges. This anti-magic upgrade counters spellcasters and teamfight disruptors by silencing key abilities, allowing Void Spirit to control engagements and interrupt enemy combos.",
+    "search_text": "Void Spirit Aghanim Scepter anti-magic counter-spellcasters silence Resonant Pulse",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Void Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Void Spirit Aghanim's Shard: Aether Remnant creates a rotating watcher path, provides True Sight, and deals damage to creeps instead of triggering on them. This anti-illusion and anti-invisibility upgrade transforms Void Spirit into a vision and crowd-control specialist, countering stealth heroes and clearing creep waves more efficiently.",
+    "search_text": "Void Spirit Aghanim Shard anti-illusion anti-invisibility True Sight Aether Remnant",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Void Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Snapfire Aghanim's Scepter: Spit Out — Counters clustered enemy formations with high-impact AoE stun and damage-over-time zone control. Transforms Snapfire into a potent teamfight disruptor by creating denial zones that punish enemy positioning.",
+    "search_text": "Snapfire Aghanim Scepter anti-cluster AoE stun zone control teamfight disruptor",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Snapfire",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Snapfire Aghanim's Shard: Firesnap Cookie — Counters burst damage by providing emergency healing alongside offensive repositioning. Enhances Snapfire's hybrid support/carry role by adding sustain to her aggressive initiation toolkit.",
+    "search_text": "Snapfire Aghanim Shard anti-burst healing sustain hybrid support carry initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Snapfire",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Mars Aghanim's Scepter: Bulwark — Creates invulnerable soldiers that counter melee attackers and dive-heavy lineups by knocking back and slowing approaching enemies, transforming Mars into an anti-physical frontline fortress that punishes enemy engagement.",
+    "search_text": "Mars Aghanim Scepter Bulwark anti-physical knockback slow frontline defense soldier summons",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Mars",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Mars Aghanim's Shard: Spear of Mars — Counters grouped enemy formations by impaling multiple heroes and creating a fire trail that slows and damages, enhancing Mars' initiation and zoning potential against clustered teams.",
+    "search_text": "Mars Aghanim Shard Spear of Mars multi-hero impale fire trail slow AoE control initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Mars",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Dawnbreaker Aghanim's Scepter: Enhances Solar Guardian's heal per pulse and makes the aura follow Dawnbreaker for 2s after landing. This upgrade counters anti-heal mechanics and prolonged teamfight sustain, allowing Dawnbreaker to consistently heal allies even while repositioning.",
+    "search_text": "Dawnbreaker Aghanim Scepter anti-heal teamfight sustain heal per pulse repositioning",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Dawnbreaker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Dawnbreaker Aghanim's Shard: Grants debuff immunity, 50% magic resistance, and free movement during Starbreaker, though slowed by 35%. This upgrade counters magic burst and disables, turning Dawnbreaker into a durable initiator who can disrupt enemies without fear of being interrupted or bursted down.",
+    "search_text": "Dawnbreaker Aghanim Shard debuff immunity magic resistance anti-disable free movement initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Dawnbreaker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ringmaster Aghanim's Scepter: Escape Act gains 2 charges and throws Impalement Art daggers in all directions upon activation. This upgrade counters high-mobility and grouped enemies by providing burst damage and area denial, transforming Ringmaster into a potent teamfight disruptor who can punish clustered enemies.",
+    "search_text": "Ringmaster Aghanim Scepter anti-mobility area denial burst damage teamfight disruptor",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ringmaster",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ringmaster Aghanim's Shard: Spotlight sweeps an area, causing enemies to miss attacks and revealing invisibility. This upgrade counters evasion, invisibility, and illusion-based heroes by disrupting their effectiveness and providing vision control, enhancing Ringmaster's utility as a vision and anti-carry specialist.",
+    "search_text": "Ringmaster Aghanim Shard anti-evasion anti-invisibility illusion counter vision control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ringmaster",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Marci Aghanim's Scepter: Reduces Unleash cooldown and applies a basic dispel on Marci. While Unleash is active, casting abilities unleashes pulses that silence enemies for 1 second. This upgrade counters silence and debuffs, enabling Marci to maintain her mobility and damage output even when targeted by disabling spells.",
+    "search_text": "Marci Aghanim Scepter counter-disable silence mobility debuff dispel upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Marci",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Marci Aghanim's Shard: Increases damage and allows Rebound to be cast on enemies, granting Marci the speed boost when cast. This upgrade enhances Marci's initiation and escape capabilities, making her a versatile roamer and duelist who can quickly engage or disengage from fights.",
+    "search_text": "Marci Aghanim Shard initiation escape mobility duelist upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Marci",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Primal Beast Aghanim's Scepter: Enhances Uproar to release multiple projectile waves that Break enemies upon hit. This upgrade counters evasion and passive-dependent heroes by applying Break, making it particularly effective against heroes reliant on abilities like Blur or Evasion.",
+    "search_text": "Primal Beast Aghanim Scepter Break evasion passive-dependent anti-evasion anti-passive",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Primal Beast",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Primal Beast Aghanim's Shard: Grants the ability to throw a rock that stuns and damages enemies, increasing Uproar stacks. This upgrade transforms Primal Beast into a more versatile initiator and teamfighter, countering heroes that cluster together by forcing them to scatter or suffer follow-up damage.",
+    "search_text": "Primal Beast Aghanim Shard initiation teamfight stun scatter cluster counter",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Primal Beast",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Muerta Aghanim's Scepter: Dead Shot gains increased damage, expands after ricocheting, and pierces through enemy heroes while fearing them. This upgrade counters clustered enemy formations by creating chaotic fear effects, disrupting teamfight positioning and enabling follow-up damage.",
+    "search_text": "Muerta Aghanim Scepter Dead Shot fear pierce ricochet anti-clustering teamfight disruption",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Muerta",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Muerta Aghanim's Shard: Grants 30% Spell Lifesteal during Pierce the Veil and permanent 2% spell amplification per hero kill. This upgrade counters prolonged engagements by sustaining Muerta through spell damage while scaling her late-game magic burst potential.",
+    "search_text": "Muerta Aghanim Shard Pierce the Veil Spell Lifesteal spell amplification sustain scaling magic burst",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Muerta",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Kez Aghanim's Scepter: Switch Discipline allows casting any weapon ability without triggering the alternate cooldown if used within 3 seconds of Switch Discipline, and refreshes Switch Discipline’s cooldown. This enables rapid ability cycling, making Kez highly adaptable in prolonged engagements and countering ability downtime.",
+    "search_text": "Kez Aghanim Scepter ability cooldown downtime rapid ability cycling adaptable prolonged engagements",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Kez",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Kez Aghanim's Shard: Kazurai Katana provides 100% lifesteal from impales and stuns enemies if attacked from behind, with increased max burst stacks. This transforms Kez into a powerful anti-duelist and lane dominator, countering sustain-heavy opponents while adding crowd control for team fights.",
+    "search_text": "Kez Aghanim Shard lifesteal stun anti-duelist lane dominator sustain crowd control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Kez",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Largo Aghanim's Scepter: Amphibian Rhapsody — Counters clustered enemy formations by dealing significant AoE magic damage when playing two songs simultaneously. This transforms Largo into a teamfight powerhouse, punishing enemies for grouping up while amplifying his musical synergy effects.",
+    "search_text": "Largo Aghanim Scepter AoE magic damage teamfight anti-grouping song synergy",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Largo",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Largo Aghanim's Shard: Encore — Counters single-target buff limitations by mirroring all unit-targeted buffs to himself or nearby allies. This enables Largo to function as a force multiplier, ensuring key buffs like heals or buffs are never wasted on a single target while improving his own survivability.",
+    "search_text": "Largo Aghanim Shard buff sharing force multiplier anti-single-target support utility",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Largo",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

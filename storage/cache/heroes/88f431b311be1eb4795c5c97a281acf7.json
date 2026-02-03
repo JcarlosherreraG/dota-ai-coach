@@ -1,0 +1,231 @@
+[
+  {
+    "display_text": "Storm Spirit is a Ranged intelligence hero with 21 base Strength, 22 base Agility, and 23 base Intelligence. He has a 1.60 base attack time. His starting stats are decently balanced for an intelligence hero, with average base damage and good intelligence for early spellcasting and mana pool.",
+    "search_text": "Storm Spirit stats intelligence ranged attack time BAT 1.6 base strength agility stats",
+    "tags": [
+      "Storm Spirit",
+      "BASE_STATS",
+      "STATS",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Storm Spirit has two Facets. 1) Shock Collar: Electric Vortex applies a debuff that triggers an Overload charge if the target attacks. This is a powerful anti-carry/right-click deterrent, best against heroes like Ursa or Terrorblade who rely on fast attacks. 2) Static Slide: Static Remnants spawn at Storm Spirit's location and move to the target position over time, increasing the effective range and safety of the cast, facilitating a more cautious, kiting playstyle.",
+    "search_text": "Storm Spirit facets Shock Collar Vortex Overload attack debuff Static Slide Remnant moves",
+    "tags": [
+      "Storm Spirit",
+      "FACET_STRATEGY",
+      "SHOCK_COLLAR",
+      "STATIC_SLIDE"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Storm Spirit's priority is last hitting to build his mana pool. Use Static Remnant (100/160/220/280 damage) to secure ranged creeps and harass. With low base armor, use creep aggro to minimize harassment. His kill potential before level 6 is low, but a level 3-4 Vortex (1.1/1.4/1.7s duration) into Overload can secure kills with a setup. Focus on bottle, mana regen, and levels.",
+    "search_text": "Storm Spirit laning last hit Static Remnant damage 100 160 220 280 harass Electric Vortex duration 1.1 1.4 1.7 2.0 mana regen",
+    "tags": [
+      "Storm Spirit",
+      "LANING_PHASE",
+      "LANE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Storm Spirit's power spikes are: Level 6 with Ball Lightning for global mobility and kill threat. Level 12 with level 2 Ball Lightning (1850 speed) and talents. The -1.25s Static Remnant Cooldown talent at 15 is a massive farming and fighting spike. Level 18 with max Ball Lightning (2300 speed). The 25 talents, especially the 450 Distance Auto Remnant, drastically increase teamfight damage and area control.",
+    "search_text": "Storm Spirit power spike level 6 Ball Lightning mobility level 12 speed 1850 talent 15 Remnant cooldown level 18 speed 2300 talent 25 auto remnant",
+    "tags": [
+      "Storm Spirit",
+      "POWER_SPIKES",
+      "LEVELS",
+      "TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Storm Spirit is hard countered by: 1) Anti-Mage, Nyx Assassin (high magic resistance, mana burn). 2) Silences (Death Prophet, Skywrath Mage) and instant Hex (Lion, Shadow Shaman) which prevent Ball Lightning escape. 3) Break (Silver Edge, Hoodwink) which disables his Galvanized passive (0.2 mana regen per kill) and prevents him from gaining new charges. 4) High burst physical damage (Ursa, Phantom Assassin) can kill him during Vortex self-slow.",
+    "search_text": "Storm Spirit counter Anti-Mage Nyx mana burn silence hex Lion Shadow Shaman Break Silver Edge disables Galvanized passive burst damage Ursa PA",
+    "tags": [
+      "Storm Spirit",
+      "HARD_COUNTERS",
+      "COUNTER",
+      "WEAKNESS"
+    ]
+  },
+  {
+    "display_text": "Storm Spirit's core build is 1) Bloodstone: For massive mana pool, sustain, and synergy with Ball Lightning's percentage-based mana cost. 2) Kaya \u0026 Sange: Amplifies spell damage and provides status resistance to survive disables. 3) Shiva's Guard: Provides armor he lacks, intelligence, and a slow that synergizes with his mobility.",
+    "search_text": "Storm Spirit core items build Bloodstone mana Kaya and Sange spell amp status resistance Shiva's Guard armor intelligence",
+    "tags": [
+      "Storm Spirit",
+      "CORE_BUILD",
+      "ITEMS",
+      "ESSENTIAL"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Storm Spirit's role is to be a mobile initiator and backline diver. Use Ball Lightning to jump onto key enemy supports or squishy cores, burst them with Remnant, Vortex, and Overload, then zip out. He creates chaos, draws spells, and picks off isolated targets. He should avoid being the first target focused and rely on his mobility to reposition constantly.",
+    "search_text": "Storm Spirit teamfight role initiator backline diver Ball Lightning jump Remnant Vortex Overload burst pickoff mobile reposition",
+    "tags": [
+      "Storm Spirit",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT",
+      "POSITION"
+    ]
+  },
+  {
+    "display_text": "Ability: Static Remnant (Q). Creates an image that lasts 12.0 seconds. After a 0.75 second delay, if an enemy comes within 235 radius, it detonates, dealing 100/160/220/280 damage in a 300 radius. It grants 100 day and night vision for its duration. The cooldown is 3.5 seconds. Can be self-cast to place at your feet.",
+    "search_text": "Static Remnant Q ability damage 100 160 220 280 radius 235 trigger 300 delay 0.75 cooldown 3.5 vision 100",
+    "tags": [
+      "Storm Spirit",
+      "ABILITY_DATA",
+      "Q",
+      "NUKEDAMAGE",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Ability: Electric Vortex (W). Pulls a target enemy unit to Storm Spirit over 1.1/1.4/1.7/2.0 seconds. The pull tether breaks at 1200 range. Upon casting, Storm Spirit receives a -50% movement speed slow for 3.0 seconds. The pull distance per second is 180/220/260/300.",
+    "search_text": "Electric Vortex W ability pull duration 1.1 1.4 1.7 2.0 slow self -50% 3.0 seconds tether range 1200 distance 180 220 260 300 per second",
+    "tags": [
+      "Storm Spirit",
+      "ABILITY_DATA",
+      "W",
+      "DISABLE",
+      "PULL"
+    ]
+  },
+  {
+    "display_text": "Ability: Overload (E). Passive. After casting a spell, Storm Spirit's next attack releases a charge, dealing 25/50/75/100 damage and applying an -80% movement slow and -90% attack speed slow to enemies in a 300 radius around the target. Using items does not trigger Overload. Charges do not stack.",
+    "search_text": "Overload E passive ability attack modifier slow movement -80% attack speed -90% radius 300 damage 25 50 75 100 spell cast trigger",
+    "tags": [
+      "Storm Spirit",
+      "ABILITY_DATA",
+      "E",
+      "PASSIVE",
+      "SLOW",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Ability: Ball Lightning (R). Storm Spirit becomes invulnerable and flies across the map. Initial mana cost: 25 + 7.5% of max mana. Mana cost per 100 units traveled: 10 + 0.65% of max mana. Speed: 1400/1850/2300. Deals damage per 100 units in a 200 radius. Grants 400 vision. Destroys trees. Can use items and abilities while zipping.",
+    "search_text": "Ball Lightning R ultimate ability invulnerable travel mana cost 25 + 7.5% initial 10 + 0.65% per 100 speed 1400 1850 2300 damage per 100 radius 200 vision 400 tree destroy",
+    "tags": [
+      "Storm Spirit",
+      "ABILITY_DATA",
+      "R",
+      "ULTIMATE",
+      "MOBILITY",
+      "ESCAPE",
+      "NUKEDAMAGE"
+    ]
+  },
+  {
+    "display_text": "Passive Ability: Galvanized. Storm Spirit gains 0.2 mana regeneration per kill, stacking. He loses 2 charges per death. Leveling Ball Lightning grants 3 bonus charges. Additionally, every time he gains a charge, he also gains 0.1 Mana Regen permanently. Break disables the gaining of new stacks from kills.",
+    "search_text": "Galvanized innate passive ability mana regen per kill 0.2 stack lose 2 per death Ball Lightning level gives 3 bonus permanent regen 0.1 per kill Break disables",
+    "tags": [
+      "Storm Spirit",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "MANA_REGEN",
+      "STACKING"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor / High Magic Resistance. Storm Spirit's damage is primarily magical. Against high magic resistance (Anti-Mage, Visage), prioritize Kaya-based items (Kaya \u0026 Sange, Ethereal Blade) and items that provide utility like Scythe of Vyse for control, as your burst will be less effective.",
+    "search_text": "Storm Spirit scenario high armor magic resistance Anti-Mage Visage magic damage build Kaya Sange Ethereal Blade Scythe of Vyse control",
+    "tags": [
+      "Storm Spirit",
+      "SITUATIONAL",
+      "HIGH_ARMOR",
+      "MAGIC_RESIST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When starved for farm, focus on split-pushing lanes with Ball Lightning and Remnant to clear waves safely. Build cheaper survivability items like Eul's Scepter to dispel silences or BKB to ensure you can zip out. Take the +1.5 Mana Regen talent at 10 to sustain your farming.",
+    "search_text": "Storm Spirit scenario behind losing split push Ball Lightning Remnant clear wave Eul's Scepter dispel BKB mana regen talent",
+    "tags": [
+      "Storm Spirit",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "FARM"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Multiple Silences or Roots. Silences are Storm's biggest counter as they disable Ball Lightning. Itemize for Lotus Orb to reflect silences, or Eul's Scepter to self-dispel. A well-timed BKB is critical before engaging. The status resistance from Kaya \u0026 Sange helps reduce silence duration.",
+    "search_text": "Storm Spirit scenario silence root counter Lotus Orb Eul's Scepter dispel BKB engage Kaya Sange status resistance",
+    "tags": [
+      "Storm Spirit",
+      "SITUATIONAL",
+      "SILENCE",
+      "ROOT",
+      "DISPEL"
+    ]
+  },
+  {
+    "display_text": "Scenario: With Aghanim's Scepter. Aghanim's Scepter causes Ball Lightning to automatically create a Static Remnant every 300 distance traveled. This massively increases your teamfight damage output and area denial. It's a luxury item for when you are ahead and want to dominate teamfights, turning your mobility into a constant source of AOE damage.",
+    "search_text": "Storm Spirit Aghanim's Scepter Shard Ball Lightning auto Static Remnant every 300 distance teamfight damage AOE luxury item",
+    "tags": [
+      "Storm Spirit",
+      "SITUATIONAL",
+      "AGHANIMS_SCEPTER",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Initiating with Aegis. As a Storm Spirit with Aegis, you can be the primary initiator. Use Ball Lightning to jump into the enemy team, blow your spells on key targets, and force the enemy to use all their cooldowns on you. Your first life acts as a massive sponge, allowing your team to clean up after you respawn with full health and mana.",
+    "search_text": "Storm Spirit scenario Aegis initiator Ball Lightning jump force cooldowns sponge life respawn teamfight",
+    "tags": [
+      "Storm Spirit",
+      "SITUATIONAL",
+      "AEGIS",
+      "INITIATE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Mana Management. Storm's power is directly tied to his mana pool. Avoid using Ball Lightning for short, inefficient hops. Plan your zip routes to cover maximum distance for the mana cost. Use Remnant and Vortex to farm camps without using ultimate if possible. Bloodstone active can be used during Ball Lightning for emergency mana.",
+    "search_text": "Storm Spirit mana management Ball Lightning cost efficiency zip route farm Remnant Vortex Bloodstone active",
+    "tags": [
+      "Storm Spirit",
+      "SITUATIONAL",
+      "MANA",
+      "RESOURCE"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents. Left: -20.0 Overload Attack/Movement Speed Slow. Right: +1.5 Mana Regen. Choose the -20 slow if you are fighting early and need the stronger lockdown from your Overload slow. Choose the +1.5 Mana Regen if you are focusing on farming and need sustain to spam Remnant and zip between lanes.",
+    "search_text": "Storm Spirit talent level 10 left -20 Overload slow movement attack speed right +1.5 mana regen fight farm",
+    "tags": [
+      "Storm Spirit",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents. Left: +250 Health. Right: +60 Static Remnant Damage. Choose +250 Health if you are being targeted and need survivability. Choose +60 Static Remnant Damage if you are ahead and want to increase your burst potential for pickoffs and wave clear. The damage increase is significant for both farming and fighting.",
+    "search_text": "Storm Spirit talent level 15 left +250 health survivability right +60 Static Remnant damage burst farm clear",
+    "tags": [
+      "Storm Spirit",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents. Left: +0.2s Electric Vortex Duration. Right: -1.25s Static Remnant Cooldown. Choose the +0.2s Vortex duration for better single-target lockdown against key heroes like a carry with BKB. Choose the -1.25s Remnant cooldown for significantly higher DPS, farming speed, and area control in fights, as it allows you to cast Remnant almost twice as often.",
+    "search_text": "Storm Spirit talent level 20 left +0.2s Electric Vortex duration lockdown right -1.25s Static Remnant cooldown DPS farm",
+    "tags": [
+      "Storm Spirit",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents. Left: Overload attacks bounce to a second target, dealing 30% damage (value from typical Dota data, not explicitly in JSON but implied by description). Right: Every 450 distance traveled in Ball Lightning creates a Static Remnant. Choose the Overload bounce for significantly increased teamfight damage and wave clear with each spell cast. Choose the Auto Remnant for an overwhelming amount of AOE damage during your Ball Lightning, making you a true teamfight monster, especially with Aghanim's Scepter.",
+    "search_text": "Storm Spirit talent level 25 left Overload bounce 2x attack second target right 450 distance auto Static Remnant Ball Lightning teamfight AOE damage",
+    "tags": [
+      "Storm Spirit",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_25"
+    ]
+  }
+]

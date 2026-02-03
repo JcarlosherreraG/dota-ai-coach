@@ -1,0 +1,91 @@
+[
+  {
+    "display_text": "Cost: 4650: Creates 2 illusions of your hero that last 18 seconds. Melee illusions deal 33% damage, ranged illusions deal 28% damage, and all illusions take 300% damage. Provides a 0.1 second invulnerability window on cast, and can be used as a basic dispel to remove certain debuffs. Stats: CD: 34s, Mana Cost: 125.",
+    "search_text": "illusion item, create illusions, mirror image, dispel item, basic dispel, invulnerability, dodge, dodge spells, reposition, confuse enemies, melee illusion damage, ranged illusion damage, split push, Manta Style, manta",
+    "tags": [
+      "ITEM_DATA",
+      "MANTA_STYLE",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "DISPELLABLE",
+      "UTILITY",
+      "ILLUSIONS",
+      "ESCAPE",
+      "DISPEL",
+      "VS_CONTROL"
+    ]
+  },
+  {
+    "display_text": "Cost: 4650: Provides +10 Strength, +26 Agility, +10 Intelligence, +15 Attack Speed, and +10% Movement Speed. Primarily an Agility item offering significant bonus to Attack Speed and Movement Speed. The Yasha-based movement speed bonus does not stack with other Yasha items. Stats: Attributes: +10 Str, +26 Agi, +10 Int.",
+    "search_text": "manta stats, manta style stats, agility item, attack speed item, movement speed item, stat item, carry stats, agility carry, Yasha stats, Manta Style",
+    "tags": [
+      "ITEM_DATA",
+      "MANTA_STYLE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "AGILITY",
+      "ATTACK_SPEED",
+      "MOVEMENT_SPEED",
+      "CARRY_ITEM",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Cost: 4650: Teamfight role is disruption and creating confusion. Illusions can tank spells, block projectiles, and draw focus away from your real hero. The instant dispel and invulnerability window can be used to dodge stuns, silences, and roots, turning an enemy initiation attempt into a counter-play opportunity. Stats: Illusion Count: 2, Duration: 18s.",
+    "search_text": "team fight utility, confusion item, disrupt team fights, tank spells, dodge stuns, dispel roots, dispel silence, counter initiation, bait spells, split focus, Manta Style",
+    "tags": [
+      "ITEM_DATA",
+      "MANTA_STYLE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "UTILITY",
+      "DEFENSIVE",
+      "DISRUPTION",
+      "SURVIVAL",
+      "VS_CONTROL"
+    ]
+  },
+  {
+    "display_text": "Cost: 4650: Situational against control abilities and silences. The basic dispel effect can immediately remove debuffs like silences, slows, and roots, allowing you to escape or continue fighting. The short invulnerability on activation can be used to avoid follow-up damage or disables. Essential for carries who need to purge enemy control to maintain DPS. Stats: Dispels: Basic.",
+    "search_text": "counter silence item, counter root item, dispel item, purge debuffs, remove slow, escape item, defensive dispel, control counter, dodge item, Manta Style",
+    "tags": [
+      "ITEM_DATA",
+      "MANTA_STYLE",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_CONTROL",
+      "VS_CONTROL",
+      "DISPEL",
+      "CLEANSE",
+      "ESCAPE",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Cost: 4650: Core synergy with heroes who have abilities enhanced by their illusions, such as Chaos Knight or Terrorblade. High-Agility heroes benefit greatly from the Attack Speed and Movement Speed to kite and deal damage. The illusions can apply attack modifiers like Diffusal Blade's mana burn or Skadi's slow. Builds from Yasha, making it a natural progression for Agility cores.",
+    "search_text": "illusion synergy, diffusal blade, mana burn illusions, skadi illusions, chaos knight item, terrorblade item, agility carry item, yasha upgrade, high attack speed, Manta Style",
+    "tags": [
+      "ITEM_DATA",
+      "MANTA_STYLE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "AGILITY",
+      "UPGRADE",
+      "ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Cost: 4650: Provides farming utility by using illusions to push out dangerous lanes safely or accelerate jungle clearing while your hero is elsewhere. The illusions last 18 seconds, allowing them to clear waves or camps. This split-push pressure creates space and forces enemies to reveal themselves. Stats: Illusion Duration: 18s.",
+    "search_text": "farming item, split push item, push lanes safely, illusion farming, safe farm, split pressure, create space, lane pressure, jungle farm, Manta Style",
+    "tags": [
+      "ITEM_DATA",
+      "MANTA_STYLE",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "FARMING",
+      "SPLIT_PUSH",
+      "SAFE_FARM",
+      "ILLUSIONS"
+    ]
+  }
+]

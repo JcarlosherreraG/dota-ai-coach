@@ -1,0 +1,262 @@
+FILE: auto_critical_hp.json
+QUESTION: What is the most important tactical advice for next 30 seconds?
+GENERATION TIME: 1.49s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: STRATEGY, Phantom Assassin, TEAMFIGHT] | Phantom Assassin Teamfight: Backline assassin; wait for initiation, then dive high-priority targets with Phantom Strike and burst them down.
+---
+[TAGS: PHANTOM ASSASSIN, FACET_STRATEGY, FACET] | Facet 1: Veiled One. Blur is no longer dispelled when attacking and reduces mana costs during and after Blur. This facet rewards aggressive, sustained fighting by removing a key limitation of the standard Blur, allowing Phantom Assassin to initiate and man-fight without losing her evasion and move speed buff.
+---
+[TAGS: Abaddon, Ability, Survival] | Borrowed Time: Transforms incoming damage into healing, enabling survival in critical situations. Stats: Duration: 4/5/6s, Health Threshold: 400, Cooldown: 90/85/80s
+---
+[TAGS: STRATEGY, Phantom Assassin, FACETS] | Phantom Assassin Facet Strategy: Veiled One enhances Blur for mana efficiency, Methodical boosts Coup de Grace consistency, and Sweet Release refills Stifling Dagger on kills. Veiled One is preferred for core roles due to sustain.
+---
+[TAGS: Ability, Sustain] | 15% Spell Lifesteal: Maximizes health recovery from spells, ideal for endurance in teamfights. Stats: Lifesteal: 15%
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+---
+[TAGS: SAND_KING, SITUATIONAL, VS_BKB, CONTROL] | Scenario: Enemy team has multiple BKB carriers. Burrowstrike does NOT pierce BKB, so you must initiate before they activate BKB or focus on non-BKB targets. Epicenter slow does not pierce BKB. Your value comes from controlling supports and applying Caustic Finale explosions from non-BKB kills. Shiva's Guard active slow is crucial.
+---
+[TAGS: STRATEGY, Muerta, ITEM_BUILD, SITUATIONAL] | Muerta Situational: Buy Manta Style against silences or Orchid Malevolence. Consider Shadow Blade or Silver Edge against tanky heroes with Break.
+---
+[TAGS: ITEM_DATA, UNRELENTING_EYE, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, SLOW_RESISTANCE, STATUS_RESISTANCE, DEFENSIVE, SURVIVAL] | Unrelenting Eye, Tier 3 Neutral: Provides the Relentless passive, granting 50% slow resistance. This resistance decreases by 10% for each enemy hero within your attack range. A situational defensive tool that is most effective when you are isolated or separated from enemies. Stats: Max Slow Resistance: 50%, Reduction per Enemy Hero: 10%.
+---
+[TAGS: Phantom Assassin, Defensive, Passive] | Immaterial: Scaling evasion passive that softens physical damage intake, stacking diminishingly with other evasion sources. Stats: Evasion: 25%/35%/45%/55%
+---
+[TAGS: STRATEGY, Phantom Assassin, TIMING] | Phantom Assassin Power Spike: Hits peak at Level 12 with maxed Blur and Coup de Grace, or after Battle Fury and BKB.
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, HERO_SPECIFIC] | Aghanim's Blessing - Roshan SITUATIONAL_VS_BKB: The upgrade's effectiveness vs BKB depends on the specific hero's upgraded ability; some upgrades may grant BKB-piercing effects, others may not. It must be analyzed per hero. Stats: No inherent BKB interaction.
+---
+[TAGS: ITEM_DATA, SHADOW_OF_VENGEANCE, CORE_DESCRIPTION, NEUTRAL, EVENT_ITEM, ILLUSION, DEATH_EFFECT, DAMAGE_RETURN, PASSIVE, DEFENSIVE] | Shadow of Vengeance. Cost: 0 (Neutral / Event): A unique non-purchasable item. Upon death, you spawn a powerful illusion that deals 100% damage and takes 150% damage for 30 seconds. The illusion can cast all basic spells, acting as a persistent threat after your hero falls. Stats: Illusion Duration: 30s, Outgoing Damage: 100%, Incoming Damage: 150%.
+---
+[TAGS: Ability, Damage, Scaling] | Finger of Death Damage Per Kill: Increases the damage of Finger of Death with each kill, scaling its lethality. Stats: Damage Per Kill: bonus_damage_per_kill
+---
+[TAGS: Necrophos, FACET_STRATEGY, FACET] | Facet 1: Profane Potency. This facet makes Sadist grant 1 bonus radius to Necrophos' area of effect abilities and items for each stack of Sadist he possesses. This is a scaling teamfight and farming facet, making his Death Pulse and items like Shiva's Guard and Radiance significantly larger as he gets kills, facilitating a high-tempo, snowballing playstyle. Facet 2: Rapid Decay. This facet changes Ghost Shroud. While active, it steals 16/19/22/25 movement speed from enemies within 700 range and reduces their healing and regeneration by 55%/60%/65%/70%. This turns Ghost Shroud into a powerful debuff tool, excelling against sustain-heavy lineups (e.g., with Wraith King, Alchemist, or multiple healing supports) and helps kite melee cores.
+---
+[TAGS: Ability, Passive, Resistance] | Insurmountable: Grants Tiny resistance to slows and status effects based on Strength. Stats: Strength to Slow Resistance: 20%, Strength to Status Resistance: 10%.
+---
+[TAGS: Dazzle, Heal, Survival] | Heal On Shallow Grave End: Provides 200 healing when Dazzle's Shallow Grave ends. Stats: Heal: 200
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, COUNTERED_BY_BKB] | Searing Signet HARD_COUNTERS: The burn is completely negated by spell immunity (BKB) and is less effective against heroes with high magic resistance or healing/regen. The effect will not trigger if you are more than 2000 range away from the target. Stats: Max Range: 2000, Creep Penalty: 50%.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, UTILITY, MOBILITY] | Town Portal Scroll CORE_MECHANICS: Allows you to teleport to any friendly building after channeling for 3 seconds. Primarily used for map repositioning, defending towers, or joining fights. Double-clicking teleports you directly to your team's fountain. Stats: Cost: 100 gold, Cooldown: 80 seconds, Channel Time: 3 seconds, Mana Cost: 75, Cast Range Min: 70, Cast Range Max: 800, Teleport Vision Radius: 200.
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, CORE_MECHANICS, CONSUMABLE, MOBILITY, TELEPORT, MAP_CONTROL, CHANNELED] | Town Portal Scroll, Cost: 100: Channel for 3 seconds to teleport to any friendly building. Double-click to target your team's fountain. If multiple heroes target the same location, each successive channel time increases. Teleport is interrupted by taking player-based damage or root effects. Stats: CD: 80s, Mana: 75, Channel Time: 3s, Charges: 1.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, ACTIVE, SUSTAIN, DAMAGE_OVER_TIME] | Urn of Shadows CORE_MECHANICS: Active ability Soul Release targets a single hero, providing 30 health regeneration per second to allies or 25 damage per second to enemies for 8 seconds. The item gains 1 charge when an enemy hero dies within 1500 units of the user, and empty urns start with 2 charges. The healing effect on an ally is removed if they are attacked by an enemy hero or Roshan. Stats: Cost: 825 gold, +1.25 Mana Regeneration, +2 Armor, +2 All Attributes, Heal per Second: 30, Damage per Second: 25, Duration: 8.0s, Cooldown: 10s, Charge Gain Radius: 1500, Initial Charges: 2, Additional Charges per Kill: 1.
+---
+[TAGS: ITEM_DATA, BOOK_OF_THE_DEAD, CORE_DESCRIPTION, NEUTRAL, TIER_5, SUMMONS, TRUE_SIGHT, DISPEL, SLOW, MANA_BURN, AURA, MOBILITY] | Book of the Dead, Tier 5: Neutral item with a powerful summoning active. Summons 2 demonic warriors and 2 demonic archers for 65 seconds. The warrior applies mana burn on hit, reveals invisible units, and deals high magical damage upon death, while the archer provides a basic dispel with slow and grants a movement speed aura to nearby units. Stats: CD: 80s, Duration: 65s.
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, SITUATIONAL_USAGE, CONSUMABLE, MOBILITY, ESCAPE, SPLIT_PUSH, DEFENSE, VS_CONTROL] | Town Portal Scroll, Cost: 100: Core tactical tool for split-pushing safely and defending structures. Use to escape dangerous situations by channeling to a safe tower. Key for maintaining map pressure and forcing enemy reactions. Remember, roots prevent the channel. Stats: CD: 80s, Mana: 75.
+---
+[TAGS: STRATEGY, Phantom Assassin, ITEM_BUILD, SITUATIONAL] | Phantom Assassin Situational: Buy Manta Style vs Silence, Nullifier vs Ghost Scepter, or Aegis for risky engagements.
+---
+[TAGS: STRATEGY, Phantom Assassin, ITEM_BUILD, CORE] | Phantom Assassin Core Build: Cannot function without Battle Fury for farming and BKB for survivability.
+---
+[TAGS: ITEM_DATA, VITALITY_BOOSTER, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_PHYSICAL, VS_MAGIC] | Vitality Booster, Cost: 1000: A defensive item that significantly increases survivability, making it harder for enemies to burst you down. Effective against mixed damage compositions where specific resistances are less valuable. The lack of regeneration means it's best paired with other sustain items. Stats: Health Bonus: +250.
+---
+[TAGS: STRATEGY, Lycan, ITEM_BUILD, SITUATIONAL] | Lycan Situational: Buy BKB against heavy CC, Pipe of Insight vs. magic damage, and Nullifier vs. defensive items like Ghost Scepter.
+---
+[TAGS: Necrophos, ABILITY_DATA, DEATH_PULSE, Q] | Ability: Death Pulse (Q). Necrophos releases a wave of death in a 500 radius around him, dealing 70/90/110/130 damage to enemies and healing allies for the same amount. Cooldown is 8/7/6/5 seconds. The projectile speed is 400. Death Pulse cannot be disjointed.
+---
+[TAGS: Ability, Passive, Debuff] | Death Rime: Passively applies stacks that slow and damage enemies over time. Stats: Damage Per Second Per Stack: 10, Movement Slow Per Stack: 2%
+---
+[TAGS: Ability, Stat, Survivability] | Status Resistance: Enhances survivability by reducing the duration of debuffs. Stats: Status Resistance: 15%/20%/25%
+---
+[TAGS: STRATEGY, Phantom Assassin, WEAKNESS] | Phantom Assassin Weakness: Vulnerable to Break (e.g., Silver Edge) and Silence, which disable Blur and cast abilities.
+---
+[TAGS: PHANTOM ASSASSIN, BASE_STATS] | Phantom Assassin is a Melee Agility hero with 21 base Agility, 19 base Strength, and 15 base Intelligence. Her attack rate is 1.7 seconds per attack. Her primary stat is Agility, making her damage scale with attack speed and armor.
+---
+[TAGS: NATURES_PROPHET, ABILITY_DATA, TELEPORTATION] | ABILITY: Teleportation. Teleports to any point on the map. Gains a barrier after arriving to its destination. Cooldown is 65/50/35/20 seconds. Barrier absorbs 70/130/190/250 damage and lasts 15 seconds. Mana and cooldown are consumed only upon successful completion of the cast. A visible effect is created at the target location when casting begins.
+---
+[TAGS: STRATEGY, Undying, ITEM_BUILD, SITUATIONAL] | Undying Situational: Buy Glimmer Cape vs magic burst or Lotus Orb against debuffs and silences.
+---
+[TAGS: Ability, Healing] | Death Pulse Heal Increase: Boosts Necrophos' survivability and team sustain by increasing Death Pulse's healing. Stats: Heal Increase: [value not specified]
+---
+[TAGS: Shadow Fiend, ABILITY_DATA, ULTIMATE, REQUIEM] | Ability: Requiem of Souls. Shadow Fiend releases captured souls as lines of demonic energy in a 1000 radius. Each soul creates one line. Units hit take damage per line. Any unit damaged is feared and has its movement speed reduced by 20/25/30% and magic resistance reduced by 10% for 0.6 seconds per line hit, up to a maximum of 2.15 seconds. Cooldown is 120/110/100 seconds. Automatically casts on death. Does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, ASCETIC'S_CAP, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SURVIVAL, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, VS_SLOW] | Ascetic's Cap, Cost: 0: Neutral item. Provides a passive effect that grants 40% Status resistance and 40% Slow Resistance for 3 seconds whenever a debuff would be applied to the owner. This makes the user temporarily more resilient to stuns, slows, and other negative effects. Stats: Status Resistance: 40%, Slow Resistance: 40%, Duration: 3s.
+---
+[TAGS: PUCK, ABILITY_DATA, WANING_RIFT, SILENCE, DAMAGE, BLINK] | Waning Rift (W) teleports Puck a max distance of 350 units and deals 60/120/180/240 damage in a 400 radius around the target location, silencing enemies for 2.0/2.5/3.0/3.5 seconds. Cooldown is 16/15/14/13 seconds.
+---
+[TAGS: Necrophos, ABILITY_DATA, DEATH_SEEKER, W, MOBILITY] | Ability: Death Seeker (W Alternate). Necrophos turns into a large Death Pulse, traveling to a target location. Upon arrival, it releases a Death Pulse that deals damage and heals in a 500 radius. This ability applies a 2.5 second ethereal effect and reduces magic resistance by 25% on enemies hit. The Death Pulse projectile multiplier is 175. Does not trigger spell reflect.
+---
+[TAGS: Ability, Survivability, Passive] | Rawhide: Passive ability that scales Centaur's survivability. Gains 25 health every 120 seconds.
+---
+[TAGS: Ability, Techies, Utility, Passive] | Spoon's Stash: Enhances Neutral Items by stacking enchantments, improving Techies' utility. Stats: Passive.
+---
+[TAGS: STRATEGY, Jakiro, ITEM_BUILD, SITUATIONAL] | Jakiro Situational: Buy BKB vs heavy stuns/silences, Glimmer Cape vs magic burst, or Shiva's Guard vs physical damage dealers.
+---
+[TAGS: Roshan, Ability, Escape, Repositioning] | Teleport: Allows Roshan to relocate instantly, making it a versatile escape or repositioning tool. Stats: Cooldown: 0
+---
+[TAGS: Ability, Slow, Disruption] | Dual Breath Slow: Reduces enemy movement and attack speed significantly, ideal for disrupting enemy carries or escaping dangerous situations. Stats: Movement Speed Slow: [value], Attack Speed Slow: [value]
+---
+[TAGS: Ability, Defensive, Status Resistance] | Status Resistance Bonus: Reduces the duration of negative status effects. Stats: Status Resistance: 10%
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: JAKIRO, SITUATIONAL, FROM_BEHIND, DEFENSIVE] | When playing from behind, use your spells defensively. Ice Path to stop chases, Dual Breath to slow pursuers, and Macropyre to zone areas you need to defend. Build cheap utility items like Force Staff and Glimmer Cape to save allies and yourself.
+---
+[TAGS: Ability, Unit Target, Repositioning] | Assimilate: Allows Lifestealer to consume a friendly hero, hiding within them. Tactical for repositioning and saving allies. Stats: Cooldown: 50s
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, UTILITY] | Town Portal Scroll CORE_BUILD: Core item for every hero at all stages, purchased repeatedly from the side shop. No components or upgrades. Synergy: Pair with Boots of Travel for non-structure teleports later. Stats: Cost: 100 gold.
+---
+[TAGS: STRATEGY, Meepo, ITEM_BUILD, SITUATIONAL] | Meepo Situational: Buy BKB against heavy magic damage or stuns. Consider Manta Style versus silences or Orchid carriers.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, SAVE, DEFENSIVE, REPOSITIONING, DISPEL, CC_IMMUNITY] | Wind Waker FULL_ITEM Cost: 6800: Provides a powerful Cyclone ability on a 19-second cooldown for 175 mana. This unit-targeted ability lifts a target (ally, enemy, or self) into a cyclone, making them invulnerable for 2.5 seconds—a duration unaffected by status resistance. It applies a basic dispel on cast and deals 50 magic damage to enemy units when they land. When cast on yourself, you can move the cyclone. Stats: Total Cost 6800g, CD 19s, Mana 175, Cyclone Duration 2.5s, Land Damage 50 magical.
+---
+[TAGS: PANGOLIER, SITUATIONAL, SPLIT_PUSH, ESCAPE, MOBILITY] | Scenario: Need to Split Push. Swashbuckle clears creep waves rapidly. Rolling Thunder allows you to escape from most gank attempts by rolling through trees and over cliffs. Carry a Teleport Scroll to join fights after pushing. The Double Jump Facet can help you traverse terrain to escape.
+---
+[TAGS: ITEM_DATA, HOOD_OF_DEFIANCE, STAT_PROFILE, FULL_ITEM, MAGIC_RESISTANCE, REGEN, SUSTAIN, HEALTH] | Cost: 0: Hood of Defiance provides +18% Magic Resistance and +8.5 Health Regeneration. It offers no other attribute bonuses, focusing purely on enhancing survivability against magic damage and providing lane or jungle sustain through significant passive HP regeneration. Stats: Magic Resist: +18%, HP Regen: +8.5.
+---
+[TAGS: JAKIRO, ABILITY_DATA, MACROPYRE, ULTIMATE, AREA_DAMAGE, NUKER] | Macropyre is Jakiro's ultimate. He exhales a line of fire 1400 units long and 500 units wide that lasts 10 seconds. It deals 100/150/200 magic damage per second to enemies in the area. Enemies continue to burn for 1 second after leaving the area. Cooldown is not specified in the raw data. Does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, EARLY_GAME_USAGE, CONSUMABLE, MOBILITY, ROTATION, LANING, SITUATIONAL_USAGE] | Town Portal Scroll, Cost: 100: Essential starting item for early game rotations and lane sustain. Enables heroes to quickly return to lane after visiting the fountain, minimizing experience loss. Critical for responding to early ganks or dives to turn fights and save allies.
+---
+[TAGS: STRATEGY, Visage, ITEM_BUILD, SITUATIONAL] | Visage Situational: Buy BKB vs lockdown, Shiva's vs physical damage, or Nullifier vs saves. Consider Overwhelming Blink for initiation if ahead.
+---
+[TAGS: STRATEGY, Tiny, ITEM_BUILD, SITUATIONAL] | Tiny Situational: Buy Black King Bar against heavy magic damage or stuns, and Assault Cuirass to mitigate armor reduction.
+---
+[TAGS: ITEM_DATA, DIMENSIONAL_DOORWAY, CORE_DESCRIPTION, NEUTRAL, TIER_5, MOBILITY, TEAM_BUFF, UTILITY, ESCAPE, REPOSITION] | Dimensional Doorway, Cost: 0: Tier 5 Neutral item that creates a one-way portal. Teleports you and nearby allied heroes to a target location after a short delay. Primarily used for strategic repositioning or escapes. Stats: CD: 90s, Charges: 3.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, PASSIVE, UTILITY, SLOW_RESIST] | Unrelenting Eye CORE_MECHANICS: Provides bonus slow resistance that scales with enemy proximity, functioning as a counter-initiation tool against area slows and kiting. The passive ability reduces enemy control by making the wearer harder to pin down in teamfights. Stats: Cost: 0 gold, Increases slow resistance by 50%. This bonus is reduced by 10% for every enemy hero within the wearer's attack radius.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, SITUATIONAL, CHASE, ESCAPE] | Unrelenting Eye TEAMFIGHT_ROLE: Gains peak value when the wearer is isolated or diving into the backline with few heroes nearby, maximizing slow resistance for chasing or escaping. Conversely, its effect is minimal in the middle of a dense 5-man clash, reducing its defensive utility against coordinated slows. Stats: Bonus reduced by 10% per enemy hero in attack radius.
+---
+[TAGS: Ursa, Abilities, Survivability] | Ursa Enrage: Grants massive survivability and debuff resistance, making Ursa harder to kill. Stats: Damage Reduction: 80%, Status Resistance: 50%, Duration: 4/4.5/5
+---
+[TAGS: PHANTOM ASSASSIN, ABILITY_DATA, PHANTOM STRIKE] | Ability: Phantom Strike. Teleports to a unit, friendly or enemy, with a cast range of 650/750/850/950. If the target is an enemy, grants 100/130/160/190 bonus attack speed for 2.5 seconds.
+---
+[TAGS: Ability, Passive, Defensive] | Prickly: Provides damage reduction and debuff duration amplification when attacked from behind, increasing survivability against flanking enemies. Stats: Damage Reduction: 10%, Angle: 110.
+---
+[TAGS: Ability, Invulnerability, Survivability] | Mischief: Extends invulnerability duration, improving survivability and escape options. Stats: Invulnerability Duration: s
+---
+[TAGS: MEDUSA, SITUATIONAL, DEFENSE, HIGH_GROUND, STALL, LATE_GAME] | Scenario: Playing from Behind / Defending High Ground. Medusa excels at defending with Split Shot clearing waves and Stone Gaze zoning the choke. Prioritize survivability items like Skadi and Butterfly. Use Mystic Snake to farm safely. Your Mana Shield makes you very hard to dive under tower. Drag the game out to reach your late-game potential.
+---
+[TAGS: ITEM_DATA, CRAggy_COAT, CORE_DESCRIPTION, NEUTRAL, ARMOR, DEFENSIVE, ACTIVE, UTILITY, SURVIVAL] | Craggy Coat, Cost: 0: Tier Unknown. Grants you an extra 6 bonus armor at the cost of -20 movement speed. Lasts 6 seconds. No stats are provided when the active is not used. Stats: CD: 12s, Duration: 6s, Bonus Armor: +6, Move Speed Slow: -20.
+---
+[TAGS: Sustain, Survivability] | Special Bonus Lifesteal 100%: Provides extreme survivability through damage conversion. Stats: Lifesteal: 100%
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, GLOBAL, DEFENSE] | Town Portal Scroll TEAMFIGHT_ROLE: Critical for global map presence to counter-gank, defend structures under siege, or secure Roshan after respawn. Successive teleports to the same location increase channel time, requiring coordination. Stats: Channel Time: 3 seconds, Range Max: 800.
+---
+[TAGS: TECHIES, ABILITY_DATA, STICKY_BOMB] | Sticky Bomb (Q): Techies lobs a bomb that sticks to the first enemy hero it lands near, slowing their movement speed by 25/35/45/55% for 1.2 seconds. After a 2-second countdown, it explodes for 95/170/245/320 magic damage in a 350 radius and applies a secondary slow of 15/25/35/45% for 3 seconds. The bomb has a travel speed of 500 and chases a target for up to 4 seconds if none is initially stuck. It has a 300 placement radius.
+---
+[TAGS: Ability, Survivability] | Moment of Courage Proc Chance: Increases chance of triggering for survivability. Stats: Proc Chance percentage increase.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: Ability, Synergy, Damage] | Special Bonus Unique Wisp 4: Allows tethered ally to attack tethered target, enhancing synergy and damage output. Stats: Damage: Percentage-based
+---
+[TAGS: STRATEGY, Faceless Void, ITEM_BUILD, SITUATIONAL] | Faceless Void Situational: BKB vs spell-heavy teams, Linken's vs single-target disables (Doom), or Aghanim's Scepter for Reverse Time Walk saves.
+---
+[TAGS: Ability, No Target, Survivability] | Unfettered: Temporarily increases resistance to spells and status effects, enhancing survivability. Stats: Duration: 4/5/6/7, Magic Resistance: 60%, Status Resistance: 60%.
+---
+[TAGS: ITEM_DATA, SANGE_AND_YASHA, SITUATIONAL_VS_CONTROL, FULL_ITEM, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, SURVIVABILITY, DEFENSIVE] | Cost: 4200: Excellent against teams with multiple disables and slows. The status resistance reduces stun and silence durations, while the slow resistance reduces the impact of movement impairing effects. The health regen amplification synergizes with other sources of regen and lifesteal. Stats: Status Resistance: +15%, Slow Resistance: +25%, Health Regen Amp: +20%.
+
+=== GAME STATE ===
+Match Time: 18:20 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: phantom_assassin (Lvl 12) | HP: 180/1400 | Mana: 300/450 | Alive: true
+Stats: K/D/A 3/2/4 | Gold: 1800 | LastHits: 85
+Inventory: [item_blight_stone (CD), item_tpscroll x1, item_phase_boots, item_desolator (CD), item_magic_wand x17]
+Abilities: [phantom_assassin_coup_de_grace(Lvl2)[NoMana/Silenced] | phantom_assassin_stifling_dagger(Lvl4)[Rdy] | phantom_assassin_phantom_strike(Lvl2)[Rdy] | phantom_assassin_blur(Lvl4)[Rdy]]
+User Situation Notes: Только что вышла из драки, убила двоих, но осталась на 180 хп. Враги (Lion, Lina, Zeus) все живы. У Lion Finger готов. Мне нужно в шрайн, но он далеко.
+
+=== USER QUESTION ===
+"What is the most important tactical advice for next 30 seconds?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "What is the most important tactical advice for next 30 seconds?".**
+========================================
+
+[AI RESPONSE] (4.01s)
+Используй Stifling Dagger, чтобы сбежать к шрайну и восстановить здоровье. Это замедлит и даст время на побег, сохранив тебя от вероятного удара Lion'а с Finger of Death. Если успеешь, используй Phantom Strike на союзника для дальнейшего спасения.

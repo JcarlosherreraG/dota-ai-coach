@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Tome of Omniscience, Cost: 0: Non-purchasable item providing +200 Mana, +100 Experience, and -5 Armor. Cannot be bought in shops. Use to gain a burst of experience and mana, traded for a temporary reduction in physical resistance. Stats: Mana Bonus: 200, Experience Bonus: 100, Armor Reduction: -5.",
+    "search_text": "tome of omniscience, xp item, mana item, experience tome, tome, non-purchasable item, bonus xp, bonus mana, negative armor, 200 mana, 100 xpm, experience boost, mana boost, Omniscience",
+    "tags": [
+      "ITEM_DATA",
+      "TOME_OF_OMNISCIENCE",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "EXPERIENCE",
+      "MANA",
+      "DEBUFF",
+      "ARMOR_REDUCTION"
+    ]
+  }
+]

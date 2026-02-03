@@ -1,0 +1,20 @@
+[
+  {
+    "display_text": "Havoc Hammer, Cost: 0: Neutral item. Instant cast ability that pulls all enemies within a 400 radius towards you, slows them by 50% for 3 seconds, and deals 175 + 150% of your Strength as magical damage. Provides no magic immunity piercing. Stats: CD: 10s, Range: 400, Slow: 50%, Duration: 3s, Damage: 175 + 1.5x STR.",
+    "search_text": "havoc hammer, neutral item, pull ability, aoe pull, crowd control, initiation, disable, slow, magical damage, strength scaling, aoe disable, disrupt positioning, team fight neutral, pull item, havoc, strength based damage, area pull, reposition enemy, crowd gatherer, AoE CC, Havoc Hammer",
+    "tags": [
+      "ITEM_DATA",
+      "HAVOC_HAMMER",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "INITIATION",
+      "CATCH",
+      "CROWD_CONTROL",
+      "AOE_DAMAGE",
+      "MAGICAL_DAMAGE",
+      "SLOW",
+      "DEBUFF",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "display_text": "Shadow Blade, Cost: 3250: Provides invisibility for 17 seconds, breaks upon attacking or casting. While invisible, you gain 20% bonus movement speed and can move through other units. Attacking out of invisibility deals an extra 175 physical damage on that attack. Stats: CD: 25s, Mana: 75, Duration: 17s, Fade Time: 0.3s.",
+    "search_text": "invis item, invisibility item, gank item, initiation item, move through units, invis attack damage, bonus damage from invis, Shadow Blade, invisibility blade, shadow walk, ganking invis, invis initiation, physical damage burst, surprise attack, invis mobility",
+    "tags": [
+      "ITEM_DATA",
+      "SHADOW_BLADE",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "INVISIBILITY",
+      "MOBILITY",
+      "PHASE",
+      "INITIATION",
+      "PHYSICAL_DAMAGE",
+      "DAMAGE_BOOST"
+    ]
+  },
+  {
+    "display_text": "Shadow Blade, Cost: 3250: Provides +25 Damage and +35 Attack Speed. These stat bonuses contribute to physical damage output and attack tempo, complementing the burst potential from the invisibility attack.",
+    "search_text": "shadow blade stats, damage item, attack speed item, physical damage stats, right click stats, carry item stats, damage and attack speed, invisibility stats, Shadow Blade",
+    "tags": [
+      "ITEM_DATA",
+      "SHADOW_BLADE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "PHYSICAL_DAMAGE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Shadow Blade, Cost: 3250: Primarily an initiation and pick-off tool, allowing you to reposition unseen and launch surprise attacks with amplified damage. The ability to move through units while invisible aids in escaping or setting up favorable engagements. The item also serves as a defensive escape mechanism.",
+    "search_text": "shadow blade initiation, gank tool, pick-off item, surprise attack, reposition invis, escape item, defensive invis, mobility invis, team fight initiation, catch tool, Shadow Blade",
+    "tags": [
+      "ITEM_DATA",
+      "SHADOW_BLADE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "INITIATION",
+      "CATCH",
+      "MOBILITY",
+      "ESCAPE",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Shadow Blade, Cost: 3250: Synergizes with heroes who benefit from a surprise attack to initiate a combo or who need the movement speed to chase. The physical burst damage is effective against fragile, high-priority targets. It is a classic item for right-click carries who also value positioning and escape.",
+    "search_text": "shadow blade synergy, invis carry item, physical burst synergy, initiation carry, chase item, positioning item, attack damage gank, Shadow Blade",
+    "tags": [
+      "ITEM_DATA",
+      "SHADOW_BLADE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "INITIATION",
+      "PHYSICAL_DAMAGE",
+      "DAMAGE_BOOST"
+    ]
+  }
+]

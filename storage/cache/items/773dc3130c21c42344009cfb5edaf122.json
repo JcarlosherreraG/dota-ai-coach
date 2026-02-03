@@ -1,0 +1,76 @@
+[
+  {
+    "display_text": "Assault Cuirass, Cost: 5125: Core team-fight aura item that provides a substantial bonus to allied armor and attack speed while significantly reducing enemy armor in a large radius. Grants 30 attack speed and 5 armor to nearby allies and structures, while applying a -5 armor aura to nearby enemies. Critical for sieging and grouped team fights. Stats: CD: N/A, Mana: N/A, Aura Radius: 1200.",
+    "search_text": "aura item, armor aura, attack speed aura, physical damage team fight, sieging item, aura physical, team buff, armor debuff, reduce enemy armor, increase team armor, increase attack speed, team fight aura, Assault Cuirass, AC",
+    "tags": [
+      "ITEM_DATA",
+      "ASSAULT_CUIRASS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "DEBUFF",
+      "PHYSICAL_DAMAGE",
+      "ATTACK_SPEED",
+      "ARMOR",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Assault Cuirass, Cost: 5125: Provides +30 Attack Speed and +10 Armor to the wielder. No mana cost or cooldown for its persistent aura effect. Stats: Personal Attack Speed: +30, Personal Armor: +10.",
+    "search_text": "assault cuirass stats, AC stats, armor stats, attack speed stats, personal stats, aura stats, tank item, carry item, Assault Cuirass",
+    "tags": [
+      "ITEM_DATA",
+      "ASSAULT_CUIRASS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ARMOR",
+      "ATTACK_SPEED",
+      "TANK",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Assault Cuirass, Cost: 5125: Defines the team fight for physical damage lineups. The +5 armor aura buffs the entire team's survivability, while the -5 enemy armor aura amplifies all physical damage sources. Its effect on allied towers and enemy structures makes it a powerful sieging and base defense tool. The large aura radius ensures the buff is effective in chaotic engagements.",
+    "search_text": "team fight item, physical team fight, sieging aura, tower defense, base defense, physical damage amp, armor reduction, team survivability, area buff, Assault Cuirass",
+    "tags": [
+      "ITEM_DATA",
+      "ASSAULT_CUIRASS",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "DEBUFF",
+      "PHYSICAL_DAMAGE",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Assault Cuirass, Cost: 5125: Situational against enemy teams with high armor or physical damage cores, as the armor reduction is less effective. However, it is excellent versus teams reliant on physical damage by boosting your team's effective HP. Countered by enemies who prioritize magic damage burst over sustained physical attacks.",
+    "search_text": "vs physical damage, vs armor, armor reduction, counter armor, vs physical cores, anti-physical, item vs physical, magic damage counter, Assault Cuirass",
+    "tags": [
+      "ITEM_DATA",
+      "ASSAULT_CUIRASS",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "ARMOR",
+      "DEBUFF",
+      "AURA"
+    ]
+  },
+  {
+    "display_text": "Assault Cuirass, Cost: 5125: Core synergy item for heroes who benefit from attack speed and/or want to tank up and lead team fights. Excellent on front-line initiators and strength cores who need to survive in the middle of fights. Also strong for heroes who build other aura items to maximize team-wide physical impact.",
+    "search_text": "aura carry, initiator item, front-line item, strength carry, tank core, team fight core, aura stack, AC hero, Assault Cuirass",
+    "tags": [
+      "ITEM_DATA",
+      "ASSAULT_CUIRASS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INITIATION",
+      "TANK",
+      "STRENGTH",
+      "AURA"
+    ]
+  }
+]

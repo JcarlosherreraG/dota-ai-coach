@@ -1,0 +1,43 @@
+[
+  {
+    "display_text": "Blood Grenade, Cost: 50: Throw a grenade dealing 50 impact damage and applying a slow over time. Enemies in a 300 radius take 50 damage initially, then are slowed by 15% and take 15 damage every second for 5 seconds. Excellent for securing kills or deterring chases in the early game. Stats: CD: 10s, Radius: 300, Speed: 1100, Duration: 5s, Impact Damage: 50, DOT: 15 per second.",
+    "search_text": "grenade item, throwable damage, slow over time, early game kill secure, harassment tool, chasing tool, zoning consumable, damage over time, AOE slow, DoT item, Blood Grenade",
+    "tags": [
+      "ITEM_DATA",
+      "BLOOD_GRENADE",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "AOE_DAMAGE",
+      "SLOW",
+      "DEBUFF",
+      "DAMAGE_OVER_TIME"
+    ]
+  },
+  {
+    "display_text": "Blood Grenade, Cost: 50: Highly effective consumable for early game aggression. Provides burst damage and a slow to secure kills on low-health targets or finish off fleeing enemies. Its low cost and cooldown make it spammable for lane dominance and pressure.",
+    "search_text": "early game aggression, kill secure consumable, lane dominance, spammable grenade, harass tool, pressure consumable, low cost damage, early kill potential, Blood Grenade",
+    "tags": [
+      "ITEM_DATA",
+      "BLOOD_GRENADE",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "LANING",
+      "AGGRESSION",
+      "KILL_SECURE"
+    ]
+  },
+  {
+    "display_text": "Blood Grenade, Cost: 50: Ideal for ganking or slowing down fast heroes. Use it to initiate a gank to slow the target, or throw it at retreating enemies to secure the kill. Also effective for zoning enemies away from objectives or last hits.",
+    "search_text": "ganking tool, chase slow, secure kills, retreating enemies, zoning tool, slow gank initiation, objective control, area denial, Blood Grenade",
+    "tags": [
+      "ITEM_DATA",
+      "BLOOD_GRENADE",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "GANKING",
+      "CHASING",
+      "ZONING",
+      "UTILITY"
+    ]
+  }
+]

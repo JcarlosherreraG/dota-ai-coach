@@ -1,0 +1,267 @@
+FILE: illusion-clear.json
+QUESTION: Меня сжирают иллюзии Лансера. Чем мне их быстро убивать?
+GENERATION TIME: 2.15s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, DAGON_2, FULL_ITEM, UPGRADE, TIMING, COST_EFFICIENCY] | Dagon 2, Cost: 3950: Not a farming item; its primary use is hero combat and kill securing. The high cost relative to its damage output makes its timing critical. Consider upgrading to higher levels for more damage against tankier targets as the game progresses.
+---
+[TAGS: ITEM_DATA, DAGON, FULL_ITEM, TEAMFIGHT_ROLE, BURST_DAMAGE, SINGLE_TARGET, SURVIVAL, VS_ILLUSIONS] | Dagon (Level 5), Cost: 6250: Teamfight role as a high-burst, single-target magic nuke for quickly eliminating key targets or securing kills. The heal on cast provides sustain during engagements, allowing casters to survive return damage. Particularly effective against illusion-based heroes.
+---
+[TAGS: Ability, Passive, Retaliation] | Storm Surge: Passively releases forked lightning when attacked or targeted by spells, damaging and slowing nearby enemies. Stats: Chance to Strike: 20%, Targets Hit: 3, Damage: 50/90/130/170, Movement Slow: 25%/30%/35%/40%, Slow Duration: 1, Strike Search Area: 700, Strike Cooldown: 2.5
+---
+[TAGS: ITEM_DATA, GLEIPNIR, FULL_ITEM, SYNERGY_BUILD, UPGRADE, INTELLIGENCE_HERO, UTILITY, INITIATION] | Gleipnir, Cost: 4550: Synergizes with heroes possessing other AOE disables or damage to chain crowd control. Core on intelligence heroes who want utility and tankiness. Good follow-up to Blink Dagger for instant AOE initiation. Upgrades from Rod of Atos and Point Booster.
+---
+[TAGS: ITEM_DATA, DAGON, SITUATIONAL_VS_ILLUSIONS, FULL_ITEM, VS_ILLUSIONS, ANTI_ILLUSION, COUNTER_ITEM, ILLUSION_CLEAR] | Dagon (Level 5), Cost: 7400: High-priority situational item against illusion-based heroes like Chaos Knight or Phantom Lancer, as its active instantly destroys illusions. It also counters heroes reliant on low-health escapes, providing a reliable burst to finish them off.
+---
+[TAGS: Ability, Physical, Multi-Target, Attack Modifier] | Split Shot: Splits Medusa's attack into multiple arrows that deal reduced damage to additional targets. Stats: Damage Modifier: 50%/60%/70%/80%, Extra Targets: 4
+---
+[TAGS: STRATEGY, Phantom Lancer, WEAKNESS] | Phantom Lancer Weakness: Vulnerable to AoE damage (e.g., Earthshaker, Legion Commander), Break mechanics (e.g., Silver Edge), and illusion-clearing abilities (e.g., Lion, Zeus).
+---
+[TAGS: Phantom Lancer, Illusion, Proc Chance] | Juxtapose Illusion Trigger Chance: Increases the chance for Phantom Lancer's Juxtapose to create illusions. Stats: Trigger Chance: +{bonus_illusion_proc_chance_pct}%
+---
+[TAGS: Ability, Damage, Slow] | Thunder Strike: Strikes a target 4 times over 8s, dealing 25/55/85/115 damage per strike in a 260 radius and slowing enemies by 100% briefly. Stats: Cast Range: 800, Strike Interval: 2s.
+---
+[TAGS: STRATEGY, Anti-Mage, WEAKNESS] | Anti-Mage Weakness: Vulnerable to Silence (disables Blink) and Break (nullifies Mana Break).
+---
+[TAGS: Ability, Damage] | Damage Bonus (40): Increases right-click damage output by 40, enhancing last-hitting and hero harassment potential.
+---
+[TAGS: Phantom Lancer, Nuke, Damage] | Spirit Lance Damage: Enhances Phantom Lancer's Spirit Lance damage output. Stats: Damage: +{bonus_lance_damage}
+---
+[TAGS: Void Spirit, SITUATIONAL, ILLUSIONS, AREA_DAMAGE] | Against illusion heroes, Void Spirit's area abilities like Dissimilate and Resonant Pulse can clear illusions. Aether Remnant can control the real hero. Consider items like Mjollnir for additional illusion clear.
+---
+[TAGS: ITEM_DATA, DAGON, STAT_PROFILE, FULL_ITEM, INTELLIGENCE, STRENGTH, AGILITY, ATTRIBUTES, SPELL_LIFESTEAL, STATS] | Dagon (Level 5), Cost: 7400: Provides balanced attribute bonuses, offering 15 to all attributes (Strength, Agility, Intelligence) and a permanent 19% Spell Lifesteal. This makes it a survivability and mana pool boost for heroes who cast frequently.
+---
+[TAGS: ITEM_DATA, DAGON, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE, MAGICAL_DAMAGE, UPGRADE, SCALING] | Dagon, Cost: 2800: Synergizes with heroes who have high intelligence for increased damage scaling and need an instant-kill tool. Strong on burst mages and heroes lacking a reliable finishing ability. Upgrades provide increased stats and damage. Stats: Upgradable to level 5.
+---
+[TAGS: STRATEGY, Keeper of the Light, TIMING] | Keeper of the Light Power Spike: Peaks at Level 6 with Spirit Form, unlocking Will-o-Wisp for strong teamfight presence. Another spike comes with level 10 talents, enhancing Illuminate cooldown.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Mjollnir Recipe CORE_BUILD: This is the final component used to craft Mjollnir. It must be combined with the required base items to complete the build. Stats: Cost: 550 gold, Recipe for: Mjollnir.
+---
+[TAGS: ITEM_DATA, DAGON, FULL_ITEM, STAT_PROFILE, STRENGTH, AGILITY, INTELLIGENCE, SPELL_LIFESTEAL, SUSTAIN, UNIVERSAL_STATS] | Dagon (Level 5), Cost: 6250: Provides +15 to all attributes (Strength, Agility, Intelligence) and +15% Spell Lifesteal. Balanced stat profile making it suitable for many hero types seeking burst damage and survivability through spell lifesteal. Stats: Str/Agi/Int: +15, Spell Lifesteal: +15%.
+---
+[TAGS: ITEM_DATA, DAGON_2, STAT_PROFILE, FULL_ITEM, STRENGTH, AGILITY, INTELLIGENCE, ATTRIBUTES, SPELL_LIFESTEAL, SUSTAIN, STATS] | Dagon 2, Cost: 3950: Provides balanced attribute bonuses of +9 to all stats (Strength, Agility, Intelligence), offering survivability and mana pool for its active ability. The 16% spell lifesteal amplifies sustained magic damage output. Stats: Str/Agi/Int: +9 each, Spell Lifesteal: 16%.
+---
+[TAGS: ITEM_DATA, ILLUSIONISTS_CAPE, CORE_DESCRIPTION, NEUTRAL, TIER_2, ILLUSION, SUMMON, DAMAGE_BOOST, AGILITY, STRENGTH] | Illusionist's Cape, Cost: 0: Tier 2 Neutral item providing +14 Agility, +14 Strength, and the Create Illusion active ability. Creates an illusion under your control for 30 seconds, dealing 50% outgoing damage and taking 200% incoming damage. The Illusion Mastery passive increases damage of all units and illusions controlled by the hero by 6%. Stats: CD: 30s, Illusion Duration: 30s, Illusion Damage: 50%, Illusion Damage Taken: 200%, Bonus: +14 Str, +14 Agi.
+---
+[TAGS: Phantom Lancer, Slow, Crowd Control] | Spirit Lance Slow Duration: Extends the slow duration of Phantom Lancer's Spirit Lance. Stats: Slow Duration: +{bonus_duration}s
+---
+[TAGS: ITEM_DATA, GLEIPNIR, FULL_ITEM, TEAMFIGHT_ROLE, INITIATION, CATCH, AOE_DAMAGE, MULTI_TARGET, UTILITY] | Gleipnir, Cost: 4550: Primarily an AOE initiation and team fight control tool. Cast from range to root multiple clustered enemies, enabling follow-up abilities and disrupting enemy formations. Effective for setting up high-impact AOE spells or peeling for allies.
+---
+[TAGS: MIRANA, POWER_SPIKES] | Power Spikes: Level 6 provides team-wide invisibility for ganks and saves. Level 12 with a key item like Dragon Lance or Maelstrom significantly increases your farming and fighting potential. Level 18 gives a stronger ultimate. The Level 20 talent (+35 Base Damage) is a massive damage spike. Level 25 talents are game-changing: Multishot Arrows for area control or a drastically reduced Moonlight Shadow cooldown for constant map pressure. Aghanim's Scepter is a major timing, allowing Sacred Arrow to proc Starstorm.
+---
+[TAGS: PANGOLIER, CORE_BUILD, DIFFUSAL_BLADE, MAELSTROM, SYNERGY] | Core items for Pangolier are Diffusal Blade and Maelstrom. Diffusal Blade's mana burn and slow are applied by each slash of Swashbuckle, massively amplifying its damage and utility. Maelstrom (and later Mjollnir) causes chain lightning procs on each Swashbuckle slash, providing immense wave clear and magical damage in fights. These items synergize perfectly with his kit.
+---
+[TAGS: Ability, Debuff, AoE] | Intimidate: Reduces nearby enemies' total attack damage, making it effective against physical-heavy lineups. Stats: Radius: 300/350/400/500, Total Attack Damage Reduction: 60%, Duration: 4, Cooldown: 16, Mana Cost: 50
+---
+[TAGS: STRATEGY, Anti-Mage, TIMING] | Anti-Mage Power Spike: Peaks at 20-25 minutes with Battle Fury + Manta Style, enabling split-push and solo kills.
+---
+[TAGS: ITEM_DATA, DAGON, SITUATIONAL_VS_ILLUSIONS, FULL_ITEM, VS_ILLUSIONS, VS_SUMMONS, VS_MAGIC, DEFENSIVE, SUSTAIN] | Dagon, Cost: 2800: Counters illusion heroes and summons, as it instantly kills them. Effective against heroes with low magic resistance. The self-heal provides sustain against physical harassers, making it a good defensive option for intelligence cores. Stats: Illusion Kill: Instant.
+---
+[TAGS: ITEM_DATA, MAELSTROM, CORE_MECHANICS, FULL_ITEM, FARMING, WAVECLEAR, MAGICAL_DAMAGE, AOE_DAMAGE, ATTACK_MODIFIER, MULTI_TARGET] | Maelstrom, Cost: 2950: Attack modifier that grants a 25% chance on attack to release Chain Lightning, dealing 110 magical damage to up to 4 targets within a 650 radius. Lightning procs pierce evasion. Effective for heroes who can apply rapid attacks to multiple targets for farming and team fight damage. Stats: Chance: 25%, Damage: 110, Targets: 4, Cooldown: 0.2s.
+---
+[TAGS: Ability, AOE, Debuff] | Desecrate: Armor-reducing AOE nuke for teamfight initiation. Stats: Damage: 200, Radius: 300, Duration: 6s, Armor Reduction: 50%
+---
+[TAGS: ITEM_DATA, DAGON_2, SITUATIONAL_VS_ILLUSIONS, FULL_ITEM, VS_ILLUSIONS, VS_SUMMONS, MAGICAL_DAMAGE] | Dagon 2, Cost: 3950: Counters illusion-based heroes by instantly killing their illusions. The magical burst damage is effective against targets with low magic resistance. It's a situational upgrade for heroes who build Dagon for burst, requiring careful positioning to land the single-target nuke. Stats: Illusion Instant Kill.
+---
+[TAGS: ITEM_DATA, RIFTSHADOW_PRISM, CORE_DESCRIPTION, NEUTRAL, TIER_5, ILLUSION, SUMMON, UTILITY, PUSHER_ITEM, DECOY] | Riftshadow Prism, Tier 5: Neutral item creating a full health illusion at the cost of 10% of your current HP. The illusion deals 50% outgoing damage and takes 240% incoming damage, lasting 20 seconds. Used to create decoys, tank damage, or push lanes. Stats: CD: 30s, Duration: 20s, Health Cost: 10% Current HP.
+---
+[TAGS: Ability, Attack, Multi-target] | Echo Slash Attack: Enhances multi-target engagement capabilities with additional strikes. Stats: Attack Count: Increased
+---
+[TAGS: Ability, Passive, Anti-Mage, Utility] | Bondage: Passive ability reflecting a portion of spell damage back to enemies, deterring spell-heavy attackers. Stats: Spell Reflect Percentage: 16%, Radius: 1200
+---
+[TAGS: Phantom Lancer, Illusion, Damage] | Spirit Lance Illusion Damage: Increases the damage dealt by illusions created by Spirit Lance. Stats: Illusion Damage: +{bonus_tooltip_illusion_damage}%
+---
+[TAGS: Storm Spirit, ABILITY_DATA, R, ULTIMATE, MOBILITY, ESCAPE, NUKEDAMAGE] | Ability: Ball Lightning (R). Storm Spirit becomes invulnerable and flies across the map. Initial mana cost: 25 + 7.5% of max mana. Mana cost per 100 units traveled: 10 + 0.65% of max mana. Speed: 1400/1850/2300. Deals damage per 100 units in a 200 radius. Grants 400 vision. Destroys trees. Can use items and abilities while zipping.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, SYNERGY_BUILD, CARRY_ITEM, UPGRADE] | Maelstrom, Cost: 2950: Synergizes with heroes who build attack speed, as it increases the frequency of Chain Lightning procs. Strong on ranged agility carries and universal heroes who can apply the effect safely. Upgrades into Mjollnir and Gleipnir, providing a core damage path.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, WEAK_TO_AOE, ILLUSION_VULNERABLE] | Manta Style HARD_COUNTERS: Countered by abilities and items that quickly clear illusions or apply area-of-effect damage, such as Battle Fury, Maelstrom, and Shiva's Guard. The dispel is ineffective against hard disables like stuns (unless dodged) and most ultimate abilities. Illusions die quickly to magical burst damage. Stats: Illusions take 300% damage, Duration: 18 seconds.
+---
+[TAGS: Ability, Damage, AoE] | Cleave Bonus (100%): Transforms attacks into area damage for wave clear. Stats: Cleave: +100%
+---
+[TAGS: Ability, Channeled, AOE, Damage] | Freezing Field: Channels massive area damage and slows enemies. Stats: Radius: 810, Explosion Radius: 320, Movement Slow: 40%, Attack Slow: 80/120/160, Slow Duration: 1s, Damage: 110/180/250, Mana Cost: 200/400/600
+---
+[TAGS: Ability, Enchantress, Damage, Illusion] | Impetus: Enhances Enchantress’s attacks with bonus damage based on target distance, ideal for kiting and countering illusions. Stats: Distance Damage: 5%/10%/15%/20%, Distance Cap: 1750, Illusion Damage Multiplier: 2, Cast Range: 575.
+---
+[TAGS: Ability, Multi-target, Luna] | Lucent Beam Hits An Additional Target: Enhances Lucent Beam's teamfight presence by hitting an extra enemy.
+---
+[TAGS: Ability, Phantom Lancer, Range] | Phantom Rush Range: Extends Phantom Lancer's initiation and chase potential. Stats: Range: +bonus_max_distance
+---
+[TAGS: Ability, Damage, AoE] | Chain Lightning: Provides AoE damage scaling, useful for harassment and wave clear. Stats: Initial Damage: 140/180/220/260, Jump Range: 500, Jump Damage Loss: 25%/20%/15%/10%, Max Targets: 4, Cast Range: 900, Cast Time: 0.3
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, STAT_PROFILE, DAMAGE, ATTACK_SPEED, DPS] | Maelstrom, Cost: 2950: Provides +25 bonus damage and +25 attack speed. A moderate offensive stat boost that enhances right-click damage output and the frequency of Chain Lightning procs. Its value is amplified by high natural attack speed. Stats: Damage: +25, Attack Speed: +25.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, SITUATIONAL_VS_EVASION, VS_EVASION] | Maelstrom, Cost: 2950: Situational vs Evasion: The Chain Lightning magical damage proc pierces evasion, making it a soft counter to heroes relying on miss chance. While it doesn't grant True Strike for regular attacks, its guaranteed magical damage application helps mitigate evasion's effectiveness. Stats: Damage pierces evasion.
+---
+[TAGS: Ability, AOE, Damage, Shield] | Ion Shell: Surrounds a unit with a damaging shield. Stats: Radius: 275, Damage Per Second: 30/50/70/90, Duration: 20/22/24/26s, Cast Range: 800, Mana Cost: 100/110/120/130
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_GROUPED, AOE] | Specialist's Array VS_GROUPED: Highly effective against teams that group tightly, as the extra projectiles can splash damage onto multiple heroes or creeps. It provides built-in physical area damage without requiring a separate cleave or splash item, punishing poor positioning in engagements. Stats: Proc Chance: 25%, Secondary Projectiles: 2, Secondary Target Angle: 120°.
+---
+[TAGS: Ability, No Target, AoE] | Congregations of the Deep: Releases tentacles in all directions, damaging and stunning multiple enemies for area control. Stats: Damage: 250-325, Stun Duration: 1.4s, Range: 300, Speed: 725, Projectile Count: 6.
+---
+[TAGS: ITEM_DATA, MJOLNIR, FULL_ITEM, TEAMFIGHT_ROLE, AOE_DAMAGE, MAGICAL_DAMAGE, MULTI_TARGET, BUFF] | Mjollnir, Cost: 5500: Excellent team fight presence through Chain Lightning and Static Charge which provide significant magical area damage. The active shield can be placed on initiators or frontliners to punish attackers, adding disruptive AoE damage in clustered fights. The high attack speed also enables more proc chances.
+---
+[TAGS: STRATEGY, Phantom Lancer, TIMING] | Phantom Lancer Power Spike: Hits a major spike at Level 6 (Juxtapose) and another at Diffusal Blade completion. Becomes a late-game monster with Manta Style and Heart of Tarrasque, overwhelming enemies with illusions.
+---
+[TAGS: PHANTOM_LANCER, HARD_COUNTERS] | Phantom Lancer is hard countered by heroes with strong AoE and clear. Earthshaker, Legion Commander, and Sven destroy illusions with their abilities. Heroes with Break (e.g., Shadow Demon, Viper) disable his Juxtapose and Phantom Rush passives, removing his evasion and illusion generation. Instant disables like Hex prevent him from using Doppelganger to escape.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Mjollnir Recipe TEAMFIGHT_ROLE: The recipe itself provides no stats or abilities in a teamfight. Its purchase timing indicates a transition into the late-game, where the completed Mjollnir becomes available. Stats: No combat stats.
+---
+[TAGS: ITEM_DATA, DAGON_3, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE, NUKER_ITEM, SPELL_LIFESTEAL, UPGRADE, SCALING] | Cost: 5100: Core synergy for high-intelligence heroes like Tinker, Puck, or Pugna to amplify their burst damage and provide healing. The spell lifesteal synergizes with other magic damage items. The upgrade mechanic allows it to scale into the late game.
+---
+[TAGS: Ability, AoE, Crowd Control] | Roshan Halloween Toss: A unit-targeting AoE ability that deals bonus damage and displaces enemies. Stats: Duration: 1, Grab Radius: 300, Radius: 275, Bonus Damage Percent: 20%, Grow Bonus Damage Percent: 35%, Toss Damage: 500.
+---
+[TAGS: ITEM_DATA, SYNERGIES, ILLUSION_SYNERGY, SCALING] | Riftshadow Prism SYNERGIES: Synergizes with heroes who have skills that benefit from or buff illusions. Can be used in combination with other illusion-creating items or abilities to overwhelm with numbers or create confusion. The health cost scales, so it pairs well with high-strength or HP regeneration builds. Stats: Health Cost: 10% current HP.
+---
+[TAGS: Ability, Illusion, Vision] | Shadow Step: Creates an illusion to target an enemy hero, dealing reduced damage but providing vision and harassment. Stats: Cast Range: 700/850/1000/1150, Duration: 3.5/4/4.5/5, Illusion Damage: 20%/30%/40%/50%.
+---
+[TAGS: MIRANA, SITUATIONAL, VS_ILLUSIONS] | Situation: Against Illusion or Summon Heroes (e.g., Phantom Lancer, Nature's Prophet). Starstorm is inefficient against many units. Focus on building area-of-effect physical damage like Mjollnir and Gleipnir. Your Sacred Arrow can instantly kill a key summon like Treants or Spiderlings if you target them directly.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, TEAMFIGHT_ROLE, AOE_DAMAGE, MULTI_TARGET, VS_ILLUSIONS] | Maelstrom, Cost: 2950: Provides significant wave clear and AoE damage contribution in team fights from its Chain Lightning proc. While not a burst initiation tool, it adds substantial magic DPS over a fight, particularly effective against grouped enemies. Lightning proc applies its full damage to illusions.
+---
+[TAGS: Ability, AoE, Magical Damage] | Roshan Halloween Burn: A high-speed AoE ability with rotating projectiles for area control. Stats: Radius: 200, Speed: 1000, Damage: 1000, Rotation Angle: 90, Projectile Count: 20.
+---
+[TAGS: Ability, Summon, Illusion] | Dark Portrait: Summons an illusion of an enemy hero. Tactical purpose: Disruption and damage amplification. Stats: Illusion duration: 25, Illusion damage: 125%, Illusion damage taken: 275%, Movespeed bonus: 30%.
+---
+[TAGS: ITEM_DATA, DAGON_3, STAT_PROFILE, FULL_ITEM, STRENGTH, AGILITY, INTELLIGENCE] | Cost: 5100: Provides balanced attribute bonuses of 7 Strength, 7 Agility, and 7 Intelligence. The item's primary value is from its powerful active ability, not its raw stat profile.
+---
+[TAGS: ITEM_DATA, MJOLNIR, FULL_ITEM, STAT_PROFILE, DAMAGE, ATTACK_SPEED, CARRY_ITEM] | Mjollnir, Cost: 5500: Provides +90 Attack Speed and +25 Damage, significantly boosting a hero's right-click DPS and scaling physical damage output. Does not provide attributes or defensive stats. Stats: Attack Speed: +90, Damage: +25.
+---
+[TAGS: ARC_WARDEN, CORE_BUILD] | Arc Warden's absolute core item build is focused on farming and amplification for his Tempest Double. 1) Hand of Midas: Doubles the effectiveness with the clone, accelerating experience and gold gain immensely. 2) Maelstrom/Mjollnir: Provides needed wave clear and magical damage proc that works with the clone's high attack speed from Magnetic Field. 3) Gleipnir (from Maelstrom): Offers a reliable root to set up Spark Wraiths and Flux, and the stats benefit both the main hero and clone.
+---
+[TAGS: Ability, Crowd Control, Multi-Target] | Shackleshot Target: Increases the number of targets Shackleshot can latch onto, improving crowd control potential. Stats: Additional target (value not specified)
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, PASSIVE, ILLUSION, DEATH_EFFECT] | Shadow of Vengeance CORE_MECHANICS: Upon death, spawn a strong illusion that deals 100% damage, takes 150% damage, and can cast all basic spells for 30 seconds. The illusion persists after your death, acting as a final source of damage or utility. Stats: Cost: 0 gold, +500 Health, +20% Damage Return.
+---
+[TAGS: ITEM_DATA, DAGON, STAT_PROFILE, FULL_ITEM, STRENGTH, AGILITY, INTELLIGENCE, SPELL_LIFESTEAL, SUSTAIN, DAMAGE] | Dagon, Cost: 2800: Provides balanced attributes: +7/9/11/13/15 to Strength, Agility, and Intelligence. Grants 15/16/17/18/19% spell lifesteal passively. Stats: Str/Agi/Int: +15 at level 5, Spell Lifesteal: 15-19%.
+---
+[TAGS: ITEM_DATA, DAGON, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE_HERO, BURST_DAMAGE, SPELL_AMPLIFICATION, CARRY_ITEM] | Dagon (Level 5), Cost: 7400: Synergizes best with high-burst intelligence cores like Tinker or Nyx Assassin, amplifying their pick-off potential and providing sustain through spell lifesteal. It also scales with other sources of magic amplification and intelligence.
+---
+[TAGS: Ability, Damage, AOE] | Arc Lightning: A chain lightning spell that jumps between enemies, effective for harassing and wave clearing. Stats: Base Damage: 90/120/150/180, Jump Radius: 450, Jumps: 5/7/9/11, Mana Cost: 75/85/95/105, Cooldown: 1.6s
+---
+[TAGS: ZEUS, ABILITY_DATA, LIGHTNING_HANDS] | Lightning Hands is a toggled passive. When active, Zeus gains 30 attack speed and his attacks create Arc Lightnings that deal 50% of his attack damage to the target and nearby enemies (20% for illusions). This can be toggled off.
+---
+[TAGS: Storm Spirit, Ability Upgrade, Area Control] | Distance Auto Remnant in Ball Lightning: Automatically drops Static Remnants while using Ball Lightning, improving area control during mobility. Stats: None
+---
+[TAGS: MEDUSA, SITUATIONAL, FARM_SPEED, SPLIT_SHOT, MAELSTROM, MASK_OF_MADNESS] | Scenario: Need to Accelerate Farm. Medusa farms slowly without items. Use Mystic Snake to secure lane creeps from a distance. Use Split Shot to farm jungle camps and ancient stacks. Early game items like Mask of Madness (if not using Mana Pact facet) or Maelstrom can significantly increase farm speed. Take the +8% Split Shot damage talent at level 15.
+---
+[TAGS: ITEM_DATA, DAGON, FULL_ITEM, SITUATIONAL_VS_ILLUSIONS, VS_ILLUSIONS, VS_SUMMONS, COUNTER_ITEM] | Dagon (Level 5), Cost: 6250: Situational vs high-HP illusion heroes (Phantom Lancer, Chaos Knight) as it instantly destroys illusions while dealing significant main-target damage. The heal also provides counter-sustain against chip damage in prolonged fights.
+---
+[TAGS: Ability, Summon, Damage] | Will-O-Wisp: Summons a wisp that mesmerizes enemies, dealing area damage. Stats: Radius: 725, Damage: 85, Hit Count: 7, Cast Range: 800
+---
+[TAGS: ITEM_DATA, MJOLNIR, FULL_ITEM, CORE_MECHANICS, AOE_DAMAGE, MAGICAL_DAMAGE, FARMING, WAVECLEAR, ATTACK_SPEED] | Mjollnir, Cost: 5500: Active Static Charge places a shield on an ally for 15 seconds that has a 20% chance on being attacked to release 225 magical damage lightning that jumps to 4 additional nearby enemies. Passive Chain Lightning grants a 25% chance on attack to release 180 magical damage lightning that bounces to 12 targets. Both procs pierce evasion. Strong farming and team fight damage item. Stats: CD: 35s, Mana: 50, Charges: 0.
+---
+[TAGS: ITEM_DATA, STORMCRAFTER, CORE_DESCRIPTION, NEUTRAL, PASSIVE, MAGICAL_DAMAGE, AOE_DAMAGE, MULTI_TARGET, SLOW, CROWD_CONTROL] | Stormcrafter, Tier N/A (Neutral Item): Zaps 2 enemy targets within 700 range, dealing 175 magical damage and a 40% slow for 0.4 seconds. Strikes automatically every 3.5 seconds, providing periodic AoE damage and soft crowd control. Does not provide any stat bonuses. Stats: CD: 3.5s, Damage: 175, Slow: 40%, Range: 700.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, VS_MAGIC_RESIST, DISPEL] | Mjollnir HARD_COUNTERS: Its damage is entirely magical, making it weak against heroes with high magic resistance or Spell Immunity (Black King Bar). The Static Charge shield and its shock effect are dispellable, meaning it can be removed by abilities like Demonic Purge or items like Eul's Scepter. Stats: Damage Type: Magical, Dispellable: Yes.
+---
+[TAGS: Ability, Damage, AoE] | Cleave Bonus (15%): Small cleave for supplementary area damage. Stats: Cleave: +15%
+---
+[TAGS: ITEM_DATA, DAGON_3, SITUATIONAL_VS_ILLUSIONS, FULL_ITEM, VS_ILLUSIONS, VS_SUMMONS, MAGICAL_DAMAGE, VS_MAGIC_IMMUNE] | Cost: 5100: Situational pick against heroes who create numerous illusions, as Dagon instantly destroys them. Also counters heroes with low magic resistance but high physical bulk. Less effective against BKB or magic-immunity heavy lineups, as the damage is magical.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, ILLUSION, DISPEL, SURVIVABILITY] | Manta Style CORE_MECHANICS: Creates 2 illusions of your hero that last 18 seconds. Melee illusions deal 33% damage, Ranged illusions deal 28%. Illusions take 300% damage. Used to dodge projectiles, disjoint spells, and purge many negative debuffs via its Basic Dispel. Stats: Cost: 4650 gold, +10 Strength, +26 Agility, +10 Intelligence, +15 Attack Speed, +10% Movement Speed, Active Ability: Mirror Image, Cast Time: 0.1 seconds (invulnerable).
+---
+[TAGS: Ability, Illusion, Damage] | Wall of Replica Illusion Damage: Boosts the damage output of illusions created by Wall of Replica, making them more threatening in combat.
+---
+[TAGS: STRATEGY, Phantom Lancer, ITEM_BUILD, SITUATIONAL] | Phantom Lancer Situational: Buy BKB vs heavy disables, Heart of Tarrasque vs burst damage, or Nullifier vs enemy saves (e.g., Glimmer Cape, Force Staff). Consider Aghanim's Scepter for extra mobility and illusion generation.
+---
+[TAGS: MIRANA, SITUATIONAL, FROM_BEHIND] | Situation: Playing from Behind. When your team is losing, shift to a split-pushing and pick-off role. Use Moonlight Shadow defensively to avoid fights and create space. Farm with Starstorm and Maelstrom to clear waves safely. Look for long-range Sacred Arrows on enemies who are out of position to secure comeback kills.
+---
+[TAGS: ANTI-MAGE, SITUATIONAL] | When playing from behind, focus on split-pushing with Blink and Manta illusions. Avoid fights. Use Blink to escape ganks. Farm the enemy jungle if your own is unsafe. Your goal is to reach critical items (Manta, Basher) to become relevant.
+---
+[TAGS: PHANTOM_LANCER, LANING_PHASE] | In the laning phase, use Spirit Lance (10/9/8/7 sec cooldown, 100/160/220/280 magic damage, 3.75s slow) for safe harassment and last hitting. Its 675 range and 1000 speed make it reliable. Early points in Phantom Rush (15/11/7/3 sec cooldown, 20/30/40/50% evasion) provide trading power and chase potential. Use Doppelganger (22/18/14/10 sec cooldown) to disjoint enemy projectiles and dispel debuffs. Focus on farming your core items with your good base damage.
+
+=== GAME STATE ===
+Match Time: 00:00 | State: 
+Hero: faceless_void (Lvl 25) | HP: 2400/2400 | Mana: 1000/1000 | Alive: true
+Stats: K/D/A 0/0/0 | Gold: 0 | LastHits: 0
+Inventory: [item_mask_of_madness (CD), item_monkey_king_bar (CD), item_black_king_bar (CD), item_power_treads (CD)]
+Abilities: []
+User Situation Notes: Лейт гейм против Phantom Lancer. Как только он подходит, появляется миллион иллюзий, и у меня сгорает вся мана. Я не могу найти настоящего, чтобы поставить купол.
+
+=== USER QUESTION ===
+"Меня сжирают иллюзии Лансера. Чем мне их быстро убивать?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Меня сжирают иллюзии Лансера. Чем мне их быстро убивать?".**
+========================================
+
+[AI RESPONSE] (2.55s)
+Купи Dagon 2. Он моментально убьет иллюзии Лансера, освободив твою ману для других способностей. Это позволит тебе быстрее находить и фокусить настоящего Phantom Lancer.

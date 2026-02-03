@@ -1,0 +1,13 @@
+[
+  {
+    "display_text": "River Vial: Potion, Cost: 0: Non-purchasable cosmetic item that changes the color of a river for 900 seconds (15 minutes). Provides no gameplay advantage, only visual effects. Stats: Duration: 900s.",
+    "search_text": "river painter, river vial, cosmetic item, visual effect, river color, river change, no stats, River Vial: Potion",
+    "tags": [
+      "ITEM_DATA",
+      "RIVER_VIAL_POTION",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "COSMETIC"
+    ]
+  }
+]

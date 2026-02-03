@@ -1,0 +1,178 @@
+[
+  {
+    "display_text": "Legion Commander is a melee strength hero with a high strength base of 24 and an attack rate of 1.7. Her starting armor is 3.2, which is above average for a melee carry. Her attack range is 150, typical for melee. Her base movement speed is 325. Her starting attributes are well-rounded but skewed towards strength, making her durable from level 1 with decent base damage (60-64).",
+    "search_text": "Legion Commander base stats melee strength 24 str 18 agi 20 int 150 attack range 3.2 armor 325 move speed 1.7 BAT",
+    "tags": [
+      "LEGION_COMMANDER",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "The Stonehall Plate facet provides a barrier based on Overwhelming Odds damage dealt to enemy heroes, making Legion Commander significantly tankier in fights where she can hit multiple heroes. This facet is best for a front-line, initiator, or offlane build. The Spoils of War facet grants all allies who damage a Dueled target permanent bonus damage if she wins, and auto-casts Press the Attack on Legion Commander and allies after a win. This facet is best for a more supportive or utility-based role, encouraging team coordination and rewarding assists, effectively turning your team into a snowballing force.",
+    "search_text": "Legion Commander facet choice Stonehall Plate Overwhelming Odds damage barrier Spoils of War Duel reward assists bonus damage Press the Attack",
+    "tags": [
+      "LEGION_COMMANDER",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, prioritize Press the Attack for dispels, sustain (24-60 HP regen), and bonus movement speed (13-22%). Use it to remove disables from yourself or your lane partner. Overwhelming Odds at level 1 or 2 is strong for trading and securing ranged creeps, dealing 40 base damage plus 14 per unit in a 600 radius. Use Moment of Courage for survivability against harassment. Focus on last hitting and using Overwhelming Odds to harass and secure denies due to its high damage against creeps. Boots and Wand are essential early items.",
+    "search_text": "Legion Commander laning phase early game Press the Attack dispel heal Overwhelming Odds harass creep secure Moment of Courage lifesteal",
+    "tags": [
+      "LEGION_COMMANDER",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a major spike with Duel, allowing for kill attempts with a +10 damage reward. Level 12 (maxed skills) and level 18 (max Duel duration at 5.0s) are significant. Talents at 10, 15, 20, and 25 offer power boosts. Key item spikes are Blink Dagger for initiation, Blade Mail for Duel survivability/damage, and Black King Bar. Aghanim's Shard can be a spike, providing bonus effects. Winning Duels is the ultimate scaling mechanic, with permanent +10/20/30 damage per win.",
+    "search_text": "Legion Commander power spikes level 6 Duel level 12 max skills level 18 Blink Dagger Blade Mail BKB Aghanim's Shard talent permanent damage",
+    "tags": [
+      "LEGION_COMMANDER",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Break effects (Silver Edge, Hoodwink) disable Moment of Courage and Outfight Them!, removing her lifesteal and sustain. Heroes with instant disables or saves (Shadow Demon, Oracle, Dazzle) can prevent Duel kills or save the target. High burst magic damage (Lina, Lion) can kill Legion Commander during Duel. Illusion or summon heroes (Phantom Lancer, Chaos Knight) can make targeting difficult and reduce Overwhelming Odds effectiveness. Kiting heroes with high mobility (Windranger, Puck) can avoid Duel initiation.",
+    "search_text": "Legion Commander counters break Silver Edge Moment of Courage Outfight Them! disable save Shadow Demon Oracle burst magic Lina Lion illusions Phantom Lancer kiting",
+    "tags": [
+      "LEGION_COMMANDER",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Blink Dagger is absolutely essential for initiation and landing Duel on key targets. Blade Mail is core for surviving and reflecting damage during Duel, especially against physical damage dealers. Black King Bar is critical in most games to ensure you can cast Duel without being disabled by magic spells and to survive the duel duration.",
+    "search_text": "Legion Commander core build Blink Dagger initiation Blade Mail damage reflect Duel Black King Bar BKB magic immunity",
+    "tags": [
+      "LEGION_COMMANDER",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Legion Commander's primary role is to initiate with Blink Dagger and Duel a high-priority, squishy core or support to lock them down and secure a kill for permanent damage. Use Overwhelming Odds for AoE damage and attack speed. Use Press the Attack to dispel key disables (like stuns or silences) on yourself or crucial allies. After winning a Duel, she becomes a significant right-click threat that must be focused or kited.",
+    "search_text": "Legion Commander teamfight role initiator Duel priority target lock down Overwhelming Odds AoE Press the Attack dispel save",
+    "tags": [
+      "LEGION_COMMANDER",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Overwhelming Odds: Deals 40/70/100/130 base damage plus 14/16/18/20 damage per unit in a 600 radius. Deals 40/70/100/130 extra damage per enemy hero in the area. Grants Legion Commander 50/75/100/125 bonus attack speed for 6.0 seconds. Cooldown is 18 seconds. Can be cast during Duel. The Stonehall Plate facet grants a damage barrier based on damage dealt to heroes.",
+    "search_text": "Overwhelming Odds Q ability AoE damage 40 70 100 130 per unit 14 16 18 20 per hero bonus attack speed 50 75 100 125 duration 6s cooldown 18 cast during Duel",
+    "tags": [
+      "LEGION_COMMANDER",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Press the Attack: Strongly dispels debuffs and disables from a target ally. Grants them 24/36/48/60 health regeneration and 13/16/19/22% bonus movement speed for 5.0 seconds. Level 25 talent can grant 1.5 seconds of Debuff Immunity and 50% Magic Resistance. Level 20 talent can make it affect a 300 AoE.",
+    "search_text": "Press the Attack W ability strong dispel remove stun heal 24 36 48 60 HP regen move speed 13 16 19 22% duration 5.0s",
+    "tags": [
+      "LEGION_COMMANDER",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Moment of Courage: Passive ability. When attacked, Legion Commander has a 25% chance to perform an instant counter-attack with 55/65/75/85% lifesteal. The counter-attack buff lasts 1.0 second. Level 15 talent increases proc chance by +8%. Level 20 talent increases lifesteal by +75%.",
+    "search_text": "Moment of Courage E passive counter attack 25% chance lifesteal 55 65 75 85% duration 1.0s proc chance lifesteal talent",
+    "tags": [
+      "LEGION_COMMANDER",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Outfight Them!: Passive ability. Attacking an enemy hero that is equal or higher level increases your Health Restoration (from all sources) by 30/40/50/60% for 4.0 seconds. This amplifies lifesteal, Press the Attack regen, and healing items.",
+    "search_text": "Outfight Them! passive level comparison heal amp 30 40 50 60% health restoration duration 4.0s",
+    "tags": [
+      "LEGION_COMMANDER",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Duel: Targets an enemy hero within 200 range, forcing both to attack each other for 4.0/4.5/5.0 seconds. Neither can use items or abilities (except Legion's Overwhelming Odds). If either hero dies during Duel, the winner gains 10/20/30 permanent bonus damage. Cooldown is 60/55/50 seconds. The Spoils of War facet grants allies who damage the Dueled target permanent damage if she wins, and auto-casts Press the Attack.",
+    "search_text": "Duel R ultimate forced attack 4.0 4.5 5.0 sec duration 10 20 30 permanent damage reward cooldown 60 55 50 Overwhelming Odds allowed",
+    "tags": [
+      "LEGION_COMMANDER",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Scenario: Facing a heavy magic damage lineup (Zeus, Lina). In this case, prioritize an early Black King Bar after Blink Dagger to survive Duel initiation. Consider a Pipe of Insight if your team needs it. Talent choice at level 25 for Press the Attack granting Debuff Immunity and Magic Resistance becomes very high value.",
+    "search_text": "Legion Commander vs magic damage lineup BKB Pipe of Insight talent 25 Press the Attack debuff immunity magic resist",
+    "tags": [
+      "LEGION_COMMANDER",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind and losing Duels. Shift focus to utility. Build items like Blade Mail, Heaven's Halberd, or Assault Cuirass to help your team. Use Duel defensively to lock down the enemy's primary carry during their BKB timing, even if you don't win the duel. The Spoils of War facet can be better here to reward allies for helping you secure Duel wins.",
+    "search_text": "Legion Commander playing from behind utility Blade Mail Halberd AC defensive Duel Spoils of War facet",
+    "tags": [
+      "LEGION_COMMANDER",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy team has strong save heroes (Dazzle, Oracle). Wait for them to use their save abilities (Shallow Grave, False Promise) before committing Duel. Consider a Nullifier to dispel saves, or coordinate with an ally who has a silence or hex to lock the save hero down first.",
+    "search_text": "Legion Commander vs save heroes Dazzle Oracle wait for cooldowns Nullifier dispel coordination silence hex",
+    "tags": [
+      "LEGION_COMMANDER",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against illusion heroes (Phantom Lancer, Chaos Knight). Overwhelming Odds is excellent for clearing illusions and revealing the real hero. Consider a Battle Fury for cleave and farm acceleration. Shard can be valuable. Focus on Dueling the real hero after identifying them.",
+    "search_text": "Legion Commander vs illusions Phantom Lancer Chaos Knight Overwhelming Odds clear Battle Fury cleave shard identify real hero",
+    "tags": [
+      "LEGION_COMMANDER",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your team lacks initiation. In this case, Legion Commander with Blink Dagger is the primary initiator. Communicate with your team to follow up on your Duel. Consider a Faceless Void or Enigma on your team for wombo-combo potential. Your job is to start the fight cleanly.",
+    "search_text": "Legion Commander primary initiator Blink Dagger team communication follow up Duel wombo combo",
+    "tags": [
+      "LEGION_COMMANDER",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "At Level 10, choose between -2s Overwhelming Odds Cooldown or +12% Press The Attack Movement Speed. The cooldown reduction on Overwhelming Odds is better for farming, wave clear, and frequent skirmishes. The movement speed bonus on Press The Attack is better for chasing, escaping, and supporting allies in fights, especially if you are behind and need utility.",
+    "search_text": "Legion Commander Talent Level 10 -2s Overwhelming Odds Cooldown +12% Press The Attack Movement Speed farming skirmish chase utility",
+    "tags": [
+      "LEGION_COMMANDER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At Level 15, choose between +40 Press The Attack HP Regen or +35 Overwhelming Odds Damage per Hero. The +40 HP Regen massively increases the survivability granted by Press the Attack for you or an ally, making it a powerful save and sustain tool. The +35 Damage per Hero on Overwhelming Odds significantly increases its burst damage in teamfights, especially when paired with the Stonehall Plate facet for a bigger barrier. Choose based on needing more sustain vs more damage.",
+    "search_text": "Legion Commander Talent Level 15 +40 Press The Attack HP Regen +35 Overwhelming Odds Damage per Hero sustain save burst damage barrier",
+    "tags": [
+      "LEGION_COMMANDER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At Level 20, choose between 300 AoE Press The Attack or +8% Moment of Courage Proc Chance. The 300 AoE Press The Attack is a game-changing teamfight talent, allowing you to dispel and heal multiple allies at once, countering large AoE disables. The +8% Proc Chance on Moment of Courage increases your lifesteal and survivability in man-fights, making you much harder to kill through right-clicks. Choose between team utility/playmaking or personal survivability/dueling power.",
+    "search_text": "Legion Commander Talent Level 20 300 AoE Press The Attack +8% Moment of Courage Proc Chance team dispel heal AoE lifesteal survivability duel",
+    "tags": [
+      "LEGION_COMMANDER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At Level 25, choose between +75% Moment of Courage Lifesteal or Press the Attack grants 1.5s Debuff Immunity and 50% Magic Resistance. The +75% Lifesteal makes your Moment of Courage heal for a massive amount (up to 160% total), turning you into an unkillable sustain monster in physical fights. The Press the Attack upgrade provides a short but powerful defensive buff (immunity to new debuffs and magic resistance) for you or an ally, which can be critical against chain disables and magic burst. Choose based on needing to man-fight versus needing to survive initiation and magic damage.",
+    "search_text": "Legion Commander Talent Level 25 +75% Moment of Courage Lifesteal Press the Attack 1.5s Debuff Immunity 50% Magic Resistance sustain tank dispel immunity magic resist",
+    "tags": [
+      "LEGION_COMMANDER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

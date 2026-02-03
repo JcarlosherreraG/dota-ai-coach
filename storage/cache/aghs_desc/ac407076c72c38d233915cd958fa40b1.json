@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Void Spirit Aghanim's Scepter: Resonant Pulse silences enemies and gains 2 charges. This anti-magic upgrade counters spellcasters and teamfight disruptors by silencing key abilities, allowing Void Spirit to control engagements and interrupt enemy combos.",
+    "search_text": "Void Spirit Aghanim Scepter anti-magic counter-spellcasters silence Resonant Pulse",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Void Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Void Spirit Aghanim's Shard: Aether Remnant creates a rotating watcher path, provides True Sight, and deals damage to creeps instead of triggering on them. This anti-illusion and anti-invisibility upgrade transforms Void Spirit into a vision and crowd-control specialist, countering stealth heroes and clearing creep waves more efficiently.",
+    "search_text": "Void Spirit Aghanim Shard anti-illusion anti-invisibility True Sight Aether Remnant",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Void Spirit",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Enchanted Quiver, Tier 0: Non-purchasable item providing a Certain Strike passive ability. Empowers your next attack after 4 seconds of inactivity to deal +250 magical damage and never miss (True Strike). Grants ranged attackers +350 bonus range for the empowered attack. Ideal for heroes who weave in and out of combat to maximize bonus damage. Stats: CD: 4s (internal), Bonus Damage: 250 magical, Bonus Range (Ranged): 350.",
+    "search_text": "enchanted quiver, neutral item, certain strike, true strike neutral, passive damage, magical damage proc, bonus range attack, ranged attack bonus, out of combat damage, attack modifier neutral, empowered attack, Truestrike neutral, neutral item damage, Enchanted Quiver",
+    "tags": [
+      "ITEM_DATA",
+      "ENCHANTED_QUIVER",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_0",
+      "TRUE_STRIKE",
+      "VS_EVASION",
+      "MAGICAL_DAMAGE",
+      "ATTACK_MODIFIER",
+      "RANGE_BOOST",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Timeless Relic, Cost: 0 / Tier: Neutral: Provides Spell Amplification (10/20%) and Debuff Duration (10/15%) increase. A purely utility item that enhances outgoing spell power and crowd control duration, making it valuable for caster heroes reliant on magical damage and disables. No active abilities or cost. Stats: Spell Amp: 10/20%, Debuff Amp: 10/15%.",
+    "search_text": "spell amp item, debuff duration item, utility neutral, neutral item utility, magic damage amp, spell amplification, increase debuff duration, disable duration, spell power, neutral utility, Timeless Relic",
+    "tags": [
+      "ITEM_DATA",
+      "TIMELESS_RELIC",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "UTILITY",
+      "SPELL_AMPLIFICATION",
+      "DEBUFF",
+      "DAMAGE"
+    ]
+  }
+]

@@ -1,0 +1,260 @@
+FILE: support.json
+QUESTION: Рики меня постоянно вырезает. Что мне купить, чтобы выживать и видеть его?
+GENERATION TIME: 3.37s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: Ability, Stat, Survivability] | Status Resistance: Enhances survivability by reducing the duration of debuffs. Stats: Status Resistance: 15%/20%/25%
+---
+[TAGS: RIKI, HARD_COUNTERS] | Riki is hard countered by heroes and items that provide True Sight or break his invisibility, such as Slardar, Bounty Hunter, and Sentry Wards. Heroes with area-of-effect damage and disables like Leshrac or Earthshaker can reveal and control him. Items like Ghost Scepter or Ethereal Blade make him unable to attack. Break effects from Silver Edge or Hoodwink's Bushwhack disable his Backstab and Cloak and Dagger passives, removing his damage and invisibility.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, VISION, CONSUMABLE] | Observer and Sentry Wards CORE_MECHANICS: A consumable that carries both ward types. Allows placing either an Observer Ward for vision or a Sentry Ward for True Sight. Stats: Cost: 50 gold. Observer Ward: Cost to Plant: 75 gold, Cast Range: 500, Lifetime: 360 seconds, Vision Range: 1600. Sentry Ward: Cost to Plant: 100 gold, Cast Range: 500, Lifetime: 420 seconds, True Sight Range: 1050.
+---
+[TAGS: ITEM_DATA, GEM_OF_TRUE_SIGHT, SYNERGY_BUILD, FULL_ITEM, SUPPORT_ITEM, INITIATOR_ITEM, TIMING, OBJECTIVE_CONTROL] | Gem of True Sight, Cost: 900: Situational purchase for team leaders or initiators who can survive fights and control vision. Ideal timing is during mid-late game when teams group for objectives like Roshan or high ground. Crucial for securing vision dominance and pressuring enemy wards around key objectives. Stats: N/A.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, VISION_PENALTY] | Whisper of the Dread HARD_COUNTERS: The vision reduction is the item's own inherent counter. It is hard-countered by enemy heroes who can leverage superior vision (like Night Stalker at night, or heroes with flying vision) or high mobility to initiate from outside the carrier's reduced sight range. Items that grant vision (e.g., wards, gem) or mobility help mitigate the drawback for the carrier's team.
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: ITEM_DATA, DUST_OF_APPEARANCE, EARLY_GAME_USAGE, CONSUMABLE, SUPPORT_ITEM, LANING, VS_INVIS, DEFENSIVE] | Dust of Appearance, Cost: 80: Critical early-game item for laning supports to provide security against roaming invisible heroes like Riki or Bounty Hunter. Carrying Dust deters ganks and allows you to secure kills on low-health invisible targets trying to escape. Its low cost makes it a staple for vision control in the first 10-15 minutes.
+---
+[TAGS: Ability, Defensive, Status Resistance] | Status Resistance Bonus: Reduces the duration of negative status effects. Stats: Status Resistance: 10%
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, VS_INVIS] | Sentry Ward CONSUMABLE Cost: 50 gold: Places a Sentry Ward, an invisible watcher that grants True Sight in a 1050 radius around any existing allied vision. Does not grant ground vision. Essential for de-warding and countering invisible heroes. Can be shared with an allied hero by holding the Control key. Stats: True Sight Radius: 1050, Duration: 7 minutes (420 seconds), Health: 200, Cooldown: 1s.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_VISION, MAP_CONTROL, UTILITY] | Smoke of Deceit SITUATIONAL_VS_VISION: Directly counters enemy vision and map control. It allows teams to move through areas likely warded, devalue enemy sentry wards, and execute ganks or Roshan attempts without being seen by Observer Wards or hero abilities that grant vision. Stats: True Sight Immune Invisibility, Break Radius: 1025.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, NEUTRAL, VS_MAGIC, SPELL_DAMAGE, VISION_DEBUFF] | Whisper of the Dread Neutral Tier 3 Item: Equips a hero with a significant trade-off: it reduces their daytime vision range by 15% but increases their Spell Damage by 10%. This is a specialized tool for spellcasters willing to sacrifice map awareness for increased burst damage output, effective during daylight hours. Stats: Daytime Vision Penalty: 15%, Spell Damage Increase: 10%, Mana: +0.
+---
+[TAGS: ITEM_DATA, GEM_OF_TRUE_SIGHT, STAT_PROFILE, FULL_ITEM, UTILITY, VISION] | Gem of True Sight, Cost: 900: Does not provide any bonus attributes or stats. The value lies entirely in its powerful detection utility, making it a slot-efficient vision tool for supports or initiators when detection is the primary need. Stats: No bonus stats.
+---
+[TAGS: ITEM_DATA, ESSENCE_RING, CORE_DESCRIPTION, NEUTRAL, TIER_2, SURVIVAL, DEFENSIVE, HEALTH, ACTIVE, BURST_HEAL] | Essence Ring, Tier 2: Neutral item that instantly increases your current and maximum health by 240 for 10 seconds upon activation. This burst of survivability provides a temporary health buffer for clutch moments in skirmishes or to survive burst damage. Its substantial mana cost requires careful mana management. Stats: CD: 25s, Mana: 160, Duration: 10s, Health Gain: 240.
+---
+[TAGS: ITEM_DATA, FORTITUDE_RING, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SAVE, HEALTH, REGEN, SURVIVAL] | Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.
+---
+[TAGS: ITEM_DATA, DESOLATOR, CORE_MECHANICS, FULL_ITEM, DEBUFF, PHYSICAL_DAMAGE, DAMAGE, UPGRADE, CARRY_ITEM] | Desolator, Cost: 3500: Attacks apply Corruption, reducing the target's armor by -6 for 7 seconds. This effect is dispellable and works on buildings. The Soul Stealer passive grants +2 damage (or +1 for assists) each time an enemy hero dies while affected by Corruption, stacking up to +30 bonus damage. A powerful offensive item that amplifies physical damage output for the wielder and their team. Stats: Cost: 3500, Armor Reduction: -6, Duration: 7s, Max Bonus Damage: +30.
+---
+[TAGS: ITEM_DATA, ASCETIC'S_CAP, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SURVIVAL, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, VS_SLOW] | Ascetic's Cap, Cost: 0: Neutral item. Provides a passive effect that grants 40% Status resistance and 40% Slow Resistance for 3 seconds whenever a debuff would be applied to the owner. This makes the user temporarily more resilient to stuns, slows, and other negative effects. Stats: Status Resistance: 40%, Slow Resistance: 40%, Duration: 3s.
+---
+[TAGS: Ursa, Abilities, Survivability] | Ursa Enrage: Grants massive survivability and debuff resistance, making Ursa harder to kill. Stats: Damage Reduction: 80%, Status Resistance: 50%, Duration: 4/4.5/5
+---
+[TAGS: ITEM_DATA, WARD_SENTRY, SITUATIONAL_USAGE, CONSUMABLE, VS_INVIS, VISION, DETECTION, SITUATIONAL_VS_INVIS] | Cost: 50: Key situational item against invisible heroes (Riki, Bounty Hunter) and for objective control (dewarding Roshan pit). Critical for high-ground siege to clear enemy vision and for protecting key areas. Can be shared with an ally. Stats: Lifetime: 7 min (420s), True Sight Range: 1050.
+---
+[TAGS: RIKI, SITUATIONAL, UTILITY] | Scenario: Playing Against Invisible or Mobile Heroes. Against heroes like Bounty Hunter, Nyx, or Puck, your goal is to control and reveal them. Carry Sentry Wards and Dust yourself. Build a Silver Edge for break against passive-based heroes and for its own invisibility. Your Smoke Screen is excellent against mobile heroes as it silences, preventing their escape abilities. Coordinate with your team to place detection and pick them off.
+---
+[TAGS: RIKI, ABILITY_DATA, SILENCE] | Smoke Screen (Q). Throws down a smoke bomb in a 425 radius, silencing enemies and causing their attacks to miss for 6 seconds. The miss chance is 30%/45%/60%/75%. Cooldown is 17/15/13/11 seconds. Can be cast during Tricks of the Trade. Does not prevent the use of active items. Does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SUPPORT] | Observer and Sentry Wards CORE_BUILD: A basic purchase, not built from other items. Carries two separate consumable wards. Can give a ward to an ally using Control. Stats: Components: ward_sentry, ward_observer.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, COUNTERED_BY_DETECTION] | Shadow Amulet HARD_COUNTERS: Countered by detection (Sentry Wards, Dust of Appearance, Gem of True Sight) and any ability that reveals invisibility. The slow fade makes the user vulnerable to instant disables or burst damage. Stats: Dispellable: Yes.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, UPGRADE] | Wind Waker CORE_BUILD: Upgrades from Eul's Scepter of Divinity and Mystic Staff. Provides a significant upgrade to Eul's active, extending the cyclone duration and allowing it to be cast on allies. Synergizes with heroes who benefit from high intelligence, mana regeneration, and a powerful save. Stats: Components: Eul's Scepter of Divinity, Mystic Staff.
+---
+[TAGS: STRATEGY, Riki, TEAMFIGHT] | Riki Teamfight: Riki’s job is to assassinate key backline supports or carries with Blink Strike and Tricks of the Trade, while using Smoke Screen to disrupt enemy positioning.
+---
+[TAGS: ITEM_DATA, WARD_SENTRY, CORE_MECHANICS, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, VS_INVIS] | Cost: 50: Sentry Ward, a consumable detection tool. Provides True Sight within 1050 radius around allied vision, revealing invisible units, wards, and mines. It does not grant ground vision itself. Lasts 7 minutes and can be planted by holding Control to give one to an allied hero. Stats: Lifetime: 7 min (420s), True Sight Range: 1050, CD: 1s, Charges: 1, Health: 200.
+---
+[TAGS: ITEM_DATA, GHOST_SCEPTER, STAT_PROFILE, FULL_ITEM, ALL_ATTRIBUTES, STATS] | Ghost Scepter, Cost: 1500: Provides +5 to all attributes (Strength, Agility, Intelligence). The primary value is the active ability; the stats offer minor survivability and utility.
+---
+[TAGS: ITEM_DATA, AETHERIAL_HALO, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, VS_MAGIC, SURVIVAL, SUSTAIN, CONTROL, VS_MOBILITY] | Cost: 5900: Highly effective against magic-resistant enemies and physical burst due to the raw attribute bulk and spell lifesteal sustain. The active burn damage over time and slow helps control mobile heroes and prevent disengages.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: Ability, No Target, Survivability] | Unfettered: Temporarily increases resistance to spells and status effects, enhancing survivability. Stats: Duration: 4/5/6/7, Magic Resistance: 60%, Status Resistance: 60%.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Elusive HARD_COUNTERS: The evasion is countered by items and abilities providing True Strike (e.g., Monkey King Bar, Bloodthorn, certain hero spells), which completely negate its defensive benefit.
+---
+[TAGS: RIKI, TEAMFIGHT_ROLE] | In teamfights, Riki's role is to pick off key backline supports and spellcasters. He should initiate with Smoke Screen on high-value targets to silence them and cause their attacks to miss. Use Tricks of the Trade to become invulnerable while dealing damage in an area, or to dodge major enemy spells. His job is to create chaos in the enemy backline, force the purchase of detection, and secure kills on fleeing heroes with Blink Strike.
+---
+[TAGS: ITEM_DATA, GEM_OF_TRUE_SIGHT, CORE_MECHANICS, FULL_ITEM, VISION, DETECTION, TRUE_SIGHT, VS_INVIS, SUPPORT_ITEM, HIGH_RISK] | Gem of True Sight, Cost: 900: Permanent item that grants the carrier True Sight, revealing invisible units and wards to all allied vision within a 900 radius. Its active ability reveals a 300 radius area for 4 seconds, even through fog of war. Dropped on death but cannot be destroyed, making its retrieval a key objective. Stats: CD: 12s, Passive Radius: 900, Active Radius: 300, Duration: 4s.
+---
+[TAGS: ITEM_DATA, GEM_OF_TRUE_SIGHT, SITUATIONAL_VS_INVIS, FULL_ITEM, VS_INVIS, COUNTER_PICK, HIGH_RISK] | Gem of True Sight, Cost: 900: Counter-pick item against heavy invisibility lineups (Riki, Clinkz, Bounty Hunter). The permanent detection shuts down enemy escape and initiation. Prioritize purchase after winning a team fight or gaining a significant lead to minimize the risk of dropping it. Stats: N/A.
+---
+[TAGS: ITEM_DATA, UNRELENTING_EYE, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, SLOW_RESISTANCE, STATUS_RESISTANCE, DEFENSIVE, SURVIVAL] | Unrelenting Eye, Tier 3 Neutral: Provides the Relentless passive, granting 50% slow resistance. This resistance decreases by 10% for each enemy hero within your attack range. A situational defensive tool that is most effective when you are isolated or separated from enemies. Stats: Max Slow Resistance: 50%, Reduction per Enemy Hero: 10%.
+---
+[TAGS: ITEM_DATA, SEER_STONE, CORE_DESCRIPTION, NEUTRAL, VISION, DETECTION, UTILITY, SCOUTING, CAST_RANGE, MANA_REGEN] | Seer Stone, Tier Neutral: Neutral item that reveals an 800 radius target area for 6 seconds, providing 350 bonus cast range and vision, plus 10 mana regeneration. Provides strategic vision for checking high ground, Roshan pit, or juke spots without committing. Stats: CD: 60s, Duration: 6s, Radius: 800, Vision Bonus: +350, Cast Range Bonus: +350, Mana Regen: +10.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, STAT_PROFILE, FULL_ITEM, HEALTH, DAMAGE, STRENGTH, SURVIVAL] | Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.
+---
+[TAGS: RIKI, TALENT_LEVEL_DATA, TALENT_10] | Level 10 Talents: Left Talent is +50 Smoke Screen Radius. Right Talent is +10% Cloak and Dagger Movement Speed. Choose +50 Smoke Screen Radius if you are fighting often, as it makes your silence and miss chance easier to land on multiple enemies. Choose +10% Cloak and Dagger Movement Speed if you are focused on map movement, ganking, or farming, as it increases your travel speed while invisible.
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, INTELLIGENCE] | Refresher Orb CORE_BUILD / SYNERGIES: Builds from Ring of Tarrasque and Tiara of Selemene, providing raw HP and mana regen. Synergizes with high-impact ultimate abilities and active items. A core luxury item for intelligence or utility cores after key items like BKB, Scythe of Vyse, or Aghanim's Scepter. Stats: Components: Ring of Tarrasque, Tiara of Selemene.
+---
+[TAGS: ITEM_DATA, HOOD_OF_DEFIANCE, STAT_PROFILE, FULL_ITEM, MAGIC_RESISTANCE, REGEN, SUSTAIN, HEALTH] | Cost: 0: Hood of Defiance provides +18% Magic Resistance and +8.5 Health Regeneration. It offers no other attribute bonuses, focusing purely on enhancing survivability against magic damage and providing lane or jungle sustain through significant passive HP regeneration. Stats: Magic Resist: +18%, HP Regen: +8.5.
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: ITEM_DATA, RECIPE_BLACK_KING_BAR, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Black King Bar Recipe. Cost: 1450: Component required to assemble Black King Bar. Does not provide stats or abilities.
+---
+[TAGS: ITEM_DATA, VITALITY_BOOSTER, STAT_PROFILE, FULL_ITEM, HEALTH, SURVIVAL, COMPONENT, SECRET_SHOP] | Vitality Booster, Cost: 1000: Purchasable from the Secret Shop. Provides a flat +250 maximum Health, offering raw survivability with no active abilities. A core component for many late-game health-focused items like Heart of Tarrasque. Stats: Health Bonus: +250.
+---
+[TAGS: ITEM_DATA, DUST_OF_APPEARANCE, SITUATIONAL_USAGE, CONSUMABLE, VS_INVIS, VISION, SITUATIONAL_VS_INVIS, UTILITY] | Dust of Appearance, Cost: 80: Use proactively before entering high-ground or Roshan pit to reveal sentry wards or invisible heroes. The area slow makes it effective for chasing down elusive invisibility-based heroes. Always carry at least one charge during team fights or when pushing against heroes with escape or initiation via invisibility.
+---
+[TAGS: RIKI, BASE_STATS] | Riki is a Melee Agility hero with starting stats of 18 Strength, 30 Agility, and 14 Intelligence. His high base Agility of 30 gives him 5.4 bonus armor, excellent attack damage, and decent health. His attack rate is 1.7 seconds per attack, which is slightly slower than average. His primary attribute gain and melee nature define his core playstyle as a physical damage dealer and assassin.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, VS_DETECTION] | Ninja Gear HARD_COUNTERS: Countered by detection (Sentry Ward, Dust, Gem, True Sight abilities) which reveals the user. Invisibility is also broken by proximity to enemy heroes or towers, making it unreliable for direct engagement through vision. Stats: No magic resistance or health stats.
+---
+[TAGS: ITEM_DATA, NULLIFIER, CORE_MECHANICS, FULL_ITEM, DISPEL, CLEANSE, DEBUFF, SLOW, CATCH, UTILITY] | Nullifier, Cost: 4375: Continuously dispels a single target enemy, applying a debuff for 4 seconds that re-applies dispels every 0.5 seconds and slows them by 10%. Its projectile can be cast on invulnerable units, making it a powerful catch and purge tool against buff-reliant heroes. Stats: CD: 10s, Slow: 10%, Debuff Duration: 4s.
+---
+[TAGS: Slark, ABILITY_DATA, DEPTH_SHROUD, INVISIBILITY, AREA_OF_EFFECT] | Depth Shroud (Shard): Slark creates a cloud at a target location for 2 seconds with a 225 radius. All allies inside are hidden and gain the passive bonuses of Shadow Dance (bonus movement speed and health regeneration).
+---
+[TAGS: BEASTMASTER, SITUATIONAL, VS_MAGIC_BURST] | Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, VS_INVIS] | Crucial for establishing early game vision control. Used to de-ward enemy Observer Wards to protect your lane and deny enemy information. Also provides insurance against ganks from invisible supports like Bounty Hunter or heroes using Shadow Amulet. Stats: Cost: 50 gold, True Sight Radius: 1050.
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+---
+[TAGS: JAKIRO, ABILITY_DATA, MACROPYRE, ULTIMATE, AREA_DAMAGE, NUKER] | Macropyre is Jakiro's ultimate. He exhales a line of fire 1400 units long and 500 units wide that lasts 10 seconds. It deals 100/150/200 magic damage per second to enemies in the area. Enemies continue to burn for 1 second after leaving the area. Cooldown is not specified in the raw data. Does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, SUPPORT] | Sentry Ward CORE_BUILD / SYNERGIES: Purchased alongside Observer Wards for complete vision coverage. Can be shared with an ally using the Control key. Synergy: High-ground vision from Observer Wards allows Sentry Wards to deward a larger area with their true sight. Stats: Can be given to allies.
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: Ability, Passive, Resistance] | Insurmountable: Grants Tiny resistance to slows and status effects based on Strength. Stats: Strength to Slow Resistance: 20%, Strength to Status Resistance: 10%.
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, VS_INVIS] | Key for high-ground siege and Roshan pit control, providing True Sight to spot enemy sentries and invisible units. Essential when playing against heroes reliant on invisibility (e.g., Riki, Clinkz) or items (Shadow Blade, Glimmer Cape). Carry one to de-ward key farming areas and secure objectives. Stats: True Sight Radius: 1050, Duration: 7 minutes.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: WEAVER, ABILITY_DATA, GEMINATE_ATTACK] | Geminate Attack (E). Passive. Weaver dispatches an extra attack 0.25 seconds after his primary attack. The geminated attack deals an additional 20/35/50/65 bonus damage. Has no range limit.
+---
+[TAGS: ITEM_DATA, DUST_OF_APPEARANCE, CORE_MECHANICS, CONSUMABLE, DETECTION, TRUE_SIGHT, VS_INVIS, VISION, SLOW, DEBUFF] | Dust of Appearance, Cost: 80: Consumable item that creates a large area (1050 radius) for 12 seconds, granting True Sight and applying a -20% movement slow to revealed invisible enemy units. The slow debuff persists for 8 seconds after leaving the area, and revealed units take 25 damage. Essential tool for countering invisibility ganks and controlling vision during engagements. Stats: CD: 30s, Duration: 12s, Slow: -20%, Damage: 25, Radius: 1050, Linger Duration: 8s.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, ACTIVE, SUSTAIN, DAMAGE_OVER_TIME] | Urn of Shadows CORE_MECHANICS: Active ability Soul Release targets a single hero, providing 30 health regeneration per second to allies or 25 damage per second to enemies for 8 seconds. The item gains 1 charge when an enemy hero dies within 1500 units of the user, and empty urns start with 2 charges. The healing effect on an ally is removed if they are attacked by an enemy hero or Roshan. Stats: Cost: 825 gold, +1.25 Mana Regeneration, +2 Armor, +2 All Attributes, Heal per Second: 30, Damage per Second: 25, Duration: 8.0s, Cooldown: 10s, Charge Gain Radius: 1500, Initial Charges: 2, Additional Charges per Kill: 1.
+---
+[TAGS: ITEM_DATA, SANGE_AND_YASHA, SITUATIONAL_VS_CONTROL, FULL_ITEM, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, SURVIVABILITY, DEFENSIVE] | Cost: 4200: Excellent against teams with multiple disables and slows. The status resistance reduces stun and silence durations, while the slow resistance reduces the impact of movement impairing effects. The health regen amplification synergizes with other sources of regen and lifesteal. Stats: Status Resistance: +15%, Slow Resistance: +25%, Health Regen Amp: +20%.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, CORE_ITEM] | Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.
+---
+[TAGS: AGHS_STRATEGY, Riki, COUNTER_MECHANIC, SHARD] | Riki Aghanim's Shard: Smoke Screen — Counters physical damage dealers by reducing armor and isolating targets from ally assistance. This upgrade turns Riki into an area-denial specialist, crippling enemy carries and disrupting teamfight coordination.
+---
+[TAGS: ITEM_DATA, WARD_SENTRY, EARLY_GAME_USAGE, CONSUMABLE, VISION, DETECTION, SUPPORT_ITEM, LANING] | Cost: 50: Essential early-game consumable for securing vision control and countering enemy vision. Used to deward Observer Wards and block enemy camp pulls. Provides no regen or stats, but grants True Sight to deny enemy information and gold. Stats: Lifetime: 7 min (420s), True Sight Range: 1050.
+---
+[TAGS: ITEM_DATA, GEM_OF_TRUE_SIGHT, TEAMFIGHT_ROLE, FULL_ITEM, VISION, DETECTION, MAP_CONTROL, TEAM_UTILITY] | Gem of True Sight, Cost: 900: Core team fight and map control item. The 900 radius True Sight aura enables aggressive pushes and defensive holds against invisibility-based heroes, providing constant vision and dewarding pressure. Losing the gem grants the enemy team a significant advantage. Stats: N/A.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, PASSIVE, UTILITY, SLOW_RESIST] | Unrelenting Eye CORE_MECHANICS: Provides bonus slow resistance that scales with enemy proximity, functioning as a counter-initiation tool against area slows and kiting. The passive ability reduces enemy control by making the wearer harder to pin down in teamfights. Stats: Cost: 0 gold, Increases slow resistance by 50%. This bonus is reduced by 10% for every enemy hero within the wearer's attack radius.
+---
+[TAGS: ITEM_DATA, CLUMSY_NET, CORE_DESCRIPTION, NEUTRAL, ROOT, DISABLE, CATCH, UTILITY, SELF_DISABLE] | Clumsy Net, Tier N/A (Neutral Item): Active ability Ensnare targets an enemy unit and yourself for 1.75 seconds. This immobilizes both targets, acting as a self-rooting disable. The effect is dispellable. Useful for securing kills or interrupting channels when you can afford to be stationary. Stats: CD: 25s, Duration: 1.75s.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: STRATEGY, Riki, ITEM_BUILD, SITUATIONAL] | Riki Situational: Buy Black King Bar against heavy magic damage and disables. Consider Nullifier against defensive items like Ghost Scepter or Eul’s.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Observer and Sentry Wards HARD_COUNTERS: Wards can be destroyed by enemies attacking them. Sentry Wards are countered by staying outside their True Sight radius. Stats: Wards are killable.
+---
+[TAGS: ITEM_DATA, WARD_DISPENSER, CORE_MECHANICS, CONSUMABLE, VISION, DETECTION, UTILITY, SUPPORT_ITEM] | Observer and Sentry Wards Dispenser, Cost: 50: Holds both Observer and Sentry wards in one item slot. Double-click to switch between ward types before planting. Can share individual wards with allies by holding Control. Consumable. Stats: No Cooldown, No Mana Cost.
+---
+[TAGS: STRATEGY, Riki, WEAKNESS] | Riki Weakness: Vulnerable to detection (Sentry Wards, Dust, Gem) and AoE damage or disables that reveal his position.
+---
+[TAGS: MEEPO, ABILITY_DATA] | Earthbind tosses a net at a target point, rooting all enemy units in a 220 radius for 2 seconds. It has a 1200 speed and a 16/14/12/10 second cooldown. It affects and reveals invisible units. It does not work on Debuff Immune units or Roshan. It does not pierce BKB.
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, VS_INVIS, MAP_CONTROL] | Observer and Sentry Wards CONSUMABLE Cost: 50: Use Sentry Wards to secure key areas against invisible heroes like Riki or to destroy enemy Observer Wards when you suspect they have vision. Plant Observer Wards to provide vision for Roshan attempts, key jungle choke points, or to safely push towers. The ability to switch between ward types makes it a flexible tool for vision domination throughout the game.
+---
+[TAGS: SAND_KING, SITUATIONAL, VS_BKB, CONTROL] | Scenario: Enemy team has multiple BKB carriers. Burrowstrike does NOT pierce BKB, so you must initiate before they activate BKB or focus on non-BKB targets. Epicenter slow does not pierce BKB. Your value comes from controlling supports and applying Caustic Finale explosions from non-BKB kills. Shiva's Guard active slow is crucial.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, HERO_SPECIFIC] | Aghanim's Blessing - Roshan SITUATIONAL_VS_BKB: The upgrade's effectiveness vs BKB depends on the specific hero's upgraded ability; some upgrades may grant BKB-piercing effects, others may not. It must be analyzed per hero. Stats: No inherent BKB interaction.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, COUNTERED_BY_BKB] | Searing Signet HARD_COUNTERS: The burn is completely negated by spell immunity (BKB) and is less effective against heroes with high magic resistance or healing/regen. The effect will not trigger if you are more than 2000 range away from the target. Stats: Max Range: 2000, Creep Penalty: 50%.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+
+=== GAME STATE ===
+Match Time: 15:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: crystal_maiden (Lvl 8) | HP: 900/900 | Mana: 600/1000 | Alive: false
+Stats: K/D/A 0/5/2 | Gold: 1600 | LastHits: 10
+Inventory: [item_ward_observer (CD), item_tranquil_boots (CD), item_magic_wand (CD) x10]
+Abilities: [crystal_maiden_freezing_field(Lvl1)[NoMana/Silenced] | crystal_maiden_crystal_nova(Lvl4)[NoMana/Silenced] | crystal_maiden_frostbite(Lvl1)[NoMana/Silenced] | crystal_maiden_brilliance_aura(Lvl2)[NoMana/Silenced]]
+User Situation Notes: Играю на 5-ке. У врагов Riki очень расфиженный, постоянно прыгает на меня с тучки и убивает за пару ударов. Я не успеваю даже ультануть.
+
+=== USER QUESTION ===
+"Рики меня постоянно вырезает. Что мне купить, чтобы выживать и видеть его?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Рики меня постоянно вырезает. Что мне купить, чтобы выживать и видеть его?".**
+========================================
+
+[AI RESPONSE] (6.30s)
+Купи Sentry Wards, чтобы обеспечить видимость и противостоять Riki, когда он наступает на тебя. Это даст тебе возможность обнаруживать его, что критично для выживания. Также, как только у тебя будет достаточно золота, рассмотри возможность покупки Gem of True Sight для постоянного контроля над видимостью.

@@ -1,0 +1,190 @@
+[
+  {
+    "display_text": "Terrorblade is a melee agility carry. His base stats are: 18 Strength, 23 Agility, 19 Intelligence. He has a 1.5 base attack time, which is slower than the standard 1.7, making his early attack speed sluggish. His starting armor from Agility is above average, but his movement speed is average. His low Strength and Strength gain make him vulnerable to burst damage. He is primarily a late-game scaling carry.",
+    "search_text": "terrorblade stats melee agility carry base attack time 1.5 strength 18 agility 23 intelligence 19 armor attack speed",
+    "tags": [
+      "TERRORBLADE",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Terrorblade has two Facets: Condemned and Soul Fragment. Condemned makes Sunder have no minimum health threshold for Sundered enemies, allowing you to instantly kill low-health foes or self-heal to full from any amount. This is ideal for aggressive, clutch plays. Soul Fragment makes Conjure Image illusions always spawn at full health and cost health instead of mana, which improves illusion uptime and damage output in extended fights and farming, but makes you more vulnerable to health removal. Choose Condemned for burst and pick-off potential; choose Soul Fragment for consistent farming and siege.",
+    "search_text": "terrorblade facets condemned soul fragment sunder no minimum health conjure image full health health cost",
+    "tags": [
+      "TERRORBLADE",
+      "FACET_STRATEGY",
+      "CONDEMNED",
+      "SOUL_FRAGMENT"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Terrorblade is weak. Focus on last-hitting with your decent base damage. Skill Conjure Image at level 1 or 2 to help secure last hits and harass. Use Reflection to slow enemies for escapes or setups. You are very fragile; avoid trading hits. Use illusions to pull creep aggro and manipulate the wave. Your primary goal is to survive and get as much farm as possible, aiming for a fast Power Treads and possibly a Magic Wand or Wraith Band. Metamorphosis at level 6 gives you a brief window to pressure the tower or fight.",
+    "search_text": "terrorblade laning phase early game farm last hit conjure image illusion reflection slow safe lane weak survival",
+    "tags": [
+      "TERRORBLADE",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Terrorblade's key power spikes are: Level 6 with Metamorphosis for pushing and fighting. Level 12 with level 2 Metamorphosis and maxed Conjure Image for strong illusions. Level 18 with max Sunder and high stats. Item spikes are: Power Treads and Dragon Lance for early stats and range, Manta Style for dispel and stronger illusions, Skadi or Butterfly for tank and damage. Level 20 talents significantly boost illusion power. Level 25 Metamorphosis duration talent (30s) makes him a constant high-damage threat.",
+    "search_text": "terrorblade power spikes level 6 metamorphosis level 12 level 18 sunder manta style skadi butterfly level 20 talent level 25 talent",
+    "tags": [
+      "TERRORBLADE",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Terrorblade is hard-countered by: Heroes with high physical burst damage (e.g., PA, TA) who can quickly kill his low-health real hero. Heroes with AoE illusion clear (e.g., Earthshaker, Leshrac, Sven) that destroy his Conjure Images and Reflection illusions. Heroes with Break (e.g., Shadow Demon, Viper) which disable Metamorphosis and Demon Zeal. Instant disables and hexes (e.g., Lion, Shadow Shaman) prevent him from using Sunder. High mobility heroes can kite his Metamorphosis form.",
+    "search_text": "terrorblade counters hard counter illusion clear aoe earthshaker sven break shadow demon viper hex lion physical burst",
+    "tags": [
+      "TERRORBLADE",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Terrorblade's core build is non-negotiable. Power Treads are essential for stats and attack speed. Dragon Lance provides crucial range and stats, later upgraded to Hurricane Pike for escape. Manta Style is the ultimate core item, providing stats, a dispel, and creating two powerful illusions that benefit from all his abilities and Facets. Without Manta, his teamfight and split-push potential are severely limited.",
+    "search_text": "terrorblade core items build power treads dragon lance hurricane pike manta style essential stats illusions",
+    "tags": [
+      "TERRORBLADE",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In a teamfight, Terrorblade's role is to use Reflection to slow and create illusions of enemy carries, reducing their damage. He then activates Demon Zeal for bonus attack speed and movement speed. He positions with his illusions (from Conjure Image and Manta) to focus-fire a key target. He uses Metamorphosis to become a ranged high-damage dealer. He saves Sunder for a clutch self-heal or to finish a low-health enemy core. His illusions are also used to siege towers before or after fights.",
+    "search_text": "terrorblade teamfight role reflection slow demon zeal metamorphosis ranged sunder heal illusions siege",
+    "tags": [
+      "TERRORBLADE",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Reflection creates invulnerable, untargetable dark reflections of all enemy heroes in a 400 range area. Reflections last 5 seconds and attack their source, dealing 30%/45%/60%/75% of the enemy's attack damage. They also apply a slow of 15%/20%/25%/30% to movement and attack speed. The slow debuff lasts 5 seconds. Does NOT pierce BKB. Cooldown is 23/20/17/14 seconds. Mana cost is 60/65/70/75.",
+    "search_text": "reflection Q ability terrorblade invulnerable illusion slow 15 20 25 30 attack speed slow duration 5 cooldown 23 20 17 14 mana 60 65 70 75",
+    "tags": [
+      "TERRORBLADE",
+      "ABILITY_DATA",
+      "REFLECTION"
+    ]
+  },
+  {
+    "display_text": "Conjure Image creates an illusion of Terrorblade that lasts 34 seconds. The illusion deals 20%/25%/30%/35% of Terrorblade's damage and takes 250% incoming damage. The illusion is visually distinct to enemies. Cooldown is 16 seconds at all levels. Mana cost is 55/65/75/85. Does NOT pierce BKB. With the Soul Fragment Facet, these illusions spawn at full health and cost health instead of mana.",
+    "search_text": "conjure image W ability terrorblade illusion duration 34 damage 20 25 30 35 takes 250 damage cooldown 16 mana 55 65 75 85 soul fragment facet",
+    "tags": [
+      "TERRORBLADE",
+      "ABILITY_DATA",
+      "CONJURE_IMAGE"
+    ]
+  },
+  {
+    "display_text": "Metamorphosis transforms Terrorblade into a powerful demon with a ranged attack for 35/40/45/50 seconds. Grants 20/40/60/80 bonus damage and 300/350/400/450 bonus attack range (total range 450/500/550/600). Base attack time becomes 1.5. Any Terrorblade illusions within 1200 range are also transformed. Cooldown is 145/140/135/130 seconds. Transformation time is 0.35 seconds. Demon Zeal cannot be cast during Metamorphosis.",
+    "search_text": "metamorphosis E ability terrorblade transformation ranged demon bonus damage 20 40 60 80 attack range 450 500 550 600 duration 35 40 45 50 cooldown 145 140 135 130 illusions",
+    "tags": [
+      "TERRORBLADE",
+      "ABILITY_DATA",
+      "METAMORPHOSIS"
+    ]
+  },
+  {
+    "display_text": "Demon Zeal costs 20% of Terrorblade's current HP to cast. Provides Terrorblade and nearby illusions within 1200 range with 60 bonus movement speed, 100 bonus attack speed, and 20 HP regen for 30 seconds. Reflection illusions gain 50% of these bonuses. Cannot be cast while in Metamorphosis, and activating Metamorphosis will remove Demon Zeal.",
+    "search_text": "demon zeal D ability terrorblade hp cost 20 percent movement speed 60 attack speed 100 hp regen 20 duration 30 radius 1200 illusions reflection",
+    "tags": [
+      "TERRORBLADE",
+      "ABILITY_DATA",
+      "DEMON_ZEAL"
+    ]
+  },
+  {
+    "display_text": "Sunder severs the life from Terrorblade and a target hero, exchanging a percentage of both units' current health. The target's health after the swap cannot fall below 35%/30%/25% (Condemned Facet removes this for enemies). Some health must remain for Terrorblade. Debuff Immune enemies don't get their HP modified. Cooldown is 120/80/40 seconds. Does NOT pierce BKB.",
+    "search_text": "sunder R ultimate terrorblade swap health percentage minimum 35 30 25 condemned facet no minimum cooldown 120 80 40",
+    "tags": [
+      "TERRORBLADE",
+      "ABILITY_DATA",
+      "SUNDER"
+    ]
+  },
+  {
+    "display_text": "Dark Unity is a passive ability. Illusions created by Terrorblade (including Conjure Image and Reflection illusions) within 1200 range of him gain 60% bonus attack damage. Illusions outside this radius gain 0% bonus damage.",
+    "search_text": "dark unity passive terrorblade illusions bonus attack damage 60 percent radius 1200 conjure image reflection",
+    "tags": [
+      "TERRORBLADE",
+      "ABILITY_DATA",
+      "DARK_UNITY"
+    ]
+  },
+  {
+    "display_text": "When your team is ahead, Terrorblade should group with his team under Metamorphosis and take all outer towers. Use Conjure Image illusions to farm dangerous lanes while your team groups. Build a Skadi after Manta to provide slow and tankiness for high-ground siege. Use Sunder aggressively to secure kills on key targets, not just as a save.",
+    "search_text": "terrorblade scenario ahead winning game group metamorphosis push towers skadi siege sunder aggressive",
+    "tags": [
+      "TERRORBLADE",
+      "SITUATIONAL",
+      "AHEAD"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, Terrorblade must split-push with illusions to create space and farm. Avoid fights without Metamorphosis. Buy a Hurricane Pike for escape. Consider a Black King Bar if locked down. Use Sunder defensively to survive ganks. Your goal is to drag the game late where your scaling can overcome the deficit.",
+    "search_text": "terrorblade scenario behind losing game split push illusions farm avoid fight hurricane pike bkb sunder defensive late game",
+    "tags": [
+      "TERRORBLADE",
+      "SITUATIONAL",
+      "BEHIND"
+    ]
+  },
+  {
+    "display_text": "Against heroes with high armor or damage block (e.g., Timbersaw, Tidehunter), Terrorblade struggles. Prioritize items that reduce armor (e.g., Desolator, Assault Cuirass) or deal magical damage through illusions (e.g., Manta Style diffusal blade combo is less effective). Focus on controlling other heroes with Reflection and Sunder.",
+    "search_text": "terrorblade scenario vs high armor timbersaw tidehunter desolator assault cuirass armor reduction reflection",
+    "tags": [
+      "TERRORBLADE",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "When the enemy has strong AoE illusion clear (e.g., Earthshaker, Magnus), do not group all your illusions together. Send single illusions to different lanes to split push. In fights, wait for the big AoE spells to be used before committing your illusions. Consider a Linken's Sphere or status resistance items to survive initial lockdown.",
+    "search_text": "terrorblade scenario vs aoe illusion clear earthshaker magnus split push single illusions wait cooldowns linkens sphere",
+    "tags": [
+      "TERRORBLADE",
+      "SITUATIONAL",
+      "VS_AOE"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +1s Reflection Duration or -2s Conjure Image Cooldown. The Reflection talent increases the slow and illusion uptime, which is better for fighting and pick-offs. The Conjure Image talent improves farming speed and illusion uptime for pushing. Generally, take the Conjure Image talent to accelerate farm unless you are fighting constantly.",
+    "search_text": "terrorblade level 10 talent reflection duration 1 second conjure image cooldown -2 seconds farm push fight",
+    "tags": [
+      "TERRORBLADE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between -10s Metamorphosis Cooldown or +10% Reflection Slow/Damage. The Metamorphosis cooldown talent (145-\u003e135 secs at level 1) is core, as it allows you to have Metamorphosis available for almost every fight and significantly improves farming speed. The Reflection talent is situational, only valuable if the enemy has right-click cores you need to heavily counter. Almost always take the Metamorphosis cooldown.",
+    "search_text": "terrorblade level 15 talent metamorphosis cooldown -10 seconds reflection slow damage 10 percent",
+    "tags": [
+      "TERRORBLADE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between +10 All Attributes or +10s Conjure Image Duration. The +10 All Attributes provides 10 damage, 10 attack speed, 190 HP, 120 mana, and 1.4 armor, making Terrorblade significantly tankier. The +10s Conjure Image Duration extends illusion lifetime from 34 to 44 seconds, improving split-push and vision. The attribute talent is almost always better for survivability and overall damage. Take the duration talent only if you are completely free-farming and need to rat.",
+    "search_text": "terrorblade level 20 talent 10 all attributes stats conjure image duration 10 seconds split push",
+    "tags": [
+      "TERRORBLADE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between -30s Sunder Cooldown or +30s Metamorphosis Duration. The Sunder cooldown talent reduces it to as low as 10 seconds (with level 3 and talent), allowing for multiple uses in a fight and incredible survivability. The Metamorphosis duration talent increases it to up to 80 seconds (50+30), making you a permanent ranged siege monster. The Sunder talent is generally better for high-stakes, chaotic fights. The Metamorphosis talent is better for uninterrupted pushing and when you are not being focused.",
+    "search_text": "terrorblade level 25 talent sunder cooldown -30 seconds metamorphosis duration 30 seconds",
+    "tags": [
+      "TERRORBLADE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

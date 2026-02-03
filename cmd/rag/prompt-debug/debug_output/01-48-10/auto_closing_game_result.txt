@@ -1,0 +1,273 @@
+FILE: auto_closing_game.json
+QUESTION: What is the most important tactical advice for next 30 seconds?
+GENERATION TIME: 2.52s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, HARD_COUNTERS, COUNTERED_BY_DISPEL, COUNTERED_BY_BURST] | Satanic HARD_COUNTERS: Counters include heroes or items that apply Basic Dispels (e.g., Diffusal Blade, Oracle's Fortune's End) to remove the Unholy Rage buff. Also countered by massive magical or pure burst damage that can kill through the lifesteal, or disables that prevent the user from attacking. Stats: Active Dispel Type: Basic Dispel.
+---
+[TAGS: STRATEGY, Disruptor, ITEM_BUILD, SITUATIONAL] | Disruptor Situational: Buy Glimmer Cape or Eul's Scepter for survival vs burst damage. Consider Lotus Orb vs Silences or debuffs. Guardian Greaves for team sustain.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_PUSH, DEFENSIVE] | Pocket Tower SITUATIONAL_VS_PUSH: Functions as a counter-push and anti-siege tool. It can be placed behind your own structures to add an extra defensive tower during high-ground defenses or dropped to halt an enemy creep wave's advance, buying precious time. Stats: Point Target behavior.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: BEASTMASTER, SITUATIONAL, VS_MAGIC_BURST] | Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+---
+[TAGS: ITEM_DATA, BRACER, SYNERGY_BUILD, FULL_ITEM, UPGRADE, COMPONENT, UTILITY] | Bracer, Cost: 505: Core recipe component for powerful items like Drum of Endurance and Rod of Atos. Purchasing Bracers early in the laning stage builds into mid-game power spikes. Timing matters as its flat stat efficiency is best during the first 15 minutes. Stats: Cost: 505.
+---
+[TAGS: STRATEGY, Techies, FACETS] | Techies Facet Strategy: Squee's Scope (Gray) enhances Techies' right-click potential with attack range scaling, ideal for a carry-style build. Spleen's Secret Sauce (Red) boosts Blast Off! damage for burst-heavy playstyles. Spoon's Stash (Blue) is niche but useful for utility-focused Techies stacking enchantments on neutral items.
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: ITEM_DATA, OGRE_SEAL_TOTEM, CORE_DESCRIPTION, NEUTRAL, NON_PURCHASABLE, MOBILITY, INITIATION, AOE_DAMAGE, MAGICAL_DAMAGE, SLOW, CATCH] | Ogre Seal Totem, Tier N / Non-Purchasable: Activate to flop forward up to 400 units twice, dealing 250 magical damage and applying a 100% slow to enemies in a 275 radius for 1.5 seconds on each impact. Provides mobile initiation and chase with two burst damage and control instances. Stats: CD: 40s, Mana Cost: 25, Bounces: 2, Leap Speed: 800, Radius: 275, Slow Duration: 1.5s.
+---
+[TAGS: Shadow Fiend, CORE_BUILD] | Core build essentials: 1) Black King Bar is non-negotiable for surviving teamfights and allowing him to right-click. 2) Satanic provides lifesteal and survivability to man-fight. 3) Eul's Scepter of Divinity is critical for setting up guaranteed Shadowraze combos and providing mana regeneration and dispel.
+---
+[TAGS: Disruptor, Ability, Cooldown Reduction] | Glimpse Cooldown: Reduces Glimpse cooldown by 12s, allowing for more frequent repositioning of enemies.
+---
+[TAGS: ORACLE, SITUATIONAL, PUSH, HIGH_GROUND] | Scenario: Your team is ahead and needs to push high ground. Oracle can use Fate's Edict to disarm the enemy carry on the ramp, use Fortune's End to root multiple defenders, and keep the diving initiator alive with False Promise and Purifying Flames spam. Rain of Destiny provides sustained healing and damage in the choke point.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_DEFENSE, PUSH] | Roshan's Banner SITUATIONAL_VS_DEFENSE: Counters heroes who rely on quickly clearing creep waves to stall pushes. It provides a guaranteed wave of damage-immune creeps to pressure towers or barracks. Stats: Banner Duration: 120 seconds, Effect Radius: 600 / 900 / 1200.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, UPGRADE_PATH] | Medallion of Courage CORE_BUILD: Builds from Chainmail (armor), Sobi Mask (mana regen), and Blight Stone (armor reduction precursor). Directly upgrades into Solar Crest. Synergizes with other sources of armor reduction (e.g., Desolator) and physical damage heroes to amplify team damage output. The mana regeneration helps sustain its own active use.
+---
+[TAGS: ITEM_DATA, RECIPE_BLACK_KING_BAR, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Black King Bar Recipe. Cost: 1450: Component required to assemble Black King Bar. Does not provide stats or abilities.
+---
+[TAGS: ITEM_DATA, ESSENCE_RING, CORE_DESCRIPTION, NEUTRAL, TIER_2, SURVIVAL, DEFENSIVE, HEALTH, ACTIVE, BURST_HEAL] | Essence Ring, Tier 2: Neutral item that instantly increases your current and maximum health by 240 for 10 seconds upon activation. This burst of survivability provides a temporary health buffer for clutch moments in skirmishes or to survive burst damage. Its substantial mana cost requires careful mana management. Stats: CD: 25s, Mana: 160, Duration: 10s, Health Gain: 240.
+---
+[TAGS: ITEM_DATA, ROD_OF_ATOS, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE, SETUP, COMBO] | Rod of Atos, Cost: 2250: Build synergy for intelligence heroes who benefit from the stats and need reliable setup for their abilities, such as Skywrath Mage (for Mystic Flare), Lina, or Zeus. The root guarantees follow-up on skillshots. Also a strong early-to-mid game item for initiators who lack a stun.
+---
+[TAGS: STRATEGY, Disruptor, ITEM_BUILD, CORE] | Disruptor Core Build: Aghanim's Scepter and Force Staff are essential for enhancing Static Storm and repositioning in fights. Arcane Boots for mana sustain.
+---
+[TAGS: STRATEGY, Techies, WEAKNESS] | Techies Weakness: Vulnerable to True Sight (Gem/Sentries), high-mobility heroes (Storm Spirit), and long-range disables (Pudge Hook, Clockwerk Cogs).
+---
+[TAGS: STRATEGY, Techies, ITEM_BUILD, CORE] | Techies Core Build: Aghanim's Scepter (non-negotiable for Proximity Mines) and Blink Dagger (for mine placement/escape).
+---
+[TAGS: STRATEGY, Techies, TIMING] | Techies Power Spike: Level 6 (Land Mines) for map control, and Aghanim's Scepter timing (Proximity Mines) for explosive teamfight presence.
+---
+[TAGS: STRATEGY, Techies, ITEM_BUILD, SITUATIONAL] | Techies Situational: Force Staff vs melee divers (Ursa), Ghost Scepter vs physical burst (PA), or Lotus Orb vs targeted spells (Skywrath).
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, CORE_MECHANICS, DISPELLABLE, UTILITY, ILLUSIONS, ESCAPE, DISPEL, VS_CONTROL] | Cost: 4650: Creates 2 illusions of your hero that last 18 seconds. Melee illusions deal 33% damage, ranged illusions deal 28% damage, and all illusions take 300% damage. Provides a 0.1 second invulnerability window on cast, and can be used as a basic dispel to remove certain debuffs. Stats: CD: 34s, Mana Cost: 125.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, SITUATIONAL_VS_CONTROL, VS_CONTROL, DISPEL, CLEANSE, ESCAPE, DEFENSIVE] | Cost: 4650: Situational against control abilities and silences. The basic dispel effect can immediately remove debuffs like silences, slows, and roots, allowing you to escape or continue fighting. The short invulnerability on activation can be used to avoid follow-up damage or disables. Essential for carries who need to purge enemy control to maintain DPS. Stats: Dispels: Basic.
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, INITIATION, CATCH, LOCKDOWN, INTERRUPT] | Warhammer (FULL_ITEM) (Cost: 0): Functions as a targeted disable and burst damage tool. The stun interrupts channeling spells and provides a window for follow-up attacks or abilities. It's effective for focusing key targets or securing kills on mobile enemies.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, COUNTERED_BY_BKB] | Searing Signet HARD_COUNTERS: The burn is completely negated by spell immunity (BKB) and is less effective against heroes with high magic resistance or healing/regen. The effect will not trigger if you are more than 2000 range away from the target. Stats: Max Range: 2000, Creep Penalty: 50%.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, STAT_PROFILE, FULL_ITEM, HEALTH, DAMAGE, STRENGTH, SURVIVAL] | Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, LIFESTEAL, SURVIVABILITY, STRENGTH] | Satanic CORE_MECHANICS: Core survivability tool for strength carries. The active ability, Unholy Rage, dramatically amplifies lifesteal for 6 seconds, allowing you to heal through focused physical damage. The passive lifesteal provides consistent sustain during fights and farming. Stats: Cost: 5050 gold, Active: Unholy Rage, Passive: Lifesteal, Cooldown: 30 seconds, +25 Strength, +25 Damage, +30% Lifesteal, Active Lifesteal Total: 175%, Duration: 6 seconds, Dispel Type: Basic Dispel.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, TEAMFIGHT_ROLE, UTILITY, DEFENSIVE, DISRUPTION, SURVIVAL, VS_CONTROL] | Cost: 4650: Teamfight role is disruption and creating confusion. Illusions can tank spells, block projectiles, and draw focus away from your real hero. The instant dispel and invulnerability window can be used to dodge stuns, silences, and roots, turning an enemy initiation attempt into a counter-play opportunity. Stats: Illusion Count: 2, Duration: 18s.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE_RECIPE, CORE_DESCRIPTION, RECIPE, COMPONENT] | Manta Style Recipe. Cost: 1550: Component required to assemble Manta Style. Does not provide stats or abilities.
+---
+[TAGS: AGHS_STRATEGY, Nyx Assassin, COUNTER_MECHANIC, AGHANIM] | Nyx Assassin Aghanim's Scepter: Burrow — Provides high damage reduction and strong AoE control with instant Spiked Carapace stuns. This transforms Nyx Assassin into a stationary defensive powerhouse, countering heavy AoE damage and enabling safer high-ground defense or objective control.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: ITEM_DATA, FORTITUDE_RING, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SAVE, HEALTH, REGEN, SURVIVAL] | Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.
+---
+[TAGS: SPECTRE, SITUATIONAL, FROM_BEHIND] | Scenario: Playing from Behind. If you die in lane or your team is losing, skip Radiance. Build cheaper fighting items like Diffusal Blade and Blade Mail. Use Haunt to assist in fights anywhere on the map for easy kills and assist gold. Focus on farming jungle with Dispersion tankiness. Consider the Twist the Knife facet for easier pick-offs with Haunt + Reality + Dagger.
+---
+[TAGS: SAND_KING, SITUATIONAL, VS_BKB, CONTROL] | Scenario: Enemy team has multiple BKB carriers. Burrowstrike does NOT pierce BKB, so you must initiate before they activate BKB or focus on non-BKB targets. Epicenter slow does not pierce BKB. Your value comes from controlling supports and applying Caustic Finale explosions from non-BKB kills. Shiva's Guard active slow is crucial.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, SYNERGY_BUILD, CARRY_ITEM, AGILITY, UPGRADE, ILLUSIONS] | Cost: 4650: Core synergy with heroes who have abilities enhanced by their illusions, such as Chaos Knight or Terrorblade. High-Agility heroes benefit greatly from the Attack Speed and Movement Speed to kite and deal damage. The illusions can apply attack modifiers like Diffusal Blade's mana burn or Skadi's slow. Builds from Yasha, making it a natural progression for Agility cores.
+---
+[TAGS: STRATEGY, Disruptor, FACETS] | Disruptor Facet Strategy: Thunderstorm enhances Thunder Strike's AoE and Slow, making it ideal for teamfight-heavy roles. Kinetic Fence replaces Kinetic Field with impassable walls, useful for map control. Transference allows Electromagnetic Repulsion to deal damage based on Disruptor's health, suitable for tankier builds.
+---
+[TAGS: STRATEGY, Disruptor, TEAMFIGHT] | Disruptor Teamfight: Focus on isolating key targets with Kinetic Field and Glimpse. Use Static Storm to disable enemies in clustered teamfights. Stay at the backline to maximize casting efficiency.
+---
+[TAGS: ITEM_DATA, MAGIC_WAND, FULL_ITEM, CORE_MECHANICS, SAVE, DEFENSIVE, SURVIVAL, SUSTAIN, UTILITY, BURST_HEAL, BURST_MANA, COUNTER_SPAM] | Cost: 460: Magic Wand provides instant burst healing and mana restoration based on stored charges. Gains a charge (max 20) whenever a visible enemy within 1200 range uses an ability. The active restores 15 health and mana per charge, making it a crucial reactive sustain and survival tool against spell-spamming enemies. Stats: CD: 15s, Max Charges: 20, Restore per Charge: 15 HP/MP.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, FARMING_UTILITY, FARMING, SPLIT_PUSH, SAFE_FARM, ILLUSIONS] | Cost: 4650: Provides farming utility by using illusions to push out dangerous lanes safely or accelerate jungle clearing while your hero is elsewhere. The illusions last 18 seconds, allowing them to clear waves or camps. This split-push pressure creates space and forces enemies to reveal themselves. Stats: Illusion Duration: 18s.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, WEAK_TO_AOE, ILLUSION_VULNERABLE] | Manta Style HARD_COUNTERS: Countered by abilities and items that quickly clear illusions or apply area-of-effect damage, such as Battle Fury, Maelstrom, and Shiva's Guard. The dispel is ineffective against hard disables like stuns (unless dodged) and most ultimate abilities. Illusions die quickly to magical burst damage. Stats: Illusions take 300% damage, Duration: 18 seconds.
+---
+[TAGS: Disruptor, Ability, Damage Scaling] | Glimpse Distance To Damage/Max: Increases Glimpse damage scaling with distance, enhancing its repositioning damage potential.
+---
+[TAGS: DISRUPTOR, SITUATIONAL, PLAYING_FROM_BEHIND] | Scenario: Playing from behind with a deficit. Strategy: Focus on defensive warding and catching solo heroes with Glimpse. Use Kinetic Field defensively to zone enemies during pushes or to protect your high ground. Prioritize cheaper items like Force Staff or Glimmer Cape over Aghanim's Scepter to survive and enable your carry.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, HERO_SPECIFIC] | Aghanim's Blessing - Roshan SITUATIONAL_VS_BKB: The upgrade's effectiveness vs BKB depends on the specific hero's upgraded ability; some upgrades may grant BKB-piercing effects, others may not. It must be analyzed per hero. Stats: No inherent BKB interaction.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Elusive HARD_COUNTERS: The evasion is countered by items and abilities providing True Strike (e.g., Monkey King Bar, Bloodthorn, certain hero spells), which completely negate its defensive benefit.
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: ITEM_DATA, OVERWHELMING_BLINK, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, LATE_GAME, SCALING, STRENGTH] | Cost: 6800: Overwhelming Blink. Core item for Strength-based initiators and durable cores who can survive in the middle of fights after blinking in (e.g., Centaur Warrunner, Tidehunter, Pudge). The damage scales with Strength, making it a powerful late-game damage and utility spike for heroes who stack Strength. Its high cost makes it a late-game luxury upgrade.
+---
+[TAGS: ITEM_DATA, SATANIC, CORE_MECHANICS, FULL_ITEM, LIFESTEAL, DEFENSIVE, SURVIVAL, HEAL, CARRY_ITEM, ACTIVE_ITEM] | Satanic, Cost: 5050: Core Strength carry item providing a powerful defensive active ability. Unholy Rage grants 175% Lifesteal for 6 seconds, healing for massive amounts of damage dealt. The 30% passive lifesteal provides sustained survivability. Essential for turning fights and sustaining through heavy damage. Stats: Active CD: 30s, Active Lifesteal: 175% for 6s, Passive Lifesteal: 30%.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, STAT_PROFILE, AGILITY, ATTACK_SPEED, MOVEMENT_SPEED, CARRY_ITEM, UPGRADE] | Cost: 4650: Provides +10 Strength, +26 Agility, +10 Intelligence, +15 Attack Speed, and +10% Movement Speed. Primarily an Agility item offering significant bonus to Attack Speed and Movement Speed. The Yasha-based movement speed bonus does not stack with other Yasha items. Stats: Attributes: +10 Str, +26 Agi, +10 Int.
+---
+[TAGS: ANTI-MAGE, SITUATIONAL] | When playing from behind, focus on split-pushing with Blink and Manta illusions. Avoid fights. Use Blink to escape ganks. Farm the enemy jungle if your own is unsafe. Your goal is to reach critical items (Manta, Basher) to become relevant.
+---
+[TAGS: STRATEGY, Disruptor, WEAKNESS] | Disruptor Weakness: Vulnerable to Silence and Break, which disable his ability to cast crucial spells like Static Storm and Glimpse. Mobility heroes can also evade his Kinetic Field.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: JAKIRO, ABILITY_DATA, MACROPYRE, ULTIMATE, AREA_DAMAGE, NUKER] | Macropyre is Jakiro's ultimate. He exhales a line of fire 1400 units long and 500 units wide that lasts 10 seconds. It deals 100/150/200 magic damage per second to enemies in the area. Enemies continue to burn for 1 second after leaving the area. Cooldown is not specified in the raw data. Does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, CORE_ITEM] | Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.
+---
+[TAGS: ITEM_DATA, SATANIC, STAT_PROFILE, FULL_ITEM, DAMAGE, STRENGTH, HEALTH, LIFESTEAL] | Satanic, Cost: 5050: Stat profile focuses on durability and damage output for strength-based cores. Grants +25 Strength for health and damage, +25 flat damage, and permanent 30% lifesteal. The strength bonus synergizes with the lifesteal by increasing health pool and attack damage.
+---
+[TAGS: ITEM_DATA, SATANIC, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, SUSTAIN, FIGHT_REVERSAL, TANK] | Satanic, Cost: 5050: Team fight role is that of a defensive sustain and reversal tool. The active Unholy Rage allows a core hero to absorb immense focus fire and heal back to full health through damage. This turns losing engagements and forces enemies to commit significant control or damage to secure kills.
+---
+[TAGS: TECHIES, ABILITY_DATA, STICKY_BOMB] | Sticky Bomb (Q): Techies lobs a bomb that sticks to the first enemy hero it lands near, slowing their movement speed by 25/35/45/55% for 1.2 seconds. After a 2-second countdown, it explodes for 95/170/245/320 magic damage in a 350 radius and applies a secondary slow of 15/25/35/45% for 3 seconds. The bomb has a travel speed of 500 and chases a target for up to 4 seconds if none is initially stuck. It has a 300 placement radius.
+---
+[TAGS: STRATEGY, Disruptor, LANING] | Disruptor Laning: Focus on harassing with Thunder Strike and securing vision for Kinetic Field setups. Use Glimpse to punish overextended enemies. Prioritize utility items like Mekansm or Arcane Boots.
+---
+[TAGS: ITEM_DATA, VITALITY_BOOSTER, STAT_PROFILE, FULL_ITEM, HEALTH, SURVIVAL, COMPONENT, SECRET_SHOP] | Vitality Booster, Cost: 1000: Purchasable from the Secret Shop. Provides a flat +250 maximum Health, offering raw survivability with no active abilities. A core component for many late-game health-focused items like Heart of Tarrasque. Stats: Health Bonus: +250.
+---
+[TAGS: ITEM_DATA, GLEIPNIR, FULL_ITEM, SYNERGY_BUILD, UPGRADE, INTELLIGENCE_HERO, UTILITY, INITIATION] | Gleipnir, Cost: 4550: Synergizes with heroes possessing other AOE disables or damage to chain crowd control. Core on intelligence heroes who want utility and tankiness. Good follow-up to Blink Dagger for instant AOE initiation. Upgrades from Rod of Atos and Point Booster.
+---
+[TAGS: ITEM_DATA, BOOTS_OF_BEARING, SYNERGY_BUILD, FULL_ITEM, AURA, BUFF, UPGRADE] | Boots of Bearing, Cost: 4225: Synergizes with heroes who benefit from attack speed and want to build Drums of Slaughter, such as aura-based initiators (e.g., Undying) or core heroes who are already building for team fights. It's a natural upgrade for heroes who bought Tranquil Boots and need a late-game aura. Builds from Tranquil Boots, Drums of Slaughter, and Ring of Tarrasque.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+---
+[TAGS: Ability, Techies, Burst Damage, Crowd Control] | Blast Off!: Deals massive AoE damage and stuns enemies, sacrificing Techies' health for high-impact plays. Stats: Explosion Radius: 400, Full Damage: 200/300/400/500, Stun Duration: 0.8/1/1.2/1.4, Self Damage: 20% of current HP, Cast Range: 1000, Cast Time: 1, Cooldown: 40/35/30/25.
+---
+[TAGS: ITEM_DATA, AETHERIAL_HALO, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, VS_MAGIC, SURVIVAL, SUSTAIN, CONTROL, VS_MOBILITY] | Cost: 5900: Highly effective against magic-resistant enemies and physical burst due to the raw attribute bulk and spell lifesteal sustain. The active burn damage over time and slow helps control mobile heroes and prevent disengages.
+---
+[TAGS: ITEM_DATA, SATANIC, SITUATIONAL_VS_PHYSICAL, FULL_ITEM, DEFENSIVE, VS_PHYSICAL, LIFESTEAL, SURVIVAL] | Satanic, Cost: 5050: Situational against high physical damage lineups. The massive lifesteal active directly counters heroes relying on high sustained physical DPS. It provides limited value against heavy burst magic damage or instant disables that prevent you from attacking. It is a counter to physical damage cores.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_PHYSICAL, COUNTER_SUSTAIN] | Satanic VS_PHYSICAL: Extremely effective against enemy lineups focused on physical damage. The high lifesteal percentage directly counters sustained physical DPS by healing through the damage. The bonus Strength also increases health pool and physical damage output. Stats: +25 Strength, +25 Damage, 30% Passive / 175% Active Lifesteal.
+---
+[TAGS: DISRUPTOR, BASE_STATS] | Disruptor is a Ranged Intelligence hero with base stats of 21 Strength, 15 Agility, and 20 Intelligence. He has a slow attack rate of 1.7 seconds per attack and 305 movement speed. His starting attributes are fairly average for a ranged support, with no standout armor or movement speed.
+---
+[TAGS: ITEM_DATA, HEADDDRESS, SYNERGY_BUILD, FULL_ITEM, AURA, SUPPORT_ITEM, UTILITY, UPGRADE_COMPONENT] | Headdress, Cost: 425: Synergy build: Cost-effective early game aura for heroes looking to upgrade into Mekansm or build for pushes. Ideal for supports or initiators who stay near their team. Provides value before Mekansm is assembled.
+---
+[TAGS: ITEM_DATA, SATANIC, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, STRENGTH_CORE, LATE_GAME_ITEM] | Satanic, Cost: 5050: Synergizes with heroes who have high attack speed and damage output to maximize lifesteal value. Strength cores like Sven or Chaos Knight benefit greatly from the stat and defensive utility. It is also a key late-game survivability item for agility carries when paired with Butterfly or Skadi.
+---
+[TAGS: TECHIES, SITUATIONAL, VS_PUSH] | Scenario: High-Tempo Pushing Lineups. Against heroes like Lycan, Chen, or Death Prophet that want to group and push early, your mine setup time is limited. Max Sticky Bomb first for reliable wave clear and teamfight damage. Use Blast Off! aggressively to stop channeled spells or break up the push. The +200 Blast Off! Damage talent at level 15 becomes very valuable. Place Minefield Sign directly on the creep wave or under your tower to amplify your mine damage during the defense.
+---
+[TAGS: Techies, Ability, Damage] | Special Bonus Unique Techies 2: Boosts Sticky Bomb damage, improving Techies' zoning and kill potential. Stats: Damage: +{bonus_damage}
+---
+[TAGS: SHADOW_DEMON, ABILITY_DATA, DEMONIC_PURGE] | Ability: Demonic Purge. Purges target enemy, continuously removing positive buffs (Basic Dispel) and slowing them for 6 seconds. Slow starts at 100% and decays to 20% over the duration. At the end, deals 300/450/600 magic damage. Units under Disruption can still be affected. Cooldown: 70/65/60 seconds. Does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, POCKET_ROSHAN, SITUATIONAL_USAGE, CONSUMABLE, VISION, SCOUTING, PUSH, UTILITY, TACTICAL] | Pocket Roshan, Cost: 1000: Ideal for creating safe vision before a high-ground siege or checking for enemy smokes. Use it to block neutral spawn camps during enemy jungle invasions. The summon can be sent to push out a dangerous lane or bait out enemy cooldowns. Stats: CD: 60s.
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, NEUTRAL_ITEM] | Pupil's Gift CORE_BUILD: This item has no build path, components, or direct upgrades. It is a Tier 1 neutral item that can be acquired by killing neutral creeps. Synergies: Works well on any hero that benefits from raw attributes, but is especially efficient for Universal heroes who gain a portion of the bonus to all attributes.
+---
+[TAGS: Techies, Ability, Burst] | Special Bonus Unique Techies: Increases Blast Off! damage, enhancing Techies' suicide initiation burst. Stats: Damage: +{bonus_damage}
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_DEBUFFS, DISPELLABLE, COUNTER_DISABLE] | Manta Style SITUATIONAL_VS_DEBUFFS: Essential against heroes who rely on single-target, non-ultimate disables and debuffs. Counters silences (like Global Silence), roots (like Rod of Atos), and slows, allowing you to re-engage or escape. The invulnerability frame can dodge incoming stun projectiles. Stats: Active provides Basic Dispel.
+---
+[TAGS: MUERTA, SITUATIONAL, SPLIT_PUSHING] | SITUATION: Split Pushing. With the Ofrenda facet, you can place your respawn point near a dangerous lane, allowing you to aggressively split push. Use Dead Shot to clear waves quickly from a safe distance. Have an escape item (Blink, Force) ready. If you die, you respawn at the Ofrenda, making it very punishing for the enemy to commit on you.
+---
+[TAGS: FACELESS_VOID, SITUATIONAL, FROM_BEHIND, SPLIT_PUSH] | Scenario: Playing from Behind. When behind, Faceless Void should avoid 5v5 fights and focus on split-pushing with Manta Style illusions. Farm jungle camps with Battle Fury or Maelstrom. Use Chronosphere defensively to pick off solo heroes or escape ganks. Consider the Time Zone Facet to provide utility to your team even without farm. Buy cheap survivability items like Bracer or Drum.
+---
+[TAGS: PHANTOM ASSASSIN, SITUATIONAL, EARLY_END, PUSH] | Scenario: You Are the Primary Carry and Need to End Early. After Battle Fury and Desolator, build into a fast Black King Bar and Satanic. Take the Methodical facet for guaranteed crits on key targets. Group with your team at level 12+ and use Roshan advantage to siege high ground. Your goal is to burst key heroes before they can react.
+
+=== GAME STATE ===
+Match Time: 40:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: terrorblade (Lvl 25) | HP: 2800/2800 | Mana: 1000/1200 | Alive: true
+Stats: K/D/A 14/3/8 | Gold: 8500 | LastHits: 320
+Inventory: [item_butterfly (CD), item_satanic, item_black_king_bar, item_power_treads (CD), item_manta, item_skadi (CD)]
+Abilities: [terrorblade_conjure_image(Lvl4)[Rdy] | terrorblade_metamorphosis(Lvl4)[Rdy] | terrorblade_sunder(Lvl3)[ULTIMATE-READY] | terrorblade_reflection(Lvl4)[Rdy]]
+User Situation Notes: Мы сильно выигрываем, но не можем закончить игру. Враги (Techies, Tinker, Sniper, Earth Spirit, Disruptor) отлично защищают хайграунд. Везде мины, Тинкер бесконечно пушит все линии.
+
+=== USER QUESTION ===
+"What is the most important tactical advice for next 30 seconds?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "What is the most important tactical advice for next 30 seconds?".**
+========================================
+
+[AI RESPONSE] (2.51s)
+Используй Metamorphosis сейчас, чтобы усилить свою атаку, и задействуй Conjure Image для создания иллюзий, которые помогут дополнительно разделить внимание врагов. Затем активируй Black King Bar перед тем, как зайти на хайграунд, чтобы избежать контроля от Techies и Disruptor. Это создаст давление, позволяя вашей команде попробовать прорваться к трону.

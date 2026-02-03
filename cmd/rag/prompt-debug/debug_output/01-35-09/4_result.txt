@@ -1,0 +1,260 @@
+FILE: 4.json
+QUESTION: Клинкз душит орчидом. Какой предмет мне нужен, чтобы сбрасывать сало?
+GENERATION TIME: 1.64s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, TRICKSTER_CLOAK, CORE_DESCRIPTION, NON_PURCHASABLE, UTILITY, INVISIBILITY, ESCAPE, INITIATION, MOBILITY] | Trickster Cloak, Cost: 0: Non-purchasable item that grants an active ability to become invisible for 6 seconds. This effect is dispellable and provides a significant window for repositioning, escape, or initiating unseen. Stats: CD: 25s, Duration: 6s.
+---
+[TAGS: ITEM_DATA, ORCHID_MALEVOLENCE, FULL_ITEM, SITUATIONAL_VS_MAGIC, DISABLE, VS_CASTERS, CATCH] | Orchid Malevolence, Cost: 3275: SITUATIONAL_VS_MAGIC: Counters high-mobility and magic-reliant heroes. The silence prevents spellcasting for escape (like Blink, Teleport) or defense (like Shallow Grave, Reaper's Scythe), making them vulnerable to follow-up damage.
+---
+[TAGS: ITEM_DATA, ORCHID_MALEVOLENCE, FULL_ITEM, STAT_PROFILE, INTELLIGENCE, DAMAGE, ATTACK_SPEED, MANA_REGEN, HEALTH_REGEN] | Orchid Malevolence, Cost: 3275: Provides a balanced mix of intelligence, mana regeneration, health regeneration, damage, and attack speed (+10 Int, +3 Mana Regen, +6 HP Regen, +10 Damage, +35 Attack Speed). Stats oriented towards casting and right-clicking spellcasters.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_DISPEL, COUNTER_PICK] | Nullifier SITUATIONAL_VS_DISPEL: Hard counters heroes and items that rely on dispellable buffs or defensive purges. Prevents self-dispels (Manta Style, Lotus Orb) and stops enemies from removing debuffs like silences or roots. Stats: Basic Dispel, Debuff Duration: 4s.
+---
+[TAGS: ITEM_DATA, WITCHBANE, CORE_DESCRIPTION, NEUTRAL, DISPEL, CLEANSE, VS_CONTROL, UTILITY, DAMAGE, ATTACK_SPEED] | Witchbane, Cost: 0: Neutral item providing +20 Attack Speed. Active ability 'Cleanse' applies a basic dispel to any target unit, removing most debuffs. Passive 'Subjugate' causes attacks to deal additional damage equal to 4% of the target's maximum mana pool. Stats: CD: 20s, Mana Cost: 75, Radius: 300.
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, SITUATIONAL_USAGE, CONSUMABLE, MOBILITY, ESCAPE, SPLIT_PUSH, DEFENSE, VS_CONTROL] | Town Portal Scroll, Cost: 100: Core tactical tool for split-pushing safely and defending structures. Use to escape dangerous situations by channeling to a safe tower. Key for maintaining map pressure and forcing enemy reactions. Remember, roots prevent the channel. Stats: CD: 80s, Mana: 75.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, CORE_MECHANICS, FULL_ITEM, DISPEL, SAVE, DEFENSIVE, VS_CONTROL, UTILITY] | Lotus Orb, Cost: 3850: Applies a basic dispel and a protective Echo Shell to a target ally for 5 seconds. Most single-target spells cast on the shielded unit are reflected back to the original caster while the shielded unit still takes the spell damage. This makes it a powerful counter-initiation and save tool against targeted disables and debuffs. Stats: CD: 15s, Mana Cost: 175, Duration: 5s.
+---
+[TAGS: STRATEGY, Silencer, FACETS] | Silencer Facet Strategy: Synaptic Split (bouncing Glaives) is preferred for core Silencer as it boosts damage output, while Suffer In Silence is better for support Silencer to amplify teamfight impact against silenced enemies.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPEL, VS_BKB] | Orchid Malevolence HARD_COUNTERS: The Soul Burn silence is dispellable. Items like Manta Style, Lotus Orb, or Eul's Scepter, or abilities with a basic dispel, can remove the debuff, negating both the silence and the delayed damage. Black King Bar also blocks the silence entirely. It is less effective against heroes who naturally build BKB or have built-in dispels. Stats: Dispellable: Yes (basic dispel).
+---
+[TAGS: ITEM_DATA, FULL_ITEM, VS_CONTROL, DISPEL, SAVE] | A powerful counter to single-target disables and debuffs due to its basic dispel effect on cast. Effective against heroes reliant on silences, roots, or other dispellable effects to lock down targets, as it can instantly remove them from an ally.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPEL] | Phylactery HARD_COUNTERS: Basic dispels can remove the movement slow, significantly reducing its control utility. The bonus damage is instant and cannot be dispelled. The item is less effective against heroes who build status resistance or who can quickly purge debuffs. Stats: Slow is dispellable, Bonus Damage: 150 (instant).
+---
+[TAGS: HOODWINK, SITUATIONAL] | Scenario: Against illusion or summon-heavy lineups (e.g., Phantom Lancer, Nature's Prophet), Hoodwink struggles as her skill shots can be blocked. Prioritize the 'Treebounce Trickshot' facet to farm safely with Acorn Shot off trees. Build Mjollnir for its active and AoE. Use Bushwhack primarily for area denial rather than single-target lockdown.
+---
+[TAGS: Ability, Damage, Debuff] | Magic Missile: Converts damage to pure and ignores debuff immunity, making it effective against spell-immune enemies. Stats: Damage Type: Pure, Pierces Debuff Immunity
+---
+[TAGS: BEASTMASTER, SITUATIONAL, VS_MAGIC_BURST] | Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, STAT_PROFILE, FULL_ITEM, ARMOR, REGEN, MANA_REGEN, MANA, DEFENSIVE] | Lotus Orb, Cost: 3850: Provides +10 Armor, +6.5 HP Regeneration, +4.0 Mana Regeneration, and +250 Mana. These stats offer significant survivability and sustain, making it suitable for frontliners or supports who need to stay in fights to cast their spells. Stats: Armor: +10, HP Regen: +6.5, Mana Regen: +4.0, Mana: +250.
+---
+[TAGS: SILENCER, ABILITY_DATA, LAST_WORD, SILENCE, NUKER, SCALING_DAMAGE] | Last Word (Q) enchants a single target, providing vision. It deals 120/160/200/240 damage and silences for 3/4/5/6 seconds if the target casts a spell or after the 4-second debuff duration expires. Deals extra damage based on the difference in Intelligence between Silencer and the target, multiplied by 1/1.5/2/2.5. Does NOT pierce BKB. Channeling abilities will trigger the effect once the channel finishes.
+---
+[TAGS: ITEM_DATA, ORCHID_MALEVOLENCE, FULL_ITEM, SYNERGY_BUILD, CARRY_ITEM, INTELLIGENCE, ATTACK_SPEED, GANKING] | Orchid Malevolence, Cost: 3275: SYNERGY_BUILD: Excellent on high-attack speed or spell-spam intelligence heroes who can quickly apply the silence and capitalize on the damage amplification. A core item for heroes like Storm Spirit or Queen of Pain who seek to solo kill or disable key targets.
+---
+[TAGS: Ability, Stat, Survivability] | Status Resistance: Enhances survivability by reducing the duration of debuffs. Stats: Status Resistance: 15%/20%/25%
+---
+[TAGS: ITEM_DATA, ORB_OF_FROST, FULL_ITEM, STAT_PROFILE, UTILITY, DEBUFF] | Orb of Frost, Cost: 300: Provides no direct stat bonuses like damage, health, or attributes. Its value is purely in the on-hit slow and healing reduction debuff it applies.
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPEL] | Rod of Atos HARD_COUNTERS: The root is dispellable by basic dispels, so items like Manta Style, Lotus Orb, or Eul's Scepter can remove it. Spell Immunity (BKB) prevents the root from being applied in the first place. Stats: Dispellable: Yes.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, UTILITY, DISPELLABLE, REFLECT] | Lotus Orb CORE_MECHANICS: Echo Shell shield reflects most targeted spells back to the caster for 5 seconds. The shielded unit still takes the spell's damage. The active dispels debuffs upon cast. Stats: Cost: 3850 gold, Cooldown: 15s, Mana Cost: 175, Active Duration: 5s, +10 Armor, +6.5 HP Regeneration, +4 MP Regeneration, +250 Mana.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, UPGRADE] | Orchid Malevolence Recipe CORE_BUILD: This recipe builds directly into Orchid Malevolence. It is the final component required to complete the item from its other parts. There are no synergies or builds-from for a recipe item. Stats: Cost: 450 gold.
+---
+[TAGS: Ability, Passive, Resistance] | Insurmountable: Grants Tiny resistance to slows and status effects based on Strength. Stats: Strength to Slow Resistance: 20%, Strength to Status Resistance: 10%.
+---
+[TAGS: ITEM_DATA, ASCETIC'S_CAP, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SURVIVAL, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, VS_SLOW] | Ascetic's Cap, Cost: 0: Neutral item. Provides a passive effect that grants 40% Status resistance and 40% Slow Resistance for 3 seconds whenever a debuff would be applied to the owner. This makes the user temporarily more resilient to stuns, slows, and other negative effects. Stats: Status Resistance: 40%, Slow Resistance: 40%, Duration: 3s.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, PASSIVE, UTILITY, SLOW_RESIST] | Unrelenting Eye CORE_MECHANICS: Provides bonus slow resistance that scales with enemy proximity, functioning as a counter-initiation tool against area slows and kiting. The passive ability reduces enemy control by making the wearer harder to pin down in teamfights. Stats: Cost: 0 gold, Increases slow resistance by 50%. This bonus is reduced by 10% for every enemy hero within the wearer's attack radius.
+---
+[TAGS: ITEM_DATA, HOOD_OF_DEFIANCE, STAT_PROFILE, FULL_ITEM, MAGIC_RESISTANCE, REGEN, SUSTAIN, HEALTH] | Cost: 0: Hood of Defiance provides +18% Magic Resistance and +8.5 Health Regeneration. It offers no other attribute bonuses, focusing purely on enhancing survivability against magic damage and providing lane or jungle sustain through significant passive HP regeneration. Stats: Magic Resist: +18%, HP Regen: +8.5.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, UPGRADE, SUPPORT, UTILITY, AURA] | Built from Buckler, Ring of Basilius, and Headdress, consolidating their component auras into one efficient package. This makes it an ideal mid-game upgrade for supports or utility cores looking to enhance their team's durability and pushing power. Its value is maximized when grouped with multiple heroes.
+---
+[TAGS: Legion Commander, Ability, Debuff Immunity] | Press the Attack Debuff Immunity: Grants debuff immunity to targets of Press The Attack, making them resistant to negative effects. Stats: Debuff Immunity Duration: {bonus_immunity_duration}s
+---
+[TAGS: ITEM_DATA, ORCHID_MALEVOLENCE, FULL_ITEM, TEAMFIGHT_ROLE, CATCH, DISABLE, BURST_DAMAGE, INITIATION_SUPPORT] | Orchid Malevolence, Cost: 3275: Serves as a core catch and burst tool in team fights, preventing key targets from casting spells while amplifying subsequent damage. Crucial for shutting down heroes reliant on escape or defensive abilities. The delayed damage burst complements follow-up attacks or spells.
+---
+[TAGS: ITEM_DATA, NULLIFIER, CORE_MECHANICS, FULL_ITEM, DISPEL, CLEANSE, DEBUFF, SLOW, CATCH, UTILITY] | Nullifier, Cost: 4375: Continuously dispels a single target enemy, applying a debuff for 4 seconds that re-applies dispels every 0.5 seconds and slows them by 10%. Its projectile can be cast on invulnerable units, making it a powerful catch and purge tool against buff-reliant heroes. Stats: CD: 10s, Slow: 10%, Debuff Duration: 4s.
+---
+[TAGS: ITEM_DATA, DISPERSER, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_BUFFS, DISPEL, CLEANSE] | Disperser, Cost: 6100: Strong situational item against heroes reliant on mana or who are vulnerable to dispels. Counters heroes with key buffs to purge (e.g., Guardian Angel, Bloodlust) and heroes with low mana pools vulnerable to the burn. The self-dispel can also counter enemy roots and slows.
+---
+[TAGS: STRATEGY, Silencer, ITEM_BUILD, SITUATIONAL] | Silencer Situational: Buy BKB vs stuns, Force Staff vs gap closers, and Shiva's Guard vs physical damage dealers.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Orchid Malevolence Recipe HARD_COUNTERS: There is no direct counter to a recipe item, as it provides no function on its own. However, being killed while carrying gold for the recipe delays the completion of the final item.
+---
+[TAGS: Ursa, Abilities, Survivability] | Ursa Enrage: Grants massive survivability and debuff resistance, making Ursa harder to kill. Stats: Damage Reduction: 80%, Status Resistance: 50%, Duration: 4/4.5/5
+---
+[TAGS: ITEM_DATA, ORB_OF_BLIGHT, SYNERGY_BUILD, FULL_ITEM, UPGRADE, CARRY_ITEM, SUPPORT_ITEM] | Orb of Blight, Cost: 300: Core synergy for high attack speed heroes or those who can apply the debuff to multiple targets quickly. Excellent for aggressive laning carries or supports who frequently trade attacks. Upgrades into Desolator or Stygian Desolator, making it an efficient early pickup for that build path. Does not stack with its upgrades.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: Ringmaster, ABILITY_DATA, W, Escape Act] | Ability: Escape Act. Ringmaster packs himself or an ally within 600 range into a box for 2.0/2.4/2.8/3.2 seconds. The boxed unit becomes untargetable, phased, and gains 50/60/70/80% bonus magic resistance, 0/8/16/24 bonus movement speed, and 100% slow resistance. The unit is also muted, silenced, and disarmed. The effect breaks if the box moves more than 500 units away from its creation point.
+---
+[TAGS: SILENCER, FACET_STRATEGY, FACET_1, FACET_2, FACET_3, FACET_4] | Facet 1: Irrepressible makes Silencer immune to silence effects, crucial against heroes like DP, Skywrath, or Orchid carriers. This supports a durable core or offlane playstyle where you cannot be shut down. Facet 2: Reverberating Silence causes Global Silence to apply twice, extending total disable duration. This is best for a support role focused on fight control and maximizing disruption, especially against spell-heavy lineups. Facet 3: Synaptic Split upgrades Glaives of Wisdom to max level 5, allowing the glaives to bounce once to a random target within range. This significantly boosts farming speed and teamfight damage, making it ideal for a core, right-click Silencer build. Facet 4: Suffer In Silence causes Silencer to take less damage from and deal more damage to silenced targets. This enhances survivability and dueling power against enemies you or your team have silenced, fitting a mid-game fighter build.
+---
+[TAGS: Ability, No Target, Survivability] | Unfettered: Temporarily increases resistance to spells and status effects, enhancing survivability. Stats: Duration: 4/5/6/7, Magic Resistance: 60%, Status Resistance: 60%.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPELLABLE, NO_BKB_PIERCE] | Orb of Corrosion HARD_COUNTERS: The Corrosion effect is dispellable, meaning items like Manta Style or abilities with basic dispels can remove all debuffs (slow, armor reduction, heal reduction). Its effectiveness is limited against heroes who naturally build dispels or have innate magic resistance/status resistance. The effect does not pierce Spell Immunity. Stats: Dispellable: Yes, Does Not Pierce BKB.
+---
+[TAGS: SILENCER, SITUATIONAL, FROM_BEHIND, UTILITY] | Scenario: Playing from Behind. You are fragile and your silences may not be enough. Build utility and save items like Force Staff, Glimmer Cape, and Rod of Atos. Use Global Silence defensively to disengage fights. Focus on stealing Intelligence with Glaives during any pick-offs to scale.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: ITEM_DATA, RECIPE_BLACK_KING_BAR, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Black King Bar Recipe. Cost: 1450: Component required to assemble Black King Bar. Does not provide stats or abilities.
+---
+[TAGS: ITEM_DATA, UNRELENTING_EYE, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, SLOW_RESISTANCE, STATUS_RESISTANCE, DEFENSIVE, SURVIVAL] | Unrelenting Eye, Tier 3 Neutral: Provides the Relentless passive, granting 50% slow resistance. This resistance decreases by 10% for each enemy hero within your attack range. A situational defensive tool that is most effective when you are isolated or separated from enemies. Stats: Max Slow Resistance: 50%, Reduction per Enemy Hero: 10%.
+---
+[TAGS: PANGOLIER, SITUATIONAL, FROM_BEHIND, FARM, ESCAPE] | Scenario: Playing From Behind. Use Swashbuckle to safely clear waves from a distance. Avoid risky initiations with Rolling Thunder; use it primarily as an escape tool. Build survivability items like BKB or Linken's Sphere. Focus on farming with Swashbuckle and Maelstrom until you hit key item timings.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, TEAMFIGHT_ROLE, FULL_ITEM, SAVE, DEFENSIVE, TEAMFIGHT_UTILITY, DISRUPT] | Lotus Orb, Cost: 3850: Serves as a defensive save item in team fights. By applying the Echo Shell to a key ally being focused or disabled, you can punish the enemy's initiation, often forcing them to hold their spells. This creates a disruptive aura of protection that can turn the tide of an engagement.
+---
+[TAGS: STRATEGY, Silencer, WEAKNESS] | Silencer Weakness: Vulnerable to Break (disabling stolen Intelligence) and gap-closing heroes (e.g., Anti-Mage, Storm Spirit) who bypass his silence.
+---
+[TAGS: ITEM_DATA, DESOLATOR, FULL_ITEM, STAT_PROFILE, DAMAGE] | Desolator, Cost: 3500: Provides a flat +55 damage increase to all attacks. The item's value is almost entirely in this raw damage output and its armor-reducing passive, providing no defensive stats, attributes, or utility effects. Stats: Bonus Damage: +55.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, STAT_PROFILE, FULL_ITEM, HEALTH, DAMAGE, STRENGTH, SURVIVAL] | Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.
+---
+[TAGS: Silencer, Ability, Debuff] | Arcane Curse Undispellable: Makes Arcane Curse immune to dispels, ensuring consistent damage and slow application.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, CORE_ITEM] | Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.
+---
+[TAGS: Silencer, Ability, Crowd Control] | AoE Last Word: Expands Silencer's silencing ability to affect multiple enemies in an area. Stats: Radius: (value)
+---
+[TAGS: STRATEGY, Silencer, ITEM_BUILD, CORE] | Silencer Core Build: Aghanim's Scepter (enhances Global Silence) and Rod of Atos (sets up Last Word).
+---
+[TAGS: ITEM_DATA, DISPERSER, CORE_MECHANICS, FULL_ITEM, DISPEL, CLEANSE, SLOW, MANA_BREAK, PHYSICAL_DAMAGE, MOBILITY, UTILITY] | Disperser, Cost: 6100: Active ability 'Suppress' dispels both the caster and target unit, granting allies bonus movement speed and slow resistance for 5 seconds, while slowing enemy targets for the same duration. The built-in 'Manabreak' passive burns 40 mana from attacked targets and deals 1 physical damage per mana burned. Excellent for controlling and chasing single targets or saving allies. Stats: CD: 15s, Mana Cost: 75, Ally Buff Duration: 5s, Enemy Slow Duration: 5s.
+---
+[TAGS: ITEM_DATA, ABYSSAL_BLADE, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, BKB_PIERCE, DISABLE, LOCKDOWN, COUNTER_ITEM, LATE_GAME] | Abyssal Blade, Cost: 6250: Situationally built against heroes reliant on spell immunity (Black King Bar) or escape mechanisms that provide debuff immunity. The active 'Overwhelm' stun pierces these immunities, making it a key counter-item for locking down elusive or magic-immune cores who are otherwise difficult to control. Directly counters the defensive power of BKB in the late game.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_DISABLES, DISPEL, ESCAPE] | Minotaur Horn SITUATIONAL_VS_DISABLES: The basic dispel component allows you to remove many slows, silences, and roots, providing a brief escape or engagement window. While it does not pierce spell immunity, it can cleanse debuffs applied through BKB. The 2-second immunity to new negative effects prevents follow-up control, making it strong against heroes with multiple single-target disables. Stats: Dispel Type: Basic Dispel, Buff Duration: 2s.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Elusive HARD_COUNTERS: The evasion is countered by items and abilities providing True Strike (e.g., Monkey King Bar, Bloodthorn, certain hero spells), which completely negate its defensive benefit.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, DISPEL, DEFENSIVE] | Lotus Orb, Cost: 3850: Highly effective against heroes and items that rely on single-target disables or debuffs (e.g., Scythe of Vyse, Orchid Malevolence, Ancient Apparition Ice Blast). The basic dispel component can remove many common slows and silences before the reflection even occurs.
+---
+[TAGS: ITEM_DATA, ORCHID_MALEVOLENCE, CORE_MECHANICS, FULL_ITEM, SILENCE, DISABLE, BURST_DAMAGE, MAGICAL_DAMAGE, SINGLE_TARGET] | Orchid Malevolence, Cost: 3275: Active ability 'Soul Burn' silences a target for 5 seconds and deals 30% of all damage taken during the silence as bonus magical damage at the end. Essential for locking down and bursting spell-dependent heroes. Stats: CD: 18s, Mana Cost: 125, Silence Duration: 5s.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: ITEM_DATA, FORCE_STAFF, FULL_ITEM, SITUATIONAL_VS_CONTROL, VS_CONTROL, ESCAPE, SURVIVAL, DEFENSIVE, REACTIVE] | Cost: 2200: Situational vs aggressive initiators and catch-heavy lineups. Force Staff counters enemy gap-close and allows allies to escape from danger zones. It is a reactive purchase against heroes who rely on getting on top of your team and locking them down, providing a crucial escape tool that can't be interrupted by most disables.
+---
+[TAGS: Ability, Passive, Resistance, Counter] | Spell Immunity: Grants immunity to most magical spells, making the unit resistant to magic damage and effects.
+---
+[TAGS: SILENCER, SITUATIONAL, VS_ILLUSIONS, AREA_DAMAGE] | Scenario: Versus Illusion Heroes (e.g., Chaos Knight, Phantom Lancer). Arcane Curse is effective against illusion clusters. However, Glaives of Wisdom does not cleave. Consider building area damage items like Mjollnir or Gleipnir. Use Global Silence to disable the real hero's escape spells.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, SYNERGY_BUILD, FULL_ITEM, SUPPORT_ITEM, INITIATOR_ITEM, TANK_ITEM] | Lotus Orb, Cost: 3850: Synergizes with tanky initiators or durable supports who can survive to cast it mid-fight. The mana and regen stats support repeated spellcasting. It is particularly strong on heroes who want to be in the thick of the action to protect their cores.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPEL, VS_AOE] | Lotus Orb HARD_COUNTERS: Basic dispels remove the Echo Shell buff. AoE and non-targeted spells are not reflected. Neutral item abilities do not trigger it. Stats: Dispel Type: Basic Dispel.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: ITEM_DATA, BELOVED_MEMORY, CORE_DESCRIPTION, NON_PURCHASABLE, EVENT, UTILITY] | Ofrenda - Beloved Memory, Tier N/A (Non-Purchasable): An Offering that can be placed on an Altar to honor the dead. Its sole ability honors the dead with a memory, targeted on friendly buildings. Provides no stat bonuses. This item is for event or tribute mechanics. Stats: CD: 3s, Cast Speed: 1000.
+---
+[TAGS: Ability, Defense] | Permanent Spell Immunity: Grants complete protection against enemy spells, making the hero a robust frontline. Stats: Duration: Permanent
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_SINGLE_TARGET, VS_DISABLE, COUNTER] | Lotus Orb VS_SINGLE_TARGET: Hard counter to heroes reliant on key single-target spells for initiation or kill threat (e.g., Doom, Rupture, Hex). Forces enemies to consider casting order or risk self-disable. Stats: Spell Reflection Duration: 5s.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, BUILDING] | Orchid Malevolence Recipe SITUATIONAL_VS_BUILDING: The recipe is relevant only as the final step to construct the complete Orchid Malevolence item. Its purchase timing is situational, depending on when the hero gathers enough gold for the recipe and the preceding components.
+---
+[TAGS: Ability, Defensive, Status Resistance] | Status Resistance Bonus: Reduces the duration of negative status effects. Stats: Status Resistance: 10%
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: ITEM_DATA, EULS_SCEPTER_OF_DIVINITY, CORE_MECHANICS, FULL_ITEM, DISABLE, SAVE, DISPEL, REPOSITION, VS_MAGIC, VS_PHYSICAL] | Eul's Scepter of Divinity, Cost: 2600: Self-targetable tool that sweeps a unit into a cyclone, making it invulnerable for 2.5 seconds. Can be used on enemy units or yourself, dealing 50 magical damage to enemies upon landing. Primarily used to disable an enemy or to dodge projectiles and spells. Has a basic dispel interaction. Stats: CD: 23s, Mana Cost: 175, Duration: 2.5s.
+---
+[TAGS: DISRUPTOR, HARD_COUNTERS] | Disruptor is hard-countered by heroes with magic immunity (BKB) which blocks all his spells except Static Storm's silence (which pierces BKB). Heroes with instant silences or hexes can prevent him from casting his combo. Heroes with high mobility or escape abilities can avoid being caught in Kinetic Field or can escape after being Glimpsed. Illusion-based heroes can be problematic as Glimpse instantly kills them, but they can overwhelm with numbers.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, DEFENSIVE] | Lotus Orb CORE_BUILD / SYNERGIES: Builds from Perseverance (regen), Platemail (armor), and Energy Booster (mana). Strong on initiators or squishy cores who need to survive key spells. Synergy with self-cast heroes (e.g., Legion Commander Duel). Stats: Components: Perseverance, Platemail, Energy Booster.
+---
+[TAGS: Ability, Crowd Control, Silencer] | Global Silence Undispellable: Makes Global Silence undispellable, ensuring full disable duration against all enemies. Stats: Effect: Undispellable
+---
+[TAGS: ITEM_DATA, ORCHID_MALEVOLENCE_RECIPE, CORE_DESCRIPTION, RECIPE, COMPONENT] | Orchid Malevolence Recipe. Cost: 450: Component required to assemble Orchid Malevolence. Does not provide stats or abilities. Stats: Cost: 450.
+---
+[TAGS: ITEM_DATA, SANGE_AND_YASHA, SITUATIONAL_VS_CONTROL, FULL_ITEM, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, SURVIVABILITY, DEFENSIVE] | Cost: 4200: Excellent against teams with multiple disables and slows. The status resistance reduces stun and silence durations, while the slow resistance reduces the impact of movement impairing effects. The health regen amplification synergizes with other sources of regen and lifesteal. Stats: Status Resistance: +15%, Slow Resistance: +25%, Health Regen Amp: +20%.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MOBILE, SLOW] | Ogre Seal Totem VS_MOBILE: The guaranteed 100% slow for 1.5 seconds on each bounce is exceptionally strong against highly mobile heroes, effectively rooting them in place and preventing escapes. The double bounce can cover significant ground to catch fleeing targets. Stats: Slow: -100% for 1.5s, Bounces: 2, Bounce Distance: 400.
+---
+[TAGS: SILENCER, ABILITY_DATA, GLOBAL_SILENCE, ULTIMATE, SILENCE, GLOBAL] | Global Silence (R) is an ultimate ability with a 120-second cooldown. It silences all enemy heroes and units on the map for 4.5/5.25/6 seconds. Does NOT pierce BKB, but the effect is applied to Debuff Immune units; gaining Debuff Immunity after cast will remove it. Works on invisible units. With Aghanim's Scepter, it also applies Arcane Curse to all affected enemies, but multiple Curses do not stack.
+
+=== GAME STATE ===
+Match Time: 20:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: storm_spirit (Lvl 12) | HP: 1100/1100 | Mana: 1400/1400 | Alive: true
+Stats: K/D/A 4/2/3 | Gold: 2800 | LastHits: 100
+Inventory: [item_power_treads (CD), item_kaya (CD), item_bottle (CD), item_null_talisman (CD)]
+Abilities: [storm_spirit_electric_vortex(Lvl1)[NoMana/Silenced] | storm_spirit_overload(Lvl4)[NoMana/Silenced] | storm_spirit_ball_lightning(Lvl2)[NoMana/Silenced] | storm_spirit_static_remnant(Lvl4)[NoMana/Silenced]]
+User Situation Notes: У врагов Clinkz собрал Orchid Malevolence. Как только я влетаю, он кидает на меня сайленс, и я не могу улететь на ульте. Я просто кусок мяса.
+
+=== USER QUESTION ===
+"Клинкз душит орчидом. Какой предмет мне нужен, чтобы сбрасывать сало?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Клинкз душит орчидом. Какой предмет мне нужен, чтобы сбрасывать сало?".**
+========================================
+
+[AI RESPONSE] (4.73s)
+Купи Lotus Orb, чтобы сбрасывать сало от Orchid Malevolence. Этот предмет обладает базовым_dispel и может защитить тебя от контроля, позволяя использовать Ball Lightning для спасения. Альтернатива: Eul's Scepter также поможет, но требует более осторожного использования во время боя.

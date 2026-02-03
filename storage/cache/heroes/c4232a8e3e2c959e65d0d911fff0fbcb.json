@@ -1,0 +1,255 @@
+[
+  {
+    "display_text": "Kez is a Melee agility hero with a base attack range of 225 in Katana form and 150 in Sai form. His base attributes are 20 Strength, 27 Agility, and 20 Intelligence. His base attack time is 1.9 with the Katana (slow) and 1.5 with the Sai (fast). This gives him low starting health but high starting armor due to his Agility. He is a mobile, weapon-swapping hero with a slow turn rate typical for melee carries.",
+    "search_text": "Kez melee agility hero base stats attack range 225 150 base attack time 1.9 1.5 BAT strength 20 agility 27 intelligence 20 starting armor HP",
+    "tags": [
+      "KEZ",
+      "BASE_STATS",
+      "AGILITY",
+      "MELEE"
+    ]
+  },
+  {
+    "display_text": "Choose Flutter for aggressive early-game trading and chasing. It provides 16 bonus damage on the first Katana attack after switching, and 12 bonus movement speed after switching to Sai. This enhances his burst potential and mobility. The Shadowhawk facet description is not provided in the data, implying its effect may be situational or defensive.",
+    "search_text": "Kez facets Flutter Shadowhawk choose Flutter bonus damage 16 first katana attack bonus move speed 12 sai switch early game aggression chase",
+    "tags": [
+      "KEZ",
+      "FACET_STRATEGY",
+      "FLUTTER",
+      "SHADOWHAWK"
+    ]
+  },
+  {
+    "display_text": "In lane, use Sai form (1.5 BAT) for easier last-hitting and harassment. The Flutter facet's bonus move speed after switching aids positioning. At level 1, consider Grappling Claw for mobility and slow or Echo Slash for wave clear and harass. Use the Katana's stacking bleed (Kazurai Katana) to pressure the enemy when trading. Focus on securing last hits due to low base Strength.",
+    "search_text": "Kez laning phase early game last hit Sai form 1.5 BAT Grappling Claw Echo Slash harass wave clear Kazurai Katana bleed trade",
+    "tags": [
+      "KEZ",
+      "LANING_PHASE",
+      "LAST_HIT",
+      "HARASS"
+    ]
+  },
+  {
+    "display_text": "Power spike at level 6 with Raptor Dance (Katana ultimate) for survivability and burst damage based on enemy max HP. Another spike at level 6 with Raven's Veil (Sai ultimate) for initiation and escape. Level 12 unlocks the second point in ultimate, enhancing damage or utility. Talents at levels 10, 15, 20, and 25 provide significant scaling. Item timings like Echo Sabre or Sange and Yasha dramatically increase his lockdown and damage output.",
+    "search_text": "Kez power spikes level 6 Raptor Dance Raven's Veil level 12 ultimate talent levels 10 15 20 25 item timing Echo Sabre Sange Yasha",
+    "tags": [
+      "KEZ",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "ULTIMATE"
+    ]
+  },
+  {
+    "display_text": "Hard counters include heroes with Break (e.g., Silver Edge, Viper) to disable his passive Kazurai Katana bleed and Shodo Sai's crit/mark. Instant disables like Hex prevent him from using Grappling Claw or Raven's Veil to escape. High armor and damage block reduce the effectiveness of his multiple small hits. Area-of-effect silence or root counters his mobile, in-and-out playstyle.",
+    "search_text": "Kez counters break Silver Edge Viper disable Kazurai Katana Shodo Sai instant hex disable Grappling Claw Raven's Veil escape high armor damage block AOE silence root",
+    "tags": [
+      "KEZ",
+      "HARD_COUNTERS",
+      "BREAK",
+      "HEX",
+      "SILENCE"
+    ]
+  },
+  {
+    "display_text": "Core items are Phase Boots for damage, armor, and active speed to stick to targets. Echo Sabre is essential for the double attack, applying Kazurai Katana bleed stacks quickly and providing mana regen. Sange and Yasha provides status resistance, move speed, and stats, synergizing with his need to survive while dealing damage in melee range.",
+    "search_text": "Kez core build items Phase Boots Echo Sabre double attack bleed stacks Sange and Yasha status resistance move speed",
+    "tags": [
+      "KEZ",
+      "CORE_BUILD",
+      "PHASE_BOOTS",
+      "ECHO_SABRE",
+      "SANGE_AND_YASHA"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Kez's role is to dive the backline or focus key targets. Use Raven's Veil (Sai) to initiate with invisibility and mark enemies, or use Raptor Dance (Katana) for survivability and AOE damage in the middle of the fight. Use Grappling Claw to engage or reposition. Switch weapons fluidly: use Sai for the mark stun and silence (Talon Toss), then Katana for the high-damage Echo Slash and to stack bleeds.",
+    "search_text": "Kez teamfight role dive backline initiate Raven's Veil invisibility Raptor Dance AOE damage survive Grappling Claw engage reposition weapon switch Sai mark stun Katana Echo Slash bleed",
+    "tags": [
+      "KEZ",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "CARRY",
+      "MOBILE"
+    ]
+  },
+  {
+    "display_text": "Switch Discipline: Kez swaps between Kazurai Katana and Shodo Sai. Cooldown is 7.75 seconds. With Aghanim's Scepter, the cooldown is reduced to 3 seconds. The Katana has 225 range and a 1.9 Base Attack Time. The Sai has 150 range and a 1.5 Base Attack Time.",
+    "search_text": "Switch Discipline weapon swap Kazurai Katana Shodo Sai cooldown 7.75 Aghanim Scepter 3 seconds attack range 225 150 BAT 1.9 1.5",
+    "tags": [
+      "KEZ",
+      "ABILITY_DATA",
+      "SWITCH_DISCIPLINE",
+      "WEAPON_SWAP"
+    ]
+  },
+  {
+    "display_text": "Echo Slash (Katana Q): Slash in a line, dealing 20/40/60/80 damage to heroes and 70/80/90/100 damage to other units in a 200 radius. Applies a 100% slow for 0.25 seconds. After 1.2 seconds, the area is hit again. Travel distance is 250. Destroys trees. Does NOT apply Cleave.",
+    "search_text": "Echo Slash Katana Q line damage 20 40 60 80 hero 70 80 90 100 other units radius 200 slow 100% 0.25s delay 1.2s second strike travel 250 destroys trees no cleave",
+    "tags": [
+      "KEZ",
+      "ABILITY_DATA",
+      "ECHO_SLASH",
+      "SLOW",
+      "NUKER"
+    ]
+  },
+  {
+    "display_text": "Grappling Claw (Katana W): Swing to a target unit or tree at 3000 speed. Upon collision, the target is slowed by 70/80/90/100% for 0.7/0.8/0.9/1.0 seconds. Upon reaching an enemy, Kez lands an attack. Grapple speed is 1800. Maximum break distance is 2000. Land distance from target is 75.",
+    "search_text": "Grappling Claw Katana W grapple hook target unit tree speed 3000 slow 70 80 90 100% duration 0.7 0.8 0.9 1.0 lands attack grapple speed 1800 max break distance 2000 land 75",
+    "tags": [
+      "KEZ",
+      "ABILITY_DATA",
+      "GRAPPLING_CLAW",
+      "MOBILITY",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Kazurai Katana (Katana E): Attacks and abilities apply a stacking bleed, dealing 3/6/9/12% of the original attack's damage per second for 7 seconds. Max 500 stacks. Activate to impale the target, preventing movement or turning for 0.5 seconds. The bleed bursts, dealing 50% of the remaining bleed damage instantly. Creep lifesteal reduction is 0%.",
+    "search_text": "Kazurai Katana passive E bleed damage over time 3 6 9 12% attack damage duration 7 stacks 500 activate impale root 0.5s burst 50% remaining damage creep lifesteal 0",
+    "tags": [
+      "KEZ",
+      "ABILITY_DATA",
+      "KAZURAI_KATANA",
+      "PASSIVE",
+      "BLEED",
+      "ROOT"
+    ]
+  },
+  {
+    "display_text": "Raptor Dance (Katana R): After a 0.35s cast time, Kez becomes invulnerable for 0.2s and is basically dispelled. He is immune to magic damage for the cast time and slash duration. He performs 4 radial slashes every 0.25s within 450 radius. Each slash deals 30/60/90 base damage plus 2.5% of the target's max health. Heals Kez for 100% of damage dealt (20% vs creeps/illusions). Cooldown 40/35/30s.",
+    "search_text": "Raptor Dance Katana ultimate R cast 0.35 invulnerable 0.2 basic dispel magic immune slashes 4 interval 0.25 radius 450 damage 30 60 90 base plus 2.5% max health lifesteal 100% 20% creeps illusions cooldown 40 35 30",
+    "tags": [
+      "KEZ",
+      "ABILITY_DATA",
+      "RAPTOR_DANCE",
+      "ULTIMATE",
+      "AOE",
+      "LIFESTEAL",
+      "MAGIC_IMMUNE"
+    ]
+  },
+  {
+    "display_text": "Falcon Rush (Sai Q): Gain the ability to rush 525 units towards an enemy target at 850 speed to deliver an echoing secondary attack dealing 30/35/40/45 bonus damage. Lasts 3.75/4.5/5.25/6.0 seconds. During this state, Kez has phased collision and 15/30/45/60% slow resistance. The echo proc chance against the target is reduced by 50%. Does not work on buildings. Break range is 825.",
+    "search_text": "Falcon Rush Sai Q rush target 525 speed 850 echo attack bonus damage 30 35 40 45 duration 3.75 4.5 5.25 6 phased slow resistance 15 30 45 60% echo proc reduction 50% no buildings break range 825",
+    "tags": [
+      "KEZ",
+      "ABILITY_DATA",
+      "FALCON_RUSH",
+      "MOBILITY",
+      "SLOW_RESIST",
+      "PHASED"
+    ]
+  },
+  {
+    "display_text": "Talon Toss (Sai W): Throw a Sai at a target, applying a fixed damage attack of 60/120/180/240 and silencing them for 2.0/2.25/2.5/2.75 seconds. Projectile speed is 2000. The fixed damage attack has True Strike.",
+    "search_text": "Talon Toss Sai W throw damage 60 120 180 240 silence 2.0 2.25 2.5 2.75 projectile speed 2000 true strike",
+    "tags": [
+      "KEZ",
+      "ABILITY_DATA",
+      "TALON_TOSS",
+      "SILENCE",
+      "NUKER",
+      "TRUE_STRIKE"
+    ]
+  },
+  {
+    "display_text": "Shodo Sai (Sai E): Attacks and abilities have an 18% chance to Mark enemies. The next attack or ability from Kez will stun the marked enemy for 0.4s and deal a critical strike of 125/150/175/200%. Activate to disarm yourself, lock facing, and parry attacks from the targeted direction for 2.0 seconds. If an enemy Hero's attack is parried, they are stunned for 0.4s and gain a stronger Mark that stuns for longer and deals 4% * Target Hero Level bonus critical strike. You move 25% slower while parrying. The sub-ability Cancel stops the block.",
+    "search_text": "Shodo Sai passive E mark chance 18% stun 0.4 crit 125 150 175 200% activate parry 2.0s disarm lock facing parried hero stun 0.4 stronger mark bonus crit 4% per hero level move slow 25% cancel",
+    "tags": [
+      "KEZ",
+      "ABILITY_DATA",
+      "SHODO_SAI",
+      "PASSIVE",
+      "STUN",
+      "CRIT",
+      "PARRY"
+    ]
+  },
+  {
+    "display_text": "Cancel: Stops the parry effect from Shodo Sai.",
+    "search_text": "Cancel sub ability stop parry Shodo Sai",
+    "tags": [
+      "KEZ",
+      "ABILITY_DATA",
+      "CANCEL",
+      "SUB_ABILITY"
+    ]
+  },
+  {
+    "display_text": "Raven's Veil (Sai R): Release a 1500 radius smoke wave at 1500 speed that applies the Shodo Sai Mark to enemies and blinds them, reducing their vision for 4.0 seconds. Kez receives a basic dispel and gains 15/25/35 bonus movement speed and invisibility for 7/8/9 seconds, or until he attacks or casts a spell. Cooldown 40/35/30s.",
+    "search_text": "Raven's Veil Sai ultimate R smoke wave radius 1500 speed 1500 apply mark blind vision reduction 4.0 basic dispel bonus move speed 15 25 35 invisibility 7 8 9 break on attack cast cooldown 40 35 30",
+    "tags": [
+      "KEZ",
+      "ABILITY_DATA",
+      "RAVEN_VEIL",
+      "ULTIMATE",
+      "INVISIBILITY",
+      "DISPEL",
+      "BLIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against high armor, high HP heroes. Focus on applying Kazurai Katana bleed stacks, as the damage is percentage-based and not reduced by armor. Use Raptor Dance for its max health damage. Build items that reduce armor or provide True Strike to ensure bleed applications.",
+    "search_text": "Kez situational vs high armor high HP stack Kazurai Katana bleed percentage damage Raptor Dance max health damage item armor reduction true strike",
+    "tags": [
+      "KEZ",
+      "SITUATIONAL",
+      "HIGH_ARMOR",
+      "HIGH_HP"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind. Use Sai form for safer farming with its longer attack range (150 vs 225 Katana is actually shorter, but the faster BAT helps). Use Raven's Veil for escape and vision control. Build survivability items like Black King Bar or Linken's Sphere to survive initiations. Focus on split-pushing with Echo Slash wave clear.",
+    "search_text": "Kez situational playing from behind farm Sai form fast BAT Raven's Veil escape vision build BKB Linken survivability split push Echo Slash wave clear",
+    "tags": [
+      "KEZ",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "FARM",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has many magic disables and nukes. Prioritize Raven's Veil for its basic dispel and magic immunity during Raptor Dance cast. Build Black King Bar. Use the parry from Shodo Sai to block physical attacks but be wary of magical disables. The Flutter facet's bonus move speed helps dodge skillshots.",
+    "search_text": "Kez situational vs magic disables nukes Raven's Veil dispel Raptor Dance magic immune build BKB Shodo Sai parry physical Flutter move speed dodge",
+    "tags": [
+      "KEZ",
+      "SITUATIONAL",
+      "MAGIC_DISABLES",
+      "NUKES"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to pick off a key backline hero. Use Raven's Veil to invisibly approach, then open with Talon Toss for silence. Use Grappling Claw to close the gap and apply the slow. Switch to Katana and use Echo Slash and auto-attacks to burst them down with bleed stacks.",
+    "search_text": "Kez situational pick off backline Raven's Veil invisibility Talon Toss silence Grappling Claw gap close slow Katana Echo Slash auto attack bleed burst",
+    "tags": [
+      "KEZ",
+      "SITUATIONAL",
+      "PICK_OFF",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy relies on passive abilities (e.g., Phantom Assassin, Bristleback). Your core items should include Silver Edge to apply Break, disabling their passives. Your high mobility from Grappling Claw and Falcon Rush allows you to initiate with Silver Edge from invisibility.",
+    "search_text": "Kez situational vs passives Silver Edge break disable passives Grappling Claw Falcon Rush mobility initiate invisibility",
+    "tags": [
+      "KEZ",
+      "SITUATIONAL",
+      "VS_PASSIVES",
+      "BREAK",
+      "SILVER_EDGE"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: The data only shows one talent: +12% Magic Resistance. The other talent option is not provided. Choosing +12% Magic Resistance increases survivability against magical burst, which is valuable given Kez's low Strength gain and tendency to dive into fights.",
+    "search_text": "Kez talent level 10 left right choices not provided only +12% magic resistance talent survival vs magic burst",
+    "tags": [
+      "KEZ",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10",
+      "MAGIC_RESISTANCE"
+    ]
+  }
+]

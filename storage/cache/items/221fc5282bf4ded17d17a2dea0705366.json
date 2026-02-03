@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Titan Sliver, Tier 1: Neutral item providing scaling bonuses to base attack damage and status resistance. The bonuses increase as the game progresses, making it a valuable early-to-mid game pickup for heroes who benefit from both damage and durability against disables. Stats: Base Attack Damage: +15%/+25%, Status Resistance: +10%/+15%.",
+    "search_text": "neutral item, tier 1 neutral, base attack damage, status resistance, damage neutral, tenacity, disable reduction, early game neutral, scaling neutral, damage boost, stat boost, physical damage, attack damage, debuff duration, Titan Sliver",
+    "tags": [
+      "ITEM_DATA",
+      "TITAN_SLIVER",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "DAMAGE",
+      "STATUS_RESISTANCE",
+      "VS_CONTROL",
+      "PHYSICAL_DAMAGE",
+      "UTILITY",
+      "SCALING"
+    ]
+  }
+]

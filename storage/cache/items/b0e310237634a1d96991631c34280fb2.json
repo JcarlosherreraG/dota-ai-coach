@@ -1,0 +1,59 @@
+[
+  {
+    "display_text": "Cost: 1500: Phase Boots provide an active ability Phase that grants temporary movement speed boost, allows phasing through units, and increases turn rate for 3 seconds (20% bonus for melee, 10% for ranged heroes). This effect is crucial for chasing, escaping through creep waves, and repositioning quickly in skirmishes or during last hitting. Stats: CD: 8s, MS: +50.",
+    "search_text": "movement speed boots, chase item, escape boots, phase through creeps, turn rate boots, repositioning boots, early mobility, gap closer boots, move speed item, phase boots active, Phase Boots",
+    "tags": [
+      "ITEM_DATA",
+      "PHASE_BOOTS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MOBILITY",
+      "ESCAPE",
+      "POSITIONING",
+      "ACTIVE_ABILITY"
+    ]
+  },
+  {
+    "display_text": "Cost: 1500: Provides +18 damage and +4 armor for melee heroes, or +12 damage and +4 armor for ranged heroes, alongside +50 base movement speed. A solid early-game stat profile for trading hits and surviving physical harass, especially on heroes who value both damage and armor for lane dominance. Stats: Damage (Melee/Ranged): +18/+12, Armor: +4, MS: +50.",
+    "search_text": "phase boots stats, early game stats, damage boots, armor boots, melee damage item, ranged damage item, lane sustain boots, trading stats, movement speed item, Phase Boots",
+    "tags": [
+      "ITEM_DATA",
+      "PHASE_BOOTS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "ARMOR",
+      "MOVEMENT_SPEED",
+      "LANING",
+      "TRADING"
+    ]
+  },
+  {
+    "display_text": "Cost: 1500: Primarily a lane and early skirmish item that enhances physical trading, survivability, and mobility. The active allows heroes to secure last hits, chase down low targets, or escape ganks by moving unimpeded through units. It's a versatile choice for heroes who want to be aggressive in lane and transition into mid-game with solid stats. Stats: MS: +50, Armor: +4, Damage (Melee/Ranged): +18/+12.",
+    "search_text": "phase boots early game, lane dominance, early skirmish item, trading boots, last hit boots, chase item, escape item, physical damage boots, Phase Boots",
+    "tags": [
+      "ITEM_DATA",
+      "PHASE_BOOTS",
+      "EARLY_GAME_USAGE",
+      "FULL_ITEM",
+      "LANING",
+      "TRADING",
+      "MOBILITY",
+      "AGGRESSIVE"
+    ]
+  },
+  {
+    "display_text": "Cost: 1500: Strong on heroes who need to close short distances to apply damage or spells, such as melee carries or initiators. The armor and damage provide excellent early-game efficiency for cores who want to farm and fight. Timing is key - it accelerates farming speed slightly and provides the mobility needed to join early fights or escape from them. Stats: CD: 8s, MS: +50.",
+    "search_text": "phase boots synergy, melee carry boots, initiator boots, farming speed, early fighting boots, mobility core item, melee hero boots, carry boots, Phase Boots",
+    "tags": [
+      "ITEM_DATA",
+      "PHASE_BOOTS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "MOBILITY",
+      "FARMING",
+      "EARLY_GAME"
+    ]
+  }
+]

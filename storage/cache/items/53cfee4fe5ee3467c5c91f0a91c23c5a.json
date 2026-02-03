@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Seer Stone, Tier Neutral: Neutral item that reveals an 800 radius target area for 6 seconds, providing 350 bonus cast range and vision, plus 10 mana regeneration. Provides strategic vision for checking high ground, Roshan pit, or juke spots without committing. Stats: CD: 60s, Duration: 6s, Radius: 800, Vision Bonus: +350, Cast Range Bonus: +350, Mana Regen: +10.",
+    "search_text": "vision item, reveal area, neutral vision item, free path ward, temporary vision, scouting item, high ground check, roshan check, ward substitute, cast range neutral, mana regen neutral, information tool, Seer Stone",
+    "tags": [
+      "ITEM_DATA",
+      "SEER_STONE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "VISION",
+      "DETECTION",
+      "UTILITY",
+      "SCOUTING",
+      "CAST_RANGE",
+      "MANA_REGEN"
+    ]
+  }
+]

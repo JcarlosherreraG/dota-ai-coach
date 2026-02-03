@@ -1,0 +1,46 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "555555555",
+    "game_time": 1200,
+    "clock_time": 1200,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": false
+  },
+  "player": {
+    "team_name": "Radiant",
+    "name": "ZapMaster",
+    "gold": 2800,
+    "kills": 4,
+    "deaths": 2,
+    "assists": 3,
+    "last_hits": 100,
+    "gpm": 500,
+    "xpm": 600
+  },
+  "hero": {
+    "name": "npc_dota_hero_storm_spirit",
+    "level": 12,
+    "health": 1100,
+    "max_health": 1100,
+    "mana": 1400,
+    "max_mana": 1400,
+    "alive": true
+  },
+  "items": {
+    "slot0": { "name": "item_power_treads" },
+    "slot1": { "name": "item_kaya" },
+    "slot2": { "name": "item_bottle" },
+    "slot3": { "name": "item_null_talisman" },
+    "slot4": { "name": "item_empty" },
+    "slot5": { "name": "item_empty" }
+  },
+  "abilities": {
+    "ability0": { "name": "storm_spirit_static_remnant", "level": 4 },
+    "ability1": { "name": "storm_spirit_electric_vortex", "level": 1 },
+    "ability2": { "name": "storm_spirit_overload", "level": 4 },
+    "ability3": { "name": "storm_spirit_ball_lightning", "level": 2 }
+  },
+  "user_context": "У врагов Clinkz собрал Orchid Malevolence. Как только я влетаю, он кидает на меня сайленс, и я не могу улететь на ульте. Я просто кусок мяса.",
+  "user_question": "Клинкз душит орчидом. Какой предмет мне нужен, чтобы сбрасывать сало?"
+}

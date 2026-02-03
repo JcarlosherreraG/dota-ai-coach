@@ -1,0 +1,70 @@
+[
+  {
+    "display_text": "Eye of Skadi, Cost: 5900: Provides powerful utility through a passive slow effect on attack. Attacking an enemy hero slows their movement by -25% (melee) or -50% (ranged) and reduces their attack speed by -20%. Crucially, this also reduces their Health Restoration and Incoming Heals by 40%, making it a strong counter to sustain-heavy heroes and items. Stats: CD: N/A, Mana: N/A, Duration: 3s.",
+    "search_text": "slow item, attack slow, movement slow, healing reduction item, anti-heal, skadi, reduce healing, reduce lifesteal, reduce regen, attack speed slow, utility item, counter healer, counter lifesteal, Eye of Skadi, EoS",
+    "tags": [
+      "ITEM_DATA",
+      "EYE_OF_SKADI",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SLOW",
+      "HEAL_REDUCTION",
+      "ANTI_HEAL",
+      "DEBUFF",
+      "VS_HEALERS"
+    ]
+  },
+  {
+    "display_text": "Eye of Skadi, Cost: 5900: Offers +35 to all Attributes (Strength, Agility, Intelligence). This provides significant bulk, mana, attack speed, and damage, making it a well-rounded survivability and scaling item suitable for many heroes.",
+    "search_text": "skadi stats, all stats item, attributes item, tank item, stats item, agility intelligence strength, bulk item, Eye of Skadi",
+    "tags": [
+      "ITEM_DATA",
+      "EYE_OF_SKADI",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "MANA",
+      "DAMAGE",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Eye of Skadi, Cost: 5900: Serves as a premier kiting and chase tool in team fights. The slow reduces enemy mobility and attack speed, crippling their ability to reposition or output physical damage. The healing reduction effect significantly diminishes the effective health pool of heroes reliant on lifesteal, regeneration, or healing supports.",
+    "search_text": "skadi team fight, kite item, chase item, slow enemy, reduce enemy dps, attack slow, team fight utility, anti carry item, Eye of Skadi",
+    "tags": [
+      "ITEM_DATA",
+      "EYE_OF_SKADI",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "UTILITY",
+      "DEBUFF",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Eye of Skadi, Cost: 5900: A core counter-pick against heroes who rely on high health restoration like Huskar, Alchemist, or items like Heart of Tarrasque and Satanic. The 40% heal and regeneration reduction is applied on every attack, making it effective against sustained fighters and long-duration healing sources.",
+    "search_text": "counter healing item, anti heal item, vs lifesteal, vs regeneration, vs healing, counter huskar, counter alchemist, counter heart, counter satanic, Eye of Skadi",
+    "tags": [
+      "ITEM_DATA",
+      "EYE_OF_SKADI",
+      "SITUATIONAL_VS_HEALERS",
+      "FULL_ITEM",
+      "HEAL_REDUCTION",
+      "ANTI_HEAL",
+      "VS_HEALERS"
+    ]
+  },
+  {
+    "display_text": "Eye of Skadi, Cost: 5900: An excellent late-game choice for universal heroes and agility carries who benefit from all stats and want to survive in prolonged fights. It synergizes well with high attack speed to constantly reapply the slow and healing debuff, and its bulk makes the owner harder to burst down.",
+    "search_text": "skadi synergy, universal hero item, agility carry item, late game item, scaling item, tanky carry, all stats carry, Eye of Skadi",
+    "tags": [
+      "ITEM_DATA",
+      "EYE_OF_SKADI",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "LATE_GAME",
+      "UPGRADE"
+    ]
+  }
+]

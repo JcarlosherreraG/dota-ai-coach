@@ -1,0 +1,43 @@
+[
+  {
+    "display_text": "Tango (Shared), Cost: 30: Consumable that consumes a tree or Ironwood Tree to restore health over time. Single charge item that grants 3.5 health regeneration for 16 seconds. Eating an Ironwood Tree doubles the total heal duration, making it a situational sustain boost. Stats: CD: False, Charges: 1, Duration: 16s, Health Regen: 3.5.",
+    "search_text": "tango, tree healing, consumable, hp regen, lane sustain, early game heal, ironwood tree, double heal, cheap regen, starting item, Tango",
+    "tags": [
+      "ITEM_DATA",
+      "TANGO_SHARED",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "TARGET_TREE"
+    ]
+  },
+  {
+    "display_text": "Tango (Shared), Cost: 30: Core early-game lane consumable for trading and sustain. Provides continuous health regeneration after consuming a nearby tree, offsetting harass damage. Single charge and low cost make it a staple purchase for almost all heroes during the laning phase to maintain lane presence.",
+    "search_text": "laning phase item, lane sustain, starting item, harassment recovery, cheap heal, stay in lane, tree eat, regen item, early game, Tango",
+    "tags": [
+      "ITEM_DATA",
+      "TANGO_SHARED",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "LANING",
+      "SUSTAIN",
+      "STARTING_ITEM",
+      "HEALTH"
+    ]
+  },
+  {
+    "display_text": "Tango (Shared), Cost: 30: Utilize near Ironwood Trees for maximum efficiency, doubling heal duration from 16 to 32 seconds. Useful for supports to share with core heroes for lane advantage. Can be pre-emptively used before expected damage to offset harass, ensuring you stay within experience range.",
+    "search_text": "share tango, ironwood tree, double duration, support item, efficient heal, pre-healing, lane advantage, consumable sharing, Tango",
+    "tags": [
+      "ITEM_DATA",
+      "TANGO_SHARED",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "SITUATIONAL_USAGE",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

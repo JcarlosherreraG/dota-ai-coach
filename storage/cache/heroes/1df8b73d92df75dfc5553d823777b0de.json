@@ -1,0 +1,214 @@
+[
+  {
+    "display_text": "Necrophos is a ranged intelligence hero with average starting attributes (18 Strength, 12 Agility, 23 Intelligence). His primary strength lies in his sustained magical damage and healing capabilities. He is inherently durable with his base Strength, but his slow 1.7 second base attack time and low Agility growth make his right-click damage and armor scaling mediocre. He relies on spellcasting and sustaining through fights.",
+    "search_text": "Necrophos stats ranged intelligence 1.7 attack time 18 12 23 base agility strength",
+    "tags": [
+      "Necrophos",
+      "BASE_STATS",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Profane Potency. This facet makes Sadist grant 1 bonus radius to Necrophos' area of effect abilities and items for each stack of Sadist he possesses. This is a scaling teamfight and farming facet, making his Death Pulse and items like Shiva's Guard and Radiance significantly larger as he gets kills, facilitating a high-tempo, snowballing playstyle. Facet 2: Rapid Decay. This facet changes Ghost Shroud. While active, it steals 16/19/22/25 movement speed from enemies within 700 range and reduces their healing and regeneration by 55%/60%/65%/70%. This turns Ghost Shroud into a powerful debuff tool, excelling against sustain-heavy lineups (e.g., with Wraith King, Alchemist, or multiple healing supports) and helps kite melee cores.",
+    "search_text": "Necrophos Facet Profane Potency Rapid Decay Sadist radius AoE Ghost Shroud steal movement speed slow heal reduction",
+    "tags": [
+      "Necrophos",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Laning phase (levels 1-5): Prioritize Heartstopper Aura at level 1 for consistent, unavoidable harassment. Skill Death Pulse at level 2 for last hitting, trading, and healing. Ghost Shroud is typically taken at level 3 or 4 for survivability and to amplify your Death Pulse healing. Use Death Pulse to secure ranged creeps and harass. Your goal is to stay in lane, use Heartstopper to pressure the enemy out of XP range, and build up Sadist stacks by last hitting to sustain your mana. You are vulnerable to high burst damage and ganks before level 6.",
+    "search_text": "Necrophos laning skill build Heartstopper Aura Death Pulse Ghost Shroud last hit harass sustain Sadist",
+    "tags": [
+      "Necrophos",
+      "LANING_PHASE",
+      "LANE"
+    ]
+  },
+  {
+    "display_text": "Level 6: Reaper's Scythe provides a powerful kill threat on low-health targets. Item timings like a completed Veil of Discord or Phylactery significantly boost your kill potential. Level 12: Maxed Heartstopper Aura and Death Pulse make you a major teamfight presence. Timings like Kaya \u0026 Sange or Shiva's Guard are key. Level 18: Maxed Reaper's Scythe with its 0.9 damage multiplier is a reliable execute. Level 20: Talent choice (e.g., +60 Death Pulse Heal) is a massive spike. Level 25: Both talents are extremely powerful, with -2.5s Death Pulse Cooldown making you nearly unkillable or +0.5% Heartstopper Aura damage scaling with enemy max HP. A late-game Radiance or Shiva's Guard with the Profane Potency facet is a massive power spike.",
+    "search_text": "Necrophos power spikes level 6 12 18 20 25 Reaper's Scythe Veil Shiva's Guard Radiance talents",
+    "tags": [
+      "Necrophos",
+      "POWER_SPIKES",
+      "SPIKE"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: 1. Break (from Silver Edge, Hoodwink's Sharpshooter, Viper's Nethertoxin) disables the gaining of new Sadist stacks, crippling his sustain. 2. High Burst Magic Damage: While Ghost Shroud amplifies magic damage taken, burst from heroes like Lina or Zeus can kill him through it. 3. Instant Disables and Silences: Heroes like Skywrath Mage (Ancient Seal) or Doom (Doom) prevent him from casting Ghost Shroud or Death Pulse, making him easy to focus. 4. Pure Damage and HP Removal: Heartstopper Aura damage is HP removal and does not trigger spell effects, but pure damage from heroes like Timbersaw or Enigma bypasses his natural durability.",
+    "search_text": "counter Necrophos break Silver Edge Sadist burst magic damage silence doom pure damage",
+    "tags": [
+      "Necrophos",
+      "HARD_COUNTERS",
+      "COUNTER"
+    ]
+  },
+  {
+    "display_text": "Core Build: 1. Veil of Discord / Phylactery: The cheap magic amplification from Veil or the targeted slow and damage from Phylactery synergize perfectly with Death Pulse and Reaper's Scythe, securing early kills. 2. Kaya \u0026 Sange: Provides all essential stats - HP, mana, status resistance, and spell amplification. This item makes Necrophos significantly tankier and more potent. 3. Shiva's Guard: Grants massive armor, intelligence, and an AoE attack speed slow/DoT. Its active slow synergizes with Heartstopper Aura to cripple physical carries and its aura benefits from the Profane Potency facet.",
+    "search_text": "Necrophos core items Veil of Discord Phylactery Kaya and Sange Shiva's Guard",
+    "tags": [
+      "Necrophos",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Necrophos is a front-line, sustained damage and healing core. His job is to stay alive in the middle of the fight, constantly pumping out Death Pulses (70/90/110/130 heal and damage) to heal allies and damage enemies. Use Heartstopper Aura to passively whittle down the entire enemy team's health pools. Activate Ghost Shroud strategically to amplify your own healing, slow/sap enemies (with Rapid Decay), or to become invulnerable to right-clicks. Use Reaper's Scythe to execute key targets and permanently gain stats. He excels in prolonged engagements where his sustained output overwhelms burst-oriented lineups.",
+    "search_text": "Necrophos teamfight role front line sustain damage healer Death Pulse Heartstopper Aura Ghost Shroud Reaper's Scythe execute",
+    "tags": [
+      "Necrophos",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Ability: Death Pulse (Q). Necrophos releases a wave of death in a 500 radius around him, dealing 70/90/110/130 damage to enemies and healing allies for the same amount. Cooldown is 8/7/6/5 seconds. The projectile speed is 400. Death Pulse cannot be disjointed.",
+    "search_text": "Death Pulse Q ability damage 70 90 110 130 heal 500 radius cooldown 8 7 6 5 projectile speed 400 cannot disjoint",
+    "tags": [
+      "Necrophos",
+      "ABILITY_DATA",
+      "DEATH_PULSE",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "Ability: Ghost Shroud (W). Necrophos becomes ethereal for 3/3.5/4/4.5 seconds, unable to attack or be attacked by physical attacks. While active, he emits a 700 radius aura that slows enemy movement speed by 16%/19%/22%/25%. He takes 20% increased magic damage, but his healing and health regeneration received are amplified by 55%/60%/65%/70%. Cooldown is 28/24/20/16 seconds.",
+    "search_text": "Ghost Shroud W ethereal physical immune 3 3.5 4 4.5 duration 700 radius slow 16 19 22 25 percent magic damage amp heal amp 55 60 65 70 cooldown 28 24 20 16",
+    "tags": [
+      "Necrophos",
+      "ABILITY_DATA",
+      "GHOST_SHROUD",
+      "W"
+    ]
+  },
+  {
+    "display_text": "Ability: Heartstopper Aura (E). Passively causes nearby enemy units (700 radius) to lose 0.8%/1.3%/1.8%/2.3% of their current max health per second as HP Removal. This damage does not disable items like Blink Dagger and does not affect ancient creeps.",
+    "search_text": "Heartstopper Aura E passive 700 radius 0.8 1.3 1.8 2.3 percent max health per second HP removal no blink dagger disable ancient immune",
+    "tags": [
+      "Necrophos",
+      "ABILITY_DATA",
+      "HEARTSTOPPER_AURA",
+      "E",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Death Seeker (W Alternate). Necrophos turns into a large Death Pulse, traveling to a target location. Upon arrival, it releases a Death Pulse that deals damage and heals in a 500 radius. This ability applies a 2.5 second ethereal effect and reduces magic resistance by 25% on enemies hit. The Death Pulse projectile multiplier is 175. Does not trigger spell reflect.",
+    "search_text": "Death Seeker W alternate mobility travel Death Pulse 500 radius ethereal 2.5 magic resist reduction 25 projectile multiplier 175 no spell reflect",
+    "tags": [
+      "Necrophos",
+      "ABILITY_DATA",
+      "DEATH_SEEKER",
+      "W",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Ability: Sadist (Passive). Necrophos gains a stack for 8 seconds for each unit he kills, granting 3.5/5.0/6.5/8.0 health regen and 3.5/5/6.5/8 mana regen per stack. Hero kills multiply this effect by 6. Break disables the gaining of new stacks but does not remove existing stack bonuses.",
+    "search_text": "Sadist passive kill stack 8 second duration 3.5 5.0 6.5 8.0 hp regen 3.5 5 6.5 8 mana regen hero kill multiplier 6 break disables new stacks",
+    "tags": [
+      "Necrophos",
+      "ABILITY_DATA",
+      "SADIST",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Reaper's Scythe (R). Targets an enemy hero within 600 range, stunning them for 1.5 seconds. At the end of the stun, deals damage equal to 0.7/0.8/0.9 multiplied by the amount of health the target is missing. If this kills the enemy, Necrophos permanently gains 1/2/3 health regen and 1/2/3 mana regen. The kill credit is given to Necrophos.",
+    "search_text": "Reaper's Scythe R ultimate 600 range stun 1.5 damage 0.7 0.8 0.9 missing health execute permanent hp regen 1 2 3 mana regen 1 2 3 kill credit",
+    "tags": [
+      "Necrophos",
+      "ABILITY_DATA",
+      "REAPERS_SCYTHE",
+      "R",
+      "ULTIMATE",
+      "EXECUTE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When your team is losing, focus on survival and wave clear. Build items like Hood of Defiance (into Pipe) or Lotus Orb to survive magic burst. Use Ghost Shroud defensively to avoid physical damage while you clear waves with Death Pulse from a distance. Avoid fights and farm safely, using Heartstopper Aura to slowly pressure lanes. Your Reaper's Scythe remains a threat to anyone who dives you or your teammates at low health, potentially turning fights.",
+    "search_text": "Necrophos behind losing game defensive build Hood Pipe Lotus Orb wave clear Ghost Shroud avoid fight farm Heartstopper Aura",
+    "tags": [
+      "Necrophos",
+      "SITUATIONAL",
+      "BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Magic Burst Lineups. Against heroes like Lina, Zeus, or Skywrath Mage, Ghost Shroud is dangerous to use as it increases magic damage taken by 20%. Prioritize magic resistance items like Hood of Defiance and Pipe of Insight. Use Ghost Shroud only when you need the physical immunity or the amplified healing to survive physical damage, or to apply the Rapid Decay slow/heal reduction. Consider the BKB-piercing Death Seeker for initiation instead of the vulnerable Ghost Shroud.",
+    "search_text": "Necrophos vs magic burst Lina Zeus Skywrath Ghost Shroud dangerous 20% magic amp Hood Pipe magic resist BKB Death Seeker",
+    "tags": [
+      "Necrophos",
+      "SITUATIONAL",
+      "MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: With the Profane Potency Facet (AoE Radius). This facet encourages a snowballing, farming, and teamfight build. Prioritize items with AoE effects like Radiance, Shiva's Guard, and Octarine Core. Your goal is to get as many kills and assists as possible to stack Sadist and increase the radius of all these items and your Death Pulse. This makes you a massive area-denial hero in late-game teamfights.",
+    "search_text": "Necrophos Profane Potency facet AoE radius snowball farm Radiance Shiva's Guard Octarine Core Sadist stacks teamfight",
+    "tags": [
+      "Necrophos",
+      "SITUATIONAL",
+      "FACET_PROFANE"
+    ]
+  },
+  {
+    "display_text": "Scenario: With the Rapid Decay Facet (Heal Reduction). Pick this facet against enemy teams with strong healing or regeneration, such as Huskar, Alchemist, Wraith King, or multiple Holy Locket/Mekansm carriers. Use Ghost Shroud aggressively in fights to walk into the enemy team, applying a 55%/60%/65%/70% heal reduction aura and slowing them by 16%/19%/22%/25%. This severely cripples their sustain and allows your team to focus targets down.",
+    "search_text": "Necrophos Rapid Decay facet heal reduction Huskar Alchemist Wraith King Ghost Shroud aura 55 60 65 70 percent slow 16 19 22 25",
+    "tags": [
+      "Necrophos",
+      "SITUATIONAL",
+      "FACET_RAPID"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Illusion Heroes (Phantom Lancer, Chaos Knight). Necrophos struggles against numerous targets as his single-target damage is low. Heartstopper Aura and Death Pulse are effective against illusions due to their low health pools. Core items like Shiva's Guard (active and aura) and Radiance are essential for clearing illusions. Avoid being caught alone as illusions can quickly overwhelm you if your Death Pulse is on cooldown.",
+    "search_text": "Necrophos vs illusions Phantom Lancer Chaos Knight Heartstopper Aura Death Pulse Shiva's Guard Radiance clear",
+    "tags": [
+      "Necrophos",
+      "SITUATIONAL",
+      "ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left Talent: -2.5s Ghost Shroud Cooldown. This reduces the cooldown from 16 seconds to 13.5 seconds at max level, providing more frequent uptime for physical immunity, self-heal amp, and the Rapid Decay debuff. Right Talent: +2s Sadist Stack Duration. This increases Sadist stack duration from 8 seconds to 10 seconds, making it easier to maintain stacks while farming and between fights, improving overall sustainability. Choose the left talent if you are fighting frequently and need Ghost Shroud's utility more often. Choose the right talent for a more farm-oriented, sustained lane presence.",
+    "search_text": "Necrophos talent level 10 left -2.5s Ghost Shroud Cooldown right +2s Sadist Stack Duration sustain fight farm",
+    "tags": [
+      "Necrophos",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left Talent: +15% Ghost Shroud Movement Slow. This increases the slow from the Ghost Shroud aura from 25% to 40% at max level, making it significantly harder for enemies to escape or chase you while it's active. Right Talent: +60 Death Pulse Heal. This adds a flat 60 heal and damage to Death Pulse, raising it from 130 to 190 at max level. This is a massive boost to your teamfight sustain and damage output. Choose the left talent if you need more control and kiting power, especially with the Rapid Decay facet. Choose the right talent for raw healing and damage in prolonged fights.",
+    "search_text": "Necrophos talent level 15 left +15% Ghost Shroud Movement Slow right +60 Death Pulse Heal control kiting sustain damage",
+    "tags": [
+      "Necrophos",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left Talent: +15% Ghost Shroud Self Restoration Amp. This increases your healing and regen amplification while in Ghost Shroud from 70% to 85% at max level, making your Death Pulse and any other healing (e.g., from a teammate or items) significantly stronger. Right Talent: +20% Heartstopper Regen Reduction. This adds a new effect to Heartstopper Aura, reducing health regeneration and healing on enemies by 20%. Choose the left talent to become incredibly tanky and hard to kill through healing, especially against physical damage. Choose the right talent as a powerful counter to high-regeneration heroes like Alchemist, Huskar, or anyone with a Satanic.",
+    "search_text": "Necrophos talent level 20 left +15% Ghost Shroud Self Restoration Amp right +20% Heartstopper Regen Reduction healing tanky counter regen Huskar Alchemist",
+    "tags": [
+      "Necrophos",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left Talent: +0.5% Heartstopper Aura Damage. This increases the aura's damage from 2.3% to 2.8% of max health per second. This is a massive scaling damage increase against high-health strength heroes and in long teamfights. Right Talent: -2.5s Death Pulse Cooldown. This reduces the cooldown of Death Pulse from 5 seconds to 2.5 seconds at max level, effectively doubling your healing and damage output in fights, making you nearly unkillable. Choose the left talent for maximum percentage-based damage against tanky lineups. Choose the right talent for unparalleled sustain and teamfight presence, essentially becoming an AoE healing/damage machine gun.",
+    "search_text": "Necrophos talent level 25 left +0.5% Heartstopper Aura Damage 2.8% max HP right -2.5s Death Pulse Cooldown 2.5 seconds heal damage machine gun",
+    "tags": [
+      "Necrophos",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

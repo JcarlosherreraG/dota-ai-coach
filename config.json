@@ -1,10 +1,10 @@
 {
   "local_gsi_port": 6000,
-  "provider": "gemini",
-  "model": "gemini-2.5-flash",
-  "system_prompt": "Ты опытный тренер по Dota 2. Ты получаешь текущее состояние игры в блоке [GAME STATE]. Анализируй предметы, кулдауны и здоровье. Твои советы должны быть короткими, сдержанными, экспретными и полезными. Отвечай на русском языке. IMPORTANT: Keep all game terms, hero names, and items in English",
-  "request_interval_seconds": 15,
-  "silence_duration_seconds": 15,
+  "provider": "openrouter",
+  "model": "openai/gpt-4o-mini",
+  "request_interval_seconds": 60,
+  "silence_duration_seconds": 60,
   "hotkey_turn_overlay": 120, 
-  "hotkey_focus_overlay": 121
+  "hotkey_focus_overlay": 121,
+  "minSimilarity": 0.7
 }

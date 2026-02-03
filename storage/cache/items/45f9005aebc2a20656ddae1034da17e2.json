@@ -1,0 +1,84 @@
+[
+  {
+    "display_text": "Abyssal Blade, Cost: 6250: Active ability 'Overwhelm' stuns a single target enemy for 1.6 seconds, piercing debuff immunity. The passive 'Bash' gives melee heroes a 25% chance to stun and deal 120 bonus physical damage on each hit; ranged heroes have a 10% chance. The stun duration is 1.2 seconds with a 2.3 second cooldown between procs. This item's active serves as a reliable hard disable for key targets, even through spell immunity. Stats: CD: 35s, Mana: 75, Stun Duration: 1.6s/1.2s, Bash Chance: 25% (Melee)/10% (Ranged).",
+    "search_text": "hard disable item, stun item, bash item, disable through BKB, physical lockdown, initiator item, catch tool, melee stun, bash chance, Overwhelm, Abyssal Blade, lockdown, stun, gap closer, BKB pierce, physical damage proc, passive stun, melee carry item, instant disable",
+    "tags": [
+      "ITEM_DATA",
+      "ABYSSAL_BLADE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "LOCKDOWN",
+      "STUN",
+      "DISABLE",
+      "INITIATION",
+      "CATCH",
+      "PHYSICAL_DAMAGE",
+      "BKB_PIERCE"
+    ]
+  },
+  {
+    "display_text": "Abyssal Blade, Cost: 6250: Provides a significant stat package of +35 damage and +26 Strength, alongside utility survivability stats. Grants +20% health restoration amplification, improving lifesteal and regeneration, and +25% slow resistance. The damage and Strength boost the wielder's survivability and right-click potential. Stats: Damage: +35, Strength: +26, HP Restore Amp: +20%, Slow Resist: +25%.",
+    "search_text": "strength item, damage item, strength carry item, tank stats, HP regen amp, health restoration, slow resistance, status resist, physical carry item, survivability, Abyssal Blade stats, Strength, Damage, HP Regen Amp",
+    "tags": [
+      "ITEM_DATA",
+      "ABYSSAL_BLADE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "DAMAGE",
+      "HEALTH",
+      "REGEN",
+      "SUSTAIN",
+      "SURVIVAL",
+      "SLOW_RESISTANCE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Abyssal Blade, Cost: 6250: A core lockdown and initiation tool in team fights, primarily for melee cores. Its active ability guarantees a debuff-immune-piercing stun to lock down a critical enemy hero, disrupting spellcasting or preventing escape. The passive bash adds supplemental control and damage during extended right-click engagements. Essential for securing kills on slippery or high-priority targets.",
+    "search_text": "team fight disable, team fight initiation, lockdown carry, catch enemy core, target lockdown, secure kill, stop channeling, interrupt, team fight control, control item, Abyssal Blade",
+    "tags": [
+      "ITEM_DATA",
+      "ABYSSAL_BLADE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DISABLE",
+      "LOCKDOWN",
+      "CATCH",
+      "INITIATION",
+      "CONTROL",
+      "TARGETED"
+    ]
+  },
+  {
+    "display_text": "Abyssal Blade, Cost: 6250: Situationally built against heroes reliant on spell immunity (Black King Bar) or escape mechanisms that provide debuff immunity. The active 'Overwhelm' stun pierces these immunities, making it a key counter-item for locking down elusive or magic-immune cores who are otherwise difficult to control. Directly counters the defensive power of BKB in the late game.",
+    "search_text": "counter BKB, vs spell immunity, disable through immunity, catch magic immune hero, counter Black King Bar, BKB piercing stun, disable BKB target, vs escape, control immunity, Abyssal Blade",
+    "tags": [
+      "ITEM_DATA",
+      "ABYSSAL_BLADE",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_CONTROL",
+      "BKB_PIERCE",
+      "DISABLE",
+      "LOCKDOWN",
+      "COUNTER_ITEM",
+      "LATE_GAME"
+    ]
+  },
+  {
+    "display_text": "Abyssal Blade, Cost: 6250: Provides synergistic stats and utility for melee strength heroes who benefit from the damage, durability, and the passive bash chance. The bash effect does not stack with other sources of bash, and heroes with innate bash mechanics (Spirit Breaker, Faceless Void, Slardar) cannot trigger this item's passive. Ideal for heroes who can leverage the stats and need a guaranteed, instant-disable active.",
+    "search_text": "melee strength synergy, bash hero, strength carry item, late game carry, melee initiator, bash does not stack, passive bash limitation, bash excluded heroes, synergy for melee, Abyssal Blade synergy",
+    "tags": [
+      "ITEM_DATA",
+      "ABYSSAL_BLADE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "MELEE",
+      "STRENGTH_HERO",
+      "CARRY_ITEM",
+      "LATE_GAME",
+      "UPGRADE"
+    ]
+  }
+]

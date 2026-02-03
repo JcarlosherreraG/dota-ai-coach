@@ -1,0 +1,263 @@
+FILE: counter_pick_advice.json
+QUESTION: Как мне помочь против Broodmother? Какой предмет собрать?
+GENERATION TIME: 2.00s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: MIRANA, SITUATIONAL, FROM_BEHIND] | Situation: Playing from Behind. When your team is losing, shift to a split-pushing and pick-off role. Use Moonlight Shadow defensively to avoid fights and create space. Farm with Starstorm and Maelstrom to clear waves safely. Look for long-range Sacred Arrows on enemies who are out of position to secure comeback kills.
+---
+[TAGS: ITEM_DATA, MJOLNIR, FULL_ITEM, STAT_PROFILE, DAMAGE, ATTACK_SPEED, CARRY_ITEM] | Mjollnir, Cost: 5500: Provides +90 Attack Speed and +25 Damage, significantly boosting a hero's right-click DPS and scaling physical damage output. Does not provide attributes or defensive stats. Stats: Attack Speed: +90, Damage: +25.
+---
+[TAGS: MIRANA, SITUATIONAL, VS_ILLUSIONS] | Situation: Against Illusion or Summon Heroes (e.g., Phantom Lancer, Nature's Prophet). Starstorm is inefficient against many units. Focus on building area-of-effect physical damage like Mjollnir and Gleipnir. Your Sacred Arrow can instantly kill a key summon like Treants or Spiderlings if you target them directly.
+---
+[TAGS: ARC_WARDEN, CORE_BUILD] | Arc Warden's absolute core item build is focused on farming and amplification for his Tempest Double. 1) Hand of Midas: Doubles the effectiveness with the clone, accelerating experience and gold gain immensely. 2) Maelstrom/Mjollnir: Provides needed wave clear and magical damage proc that works with the clone's high attack speed from Magnetic Field. 3) Gleipnir (from Maelstrom): Offers a reliable root to set up Spark Wraiths and Flux, and the stats benefit both the main hero and clone.
+---
+[TAGS: ITEM_DATA, RIFTSHADOW_PRISM, CORE_DESCRIPTION, NEUTRAL, TIER_5, ILLUSION, SUMMON, UTILITY, PUSHER_ITEM, DECOY] | Riftshadow Prism, Tier 5: Neutral item creating a full health illusion at the cost of 10% of your current HP. The illusion deals 50% outgoing damage and takes 240% incoming damage, lasting 20 seconds. Used to create decoys, tank damage, or push lanes. Stats: CD: 30s, Duration: 20s, Health Cost: 10% Current HP.
+---
+[TAGS: Ability, Summon, Illusion] | Dark Portrait: Summons an illusion of an enemy hero. Tactical purpose: Disruption and damage amplification. Stats: Illusion duration: 25, Illusion damage: 125%, Illusion damage taken: 275%, Movespeed bonus: 30%.
+---
+[TAGS: ITEM_DATA, SHADOW_OF_VENGEANCE, CORE_DESCRIPTION, NEUTRAL, EVENT_ITEM, ILLUSION, DEATH_EFFECT, DAMAGE_RETURN, PASSIVE, DEFENSIVE] | Shadow of Vengeance. Cost: 0 (Neutral / Event): A unique non-purchasable item. Upon death, you spawn a powerful illusion that deals 100% damage and takes 150% damage for 30 seconds. The illusion can cast all basic spells, acting as a persistent threat after your hero falls. Stats: Illusion Duration: 30s, Outgoing Damage: 100%, Incoming Damage: 150%.
+---
+[TAGS: Ability, AOE, Debuff] | Desecrate: Armor-reducing AOE nuke for teamfight initiation. Stats: Damage: 200, Radius: 300, Duration: 6s, Armor Reduction: 50%
+---
+[TAGS: ITEM_DATA, MJOLNIR, FULL_ITEM, TEAMFIGHT_ROLE, AOE_DAMAGE, MAGICAL_DAMAGE, MULTI_TARGET, BUFF] | Mjollnir, Cost: 5500: Excellent team fight presence through Chain Lightning and Static Charge which provide significant magical area damage. The active shield can be placed on initiators or frontliners to punish attackers, adding disruptive AoE damage in clustered fights. The high attack speed also enables more proc chances.
+---
+[TAGS: Ability, Channeled, AOE, Damage] | Freezing Field: Channels massive area damage and slows enemies. Stats: Radius: 810, Explosion Radius: 320, Movement Slow: 40%, Attack Slow: 80/120/160, Slow Duration: 1s, Damage: 110/180/250, Mana Cost: 200/400/600
+---
+[TAGS: Broodmother, Ability, Damage] | Incapacitating Bite Attack Bonus: Increases Broodmother's attack damage with Incapacitating Bite, enhancing her dueling potential. Stats: Attack Bonus: +X
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, SUPPORT, MAP_CONTROL] | Observer and Sentry Wards CONSUMABLE Cost: 50: This item allows you to plant vision-providing Observer Wards and True Sight-granting Sentry Wards. Double-clicking the item switches the currently selected ward type before planting. Hold Control and use on an allied hero to transfer a single ward to them. Stats: Observer Cost: 75, Observer Duration: 6 min (360s), Observer Vision Range: 1600, Observer Cast Range: 500. Sentry Cost: 100, Sentry Duration: 8 min (420s), Sentry True Sight Range: 1050, Sentry Cast Range: 500.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 3: Dramatically improves mana regeneration for constant spell usage. Stats: Mana Regen: 3
+---
+[TAGS: ITEM_DATA, DAGON, STAT_PROFILE, FULL_ITEM, STRENGTH, AGILITY, INTELLIGENCE, SPELL_LIFESTEAL, SUSTAIN, DAMAGE] | Dagon, Cost: 2800: Provides balanced attributes: +7/9/11/13/15 to Strength, Agility, and Intelligence. Grants 15/16/17/18/19% spell lifesteal passively. Stats: Str/Agi/Int: +15 at level 5, Spell Lifesteal: 15-19%.
+---
+[TAGS: MIRANA, POWER_SPIKES] | Power Spikes: Level 6 provides team-wide invisibility for ganks and saves. Level 12 with a key item like Dragon Lance or Maelstrom significantly increases your farming and fighting potential. Level 18 gives a stronger ultimate. The Level 20 talent (+35 Base Damage) is a massive damage spike. Level 25 talents are game-changing: Multishot Arrows for area control or a drastically reduced Moonlight Shadow cooldown for constant map pressure. Aghanim's Scepter is a major timing, allowing Sacred Arrow to proc Starstorm.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, ILLUSION, DISPEL, SURVIVABILITY] | Manta Style CORE_MECHANICS: Creates 2 illusions of your hero that last 18 seconds. Melee illusions deal 33% damage, Ranged illusions deal 28%. Illusions take 300% damage. Used to dodge projectiles, disjoint spells, and purge many negative debuffs via its Basic Dispel. Stats: Cost: 4650 gold, +10 Strength, +26 Agility, +10 Intelligence, +15 Attack Speed, +10% Movement Speed, Active Ability: Mirror Image, Cast Time: 0.1 seconds (invulnerable).
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1.25: Boosts mana regeneration for consistent spellcasting. Stats: Mana Regen: 1.25
+---
+[TAGS: MEDUSA, SITUATIONAL, FARM_SPEED, SPLIT_SHOT, MAELSTROM, MASK_OF_MADNESS] | Scenario: Need to Accelerate Farm. Medusa farms slowly without items. Use Mystic Snake to secure lane creeps from a distance. Use Split Shot to farm jungle camps and ancient stacks. Early game items like Mask of Madness (if not using Mana Pact facet) or Maelstrom can significantly increase farm speed. Take the +8% Split Shot damage talent at level 15.
+---
+[TAGS: PANGOLIER, CORE_BUILD, DIFFUSAL_BLADE, MAELSTROM, SYNERGY] | Core items for Pangolier are Diffusal Blade and Maelstrom. Diffusal Blade's mana burn and slow are applied by each slash of Swashbuckle, massively amplifying its damage and utility. Maelstrom (and later Mjollnir) causes chain lightning procs on each Swashbuckle slash, providing immense wave clear and magical damage in fights. These items synergize perfectly with his kit.
+---
+[TAGS: ITEM_DATA, DAGON, SITUATIONAL_VS_ILLUSIONS, FULL_ITEM, VS_ILLUSIONS, ANTI_ILLUSION, COUNTER_ITEM, ILLUSION_CLEAR] | Dagon (Level 5), Cost: 7400: High-priority situational item against illusion-based heroes like Chaos Knight or Phantom Lancer, as its active instantly destroys illusions. It also counters heroes reliant on low-health escapes, providing a reliable burst to finish them off.
+---
+[TAGS: VENOMANCER, ABILITY_DATA, PLAGUE_WARD, SUMMON, MAGIC_IMMUNE, VISION] | Plague Ward (E): Summons an immune-to-magic ward that attacks enemies. Ward lasts 40 seconds. Cooldown: 5 seconds. Ward HP: 150/250/350/450. Ward Damage: 16/24/32/40. The ward's attacks inherit Poison Sting, dealing 50% of the full damage. Gold bounty: 100%.
+---
+[TAGS: Ability, Resource, Scaling] | Mana Bonus: Provides scaling mana pool increases for spellcasters. Stats: Mana: 200/225/250/275/300/350/400/500/600/700
+---
+[TAGS: ITEM_DATA, DAGON, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE_HERO, BURST_DAMAGE, SPELL_AMPLIFICATION, CARRY_ITEM] | Dagon (Level 5), Cost: 7400: Synergizes best with high-burst intelligence cores like Tinker or Nyx Assassin, amplifying their pick-off potential and providing sustain through spell lifesteal. It also scales with other sources of magic amplification and intelligence.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, TEAMFIGHT_ROLE, AOE_DAMAGE, MULTI_TARGET, VS_ILLUSIONS] | Maelstrom, Cost: 2950: Provides significant wave clear and AoE damage contribution in team fights from its Chain Lightning proc. While not a burst initiation tool, it adds substantial magic DPS over a fight, particularly effective against grouped enemies. Lightning proc applies its full damage to illusions.
+---
+[TAGS: ITEM_DATA, DAGON_2, SITUATIONAL_VS_ILLUSIONS, FULL_ITEM, VS_ILLUSIONS, VS_SUMMONS, MAGICAL_DAMAGE] | Dagon 2, Cost: 3950: Counters illusion-based heroes by instantly killing their illusions. The magical burst damage is effective against targets with low magic resistance. It's a situational upgrade for heroes who build Dagon for burst, requiring careful positioning to land the single-target nuke. Stats: Illusion Instant Kill.
+---
+[TAGS: AGHS_STRATEGY, Broodmother, COUNTER_MECHANIC, AGHANIM] | Broodmother Aghanim's Shard: Enhances Insatiable Hunger with increasing bonus damage over time during active duration. This upgrade counters prolonged fights by making Broodmother a persistent threat against tanks and high-health heroes, amplifying her role as a durable damage dealer.
+---
+[TAGS: ITEM_DATA, DAGON, FULL_ITEM, STAT_PROFILE, STRENGTH, AGILITY, INTELLIGENCE, SPELL_LIFESTEAL, SUSTAIN, UNIVERSAL_STATS] | Dagon (Level 5), Cost: 6250: Provides +15 to all attributes (Strength, Agility, Intelligence) and +15% Spell Lifesteal. Balanced stat profile making it suitable for many hero types seeking burst damage and survivability through spell lifesteal. Stats: Str/Agi/Int: +15, Spell Lifesteal: +15%.
+---
+[TAGS: ITEM_DATA, DAGON, FULL_ITEM, TEAMFIGHT_ROLE, BURST_DAMAGE, SINGLE_TARGET, SURVIVAL, VS_ILLUSIONS] | Dagon (Level 5), Cost: 6250: Teamfight role as a high-burst, single-target magic nuke for quickly eliminating key targets or securing kills. The heal on cast provides sustain during engagements, allowing casters to survive return damage. Particularly effective against illusion-based heroes.
+---
+[TAGS: ITEM_DATA, GLEIPNIR, FULL_ITEM, SYNERGY_BUILD, UPGRADE, INTELLIGENCE_HERO, UTILITY, INITIATION] | Gleipnir, Cost: 4550: Synergizes with heroes possessing other AOE disables or damage to chain crowd control. Core on intelligence heroes who want utility and tankiness. Good follow-up to Blink Dagger for instant AOE initiation. Upgrades from Rod of Atos and Point Booster.
+---
+[TAGS: Ability, CC, Damage] | Orange Light Strike Array: Stuns and damages enemies in a targeted area. Stats: AOE: 225, Delay Time: 0.5, Stun Duration: 1.6
+---
+[TAGS: SHADOW_SHAMAN, ABILITY_DATA, MASS_SERPENT_WARD, ULTIMATE, SUMMON, PUSH] | Mass Serpent Ward (R) summons 10 Serpent Wards in a 150 radius that last 45 seconds. Wards are immune to magic and attack for 50/85/120 damage. They have 4 health and take 2 hits from heroes to destroy (creeps deal half damage). With the Massive Serpent Ward facet, a single ward with multiplied damage and health is summoned instead.
+---
+[TAGS: Ability, Shadow Shaman, Area Denial, Structure Damage] | Mass Serpent Ward: A powerful area denial and structure-pushing tool. Summons 10 Serpent Wards that attack enemies and structures, immune to magic. Stats: Ward Damage: 50/85/120, Duration: 45, Cast Range: 550
+---
+[TAGS: Ability, AoE, Magical Damage] | Roshan Halloween Burn: A high-speed AoE ability with rotating projectiles for area control. Stats: Radius: 200, Speed: 1000, Damage: 1000, Rotation Angle: 90, Projectile Count: 20.
+---
+[TAGS: STRATEGY, Broodmother, TEAMFIGHT] | Broodmother Teamfight: Initiate with Sticky Snare, focus squishy targets with Insatiable Hunger, and use Spiderlings to overwhelm enemies.
+---
+[TAGS: Ability, Broodmother, Lifesteal, Survivability] | Insatiable Hunger Lifesteal: Augments Broodmother's lifesteal during Insatiable Hunger, enhancing her survivability and sustain in prolonged fights.
+---
+[TAGS: BROODMOTHER, SITUATIONAL, COUNTER_WARDING, VISION] | Scenario: Enemy has Gem of True Sight or Sentry Wards. Your web mobility and Spinner's Snare traps are neutralized. Solution: Do not fight in areas without vision control. Carry your own Dust of Appearance or Sentry Wards to de-ward. Consider buying a Smoke of Deceit to move through enemy vision. Itemize for direct combat (BKB, Satanic) rather than pick-offs.
+---
+[TAGS: VENOMANCER, SITUATIONAL, PLAYING_FROM_BEHIND, DEFENSIVE, VISION] | Scenario: Playing from Behind. When your team is losing, Venomancer transitions to a defensive vision and area denial hero. Spam Plague Wards to secure vision around your jungle and defensive objectives. Use Venomous Gale to slow enemy pushes. Avoid showing on the map; let wards scout. Your talents like -1s Plague Ward Cooldown (level 15) and 2.5x Plague Ward HP/Damage (level 25) become high-value for holding high ground. Itemize for survival (Force Staff, Glimmer Cape) and control (Shiva's Guard).
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, SYNERGY_BUILD, CARRY_ITEM, UPGRADE] | Maelstrom, Cost: 2950: Synergizes with heroes who build attack speed, as it increases the frequency of Chain Lightning procs. Strong on ranged agility carries and universal heroes who can apply the effect safely. Upgrades into Mjollnir and Gleipnir, providing a core damage path.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, WEAK_TO_AOE, ILLUSION_VULNERABLE] | Manta Style HARD_COUNTERS: Countered by abilities and items that quickly clear illusions or apply area-of-effect damage, such as Battle Fury, Maelstrom, and Shiva's Guard. The dispel is ineffective against hard disables like stuns (unless dodged) and most ultimate abilities. Illusions die quickly to magical burst damage. Stats: Illusions take 300% damage, Duration: 18 seconds.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, SITUATIONAL_VS_EVASION, VS_EVASION] | Maelstrom, Cost: 2950: Situational vs Evasion: The Chain Lightning magical damage proc pierces evasion, making it a soft counter to heroes relying on miss chance. While it doesn't grant True Strike for regular attacks, its guaranteed magical damage application helps mitigate evasion's effectiveness. Stats: Damage pierces evasion.
+---
+[TAGS: Ability, AOE, Damage, Shield] | Ion Shell: Surrounds a unit with a damaging shield. Stats: Radius: 275, Damage Per Second: 30/50/70/90, Duration: 20/22/24/26s, Cast Range: 800, Mana Cost: 100/110/120/130
+---
+[TAGS: Ability, Damage, AoE] | Cleave Bonus (100%): Transforms attacks into area damage for wave clear. Stats: Cleave: +100%
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1: Enhances mana regeneration for better spell uptime. Stats: Mana Regen: 1
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1.5: Enhances mana regeneration for prolonged engagements. Stats: Mana Regen: 1.5
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, MANA] | Null Talisman VS_MAGIC: Provides a marginal increase to magic resistance via intelligence. The mana pool and regeneration allow for more frequent spell usage to counter enemy aggression or secure kills. Stats: +5 Intelligence, +1.0 Mana Regeneration, +3% Max Mana.
+---
+[TAGS: ITEM_DATA, DAGON_2, FULL_ITEM, UPGRADE, TIMING, COST_EFFICIENCY] | Dagon 2, Cost: 3950: Not a farming item; its primary use is hero combat and kill securing. The high cost relative to its damage output makes its timing critical. Consider upgrading to higher levels for more damage against tankier targets as the game progresses.
+---
+[TAGS: ITEM_DATA, DAGON_3, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE, NUKER_ITEM, SPELL_LIFESTEAL, UPGRADE, SCALING] | Cost: 5100: Core synergy for high-intelligence heroes like Tinker, Puck, or Pugna to amplify their burst damage and provide healing. The spell lifesteal synergizes with other magic damage items. The upgrade mechanic allows it to scale into the late game.
+---
+[TAGS: STRATEGY, Broodmother, ITEM_BUILD, SITUATIONAL] | Broodmother Situational: Buy Shiva's Guard vs physical damage dealers or Linken's Sphere vs single-target spells. Consider Manta Style for dispelling silences.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1.75: Improves mana regeneration for extended combat scenarios. Stats: Mana Regen: 1.75
+---
+[TAGS: ITEM_DATA, DAGON, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE, MAGICAL_DAMAGE, UPGRADE, SCALING] | Dagon, Cost: 2800: Synergizes with heroes who have high intelligence for increased damage scaling and need an instant-kill tool. Strong on burst mages and heroes lacking a reliable finishing ability. Upgrades provide increased stats and damage. Stats: Upgradable to level 5.
+---
+[TAGS: ITEM_DATA, GLEIPNIR, FULL_ITEM, TEAMFIGHT_ROLE, INITIATION, CATCH, AOE_DAMAGE, MULTI_TARGET, UTILITY] | Gleipnir, Cost: 4550: Primarily an AOE initiation and team fight control tool. Cast from range to root multiple clustered enemies, enabling follow-up abilities and disrupting enemy formations. Effective for setting up high-impact AOE spells or peeling for allies.
+---
+[TAGS: Ability, Debuff, AoE] | Intimidate: Reduces nearby enemies' total attack damage, making it effective against physical-heavy lineups. Stats: Radius: 300/350/400/500, Total Attack Damage Reduction: 60%, Duration: 4, Cooldown: 16, Mana Cost: 50
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_GROUPED, AOE] | Specialist's Array VS_GROUPED: Highly effective against teams that group tightly, as the extra projectiles can splash damage onto multiple heroes or creeps. It provides built-in physical area damage without requiring a separate cleave or splash item, punishing poor positioning in engagements. Stats: Proc Chance: 25%, Secondary Projectiles: 2, Secondary Target Angle: 120°.
+---
+[TAGS: Ability, Broodmother, Slow, Miss Chance] | Incapacitating Bite Slow/Miss Chance: Increases the slow and miss chance of Broodmother's Incapacitating Bite, making it harder for enemies to escape or land attacks.
+---
+[TAGS: ITEM_DATA, WARD_SENTRY, CORE_MECHANICS, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, VS_INVIS] | Cost: 50: Sentry Ward, a consumable detection tool. Provides True Sight within 1050 radius around allied vision, revealing invisible units, wards, and mines. It does not grant ground vision itself. Lasts 7 minutes and can be planted by holding Control to give one to an allied hero. Stats: Lifetime: 7 min (420s), True Sight Range: 1050, CD: 1s, Charges: 1, Health: 200.
+---
+[TAGS: Ability, Summon, Shadow Shaman] | Ward Attack Targets: Increases the number of targets Serpent Wards can attack simultaneously. Stats: Targets: {bonus_bonus_attack_targets}
+---
+[TAGS: ITEM_DATA, DAGON, STAT_PROFILE, FULL_ITEM, INTELLIGENCE, STRENGTH, AGILITY, ATTRIBUTES, SPELL_LIFESTEAL, STATS] | Dagon (Level 5), Cost: 7400: Provides balanced attribute bonuses, offering 15 to all attributes (Strength, Agility, Intelligence) and a permanent 19% Spell Lifesteal. This makes it a survivability and mana pool boost for heroes who cast frequently.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Mjollnir Recipe TEAMFIGHT_ROLE: The recipe itself provides no stats or abilities in a teamfight. Its purchase timing indicates a transition into the late-game, where the completed Mjollnir becomes available. Stats: No combat stats.
+---
+[TAGS: Ability, Damage, AoE] | Cleave Bonus (15%): Small cleave for supplementary area damage. Stats: Cleave: +15%
+---
+[TAGS: ITEM_DATA, WARD_DISPENSER, CORE_MECHANICS, CONSUMABLE, VISION, DETECTION, UTILITY, SUPPORT_ITEM] | Observer and Sentry Wards Dispenser, Cost: 50: Holds both Observer and Sentry wards in one item slot. Double-click to switch between ward types before planting. Can share individual wards with allies by holding Control. Consumable. Stats: No Cooldown, No Mana Cost.
+---
+[TAGS: Ability, Passive, Mana Regen] | Galvanized: Scales mana regeneration over time based on kills and deaths, enhancing sustainability. Stats: Perma MP per Kill: 0.1, MP per Kill: 0.2, Charges per Ult: 3, Radius: 1200, Charges per Death: 2
+---
+[TAGS: ITEM_DATA, DAGON_2, STAT_PROFILE, FULL_ITEM, STRENGTH, AGILITY, INTELLIGENCE, ATTRIBUTES, SPELL_LIFESTEAL, SUSTAIN, STATS] | Dagon 2, Cost: 3950: Provides balanced attribute bonuses of +9 to all stats (Strength, Agility, Intelligence), offering survivability and mana pool for its active ability. The 16% spell lifesteal amplifies sustained magic damage output. Stats: Str/Agi/Int: +9 each, Spell Lifesteal: 16%.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, STAT_PROFILE, DAMAGE, ATTACK_SPEED, DPS] | Maelstrom, Cost: 2950: Provides +25 bonus damage and +25 attack speed. A moderate offensive stat boost that enhances right-click damage output and the frequency of Chain Lightning procs. Its value is amplified by high natural attack speed. Stats: Damage: +25, Attack Speed: +25.
+---
+[TAGS: ITEM_DATA, MAELSTROM, CORE_MECHANICS, FULL_ITEM, FARMING, WAVECLEAR, MAGICAL_DAMAGE, AOE_DAMAGE, ATTACK_MODIFIER, MULTI_TARGET] | Maelstrom, Cost: 2950: Attack modifier that grants a 25% chance on attack to release Chain Lightning, dealing 110 magical damage to up to 4 targets within a 650 radius. Lightning procs pierce evasion. Effective for heroes who can apply rapid attacks to multiple targets for farming and team fight damage. Stats: Chance: 25%, Damage: 110, Targets: 4, Cooldown: 0.2s.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, VS_MAGIC_RESIST, DISPEL] | Mjollnir HARD_COUNTERS: Its damage is entirely magical, making it weak against heroes with high magic resistance or Spell Immunity (Black King Bar). The Static Charge shield and its shock effect are dispellable, meaning it can be removed by abilities like Demonic Purge or items like Eul's Scepter. Stats: Damage Type: Magical, Dispellable: Yes.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, PASSIVE, ILLUSION, DEATH_EFFECT] | Shadow of Vengeance CORE_MECHANICS: Upon death, spawn a strong illusion that deals 100% damage, takes 150% damage, and can cast all basic spells for 30 seconds. The illusion persists after your death, acting as a final source of damage or utility. Stats: Cost: 0 gold, +500 Health, +20% Damage Return.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, DEBUFF_AMPLIFICATION, ILLUSION, UTILITY] | Wizard Glass CORE_MECHANICS: Creates two illusions of an enemy that take 125% damage and deal 10% damage. The illusions apply a 10% debuff amplification aura to all nearby enemy units, weakening them to further spell damage. Stats: Cost: 0 gold, Damage: 125, Radius: 700, Count: 2, Debuff Amplification: 10%, Cooldown Reduction: 8%, Cooldown: 15 seconds.
+---
+[TAGS: STRATEGY, Broodmother, FACETS] | Broodmother Facet Strategy: Necrotic Webs reduces enemy health restoration on webs, making it ideal for early aggression. Feeding Frenzy enhances Insatiable Hunger for Spiderlings, preferred for pushing and teamfights.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 2.5: Significantly boosts mana regeneration for high-intensity spellcasting. Stats: Mana Regen: 2.5
+---
+[TAGS: ITEM_DATA, DAGON_3, STAT_PROFILE, FULL_ITEM, STRENGTH, AGILITY, INTELLIGENCE] | Cost: 5100: Provides balanced attribute bonuses of 7 Strength, 7 Agility, and 7 Intelligence. The item's primary value is from its powerful active ability, not its raw stat profile.
+---
+[TAGS: ITEM_DATA, SYNERGIES, ILLUSION_SYNERGY, SCALING] | Riftshadow Prism SYNERGIES: Synergizes with heroes who have skills that benefit from or buff illusions. Can be used in combination with other illusion-creating items or abilities to overwhelm with numbers or create confusion. The health cost scales, so it pairs well with high-strength or HP regeneration builds. Stats: Health Cost: 10% current HP.
+---
+[TAGS: STRATEGY, Broodmother, TIMING] | Broodmother Power Spike: Peaks at Level 6 with Insatiable Hunger and when acquiring Orchid Malevolence or Black King Bar for mid-game dominance.
+---
+[TAGS: STRATEGY, Broodmother, LANING] | Broodmother Laning: Focus on setting webs aggressively to dominate the lane and harass opponents. Use Spin Web for mobility and Incapacitating Bite for strong trades.
+---
+[TAGS: Void Spirit, SITUATIONAL, ILLUSIONS, AREA_DAMAGE] | Against illusion heroes, Void Spirit's area abilities like Dissimilate and Resonant Pulse can clear illusions. Aether Remnant can control the real hero. Consider items like Mjollnir for additional illusion clear.
+---
+[TAGS: Ability, Passive, Debuff] | Incapacitating Bite: Reduces enemy movement speed and causes misses on attacks, enhancing Broodmother's control in fights. Stats: Miss Chance: 30%/40%/50%/60%, Movement Slow: -15%/-20%/-25%/-30%, Duration: 2.
+---
+[TAGS: BROODMOTHER, ABILITY_DATA, INCAPACITATING_BITE, SLOW, MISS_CHANCE] | Incapacitating Bite (E): Broodmother's attacks apply a venom that slows the target's movement speed by 15/20/25/30% and gives them a 30/40/50/60% chance to miss attacks for 2.0 seconds. Her attacks also deal an additional 3/6/9/12 damage to the affected target. The miss chance stacks with evasion.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 2: Increases mana regeneration for better spell availability. Stats: Mana Regen: 2
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Mjollnir Recipe CORE_BUILD: This is the final component used to craft Mjollnir. It must be combined with the required base items to complete the build. Stats: Cost: 550 gold, Recipe for: Mjollnir.
+---
+[TAGS: ITEM_DATA, DAGON, FULL_ITEM, SITUATIONAL_VS_ILLUSIONS, VS_ILLUSIONS, VS_SUMMONS, COUNTER_ITEM] | Dagon (Level 5), Cost: 6250: Situational vs high-HP illusion heroes (Phantom Lancer, Chaos Knight) as it instantly destroys illusions while dealing significant main-target damage. The heal also provides counter-sustain against chip damage in prolonged fights.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, WEAKNESS] | Mirror Shield HARD_COUNTERS: Ineffective against area-of-effect (AoE) spells, damage-over-time (DoT) abilities, and physical damage. Can be baited out due to its 12-second cooldown. Stats: Block/Reflect Cooldown: 12 seconds.
+---
+[TAGS: STRATEGY, Broodmother, WEAKNESS] | Broodmother Weakness: Vulnerable to Break effects, Silence, and heroes with strong AoE damage to clear Spiderlings.
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, VS_INVIS] | Crucial for establishing early game vision control. Used to de-ward enemy Observer Wards to protect your lane and deny enemy information. Also provides insurance against ganks from invisible supports like Bounty Hunter or heroes using Shadow Amulet. Stats: Cost: 50 gold, True Sight Radius: 1050.
+
+=== GAME STATE ===
+Match Time: 10:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: shadow_shaman (Lvl 6) | HP: 700/900 | Mana: 400/700 | Alive: true
+Stats: K/D/A 1/2/3 | Gold: 800 | LastHits: 15
+Inventory: [item_ward_sentry x3, item_smoke_of_deceit, item_tpscroll x1, item_arcane_boots, item_magic_wand x6, item_ward_observer x2]
+Abilities: [shadow_shaman_ether_shock(Lvl2)[Rdy] | shadow_shaman_voodoo(Lvl2)[Rdy] | shadow_shaman_shackles(Lvl1)[Rdy] | shadow_shaman_mass_serpent_ward(Lvl1)[ULTIMATE-READY]]
+User Situation Notes: Играю на 4-ке. Враги взяли Broodmother на мид, и наш Lina не справляется. Вражеская Brood уже 6-0. У нас нет героев с хорошим AOE уроном.
+
+=== USER QUESTION ===
+"Как мне помочь против Broodmother? Какой предмет собрать?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Как мне помочь против Broodmother? Какой предмет собрать?".**
+========================================
+
+[AI RESPONSE] (3.38s)
+Используйте Mass Serpent Ward, чтобы попытаться заблокировать и задержать Broodmother во время ее атаки. Это создаст давление на нее и позволит вашей команде получить пространство для контратаки. Если вы сможете организовать убийство и обеспечить своей команде AOE урон, рассмотрите покупку таких предметов, как Maelstrom для улучшения волн урона и работы против ее паучьих подкреплений.

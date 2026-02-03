@@ -1,0 +1,290 @@
+[
+  {
+    "display_text": "Invoker is a Ranged intelligence hero with 1.7 base attack time. He has average starting stats: 19 Strength, 14 Agility, and 20 Intelligence. His attack range is standard for ranged heroes, and his primary attribute gain per level varies based on which elemental orbs (Quas, Wex, Exort) are skilled.",
+    "search_text": "Invoker ranged intelligence hero 1.7 base attack time 19 strength 14 agility 20 intelligence",
+    "tags": [
+      "Invoker",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Scholar of Koryx. Quas gains +1 max level and an extra level at hero level 6. This facet's Aghanim's Scepter upgrades Ice Wall, and its Aghanim's Shard upgrades Ghost Walk. This choice facilitates a durable, control-oriented playstyle with stronger slows, regen, and disables from Quas-based spells like Cold Snap and Ice Wall. Facet 2: Mind of Tornarus. Wex gains +1 max level and an extra level at hero level 6. Its Scepter upgrades Tornado, and its Shard upgrades EMP. This enables a mobile, tempo-based playstyle with high movement speed, attack speed, and mana burn. Facet 3: Agent of Gallaron. Exort gains +1 max level and an extra level at hero level 6. Its Scepter and Shard both upgrade Sun Strike. This empowers a high-damage, global/pushing playstyle with strong right-clicks from Alacrity and Forge Spirits, plus lethal Sun Strikes.",
+    "search_text": "Scholar of Koryx Quas max level Ice Wall Ghost Walk Aghanim Scepter Shard. Mind of Tornarus Wex max level Tornado EMP. Agent of Gallaron Exort max level Sun Strike.",
+    "tags": [
+      "Invoker",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, skill build depends on chosen facet and lane role. A Quas-heavy start (1-2 points) provides strong HP regeneration (1-2 HP per second per instance) for sustainability. A Wex start offers move speed (0.6-1.2% per instance) and attack speed for harassment. An Exort start gives bonus damage (2-4 per instance) for last-hitting and harass. At level 2, take a second orb or Invoke. Prioritize last-hits, use forged spirits if skilled for pushing, and use Sun Strike (if skilled) to assist other lanes. Mana management is crucial; use spells sparingly.",
+    "search_text": "Invoker laning phase Quas HP regen Wex move speed attack speed Exort damage last hits Sun Strike global assist forged spirits",
+    "tags": [
+      "Invoker",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Invoker's power spikes are at level 6 (access to Invoke for a second spell), level 12 (maxing two orbs), and level 18 (maxing all three orbs). Level 10 talent (+50 Ice Wall DPS or -4s Tornado Cooldown) enhances control. Level 15 talent (-6s Cold Snap Cooldown or +2 Chaos Meteors) increases lockdown or AoE damage. Level 20 talent (+50 Alacrity Damage/Speed or Radial Deafening Blast) boosts single-target DPS or teamfight control. Level 25 talent (2x Orb Bonuses) is a massive stat boost. Key item timings include Aghanim's Scepter (for empowered basic spells per facet) and Blink Dagger for initiation.",
+    "search_text": "Invoker power spikes level 6 Invoke level 12 max orbs level 18 max orbs talents 10 15 20 25 Aghanim Scepter timing",
+    "tags": [
+      "Invoker",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Invoker is hard-countered by heroes with instant silences (Silencer, Skywrath Mage) or hexes (Lion, Shadow Shaman) that prevent spell invocation and casting. Break effects (Silver Edge, Hoodwink) disable his passive orb bonuses (strength, agility, intelligence). High burst physical damage (Ursa, Phantom Assassin) can kill him through his moderate HP pool. Mana burn (Anti-Mage, Nyx Assassin) cripples his spell-dependent kit. Spell immunity (Black King Bar) blocks most of his spells, though some like Deafening Blast's disarm pierce immunity. Constant gap-close (Spirit Breaker, Clockwerk) limits his positioning.",
+    "search_text": "Invoker counter silence hex break Silver Edge burst physical damage mana burn Anti-Mage Nyx BKB spell immunity gap close",
+    "tags": [
+      "Invoker",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items for Invoker are Aghanim's Scepter (upgrades a basic spell based on facet and reduces Invoke cooldown) and Blink Dagger (for positioning combos like Tornado into Meteor-Deafening Blast). A third essential item is Boots of Travel, providing global map presence to use Sun Strike and split-push with Forge Spirits.",
+    "search_text": "Invoker core build Aghanim Scepter Blink Dagger Boots of Travel",
+    "tags": [
+      "Invoker",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Invoker's role is versatile control and area damage. He initiates or counter-initiates with Tornado (lift) and Ice Wall (slow). He follows up with Chaos Meteor and Deafening Blast for AoE damage and disarm. He provides utility with Cold Snap lockdown on key targets, Alacrity buff on his carry, and EMP for mana burn. His positioning is key; he stays at the edge of fights, invoking spells as needed.",
+    "search_text": "Invoker teamfight control area damage Tornado Ice Wall Chaos Meteor Deafening Blast Cold Snap Alacrity EMP positioning",
+    "tags": [
+      "Invoker",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Quas: Active instances provide 1/2/3/4/5/6/7/8/9/10 HP regeneration per instance. Passively grants 1 strength per level of Quas. Max level is 7 (8 with facet). Does NOT break invisibility and can be cast while channeling.",
+    "search_text": "Quas orb ice hp regeneration strength per level max level 7 8 facet",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "QUAS",
+      "ORB"
+    ]
+  },
+  {
+    "display_text": "Wex: Active instances provide 0.6/1.2/1.8/2.4/3.0/3.6/4.2/4.8/5.4/6.0% movement speed and 1/2/3/4/5/6/7/8/9/10 attack speed per instance. Passively grants 1 agility per level of Wex. Max level is 7 (8 with facet). Does NOT break invisibility and can be cast while channeling.",
+    "search_text": "Wex orb storm movement speed attack speed agility per level max level 7 8 facet",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "WEX",
+      "ORB"
+    ]
+  },
+  {
+    "display_text": "Exort: Active instances provide 2/4/6/8/10/12/14/16/18/20 bonus attack damage per instance. Passively grants 1 intelligence per level of Exort. Max level is 7 (8 with facet). Does NOT break invisibility and can be cast while channeling.",
+    "search_text": "Exort orb fire bonus attack damage intelligence per level max level 7 8 facet",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "EXORT",
+      "ORB"
+    ]
+  },
+  {
+    "display_text": "Invoke: Creates a new spell based on current Quas, Wex, Exort instances, replacing an Invoked Spell slot. Base cooldown is reduced by 0.3 seconds per combined orb level. Can hold 2 invoked spells at once. Does NOT break invisibility and can be cast while channeling. Swapping spell positions costs no mana or cooldown.",
+    "search_text": "Invoke ultimate create spell cooldown reduction 0.3 per orb level 2 spell slots",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "INVOKE",
+      "ULTIMATE"
+    ]
+  },
+  {
+    "display_text": "Cold Snap: Places a debuff on an enemy for 3.0/3.4/3.8/4.2/4.6/5.0/5.4/5.8/6.2/6.6 seconds. Any instance of damage greater than 10 triggers a freeze, stunning for 0.4 seconds and dealing 28/36/44/52/60/68/76/84/92/100 damage. Freeze has a cooldown of 0.80/0.77/0.74/0.71/0.68/0.65/0.62/0.59/0.56/0.53 seconds between triggers. Does NOT pierce BKB. Cooldown: 18 seconds.",
+    "search_text": "Cold Snap QQQ freeze stun 0.4 seconds damage 28 to 100 duration 3 to 6.6 seconds cooldown 18",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "COLD_SNAP",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Ghost Walk: Makes Invoker invisible for 60 seconds, providing 2/4/6/8/10/12/14/16/18/20 HP regen and mana regen per second. Creates an aura in a 450 radius that slows enemies by 20/25/30/35/40/45/50/55/60/65% and slows Invoker by 20/15/10/5/0/5/10/15/20/25%. Slow does NOT affect spell immune enemies. Does NOT pierce BKB. Cooldown: 32 seconds.",
+    "search_text": "Ghost Walk QQW invisibility hp regen mana regen slow enemy self slow aura 450 radius cooldown 32",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "GHOST_WALK",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Tornado: Launches a tornado that travels 1500/1800/2100/2400/2700/3000/3300/3600/3900/4200 distance at 1000 speed, lifting enemies in a 200 radius for 1.2/1.4/1.6/1.8/2.0/2.2/2.4/2.6/2.8/3.0 seconds. Deals 50 base damage plus 45/90/135/180/225/270/315/360/405/450 damage based on Wex level. Provides vision. Does NOT pierce BKB. Cooldown: 27 seconds. Dispels basic debuffs on enemies.",
+    "search_text": "Tornado WWQ lift disable damage 50 base plus Wex damage travel distance 1500 to 4200 cooldown 27 basic dispel",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "TORNADO",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "EMP: Places a charge that detonates after 2.9 seconds in a 675 radius, burning 100/175/250/325/400/475/550/625/700/775 mana and dealing damage equal to 60% of mana burned. If an enemy hero loses mana, Invoker gains 25% of that mana. Does NOT affect cycloned units. Does NOT pierce BKB. Cooldown: Not listed in attributes.",
+    "search_text": "EMP WWW mana burn 100 to 775 damage 60% of mana burned mana gain 25% radius 675 delay 2.9 seconds",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "EMP",
+      "MANA_BURN"
+    ]
+  },
+  {
+    "display_text": "Alacrity: Buffs an ally for 9 seconds, granting 10/22/34/46/58/70/82/94/106/118 attack speed and 10/22/34/46/58/70/82/94/106/118 bonus damage. Does NOT pierce BKB. Cooldown: Not listed in attributes.",
+    "search_text": "Alacrity WEE attack speed bonus damage buff ally 9 seconds duration",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "ALACRITY",
+      "BUFF"
+    ]
+  },
+  {
+    "display_text": "Chaos Meteor: Summons a meteor that lands after 1.3 seconds, then rolls forward 465/615/780/930/1095/1245/1410/1575/1725/1890 distance at 300 speed. Deals 55/80/105/130/155/180/205/220/235/250 damage every 0.5 seconds to enemies in a 275 radius, and applies a burn that deals 10/15/20/25/30/35/40/45/50/55 damage per second for 3 seconds. Does NOT pierce BKB. Cooldown: 50 seconds.",
+    "search_text": "Chaos Meteor EEW meteor damage roll distance 465 to 1890 burn damage cooldown 50",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "CHAOS_METEOR",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Sun Strike: After a 1.7 second delay, deals 175/225/275/325/375/425/475/525/575/625 pure damage split evenly among all enemies in a 175 radius at the target location. Provides vision for 4 seconds. Pierces BKB. Cooldown: 23 seconds. Cataclysm upgrade with Aghanim's Scepter launches multiple strikes.",
+    "search_text": "Sun Strike EEE global pure damage split evenly 175 to 625 radius 175 delay 1.7 vision 4 seconds cooldown 23 pierces BKB",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "SUN_STRIKE",
+      "PURE_DAMAGE",
+      "GLOBAL"
+    ]
+  },
+  {
+    "display_text": "Forge Spirit: Summons 1/1/1/2/2/2/2/3/3/3 spirits (based on lower of Quas and Exort levels). Spirits have 300/400/500/600/700/800/900/1000/1100/1200 HP, 100/150/200/250/300/350/400/450/500/550 mana, 20/30/40/50/60/70/80/90/100/110 damage, 0/1/2/3/4/5/6/7/8/9 armor, and 305/360/415/470/525/580/635/690/745/800 attack range. They last 24/30/36/42/48/54/60/66/72/78 seconds. Their attacks reduce enemy armor by 0.8/0.9/1.0/1.1/1.2/1.3/1.4/1.5/1.6/1.7 per hit. Replaces existing spirits. Does NOT pierce BKB. Cooldown: Not listed in attributes.",
+    "search_text": "Forge Spirit QEE summon spirit count 1 to 3 hp damage armor reduction attack range duration",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "FORGE_SPIRIT",
+      "SUMMON"
+    ]
+  },
+  {
+    "display_text": "Ice Wall: Creates a 1200 length, 105 width wall 200 units in front of Invoker. The wall lasts 3.0/4.0/5.0/6.0/7.0/8.0/9.0/10.0/11.0/12.0 seconds. Enemies near the wall are slowed by 20/40/60/80/100/120/140/160/180/200% for 2 seconds and take 30/36/42/48/54/60/66/72/78/84 damage per second. Does NOT pierce BKB. Cooldown: Not listed in attributes.",
+    "search_text": "Ice Wall QQW wall slow 20 to 200% dps 30 to 84 duration 3 to 12 seconds",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "ICE_WALL",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Deafening Blast: Unleashes a wave that travels 1000 distance at 1100 speed, dealing 70/110/150/190/230/270/310/350/390/430 damage in a line (starting radius 175, ending radius 225). Knocks enemies back for 1.1/1.2/1.3/1.4/1.5/1.6/1.7/1.8/1.9/2.0 seconds and disarms them for 1.5/2.0/2.5/3.0/3.5/4.0/4.5/5.0/5.5/6.0 seconds. The disarm pierces BKB. Cooldown: Not listed in attributes.",
+    "search_text": "Deafening Blast QWE damage knockback disarm pierces BKB duration",
+    "tags": [
+      "Invoker",
+      "ABILITY_DATA",
+      "DEAFENING_BLAST",
+      "DISARM",
+      "KNOCKBACK"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against high-armor, high-physical damage lineups. Focus on spell damage that ignores armor: Sun Strike (pure damage), Chaos Meteor, and Deafening Blast. Build items like Octarine Core for cooldown reduction and Aghanim's Scepter for empowered spells. Use Forge Spirits to reduce enemy armor.",
+    "search_text": "Invoker vs high armor physical damage Sun Strike pure damage Chaos Meteor Deafening Blast Octarine Core Aghanim Scepter Forge Spirit armor reduction",
+    "tags": [
+      "Invoker",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind with low farm. Prioritize utility and control spells. Use Tornado and Ice Wall to defend high ground. Cast EMP to drain mana from pushing enemies. Use Sun Strike to secure kills elsewhere on the map. Itemize for survivability (Force Staff, Eul's Scepter) and mana regeneration.",
+    "search_text": "Invoker playing from behind low farm utility control Tornado Ice Wall EMP mana drain Sun Strike global Force Staff Eul Scepter",
+    "tags": [
+      "Invoker",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against high mobility heroes (e.g., Storm Spirit, Anti-Mage). Use instant disables like Cold Snap to interrupt blinks and channels. Place Ice Wall to slow elusive targets. Consider building Scythe of Vyse for guaranteed hex. Use Tornado to lift mobile heroes during their engagement.",
+    "search_text": "Invoker vs high mobility Storm Spirit Anti-Mage Cold Snap interrupt Ice Wall slow Scythe of Vyse hex Tornado lift",
+    "tags": [
+      "Invoker",
+      "SITUATIONAL",
+      "VS_HIGH_MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: When your team needs push and map control. Max Exort and Quas to summon multiple Forge Spirits (up to 3) with high damage and HP. Use Alacrity on yourself or the spirits to destroy towers. Keep Sun Strike ready to punish defenders elsewhere. Build Desolator for additional push.",
+    "search_text": "Invoker push map control Forge Spirits multiple Alacrity towers Sun Strike global Desolator",
+    "tags": [
+      "Invoker",
+      "SITUATIONAL",
+      "PUSH_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus illusion or summon-based heroes (e.g., Phantom Lancer, Broodmother). Use area-of-effect spells like Chaos Meteor and Deafening Blast to clear illusions. Ice Wall slows entire groups. Consider purchasing Shiva's Guard or Gleipnir for additional AoE damage and control.",
+    "search_text": "Invoker vs illusions summons Phantom Lancer Broodmother Chaos Meteor Deafening Blast Ice Wall Shiva Guard Gleipnir",
+    "tags": [
+      "Invoker",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a strong early-game lineup aiming to end quickly. Focus on a Quas-Wex build for maximum control with Tornado, EMP, and Cold Snap. Build Urn of Shadows and Spirit Vessel to amplify damage. Use Ghost Walk for ganks. Take objectives after successful pick-offs.",
+    "search_text": "Invoker early game aggression Quas Wex Tornado EMP Cold Snap Urn Spirit Vessel Ghost Walk gank",
+    "tags": [
+      "Invoker",
+      "SITUATIONAL",
+      "EARLY_AGGRESSION"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left talent grants +50 damage per second to Ice Wall. Right talent reduces Tornado cooldown by 4 seconds. Choose Ice Wall DPS if you are focusing on control and area denial in fights. Choose Tornado cooldown if you need more frequent disables and wave clear.",
+    "search_text": "Invoker talent level 10 left +50 Ice Wall DPS right -4s Tornado Cooldown control vs disable frequency",
+    "tags": [
+      "Invoker",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left talent reduces Cold Snap cooldown by 6 seconds. Right talent summons 2 additional Chaos Meteors. Choose Cold Snap cooldown for single-target lockdown against key heroes like channeling spellcasters. Choose extra Meteors for massive area damage and wave clear in teamfights.",
+    "search_text": "Invoker talent level 15 left -6s Cold Snap Cooldown right +2 Chaos Meteors lockdown vs AoE damage",
+    "tags": [
+      "Invoker",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left talent increases Alacrity bonus attack speed and damage by 50. Right talent changes Deafening Blast to release additional blasts in a circle around Invoker (each enemy can be hit once). Choose Alacrity if your team has a strong physical damage carry to buff. Choose Radial Deafening Blast for superior teamfight control and area disarm.",
+    "search_text": "Invoker talent level 20 left +50 Alacrity Damage/Speed right Radial Deafening Blast circular pattern disarm",
+    "tags": [
+      "Invoker",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left talent doubles the active bonuses from Quas (HP regen), Wex (move/attack speed), and Exort (attack damage) per instance. This significantly increases Invoker's survivability, mobility, and right-click damage. The right talent is not specified in the data. Typically, the choice is between this and another option like +1 Forged Spirit armor reduction.",
+    "search_text": "Invoker talent level 25 left 2x Quas Wex Exort active bonuses double hp regen move speed attack speed damage",
+    "tags": [
+      "Invoker",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

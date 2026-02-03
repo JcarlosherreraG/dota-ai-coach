@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Grimstroke Aghanim's Scepter: Dark Portrait creates an ink illusion of an enemy hero with debuff immunity and high magic resistance. This upgrade counters single-target disables and magic damage, allowing Grimstroke to create a powerful, nearly unkillable distraction that can disrupt enemy formations and force them to focus the illusion.",
+    "search_text": "Grimstroke Aghanim Scepter Dark Portrait illusion debuff immunity magic resistance anti-disable distraction",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Grimstroke",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Grimstroke Aghanim's Shard: Enhances Ink Swell with a basic dispel on cast and increases its damage while healing the target. This upgrade counters soft disables (slows, roots) and sustain damage, transforming Ink Swell into a defensive and offensive tool that enables safer initiations and sustain for allies.",
+    "search_text": "Grimstroke Aghanim Shard Ink Swell dispel sustain heal anti-disable initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Grimstroke",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

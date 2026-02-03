@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Enhancement: Audacious, Tier: Neutral Item: A neutral item upgrade that grants significant bonuses to magic damage output and attack speed, but comes at the cost of taking increased damage. Provides +80 Magic Damage and +100 Attack Speed but increases incoming damage by 10%. Stats: Magic Damage: +80, Attack Speed: +100, Incoming Damage Increase: +10%.",
+    "search_text": "neutral item, tier neutral, enhancement, audacious, magic damage item, attack speed item, damage boost, DPS increase, risk reward item, high risk high reward, glass cannon, offensive neutral, Audacious, Enhancement Audacious",
+    "tags": [
+      "ITEM_DATA",
+      "ENHANCEMENT_AUDACIOUS",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "MAGIC_DAMAGE",
+      "ATTACK_SPEED",
+      "DAMAGE",
+      "HIGH_RISK",
+      "OFFENSIVE",
+      "UTILITY"
+    ]
+  }
+]

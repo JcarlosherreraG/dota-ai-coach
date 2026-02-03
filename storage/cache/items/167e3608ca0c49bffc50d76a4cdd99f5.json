@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Circlet of the Flayed Twins, Tier Neutral: Passive ability Bloodbath converts a percentage of damage taken over the last 10 seconds into health regeneration, up to a maximum amount. Provides survivability for heroes that take consistent damage but lack innate sustain. Stats: Damage Converted: 10%, Time Window: 10s, Max Regen: 12 HP/s.",
+    "search_text": "damage to health regen, lifesteal from damage, sustain item, neutral item, tank item, survival item, damage conversion, passive regen, health regen from damage, sustain passive, regen item, Circlet of the Flayed Twins",
+    "tags": [
+      "ITEM_DATA",
+      "CIRCLET_OF_THE_FLAYED_TWINS",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "REGEN",
+      "SUSTAIN",
+      "SURVIVAL",
+      "DEFENSIVE",
+      "PASSIVE_EFFECT"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Fairy's Trinket. Tier N / Event: A special non-purchasable reward providing passive attribute bonuses and a unique utility effect. Grants health, spell power amplification, and mana efficiency. Stats: Health: +50, Spell Amp: +5%, Manacost Reduction: +5%.",
+    "search_text": "fairy's trinket, neutral item, event item, free stats, health item, spell amp item, manacost reduction, passive bonuses, plus health, plus spell amp, Fairy's Trinket",
+    "tags": [
+      "ITEM_DATA",
+      "FAIRYS_TRINKET",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "EVENT",
+      "HEALTH",
+      "SPELL_AMP",
+      "MANA_EFFICIENCY",
+      "UTILITY"
+    ]
+  }
+]

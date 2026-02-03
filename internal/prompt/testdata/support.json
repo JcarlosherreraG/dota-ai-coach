@@ -1,0 +1,46 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "222222222",
+    "game_time": 900,
+    "clock_time": 900,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": true
+  },
+  "player": {
+    "team_name": "Dire",
+    "name": "SupportKing",
+    "gold": 1600,
+    "kills": 0,
+    "deaths": 5,
+    "assists": 2,
+    "last_hits": 10,
+    "gpm": 250,
+    "xpm": 300
+  },
+  "hero": {
+    "name": "npc_dota_hero_crystal_maiden",
+    "level": 8,
+    "health": 900,
+    "max_health": 900,
+    "mana": 600,
+    "max_mana": 1000,
+    "alive": false
+  },
+  "items": {
+    "slot0": { "name": "item_tranquil_boots" },
+    "slot1": { "name": "item_magic_wand", "charges": 10 },
+    "slot2": { "name": "item_ward_observer" },
+    "slot3": { "name": "item_empty" },
+    "slot4": { "name": "item_empty" },
+    "slot5": { "name": "item_empty" }
+  },
+  "abilities": {
+    "ability0": { "name": "crystal_maiden_crystal_nova", "level": 4 },
+    "ability1": { "name": "crystal_maiden_frostbite", "level": 1 },
+    "ability2": { "name": "crystal_maiden_brilliance_aura", "level": 2 },
+    "ability3": { "name": "crystal_maiden_freezing_field", "level": 1 }
+  },
+  "user_context": "Играю на 5-ке. У врагов Riki очень расфиженный, постоянно прыгает на меня с тучки и убивает за пару ударов. Я не успеваю даже ультануть.",
+  "user_question": "Рики меня постоянно вырезает. Что мне купить, чтобы выживать и видеть его?"
+}

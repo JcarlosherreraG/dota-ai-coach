@@ -1,0 +1,170 @@
+[
+  {
+    "display_text": "Doom is a Strength melee hero with an attack range of 150. His attack rate is 1.9. Starting stats: 24 Strength (plus 3.7 per level), 15 Agility (plus 1.5 per level), 15 Intelligence (plus 1.7 per level). This gives him a high base health pool but low starting armor and a slow attack speed. His base turn rate is average.",
+    "search_text": "Doom stats attack type melee range 150 strength agility intelligence base stats hero attributes",
+    "tags": [
+      "DOOM",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet choice defines Doom's playstyle. Gluttony provides Devour with extra charges and upgrades stolen creep abilities by one level, prioritizing lane sustain and farming speed. Impending Doom increases the duration of Doom by 0.0 minutes every 0.0 seconds, scaling your ultimate's impact later into the game. Choose Gluttony for faster tempo and lane dominance; choose Impending Doom for a more late-game oriented, teamfight-focused build.",
+    "search_text": "Doom facets Gluttony Impending Doom Devour charges upgrade creep abilities ultimate duration scaling playstyle",
+    "tags": [
+      "DOOM",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, prioritize Devour level 1 to secure last hits and get bonus gold, aiming for high-HP or ability-utility creeps. Scorched Earth at level 2 provides crucial sustain, damage, and movement speed for trading. Use Infernal Blade for harassment and last-hitting under pressure. The main goal is to reach level 6 for Doom, which can kill most offlaners or midlaners with support follow-up.",
+    "search_text": "Doom laning phase early game Devour gold Scorched Earth sustain Infernal Blade harass level 6 kill potential",
+    "tags": [
+      "DOOM",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6 is Doom's first major spike with his ultimate, enabling solo kills. Level 7 with maxed Scorched Earth improves farming and fighting. Talent levels 10 and 15 offer defensive or utility boosts. Level 18 with maxed Infernal Blade and a core item like Blink Dagger or Shiva's Guard is a major teamfight power spike. Level 25 talents dramatically upgrade his ultimate's utility (Mute or Break). Aghanim's Shard provides significant value.",
+    "search_text": "Doom power spikes level 6 Doom ultimate level 7 Scorched Earth talents 10 15 18 25 items Blink Shiva Shard Aghanim",
+    "tags": [
+      "DOOM",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Doom is hard-countered by heroes with Break (e.g., Shadow Demon, Hoodwink) which disables his Lvl? Death passive. Instant disables or saves (Oracle's False Promise, Abbadon's Borrowed Time) can negate his ultimate. Heroes with strong dispels (Legion Commander's Press the Attack, Slark's Dark Pact) can remove Doom. High mobility heroes can kite him outside his Scorched Earth range.",
+    "search_text": "Doom counters Break Lvl? Death passive disabled instant save dispel Oracle Abbadon Legion Slark mobility kite",
+    "tags": [
+      "DOOM",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Blink Dagger is essential for reliable Doom initiation. Shiva's Guard provides armor, intelligence, and a powerful active slow that synergizes with his melee range and Scorched Earth. Boots of Travel are often core for global map presence and split-push potential. Aghanim's Scepter is situational but turns Doom into an AOE aura, valuable against multiple spell-dependent heroes.",
+    "search_text": "Doom core items Blink Dagger Shiva Guard armor slow intelligence Boots Travel global Aghanim Scepter aura",
+    "tags": [
+      "DOOM",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Doom's primary teamfight role is to initiate and delete a key enemy hero with Doom. After casting his ultimate, he should stay alive within the fight using Scorched Earth for AOE damage and movement speed, applying Infernal Blade to secondary targets. He is a frontliner who soaks damage and disrupts the enemy backline, using his aura items (Shiva's Guard) to control the fight area.",
+    "search_text": "Doom teamfight role initiator delete key hero frontliner soak damage Scorched Earth AOE Infernal Blade disrupt",
+    "tags": [
+      "DOOM",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Devour consumes an enemy or neutral creep over 0 seconds, granting Doom its abilities for 70.0 seconds (the cooldown duration) and granting 35/70/105/140 bonus gold. It can target creeps level 4/5/6/6. If alt-cast is off, abilities are not acquired. It does not pierce spell immunity.",
+    "search_text": "Doom Devour Q consume creep steal ability bonus gold 35 70 105 140 cooldown 70 seconds spell immunity not pierce",
+    "tags": [
+      "DOOM",
+      "ABILITY_DATA",
+      "DEVOUR"
+    ]
+  },
+  {
+    "display_text": "Scorched Earth creates a 600 radius area around Doom for 10.0/12.0/14.0/16.0 seconds, dealing 20/35/50/65 damage per second to enemies and granting Doom 7%/8%/9%/10% bonus movement speed. Cooldown is 41/39/37/35 seconds. It does not heal Doom. Does NOT pierce BKB.",
+    "search_text": "Doom Scorched Earth W AOE damage 20 35 50 65 DPS movement speed buff 7 8 9 10 percent radius 600 cooldown 41 39 37 35 does not pierce BKB",
+    "tags": [
+      "DOOM",
+      "ABILITY_DATA",
+      "SCORCHED_EARTH"
+    ]
+  },
+  {
+    "display_text": "Infernal Blade is an attack modifier that stuns the target for 0.6 seconds and applies a burn for 4 seconds, dealing 15/30/45/60 base damage plus 1%/2%/3%/4% of the target's Max HP as damage per second. Does NOT pierce BKB.",
+    "search_text": "Doom Infernal Blade E attack modifier stun 0.6 seconds burn damage 15 30 45 60 plus max HP percent 1 2 3 4 DPS duration 4 seconds does not pierce BKB",
+    "tags": [
+      "DOOM",
+      "ABILITY_DATA",
+      "INFERNAL_BLADE"
+    ]
+  },
+  {
+    "display_text": "Doom is a targeted ultimate with a 12/14/16 second duration. It deals 25/45/65 damage per second, dispels the target (Basic Dispel), and prevents them from casting spells or healing. The target becomes deniable below 25% HP. Cooldown is 140/130/120 seconds. Does NOT apply Mute or Break by default (see talents). Does NOT pierce BKB.",
+    "search_text": "Doom ultimate R channel disable mute silence heal prevent dispel basic damage per second 25 45 65 duration 12 14 16 cooldown 140 130 120 deniable 25 percent HP does not pierce BKB",
+    "tags": [
+      "DOOM",
+      "ABILITY_DATA",
+      "DOOM_ULTIMATE"
+    ]
+  },
+  {
+    "display_text": "Lvl? Death is Doom's innate ability. His attacks deal 25% bonus damage to enemy heroes whose level is lower than his own. At max level, this applies to all hero attacks.",
+    "search_text": "Doom innate passive Lvl? Death attack bonus damage 25 percent against lower level heroes max level applies to all heroes",
+    "tags": [
+      "DOOM",
+      "ABILITY_DATA",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "When facing heroes with strong magic damage output (e.g., Zeus, Leshrac), prioritize the Magic Resistance from Devour talent, a Hood of Defiance, or a Pipe of Insight. Your high health pool from Strength is less effective against magic burst without resistance. Use Scorched Earth proactively for the movement speed to dodge skillshots.",
+    "search_text": "Doom scenario vs magic damage burst Zeus Leshrac magic resistance talent Hood Defiance Pipe Insight Scorched Earth dodge",
+    "tags": [
+      "DOOM",
+      "SITUATIONAL",
+      "VS_MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, focus on farming with Devour and Scorched Earth to catch up. Avoid using Doom without kill confirmation. Build utility items like Shiva's Guard or Crimson Guard that help your team even if you are underfarmed. Use Doom defensively to stop the enemy's most fed carry during their push.",
+    "search_text": "Doom scenario playing from behind farming catch up Devour Scorched Earth avoid risky Doom utility items Shiva Crimson Guard defensive ultimate",
+    "tags": [
+      "DOOM",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Against high-mobility, elusive heroes (Weaver, Storm Spirit, Puck), a fast Blink Dagger is critical. Follow up with items that provide lockdown or reveal, such as Rod of Atos or Nullifier. Use Doom after they have used their escape abilities. Consider the Facet that best secures your farm to reach these items.",
+    "search_text": "Doom scenario vs mobile elusive heroes Weaver Storm Puck Blink Dagger lockdown Rod Atos Nullifier Doom timing escape skills",
+    "tags": [
+      "DOOM",
+      "SITUATIONAL",
+      "VS_MOBILE_HEROES"
+    ]
+  },
+  {
+    "display_text": "For the Level 10 talent, choose between Devour grants 15% Magic Resistance or +0.2s Infernal Blade Stun Duration. The Magic Resistance is a safe, defensive choice for survivability against magic-heavy lineups. The extra stun duration provides more lockdown, which is valuable if your team lacks control or you are focusing on early pick-offs.",
+    "search_text": "Doom talent level 10 left Devour 15 magic resistance right Infernal Blade stun 0.2 seconds defensive vs lockdown pickoff",
+    "tags": [
+      "DOOM",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "For the Level 15 talent, choose between +5% Scorched Earth Movement Speed or Devour Can Target Ancients. The movement speed makes you significantly faster in fights and chases, enhancing your mobility and escape. Targeting Ancients with Devour gives massive bonus gold (140) and access to powerful ancient abilities, accelerating your farm and late-game potential dramatically.",
+    "search_text": "Doom talent level 15 left Scorched Earth move speed 5 percent right Devour target Ancients gold 140 farm acceleration",
+    "tags": [
+      "DOOM",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "For the Level 20 talent, choose between -10s Scorched Earth Cooldown or +2.5% Infernal Blade Max HP As Damage. The cooldown reduction allows near-permanent uptime on Scorched Earth, improving farming speed and teamfight presence. The Infernal Blade damage increase is strong against high-HP strength heroes, making your right-click harass and man-fighting much more potent.",
+    "search_text": "Doom talent level 20 left Scorched Earth cooldown minus 10 seconds right Infernal Blade damage plus 2.5 percent max HP farming vs anti-tank",
+    "tags": [
+      "DOOM",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "For the Level 25 talent, choose between Doom applies Mute or Doom applies Break. Mute prevents the target from using items, which is devastating against heroes reliant on BKB, Blink Dagger, or Satanic. Break disables passive abilities, crucial for countering heroes like Bristleback, Phantom Assassin, or Spectre. The choice depends entirely on the key enemy hero you need to shut down.",
+    "search_text": "Doom talent level 25 left Doom applies Mute items disabled right Doom applies Break passives disabled Bristleback PA Spectre counter",
+    "tags": [
+      "DOOM",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

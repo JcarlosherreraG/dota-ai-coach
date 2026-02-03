@@ -1,0 +1,277 @@
+FILE: auto_closing_game.json
+QUESTION: What is the most important tactical advice for next 30 seconds?
+GENERATION TIME: 2.02s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, HARD_COUNTERS, VS_MAGIC_RESIST, VULNERABLE_ESCAPE] | Overwhelming Blink HARD_COUNTERS: Silences or disables prevent casting; magic resistance reduces damage output. The 3-second cooldown after taking hero damage vulnerabilities escape. Stats: Blink Damage Cooldown: 3 seconds, Damage Type: Magical.
+---
+[TAGS: ITEM_DATA, ENHANCEMENT_AUDACIOUS, CORE_DESCRIPTION, NEUTRAL, MAGIC_DAMAGE, ATTACK_SPEED, DAMAGE, HIGH_RISK, OFFENSIVE, UTILITY] | Enhancement: Audacious, Tier: Neutral Item: A neutral item upgrade that grants significant bonuses to magic damage output and attack speed, but comes at the cost of taking increased damage. Provides +80 Magic Damage and +100 Attack Speed but increases incoming damage by 10%. Stats: Magic Damage: +80, Attack Speed: +100, Incoming Damage Increase: +10%.
+---
+[TAGS: EARTH_SPIRIT, BASE_STATS] | Earth Spirit is a Melee hero with a base Strength of 22, Agility of 17, and Intelligence of 18. With a base attack rate of 1.7, he has a below-average attack speed. His primary attributes are fairly balanced for an initiator, but his melee status and slow attack animation require careful positioning in lane.
+---
+[TAGS: STRATEGY, Tinker, WEAKNESS] | Tinker Weakness: Vulnerable to Silence (disables Rearm) and gap-close heroes (e.g., Storm Spirit, Anti-Mage). Break effects also ruin Defense Matrix.
+---
+[TAGS: TINKER, BASE_STATS, STATS] | Tinker is an Intelligence-based ranged hero with 19 starting Strength, 17 starting Agility, and 30 starting Intelligence. With a base attack rate of 1.7 seconds per attack, his early game right-click is average to slow. He has no innate health or armor advantages, making him vulnerable in lane. His primary strength is his high Intelligence pool for early spellcasting.
+---
+[TAGS: STRATEGY, Undying, TEAMFIGHT] | Undying Teamfight: Acts as a frontline tank, disrupting enemies with Tombstone and Decay while soaking damage in Flesh Golem form.
+---
+[TAGS: STRATEGY, Sniper, WEAKNESS] | Sniper Weakness: Vulnerable to gap-closing heroes (Spectre, Storm Spirit), Break (Silver Edge disables Headshot), and long-range initiation (Clockwerk, Batrider).
+---
+[TAGS: STRATEGY, Tinker, TIMING] | Tinker Power Spike: Peaks at level 12 (Rearm level 2) with Blink Dagger and Soul Ring, enabling infinite spell spam and global map pressure.
+---
+[TAGS: STRATEGY, Disruptor, ITEM_BUILD, SITUATIONAL] | Disruptor Situational: Buy Glimmer Cape or Eul's Scepter for survival vs burst damage. Consider Lotus Orb vs Silences or debuffs. Guardian Greaves for team sustain.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, DEFENSIVE, FRONTLINE] | Witless Shako TEAMFIGHT_ROLE: Enhances a hero's ability to frontline and survive focused damage in prolonged engagements. The HP boost is crucial for heroes who are naturally mana-independent or rely on health-based sustainability. Stats: Max Health Increase: +1350.
+---
+[TAGS: SNIPER, LANING_PHASE] | During the laning phase, Sniper's primary goal is to secure last hits from a distance using his long base attack range. Use Shrapnel sparingly for wave clear, harassment, and securing range creep kills. The Headshot proc chance (40% at all levels) helps with harass and zoning. Be extremely cautious of positioning due to low HP and no escape. Focus on gaining levels and farm safely.
+---
+[TAGS: DISRUPTOR, BASE_STATS] | Disruptor is a Ranged Intelligence hero with base stats of 21 Strength, 15 Agility, and 20 Intelligence. He has a slow attack rate of 1.7 seconds per attack and 305 movement speed. His starting attributes are fairly average for a ranged support, with no standout armor or movement speed.
+---
+[TAGS: STRATEGY, Disruptor, ITEM_BUILD, CORE] | Disruptor Core Build: Aghanim's Scepter and Force Staff are essential for enhancing Static Storm and repositioning in fights. Arcane Boots for mana sustain.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Ring of Regen TEAMFIGHT_ROLE: Primarily a utility component; its role in fights is indirect. It provides sustain to build into other items like Headdress or Hood of Defiance, which offer teamfight benefits. The regeneration helps sustain between engagements. Stats: Health Regeneration: +1.25.
+---
+[TAGS: RUBICK, HARD_COUNTERS, COUNTER] | Rubick is hard-countered by heroes with Break (e.g., Silver Edge, Hoodwink) which disables his Arcane Supremacy passive from gaining new stacks, crippling his cast range and spell potency. Instant silences (e.g., Skywrath Mage, Orchid Malevolence) or hexes prevent him from casting stolen spells or his own disables. Spell immunity (BKB) blocks Fade Bolt and Telekinesis, making him useless against magic-immune cores. High mobility heroes can dodge his skillshots.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Outworld Staff HARD_COUNTERS: The self-disable (0.7s) can be exploited if enemies predict or wait out the effect. The post-effect damage mutes Blink Dagger, limiting immediate escape. Doom's ultimate and other effects that prevent item usage neutralize its value. Stats: Self Damage on Return: 5% of maximum health, Mutes items on damage.
+---
+[TAGS: STRATEGY, Techies, ITEM_BUILD, CORE] | Techies Core Build: Aghanim's Scepter (non-negotiable for Proximity Mines) and Blink Dagger (for mine placement/escape).
+---
+[TAGS: TECHIES, LANING_PHASE] | During the laning phase, Techies relies on Sticky Bomb for harassment and zoning. The ability slows by 25/35/45/55% for 1.2 seconds, making it easier for you or your lane partner to secure kills. Use your high starting Intelligence to spam it. Place Proximity Mines defensively near your tower or offensively in lane bushes to control the area, but remember they have a 1-second activation delay and become visible if an enemy is within 500 AoE. Avoid taking bad trades due to your low base armor and HP.
+---
+[TAGS: TECHIES, ABILITY_DATA, STICKY_BOMB] | Sticky Bomb (Q): Techies lobs a bomb that sticks to the first enemy hero it lands near, slowing their movement speed by 25/35/45/55% for 1.2 seconds. After a 2-second countdown, it explodes for 95/170/245/320 magic damage in a 350 radius and applies a secondary slow of 15/25/35/45% for 3 seconds. The bomb has a travel speed of 500 and chases a target for up to 4 seconds if none is initially stuck. It has a 300 placement radius.
+---
+[TAGS: AGHS_STRATEGY, Tinker, COUNTER_MECHANIC, AGHANIM] | Tinker Aghanim's Shard: Grants Warp Flare, teleporting and rooting enemies while reducing their Cast and Attack Range. This counters positioning-dependent heroes and ranged attackers, disrupting their effectiveness in team fights.
+---
+[TAGS: STRATEGY, Disruptor, FACETS] | Disruptor Facet Strategy: Thunderstorm enhances Thunder Strike's AoE and Slow, making it ideal for teamfight-heavy roles. Kinetic Fence replaces Kinetic Field with impassable walls, useful for map control. Transference allows Electromagnetic Repulsion to deal damage based on Disruptor's health, suitable for tankier builds.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY, TIMING] | Tome of Knowledge TEAMFIGHT_ROLE: Provides no direct combat benefit. Its value lies in securing key ability or talent level timings for your team before an engagement, such as reaching a critical ultimate level or a powerful talent tier earlier than the opponent. Stats: Experience: 750 base, 150 per extra team tome.
+---
+[TAGS: Ability, Passive, Range] | Keen Scope: Passively extends Sniper's attack range for safer positioning. Stats: Attack Range Bonus: 160/260/360/460
+---
+[TAGS: ITEM_DATA, BOUNDLESS, CORE_DESCRIPTION, NEUTRAL, UPGRADE, RANGE_BOOST, ATTACK_RANGE, CAST_RANGE, SAFETY, UTILITY] | Boundless, Cost: 0: Neutral Upgrade item that permanently increases Attack Range by 150 and Cast Range by 275. This significant range boost enhances the safety and reach of both right-click and spell-based heroes, allowing them to operate from further away in engagements. Stats: Attack Range: +150, Cast Range: +275.
+---
+[TAGS: STRATEGY, Lycan, ITEM_BUILD, SITUATIONAL] | Lycan Situational: Buy BKB against heavy CC, Pipe of Insight vs. magic damage, and Nullifier vs. defensive items like Ghost Scepter.
+---
+[TAGS: STRATEGY, Sniper, ITEM_BUILD, CORE] | Sniper Core Build: Dragon Lance (non-negotiable for range/survivability) and Mask of Madness (enables farming + burst DPS).
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, AMPLIFY, COORDINATION] | Nemesis Curse TEAMFIGHT_ROLE: Focus on amplifying damage on a single priority target, such as the enemy carry or a critical spellcaster, to enable burst kills from your team. The self-inflicted damage vulnerability requires careful positioning to avoid being focused down while the debuff is active. The item encourages a 'marked for death' playstyle for coordinated teams. Stats: Enemy Damage Amplification: 12% for 5 seconds.
+---
+[TAGS: STRATEGY, Undying, WEAKNESS] | Undying Weakness: Vulnerable to Break effects (e.g., Silver Edge) which disable his Tombstone and Flesh Golem passives.
+---
+[TAGS: Earth Spirit, Ability, Crowd Control] | Magnetize Damage & Duration: Increases Magnetize damage and duration by 30%, amplifying its crowd control and damage output.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, TEAM_BUFF, TEAMFIGHT, PUSH] | A teamfight-enabling utility item. The active ability should be used at the start of a major engagement or objective push to maximize the value of the +15 all stats buff across your team. The large 450 AoE makes it effective for grouped teamfights and high-ground sieges. The bonus cast range allows the user to safely apply the buff from the edge of a fight.
+---
+[TAGS: STRATEGY, Sniper, ITEM_BUILD, SITUATIONAL] | Sniper Situational: Hurricane Pike vs melee divers (e.g., PA), BKB vs magic lockdown, Mjollnir vs illusions. Consider Shadow Blade vs squishy lineups for pickoffs.
+---
+[TAGS: STRATEGY, Techies, WEAKNESS] | Techies Weakness: Vulnerable to True Sight (Gem/Sentries), high-mobility heroes (Storm Spirit), and long-range disables (Pudge Hook, Clockwerk Cogs).
+---
+[TAGS: STRATEGY, Earth Spirit, ITEM_BUILD, SITUATIONAL] | Earth Spirit Situational: Buy Lotus Orb vs Silence, BKB vs stuns, or Spirit Vessel vs heal-heavy lineups.
+---
+[TAGS: STRATEGY, Meepo, ITEM_BUILD, SITUATIONAL] | Meepo Situational: Buy BKB against heavy magic damage or stuns. Consider Manta Style versus silences or Orchid carriers.
+---
+[TAGS: Disruptor, Ability, Damage Scaling] | Glimpse Distance To Damage/Max: Increases Glimpse damage scaling with distance, enhancing its repositioning damage potential.
+---
+[TAGS: DISRUPTOR, SITUATIONAL, PLAYING_FROM_BEHIND] | Scenario: Playing from behind with a deficit. Strategy: Focus on defensive warding and catching solo heroes with Glimpse. Use Kinetic Field defensively to zone enemies during pushes or to protect your high ground. Prioritize cheaper items like Force Staff or Glimmer Cape over Aghanim's Scepter to survive and enable your carry.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, POSITIONING, BACKLINE] | Magnifying Monocle TEAMFIGHT_ROLE: Enables backline positioning by increasing cast and attack range, allowing heroes to contribute from a distance in fights. Best for heroes who can avoid taking significant damage to keep the effect active, such as through stealth or barriers. Stats: Bonus Attack Range: 100, Bonus Cast Range: 100, Disable Condition: 25 damage from players or Roshan.
+---
+[TAGS: LYCAN, HARD_COUNTERS, COUNTERS] | Lycan is hard countered by heroes with heavy area-of-effect damage and control that can quickly clear his summoned units, such as Legion Commander (Overwhelming Odds), Earthshaker (Echo Slam), and Kunkka (Tidebringer, Ghostship). Heroes with Break (like Doom, Shadow Demon, Viper) disable his Feral Impulse passive. Instant disables like Hex prevent him from using Shapeshift to escape. High armor and damage block significantly reduce the impact of his physical damage and wolves.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_DEFENSE, PUSH] | Roshan's Banner SITUATIONAL_VS_DEFENSE: Counters heroes who rely on quickly clearing creep waves to stall pushes. It provides a guaranteed wave of damage-immune creeps to pressure towers or barracks. Stats: Banner Duration: 120 seconds, Effect Radius: 600 / 900 / 1200.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_PUSH, DEFENSIVE] | Pocket Tower SITUATIONAL_VS_PUSH: Functions as a counter-push and anti-siege tool. It can be placed behind your own structures to add an extra defensive tower during high-ground defenses or dropped to halt an enemy creep wave's advance, buying precious time. Stats: Point Target behavior.
+---
+[TAGS: SNIPER, HARD_COUNTERS] | Sniper is hard countered by heroes with high mobility, gap-close, and long-range initiation. Heroes like Spirit Breaker, Clockwerk, Tusk, and Spectre can jump on him directly, bypassing his range advantage. Break mechanics (Silver Edge, Hoodwink) disable his Headshot and Take Aim passives. Instant disables (Hex) prevent him from using any skills or items. High physical burst damage can kill him before he can react.
+---
+[TAGS: DISRUPTOR, HARD_COUNTERS] | Disruptor is hard-countered by heroes with magic immunity (BKB) which blocks all his spells except Static Storm's silence (which pierces BKB). Heroes with instant silences or hexes can prevent him from casting his combo. Heroes with high mobility or escape abilities can avoid being caught in Kinetic Field or can escape after being Glimpsed. Illusion-based heroes can be problematic as Glimpse instantly kills them, but they can overwhelm with numbers.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, COMPONENT, SYNERGIES] | Quarterstaff CORE_BUILD: This is a pure component item. It builds into many crucial offensive and utility items, such as Orchid Malevolence, Sange and Yasha, and Monkey King Bar. It has no active synergies on its own but is a required piece for key upgrades. Stats: Components: None. Builds Into: Various.
+---
+[TAGS: STRATEGY, Earth Spirit, WEAKNESS] | Earth Spirit Weakness: Vulnerable to Silence (disables all abilities) and Break (removes Stone Remnant passives).
+---
+[TAGS: STRATEGY, Earth Spirit, TEAMFIGHT] | Earth Spirit Teamfight: Initiate with Rolling Boulder into Blink+Ultimate, then disrupt backlines with Geomagnetic Grip and stuns.
+---
+[TAGS: STRATEGY, Tinker, ITEM_BUILD, CORE] | Tinker Core Build: Blink Dagger (mandatory for repositioning) and Soul Ring (mana sustain for Rearm).
+---
+[TAGS: MEDUSA, SITUATIONAL, DEFENSE, HIGH_GROUND, STALL, LATE_GAME] | Scenario: Playing from Behind / Defending High Ground. Medusa excels at defending with Split Shot clearing waves and Stone Gaze zoning the choke. Prioritize survivability items like Skadi and Butterfly. Use Mystic Snake to farm safely. Your Mana Shield makes you very hard to dive under tower. Drag the game out to reach your late-game potential.
+---
+[TAGS: Ability, Positioning, Range] | Take Aim Attack Range Bonus: Further increases the attack range bonus granted by Sniper's Take Aim. Stats: Attack Range Bonus: {bonus_active_attack_range_bonus}
+---
+[TAGS: Ability, Positioning, Range] | Take Aim Duration: Extends the duration of Sniper's Take Aim ability. Stats: Duration Increase: {bonus_duration}s
+---
+[TAGS: Tusk, HARD_COUNTERS, COUNTERS, DISABLES, BREAK, BKB] | Tusk is hard countered by heroes with instant disables (Lion, Shadow Shaman) that can interrupt his Snowball or Walrus Punch channel. Heroes with high mobility (Queen of Pain, Anti-Mage) can easily escape his initiation. Break effects (Silver Edge, Hoodwink) disable his Bitter Chill passive. Illusion heroes (Phantom Lancer, Chaos Knight) are less affected by his single-target burst. Spell immunity (Black King Bar) blocks all his spells except Walrus Punch (which has true strike).
+---
+[TAGS: Techies, Ability, Cooldown] | Special Bonus Unique Techies 3: Reduces Proximity Mines cooldown, allowing more frequent trap placements. Stats: Cooldown Reduction: -{bonus_AbilityChargeRestoreTime}s
+---
+[TAGS: STRATEGY, Spectre, ITEM_BUILD, SITUATIONAL] | Spectre Situational: Buy Blademail vs burst damage, BKB vs heavy disables, and Skadi vs high-mobility heroes. Consider Heart of Tarrasque for extreme late-game durability.
+---
+[TAGS: STRATEGY, Jakiro, ITEM_BUILD, SITUATIONAL] | Jakiro Situational: Buy BKB vs heavy stuns/silences, Glimmer Cape vs magic burst, or Shiva's Guard vs physical damage dealers.
+---
+[TAGS: STRATEGY, Tinker, ITEM_BUILD, SITUATIONAL] | Tinker Situational: Buy BKB vs silences/stuns, Shiva’s Guard vs physical burst, or Aghanim’s Scepter for Warp Grenade utility against mobile heroes.
+---
+[TAGS: URSA, HARD_COUNTERS] | Ursa is hard countered by Break mechanics, which disable the application of new Fury Swipes stacks and his Grudge Bearer Facet. Heroes like Shadow Demon, Hoodwink, and Silver Edge carriers can shut down his main damage source. Heavy kiting through slows, stuns, and force staffs prevents him from sticking to targets. Instant disables like Hex stop his Enrage activation and prevent him from fighting back.
+---
+[TAGS: Ability, Cooldown, Techies] | Blast Off! Cooldown Reduction: Reduces Techies' Blast Off! cooldown, allowing more frequent area denial and initiation capabilities.
+---
+[TAGS: STRATEGY, Earthshaker, WEAKNESS] | Earthshaker Weakness: Vulnerable to Silences and disables that prevent casting spells. Break can disable his passive Aftershock.
+---
+[TAGS: AGHS_STRATEGY, Disruptor, COUNTER_MECHANIC, AGHANIM] | Disruptor Aghanim's Scepter: Static Storm now mutes items. This is a powerful anti-item counter, crippling enemies reliant on active item effects like BKB, Eul's Scepter, or Glimmer Cape, ensuring they remain vulnerable during team fights.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, CONSUMABLE] | Tier 3 Token TEAMFIGHT_ROLE: Consumed to grant a Tier 3 neutral item, which can provide various combat benefits such as additional stats or abilities for teamfights, though the token itself has no direct role. Stats: Activation redeems item, No direct fight contribution.
+---
+[TAGS: TECHIES, ABILITY_DATA, PROXIMITY_MINES] | Proximity Mines (D): Techies plants an invisible mine that lasts until destroyed or triggered. It becomes visible if an enemy is within its 500 active AoE. If an enemy remains within that AoE for 1.0 second, it explodes, dealing 400/575/750 magic damage (reduced by distance, down to 60 on the edge) and reducing the enemy's magic resistance by 15/20/25% for 5 seconds. Deals 30% damage to buildings. Mines cannot be placed within 350 range of another mine. They have a 15-second charge restore time. Grants 30 gold to an enemy hero if destroyed.
+---
+[TAGS: STRATEGY, Techies, TIMING] | Techies Power Spike: Level 6 (Land Mines) for map control, and Aghanim's Scepter timing (Proximity Mines) for explosive teamfight presence.
+---
+[TAGS: TECHIES, BASE_STATS] | Techies is a ranged Intelligence hero with a base attack range of 600. They have average starting attributes with 19 Strength, 16 Agility, and 25 Intelligence. Their base attack rate is 1.7 seconds per attack, which is slower than average. This makes their last hitting reliant on good timing and their high Intelligence pool for spammable spells.
+---
+[TAGS: Necrophos, SITUATIONAL, FACET_PROFANE] | Scenario: With the Profane Potency Facet (AoE Radius). This facet encourages a snowballing, farming, and teamfight build. Prioritize items with AoE effects like Radiance, Shiva's Guard, and Octarine Core. Your goal is to get as many kills and assists as possible to stack Sadist and increase the radius of all these items and your Death Pulse. This makes you a massive area-denial hero in late-game teamfights.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, DEFENSIVE] | Repair Kit CORE_BUILD / SYNERGIES: Has no components or build path. Synergizes with team defensive and high-ground hold strategies. Best used in combination with Glyph of Fortification and other building protection effects to create an extremely resilient defensive line. Stats: Charges: 3, Cooldown: 60s.
+---
+[TAGS: STRATEGY, Earth Spirit, TIMING] | Earth Spirit Power Spike: Strongest at level 6 (Magnetize) and with Blink Dagger timing for initiation combos.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, TEAM_COORDINATION, COUNTER_PUSH] | Forebearer's Fortune SITUATIONAL_VS_SETUP: Highly valuable in games where your team can reliably initiate or force predictable 5v5 engagements. Provides a scaling benefit that rewards coordinated team play over chaotic skirmishes. Countered by split-push or pick-off strategies that prevent full-team activation. Stats: Linger Duration: 5.0 seconds (timing window).
+---
+[TAGS: STRATEGY, Sniper, TIMING] | Sniper Power Spike: Strong at Level 6 (Assassinate kill threat) and with Dragon Lance + Mask of Madness timing (~12-15 min). Late-game with Daedalus and level 20 Headshot talent.
+---
+[TAGS: Ability, Parry, Defense] | Parry Bonuses: Increases the effectiveness of Parry, improving defensive capabilities. Stats: Parry Bonuses: Percentage
+---
+[TAGS: SNIPER, TEAMFIGHT_ROLE] | In a teamfight, Sniper's role is to stay at maximum attack range, often on high ground or behind his team. He provides sustained physical damage with his attacks and Headshot procs. He uses Shrapnel to zone areas, slow enemies, and provide vision. He uses Assassinate to finish off fleeing low-health targets or to initiate on a key, vulnerable backline hero. His primary job is to deal damage from a position of safety.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, STRATEGIC] | Repair Kit HARD_COUNTERS: Ineffective if the enemy can destroy the building faster than the heal-over-time can apply. High burst damage or overwhelming teamfight wins can negate its value. It does not protect against backdoor protection being off. Stats: Heal Percent: 40% over 30s, Cooldown: 60s.
+---
+[TAGS: AGHS_STRATEGY, Nyx Assassin, COUNTER_MECHANIC, AGHANIM] | Nyx Assassin Aghanim's Scepter: Burrow — Provides high damage reduction and strong AoE control with instant Spiked Carapace stuns. This transforms Nyx Assassin into a stationary defensive powerhouse, countering heavy AoE damage and enabling safer high-ground defense or objective control.
+---
+[TAGS: STRATEGY, Morphling, ITEM_BUILD, SITUATIONAL] | Morphling Situational: Buy BKB vs disables, Linken’s vs targeted spells (Doom), or Skadi vs tanky/healing enemies.
+---
+[TAGS: EARTH_SPIRIT, HARD_COUNTERS] | Earth Spirit is countered by heroes with instant silences or hexes (Silencer, Shadow Shaman) that prevent his Rolling Boulder initiation or escape. Spell immunity (Black King Bar) blocks all his abilities except Enchant Remnant. Break (Silver Edge, Hoodwink) disables his passive bonus damage from Stone Remnant charges. High mobility heroes (Storm Spirit, Anti-Mage) can dodge his skillshots. Illusion-based heroes (Phantom Lancer, Chaos Knight) can be difficult to lock down and drain Remnant charges.
+---
+[TAGS: STRATEGY, Tinker, FACETS] | Tinker Facet Strategy: Repair Bots (Blue) is preferred for sustain-heavy teamfights, while Translocator (Yellow) adds mobility when Defense Matrix breaks. Choose Repair Bots for prolonged engagements or Translocator for repositioning against dive-heavy lineups.
+---
+[TAGS: STRATEGY, Tinker, LANING] | Tinker Laning: Play defensively early, using Laser to secure last hits and harass. Prioritize March of the Machines at level 4 to shove waves and farm jungle stacks safely.
+---
+[TAGS: STRATEGY, Techies, FACETS] | Techies Facet Strategy: Squee's Scope (Gray) enhances Techies' right-click potential with attack range scaling, ideal for a carry-style build. Spleen's Secret Sauce (Red) boosts Blast Off! damage for burst-heavy playstyles. Spoon's Stash (Blue) is niche but useful for utility-focused Techies stacking enchantments on neutral items.
+---
+[TAGS: STRATEGY, Techies, ITEM_BUILD, SITUATIONAL] | Techies Situational: Force Staff vs melee divers (Ursa), Ghost Scepter vs physical burst (PA), or Lotus Orb vs targeted spells (Skywrath).
+---
+[TAGS: ITEM_DATA, EAGLESONG, CORE_DESCRIPTION, SECRET_SHOP, SECRET_SHOP, ATTRIBUTE, AGILITY, STAT_BOOSTER, UPGRADE_COMPONENT] | Eaglesong, Cost: 2800: Grants +25 Agility, providing significant increases to attack speed, armor, and movement speed for Agility heroes. A core attribute booster for carries seeking pure stat efficiency and physical damage scaling. Stats: +25 Agility.
+---
+[TAGS: EARTHSHAKER, HARD_COUNTERS, COUNTERS] | Earthshaker is hard countered by heroes with high mobility (e.g., Queen of Pain, Anti-Mage) that can dodge his Fissure and Echo Slam initiation. Instant disables like Hex prevent him from casting spells after Blinking in. Spell immunity (Black King Bar) negates most of his damage and control, though Fissure's stun pierces BKB. Heroes that can drain mana (e.g., Anti-Mage, Lion) severely limit his ability to combo.
+---
+[TAGS: AGHS_STRATEGY, Earth Spirit, COUNTER_MECHANIC, AGHANIM] | Earth Spirit Aghanim's Scepter: Enchant Remnant — Counters enemy initiation and burst damage by temporarily turning allies into invulnerable Stone Remnants, disrupting enemy combos and providing a defensive repositioning tool. Enables Earth Spirit to save allies from lethal damage or disable chains.
+---
+[TAGS: STRATEGY, Tinker, TEAMFIGHT] | Tinker Teamfight: Backline artillery—spam March of the Machines and Laser from fog. Use Keen Teleport to reposition and Defense Matrix to survive dives.
+---
+[TAGS: Disruptor, Ability, Cooldown Reduction] | Glimpse Cooldown: Reduces Glimpse cooldown by 12s, allowing for more frequent repositioning of enemies.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_PHYSICAL, COUNTER] | Talisman of Evasion VS_PHYSICAL: A situational purchase to counter enemy lineups with high physical damage output, especially from heroes with low access to True Strike. Stats: Bonus Evasion: +15%, Stacks diminishingly.
+---
+[TAGS: ORACLE, SITUATIONAL, DEFENSE, HIGH_GROUND_DEFENSE] | Scenario: Your team is behind and needs to defend. Position Oracle at the back. Use False Promise to save your core if they get initiated on. Use Fortune's End to root the enemy frontline pushing into your base. Fate's Edict can disarm a key right-clicker. Rain of Destiny can heal your team and damage enemies during long sieges.
+---
+[TAGS: TINKER, HARD_COUNTERS, COUNTERS] | Tinker is hard-countered by heroes with instant silences, hexes, or long-duration stuns that prevent Rearm channeling (e.g., Skywrath Mage, Storm Spirit, Lion). Break effects disable his innate ability Eureka!, removing his item cooldown reduction. High burst physical damage (e.g., Phantom Assassin) can kill him through Defense Matrix. Heroes with global presence or high mobility can match his BoT split-push (e.g., Nature's Prophet, Spectre).
+---
+[TAGS: STRATEGY, Disruptor, WEAKNESS] | Disruptor Weakness: Vulnerable to Silence and Break, which disable his ability to cast crucial spells like Static Storm and Glimpse. Mobility heroes can also evade his Kinetic Field.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY, INITIATION, POSITIONING] | Smoke of Deceit TEAMFIGHT_ROLE: Primarily a pre-fight positioning tool to flank, initiate, or set up teamfight combinations by moving your team unseen past common vision wards. It is not used during an active fight but to gain a decisive positional advantage before one starts. The True Sight immunity allows teams to bypass standard defensive vision. Stats: Duration: 45.0s, True Sight Immune.
+---
+[TAGS: Ability, Survivability, Team Fight] | Enrage Status Resistance: Further increases Ursa’s resistance to status effects during Enrage, improving survivability in team fights. Stats: Status Resistance: [Bonus Value]%
+---
+[TAGS: ITEM_DATA, ROD_OF_ATOS, TEAMFIGHT_ROLE, FULL_ITEM, DISABLE, LOCKDOWN, CATCH, INTERRUPT] | Rod of Atos, Cost: 2250: Team fight role focuses on single-target lockdown, enabling allies to focus fire on a rooted enemy. The root prevents movement but not attacks or spells, making it strong against mobile, right-click heroes but less effective against stationary casters. Useful for stopping channeling spells.
+
+=== GAME STATE ===
+Match Time: 40:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: terrorblade (Lvl 25) | HP: 2800/2800 | Mana: 1000/1200 | Alive: true
+Stats: K/D/A 14/3/8 | Gold: 8500 | LastHits: 320
+Inventory: [item_black_king_bar, item_power_treads (CD), item_manta, item_skadi (CD), item_butterfly (CD), item_satanic]
+Abilities: [terrorblade_conjure_image(Lvl4)[Rdy] | terrorblade_metamorphosis(Lvl4)[Rdy] | terrorblade_sunder(Lvl3)[ULTIMATE-READY] | terrorblade_reflection(Lvl4)[Rdy]]
+User Situation Notes: Мы сильно выигрываем, но не можем закончить игру. Враги (Techies, Tinker, Sniper, Earth Spirit, Disruptor) отлично защищают хайграунд. Везде мины, Тинкер бесконечно пушит все линии.
+
+=== USER QUESTION ===
+"What is the most important tactical advice for next 30 seconds?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "What is the most important tactical advice for next 30 seconds?".**
+========================================
+
+[AI RESPONSE] (2.87s)
+Use **Terrorblade Metamorphosis** to push a side lane with illusions while your main Terrorblade and a few images take the fight to the high ground. This will force the enemies to split their defense, making it easier to break through. Alternatively, use **Satanic** if you engage in a fight to ensure your survival and maximize damage output.

@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Kobold Cup, Tier 1: Neutral item providing One for the Road active (40 Mana cost). Increases movement speed of all allied units in a 1000 radius by 10% for 6 seconds. Provides a short-duration teamwide mobility buff, useful for initiating retreats or chases. Stats: CD: 40s, Mana: 40, Duration: 6s, Radius: 1000.",
+    "search_text": "movement speed neutral item, team speed boost, speed aura neutral, team mobility, initiation speed, chase speed, retreat speed, tier 1 neutral, Kobold Cup, neutral item, active speed buff, support neutral, utility neutral, group movement",
+    "tags": [
+      "ITEM_DATA",
+      "KOBOLD_CUP",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "MOBILITY",
+      "UTILITY",
+      "BUFF",
+      "AURA",
+      "TEAMFIGHT_ROLE"
+    ]
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "display_text": "Mars is a Melee hero with a base attack rate of 1.8 seconds per attack. He has base attributes of 23 Strength, 18 Agility, and 21 Intelligence. His high starting Strength provides a good health pool for laning.",
+    "search_text": "Mars stats melee attack rate 1.8 strength 23 agility 18 intelligence 21 base attributes",
+    "tags": [
+      "Mars",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Mars has two Facets: Victory Feast and Blood Sport. Victory Feast grants Mars and his allies health, mana, and attack damage when an enemy dies inside Arena of Blood, enhancing teamfight sustain and damage output. Blood Sport removes vision outside the arena for enemies, isolating them and making it harder to escape or coordinate, which is effective for ganking and creating chaos.",
+    "search_text": "Mars facets victory feast blood sport arena of blood health mana attack damage vision control",
+    "tags": [
+      "Mars",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Mars can use Spear of Mars to harass enemies from a distance, with a range of 900/1000/1100/1200 and damage of 100/175/250/325. God's Rebuke helps with last hitting and trading, dealing critical damage based on attack with bonus 5/10/15/20 damage to heroes. Bulwark reduces physical damage from the front by 40/50/60/70% and from the sides by 20/25/30/35%, useful against right-click harass. Dauntless provides up to 70 HP regen per extra enemy hero in 700 radius, giving sustain when outnumbered.",
+    "search_text": "Mars laning phase spear of mars harass god's rebuke last hit bulwark damage reduction dauntless regen outnumbered",
+    "tags": [
+      "Mars",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Mars's power spikes at level 6 with Arena of Blood, allowing him to trap and kill enemies. At level 12, with maxed Spear of Mars and God's Rebuke, his damage and control peak. Level 18 talents enhance his abilities. Level 20 talents reduce Arena cooldown by 16 seconds or increase Spear stun by 0.5 seconds. Level 25 talents significantly boost God's Rebuke crit by 65% or provide team +180 HP regen in Arena. Key item timings include Blink Dagger for initiation and Black King Bar for survivability in fights.",
+    "search_text": "Mars power spikes level 6 arena of blood level 12 max skills level 18 talents level 20 level 25 talents blink dagger bkb",
+    "tags": [
+      "Mars",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Mars is countered by Break effects, which disable Bulwark's physical damage reduction. Instant disables like Hex can prevent him from casting Arena of Blood. Mobile heroes can escape the Arena, and high magic damage burst bypasses Bulwark's protection.",
+    "search_text": "Mars counters break disables bulwark hex arena of blood escape magic damage",
+    "tags": [
+      "Mars",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items for Mars are Blink Dagger for initiating with Spear or Arena, and Black King Bar to ensure he can cast abilities without interruption in fights. A third essential item could be Armlet of Mordiggian for survivability and damage, or Desolator for armor reduction.",
+    "search_text": "Mars core build blink dagger black king bar bkb armlet desolator initiation",
+    "tags": [
+      "Mars",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Mars's role is to initiate with Spear of Mars to stun key targets or trap enemies with Arena of Blood. He uses Bulwark to redirect 70% of projectiles aimed at allies and reduce damage for himself, while dealing area damage with God's Rebuke. He should focus on controlling the fight and protecting the backline.",
+    "search_text": "Mars teamfight role initiate spear arena of blood bulwark protect allies god's rebuke damage control",
+    "tags": [
+      "Mars",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Spear of Mars throws a spear with range 900/1000/1100/1200, speed 1400, and width 125, dealing 100/175/250/325 damage to units it strikes. The first hero hit is skewered, knocked back 75 distance over 0.25 seconds, and if they hit a tree, building, or cliff, they are impaled and stunned for 1.3/1.6/1.9/2.2 seconds. It reveals invisible units if stunned.",
+    "search_text": "Spear of Mars Q stun knockback damage range 900 1000 1100 1200 speed 1400 vision 300 width 125 impale",
+    "tags": [
+      "Mars",
+      "ABILITY_DATA",
+      "STUN",
+      "KNOCKBACK"
+    ]
+  },
+  {
+    "display_text": "God's Rebuke has a cooldown of 16/14/12/10 seconds, affects a 140-degree angle in front with 500 radius, knocking back enemies 150 distance over 0.3 seconds and slowing them by 40% for 2.5 seconds. It deals a critical hit of 150/200/250/300% of Mars's attack damage plus 5/10/15/20 bonus damage to heroes, and has True Strike.",
+    "search_text": "God's Rebuke W critical hit knockback slow angle 140 radius 500 cooldown 16 14 12 10 true strike bonus damage",
+    "tags": [
+      "Mars",
+      "ABILITY_DATA",
+      "CRITICAL",
+      "KNOCKBACK",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Bulwark reduces physical damage from the front by 40/50/60/70% and from the sides by 20/25/30/35%. When toggled on, it grants phased movement, prevents attacking, locks facing direction, reduces movement speed by 18%, and redirects 70% of attack projectiles aimed at allies within 900 range behind Mars towards himself. Redirect works if allies are in a cone behind or within 100 range. Break disables the damage reduction.",
+    "search_text": "Bulwark E physical damage reduction front side toggle phased movement redirect projectiles 70% chance speed penalty 18 break disables",
+    "tags": [
+      "Mars",
+      "ABILITY_DATA",
+      "DAMAGE_REDUCTION",
+      "REDIRECT"
+    ]
+  },
+  {
+    "display_text": "Dauntless provides Mars with 70 HP regen per additional enemy hero within 700 radius compared to allied heroes. For example, if there are 2 more enemy heroes than allies, he gains 140 HP regen.",
+    "search_text": "Dauntless passive HP regen per enemy hero 70 radius 700 outnumbered",
+    "tags": [
+      "Mars",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "REGEN"
+    ]
+  },
+  {
+    "display_text": "Arena of Blood has a cooldown of 100/95/90 seconds, lasts 5.5 seconds, and creates a 550 radius arena lined with 14 warriors that block enemy movement and attacks. Enemies near the inside edge are attacked by spears every 1 second, dealing 80/160/240 damage and knocking them back. Spears are 160 distance from the wall with width 100.",
+    "search_text": "Arena of Blood R ultimate arena 550 radius duration 5.5 cooldown 100 95 90 spear damage 80 160 240 knockback block movement",
+    "tags": [
+      "Mars",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "AREA",
+      "KNOCKBACK"
+    ]
+  },
+  {
+    "display_text": "Against high armor enemies, Mars's God's Rebuke is effective due to True Strike and critical damage scaling with his attack, ignoring evasion and reducing the impact of armor. Focus on using Rebuke in fights to burst down targets.",
+    "search_text": "Mars vs high armor god's rebuke true strike critical damage burst",
+    "tags": [
+      "Mars",
+      "SITUATIONAL",
+      "HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, Mars should use Arena of Blood defensively to trap enemies engaging on his team, providing control and protection. Dauntless provides sustain in fights where you are outnumbered, allowing you to survive longer.",
+    "search_text": "Mars playing from behind defensive arena of blood dauntless regen sustain",
+    "tags": [
+      "Mars",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Against mobile heroes with escapes, landing Spear of Mars becomes challenging. Coordinate with allies for disables or use Blink Dagger to close the gap. Arena of Blood can limit their mobility if placed correctly.",
+    "search_text": "Mars vs mobile heroes spear of mars hard to land blink dagger setup arena control",
+    "tags": [
+      "Mars",
+      "SITUATIONAL",
+      "MOBILE_HEROES"
+    ]
+  },
+  {
+    "display_text": "With AoE team compositions, Mars's Arena of Blood is ideal for grouping enemies together, allowing allies to follow up with area spells like Black Hole or Epicenter. Position Arena to maximize enemy clustering.",
+    "search_text": "Mars aoe team comp arena of blood set up black hole epicenter combo",
+    "tags": [
+      "Mars",
+      "SITUATIONAL",
+      "AOE_COMBO"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +100 God's Rebuke Distance or +20% Dauntless Regen Per Enemy. The distance increase allows Mars to use God's Rebuke from further away, improving safety and range for engagements. The regen boost enhances Dauntless, providing up to 14 additional HP regen per enemy hero (70 * 0.2), which is valuable for sustain in teamfights where outnumbered. Pick distance for poke and control, regen for durability.",
+    "search_text": "Mars level 10 talent god's rebuke distance 100 dauntless regen 20% per enemy sustain poke",
+    "tags": [
+      "Mars",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between -2.5s God's Rebuke Cooldown or +100 Spear Of Mars Damage. The cooldown reduction lowers God's Rebuke cooldown to 7.5/6.5/5.5/2.5 seconds at respective levels, enabling more frequent casts for farming and fighting. The Spear damage increase adds 100 damage to all levels, making it deal 200/275/350/425 damage, enhancing burst and pick-off potential. Select cooldown for sustained damage, or damage for instant nuke.",
+    "search_text": "Mars level 15 talent god's rebuke cooldown reduction 2.5s spear of mars damage 100 burst nuke",
+    "tags": [
+      "Mars",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between -16s Arena Of Blood Cooldown or +0.5s Spear of Mars Stun. The cooldown reduction lowers Arena cooldown to 74/79/84 seconds, allowing more frequent use for fights and objectives. The stun increase extends Spear stun duration to 1.8/2.1/2.4/2.7 seconds, providing longer disable for kills or escapes. Opt for cooldown if you need ultimate more often, or stun for enhanced single-target control.",
+    "search_text": "Mars level 20 talent arena of blood cooldown 16s spear of mars stun 0.5s duration disable",
+    "tags": [
+      "Mars",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between God's Rebuke +65% Crit or Arena Of Blood Grants Team +180 HP Regen. The crit increase adds 65% to God's Rebuke's critical multiplier, making it 215/265/315/365% at respective levels, drastically increasing damage. The team regen provides 180 HP per second to all allies inside Arena, enhancing survivability in prolonged fights. Select crit for burst damage, or regen for teamfight sustain.",
+    "search_text": "Mars level 25 talent god's rebuke crit 65% arena of blood team hp regen 180 sustain",
+    "tags": [
+      "Mars",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "display_text": "River Vial: Electrified, Cost: 0: Non-purchasable cosmetic item that paints the river in the lane for 900 seconds, giving it an electrified visual effect. It does not provide any stats, active abilities, or tactical gameplay advantage and is used solely for visual customization. Stats: Paint Duration: 900s.",
+    "search_text": "river vial, river painter, cosmetic item, visual effect, electrified river, lane painter, river change, custom river, map cosmetic, River Vial: Electrified",
+    "tags": [
+      "ITEM_DATA",
+      "RIVER_VIAL_ELECTRIFIED",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "COSMETIC",
+      "UTILITY"
+    ]
+  }
+]

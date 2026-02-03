@@ -1,0 +1,73 @@
+[
+  {
+    "display_text": "Orb of Frost, Cost: 300: A purchasable item that provides a passive chilling effect. Attacks slow the target's movement speed by 13% (or 6% for melee attackers) and reduce Health Restoration by 13% for 3 seconds. A cost-efficient tool for kiting and reducing enemy sustain. Stats: Slow (Ranged/Melee): 13%/6%, Heal Reduction: 13%, Duration: 3s.",
+    "search_text": "slow item, orb of frost, attack slow, healing reduction, anti heal, passive slow, orb effect, kiting item, cost efficient slow, lane slow, sustain reduction, hp regen reduction, Orb of Frost, OoF",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_FROST",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "DEBUFF",
+      "SLOW",
+      "HEAL_REDUCTION",
+      "VS_HEALERS",
+      "ANTI_HEAL",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Orb of Frost, Cost: 300: Provides no direct stat bonuses like damage, health, or attributes. Its value is purely in the on-hit slow and healing reduction debuff it applies.",
+    "search_text": "orb of frost stats, no stats item, pure utility, on-hit effect, debuff item, Orb of Frost",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_FROST",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "UTILITY",
+      "DEBUFF"
+    ]
+  },
+  {
+    "display_text": "Orb of Frost, Cost: 300: Enhances chase and kiting potential in fights by applying a consistent slow. Reduces the effectiveness of enemy regeneration and lifesteal, weakening heroes reliant on self-healing. Particularly effective on ranged heroes for its stronger slow value.",
+    "search_text": "team fight slow, kiting tool, chase slow, reduce healing, counter lifesteal, team fight utility, slow support, Orb of Frost",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_FROST",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "SLOW",
+      "HEAL_REDUCTION",
+      "VS_HEALERS",
+      "ANTI_HEAL",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Orb of Frost, Cost: 300: Effective against heroes with high innate health regeneration or healing abilities (Huskar, Alchemist, Morphling). The movement slow makes it easier to land skillshots or escape from melee pursuers. Counters laning phase sustain items like Tangos and healing salves.",
+    "search_text": "vs regeneration, vs healers, anti heal item, counter healing, counter salve, counter tango, slow pursuers, Orb of Frost",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_FROST",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_HEALERS",
+      "HEAL_REDUCTION",
+      "VS_HEALERS",
+      "ANTI_HEAL",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Orb of Frost, Cost: 300: Strong synergy for heroes who can apply it frequently from range for the full slow effect, such as supports or agility carries in the early-mid game. A common component for building into Eye of Skadi, which provides more stats and a stronger version of this slow.",
+    "search_text": "skadi component, eye of skadi, early game slow, support slow, range slow, agility carry, build up, synergy, Orb of Frost",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_FROST",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "COMPONENT",
+      "UPGRADE",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  }
+]

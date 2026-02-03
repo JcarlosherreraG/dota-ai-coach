@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Broom Handle. A Neutral item providing Attack Range, Damage, and Armor bonuses. Increases melee attack range by 50 units, adds 8 damage, and grants 4 armor. Useful for melee heroes seeking improved positioning and durability.",
+    "search_text": "broom handle, neutral item, melee attack range, damage boost, armor boost, tier neutral, range extension, attack range neutral, melee only, Broom Handle",
+    "tags": [
+      "ITEM_DATA",
+      "BROOM_HANDLE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "DAMAGE",
+      "ARMOR",
+      "ATTACK_RANGE",
+      "MELEE_ONLY",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Broodmother Aghanim's Scepter: Spinner's Snare creates invisible web lines that root and damage enemy heroes crossing them. This upgrade counters enemy movement and initiation, forcing them to either avoid key paths or suffer severe consequences, while also providing map control and vision.",
+    "search_text": "Broodmother Aghanim Scepter Spinner's Snare root damage map control anti-initiation vision",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Broodmother",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Broodmother Aghanim's Shard: Enhances Insatiable Hunger with increasing bonus damage over time during active duration. This upgrade counters prolonged fights by making Broodmother a persistent threat against tanks and high-health heroes, amplifying her role as a durable damage dealer.",
+    "search_text": "Broodmother Aghanim Shard Insatiable Hunger damage over time tank counter durable damage dealer",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Broodmother",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

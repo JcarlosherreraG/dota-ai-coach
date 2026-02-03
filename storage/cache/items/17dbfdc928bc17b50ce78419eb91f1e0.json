@@ -1,0 +1,73 @@
+[
+  {
+    "display_text": "Medallion of Courage, Cost: 1025: Grants allies -6 armor and removes it from the caster, or reduces -6 armor on both an enemy and the caster. Provides +5 armor and +1.5 mana regeneration. An armor manipulation tool that can be offensive or defensive, enabling allies to deal more physical damage or reducing enemy physical survivability. Stats: CD: 16s, Duration: 8s.",
+    "search_text": "armor reduction item, armor buff item, support item, physical amp item, minus armor, medallion, solar crest alternative, active armor manipulation, defensive armor buff, offensive armor debuff, physical damage amplifier, mana regen item, armor item, early game support, Medallion of Courage",
+    "tags": [
+      "ITEM_DATA",
+      "MEDALLION_OF_COURAGE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DEBUFF",
+      "BUFF",
+      "ARMOR",
+      "PHYSICAL_DAMAGE",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Medallion of Courage, Cost: 1025: Provides +5 armor and +1.5 mana regeneration. The armor significantly improves physical survivability for the holder, while the mana regeneration helps with sustain for support heroes. Offers a balanced defensive and utility stat profile for its cost.",
+    "search_text": "medallion stats, armor item stats, mana regen stats, support item stats, armor and mana regen, +5 armor, +1.5 mana regen, physical defense stats, early game stats, Medallion of Courage",
+    "tags": [
+      "ITEM_DATA",
+      "MEDALLION_OF_COURAGE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ARMOR",
+      "MANA_REGEN",
+      "DEFENSIVE",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Medallion of Courage, Cost: 1025: Primarily a utility and amp item for team fights. Can be used to amplify physical damage dealt by allies onto key targets by reducing their armor, or to protect a core ally by increasing their armor. Its flexible use makes it valuable for both initiation and defensive save situations.",
+    "search_text": "team fight utility, armor manipulation team fight, physical amp utility, support team fight item, amplify damage, protect ally, defensive save item, armor swap, Medallion of Courage",
+    "tags": [
+      "ITEM_DATA",
+      "MEDALLION_OF_COURAGE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "UTILITY",
+      "DEBUFF",
+      "BUFF",
+      "PHYSICAL_DAMAGE",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Medallion of Courage, Cost: 1025: Excellent against low-armor heroes and intelligence cores who are vulnerable to physical burst. Conversely, it is less effective against heroes who stack high armor or rely on damage types other than physical. Its armor reduction synergizes with other minus-armor effects and physical damage dealers.",
+    "search_text": "counter low armor, vs low armor heroes, armor reduction synergy, physical burst synergy, minus armor stack, counter int cores, armor debuff item, vs physical vulnerable heroes, Medallion of Courage",
+    "tags": [
+      "ITEM_DATA",
+      "MEDALLION_OF_COURAGE",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "DEBUFF",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Medallion of Courage, Cost: 1025: Core item on position 4 and 5 supports who value armor and mana regeneration. Excellent for heroes who can use the active to enable physical damage carries (e.g., Ursa, Slardar) or to save a fragile core. Builds into Solar Crest. Timing window is early to mid-game before BKB timings.",
+    "search_text": "medallion support, pos 4 item, pos 5 item, support core item, solar crest upgrade, early game support item, enable physical carry, Ursa synergy, Slardar synergy, Medallion of Courage",
+    "tags": [
+      "ITEM_DATA",
+      "MEDALLION_OF_COURAGE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "UTILITY",
+      "UPGRADE"
+    ]
+  }
+]

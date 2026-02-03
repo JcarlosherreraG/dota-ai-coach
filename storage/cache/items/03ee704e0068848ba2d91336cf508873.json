@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Blast Rig. Tier N/A (Neutral Equipment): This item contains a Hair Trigger passive that automatically explodes when a hero attacks you within 400 range. The explosion deals 250 magical damage to all enemies within a 400 radius and causes them to miss 100% of their attacks for 2 seconds (Blind). It provides +7 Armor. The cooldown is 20 seconds. This item is designed for a defensive, counter-initiating playstyle, punishing aggressive melee attackers. Stats: CD: 20s, Blind Duration: 2s, Radius: 400, Damage: 250, Armor: +7.",
+    "search_text": "blast rig, black powder bag, counter attack, punish melee, blind item, explosion passive, hair trigger, physical defense, armor neutral, damage return, defensive item, neutral item, blind effect, AoE blind, AoE damage, active defense, counter initiation, armor item, Black Powder Bag",
+    "tags": [
+      "ITEM_DATA",
+      "BLAST_RIG",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "DEFENSIVE",
+      "VS_PHYSICAL",
+      "ARMOR",
+      "AOE_DAMAGE",
+      "BLIND",
+      "DEBUFF",
+      "COUNTER_INITIATION"
+    ]
+  }
+]

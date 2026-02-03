@@ -1,0 +1,63 @@
+[
+  {
+    "display_text": "Caster's Rapier, Cost: 5600: An extreme-risk, high-reward item. Provides a massive 50% bonus to spell damage amplification and allows spell targeting from up to 2000 units away. Using spells from the maximum range also applies a 3-second backstab debuff, amplifying spell damage from all sources against that target. The item drops on death and can be picked up by the killer. Stats: CD: 9s, Spell Amp: 50%, Cast Range Limit: 2000, Backstab Duration: 3s.",
+    "search_text": "caster rapier, spell damage rapier, magic damage rapier, spell amp item, backstab item, long range spells, cast range increase, risk reward item, drops on death, Rapier, Caster's Rapier, INT rapier, magical rapier, spellcaster item, high risk item, gamble item, magic amplification",
+    "tags": [
+      "ITEM_DATA",
+      "CASTER_RAPIER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SPELL_AMPLIFICATION",
+      "MAGICAL_DAMAGE",
+      "RISK_REWARD",
+      "CASTER_ITEM",
+      "UTILITY",
+      "BACKSTAB",
+      "DROPS_ON_DEATH"
+    ]
+  },
+  {
+    "display_text": "Caster's Rapier, Cost: 5600: Provides no primary attributes, health, or mana. All value is derived from its powerful offensive active and passive effects: spell amplification and extended cast range with a conditional backstab damage amplifier. The item is best for heroes with high-impact, long-range spells.",
+    "search_text": "caster rapier stats, no stats rapier, spell amp stats, pure utility, spellcaster stats, offensive stats only, spell damage stats, Caster's Rapier",
+    "tags": [
+      "ITEM_DATA",
+      "CASTER_RAPIER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "SPELL_AMPLIFICATION",
+      "CASTER_ITEM",
+      "OFFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Caster's Rapier, Cost: 5600: A teamfight-turning item for casters, dramatically increasing the damage of AoE spells from a safe distance. The 3-second backstab debuff on long-range spell hits amplifies all subsequent damage from allies, creating a massive focus-fire window. Best used to initiate from fog or secure kills on key targets.",
+    "search_text": "teamfight rapier, spell teamfight, AoE spell amp, backstab initiation, focus fire debuff, amplify damage, safe distance casting, nuke from distance, catch tool, burst damage, Caster's Rapier",
+    "tags": [
+      "ITEM_DATA",
+      "CASTER_RAPIER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "INITIATION",
+      "AOE_DAMAGE",
+      "BURST_DAMAGE",
+      "DEBUFF",
+      "OFFENSIVE",
+      "CASTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Caster's Rapier, Cost: 5600: A situational item for heroes who rely on long-range, high-damage spells and can avoid dying. Ideal for heroes like Zeus, Skywrath Mage, or Tinker to amplify their magical burst from a safe distance. The high cost and risk of dropping it require careful positioning and a significant lead.",
+    "search_text": "caster rapier heroes, zeus rapier, skywrath rapier, tinker rapier, long range nuker, backline caster, safe caster, high damage spells, glass cannon, Caster's Rapier",
+    "tags": [
+      "ITEM_DATA",
+      "CASTER_RAPIER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CASTER_ITEM",
+      "HIGH_RISK",
+      "GLASS_CANNON",
+      "POSITIONING",
+      "BACKLINE"
+    ]
+  }
+]

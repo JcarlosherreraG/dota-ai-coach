@@ -1,0 +1,101 @@
+[
+  {
+    "display_text": "Samurai Tabi, Cost: 5250: Provides an active ability with a 0.1 second cast time and no cooldown that grants a stacking bonus of 3 to all stats every 0.1 seconds up to 8 times, for a total bonus of 24 stats over 0.8 seconds. The item also has three unique intelligence, strength, and agility-based passive effects. Stats: Cost: 5250, Active Cast: Instant.",
+    "search_text": "samurai tabi, stats item, all stats item, attribute item, stacking stats, stat gain over time, active stat boost, instant cast stats, Ultimate Orb upgrade, strength agility intelligence item, samurai boots, Tabi, stat booster, stat stacking item",
+    "tags": [
+      "ITEM_DATA",
+      "SAMURAI_TABI",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "UTILITY",
+      "STAT_BOOST",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Samurai Tabi, Cost: 5250: Provides a base of +10 to Strength, Agility, and Intelligence. The active ability grants an additional 24 total stats over 0.8 seconds. The passives provide further combat utility: a chance to root on-hit, a chance to counterattack, and periodic magical damage. Stats: All Stats: +10, Total Active Bonus: +24 stats.",
+    "search_text": "samurai tabi stats, all stats bonus, attribute bonus, stat total, strength agility intelligence stats, hybrid stat item, stat gain, stat profile, Samurai Tabi",
+    "tags": [
+      "ITEM_DATA",
+      "SAMURAI_TABI",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Samurai Tabi, Cost: 5250: A multi-purpose combat item providing stat scaling, control, damage, and retaliation. The active stat steroid empowers short fights, the passive root provides catch, the counterattack punishes aggression, and the periodic intelligence-based magic damage offers consistent AoE pressure. Stats: Root Cooldown: 4s, Damage Interval: 4s.",
+    "search_text": "samurai tabi team fight, combat utility, control item, damage item, root item, counterattack, multi-target damage, combat steroid, all-around item, stat steroid, hybrid utility, Samurai Tabi",
+    "tags": [
+      "ITEM_DATA",
+      "SAMURAI_TABI",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "LOCKDOWN",
+      "ROOT",
+      "COUNTER_ATTACK",
+      "MULTI_TARGET",
+      "AOE_DAMAGE",
+      "COMBAT_UTILITY"
+    ]
+  },
+  {
+    "display_text": "Samurai Tabi, Cost: 5250: The intelligence passive deals 125 magical damage to up to 2 targets within 700 range every 4 seconds, making it effective against squishy enemy cores or supports who cluster in fights. This provides consistent magical damage pressure alongside physical damage from attacks.",
+    "search_text": "samurai tabi vs squishy, magic damage item, intelligence damage, periodic damage, anti-support, anti-range, multi-target magic, AOE magic damage, spell damage, intelligence scaling damage, Samurai Tabi",
+    "tags": [
+      "ITEM_DATA",
+      "SAMURAI_TABI",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "MAGICAL_DAMAGE",
+      "AOE_DAMAGE",
+      "VS_SUPPORTS"
+    ]
+  },
+  {
+    "display_text": "Samurai Tabi, Cost: 5250: The strength passive has a 20% chance on-hit to root the target for 1.0 second, providing reliable soft disable. This makes it effective for chasing down mobile heroes or locking down key targets in a fight, offering initiation and catch potential.",
+    "search_text": "samurai tabi vs mobility, root item, chase item, catch item, lockdown item, disable item, initiation item, counter mobile heroes, slow heroes, control item, Samurai Tabi",
+    "tags": [
+      "ITEM_DATA",
+      "SAMURAI_TABI",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "LOCKDOWN",
+      "ROOT",
+      "CATCH",
+      "INITIATION",
+      "VS_MOBILE"
+    ]
+  },
+  {
+    "display_text": "Samurai Tabi, Cost: 5250: The agility passive provides a 20% chance to counterattack incoming attacks, dealing 80 bonus physical damage. This makes the item valuable for heroes who are often attacked or focused, providing a deterrent against being right-clicked and punishing physical damage dealers.",
+    "search_text": "samurai tabi vs physical, counterattack item, bonus damage, retaliate, punish attackers, physical defense, anti-carry, right-click counter, physical damage mitigation, Samurai Tabi",
+    "tags": [
+      "ITEM_DATA",
+      "SAMURAI_TABI",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "COUNTER_ATTACK",
+      "DEFENSIVE",
+      "VS_PHYSICAL",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Samurai Tabi, Cost: 5250: Suitable for universal heroes or cores who benefit from all attributes and have a balance of spellcasting and right-click damage. The item's blend of stats and three distinct passives offers a well-rounded power spike for heroes who want to be relevant in multiple phases of a fight.",
+    "search_text": "samurai tabi build, universal heroes, all-around hero item, hybrid hero item, core item, attribute scaling, versatile item, fighter item, all stats hero, well-rounded item, Samurai Tabi",
+    "tags": [
+      "ITEM_DATA",
+      "SAMURAI_TABI",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UNIVERSAL_HEROES",
+      "HYBRID_DAMAGE",
+      "CORE_ITEM",
+      "FIGHTER"
+    ]
+  }
+]

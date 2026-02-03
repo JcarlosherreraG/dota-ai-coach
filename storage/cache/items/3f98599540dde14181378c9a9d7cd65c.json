@@ -1,0 +1,76 @@
+[
+  {
+    "display_text": "Cost: 2200: Force Staff, also known as Force. Active ability pushes any target unit (including self) 600 units in the direction they are facing. Castable on allies or enemies, though cast range is 850 for enemies. The push does not interrupt the target's current actions, making it valuable for defensive repositioning or offensive setup. Cannot be used on units inside certain ultimate effects like Chronosphere, Duel, or Black Hole. Stats: CD: 19s, Mana Cost: 150, Push Distance: 600, Enemy Cast Range: 850.",
+    "search_text": "force staff, reposition item, push item, save item, mobility item, reposition ally, reposition enemy, defensive item, save tool, reposition tool, push staff, escape item, re-engage tool, gap creator, Force Staff, self-cast, ally push, enemy push, defensive support, save teammate",
+    "tags": [
+      "ITEM_DATA",
+      "FORCE_STAFF",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "MOBILITY",
+      "POSITIONING",
+      "SAVE",
+      "DEFENSIVE",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Cost: 2200: Provides +10 Intelligence and +175 Health. These stats offer moderate mana pool expansion and some survivability. The component build requires a Staff of Wizardry and a Fluffy Hat, making it a good early-to-mid game item for intelligence-based supports who need positioning utility.",
+    "search_text": "force staff stats, intelligence item, health item, staff of wizardry, fluffy hat, components, stats, support stats, mana pool, hp boost, Force Staff",
+    "tags": [
+      "ITEM_DATA",
+      "FORCE_STAFF",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "INTELLIGENCE",
+      "HEALTH",
+      "SUSTAIN",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Cost: 2200: Core defensive utility item that excels at saving allies or repositioning yourself out of danger. Its ability to instantly move a unit without interrupting their actions makes it invaluable for saving stunned or rooted allies or creating distance from enemy initiators. It serves as a reactive defensive tool more than an offensive one.",
+    "search_text": "defensive save item, save from stun, reposition save, reactive save, defensive support item, save ally, prevent death, escape tool, force save, Force Staff",
+    "tags": [
+      "ITEM_DATA",
+      "FORCE_STAFF",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "SAVE",
+      "DEFENSIVE",
+      "UTILITY",
+      "SUPPORT_ITEM",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Cost: 2200: Situational vs aggressive initiators and catch-heavy lineups. Force Staff counters enemy gap-close and allows allies to escape from danger zones. It is a reactive purchase against heroes who rely on getting on top of your team and locking them down, providing a crucial escape tool that can't be interrupted by most disables.",
+    "search_text": "counter initiation item, counter catch, escape from initiator, save from gap close, defensive vs catch, reactive defensive item, Force Staff",
+    "tags": [
+      "ITEM_DATA",
+      "FORCE_STAFF",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_CONTROL",
+      "VS_CONTROL",
+      "ESCAPE",
+      "SURVIVAL",
+      "DEFENSIVE",
+      "REACTIVE"
+    ]
+  },
+  {
+    "display_text": "Cost: 2200: High-synergy item for heroes who lack mobility or have channeled abilities that require distance (Crystal Maiden, Witch Doctor). Also works well with heroes who can force enemies into positions for follow-up stuns or terrain abilities. A core defensive item for position 4/5 supports who need to keep their cores alive.",
+    "search_text": "force staff support, save support item, defensive support, reposition support, support mobility, crystal maiden, witch doctor, Force Staff",
+    "tags": [
+      "ITEM_DATA",
+      "FORCE_STAFF",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "SUPPORT_ITEM",
+      "UTILITY",
+      "DEFENSIVE",
+      "SURVIVAL"
+    ]
+  }
+]

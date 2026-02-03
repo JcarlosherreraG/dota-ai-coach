@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Ironwood Tree, Cost: 0: Tier 1 Neutral item providing +5 to all attributes and an active ability that plants a temporary, impassable tree at a target location for 20 seconds. Offers strategic utility for blocking paths, creating juke spots, or enabling tree-dependent abilities. Stats: All Attributes: +5, Tree Duration: 20s, Cooldown: 15s.",
+    "search_text": "ironwood tree, tier 1 neutral, plant tree, create tree, neutral item tree, block path, juke tree, strategic tree, place tree, impassable tree, tree ability, Ironwood Tree, tree ward, vision tree, juke spot, create terrain, Ironwood",
+    "tags": [
+      "ITEM_DATA",
+      "IRONWOOD_TREE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "UTILITY",
+      "TERRAIN_MODIFICATION",
+      "STAT_BOOST"
+    ]
+  }
+]

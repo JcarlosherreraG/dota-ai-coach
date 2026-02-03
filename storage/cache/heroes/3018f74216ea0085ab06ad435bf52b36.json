@@ -1,0 +1,219 @@
+[
+  {
+    "display_text": "Faceless Void is a Melee hero. He has above average starting Agility (24), average Strength (20), and low Intelligence (15). This gives him high base damage and armor, but low mana pool. His attack rate is 1.7. Compared to average, he is a relatively tanky Agility carry with a slow attack animation.",
+    "search_text": "Melee Attack Type, Base Stats, Attack Rate 1.7, Strength 20, Agility 24, Intelligence 15",
+    "tags": [
+      "FACELESS_VOID",
+      "BASE_STATS",
+      "STATS",
+      "MELEE"
+    ]
+  },
+  {
+    "display_text": "Faceless Void has three Facets. Temporal Impunity has no direct gameplay effect. Chronosphere Facet allows casting Chronosphere, trapping enemies in a sphere. This enables his classic combo-heavy, fight-winning ultimate playstyle, focusing on catching multiple enemy heroes. Time Zone Facet allows casting Time Zone, slowing enemies and speeding up allies in an area. This facilitates a more supportive, utility-based playstyle focused on area control and buffing his team's attack speed.",
+    "search_text": "Facet Choice, Chronosphere, Time Zone, Temporal Impunity, Playstyle, Ultimate, Supportive, Utility",
+    "tags": [
+      "FACELESS_VOID",
+      "FACET_STRATEGY",
+      "CHRONOSPHERE_FACET",
+      "TIME_ZONE_FACET"
+    ]
+  },
+  {
+    "display_text": "In the laning phase (first 10 minutes), Faceless Void relies on his high base damage and Time Lock bash chance for harass and last hitting. Early points in Time Walk provide crucial survivability for trading, allowing you to engage and disengage. Time Dilation can be a strong defensive tool if the enemy lane uses spells frequently. Focus on securing last hits to build towards your core items like Battle Fury or Maelstrom.",
+    "search_text": "Laning Phase, Early Game, Last Hits, Time Walk, Time Lock, Time Dilation, Trading, Harass",
+    "tags": [
+      "FACELESS_VOID",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Faceless Void's power spikes are at Level 6 (gaining Chronosphere or Time Zone), which is his first major teamfight and kill potential. Level 12 with maxed Time Walk and Time Lock significantly improves his mobility and damage. Level 18 gives max level Time Dilation and his ultimate. Talent levels at 10, 15, 20, and 25 offer substantial boosts. Key item timings include Maelstrom/Battle Fury for farming, Manta Style for dispel and split-push, and Aghanim's Scepter/Shard for utility.",
+    "search_text": "Power Spikes, Level 6, Level 12, Level 18, Talents, Item Timings, Chronosphere, Time Zone",
+    "tags": [
+      "FACELESS_VOID",
+      "POWER_SPIKES",
+      "LEVELS",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Faceless Void is hard countered by heroes with instant disables or saves that prevent him from getting Chronosphere off (e.g., Shadow Shaman Hex, Bane Nightmare). Break disables his Backtrack talent and Time Lock. Heroes that can fight outside his Chronosphere range (Sniper, Tinker) or those with magic immunity (Lifestealer) can ignore his main control. Silences prevent Time Walk escape.",
+    "search_text": "Counters, Hard Counter, Break, Silence, Instant Disable, Magic Immunity, Shadow Shaman, Bane, Lifestealer",
+    "tags": [
+      "FACELESS_VOID",
+      "HARD_COUNTERS",
+      "COUNTERS",
+      "BREAK"
+    ]
+  },
+  {
+    "display_text": "Core essential items for Faceless Void are Mask of Madness or Battle Fury/Maelstrom for early farming and sustain. Manta Style is core for dispelling silences, creating illusions, and increasing farm/split-push. Aghanim's Scepter is essential for the Chronosphere Facet, while Aghanim's Shard provides a powerful slow aura.",
+    "search_text": "Core Build, Essential Items, Mask of Madness, Battle Fury, Maelstrom, Manta Style, Aghanim Scepter, Aghanim Shard",
+    "tags": [
+      "FACELESS_VOID",
+      "CORE_BUILD",
+      "ITEMS",
+      "MASK_OF_MADNESS",
+      "MANTA_STYLE"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Faceless Void's primary role is to initiate with Chronosphere (if that Facet is chosen) to trap key enemy heroes, allowing his team to follow up. Alternatively, with Time Zone, he provides a large area slow and attack speed buff for allies. He must jump onto the enemy backline (supports, squishy cores) with Time Walk, use Time Dilation to slow and extend cooldowns, and right-click with Time Lock bashes to secure kills. He is a frontline initiator and primary damage dealer.",
+    "search_text": "Teamfight Role, Initiator, Damage Dealer, Chronosphere Initiation, Time Zone Support, Backline Jump, Time Walk, Time Dilation",
+    "tags": [
+      "FACELESS_VOID",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "CARRY"
+    ]
+  },
+  {
+    "display_text": "Ability: Time Walk. Faceless Void rushes to a target location up to 650/700/750/800 units away at 3000 speed. Any damage taken in the last 2.0 seconds is backtracked (healed). He is invulnerable during the dash. Cooldown is 21/16/11/6 seconds. Does NOT pierce BKB.",
+    "search_text": "Time Walk Q, Mobility, Escape, Invulnerable, Backtrack Heal, Cooldown 21 16 11 6, Range 650 700 750 800, Speed 3000",
+    "tags": [
+      "FACELESS_VOID",
+      "ABILITY_DATA",
+      "TIME_WALK",
+      "MOBILITY",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Ability: Time Dilation. Faceless Void traps all nearby enemies in a 775 radius for 7/8/9/10 seconds, extending their cooldowns and slowing their movement and attack speed by 4/5/6/7%. The slow is amplified by each cooldown extended. It also deals 4/6/8/10 damage per stack per second for each cooldown. Does not affect item cooldowns. Does NOT pierce BKB.",
+    "search_text": "Time Dilation W, Slow, Cooldown Extension, AoE 775, Duration 7 8 9 10, Damage Per Stack 4 6 8 10, Slow Percent 4 5 6 7",
+    "tags": [
+      "FACELESS_VOID",
+      "ABILITY_DATA",
+      "TIME_DILATION",
+      "SLOW",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Ability: Time Lock. Faceless Void's attacks have a 12/16/20/24% chance to lock an enemy in time, stunning them for 0.5 seconds (0.5 on creeps) and dealing a bonus 18/22/26/30 damage. This bash does not stack with Skull Basher. The stun has a 0.4 second delay.",
+    "search_text": "Time Lock E, Passive, Bash, Stun 0.5s, Chance 12 16 20 24, Bonus Damage 18 22 26 30, Delay 0.4",
+    "tags": [
+      "FACELESS_VOID",
+      "ABILITY_DATA",
+      "TIME_LOCK",
+      "PASSIVE",
+      "BASH",
+      "STUN"
+    ]
+  },
+  {
+    "display_text": "Ability: Reverse Time Walk. Available for 1.5 seconds after landing Time Walk. If used in this period, Faceless Void reverses his time walk back to his previous cast location. Does not affect health or proc scepter hits. Does NOT pierce BKB.",
+    "search_text": "Reverse Time Walk, Backtrack Teleport, Return, Duration 1.5s, Mobility, Escape",
+    "tags": [
+      "FACELESS_VOID",
+      "ABILITY_DATA",
+      "REVERSE_TIME_WALK",
+      "MOBILITY",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Ability: Distortion Field. Enemy Attack Projectiles within 600 radius are slowed by 35/40/45/50%. This is a passive aura effect.",
+    "search_text": "Distortion Field, Shard, Aghanim Shard, Attack Projectile Slow 35 40 45 50, Radius 600, Passive Aura",
+    "tags": [
+      "FACELESS_VOID",
+      "ABILITY_DATA",
+      "DISTORTION_FIELD",
+      "SHARD",
+      "AURA",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Physical Damage and Right-Click Cores. In this scenario, Faceless Void should prioritize items like Butterfly and Assault Cuirass for evasion and armor. Using Time Walk to dodge key physical nukes (e.g., Sven's Storm Hammer) is crucial. The Distortion Field shard is highly effective for slowing enemy attack projectiles. Positioning is key to avoid being kited.",
+    "search_text": "Vs Physical Damage, Right Click, Evasion, Armor, Butterfly, Assault Cuirass, Distortion Field, Kiting",
+    "tags": [
+      "FACELESS_VOID",
+      "SITUATIONAL",
+      "PHYSICAL_DAMAGE",
+      "BUTTERFLY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When behind, Faceless Void should avoid 5v5 fights and focus on split-pushing with Manta Style illusions. Farm jungle camps with Battle Fury or Maelstrom. Use Chronosphere defensively to pick off solo heroes or escape ganks. Consider the Time Zone Facet to provide utility to your team even without farm. Buy cheap survivability items like Bracer or Drum.",
+    "search_text": "From Behind, Split Push, Farm, Jungle, Defensive Chronosphere, Time Zone Utility, Survival Items",
+    "tags": [
+      "FACELESS_VOID",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "SPLIT_PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Magic Burst Lineups. Against heavy magic damage, Faceless Void needs early Magic Resistance items like Hood of Defiance or Black King Bar. Timing BKB activation before jumping in is critical. Time Dilation is very effective against spell-reliant heroes, extending their long cooldowns. Linken's Sphere can block key initiation spells.",
+    "search_text": "Vs Magic Burst, Magic Resistance, BKB, Black King Bar, Hood of Defiance, Time Dilation, Linken Sphere",
+    "tags": [
+      "FACELESS_VOID",
+      "SITUATIONAL",
+      "MAGIC_DAMAGE",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Wombo-Combo Team (e.g., Dark Seer, Enigma, Magnus). If your team has big AoE setup, the Chronosphere Facet is mandatory. Coordinate initiations to layer disables. Itemize for maximum damage within the Chronosphere (e.g., Daedalus, Monkey King Bar). Your job is to follow up the initial setup with a perfect Chronosphere to lock down the entire enemy team.",
+    "search_text": "Wombo Combo, AoE Setup, Dark Seer, Enigma, Magnus, Chronosphere, Coordination, Damage Items",
+    "tags": [
+      "FACELESS_VOID",
+      "SITUATIONAL",
+      "WOCOMBO_COMBO",
+      "CHRONOSPHERE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Illusion Heroes (Chaos Knight, Phantom Lancer). Faceless Void struggles against many illusion heroes as Chronosphere may catch illusions instead of the real hero. Items like Battle Fury and Mjollnir are essential for cleave and chain lightning. Manta Style can help match their split-push. Focus on identifying and locking down the real hero with bashes.",
+    "search_text": "Vs Illusions, Chaos Knight, Phantom Lancer, Battle Fury, Mjollnir, Cleave, Identify Real Hero",
+    "tags": [
+      "FACELESS_VOID",
+      "SITUATIONAL",
+      "ILLUSIONS",
+      "BATTLE_FURY"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is +6 Time Dilation DPS Per Cooldown. Right choice is +0.5s Time Walk Backtrack Duration. Choose the DPS talent if you are fighting frequently and against spell-heavy lineups, as it amplifies Time Dilation's damage significantly. Choose the Backtrack Duration talent if you are facing high burst damage, as it increases your effective HP window with Time Walk.",
+    "search_text": "Talent Level 10, +6 Time Dilation DPS, +0.5s Time Walk Backtrack, Spell Damage, Burst Survival",
+    "tags": [
+      "FACELESS_VOID",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is +35 Time Lock Damage. Right choice is +8% Time Dilation Slow per Cooldown. Choose the Time Lock Damage talent to significantly increase your right-click damage output, especially effective with high attack speed. Choose the Time Dilation Slow talent for extreme utility and lockdown against mobile heroes or teams reliant on cooldowns, making it nearly a root.",
+    "search_text": "Talent Level 15, +35 Time Lock Damage, +8% Time Dilation Slow, Right Click Damage, Utility Lockdown",
+    "tags": [
+      "FACELESS_VOID",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is +100 Attack Speed during Chronosphere. Right choice is -1.25s Time Walk Cooldown. Choose the Attack Speed talent if you have the Chronosphere Facet and are the primary damage source within it, allowing you to shred trapped heroes. Choose the Cooldown reduction talent for incredible mobility, allowing near-constant Time Walk for initiation, escape, and chasing, especially valuable with the Time Zone Facet.",
+    "search_text": "Talent Level 20, +100 Attack Speed Chronosphere, -1.25s Time Walk Cooldown, Chronosphere Damage, Mobility",
+    "tags": [
+      "FACELESS_VOID",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is +20% Backtrack Chance. This grants a 20% chance to avoid any damage entirely, but is disabled by Break. Right choice is +200 Chronosphere AoE. Choose the Backtrack Chance talent for incredible survivability against all damage types, making you extremely hard to kill. Choose the Chronosphere AoE talent if you have the Chronosphere Facet to catch multiple enemy heroes more easily and control larger areas in teamfights.",
+    "search_text": "Talent Level 25, +20% Backtrack Chance, +200 Chronosphere AoE, Survivability, Break Disable, Area Control",
+    "tags": [
+      "FACELESS_VOID",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

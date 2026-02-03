@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Sand King Aghanim's Scepter: Epicenter now creates 3 Stinger attack areas every 0.5s at random locations, dealing 50% of Stinger damage. This upgrade counters enemy positioning and clustering by creating unpredictable damage zones, forcing enemies to scatter or take significant AoE damage during team fights.",
+    "search_text": "Sand King Aghanim Scepter Epicenter Stinger anti-clustering AoE control random damage zones",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Sand King",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Sand King Aghanim's Shard: Increases Epicenter damage per pulse and causes a small single Epicenter Pulse around Sand King every 3s. This upgrade enhances Sand King's sustained damage output and zone control, making him a persistent threat even outside of full Epicenter casts, countering prolonged engagements and slow-push strategies.",
+    "search_text": "Sand King Aghanim Shard Epicenter sustained damage zone control anti-slow push",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Sand King",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

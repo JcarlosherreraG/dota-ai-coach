@@ -1,0 +1,55 @@
+[
+  {
+    "display_text": "Cloak, Cost: 800: Passive component providing +20% Magic Resistance. Stacks multiplicatively with other spell resistance sources. Core early magic defense item for heroes facing frequent spell damage harassment or magic burst. Stats: Magic Resistance: +20%.",
+    "search_text": "magic resistance item, early magic defense, spell resistance, cloak, cheap magic resist, magic armor, magic damage reduction, spell defense, early game magic item, survivability vs magic, Cloak",
+    "tags": [
+      "ITEM_DATA",
+      "CLOAK",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "VS_MAGIC",
+      "MAGIC_RESISTANCE",
+      "DEFENSIVE",
+      "COMPONENT"
+    ]
+  },
+  {
+    "display_text": "Cloak, Cost: 800: Grants no attributes, damage, or other stats. Provides only the +20% Magic Resistance bonus. Efficient defensive item against pure magic damage threats.",
+    "search_text": "cloak stats, magic resistance stats, cloak attributes, pure magic resist, magic defense stats, Cloak",
+    "tags": [
+      "ITEM_DATA",
+      "CLOAK",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "VS_MAGIC",
+      "MAGIC_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "Cloak, Cost: 800: Defensive utility item that reduces incoming magical damage in team fights and skirmishes. Increases effective HP pool against magic nukers, allowing heroes to survive burst combos. Particularly valuable for frontline heroes or those with low base magic resistance.",
+    "search_text": "team fight magic defense, magic burst survival, anti nuke item, magic damage reduction, survive spells, magic resist team fight, Cloak",
+    "tags": [
+      "ITEM_DATA",
+      "CLOAK",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "VS_MAGIC",
+      "MAGIC_RESISTANCE",
+      "DEFENSIVE",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Cloak, Cost: 800: Situational against teams with heavy magic damage output from multiple heroes. Often purchased early to counter aggressive spellcasting laners. Builds into higher-tier magic defense items like Hood of Defiance or Pipe of Insight for even greater protection.",
+    "search_text": "vs magic lineups, counter magic damage, magic heavy teams, spell lineup, hood component, pipe component, magic resist upgrade, magic defense upgrade, Cloak",
+    "tags": [
+      "ITEM_DATA",
+      "CLOAK",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "VS_MAGIC",
+      "COMPONENT",
+      "UPGRADE"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "display_text": "Shadow Amulet, Cost: 900: A utility item that grants invisibility to you or an ally after a 1.25-second fade time, lasting 3.5 seconds with a 35% movement speed penalty. Excellent for initiating ganks, repositioning, or saving a low-health teammate. Stats: CD: 18s, Fade Time: 1.25s, Duration: 3.5s, Movement Penalty: 35%.",
+    "search_text": "invis item, stealth item, fade item, gank tool, repositioning, escape tool, ally save, initiate invis, Shadow Amulet, amulet",
+    "tags": [
+      "ITEM_DATA",
+      "SHADOW_AMULET",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "ESCAPE",
+      "SURVIVAL",
+      "POSITIONING",
+      "INITIATION"
+    ]
+  },
+  {
+    "display_text": "Shadow Amulet, Cost: 900: Provides no direct stat bonuses. Its value is purely in its active ability. Stats: None.",
+    "search_text": "Shadow Amulet stats, amulet no stats, utility only, no attributes, Shadow Amulet",
+    "tags": [
+      "ITEM_DATA",
+      "SHADOW_AMULET",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Shadow Amulet, Cost: 900: Acts as a defensive tool in team fights by allowing key heroes to reposition or escape focus fire. Can be used offensively to set up ambushes or on an ally initiator to facilitate a surprise engagement. The fade time makes it predictable if used reactively.",
+    "search_text": "team fight escape, reposition in fight, save ally, ambush setup, surprise initiation, defensive invis, Shadow Amulet",
+    "tags": [
+      "ITEM_DATA",
+      "SHADOW_AMULET",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "INITIATION",
+      "POSITIONING"
+    ]
+  },
+  {
+    "display_text": "Shadow Amulet, Cost: 900: Core component for building Glimmer Cape, which improves its save potential. Situational on supports or initiators who lack innate escape or initiation tools, particularly in low-tier games. The 900 gold cost makes it an early commitment for its niche.",
+    "search_text": "Shadow Amulet build, glimmer cape component, support item, initiator item, early utility, Shadow Amulet",
+    "tags": [
+      "ITEM_DATA",
+      "SHADOW_AMULET",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  }
+]

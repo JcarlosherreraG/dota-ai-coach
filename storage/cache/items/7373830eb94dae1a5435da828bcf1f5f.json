@@ -1,0 +1,52 @@
+[
+  {
+    "display_text": "Cost: 175: Sage's Mask provides +0.7 Mana Regeneration. A cost-effective early-game component for mana sustain, useful for spellcasting supports and mana-hungry cores. Offers no other stats. Stats: Mana Regen: +0.7.",
+    "search_text": "mana regeneration item, early game mana, mana regen component, cheap mana regen, starting mana, mana sustain, support mana, spellcaster mana, Sage's Mask",
+    "tags": [
+      "ITEM_DATA",
+      "SAGE'S_MASK",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "MANA_REGEN",
+      "SUSTAIN",
+      "COMPONENT"
+    ]
+  },
+  {
+    "display_text": "Cost: 175: Sage's Mask is a basic stat component that builds into items like Void Stone, Ring of Basilius, and Medallion of Courage. Ideal for heroes who need early mana regeneration to maintain spellcasting pressure or farming efficiency in lane. Stats: Mana Regen: +0.7.",
+    "search_text": "Sage's Mask build, early component, mana regen upgrade, builds into basilius, builds into medallion, builds into void stone, starting component, Sage's Mask",
+    "tags": [
+      "ITEM_DATA",
+      "SAGE'S_MASK",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "COMPONENT",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Cost: 175: Sage's Mask has no active or teamfight role. Its value lies purely in its cheap mana regeneration, allowing heroes to cast more spells in the laning phase and accelerate early game mana-dependent item timings. Stats: Mana Regen: +0.7.",
+    "search_text": "Sage's Mask role, mana regen only, no active, stat item, early laning, mana sustain lane, Sage's Mask",
+    "tags": [
+      "ITEM_DATA",
+      "SAGE'S_MASK",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "UTILITY",
+      "MANA_REGEN"
+    ]
+  },
+  {
+    "display_text": "Cost: 175: Core early purchase for heroes building mana regeneration-based items like Eul's Scepter or Arcane Boots. Strong synergy with intelligence heroes and supports who rely on frequent spell usage for harass and control. Stats: Mana Regen: +0.7.",
+    "search_text": "Sage's Mask synergy, intelligence hero item, support item, mana hungry heroes, spell spam, lane harass, early mana, Sage's Mask",
+    "tags": [
+      "ITEM_DATA",
+      "SAGE'S_MASK",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "MANA_REGEN",
+      "SUPPORT_ITEM",
+      "INTELLIGENCE"
+    ]
+  }
+]

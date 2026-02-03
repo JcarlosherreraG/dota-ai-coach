@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Night Stalker Aghanim's Scepter: Crippling Fear becomes a toggle that drains mana per second after the initial duration. This upgrade counters spell-reliant heroes by maintaining constant silence pressure, forcing enemies to either disengage or fight without abilities.",
+    "search_text": "Night Stalker Aghanim Scepter anti-spell silence toggle mana drain counter-disable",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Night Stalker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Night Stalker Aghanim's Shard: Hunter in the Night can be cast on creeps for instant kill, restoring health and mana. This counters lane pressure and sustain issues, transforming Night Stalker into a self-sufficient jungler who can recover quickly between engagements.",
+    "search_text": "Night Stalker Aghanim Shard sustain creep kill health mana restore jungle recovery",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Night Stalker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

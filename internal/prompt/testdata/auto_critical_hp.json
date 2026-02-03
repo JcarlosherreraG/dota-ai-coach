@@ -1,0 +1,48 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "100000009",
+    "game_time": 1100,
+    "clock_time": 1100,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": false
+  },
+  "player": {
+    "team_name": "Radiant",
+    "name": "CriticalHP",
+    "gold": 1800,
+    "kills": 3,
+    "deaths": 2,
+    "assists": 4,
+    "last_hits": 85,
+    "gpm": 380,
+    "xpm": 420
+  },
+  "hero": {
+    "name": "npc_dota_hero_phantom_assassin",
+    "level": 12,
+    "health": 180,
+    "max_health": 1400,
+    "mana": 300,
+    "max_mana": 450,
+    "alive": true,
+    "stunned": false,
+    "silenced": false
+  },
+  "items": {
+    "slot0": { "name": "item_phase_boots", "can_cast": true },
+    "slot1": { "name": "item_desolator", "can_cast": false },
+    "slot2": { "name": "item_magic_wand", "charges": 17, "can_cast": true },
+    "slot3": { "name": "item_blight_stone", "can_cast": false },
+    "slot4": { "name": "item_tpscroll", "charges": 1, "can_cast": true },
+    "slot5": { "name": "item_empty" }
+  },
+  "abilities": {
+    "ability0": { "name": "phantom_assassin_stifling_dagger", "level": 4, "can_cast": true, "cooldown": 0 },
+    "ability1": { "name": "phantom_assassin_phantom_strike", "level": 2, "can_cast": true, "cooldown": 0 },
+    "ability2": { "name": "phantom_assassin_blur", "level": 4, "can_cast": true },
+    "ability3": { "name": "phantom_assassin_coup_de_grace", "level": 2, "can_cast": false, "ultimate": false }
+  },
+  "user_context": "Только что вышла из драки, убила двоих, но осталась на 180 хп. Враги (Lion, Lina, Zeus) все живы. У Lion Finger готов. Мне нужно в шрайн, но он далеко.",
+  "user_question": "What is the most important tactical advice for next 30 seconds?"
+}

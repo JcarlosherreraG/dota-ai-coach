@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Dagger of Ristul, Cost: 0: Non-purchasable item granting a temporary damage boost by sacrificing health. The active Imbrue consumes 100 health to gain 40 damage for 8 seconds, with a 30-second cooldown. Also provides a passive 15 attack speed. A high-risk, high-reward choice for amplifying damage output in critical moments.",
+    "search_text": "damage sacrifice item, health for damage, temporary damage boost, risk reward item, life cost damage, attack speed sacrifice, health cost item, damage buff, Imbrue, Dagger of Ristul",
+    "tags": [
+      "ITEM_DATA",
+      "DAGGER_OF_RISTUL",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "ACTIVE",
+      "SACRIFICE"
+    ]
+  }
+]

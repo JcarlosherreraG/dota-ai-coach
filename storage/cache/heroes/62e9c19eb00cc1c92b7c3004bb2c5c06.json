@@ -1,0 +1,250 @@
+[
+  {
+    "display_text": "Bounty Hunter is a Melee agility hero with a base attack rate of 1.5, which is faster than the average, allowing for quicker attacks. Starting attributes are 19 Strength, 21 Agility, and 20 Intelligence. His primary attribute is Agility, contributing to damage and armor. As a melee hero, he has standard turn rate and move speed, but specific values are not provided in the data.",
+    "search_text": "Bounty Hunter stats melee attack rate 1.5 strength 19 agility 21 intelligence 20 primary agility",
+    "tags": [
+      "Bounty Hunter",
+      "BASE_STATS",
+      "Melee",
+      "Attack Rate",
+      "Attributes"
+    ]
+  },
+  {
+    "display_text": "Bounty Hunter has two facets: 'Shuriken' which allows Shuriken Toss to damage and slow all enemies in its path, enhancing AoE control; and 'Mugging' which, based on the name, likely enhances gold-related abilities like Jinada or Track, but details are not specified in the data. Choose Shuriken for teamfight impact or Mugging for economic advantage.",
+    "search_text": "Bounty Hunter facets shuriken toss pass through damage slow mugging gold steal",
+    "tags": [
+      "Bounty Hunter",
+      "FACET_STRATEGY",
+      "Facet",
+      "Shuriken",
+      "Mugging"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Bounty Hunter should use Jinada to secure last hits and harass enemies, stealing 12/20/28/36 gold per hit. Shadow Walk provides invisibility for escape or initiating with a 1.0/1.2/1.4/1.6 second stun after a 1.0/0.75/0.5/0.25 second fade time. Shuriken Toss can be used for finishing off enemies or slowing them for kills. Focus on leveling Jinada for farm and gold steal, and Shadow Walk for survivability.",
+    "search_text": "Bounty Hunter laning phase jinada last hit gold steal shadow walk invisibility stun shuriken toss slow",
+    "tags": [
+      "Bounty Hunter",
+      "LANING_PHASE",
+      "Early Game",
+      "Laning",
+      "Jinada",
+      "Shadow Walk"
+    ]
+  },
+  {
+    "display_text": "Bounty Hunter's power spikes at level 6 with Track, providing 8% damage amplification and bonus gold on kills. Level 12 with level 2 Track increases damage amp to 12% and gold. Level 18 with level 3 Track gives 16% damage amp and maximum gold. Talents at levels 10, 15, 20, and 25 offer significant upgrades. Item spikes include Phase Boots for mobility, Desolator for armor reduction synergizing with physical damage, and Black King Bar for spell immunity in fights.",
+    "search_text": "Bounty Hunter power spikes level 6 track level 12 level 18 talents 10 15 20 25 phase boots desolator bkb",
+    "tags": [
+      "Bounty Hunter",
+      "POWER_SPIKES",
+      "Levels",
+      "Talents",
+      "Items"
+    ]
+  },
+  {
+    "display_text": "Bounty Hunter is hard countered by heroes and items that provide true sight, such as Slardar's Amplify Damage or Gem of True Sight, revealing his Shadow Walk. Silences prevent him from using Shadow Walk to escape. Break effects can disable his Big Game Hunter passive, reducing gold income. High burst damage heroes can kill him before he can react due to his low health pool from base Strength.",
+    "search_text": "Bounty Hunter counters true sight detection silence break burst damage low health",
+    "tags": [
+      "Bounty Hunter",
+      "HARD_COUNTERS",
+      "Counters",
+      "True Sight",
+      "Silence",
+      "Break"
+    ]
+  },
+  {
+    "display_text": "Core items for Bounty Hunter are Phase Boots for movement speed and armor, Desolator for armor reduction amplifying his physical damage from Jinada and attacks, and Black King Bar to prevent disables during fights. These items synergize with his kit for pick-offs and teamfight contribution.",
+    "search_text": "Bounty Hunter core items phase boots desolator black king bar bkb damage armor reduction",
+    "tags": [
+      "Bounty Hunter",
+      "CORE_BUILD",
+      "Items",
+      "Phase Boots",
+      "Desolator",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Bounty Hunter's role is to scout and initiate with Shadow Walk stun, apply Track on key enemies for damage amplification and vision, use Shuriken Toss for burst damage and slow, and secure kills with Jinada for gold steal. He should focus on high-value targets to provide bonus gold for the team through Track.",
+    "search_text": "Bounty Hunter teamfight role scout initiate track damage amplification shuriken toss jinada gold steal",
+    "tags": [
+      "Bounty Hunter",
+      "TEAMFIGHT_ROLE",
+      "Teamfight",
+      "Initiate",
+      "Track",
+      "Gold"
+    ]
+  },
+  {
+    "display_text": "Shuriken Toss hurls a shuriken at an enemy unit, dealing 100/170/240/310 bonus damage and slowing Movement Speed by 100% for 0.35 seconds. The shuriken bounces to Tracked units within 1200 radius. Cast range is 375/425/475/525, and projectile speed is 1000. It does not pierce spell immunity unless specified, but no data on pierce_immunity is provided.",
+    "search_text": "Shuriken Toss Q bonus damage 100 170 240 310 slow 100% 0.35s bounce track 1200 range 375 425 475 525 speed 1000 nuke slow",
+    "tags": [
+      "Bounty Hunter",
+      "ABILITY_DATA",
+      "Ability",
+      "Shuriken Toss",
+      "Nuke",
+      "Slow"
+    ]
+  },
+  {
+    "display_text": "Jinada plans Bounty Hunter's next hit, dealing 70/105/140/175 bonus damage and stealing 12/20/28/36 unreliable gold from the target. Cooldown is 9/7/5/3 seconds. It is an attack modifier that enhances physical damage and provides economic advantage.",
+    "search_text": "Jinada W bonus damage 70 105 140 175 gold steal 12 20 28 36 cooldown 9 7 5 3 attack modifier",
+    "tags": [
+      "Bounty Hunter",
+      "ABILITY_DATA",
+      "Ability",
+      "Jinada",
+      "Damage",
+      "Gold Steal"
+    ]
+  },
+  {
+    "display_text": "Shadow Walk makes Bounty Hunter invisible after a 1.0/0.75/0.5/0.25 second fade time, lasting 20/25/30/35 seconds, and allows movement through units. Breaking invisibility with an attack stuns the target for 1.0/1.2/1.4/1.6 seconds. Cooldown is 18/17/16/15 seconds. It does not provide damage reduction. Does not pierce spell immunity.",
+    "search_text": "Shadow Walk E invisibility fade time 1.0 0.75 0.5 0.25 duration 20 25 30 35 stun 1.0 1.2 1.4 1.6 cooldown 18 17 16 15 phase movement",
+    "tags": [
+      "Bounty Hunter",
+      "ABILITY_DATA",
+      "Ability",
+      "Shadow Walk",
+      "Invisibility",
+      "Stun"
+    ]
+  },
+  {
+    "display_text": "Friendly Shadow applies Shadow Walk and all its bonuses to an allied unit, with an ally fade time of 0.5 seconds. Casting this does not break Bounty Hunter's own invisibility. It provides the same invisibility, phase movement, and attack stun to the ally.",
+    "search_text": "Friendly Shadow ally shadow walk invisibility fade time 0.5s no break self invisibility",
+    "tags": [
+      "Bounty Hunter",
+      "ABILITY_DATA",
+      "Ability",
+      "Friendly Shadow",
+      "Ally",
+      "Invisibility"
+    ]
+  },
+  {
+    "display_text": "Big Game Hunter is a passive ability where Bounty Hunter receives 20% extra gold when getting a kill or assist on an enemy with a killing streak. This synergizes with Track for additional gold income.",
+    "search_text": "Big Game Hunter passive extra gold 20% kill streak kill assist bounty",
+    "tags": [
+      "Bounty Hunter",
+      "ABILITY_DATA",
+      "Ability",
+      "Big Game Hunter",
+      "Passive",
+      "Gold"
+    ]
+  },
+  {
+    "display_text": "Track targets an enemy hero, granting True Sight, increasing damage taken by 8/12/16%, and showing how much gold they carry. Bounty Hunter gains 12/16/20% bonus movement speed when near the tracked unit. Duration is 25 seconds. If the target dies, Bounty Hunter gets 130/225/320 gold and nearby allies get 50/90/130 gold within 1200 radius. Also steals 30/40/50% of the target's unreliable gold. Casting Track does not break invisibility.",
+    "search_text": "Track R true sight damage amplification 8% 12% 16% move speed 12% 16% 20% gold bonus 50 90 130 self 130 225 320 gold steal 30% 40% 50% duration 25s",
+    "tags": [
+      "Bounty Hunter",
+      "ABILITY_DATA",
+      "Ability",
+      "Track",
+      "True Sight",
+      "Damage Amp",
+      "Gold"
+    ]
+  },
+  {
+    "display_text": "Against high armor enemies, Bounty Hunter should build armor reduction items like Desolator or Assault Cuirass to amplify his physical damage from Jinada and attacks. Track's damage amplification also helps, but focusing on armor penetration is key.",
+    "search_text": "Bounty Hunter high armor desolator assault cuirass armor reduction physical damage track damage amp",
+    "tags": [
+      "Bounty Hunter",
+      "SITUATIONAL",
+      "High Armor",
+      "Armor Reduction"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, Bounty Hunter should focus on using Track on enemy heroes to secure assist gold for the team. Avoid risky engagements and use Shadow Walk for escape. Prioritize survival items like Black King Bar or Linken's Sphere.",
+    "search_text": "Bounty Hunter behind track gold assist shadow walk escape survival items bkb linkens",
+    "tags": [
+      "Bounty Hunter",
+      "SITUATIONAL",
+      "Behind",
+      "Gold",
+      "Survival"
+    ]
+  },
+  {
+    "display_text": "Against invisible heroes, Bounty Hunter's Track provides True Sight, making him a natural counter. Use Track to reveal enemies and coordinate with your team to kill them. Consider carrying detection like Dust or Gem for additional security.",
+    "search_text": "Bounty Hunter invisible heroes track true sight counter detection dust gem",
+    "tags": [
+      "Bounty Hunter",
+      "SITUATIONAL",
+      "Invisible",
+      "True Sight",
+      "Counter"
+    ]
+  },
+  {
+    "display_text": "When ahead, Bounty Hunter should build aggressive items like Desolator, Monkey King Bar, or Daedalus to snowball. Use Track to hunt down enemies and secure more gold, extending the lead. Dominate vision with Shadow Walk scouting.",
+    "search_text": "Bounty Hunter ahead aggressive items desolator mkb daedalus track hunt gold snowball",
+    "tags": [
+      "Bounty Hunter",
+      "SITUATIONAL",
+      "Ahead",
+      "Aggressive",
+      "Snowball"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Bounty Hunter should initiate with Shadow Walk stun on a key target, then apply Track on multiple enemies for damage amplification and gold bonus. Use Shuriken Toss for burst damage and slow, and focus on low-health targets with Jinada.",
+    "search_text": "Bounty Hunter teamfights initiate shadow walk stun track multiple shuriken toss jinada finish",
+    "tags": [
+      "Bounty Hunter",
+      "SITUATIONAL",
+      "Teamfights",
+      "Initiate",
+      "Track"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +0.6 seconds Shuriken Toss Slow duration or +25 Damage. The slow extension increases control and chase potential, while +25 Damage enhances last hitting and physical damage output. Pick slow if you need more utility, or damage for farming and fighting.",
+    "search_text": "Bounty Hunter talent level 10 shuriken toss slow 0.6s duration damage 25 left right choice",
+    "tags": [
+      "Bounty Hunter",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between -30% Damage Taken while in Shadow Walk or +50 Track Gold bonus. Damage reduction improves survivability during invisibility, useful for escaping or initiating. Extra Track gold increases economic gain for you and your team. Pick damage reduction if you're being focused, or gold if you need more income.",
+    "search_text": "Bounty Hunter talent level 15 shadow walk damage reduction 30% track gold 50 left right",
+    "tags": [
+      "Bounty Hunter",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between Track granting Shared Vision of the target or +50 Jinada Gold Steal. Shared Vision provides team-wide vision, crucial for scouting and coordination. Extra Jinada gold steal enhances personal income from attacks. Pick shared vision for utility, or gold steal for greed.",
+    "search_text": "Bounty Hunter talent level 20 track shared vision jinada gold steal 50 left right",
+    "tags": [
+      "Bounty Hunter",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between +250 Shuriken Toss Damage or No Cooldown on Jinada. +250 damage makes Shuriken Toss a powerful nuke for bursting enemies. No cooldown on Jinada allows constant bonus damage and gold steal on every attack, significantly increasing DPS and gold income. Pick shuriken damage for burst, or no cooldown for sustained damage and economy.",
+    "search_text": "Bounty Hunter talent level 25 shuriken toss damage 250 jinada no cooldown left right",
+    "tags": [
+      "Bounty Hunter",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

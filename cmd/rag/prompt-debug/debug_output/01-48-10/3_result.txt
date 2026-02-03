@@ -1,0 +1,251 @@
+FILE: 3.json
+QUESTION: Что мне собрать после Блейдмейла? Мне не дают бить в драке, слишком много контроля.
+GENERATION TIME: 2.19s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: Ability, Passive, Resistance] | Insurmountable: Grants Tiny resistance to slows and status effects based on Strength. Stats: Strength to Slow Resistance: 20%, Strength to Status Resistance: 10%.
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: ITEM_DATA, ASCETIC'S_CAP, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SURVIVAL, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, VS_SLOW] | Ascetic's Cap, Cost: 0: Neutral item. Provides a passive effect that grants 40% Status resistance and 40% Slow Resistance for 3 seconds whenever a debuff would be applied to the owner. This makes the user temporarily more resilient to stuns, slows, and other negative effects. Stats: Status Resistance: 40%, Slow Resistance: 40%, Duration: 3s.
+---
+[TAGS: Ursa, Abilities, Survivability] | Ursa Enrage: Grants massive survivability and debuff resistance, making Ursa harder to kill. Stats: Damage Reduction: 80%, Status Resistance: 50%, Duration: 4/4.5/5
+---
+[TAGS: ITEM_DATA, GLEIPNIR, FULL_ITEM, SYNERGY_BUILD, UPGRADE, INTELLIGENCE_HERO, UTILITY, INITIATION] | Gleipnir, Cost: 4550: Synergizes with heroes possessing other AOE disables or damage to chain crowd control. Core on intelligence heroes who want utility and tankiness. Good follow-up to Blink Dagger for instant AOE initiation. Upgrades from Rod of Atos and Point Booster.
+---
+[TAGS: STRATEGY, Spectre, ITEM_BUILD, SITUATIONAL] | Spectre Situational: Buy Blademail vs burst damage, BKB vs heavy disables, and Skadi vs high-mobility heroes. Consider Heart of Tarrasque for extreme late-game durability.
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: ITEM_DATA, ABYSSAL_BLADE, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, BKB_PIERCE, DISABLE, LOCKDOWN, COUNTER_ITEM, LATE_GAME] | Abyssal Blade, Cost: 6250: Situationally built against heroes reliant on spell immunity (Black King Bar) or escape mechanisms that provide debuff immunity. The active 'Overwhelm' stun pierces these immunities, making it a key counter-item for locking down elusive or magic-immune cores who are otherwise difficult to control. Directly counters the defensive power of BKB in the late game.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, FARMING_UTILITY, FARMING, SPLIT_PUSH, SAFE_FARM, ILLUSIONS] | Cost: 4650: Provides farming utility by using illusions to push out dangerous lanes safely or accelerate jungle clearing while your hero is elsewhere. The illusions last 18 seconds, allowing them to clear waves or camps. This split-push pressure creates space and forces enemies to reveal themselves. Stats: Illusion Duration: 18s.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE_RECIPE, CORE_DESCRIPTION, RECIPE, COMPONENT] | Manta Style Recipe. Cost: 1550: Component required to assemble Manta Style. Does not provide stats or abilities.
+---
+[TAGS: ITEM_DATA, BRACER, SYNERGY_BUILD, FULL_ITEM, UPGRADE, COMPONENT, UTILITY] | Bracer, Cost: 505: Core recipe component for powerful items like Drum of Endurance and Rod of Atos. Purchasing Bracers early in the laning stage builds into mid-game power spikes. Timing matters as its flat stat efficiency is best during the first 15 minutes. Stats: Cost: 505.
+---
+[TAGS: STRATEGY, Keeper of the Light, ITEM_BUILD, SITUATIONAL] | Keeper of the Light Situational: Buy Glimmer Cape vs magic damage or Ghost Scepter vs physical burst. Eul's Scepter can counter silences.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, CORE_MECHANICS, DISPELLABLE, UTILITY, ILLUSIONS, ESCAPE, DISPEL, VS_CONTROL] | Cost: 4650: Creates 2 illusions of your hero that last 18 seconds. Melee illusions deal 33% damage, ranged illusions deal 28% damage, and all illusions take 300% damage. Provides a 0.1 second invulnerability window on cast, and can be used as a basic dispel to remove certain debuffs. Stats: CD: 34s, Mana Cost: 125.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, SITUATIONAL_VS_CONTROL, VS_CONTROL, DISPEL, CLEANSE, ESCAPE, DEFENSIVE] | Cost: 4650: Situational against control abilities and silences. The basic dispel effect can immediately remove debuffs like silences, slows, and roots, allowing you to escape or continue fighting. The short invulnerability on activation can be used to avoid follow-up damage or disables. Essential for carries who need to purge enemy control to maintain DPS. Stats: Dispels: Basic.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, WEAK_TO_AOE, ILLUSION_VULNERABLE] | Manta Style HARD_COUNTERS: Countered by abilities and items that quickly clear illusions or apply area-of-effect damage, such as Battle Fury, Maelstrom, and Shiva's Guard. The dispel is ineffective against hard disables like stuns (unless dodged) and most ultimate abilities. Illusions die quickly to magical burst damage. Stats: Illusions take 300% damage, Duration: 18 seconds.
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: ITEM_DATA, HOOD_OF_DEFIANCE, STAT_PROFILE, FULL_ITEM, MAGIC_RESISTANCE, REGEN, SUSTAIN, HEALTH] | Cost: 0: Hood of Defiance provides +18% Magic Resistance and +8.5 Health Regeneration. It offers no other attribute bonuses, focusing purely on enhancing survivability against magic damage and providing lane or jungle sustain through significant passive HP regeneration. Stats: Magic Resist: +18%, HP Regen: +8.5.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, TEAMFIGHT_ROLE, UTILITY, DEFENSIVE, DISRUPTION, SURVIVAL, VS_CONTROL] | Cost: 4650: Teamfight role is disruption and creating confusion. Illusions can tank spells, block projectiles, and draw focus away from your real hero. The instant dispel and invulnerability window can be used to dodge stuns, silences, and roots, turning an enemy initiation attempt into a counter-play opportunity. Stats: Illusion Count: 2, Duration: 18s.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, INITIATION, CATCH, LOCKDOWN, INTERRUPT] | Warhammer (FULL_ITEM) (Cost: 0): Functions as a targeted disable and burst damage tool. The stun interrupts channeling spells and provides a window for follow-up attacks or abilities. It's effective for focusing key targets or securing kills on mobile enemies.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, SYNERGY_BUILD, CARRY_ITEM, AGILITY, UPGRADE, ILLUSIONS] | Cost: 4650: Core synergy with heroes who have abilities enhanced by their illusions, such as Chaos Knight or Terrorblade. High-Agility heroes benefit greatly from the Attack Speed and Movement Speed to kite and deal damage. The illusions can apply attack modifiers like Diffusal Blade's mana burn or Skadi's slow. Builds from Yasha, making it a natural progression for Agility cores.
+---
+[TAGS: BEASTMASTER, SITUATIONAL, VS_MAGIC_BURST] | Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, STAT_PROFILE, FULL_ITEM, ARMOR, REGEN, MANA_REGEN, MANA, DEFENSIVE] | Lotus Orb, Cost: 3850: Provides +10 Armor, +6.5 HP Regeneration, +4.0 Mana Regeneration, and +250 Mana. These stats offer significant survivability and sustain, making it suitable for frontliners or supports who need to stay in fights to cast their spells. Stats: Armor: +10, HP Regen: +6.5, Mana Regen: +4.0, Mana: +250.
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, STAT_PROFILE, AGILITY, ATTACK_SPEED, MOVEMENT_SPEED, CARRY_ITEM, UPGRADE] | Cost: 4650: Provides +10 Strength, +26 Agility, +10 Intelligence, +15 Attack Speed, and +10% Movement Speed. Primarily an Agility item offering significant bonus to Attack Speed and Movement Speed. The Yasha-based movement speed bonus does not stack with other Yasha items. Stats: Attributes: +10 Str, +26 Agi, +10 Int.
+---
+[TAGS: ITEM_DATA, ROD_OF_ATOS, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE, SETUP, COMBO] | Rod of Atos, Cost: 2250: Build synergy for intelligence heroes who benefit from the stats and need reliable setup for their abilities, such as Skywrath Mage (for Mystic Flare), Lina, or Zeus. The root guarantees follow-up on skillshots. Also a strong early-to-mid game item for initiators who lack a stun.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, CORE_ITEM] | Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, STAT_PROFILE, FULL_ITEM, HEALTH, DAMAGE, STRENGTH, SURVIVAL] | Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPELLABLE, NO_BKB_PIERCE] | Orb of Corrosion HARD_COUNTERS: The Corrosion effect is dispellable, meaning items like Manta Style or abilities with basic dispels can remove all debuffs (slow, armor reduction, heal reduction). Its effectiveness is limited against heroes who naturally build dispels or have innate magic resistance/status resistance. The effect does not pierce Spell Immunity. Stats: Dispellable: Yes, Does Not Pierce BKB.
+---
+[TAGS: ITEM_DATA, OGRE_SEAL_TOTEM, CORE_DESCRIPTION, NEUTRAL, NON_PURCHASABLE, MOBILITY, INITIATION, AOE_DAMAGE, MAGICAL_DAMAGE, SLOW, CATCH] | Ogre Seal Totem, Tier N / Non-Purchasable: Activate to flop forward up to 400 units twice, dealing 250 magical damage and applying a 100% slow to enemies in a 275 radius for 1.5 seconds on each impact. Provides mobile initiation and chase with two burst damage and control instances. Stats: CD: 40s, Mana Cost: 25, Bounces: 2, Leap Speed: 800, Radius: 275, Slow Duration: 1.5s.
+---
+[TAGS: ITEM_DATA, BOOTS_OF_BEARING, SYNERGY_BUILD, FULL_ITEM, AURA, BUFF, UPGRADE] | Boots of Bearing, Cost: 4225: Synergizes with heroes who benefit from attack speed and want to build Drums of Slaughter, such as aura-based initiators (e.g., Undying) or core heroes who are already building for team fights. It's a natural upgrade for heroes who bought Tranquil Boots and need a late-game aura. Builds from Tranquil Boots, Drums of Slaughter, and Ring of Tarrasque.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Elusive HARD_COUNTERS: The evasion is countered by items and abilities providing True Strike (e.g., Monkey King Bar, Bloodthorn, certain hero spells), which completely negate its defensive benefit.
+---
+[TAGS: STRATEGY, Enigma, ITEM_BUILD, SITUATIONAL] | Enigma Situational: Buy Linken's Sphere against targeted spells or Ghost Scepter to evade physical damage.
+---
+[TAGS: ANTI-MAGE, SITUATIONAL] | When playing from behind, focus on split-pushing with Blink and Manta illusions. Avoid fights. Use Blink to escape ganks. Farm the enemy jungle if your own is unsafe. Your goal is to reach critical items (Manta, Basher) to become relevant.
+---
+[TAGS: ITEM_DATA, HEADDDRESS, SYNERGY_BUILD, FULL_ITEM, AURA, SUPPORT_ITEM, UTILITY, UPGRADE_COMPONENT] | Headdress, Cost: 425: Synergy build: Cost-effective early game aura for heroes looking to upgrade into Mekansm or build for pushes. Ideal for supports or initiators who stay near their team. Provides value before Mekansm is assembled.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPEL] | Rod of Atos HARD_COUNTERS: The root is dispellable by basic dispels, so items like Manta Style, Lotus Orb, or Eul's Scepter can remove it. Spell Immunity (BKB) prevents the root from being applied in the first place. Stats: Dispellable: Yes.
+---
+[TAGS: ITEM_DATA, FORTITUDE_RING, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SAVE, HEALTH, REGEN, SURVIVAL] | Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.
+---
+[TAGS: Ability, Point Target, Crowd Control] | Tendrils of the Deep: Sends a cone of tentacles to damage and stun enemies, effective for crowd control. Stats: Damage: 120-180, Stun Duration: 1.2s, Range: 300, Speed: 725.
+---
+[TAGS: Ability, Defensive, Status Resistance] | Status Resistance Bonus: Reduces the duration of negative status effects. Stats: Status Resistance: 10%
+---
+[TAGS: Ability, Control] | God's Rebuke Slow Duration Increase: Prolongs the slow effect of God's Rebuke, providing better control over enemy movement. Stats: Slow Duration: {bonus_knockback_slow_duration}s
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, SYNERGY_BUILD, FULL_ITEM, SUPPORT_ITEM, INITIATOR_ITEM, TANK_ITEM] | Lotus Orb, Cost: 3850: Synergizes with tanky initiators or durable supports who can survive to cast it mid-fight. The mana and regen stats support repeated spellcasting. It is particularly strong on heroes who want to be in the thick of the action to protect their cores.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_SINGLE_TARGET, VS_DISABLE, COUNTER] | Lotus Orb VS_SINGLE_TARGET: Hard counter to heroes reliant on key single-target spells for initiation or kill threat (e.g., Doom, Rupture, Hex). Forces enemies to consider casting order or risk self-disable. Stats: Spell Reflection Duration: 5s.
+---
+[TAGS: ITEM_DATA, ESSENCE_RING, CORE_DESCRIPTION, NEUTRAL, TIER_2, SURVIVAL, DEFENSIVE, HEALTH, ACTIVE, BURST_HEAL] | Essence Ring, Tier 2: Neutral item that instantly increases your current and maximum health by 240 for 10 seconds upon activation. This burst of survivability provides a temporary health buffer for clutch moments in skirmishes or to survive burst damage. Its substantial mana cost requires careful mana management. Stats: CD: 25s, Mana: 160, Duration: 10s, Health Gain: 240.
+---
+[TAGS: ITEM_DATA, AETHERIAL_HALO, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, VS_MAGIC, SURVIVAL, SUSTAIN, CONTROL, VS_MOBILITY] | Cost: 5900: Highly effective against magic-resistant enemies and physical burst due to the raw attribute bulk and spell lifesteal sustain. The active burn damage over time and slow helps control mobile heroes and prevent disengages.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_DEBUFFS, DISPELLABLE, COUNTER_DISABLE] | Manta Style SITUATIONAL_VS_DEBUFFS: Essential against heroes who rely on single-target, non-ultimate disables and debuffs. Counters silences (like Global Silence), roots (like Rod of Atos), and slows, allowing you to re-engage or escape. The invulnerability frame can dodge incoming stun projectiles. Stats: Active provides Basic Dispel.
+---
+[TAGS: ITEM_DATA, MAGIC_WAND, FULL_ITEM, CORE_MECHANICS, SAVE, DEFENSIVE, SURVIVAL, SUSTAIN, UTILITY, BURST_HEAL, BURST_MANA, COUNTER_SPAM] | Cost: 460: Magic Wand provides instant burst healing and mana restoration based on stored charges. Gains a charge (max 20) whenever a visible enemy within 1200 range uses an ability. The active restores 15 health and mana per charge, making it a crucial reactive sustain and survival tool against spell-spamming enemies. Stats: CD: 15s, Max Charges: 20, Restore per Charge: 15 HP/MP.
+---
+[TAGS: ITEM_DATA, LINKENS_SPHERE, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, DEFENSIVE] | Linken's Sphere, Cost: 4800: A situational item against teams with key single-target disables or nukes (e.g., Doom, Laguna Blade, Fiend's Grip). It is less effective against teams with abundant area-of-effect spells or multiple low-cooldown targeted abilities that can pop the block easily. Prioritize this on mobile, high-priority cores who are the primary target for enemy disables. Stats: Block Cooldown: 14s.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPEL, VS_AOE] | Lotus Orb HARD_COUNTERS: Basic dispels remove the Echo Shell buff. AoE and non-targeted spells are not reflected. Neutral item abilities do not trigger it. Stats: Dispel Type: Basic Dispel.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, CORE_MECHANICS, FULL_ITEM, DISPEL, SAVE, DEFENSIVE, VS_CONTROL, UTILITY] | Lotus Orb, Cost: 3850: Applies a basic dispel and a protective Echo Shell to a target ally for 5 seconds. Most single-target spells cast on the shielded unit are reflected back to the original caster while the shielded unit still takes the spell damage. This makes it a powerful counter-initiation and save tool against targeted disables and debuffs. Stats: CD: 15s, Mana Cost: 175, Duration: 5s.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, TEAMFIGHT_ROLE, FULL_ITEM, SAVE, DEFENSIVE, TEAMFIGHT_UTILITY, DISRUPT] | Lotus Orb, Cost: 3850: Serves as a defensive save item in team fights. By applying the Echo Shell to a key ally being focused or disabled, you can punish the enemy's initiation, often forcing them to hold their spells. This creates a disruptive aura of protection that can turn the tide of an engagement.
+---
+[TAGS: Ability, No Target, Survivability] | Unfettered: Temporarily increases resistance to spells and status effects, enhancing survivability. Stats: Duration: 4/5/6/7, Magic Resistance: 60%, Status Resistance: 60%.
+---
+[TAGS: ITEM_DATA, RECIPE_BLACK_KING_BAR, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Black King Bar Recipe. Cost: 1450: Component required to assemble Black King Bar. Does not provide stats or abilities.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: Ability, Stat, Survivability] | Status Resistance: Enhances survivability by reducing the duration of debuffs. Stats: Status Resistance: 15%/20%/25%
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, NEUTRAL_ITEM] | Pupil's Gift CORE_BUILD: This item has no build path, components, or direct upgrades. It is a Tier 1 neutral item that can be acquired by killing neutral creeps. Synergies: Works well on any hero that benefits from raw attributes, but is especially efficient for Universal heroes who gain a portion of the bonus to all attributes.
+---
+[TAGS: Ability, Duration, Area Control] | March of the Machines Duration: Extends area control and damage over time. Stats: Duration: +{bonus_duration}s
+---
+[TAGS: ITEM_DATA, DISPERSER, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_BUFFS, DISPEL, CLEANSE] | Disperser, Cost: 6100: Strong situational item against heroes reliant on mana or who are vulnerable to dispels. Counters heroes with key buffs to purge (e.g., Guardian Angel, Bloodlust) and heroes with low mana pools vulnerable to the burn. The self-dispel can also counter enemy roots and slows.
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: ITEM_DATA, OVERWHELMING_BLINK, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, LATE_GAME, SCALING, STRENGTH] | Cost: 6800: Overwhelming Blink. Core item for Strength-based initiators and durable cores who can survive in the middle of fights after blinking in (e.g., Centaur Warrunner, Tidehunter, Pudge). The damage scales with Strength, making it a powerful late-game damage and utility spike for heroes who stack Strength. Its high cost makes it a late-game luxury upgrade.
+---
+[TAGS: Ability, Crowd Control] | Overwhelming Odds Radius: Increases area of effect for better crowd control. Stats: Radius increase.
+---
+[TAGS: STRATEGY, Visage, ITEM_BUILD, SITUATIONAL] | Visage Situational: Buy BKB vs lockdown, Shiva's vs physical damage, or Nullifier vs saves. Consider Overwhelming Blink for initiation if ahead.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, UTILITY, DISPELLABLE, REFLECT] | Lotus Orb CORE_MECHANICS: Echo Shell shield reflects most targeted spells back to the caster for 5 seconds. The shielded unit still takes the spell's damage. The active dispels debuffs upon cast. Stats: Cost: 3850 gold, Cooldown: 15s, Mana Cost: 175, Active Duration: 5s, +10 Armor, +6.5 HP Regeneration, +4 MP Regeneration, +250 Mana.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, DEFENSIVE] | Lotus Orb CORE_BUILD / SYNERGIES: Builds from Perseverance (regen), Platemail (armor), and Energy Booster (mana). Strong on initiators or squishy cores who need to survive key spells. Synergy with self-cast heroes (e.g., Legion Commander Duel). Stats: Components: Perseverance, Platemail, Energy Booster.
+---
+[TAGS: Ability, Area of Effect, Slow] | Stroke of Fate: A curved path ability that damages and slows enemies, with increased damage per hit. Tactical purpose: Area denial and teamfight damage scaling. Stats: Base damage: 100/160/220/280, Bonus damage per hero: 20/40/60/80, Bonus damage per creep/illusion: 10/20/30/40, Slow: 50%/60%/70%/80%, Slow duration: 1.75.
+---
+[TAGS: ITEM_DATA, VITALITY_BOOSTER, STAT_PROFILE, FULL_ITEM, HEALTH, SURVIVAL, COMPONENT, SECRET_SHOP] | Vitality Booster, Cost: 1000: Purchasable from the Secret Shop. Provides a flat +250 maximum Health, offering raw survivability with no active abilities. A core component for many late-game health-focused items like Heart of Tarrasque. Stats: Health Bonus: +250.
+---
+[TAGS: ITEM_DATA, UNRELENTING_EYE, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, SLOW_RESISTANCE, STATUS_RESISTANCE, DEFENSIVE, SURVIVAL] | Unrelenting Eye, Tier 3 Neutral: Provides the Relentless passive, granting 50% slow resistance. This resistance decreases by 10% for each enemy hero within your attack range. A situational defensive tool that is most effective when you are isolated or separated from enemies. Stats: Max Slow Resistance: 50%, Reduction per Enemy Hero: 10%.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, PASSIVE, UTILITY, SLOW_RESIST] | Unrelenting Eye CORE_MECHANICS: Provides bonus slow resistance that scales with enemy proximity, functioning as a counter-initiation tool against area slows and kiting. The passive ability reduces enemy control by making the wearer harder to pin down in teamfights. Stats: Cost: 0 gold, Increases slow resistance by 50%. This bonus is reduced by 10% for every enemy hero within the wearer's attack radius.
+---
+[TAGS: ITEM_DATA, SANGE_AND_YASHA, SITUATIONAL_VS_CONTROL, FULL_ITEM, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, SURVIVABILITY, DEFENSIVE] | Cost: 4200: Excellent against teams with multiple disables and slows. The status resistance reduces stun and silence durations, while the slow resistance reduces the impact of movement impairing effects. The health regen amplification synergizes with other sources of regen and lifesteal. Stats: Status Resistance: +15%, Slow Resistance: +25%, Health Regen Amp: +20%.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, DISPEL, DEFENSIVE] | Lotus Orb, Cost: 3850: Highly effective against heroes and items that rely on single-target disables or debuffs (e.g., Scythe of Vyse, Orchid Malevolence, Ancient Apparition Ice Blast). The basic dispel component can remove many common slows and silences before the reflection even occurs.
+
+=== GAME STATE ===
+Match Time: 25:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: axe (Lvl 15) | HP: 1800/1800 | Mana: 600/600 | Alive: true
+Stats: K/D/A 5/4/8 | Gold: 3200 | LastHits: 120
+Inventory: [item_blink (CD), item_blade_mail (CD), item_vanguard (CD), item_tranquil_boots (CD), item_magic_wand (CD)]
+Abilities: [axe_counter_helix(Lvl4)[NoMana/Silenced] | axe_culling_blade(Lvl2)[NoMana/Silenced] | axe_berserkers_call(Lvl4)[NoMana/Silenced] | axe_battle_hunger(Lvl4)[NoMana/Silenced]]
+User Situation Notes: Против меня Invoker и Shadow Shaman. Я влетаю с Блинка, даю агр, но меня сразу поднимают в Еул или превращают в курицу, и я умираю до того, как крутилка сработает.
+
+=== USER QUESTION ===
+"Что мне собрать после Блейдмейла? Мне не дают бить в драке, слишком много контроля."
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Что мне собрать после Блейдмейла? Мне не дают бить в драке, слишком много контроля.".**
+========================================
+
+[AI RESPONSE] (6.84s)
+Рекомендую собрать Black King Bar, чтобы игнорировать контроль и магию в драках. Это позволит вам уверенно влетать в бой, применяя свои способности и атакуя противников без страха быть законтролированным. Кроме того, обратите внимание на Linken's Sphere, если у противника есть ключевые одиночные заклинания, которые вам нужно блокировать.

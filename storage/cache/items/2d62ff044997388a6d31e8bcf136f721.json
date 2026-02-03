@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Pig Pole, Cost: 0: A Neutral item that transforms your hero into a critter for 3 seconds and provides +20% movement speed. This can be used for repositioning, escaping, or initiating by turning into a small, fast-moving unit that is harder to target. Stats: CD: 20s, Duration: 3s, Movespeed Bonus: +20%.",
+    "search_text": "pig pole, unstable wand, transformation item, transform neutral, critter form, movement speed neutral, escape neutral, reposition neutral, mobility neutral, neutral tier, Pig Pole",
+    "tags": [
+      "ITEM_DATA",
+      "PIG_POLE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "MOBILITY",
+      "TRANSFORM",
+      "ESCAPE",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,245 @@
+FILE: carry.json
+QUESTION: Я промахиваюсь по ВРке. Какой предмет мне купить, чтобы точно попадать?
+GENERATION TIME: 1.59s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, LANING_PHASE, LATE_GAME, SUSTAIN] | Refresher Orb LANING_PHASE: Not a laning item. Very expensive late-game luxury. Can be considered as a very late purchase after core items and defensive/utility slots are filled, typically post 30-40 minutes. Its components offer substantial regeneration for survivability in the late game. Stats: Cost: 5000 gold, Components: Ring of Tarrasque + Tiara of Selemene.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, NO_BKB_PIERCE] | Scythe of Vyse SITUATIONAL_VS_BKB: Hex is completely useless against spell immune targets, as it does not pierce BKB. It is a powerful item against heroes before they activate BKB or after its duration ends. Strategic use requires timing around enemy BKB cooldowns. Stats: Does not pierce spell immunity.
+---
+[TAGS: ITEM_DATA, MJOLNIR, FULL_ITEM, SITUATIONAL_VS_EVASION, VS_EVASION, SITUATIONAL_VS_ILLUSIONS, VS_ILLUSIONS, MAGICAL_DAMAGE] | Mjollnir, Cost: 5500: Strong purchase against heroes relying on evasion or miss chance, as its lightning procs pierce evasion. The magical area damage is effective against heroes building armor or illusion-based heroes (procs deal full damage to illusions). The active shield can deter attacks on your carry.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPEL] | Wind Waker HARD_COUNTERS: The cyclone effect is a basic dispel, meaning it cannot remove strong debuffs like most stuns or roots. Status resistance does not reduce the cyclone duration, but heroes with spell immunity or self-dispels can avoid being targeted or remove the cyclone. Stats: Basic Dispel, Duration Unaffected by Status Resistance.
+---
+[TAGS: Ability, Stat, Survivability] | Status Resistance: Enhances survivability by reducing the duration of debuffs. Stats: Status Resistance: 15%/20%/25%
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, HERO_SPECIFIC] | Aghanim's Blessing - Roshan SITUATIONAL_VS_BKB: The upgrade's effectiveness vs BKB depends on the specific hero's upgraded ability; some upgrades may grant BKB-piercing effects, others may not. It must be analyzed per hero. Stats: No inherent BKB interaction.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, MIDGAME, LATEGAME, AURA] | Vladmir's Offering LANING_PHASE: Typically a mid-to-late game aura item built for team-oriented lineups. It is not an early laning item due to its cost and component build (Buckler, Ring of Basilius, Morbid Mask, Blades of Attack), which suggests a timing after acquiring core farming items. Stats: Cost: 2200 gold.
+---
+[TAGS: MonkeyKing, SITUATIONAL, VS_DISABLES] | When facing heroes with instant disables or silences (e.g., Skywrath Mage, Lion), Monkey King's Tree Dance escape is nullified. Itemize for early Black King Bar. Consider a Linken's Sphere against targeted disables. Position carefully and rely on teammates to initiate or absorb spells first. The Changing of the Guard Facet can provide a moment of unpredictability.
+---
+[TAGS: MEDUSA, SITUATIONAL, HIGH_ARMOR, EVASION, MKB, ASSAULT_CUIRASS] | Scenario: Vs. High Armor / Evasion. Medusa's primary damage is physical. Build Monkey King Bar to counter evasion. Her Split Shot and Stone Gaze's physical damage bonus are less effective against high armor. Consider items that reduce armor like Assault Cuirass or that deal magic damage through talents/illusions.
+---
+[TAGS: ITEM_DATA, BLOODTHORN, SITUATIONAL_VS_EVASION, FULL_ITEM, VS_EVASION, TRUE_STRIKE, SITUATIONAL_VS_MAGIC, VS_MOBILITY, VS_CASTERS] | Cost: 6625: Situational against heroes relying on evasion, high mobility through spells, or magic resistance. The True Strike from Pierce counters Butterfly, Solar Crest, or hero abilities like Phantom Strike. The active silence is effective against elusive heroes who rely on spells to escape (e.g., Queen of Pain, Puck, Anti-Mage with Blink). The magical burst damage can bypass high armor targets.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, LATE_GAME, PURE_SCALING] | Divine Rapier LANING_PHASE: Not a laning item. It is an ultra-late game purchase, typically acquired after securing other core items and a significant gold advantage, often post-30 minutes. Its high cost and immense risk make it unsuitable for the early stages of the game. Stats: Cost: 5600 gold, Components: Relic (3800 gold) + Demon Edge (2200 gold).
+---
+[TAGS: Ability, Survivability, Faceless Void] | Backtrack Chance: Improves survivability by granting an additional chance to avoid damage. Stats: Chance: 20%
+---
+[TAGS: Tusk, ABILITY_DATA, WALRUS_PUNCH, R, ULTIMATE, CRITICAL_STRIKE, TRUE_STRIKE, BKB_PIERCING] | Walrus PUNCH! (R). Tusk performs a critical strike with 200%/250%/300% critical damage and 60/90/120 bonus damage, launching the victim into the air for 1 second. This ability has true strike, meaning it cannot miss. Cooldown is not specified in data. Pierces BKB due to true strike property.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: ITEM_DATA, WIND_WAKER, SITUATIONAL_VS_CONTROL, FULL_ITEM, DEFENSIVE, SAVE, VS_CONTROL, UTILITY] | Wind Waker, Cost: 6800: High-cost utility item ideal for supports or utility cores facing heavy single-target lockdown or burst damage. Effective against heroes with powerful targeted disables or single-instance kill spells, as the invulnerability window can completely negate them. Can also be used to disjoint projectiles or spells on reaction.
+---
+[TAGS: ITEM_DATA, BELOVED_MEMORY, CORE_DESCRIPTION, NON_PURCHASABLE, EVENT, UTILITY] | Ofrenda - Beloved Memory, Tier N/A (Non-Purchasable): An Offering that can be placed on an Altar to honor the dead. Its sole ability honors the dead with a memory, targeted on friendly buildings. Provides no stat bonuses. This item is for event or tribute mechanics. Stats: CD: 3s, Cast Speed: 1000.
+---
+[TAGS: Ability, Damage, Critical Strike] | Critical Strike (140%): Increases critical strike chance by 50%. Tactical purpose: High-frequency crits with moderate damage multiplier for sustained damage output.
+---
+[TAGS: ITEM_DATA, DISPERSER, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_BUFFS, DISPEL, CLEANSE] | Disperser, Cost: 6100: Strong situational item against heroes reliant on mana or who are vulnerable to dispels. Counters heroes with key buffs to purge (e.g., Guardian Angel, Bloodlust) and heroes with low mana pools vulnerable to the burn. The self-dispel can also counter enemy roots and slows.
+---
+[TAGS: Treant Protector, ABILITY_DATA, OVERGROWTH, ROOT, AOE, PIERCES_BKB] | Overgrowth roots enemies in a 800 radius for 3/4/5 seconds, dealing 95 magic damage per second and preventing movement, blinking, invisibility, and attacking. Cooldown is 110/100/90 seconds. Pierces BKB and debuff immunity upon cast, but if immunity is gained after, the effect ends.
+---
+[TAGS: SNAPfire, SITUATIONAL, Playing_From_Behind] | When playing from behind, use Mortimer Kisses defensively to clear waves from a safe distance and stall pushes. Build utility items like Force Staff, Glimmer Cape, or Spirit Vessel to help your team survive. Focus on landing multi-hero Scatterblasts and Cookie stuns in fights to turn the tide.
+---
+[TAGS: Hero, Ability, Utility] | Earthbind True Strike: Grants Meepo guaranteed accuracy against evasive targets. Stats: Grants True Strike
+---
+[TAGS: Ability, Physical, Knockback, True Strike] | God's Rebuke: A powerful knockback ability that deals critical physical damage to enemies in front, with bonus damage against heroes. Stats: Critical Damage: 150%/200%/250%/300%, Angle: 140, Distance: 500, Knockback Slow: 40%, Knockback Slow Duration: 2.5s, Bonus Damage vs Heroes: 5/10/15/20
+---
+[TAGS: ITEM_DATA, MONKEY_KING_BAR, STAT_PROFILE, FULL_ITEM, DAMAGE, ATTACK_SPEED, PHYSICAL_DAMAGE] | Monkey King Bar, Cost: 4700: Provides 40 damage and 45 attack speed, enhancing the raw physical output and attack frequency of right-click carries. The item offers no defensive stats or utility outside of its unique Pierce passive, focusing entirely on offensive power. Stats: Damage: +40, Attack Speed: +45.
+---
+[TAGS: ITEM_DATA, MONKEY_KING_BAR, CORE_MECHANICS, FULL_ITEM, TRUE_STRIKE, VS_EVASION, MAGICAL_DAMAGE, DAMAGE, ATTACK_SPEED, CARRY_ITEM] | Monkey King Bar, Cost: 4700: Each attack has an 80% chance to pierce evasion (True Strike), guaranteeing the hit against enemies with evasion or blind effects. On successful procs, deals 70 bonus magical damage, adding significant magical DPS on top of its raw physical damage. Stats: CD: Passive, Chance: 80%, Bonus Magic Damage: 70.
+---
+[TAGS: Windranger, FACET_STRATEGY] | Windranger has five Facets. Tailwind: Windranger's movement speed cannot be lower than 240 and can reach 600. Focus Fire Facet: Focus Fire rapidly attacks a single target. Whirlwind: Focus Fire randomly attacks enemies within range. Tangled: Shackleshot affects more enemies and grants damage per unit shackled. Killshot: Powershot executes low health enemy heroes. Choose Focus Fire Facet for sustained single-target damage and building destruction. Choose Whirlwind for chaotic teamfight AOE. Choose Tangled for more reliable stuns and AOE burst. Choose Killshot for hero pickoffs and securing kills. The Tailwind mobility is a passive default facet.
+---
+[TAGS: UNDYING, ABILITY_DATA, DECAY, Q] | Ability: Decay (Q). Undying steals 4 Strength from all enemy heroes in a 325 radius, dealing 20/60/100/140 damage. It deals double damage to creeps. The stolen Strength lasts 35 seconds and stacks. The cooldown is 13/10/7/4 seconds. With Aghanim's Shard, it gains a 40-second buff that increases strength steal to 6 and causes a second Decay to be cast at the location after 1.5 seconds. This ability pierces spell immunity (pierces BKB).
+---
+[TAGS: DARK_SEER, ABILITY_DATA, NORMAL_PUNCH] | Normal Punch is a passive ability. Dark Seer's next attack on a hero has True Strike and knocks a replica out of the victim, stunning and damaging them based on how far Dark Seer moved in the past 3.0 seconds. The effect scales up to a max of 400 damage and 1.25 seconds stun after moving 1100 distance. The replica is created after a 0.25 second delay and lasts 6.0 seconds. The illusion damage output is improved with Aghanim's Scepter.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_RNG, RELIABLE] | Weighted Dice SITUATIONAL_VS_RNG: This item directly counters the random variance in last-hit damage and creep bounty. It provides a guaranteed higher average income, making your farm more predictable and reliable, especially important for heroes with low base damage or in high-pressure lanes. Stats: Passive: Loaded, Roll Count: 2.
+---
+[TAGS: ITEM_DATA, MONKEY_KING_BAR_RECIPE, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Monkey King Bar Recipe, Cost: 600: Component required to assemble Monkey King Bar. Does not provide stats or abilities.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_TANK, PERCENTAGE_DAMAGE] | Serrated Shiv VS_TANK: The item's damage scales directly with the enemy's current health pool, making it extremely effective against strength heroes and high-HP tanks. The damage is physical, so pairing it with armor reduction effects (like Assault Cuirass or Desolator) amplifies its impact. Stats: Bonus Damage: 8% of target's current HP.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, OFFENSIVE, VISION, MOVEMENT_SPEED] | Fae Grenade CORE_MECHANICS: Active ability throws a projectile to apply a damage-over-time and vision debuff. Provides a passive movement speed boost. Use to track and harass a single target from range. Stats: +20 Movement Speed, Ability: Shadow Brand (900 range), Damage per Second: 40, Debuff Duration: 7 seconds, Cooldown: 20 seconds, Mana Cost: 25.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_PHYSICAL, COUNTER] | Talisman of Evasion VS_PHYSICAL: A situational purchase to counter enemy lineups with high physical damage output, especially from heroes with low access to True Strike. Stats: Bonus Evasion: +15%, Stacks diminishingly.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, VS_EVASION, OFFENSIVE] | Monkey King Bar CORE_MECHANICS: Grants an 80% chance per attack to pierce through evasion and deal 70 bonus magical damage, making it a reliable damage and anti-evasion tool. Its bonus attack speed complements the proc chance. Stats: Cost: 4700 gold, +40 Damage, +45 Attack Speed, Pierce Chance: 80%, Bonus Magical Damage: 70.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Morbid Mask HARD_COUNTERS: Countered by disables that prevent attacking, burst damage that outpaces healing, and evasion that reduces physical hit accuracy, limiting lifesteal effectiveness. Stats: Lifesteal: 18%.
+---
+[TAGS: ITEM_DATA, WIND_LACE, SITUATIONAL_USAGE, FULL_ITEM, MOBILITY, VS_SLOWS, POSITIONING] | Wind Lace, Cost: 225: Situational against heroes with slows or for heroes who need to maintain a distance advantage (e.g., ranged carries kiting melee heroes). Counteracts movement speed penalties from various sources and enhances general map presence. Stats: MS Bonus: +15.
+---
+[TAGS: Windranger, Survivability, Aghanim's Scepter] | Windrun Cannot Be Dispelled: Ensures Windranger's survivability against dispels, making her more reliable in engagements. Stats: Windrun undispellable
+---
+[TAGS: MUERTA, ABILITY_DATA, PIERCE_THE_VEIL] | ABILITY: Pierce the Veil (R). Muerta transforms for 8 seconds, becoming immune to physical damage. All of her attack damage is dealt as magical damage instead. During this time, she gains 70/100/130 bonus attack damage and phased movement. Her model scale is increased by 30%. This spell is dispellable by Basic Dispels.
+---
+[TAGS: Ability, Passive, Damage, True Strike] | Normal Punch: Passive ability that enhances Dark Seer's attacks with True Strike, knockback, and illusion creation. Stats: Max Stun Duration: 1.25s, Knockback Distance: 350, Damage: 400
+---
+[TAGS: Ability, Critical Strike, Burst Damage] | Boundless Strike: Increases critical chance, valuable for high burst damage. Stats: Crit Chance: %
+---
+[TAGS: MAGNUS, ABILITY_DATA, EMPOWER, W, BUFF, DAMAGE, CLEAVE, PIERCES_BKB] | EMPOWER (W): Targets an allied unit or self for 30/33/36/39 seconds. Grants bonus damage equal to 16/24/32/40% of base damage + primary attribute damage. Also grants cleave on attacks: melee attacks cleave in a 150 starting width to 360 ending width over 650 distance, dealing 16/24/32/40% of attack damage in the area. Magnus himself receives a 30% larger bonus (48/62.4/76.8/91.2%). Cleave damage pierces spell immunity. Ranged units do not cleave. The Facet 'Eternal Empowerment' makes this a permanent passive on Magnus that stacks with each attack.
+---
+[TAGS: ITEM_DATA, NULLIFIER, CORE_MECHANICS, FULL_ITEM, DISPEL, CLEANSE, DEBUFF, SLOW, CATCH, UTILITY] | Nullifier, Cost: 4375: Continuously dispels a single target enemy, applying a debuff for 4 seconds that re-applies dispels every 0.5 seconds and slows them by 10%. Its projectile can be cast on invulnerable units, making it a powerful catch and purge tool against buff-reliant heroes. Stats: CD: 10s, Slow: 10%, Debuff Duration: 4s.
+---
+[TAGS: ITEM_DATA, MONKEY_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, ATTACK_SPEED, MAGICAL_DAMAGE] | Monkey King Bar, Cost: 4700: Synergizes with heroes who have high innate attack speed, as the proc chance is per attack, making it more effective on fast-hitting agility carries. Also complements heroes with built-in magic resistance reduction, as the bonus damage is magical. Not efficient as a first major item due to its cost.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MOBILE, VS_EVASION] | Monkey King Bar VS_MOBILE: Counters heroes reliant on evasion or blind effects to survive physical attacks. The 80% proc chance ensures hits often connect for bonus damage despite evasion. Stats: Pierce Chance: 80%, Bonus Magical Damage: 70.
+---
+[TAGS: MonkeyKing, LANING_PHASE, EARLY_GAME] | Monkey King's laning phase focuses on trading with Jingu Mastery. His goal is to land four consecutive attacks on the same enemy hero to activate the bonus damage and lifesteal. Use Boundless Strike to secure last hits, harass, and add a stack to the Jingu counter. Use Tree Dance primarily as an escape tool to avoid ganks or to set up for a Primal Spring nuke. Harass aggressively when Jingu Mastery is charged, using the lifesteal to sustain. Be wary of opponents with strong dispels or who can break your passive. Ward enemy jungle camps to use trees for mobility.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, VS_EVASION, VS_ARMOR] | Crystalys HARD_COUNTERS: Its effectiveness is reduced by evasion, as missed attacks cannot critically strike. High armor values significantly mitigate the extra physical damage. Heroes with damage block or physical damage barriers can also reduce its impact. Stats: Critical Strike Chance: 30% (only on hits).
+---
+[TAGS: ITEM_DATA, LANING_PHASE, MID_GAME, LATE_GAME, HIGH_COST] | Samurai Tabi LANING_PHASE: High cost item at 5250 gold, built from components including Ultimate Orb, indicating mid to late game timing rather than early laning. Not suitable for initial lane phase; aim for acquisition after core items, typically around 20+ minutes, to enhance stat sustain and defensive capabilities. Stats: Cost: 5250 gold, Components: Belt of Strength, Boots of Elves, Robe, Ultimate Orb.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MOBILE, POSITIONING] | Keen Optic SITUATIONAL_VS_MOBILE: The increased cast range allows spellcasters to target or disable elusive heroes from a safer distance, reducing the risk of being caught by counter-initiation. Stats: +75 Cast Range.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE] | Monkey King Bar Recipe TEAMFIGHT_ROLE: This recipe has no direct teamfight impact. It is only relevant once used to assemble the full Monkey King Bar, which provides significant physical damage, True Strike, and a mini-bash. Stats: Cost: 600 gold.
+---
+[TAGS: STRATEGY, Windranger, WEAKNESS] | Windranger Weakness: Vulnerable to Break (Silver Edge), Silence (prevents Windrun escape), and burst damage (she's squishy without Windrun).
+---
+[TAGS: STRATEGY, Windranger, ITEM_BUILD, CORE] | Windranger Core Build: Maelstrom (for wave clear and Focus Fire synergy) and Aghanim's Scepter (reduces Focus Fire cooldown and increases attack speed).
+---
+[TAGS: MORPHLING, ABILITY_DATA, ADAPTIVE_STRIKE] | Ability: Adaptive Strike (W). Launches a projectile (1150 speed) that deals 25/50/75/100 base damage plus scaling damage based on Morphling's agility (0.5x to 2.5x multiplier). If agility is 50% higher than strength, uses max multiplier. It also knocks back and stuns the target for 0.5s to 2.4s based on Morphling's strength. If strength is 50% higher than agility, uses max 2.4s stun and 350 knockback distance. Cooldown: 17/14/11/8 seconds. Minimum knockback: 50.
+---
+[TAGS: MAGNUS, ABILITY_DATA, REVERSE_POLARITY, R, ULTIMATE, STUN, AOE, INITIATION] | REVERSE POLARITY (R): Magnus pulls all enemies within a 430 radius in front of him, then slams them, dealing 100/200/300 magical damage and stunning them for 2.5/3.0/3.5 seconds. Cooldown is 115 seconds. Does NOT pierce BKB. The Facet 'Reverse Reverse Polarity' pushes enemies away instead of pulling them in. The level 20 talent can provide +12 All Attributes per hero hit for 7 seconds.
+---
+[TAGS: ITEM_DATA, WHISPER_OF_THE_DREAD, CORE_DESCRIPTION, NEUTRAL, TIER_3, SPELL_AMPLIFICATION, MAGICAL_DAMAGE, UTILITY, PASSIVE, VISION, DISADVANTAGE] | Whisper of the Dread, Tier 3: Neutral item equipped to the hero. Passive: Tunnel Vision - reduces the equipped hero's daytime vision by 15% but increases their Spell Damage by 10%. A trade-off for spellcasters seeking damage output at the cost of awareness. Stats: Vision Penalty: -15%, Spell Damage: +10%.
+---
+[TAGS: Ability, Damage, Slow] | Impalement Arts: Throws a dagger to slow and bleed enemies, scaling with max health for anti-tank damage. Stats: Impact Damage: 50, Max Health Damage (Heroes): 3.5%/4%/4.5%/5%, Duration: 4, Slow: 100%, Slow Duration: 0.8, Cast Range: 2400
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, SPELL_DAMAGE, VISION_PENALTY, PASSIVE] | Whisper of the Dread CORE_MECHANICS: Equipped hero sacrifices 15% of their daytime vision in exchange for a 10% increase to all Spell damage. This is a pure trade-off item, offering significant offensive power for a tactical defensive drawback. Stats: Spell Damage Increase: 10%, Daytime Vision Penalty: 15%, Bonus Mana: 0.
+---
+[TAGS: ITEM_DATA, MONKEY_KING_BAR, SITUATIONAL_VS_EVASION, FULL_ITEM, COUNTER_ITEM, VS_EVASION, TRUE_STRIKE] | Monkey King Bar, Cost: 4700: Core situational purchase against heroes and items that grant evasion or blind (Phantom Assassin, Brewmaster, Heaven's Halberd). Essential when your primary right-click damage is being consistently missed due to enemy passives or actives. Prioritize after core damage items.
+---
+[TAGS: PUGNA, ABILITY_DATA, ABILITY_R, ULTIMATE, CHANNEL, HEAL, DAMAGE] | Life Drain is a channeled ability. When cast on an enemy, it drains 150/250/350 health per second from the target to heal Pugna. When cast on an ally, it drains Pugna's health to heal the ally for 150/250/350 health per second. It provides vision over the target. Cooldown is 7 seconds. Does NOT pierce BKB without Aghanim's Scepter.
+---
+[TAGS: ITEM_DATA, REVENANTS_BROOCH, SITUATIONAL_VS_PHYSICAL, FULL_ITEM, VS_PHYSICAL, MAGICAL_DAMAGE, ARMOR_COUNTER, VS_EVASION] | Cost: 3300: A situational pick against heroes with high physical armor or evasion, as the phantom critical's magic damage component ignores armor and is not affected by evasion. However, it is less effective against enemies with high magic resistance. It does not work against buildings. Stats: CD: N/A.
+---
+[TAGS: Ability, Critical Strike, Burst Damage] | Boundless Strike Critical Damage: Amplifies critical damage, enhancing burst potential. Stats: Critical Damage: %
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, SITUATIONAL_VS_EVASION, VS_EVASION] | Maelstrom, Cost: 2950: Situational vs Evasion: The Chain Lightning magical damage proc pierces evasion, making it a soft counter to heroes relying on miss chance. While it doesn't grant True Strike for regular attacks, its guaranteed magical damage application helps mitigate evasion's effectiveness. Stats: Damage pierces evasion.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Wind Lace HARD_COUNTERS: Its effect is directly countered by movement speed slows. Buying multiple Wind Laces is inefficient as the bonuses do not stack. The item offers no combat stats, making it weak against burst damage. Stats: Bonuses do not stack.
+---
+[TAGS: Ability, Survivability, Debuff] | Enrage Status Resistance: Enhances Ursa’s survivability by reducing the duration of debuffs during Enrage. Stats: Status Resistance: [Bonus Value]%
+---
+[TAGS: ITEM_DATA, BOOK_OF_SHADOWS, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, SAVE, DEFENSIVE, DISPEL, ESCAPE, NIGHT_VISION, SILENCE, MUTE, DISARM, SELF_DISABLE] | Book of Shadows, Cost: 0: Tier 3 Neutral item. Grants Night Vision (400). Its active, Shadows, targets an enemy, ally, or self, making them untargetable to enemies for 4 seconds, but also silences, mutes, and disarms them. Applies a Basic Dispel on cast. Stats: CD: 8s, Duration: 4s, Night Vision: 400.
+---
+[TAGS: STRATEGY, Monkey King, WEAKNESS] | Monkey King Weakness: Vulnerable to Break mechanics which disable Jingu Mastery, and AoE spells that can quickly clear his soldiers.
+---
+[TAGS: Mechanic, Buff] | True Strike: Guarantees hit accuracy against evasion. Stats: None
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: ITEM_DATA, JAVELIN, SITUATIONAL_VS_EVASION, FULL_ITEM, VS_EVASION, COUNTER_ITEM] | Javelin, Cost: 900: Functions as a counter-item against evasion-heavy targets. Its passive proc can turn engagements against heroes with built-in evasion or early Talismans of Evasion. While its chance-based, the bonus magical damage adds consistent pressure throughout the mid-game.
+---
+[TAGS: Windranger, HARD_COUNTERS] | Windranger is hard countered by heroes with Break (e.g., Silver Edge, Viper) which disables Windrun's evasion, leaving her vulnerable. Instant disables like Hex prevent her from activating Windrun or Shackleshot. Heavy magic burst damage bypasses Windrun's evasion. High armor heroes can significantly reduce the impact of her physical DPS from Focus Fire. Heroes with mobility spells can dodge her skillshots (Shackleshot, Powershot).
+---
+[TAGS: STRATEGY, Windranger, ITEM_BUILD, SITUATIONAL] | Windranger Situational: Buy BKB vs heavy stuns/silences, Linken's Sphere vs single-target disables, or Blink Dagger for better initiation/escape. Consider Nullifier vs saves like Glimmer Cape or Force Staff.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, LATE_GAME, FARM] | Octarine Core LANING_PHASE: Not a laning item due to high cost and core components requiring significant farm. It is typically a late-game purchase following core items like Soul Booster. Stats: Cost: 4900 gold, Components: Tiara of Selemene, Soul Booster.
+---
+[TAGS: Enchantress, ABILITY_DATA, PASSIVE, SLOW] | ABILITY: Untouchable (Passive). When Enchantress is attacked, the attacking unit has its attack speed slowed by 110/160/210 for 4 seconds. The slow is applied on attack start. Does NOT pierce BKB.
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: ITEM_DATA, MONKEY_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, VS_EVASION, COUNTER_ITEM, LATE_GAME] | Monkey King Bar, Cost: 4700: Primarily a counter-pick item in team fights, nullifying the defensive value of enemy evasion and blind abilities (Windranger, Solar Crest, Butterfly). The added magic damage burst ensures reliable damage output against high-armor targets. Its high cost makes it a late-game damage spike.
+
+=== GAME STATE ===
+Match Time: 40:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: phantom_assassin (Lvl 22) | HP: 2200/2200 | Mana: 800/800 | Alive: true
+Stats: K/D/A 12/3/5 | Gold: 4800 | LastHits: 350
+Inventory: [item_satanic (CD), item_bfury (CD), item_desolator (CD), item_black_king_bar (CD), item_phase_boots (CD)]
+Abilities: [phantom_assassin_stifling_dagger(Lvl4)[NoMana/Silenced] | phantom_assassin_phantom_strike(Lvl4)[NoMana/Silenced] | phantom_assassin_blur(Lvl4)[NoMana/Silenced] | phantom_assassin_coup_de_grace(Lvl3)[NoMana/Silenced]]
+User Situation Notes: Лейт гейм. У вражеской Windranger есть Butterfly и Windrun. Я прыгаю, но вижу одни 'Miss, Miss, Miss'. Урон есть, но попасть не могу.
+
+=== USER QUESTION ===
+"Я промахиваюсь по ВРке. Какой предмет мне купить, чтобы точно попадать?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Я промахиваюсь по ВРке. Какой предмет мне купить, чтобы точно попадать?".**
+========================================
+
+[AI RESPONSE] (2.11s)
+Купи Monkey King Bar. Он дает вам True Strike, что гарантирует попадание по ВРке, даже несмотря на ее эвазию от Butterfly. Альтернативно, если возможно, жди, когда откатится один из твоих предметов, чтобы иметь больше урона в следующем бою.

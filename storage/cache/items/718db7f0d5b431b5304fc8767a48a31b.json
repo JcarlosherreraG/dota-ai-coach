@@ -1,0 +1,80 @@
+[
+  {
+    "display_text": "Octarine Core, Cost: 4900: Provides +25% cooldown reduction to all spells and items, significantly increasing ability uptime and overall utility. Also offers a substantial boost to mana pool and regeneration, ideal for spell-reliant heroes who need frequent casting. The health increase improves survivability. Stats: Cost: 4900g, CDR: 25%, HP: +450, Mana: +450, Mana Regen: +6.",
+    "search_text": "octarine core, cooldown reduction, cdr item, spell cooldown, ability uptime, reduce cooldowns, mana regen, mana pool, tank caster item, spell spam, utility caster, intelligence caster, mana sustain, octarine, cdr, spell frequency, casting utility, survivability, mana regeneration, health boost, Octarine Core",
+    "tags": [
+      "ITEM_DATA",
+      "OCTARINE_CORE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "COOLDOWN_REDUCTION",
+      "MANA_REGEN",
+      "MANA",
+      "HEALTH",
+      "SURVIVAL",
+      "UTILITY",
+      "INTELLIGENCE_ITEM",
+      "CASTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Octarine Core, Cost: 4900: Stat profile includes +450 Health, +450 Mana, and +6 Mana Regeneration, offering well-rounded survivability and sustain for casters. The significant mana pool boost enables prolonged fights and sustained spell usage. Stats: HP: +450, Mana: +450, Mana Regen: +6.",
+    "search_text": "octarine core stats, hp octarine, mana octarine, mana regen octarine, octarine attributes, caster stats, mana pool item, health item, caster sustain, Octarine Core",
+    "tags": [
+      "ITEM_DATA",
+      "OCTARINE_CORE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "MANA",
+      "MANA_REGEN",
+      "SURVIVAL",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Octarine Core, Cost: 4900: Amplifies team fight presence and utility by allowing spellcasters to use their key abilities more frequently, increasing total damage output, healing, or crowd control over an engagement. Crucial for heroes reliant on ultimate or high-impact cooldowns. Stats: CDR: 25%.",
+    "search_text": "octarine teamfight, team fight utility, spell uptime, ultimate cooldown, ability spam, team fight caster, fight presence, control uptime, damage uptime, utility amplifier, Octarine Core",
+    "tags": [
+      "ITEM_DATA",
+      "OCTARINE_CORE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "COOLDOWN_REDUCTION",
+      "UTILITY",
+      "BUFF",
+      "CASTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Octarine Core, Cost: 4900: Excellent synergy for heroes with long cooldown ultimates (Enigma, Faceless Void) and those who spam low-cooldown nukes (Leshrac, Tinker). The mana and regen synergize with spells that consume large mana pools, while the health makes squishy casters tankier. Stats: Cost: 4900g, CDR: 25%.",
+    "search_text": "octarine synergy, hero synergy octarine, enigma octarine, tinker octarine, leshrac octarine, void octarine, ultimate cooldown item, mana hungry hero item, tanky caster item, Octarine Core",
+    "tags": [
+      "ITEM_DATA",
+      "OCTARINE_CORE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "COOLDOWN_REDUCTION",
+      "MANA",
+      "SUSTAIN",
+      "SURVIVAL",
+      "UTILITY",
+      "CASTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Octarine Core, Cost: 4900: Situational against high-frequency spell enemies as reducing your own cooldowns allows for more frequent defensive or counter-initiation spells. The stats also provide survivability against magic and physical burst through increased health pool. Not a direct counter item but improves general resilience and response rate.",
+    "search_text": "octarine counter, spell spam counter, defensive cooldown, counter initiation, survive burst, tank item, resilience item, response item, ability response, Octarine Core",
+    "tags": [
+      "ITEM_DATA",
+      "OCTARINE_CORE",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "COOLDOWN_REDUCTION",
+      "SURVIVAL",
+      "HEALTH",
+      "DEFENSIVE",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "display_text": "Silver Edge, Cost: 5700: A powerful invisibility item that provides a substantial 70 bonus damage and 35 attack speed. Its active, Shadow Walk, grants 17 seconds of invisibility, 25% increased movement speed, and unit-walking. Breaking invisibility with an attack deals 300 bonus physical damage, applies a powerful Break effect disabling enemy passives for 6 seconds, and caps their movement speed to 200, making it a premier catch and pick-off tool against heroes reliant on their passive abilities. Stats: CD: 20s, Mana: 75, Duration: 17s.",
+    "search_text": "invisibility item, break item, shadow walk, disable passives, catch item, ganking item, pick off, invisibility attack, break effect, passive disable, Silver Edge, invisible attack, bonus damage, attack speed, unit walking, reposition, initiation, surprise attack",
+    "tags": [
+      "ITEM_DATA",
+      "SILVER_EDGE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "INVISIBILITY",
+      "BREAK",
+      "DISABLE_PASSIVES",
+      "INITIATION",
+      "CATCH",
+      "MOBILITY",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Silver Edge, Cost: 5700: Provides a significant offensive stat boost, offering 70 bonus damage and 35 attack speed. This makes it a viable damage and DPS item for agility and universal heroes, even before considering its powerful active ability. The item is built from Invis Sword and Demon Edge. Stats: Damage: +70, Attack Speed: +35.",
+    "search_text": "silver edge stats, damage item, attack speed item, dps item, carry item, offensive stats, damage and attack speed, item build, Silver Edge",
+    "tags": [
+      "ITEM_DATA",
+      "SILVER_EDGE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Silver Edge, Cost: 5700: In team fights, it excels at targeting key heroes with powerful passive abilities (e.g., Phantom Assassin, Bristleback). The user can initiate from invisibility, apply Break to disable their defensive or offensive passives for 6 seconds, and slow them, making them vulnerable for the team to focus down. Its utility extends to scouting and repositioning safely around the map. Stats: Break Duration: 6s, Speed Cap: 200.",
+    "search_text": "silver edge team fight, team fight utility, break target, disable passives team fight, counter passives, focus target, pick off initiation, scouting item, repositioning item, Silver Edge",
+    "tags": [
+      "ITEM_DATA",
+      "SILVER_EDGE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "BREAK",
+      "DISABLE_PASSIVES",
+      "INITIATION",
+      "CATCH",
+      "VS_PASSIVES"
+    ]
+  },
+  {
+    "display_text": "Silver Edge, Cost: 5700: Situational against heroes who are heavily reliant on their passive abilities for survivability or damage output. The Break effect neuters heroes like Phantom Assassin (Blur), Bristleback (Bristleback passive), Spectre (Dispersion), and Timbersaw (Reactive Armor), removing their key defensive or offensive mechanics and making them far easier to kill.",
+    "search_text": "silver edge counter, passive counter item, break item, vs bristleback, vs phantom assassin, vs spectre, vs timbersaw, counter passive heroes, anti-passive, Silver Edge",
+    "tags": [
+      "ITEM_DATA",
+      "SILVER_EDGE",
+      "SITUATIONAL_VS_PASSIVES",
+      "FULL_ITEM",
+      "BREAK",
+      "VS_PASSIVES"
+    ]
+  },
+  {
+    "display_text": "Silver Edge, Cost: 5700: Synergizes exceptionally well with heroes who have high burst damage or attack speed to capitalize on the opening created by the Break and movement speed slow. It's a core pick-up on heroes like Slark, Riki, or Legion Commander who can use the invisibility for initiation and the damage bonus to secure kills, turning them into potent gankers and pick-off specialists.",
+    "search_text": "silver edge synergy, slark silver edge, riki silver edge, legion commander silver edge, burst damage synergy, ganker item, invisibility initiator, pick off hero, Silver Edge",
+    "tags": [
+      "ITEM_DATA",
+      "SILVER_EDGE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INVISIBILITY",
+      "INITIATION",
+      "CARRY_ITEM"
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "display_text": "Cost: 55: Consumable tree planting item that provides a minor +1 to all attributes permanently. Primarily used to block creep paths, create juke spots, or provide vision blockers. Planting a tree also eats the Iron Branch, converting it into a lasting utility object. Stats: Tree Duration: 20s, All Attributes: +1.",
+    "search_text": "iron branch, branches, tree planting item, vision blocker, path blocker, juke tree, consumable tree, block creeps, attribute branch, early game utility, plant tree, Iron Branch",
+    "tags": [
+      "ITEM_DATA",
+      "IRON_BRANCH",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "UTILITY",
+      "VISION",
+      "TERRAIN",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Cost: 55: Cost-efficient starting item purchased for its cheap +1 to all attributes, slightly improving health, mana, and damage for the laning phase. The single-use tree planting ability allows for creative vision and movement control in the early game. Stats: Cost: 55, All Attributes: +1.",
+    "search_text": "starting item, early game stats, laning item, cheap stats, all attributes branch, early game utility, starting branch, lane sustain, Iron Branch",
+    "tags": [
+      "ITEM_DATA",
+      "IRON_BRANCH",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "STARTING_ITEM",
+      "STATS",
+      "ATTRIBUTES",
+      "LANING"
+    ]
+  },
+  {
+    "display_text": "Cost: 55: Situationally used to eat with a Tango for double healing or to block neutral camps from spawning. Planting a tree can be used to temporarily block paths or create obstacles during fights. It is also a common component in upgrading to basic items like Magic Wand. Stats: All Attributes: +1.",
+    "search_text": "tango double heal, camp blocker, block neutral spawn, path block, tree utility, item component, Magic Wand component, Iron Branch",
+    "tags": [
+      "ITEM_DATA",
+      "IRON_BRANCH",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "UTILITY",
+      "SUSTAIN",
+      "ITEM_COMPONENT"
+    ]
+  }
+]

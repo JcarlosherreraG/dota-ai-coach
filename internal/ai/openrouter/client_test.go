@@ -1,6 +1,7 @@
 package openrouter
 
 import (
+	"context"
 	"errors"
 	aierrors "github.com/BrightGir/game-ai-helper/internal/ai/errors"
 	"net/http"
@@ -34,10 +35,10 @@ func TestClient_Ask(t *testing.T) {
 		}))
 		defer server.Close()
 
-		client := NewClient("test-key", "m", "s")
+		client := NewClient("test-key", "m", 30)
 		client.baseURL = server.URL
 
-		got, err := client.Ask("hi")
+		got, err := client.Ask(context.Background(), "system", "hi")
 
 		if err != nil {
 			t.Fatalf("Unexpected error: %v", err)
@@ -54,10 +55,10 @@ func TestClient_Ask(t *testing.T) {
 		}))
 		defer server.Close()
 
-		client := NewClient("k", "m", "s")
+		client := NewClient("k", "m", 30)
 		client.baseURL = server.URL
 
-		_, err := client.Ask("hi")
+		_, err := client.Ask(context.Background(), "system", "hi")
 
 		if err == nil {
 			t.Fatal("Expected error, got nil")
@@ -81,10 +82,10 @@ func TestClient_Ask(t *testing.T) {
 		}))
 		defer server.Close()
 
-		client := NewClient("k", "m", "s")
+		client := NewClient("k", "m", 30)
 		client.baseURL = server.URL
 
-		_, err := client.Ask("hi")
+		_, err := client.Ask(context.Background(), "system", "hi")
 		if err == nil {
 			t.Fatal("Expected JSON decode error, got nil")
 		}

@@ -1,0 +1,74 @@
+[
+  {
+    "display_text": "Cost: 0: Martyr's Plate is a neutral item with the Martyrdom active ability that redirects 25% of magic damage from allied heroes within a 900 radius to you for 10 seconds, sacrificing yourself to protect the team. Stats: CD: 40s, Duration: 10s, Aura Radius: 900.",
+    "search_text": "martyrdom item, magic damage redirection, protect allies, team damage share, neutral item, aura save, defensive aura, tank item, support neutral, martyr, Martyr's Plate",
+    "tags": [
+      "ITEM_DATA",
+      "MARTYRS_PLATE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "SAVE",
+      "DEFENSIVE",
+      "AURA",
+      "TEAM_BUFF",
+      "MAGIC_DAMAGE",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Tier: N/A: Martyr's Plate provides +25% Magic Resistance and +7 Health Regeneration to help you survive the redirected magic damage. Stats: Magic Resist: +25%, HP Regen: +7.",
+    "search_text": "martyr's plate stats, magic resist neutral, health regen neutral, defensive stats, tank neutral, aura stats, Martyr's Plate",
+    "tags": [
+      "ITEM_DATA",
+      "MARTYRS_PLATE",
+      "STAT_PROFILE",
+      "NEUTRAL",
+      "MAGIC_RESISTANCE",
+      "REGEN",
+      "HEALTH",
+      "SURVIVAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: This item transforms you into a damage sponge for your team during key engagements, allowing squishy allies to survive enemy magical bursts. The long cooldown demands strategic timing for maximum impact. Stats: CD: 40s.",
+    "search_text": "martyrdom teamfight, save allies from magic, defensive support, aura save, protect team, damage absorption, team utility, teamfight neutral, Martyr's Plate",
+    "tags": [
+      "ITEM_DATA",
+      "MARTYRS_PLATE",
+      "TEAMFIGHT_ROLE",
+      "NEUTRAL",
+      "SAVE",
+      "DEFENSIVE",
+      "UTILITY",
+      "SUPPORT_ITEM",
+      "TEAM_BUFF"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Ideal for tanky heroes facing heavy magic damage lineups, as the self-redirection synergizes with high health pools and magic resistance. It excels in team compositions where you can reliably stand near your cores to absorb damage. Stats: Magic Resist: +25%, HP Regen: +7.",
+    "search_text": "martyrdom synergy, tank hero item, magic tank, support tank item, aura synergy, frontliner item, Martyr's Plate",
+    "tags": [
+      "ITEM_DATA",
+      "MARTYRS_PLATE",
+      "SYNERGY_BUILD",
+      "NEUTRAL",
+      "TANK",
+      "FRONTLINE",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Situational pick against magic-heavy enemy teams, where redirecting burst away from your key heroes can be game-winning. The innate magic resistance bonus further increases your survivability in these scenarios. Stats: Magic Resist: +25%, Damage Redirection: 25%.",
+    "search_text": "martyrdom vs magic, counter magic damage, magic burst counter, team save vs spells, defensive item vs nukers, magic damage lineups, Martyr's Plate",
+    "tags": [
+      "ITEM_DATA",
+      "MARTYRS_PLATE",
+      "SITUATIONAL_VS_MAGIC",
+      "NEUTRAL",
+      "VS_MAGIC",
+      "DEFENSIVE",
+      "MAGIC_RESISTANCE"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "display_text": "Cost: 3300: Revenant's Brooch grants a 30% chance on each attack to deal an additional 80% of the attack's damage as bonus magical damage. This effect counts as a Critical Strike. The item also provides raw damage, making it a hybrid damage-boosting tool that adds significant magical burst to physical attacks. It is ideal for physical attackers who want to diversify their damage output. Stats: CD: N/A, Mana: N/A.",
+    "search_text": "magic damage on hit, magical critical strike, hybrid damage item, attack modifier, bonus magic damage, magic crit, physical to magic conversion, hybrid dps, proc chance, damage item, carry item, phantom critical, Revenant's Brooch, Brooch",
+    "tags": [
+      "ITEM_DATA",
+      "REVENANTS_BROOCH",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "CRIT",
+      "CRITICAL_STRIKE",
+      "MAGICAL_DAMAGE",
+      "DAMAGE",
+      "ATTACK_MODIFIER",
+      "HYBRID_DAMAGE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Cost: 3300: Provides +35 damage and +14% Spell Lifesteal. Offers a decent raw attack damage boost and a significant source of Spell Lifesteal, providing sustain for magical and hybrid damage dealers. This stat profile enhances survivability for heroes dealing magical damage from attacks or spells. Stats: +35 Damage, +14% Spell Lifesteal.",
+    "search_text": "damage item, spell lifesteal, magical lifesteal, sustain item, magical sustain, attack damage, damage stats, lifesteal item, Revenant's Brooch, Brooch",
+    "tags": [
+      "ITEM_DATA",
+      "REVENANTS_BROOCH",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "SPELL_LIFESTEAL",
+      "SUSTAIN",
+      "HEALTH"
+    ]
+  },
+  {
+    "display_text": "Cost: 3300: In team fights, this item increases a hero's overall damage output by converting a portion of physical attacks into magical damage, which bypasses armor. The spell lifesteal provides sustain, allowing heroes to stay in fights longer. It's effective against high-armor targets who are vulnerable to magical burst damage. Stats: CD: N/A.",
+    "search_text": "team fight dps, magical burst damage, armor counter, high armor targets, spell lifesteal sustain, hybrid damage in fight, magical right-click, Revenant's Brooch, Brooch",
+    "tags": [
+      "ITEM_DATA",
+      "REVENANTS_BROOCH",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "MAGICAL_DAMAGE",
+      "PHYSICAL_DAMAGE",
+      "HYBRID_DAMAGE",
+      "SUSTAIN",
+      "VS_PHYSICAL",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Cost: 3300: A situational pick against heroes with high physical armor or evasion, as the phantom critical's magic damage component ignores armor and is not affected by evasion. However, it is less effective against enemies with high magic resistance. It does not work against buildings. Stats: CD: N/A.",
+    "search_text": "counter high armor, anti-armor, magic damage vs armor, evasion counter, magical crit vs evasion, ignore armor, building ineffective, situational counter item, Revenant's Brooch, Brooch",
+    "tags": [
+      "ITEM_DATA",
+      "REVENANTS_BROOCH",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "MAGICAL_DAMAGE",
+      "ARMOR_COUNTER",
+      "VS_EVASION"
+    ]
+  },
+  {
+    "display_text": "Cost: 3300: Synergizes well with heroes who have high attack speed to proc the 30% chance frequently, or those whose kits already include magical damage amplification. It's a natural extension for core heroes who have built items like Maelstrom or Desolator, diversifying their damage profile.",
+    "search_text": "attack speed synergy, magic amp synergy, maelstrom combo, desolator combo, dps build, magical attack build, hybrid carry, synergy item, core item, Revenant's Brooch, Brooch",
+    "tags": [
+      "ITEM_DATA",
+      "REVENANTS_BROOCH",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "ATTACK_SPEED",
+      "SYNERGY",
+      "DAMAGE",
+      "CARRY_ITEM"
+    ]
+  }
+]

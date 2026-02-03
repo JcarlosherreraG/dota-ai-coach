@@ -1,0 +1,72 @@
+[
+  {
+    "display_text": "Cost: 2600: Phylactery is a caster-focused utility item that empowers the next unit-targeted spell you cast on an enemy. It causes the spell to deal an additional 150 bonus damage and apply a 30% movement slow for 3 seconds. This effect has a short cooldown, making it a strong tool for burst combos and securing kills with follow-up attacks. Stats: CD: 9s, Bonus Damage: 150, Slow: 30%, Slow Duration: 3s.",
+    "search_text": "caster item, burst damage item, spell damage item, slow item, utility item, empower spell, bonus spell damage, magical burst, proc damage, follow up slow, intelligence item, spell amplifier, magic dps, Phylactery",
+    "tags": [
+      "ITEM_DATA",
+      "PHYLACTERY",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MAGICAL_DAMAGE",
+      "DEBUFF",
+      "SLOW",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Phylactery, Cost: 2600: Provides +7 to all attributes, boosting health, mana, and attack damage. Also offers significant health regeneration (6.5 HP/s) and mana regeneration (2.5 MP/s) for increased lane and team fight sustainability. The well-rounded stats make it a solid choice for spellcasting heroes looking for mid-game survivability.",
+    "search_text": "phylactery stats, all stats item, hp regen item, mana regen item, sustain item, health regen, mana regen, attribute item, all around stats, spellcaster stats, Phylactery",
+    "tags": [
+      "ITEM_DATA",
+      "PHYLACTERY",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "MANA",
+      "REGEN",
+      "MANA_REGEN",
+      "DAMAGE",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Phylactery, Cost: 2600: Serves as a follow-up and catch tool in team fights. The spell-triggered slow helps lock down mobile targets after an initial disable, allowing your team to land subsequent spells or attacks. The added burst damage from the passive can be crucial for finishing off key targets or amplifying your primary damage spells.",
+    "search_text": "team fight utility, follow up slow, catch item, lockdown extension, burst amplifier, secure kills, slow after spell, team fight item, magic utility, control item, Phylactery",
+    "tags": [
+      "ITEM_DATA",
+      "PHYLACTERY",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "UTILITY",
+      "LOCKDOWN",
+      "CATCH",
+      "BURST_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Phylactery, Cost: 2600: Situational against highly mobile, low-health heroes who rely on speed to escape (e.g., Puck, Storm Spirit). The empowered slow makes it harder for them to disengage after being hit by a spell, increasing your team's kill potential. It is also effective for amplifying damage against elusive targets that are hard to lock down.",
+    "search_text": "vs mobility, counter mobile heroes, slow mobile, catch mobile, vs slippery heroes, slow escape, lockdown mobile, catch elusive, mobile hero counter, Phylactery",
+    "tags": [
+      "ITEM_DATA",
+      "PHYLACTERY",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_MOBILITY",
+      "CATCH",
+      "DEBUFF"
+    ]
+  },
+  {
+    "display_text": "Phylactery, Cost: 2600: Strong synergy with heroes who have low-cooldown, unit-target spells (e.g., Skywrath Mage, Zeus, Lina). It turns these spells into more potent nukes with added utility. It's also a good mid-game pickup for intelligence cores or supports looking to transition into a more durable, utility-focused role while maintaining damage output.",
+    "search_text": "synergy with target spells, hero synergy, low cd spells, unit target spells, intelligence core item, mid game caster, transition item, spellcaster utility, int hero item, Phylactery",
+    "tags": [
+      "ITEM_DATA",
+      "PHYLACTERY",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UTILITY",
+      "CORE_ITEM",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

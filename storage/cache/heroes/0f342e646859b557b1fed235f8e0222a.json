@@ -1,0 +1,184 @@
+[
+  {
+    "display_text": "Dark Seer is a Melee Intelligence hero with 20 Strength, 19 Agility, and 22 Intelligence. He has a below-average base attack time of 1.7 seconds and must get in melee range to attack. His average stats and attack range necessitate a playstyle focused on spellcasting from a distance rather than right-clicking.",
+    "search_text": "Dark Seer stats melee intelligence 20 strength 19 agility 22 int 1.7 attack time base attack speed",
+    "tags": [
+      "DARK_SEER",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Dark Seer chooses between two Facets. The Attack Speed Facet provides bonus attack speed, making right-click builds more viable and improving his physical damage output. The Move Speed Facet provides bonus movement speed, enhancing his map mobility, chase potential with Surge, and positioning for Vacuum and Wall of Replica.",
+    "search_text": "Dark Seer Facet attack speed facet move speed facet mobility chase positioning vacuum wall of replica",
+    "tags": [
+      "DARK_SEER",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Dark Seer is played as an offlaner. Use Ion Shell on the enemy melee creep or your own melee creep to secure last hits and harass the enemy carry. Use Vacuum to pull enemy heroes out of position and into tower range. Surge is used to escape ganks or initiate favorable trades. Prioritize levels in Ion Shell for wave clear.",
+    "search_text": "Dark Seer laning offlane ion shell creep harass vacuum pull tower surge escape gank initiation wave clear",
+    "tags": [
+      "DARK_SEER",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a major spike with Wall of Replica for teamfights. Levels 10 and 15 talent choices amplify Ion Shell or Vacuum. Level 18 maxes all basic abilities. Level 20 with +50 Ion Shell Damage significantly increases area damage. Level 25 talents offer AoE Surge for team utility or double Ion Shell charges for immense area pressure. Key item timings are Soul Ring for mana sustain, Arcane Boots for team, and Aghanim's Scepter for powerful illusions.",
+    "search_text": "Dark Seer power spike level 6 Wall of Replica level 10 talent level 15 talent level 20 +50 Ion Shell Damage level 25 AOE Surge double Ion Shell soul ring arcane boots aghs scepter",
+    "tags": [
+      "DARK_SEER",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard counters to Dark Seer include heroes with strong dispels like Oracle or Legion Commander's Press the Attack, which can purge Ion Shell and Surge. Heroes with high mobility like Anti-Mage or Queen of Pain can escape his area-of-effect spells. Illusion destroyers like Earthshaker, Axe, or Phantom Lancer make his Wall of Replica and Normal Punch replicas much less effective.",
+    "search_text": "Dark Seer counter dispel purge oracle legion commander press the attack mobility anti-mage queen of pain illusion destroyer earthshaker axe phantom lancer",
+    "tags": [
+      "DARK_SEER",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Soul Ring is essential for Dark Seer's mana-hungry laning phase, allowing him to spam Ion Shell. Arcane Boots are a core early item, providing mana for him and his team, often later built into Guardian Greaves. Aghanim's Scepter is the ultimate luxury item, turning Normal Punch into a powerful teamfight initiation tool that creates illusions and stuns.",
+    "search_text": "Dark Seer core build soul ring mana ion shell arcane boots guardian greaves aghanim scepter aghs normal punch illusion stun",
+    "tags": [
+      "DARK_SEER",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Dark Seer's job is to disrupt enemy positioning and deal persistent area damage. He initiates fights by Vacuuming enemy heroes into his Wall of Replica. He constantly applies Ion Shell damage to frontline heroes or his own initiator. He uses Surge to save allies or enable key initiations. His goal is to create chaos and force enemies to fight under his damaging effects.",
+    "search_text": "Dark Seer teamfight role disrupt positioning area damage initiator vacuum wall of replica ion shell damage surge save ally",
+    "tags": [
+      "DARK_SEER",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Vacuum deals 70/130/190/250 damage in a 325/400/475/550 radius after pulling enemies in over 0.3/0.4/0.5/0.6 seconds. It destroys trees in a 150 radius. Vacuum interrupts channeling abilities.",
+    "search_text": "Dark Seer Vacuum Q damage 70 130 190 250 radius pull 325 400 475 550 duration 0.3 0.4 0.5 0.6 tree destruction interrupt channeling",
+    "tags": [
+      "DARK_SEER",
+      "ABILITY_DATA",
+      "VACUUM"
+    ]
+  },
+  {
+    "display_text": "Ion Shell deals 30/50/70/90 damage per second in a 275 radius around the target unit, lasting 20/22/24/26 seconds. Damage is dealt every 0.2 seconds. It does not damage the unit it is cast on. Casting on a unit with an existing Ion Shell replaces the old one. The talent adds +65 radius and the level 20 talent adds +50 damage.",
+    "search_text": "Dark Seer Ion Shell W damage per second 30 50 70 90 radius 275 duration 20 22 24 26 tick 0.2 no self damage replace talent radius damage",
+    "tags": [
+      "DARK_SEER",
+      "ABILITY_DATA",
+      "ION_SHELL"
+    ]
+  },
+  {
+    "display_text": "Surge grants a target allied unit maximum movement speed of 550 and immunity to slows for 3/4/5/6 seconds. Units under Surge cannot be slowed unless the effect is removed by a dispel. The level 25 talent can make it affect all allies in a 350 radius.",
+    "search_text": "Dark Seer Surge E movement speed 550 phasing slow immunity duration 3 4 5 6 cannot be slowed dispel talent AOE 350",
+    "tags": [
+      "DARK_SEER",
+      "ABILITY_DATA",
+      "SURGE"
+    ]
+  },
+  {
+    "display_text": "Normal Punch is a passive ability. Dark Seer's next attack on a hero has True Strike and knocks a replica out of the victim, stunning and damaging them based on how far Dark Seer moved in the past 3.0 seconds. The effect scales up to a max of 400 damage and 1.25 seconds stun after moving 1100 distance. The replica is created after a 0.25 second delay and lasts 6.0 seconds. The illusion damage output is improved with Aghanim's Scepter.",
+    "search_text": "Dark Seer Normal Punch passive true strike replica illusion damage 400 max stun 1.25 max distance moved 1100 scaling recent 3 seconds duration 6.0 delay aghanim scepter",
+    "tags": [
+      "DARK_SEER",
+      "ABILITY_DATA",
+      "NORMAL_PUNCH"
+    ]
+  },
+  {
+    "display_text": "Aggrandize restores a percentage of Dark Seer's max health and mana whenever he levels up. The base restore is 10.0% plus 1.5% per hero level. This provides crucial sustain throughout the game, allowing him to stay on the map without returning to base.",
+    "search_text": "Dark Seer Aggrandize level up restore health mana percentage 10 base plus 1.5 per level sustain",
+    "tags": [
+      "DARK_SEER",
+      "ABILITY_DATA",
+      "AGRANDIZE"
+    ]
+  },
+  {
+    "display_text": "Wall of Replica creates a 1300 unit wide wall that lasts 30 seconds. Enemies crossing it are slowed by 40% for 1 second, take 25/40/55 damage per second while near it, and a replica illusion of them is created. Replicas last until destroyed or the wall ends, take 200% incoming damage, and deal 70%/80%/90% outgoing damage (scaling with level). Replicas cannot be created from other illusions. Only one illusion per enemy hero per wall.",
+    "search_text": "Dark Seer Wall of Replica R ultimate width 1300 duration 30 slow 40% damage per second 25 40 55 replica illusion incoming damage 200% outgoing damage 70 80 90 per hero",
+    "tags": [
+      "DARK_SEER",
+      "ABILITY_DATA",
+      "WALL_OF_REPLICA"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against a heavy magic damage lineup (e.g., Zeus, Skywrath Mage). Build items like Pipe of Insight to protect your team and Hood of Defiance for yourself. Your high Strength gain and Ion Shell's damage-over-time allow you to frontline while mitigating their burst. Use Surge to dodge key projectiles.",
+    "search_text": "Dark Seer vs magic damage lineup pipe of insight hood defiance magic resistance strength ion shell dot surge dodge",
+    "tags": [
+      "DARK_SEER",
+      "SITUATIONAL",
+      "VS_MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: When your team lacks initiation. Prioritize Blink Dagger after your core items. This allows you to Blink in, Vacuum multiple heroes onto your Wall of Replica, and follow up with Normal Punch. This combo can single-handedly initiate a winning teamfight.",
+    "search_text": "Dark Seer lacks initiation blink dagger combo vacuum wall of replica normal punch teamfight initiator",
+    "tags": [
+      "DARK_SEER",
+      "SITUATIONAL",
+      "AS_INITIATOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: When playing from behind and being heavily pressured. Focus on split-pushing with Ion Shell on creep waves and farming jungle camps with it. Use Surge to escape ganks. Build utility items like Force Staff and Guardian Greaves to help your team survive and catch up in fights.",
+    "search_text": "Dark Seer playing from behind split push ion shell creep wave farm jungle surge escape force staff guardian greaves utility",
+    "tags": [
+      "DARK_SEER",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against a physical damage heavy carry (e.g., Phantom Assassin, Terrorblade). Items like Solar Crest, Assault Cuirass, and Shiva's Guard are highly effective. The armor reduces the physical damage output of both the enemy heroes and their Wall of Replica illusions. Your job is to survive their initial burst and let your Ion Shell whittle them down.",
+    "search_text": "Dark Seer vs physical damage carry armor solar crest assault cuirass shiva guard ion shell damage over time survive",
+    "tags": [
+      "DARK_SEER",
+      "SITUATIONAL",
+      "VS_PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Choose between +15% Wall of Replica Illusion Damage or +65 Ion Shell Radius. +65 Ion Shell Radius is the default strong choice, making it much harder for enemies to avoid the damage in fights and lane. +15% Wall Illusion Damage is situational, better against enemy lineups with high-damage carries where your illusions will do significant work.",
+    "search_text": "Dark Seer Level 10 Talent left +15% Wall of Replica Illusion Damage right +65 Ion Shell Radius area damage illusion damage carry",
+    "tags": [
+      "DARK_SEER",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Choose between +75 Vacuum AoE or Ion Shell Provides +250 Max Health. +75 Vacuum AoE is generally superior, dramatically increasing your initiation and control potential, allowing you to catch more heroes. The +250 Max Health from Ion Shell is a defensive option if you are dying too quickly or against heavy burst damage.",
+    "search_text": "Dark Seer Level 15 Talent left +75 Vacuum AoE radius control initiation right Ion Shell +250 Max Health HP survivability burst",
+    "tags": [
+      "DARK_SEER",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Choose between -40s Wall of Replica Cooldown or +50 Ion Shell Damage. +50 Ion Shell Damage is overwhelmingly powerful, increasing its damage per second from 90 to 140, making you a massive threat in prolonged fights. The -40s Wall Cooldown is niche, only considered if you are winning fights decisively and can push objectives frequently with your ultimate.",
+    "search_text": "Dark Seer Level 20 Talent left -40s Wall of Replica Cooldown uptime right +50 Ion Shell Damage DPS 90 to 140 teamfight",
+    "tags": [
+      "DARK_SEER",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Choose between 2 Ion Shell Charges or 350 AoE Surge. 2 Ion Shell Charges is typically the game-winning choice, allowing you to apply immense area pressure on two targets or a single target twice, synergizing with the +50 damage talent. 350 AoE Surge is a powerful utility option, turning Surge into a team-wide saving or initiating tool, valuable if your team lacks mobility.",
+    "search_text": "Dark Seer Level 25 Talent left 2 Ion Shell Charges double shell pressure right 350 AoE Surge team wide mobility save initiate",
+    "tags": [
+      "DARK_SEER",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

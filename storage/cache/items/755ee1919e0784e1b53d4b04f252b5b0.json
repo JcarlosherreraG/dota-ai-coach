@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Ogre Seal Totem, Tier N / Non-Purchasable: Activate to flop forward up to 400 units twice, dealing 250 magical damage and applying a 100% slow to enemies in a 275 radius for 1.5 seconds on each impact. Provides mobile initiation and chase with two burst damage and control instances. Stats: CD: 40s, Mana Cost: 25, Bounces: 2, Leap Speed: 800, Radius: 275, Slow Duration: 1.5s.",
+    "search_text": "ogre seal totem, neutral item, leap damage, double leap, bounce initiation, gap close slow, two bounces, flop ability, slow item, initiation neutral, control neutral, mobility neutral, ogre seal, jump slow, chase item, tier N neutral, AOE slow, AOE damage, burst neutral, Ogre Seal Totem",
+    "tags": [
+      "ITEM_DATA",
+      "OGRE_SEAL_TOTEM",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "NON_PURCHASABLE",
+      "MOBILITY",
+      "INITIATION",
+      "AOE_DAMAGE",
+      "MAGICAL_DAMAGE",
+      "SLOW",
+      "CATCH"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Ocean Heart, Tier Unknown: Provides +5 to all attributes. While in the river, grants 10 HP regeneration and 5 mana regeneration per second. This river-specific regen allows for lane recovery and mana sustain during river skirmishes or while transitioning between lanes. Stats: All Stats: +5, River HP Regen: 10 HP/s, River Mana Regen: 5 MP/s.",
+    "search_text": "river regen, river regeneration, water regen, passive regen item, hp regen river, mana regen river, river sustain, neutral item, ocean heart, river bonus, attribute item, stats, all stats, regeneration item, utility neutral",
+    "tags": [
+      "ITEM_DATA",
+      "OCEAN_HEART",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "UTILITY",
+      "REGEN",
+      "MANA_REGEN",
+      "HEALTH",
+      "ATTRIBUTES"
+    ]
+  }
+]

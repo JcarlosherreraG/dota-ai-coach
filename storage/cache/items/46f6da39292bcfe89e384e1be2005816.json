@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Tumbler's Toy, Tier 2: Neutral item providing +60 mana and a Vault ability that propels your hero forward 300 units. The item gets disabled for 3 seconds if its owner receives damage from a player source, limiting its use in combat. Stats: Vault CD: 15s, Leap Speed: 1300, Leap Acceleration: 20000, Disable on Damage: 3s.",
+    "search_text": "tumbler's toy, tier 2 neutral, leap ability, vault, mobility neutral, escape neutral, pogo stick, reposition, quick movement, neutral leap, move forward, Tumbler's Toy, small jump, disabled by damage, short dash, neutral item movement, hero propulsion",
+    "tags": [
+      "ITEM_DATA",
+      "TUMBLER'S_TOY",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_2",
+      "MOBILITY",
+      "ESCAPE",
+      "UTILITY",
+      "MANA"
+    ]
+  }
+]

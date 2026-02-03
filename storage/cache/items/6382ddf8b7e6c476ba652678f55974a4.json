@@ -1,0 +1,81 @@
+[
+  {
+    "display_text": "Eul's Scepter of Divinity, Cost: 2600: Self-targetable tool that sweeps a unit into a cyclone, making it invulnerable for 2.5 seconds. Can be used on enemy units or yourself, dealing 50 magical damage to enemies upon landing. Primarily used to disable an enemy or to dodge projectiles and spells. Has a basic dispel interaction. Stats: CD: 23s, Mana Cost: 175, Duration: 2.5s.",
+    "search_text": "cyclone item, dispel item, invulnerability item, dodge item, basic dispel, set up item, euls, tornado, setup, eul's scepter, save item, defensive item, mobility item, setup disable, target disable, reposition, crowd control, Eul's Scepter of Divinity",
+    "tags": [
+      "ITEM_DATA",
+      "EULS_SCEPTER_OF_DIVINITY",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DISABLE",
+      "SAVE",
+      "DISPEL",
+      "REPOSITION",
+      "VS_MAGIC",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Eul's Scepter of Divinity, Cost: 2600: Provides modest Intelligence boost and mana regeneration for spellcasters, alongside movement speed. Stats: +10 Intelligence, +2.5 Mana Regeneration, +20 Movement Speed.",
+    "search_text": "euls stats, intelligence item, mana regen item, movement speed item, support stats, caster stats, utility stats, Eul's Scepter of Divinity",
+    "tags": [
+      "ITEM_DATA",
+      "EULS_SCEPTER_OF_DIVINITY",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "MANA_REGEN",
+      "MANA",
+      "MOBILITY",
+      "INTELLIGENCE",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Eul's Scepter of Divinity, Cost: 2600: Primary defensive and catch tool. Can be used defensively to dodge abilities or save yourself from imminent damage. Offensively, it provides a guaranteed disable to set up skillshots or chain stuns, and dispels certain buffs from enemies. Stats: CD: 23s.",
+    "search_text": "defensive item, catch item, setup disable, chain stun, skillshot setup, self save, dodge spells, projectile dodge, timing item, team fight utility, crowd control, Eul's Scepter of Divinity",
+    "tags": [
+      "ITEM_DATA",
+      "EULS_SCEPTER_OF_DIVINITY",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SAVE",
+      "CATCH",
+      "DISABLE",
+      "DEFENSIVE",
+      "INITIATION",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Eul's Scepter of Divinity, Cost: 2600: Situational against heroes reliant on powerful single-target abilities or buffs that can be dispelled. The cyclone prevents channeled spells and can interrupt dangerous abilities. Defensively, it provides a key window of invulnerability against burst physical or magic damage.",
+    "search_text": "counter channeling, interrupt item, dispel buffs, remove debuff, invulnerability counter, save vs burst, magic immunity, physical immunity, dodge burst, Eul's Scepter of Divinity",
+    "tags": [
+      "ITEM_DATA",
+      "EULS_SCEPTER_OF_DIVINITY",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_MAGIC",
+      "VS_PHYSICAL",
+      "DISPEL",
+      "SAVE",
+      "INTERRUPT",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Eul's Scepter of Divinity, Cost: 2600: Key synergy for heroes with delayed or skillshot-based abilities (e.g., Lina, Leshrac) to guarantee their landing. The movement speed and mana sustain benefit mobile, spell-heavy heroes. Often built by supports for utility and by core heroes needing defensive options. Stats: CD: 23s.",
+    "search_text": "euls combo, set up combo, lina euls, leshrac euls, skillshot combo, movement speed, mana regen, support item, core item, utility item, mobility, reposition, Eul's Scepter of Divinity",
+    "tags": [
+      "ITEM_DATA",
+      "EULS_SCEPTER_OF_DIVINITY",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "MOBILITY",
+      "MANA_REGEN",
+      "UTILITY",
+      "SUPPORT_ITEM",
+      "CORE_ITEM"
+    ]
+  }
+]

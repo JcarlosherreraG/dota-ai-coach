@@ -1,0 +1,54 @@
+[
+  {
+    "display_text": "Sacred Relic, Cost: 3400: A Secret Shop item that provides +55 base damage. It is a pure damage component with no other stats or active effects, serving as a high-cost stepping stone to powerful late-game carry items. Stats: Damage: +55.",
+    "search_text": "damage component, base damage item, high cost damage, sacred relic, late game damage, secret shop item, damage only, component item, relic, carry item, expensive damage, Sacred Relic",
+    "tags": [
+      "ITEM_DATA",
+      "SACRED_RELIC",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DAMAGE",
+      "COMPONENT",
+      "UPGRADE",
+      "CARRY_ITEM",
+      "SECRET_SHOP"
+    ]
+  },
+  {
+    "display_text": "Sacred Relic, Cost: 3400: Provides +55 bonus damage with no other attributes. It is a pure offensive stat stick, offering a significant power spike for physical damage dealers when they can afford it. Stats: Damage: +55.",
+    "search_text": "sacred relic stats, damage stats, bonus damage, stat stick, offensive item, physical damage boost, DPS item, damage only, Sacred Relic",
+    "tags": [
+      "ITEM_DATA",
+      "SACRED_RELIC",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Sacred Relic, Cost: 3400: Provides no teamfight utility on its own but drastically amplifies the damage output of a core hero, allowing them to hit critical thresholds for hero kills and tower destruction. Its value is purely in scaling offensive power.",
+    "search_text": "damage scaling, carry power spike, late game scaling, core damage, physical scaling, damage amp, offensive scaling, late game carry, Sacred Relic",
+    "tags": [
+      "ITEM_DATA",
+      "SACRED_RELIC",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Sacred Relic, Cost: 3400: Core purchase for heroes who scale with raw attack damage and seek to build items like Radiance or Divine Rapier. It is a key timing item for heroes looking to dominate the late game with overwhelming right-click damage. The high cost requires significant farming commitment.",
+    "search_text": "sacred relic build, radiance component, divine rapier component, late game carry, scaling hero, damage hero, farming item, high cost component, Sacred Relic",
+    "tags": [
+      "ITEM_DATA",
+      "SACRED_RELIC",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "DAMAGE",
+      "UPGRADE"
+    ]
+  }
+]

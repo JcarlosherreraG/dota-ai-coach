@@ -1,0 +1,220 @@
+[
+  {
+    "display_text": "Beastmaster is a Melee strength hero with an attack rate of 1.7 seconds per hit. He has above-average starting Strength (25) and average Agility (19) and Intelligence (16). As a melee core, his base stats are focused on survivability.",
+    "search_text": "Beastmaster stats melee strength agility intelligence attack rate",
+    "tags": [
+      "BEASTMASTER",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet: Wild Hunt - Beastmaster attacks faster when his units are nearby. This favors a zoo/summoner playstyle, emphasizing grouping his summons (Boar, Hawk) to maximize personal attack speed. Facet: Beast Mode - Beastmaster can get a self attack speed and damage amplification boost. This favors a more self-sufficient, right-click oriented build where his personal damage is the focus, especially when not surrounded by his own units.",
+    "search_text": "Beastmaster facet Wild Hunt Beast Mode summons attack speed damage zoo right click",
+    "tags": [
+      "BEASTMASTER",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Maximize Wild Axes (Q) for wave clear and harassment, dealing 30/65/100/135 damage per axe. Use Call of the Wild Boar (W) at level 2 to provide a slow (10/18/26/34%) for kills and zoning. Use Inner Beast (E) passively to increase your and your units' attack speed (10/30/50/70). Prioritize last hitting with your high base damage and utilizing the Boar to harass the enemy carry.",
+    "search_text": "Beastmaster laning Wild Axes Call of the Wild Boar Inner Beast slow harass last hit",
+    "tags": [
+      "BEASTMASTER",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6: Primal Roar is a powerful single-target initiation and ganking tool with a 3/3.5/4 second stun. Level 12: Access to level 2 Primal Roar and the level 15 talent (+15 Inner Beast Attack Speed or -5s Call of the Wild Cooldown). Level 18: Max level Primal Roar. Level 20: Key talent choice between +30 Damage to summons/self or +250 Health to summons/self. Level 25: Ultimate cooldown reduction (-25s Primal Roar) or removing the Wild Axes cooldown.",
+    "search_text": "Beastmaster power spike level 6 12 18 20 25 Primal Roar talents",
+    "tags": [
+      "BEASTMASTER",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Break disables his passive Inner Beast attack speed bonus. Heroes with instant disables (Lion Hex, Shadow Shaman Shackles) can lock him down before he can cast Primal Roar. High physical burst damage can kill his summons (Boar, Hawk) quickly, negating his zoo power and Wild Hunt facet. Silences prevent him from using Primal Roar and summoning units.",
+    "search_text": "Beastmaster counter break silence hex disables kill summons inner beast",
+    "tags": [
+      "BEASTMASTER",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Helm of the Overlord is essential to dominate a creep, adding another powerful unit to his army. Blink Dagger is critical for initiating with Primal Roar. Assault Cuirass amplifies the attack speed of all his units and reduces enemy armor.",
+    "search_text": "Beastmaster core build Helm of the Overlord Blink Dagger Assault Cuirass",
+    "tags": [
+      "BEASTMASTER",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Beastmaster's primary role is to initiate with Blink Dagger and Primal Roar on a key enemy core or support. After initiating, he uses Wild Axes for damage amplification (7/9/11/13% per axe hit) on multiple targets and commands his summons (Boar, Hawk, dominated creep) to focus fire. His Drums of Slom provides sustained AoE damage and healing for his army. He functions as a frontline disabler and zoo army commander.",
+    "search_text": "Beastmaster teamfight initiator Primal Roar Blink Dagger Wild Axes damage amp summons Drums of Slom",
+    "tags": [
+      "BEASTMASTER",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Wild Axes (Q): Beastmaster throws two axes that deal 30/65/100/135 damage each on the way out and back. Each axe can hit an enemy once, applying a 7/9/11/13% damage amplification from Beastmaster and his units for 12 seconds. Cooldown is 8 seconds. Range is 1500. The axes spread 450 units apart and have a radius of 175. Destroy trees.",
+    "search_text": "Wild Axes Q damage 30 65 100 135 amp 7 9 11 13 duration 12 cooldown 8 range 1500 tree destroy",
+    "tags": [
+      "BEASTMASTER",
+      "ABILITY_DATA",
+      "NUKER",
+      "AMP"
+    ]
+  },
+  {
+    "display_text": "Call of the Wild Boar (W): Summons a Boar that lasts 60 seconds. The Boar has 300/450/600/750 health, 320/330/340/350 movespeed, and deals 25/40/55/70 poison damage per attack, slowing the target's attack and move speed by 10/18/26/34% for 3 seconds. Cooldown is 30 seconds.",
+    "search_text": "Call of the Wild Boar W summon slow 10 18 26 34 damage 25 40 55 70 duration 60 cooldown 30",
+    "tags": [
+      "BEASTMASTER",
+      "ABILITY_DATA",
+      "SUMMON",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Call of the Wild Hawk (E): Summons a Hawk that circles Beastmaster for 25 seconds. The Hawk has 200/325/450/625 health, 600/650/700/750 flying vision, and 30/40/50/60% magic resistance. It automatically attacks nearby enemy heroes every 4 seconds (attack rate scales with its attack speed), diving to deal 50/80/110/140 damage and rooting them for 0.25/0.5/0.75/1.0 seconds. Cooldown is 45/40/35/30 seconds.",
+    "search_text": "Call of the Wild Hawk E summon vision 600 650 700 750 dive damage 50 80 110 140 root 0.25 0.5 0.75 1.0 cooldown 45 40 35 30",
+    "tags": [
+      "BEASTMASTER",
+      "ABILITY_DATA",
+      "SUMMON",
+      "VISION",
+      "ROOT"
+    ]
+  },
+  {
+    "display_text": "Inner Beast (Passive): Provides 10/30/50/70 attack speed to Beastmaster and all units under his control within a 1200 radius. This passive is disabled by Break.",
+    "search_text": "Inner Beast passive attack speed 10 30 50 70 aura radius 1200 break disables",
+    "tags": [
+      "BEASTMASTER",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "AURA",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Drums of Slom (Ultimate Passive): Attacks from Beastmaster or his nearby controlled units bang his drum, dealing 80 damage and healing him and his units for 20% of the damage dealt (5% vs creeps) in a 600 radius. Each attack reduces the interval between drum hits, down to a minimum of 0.5s after 20 attacks. The intervals increase if no attacks are made. Using Primal Roar counts as 10 attacks.",
+    "search_text": "Drums of Slom ultimate passive attack proc damage 80 heal 20% 5% creeps radius 600 min interval 0.5s Primal Roar counts 10 attacks",
+    "tags": [
+      "BEASTMASTER",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "DAMAGE",
+      "HEAL",
+      "AURA"
+    ]
+  },
+  {
+    "display_text": "Primal Roar (R): Beastmaster roars, stunning a single target for 3/3.5/4 seconds and pushing them back 450 units over 1 second. The roar deals 150/225/300 damage in a 300 radius path. Units shoved aside take 150/225/300 damage and are slowed by 60% for 3/3.5/4 seconds. Beastmaster and his units gain 40% movement speed for 2 seconds. Cooldown is 90/75/60 seconds.",
+    "search_text": "Primal Roar R ultimate stun 3 3.5 4 push 450 damage 150 225 300 slow 60% movement speed 40% cooldown 90 75 60",
+    "tags": [
+      "BEASTMASTER",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "STUN",
+      "SLOW",
+      "DAMAGE",
+      "DISPLACE"
+    ]
+  },
+  {
+    "display_text": "Rugged (Innate): Beastmaster's melee hero Damage Block chance is increased from 50% to 100% versus non-hero, non-building units.",
+    "search_text": "Rugged innate damage block 100% vs creeps non-hero",
+    "tags": [
+      "BEASTMASTER",
+      "ABILITY_DATA",
+      "INNATE",
+      "DAMAGE_BLOCK"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor/Physical Damage Teams. Build Assault Cuirass early to reduce enemy armor for your entire physical damage army (you, Boar, Hawk, dominated creep). Consider a Shiva's Guard for more armor and attack speed slow. Prioritize the Beast Mode facet for personal damage if your summons are being focused down.",
+    "search_text": "Beastmaster scenario high armor physical damage Assault Cuirass Shiva's Guard armor reduction Beast Mode",
+    "tags": [
+      "BEASTMASTER",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on split-pushing with Wild Axes for wave clear. Use the Hawk for defensive vision around your jungle and towers. Build utility items like Pipe of Insight or Crimson Guard to help your team survive. The +250 Health talent at level 20 can provide crucial survivability for you and your summons.",
+    "search_text": "Beastmaster scenario from behind split push Wild Axes Hawk vision defensive items Pipe Crimson Guard talent health",
+    "tags": [
+      "BEASTMASTER",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Control Illusion/Spawn Heroes. Your summons (Boar, Hawk) and dominated creep provide multiple bodies to help identify the real hero. Wild Axes damage amplification helps focus the real target. Primal Roar is a guaranteed single-target lockdown on the real hero if you can identify them.",
+    "search_text": "Beastmaster scenario illusions spawns summons identify real hero Primal Roar lockdown",
+    "tags": [
+      "BEASTMASTER",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need Maximum Map Control. Use the Wild Hunt facet. Constantly have a Hawk scouting key areas (Roshan, enemy jungle). Use the Boar to stack ancients or camps. Dominate a Hellbear Smasher or Centaur Conqueror with Helm for additional disables. Prioritize the -5s Call of the Wild cooldown talent at level 10 for more uptime on summons.",
+    "search_text": "Beastmaster scenario map control Wild Hunt facet Hawk scout Boar stack Helm dominate creep talent cooldown",
+    "tags": [
+      "BEASTMASTER",
+      "SITUATIONAL",
+      "MAP_CONTROL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.",
+    "search_text": "Beastmaster scenario spell casters burst magic damage Black King Bar Pipe of Insight magic resistance talent health",
+    "tags": [
+      "BEASTMASTER",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left choice is -5s Call Of The Wild Cooldown, right choice is +2% Wild Axes Damage Amp Per Stack. Choose -5s cooldown if you are focusing on a zoo/summoner playstyle with the Wild Hunt facet, allowing more frequent Boar and Hawk summons for map presence. Choose +2% damage amp per Wild Axes stack if you are focusing on a right-click damage build with the Beast Mode facet, as the amp applies to your own attacks.",
+    "search_text": "Beastmaster talent level 10 -5s Call of the Wild cooldown +2% Wild Axes damage amp per stack zoo right click",
+    "tags": [
+      "BEASTMASTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left choice is +15 Movespeed to Beastmaster and his summons (global aura), right choice is +15 Inner Beast Attack Speed. Choose the +15 Movespeed if your team needs better mobility for chasing or escaping, or if you are playing a global presence/split-push style. Choose the +15 Inner Beast Attack Speed if you are teamfighting heavily and want to maximize the DPS of your entire army.",
+    "search_text": "Beastmaster talent level 15 +15 movespeed global aura +15 Inner Beast attack speed mobility dps",
+    "tags": [
+      "BEASTMASTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left choice is +30 Damage to Beastmaster and his summons, right choice is +250 Health to Beastmaster and his summons. Choose +30 Damage if you are ahead and want to increase your pushing and teamfight kill threat significantly. Choose +250 Health if you are facing high burst damage, need survivability, or are playing from behind to ensure your summons live longer.",
+    "search_text": "Beastmaster talent level 20 +30 damage to summons +250 health to summons survivability damage output",
+    "tags": [
+      "BEASTMASTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left choice is No Wild Axes Cooldown, right choice is -25s Primal Roar Cooldown. Choose No Wild Axes Cooldown for incredible wave clear, constant damage amplification (7/9/11/13% per stack), and immense area damage in prolonged fights. Choose -25s Primal Roar Cooldown if the game revolves around pick-offs and you need your powerful single-target stun available every 35/30/25 seconds.",
+    "search_text": "Beastmaster talent level 25 No Wild Axes cooldown -25s Primal Roar cooldown spam axe wave clear initiation uptime",
+    "tags": [
+      "BEASTMASTER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

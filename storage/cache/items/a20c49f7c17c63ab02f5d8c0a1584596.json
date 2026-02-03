@@ -1,0 +1,80 @@
+[
+  {
+    "display_text": "Cost: 2575: Solar Crest, an active ability item that can be cast on an ally to provide them with a 350 physical damage barrier, 5 bonus armor, 60 bonus attack speed, and 15% movement speed for 7 seconds. The self-cast version only provides the barrier, not the other buffs, and the ability shares a cooldown with its component, Pavise. A powerful utility tool for saving or enhancing a core hero in team fights. Stats: CD: 16s, Mana Cost: 100, Barrier: 350, Duration: 7s.",
+    "search_text": "save item, defensive item, buff ally, armor buff, attack speed buff, movement speed buff, physical barrier, ally shield, support item, utility item, Solar Crest, Pavise upgrade, team fight utility, protect carry, save teammate, defensive support, aura buff, active buff",
+    "tags": [
+      "ITEM_DATA",
+      "SOLAR_CREST",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "BUFF",
+      "UTILITY",
+      "SUPPORT_ITEM",
+      "ALLY_BUFF",
+      "BARRIER"
+    ]
+  },
+  {
+    "display_text": "Cost: 2575: Solar Crest provides substantial defensive and utility stats: 4 bonus armor, 4 to all attributes, 25 flat movement speed, 300 mana, and 175 health. This stat profile offers well-rounded survivability, mana pool increase, and movement speed, making it a strong pick for supports and utility cores who want to stay alive and active on the map. Stats: Armor: +4, Attributes: +4, MS: +25, Mana: +300, Health: +175.",
+    "search_text": "Solar Crest stats, armor item, stats item, support stats, movement speed item, mana item, health item, all stats item, utility stats, survivability, Solar Crest",
+    "tags": [
+      "ITEM_DATA",
+      "SOLAR_CREST",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ARMOR",
+      "HEALTH",
+      "MANA",
+      "ALL_STATS",
+      "MOVEMENT_SPEED",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Cost: 2575: In team fights, Solar Crest serves as a powerful defensive and offensive support tool. Casting its active 'Shine' on an ally dramatically increases their physical survivability (barrier + armor) while boosting their offensive output (attack speed) and mobility. This makes it excellent for saving a focused carry or enabling a core hero to man-fight. Its low cooldown allows for multiple uses in prolonged engagements.",
+    "search_text": "team fight utility, team buff, save teammate, protect ally, team fight save, defensive support, offensive support, team fight item, Solar Crest, Shine, team support, Solar Crest team fight",
+    "tags": [
+      "ITEM_DATA",
+      "SOLAR_CREST",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SAVE",
+      "BUFF",
+      "DEFENSIVE",
+      "UTILITY",
+      "SUPPORT_ITEM",
+      "TEAM_BUFF"
+    ]
+  },
+  {
+    "display_text": "Cost: 2575: Solar Crest is particularly effective against physical damage-heavy lineups and right-clickers. The 5 bonus armor and 350 physical damage barrier provide a significant boost to a hero's effective HP against physical attacks. It counters heroes like Phantom Assassin or Ursa who rely on rapid physical damage bursts to eliminate targets quickly.",
+    "search_text": "counter physical damage, physical defense item, armor item, physical burst counter, right click counter, vs physical, vs right clickers, armor buff, defensive item, Solar Crest, vs PA, vs Ursa",
+    "tags": [
+      "ITEM_DATA",
+      "SOLAR_CREST",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "ARMOR",
+      "DEFENSIVE",
+      "PHYSICAL_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "Cost: 2575: Solar Crest has strong synergy with high-attack-speed heroes who benefit from the additional 60 attack speed and movement speed, such as Troll Warlord or Drow Ranger. It's also an excellent choice on position 4 or 5 supports who want to provide a powerful, instant save and buff for their carry without committing to a heavy defensive aura like Crimson Guard.",
+    "search_text": "Solar Crest synergy, attack speed buff synergy, movement speed synergy, support build, save support, save item build, buff carry, Solar Crest build, Solar Crest on support, Solar Crest on 4, Solar Crest on 5",
+    "tags": [
+      "ITEM_DATA",
+      "SOLAR_CREST",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "BUFF",
+      "ATTACK_SPEED",
+      "SUPPORT_ITEM",
+      "UTILITY",
+      "ALLY_BUFF"
+    ]
+  }
+]

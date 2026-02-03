@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Ceremonial Robe, Cost: 0: Non-purchasable aura item. Lowers enemy Status Resistance and Magic Resistance by 10% for all enemies within a 1200 unit radius. Provides no direct combat stats, offering a purely offensive team fight debuff to weaken enemy defenses.",
+    "search_text": "aura item, debuff aura, status resistance reduction, magic resistance reduction, team fight aura, resistance reduction, AoE debuff, weaken enemy, offensive aura, Ceremonial Robe",
+    "tags": [
+      "ITEM_DATA",
+      "CEREMONIAL_ROBE",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "AURA",
+      "DEBUFF",
+      "VS_MAGIC",
+      "VS_CONTROL",
+      "TEAMFIGHT_ROLE"
+    ]
+  }
+]

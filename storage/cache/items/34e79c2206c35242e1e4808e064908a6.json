@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Tier 2 Token: A consumable token that grants one Tier 2 Neutral Item when activated. The redeemed item is bound to the hero, cannot be shared, and a hero can only claim one token per tier. This token provides no stats and is consumed on use. Stats: None.",
+    "search_text": "tier 2 token, neutral token, redeem neutral item, tier 2 neutral, token, neutral item token, tier two token, activate token, get neutral item, neutral item system, tier token, neutral drop, token usage, one token per tier, not shareable, bound to hero, token system, tier 2 item, Tier 2 Token",
+    "tags": [
+      "ITEM_DATA",
+      "TIER_2_TOKEN",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TOKEN",
+      "ACTIVATABLE",
+      "CONSUMABLE",
+      "UTILITY"
+    ]
+  }
+]

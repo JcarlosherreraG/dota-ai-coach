@@ -1,0 +1,265 @@
+[
+  {
+    "display_text": "Magnus is a Melee Strength hero with a base attack rate of 1.8, which is on the slower side. He starts with 23 Strength, 12 Agility, and 20 Intelligence, giving him a strong health pool but low armor and poor Agility growth for his right-clicks. His primary role is initiation and control through area-of-effect abilities.",
+    "search_text": "Magnus base stats Melee 1.8 attack rate Strength 23 Agility 12 Intelligence 20 HP armor low",
+    "tags": [
+      "MAGNUS",
+      "BASE_STATS",
+      "STATS",
+      "MELEE"
+    ]
+  },
+  {
+    "display_text": "Facet 1 (Magnataur Run Through): Adds a Horn Toss ability which launches enemies over Magnus, dealing 300 damage and stunning for 0.6s in the air plus 0.75s on landing. This provides a reliable, single-target setup or interrupt, enhancing his control without requiring perfect positioning. Facet 2 (Eternal Empowerment): Empower is a permanent passive on Magnus. Each attack increases its damage bonus and cleave value, stacking up to 30/36/42/48%. This turns him into a powerful scaling right-click core, shifting his role from pure initiator to a formidable carry. Facet 3 (Diminishing Return): Increases Shockwave max level to 5. At level 5, the wave returns towards Magnus after reaching max range, potentially hitting enemies twice. This dramatically increases his farming speed and wave clear potential. Facet 4 (Reverse Reverse Polarity): Reverses his ultimate to push enemies away from him in a 430 radius. This is a powerful defensive tool to create space or save allies.",
+    "search_text": "Magnus facets Run Through Horn Toss 300 damage stun Eternal Empowerment permanent Empower stacks scaling carry Diminishing Return Shockwave level 5 returns wave double hit farm Reverse Reverse Polarity push enemies away 430 radius defensive save",
+    "tags": [
+      "MAGNUS",
+      "FACET_STRATEGY",
+      "FACETS",
+      "HORN_TOSS",
+      "EMPOWER",
+      "SHOCKWAVE",
+      "REVERSE_POLARITY"
+    ]
+  },
+  {
+    "display_text": "Laning as Magnus focuses on survivability and setting up kills with Skewer. Start with stats and regen due to low armor. Use Shockwave for harassment and last hitting from a safe 1200 range. Max Shockwave first for wave clear. Look for kill opportunities by Skewering an enemy from 800-1100 range back into your tower or ally. At level 6, Reverse Polarity provides a massive teamfight or kill threat in the lane. Prioritize a Bottle for rune control and sustain.",
+    "search_text": "Magnus laning phase early game first 10 minutes Shockwave 1200 range harass farm Skewer 800 range pull kill initiate level 6 Reverse Polarity sustain bottle",
+    "tags": [
+      "MAGNUS",
+      "LANING_PHASE",
+      "LANING",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Level 6: A huge spike with Reverse Polarity's 2.5s AoE stun. Level 12: With maxed Skewer (level 4) and a 2nd point in Reverse Polarity (3.0s stun), initiation and damage output rise significantly. Level 18: Level 3 Reverse Polarity (3.5s stun) is a major teamfight spike. Level 20 Talent: Either +125 Shockwave Damage for better wave clear/poke or +15% Skewer Damage per Distance Travelled for massive nuking potential. Level 25 Talent: +10% Empower Damage/Cleave if playing as a right-clicker, or +0.8s Reverse Polarity Stun Duration for unparalleled teamfight control. Item spike: Blink Dagger is the most critical timing, enabling instant RP setups.",
+    "search_text": "Magnus power spikes level 6 RP stun level 12 max Skewer level 18 RP 3.5s level 20 talent damage level 25 talent empower cleave stun Blink Dagger timing",
+    "tags": [
+      "MAGNUS",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_18",
+      "LEVEL_20",
+      "LEVEL_25",
+      "BLINK_DAGGER"
+    ]
+  },
+  {
+    "display_text": "Heroes with instant silences or hexes (Silencer, Shadow Shaman) prevent Blink initiation and Skewer escapes. Heroes with built-in Break (Hoodwink, Viper) disable his passive Solid Core (20/30/40/50% slow resistance and 50% knockback reduction). Mobile heroes with disjoints (Queen of Pain, Puck) can avoid Skewer and Shockwave. Heavy magic burst can kill him before he can initiate due to his low base armor.",
+    "search_text": "Magnus counters hard counters instant silence hex Shadow Shaman Silencer Break Viper Hoodwink Solid Core slow resistance disjoint Puck Queen of Pain magic burst low armor",
+    "tags": [
+      "MAGNUS",
+      "HARD_COUNTERS",
+      "COUNTERS",
+      "SILENCE",
+      "BREAK",
+      "DISJOINT"
+    ]
+  },
+  {
+    "display_text": "1. Blink Dagger: Non-negotiable. Enables instant Reverse Polarity and Skewer initiation. 2. Power Treads: Provides needed stats, attack speed, and toggling for efficiency with his abilities. 3. Echo Sabre: Synergizes with Empower, provides mana regen, and doubles the cleave damage from one hit. Follow-up with Black King Bar to ensure spells go off.",
+    "search_text": "Magnus core build essential items Blink Dagger Power Treads Echo Sabre BKB initiation Empower cleave",
+    "tags": [
+      "MAGNUS",
+      "CORE_BUILD",
+      "ITEMS",
+      "BLINK_DAGGER",
+      "POWER_TREADS",
+      "ECHO_SABRE"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Magnus's primary job is to initiate with Blink + Reverse Polarity, grouping and stunning multiple enemies for up to 3.5 seconds. Follow up with Shockwave for damage and slow. Use Skewer to drag key stunned heroes back into your team or to reposition. Cast Empower on your primary physical damage dealer (often yourself if playing core). Your role is to create the perfect opening for your team to unload their damage.",
+    "search_text": "Magnus teamfight role initiator Blink Reverse Polarity 3.5s stun group enemies Shockwave damage slow Skewer reposition drag Empower carry",
+    "tags": [
+      "MAGNUS",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT",
+      "INITIATOR",
+      "CROWD_CONTROL"
+    ]
+  },
+  {
+    "display_text": "SHOCKWAVE (Q): Magnus sends a wave of force in a line 1200 units long and 200 units wide, moving at 1200 speed. It deals 75/150/225/300/300 damage to enemies, pulls them 150 units towards him over 0.2 seconds, and slows their movement by 75% for 0.4/0.6/0.8/1.0/1.0 seconds. After the initial slow, they are slowed for an additional 2 seconds (value unspecified). Does NOT pierce BKB. The level 5 version (from a Facet) returns after reaching max distance.",
+    "search_text": "Shockwave Q line 1200 range 200 width 75 150 225 300 damage pull 150 slow 75% 0.4 0.6 0.8 1.0 duration slow 2 seconds BKB pierce no return wave facet",
+    "tags": [
+      "MAGNUS",
+      "ABILITY_DATA",
+      "SHOCKWAVE",
+      "Q",
+      "DAMAGE",
+      "SLOW",
+      "PULL",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "EMPOWER (W): Targets an allied unit or self for 30/33/36/39 seconds. Grants bonus damage equal to 16/24/32/40% of base damage + primary attribute damage. Also grants cleave on attacks: melee attacks cleave in a 150 starting width to 360 ending width over 650 distance, dealing 16/24/32/40% of attack damage in the area. Magnus himself receives a 30% larger bonus (48/62.4/76.8/91.2%). Cleave damage pierces spell immunity. Ranged units do not cleave. The Facet 'Eternal Empowerment' makes this a permanent passive on Magnus that stacks with each attack.",
+    "search_text": "Empower W buff 30 33 36 39 seconds bonus damage 16 24 32 40% base attribute cleave 150 360 width 650 range 16 24 32 40% damage pierces BKB self bonus 30% larger 48 62.4 76.8 91.2% melee only ranged no facet permanent stacks",
+    "tags": [
+      "MAGNUS",
+      "ABILITY_DATA",
+      "EMPOWER",
+      "W",
+      "BUFF",
+      "DAMAGE",
+      "CLEAVE",
+      "PIERCES_BKB"
+    ]
+  },
+  {
+    "display_text": "SKEWER (E): Magnus charges forward 800/900/1000/1100 units at 900 speed, dragging any heroes he hits with him to the destination. Enemies dragged take 80/160/240/320 damage plus an additional 6/9/12/15% of the distance traveled as damage. They are then slowed by 20/30/40/50% for 3.25 seconds. Cooldown is 22/20/18/16 seconds. Can be interrupted by stuns, hexes, or banishes. The level 15 talent adds +1.25s to the slow duration.",
+    "search_text": "Skewer E charge 800 900 1000 1100 range 900 speed drag heroes damage 80 160 240 320 plus 6 9 12 15% distance slow 20 30 40 50% 3.25 seconds cooldown 22 20 18 16 interruptible talent slow duration",
+    "tags": [
+      "MAGNUS",
+      "ABILITY_DATA",
+      "SKEWER",
+      "E",
+      "MOBILITY",
+      "DAMAGE",
+      "SLOW",
+      "DISPLACEMENT"
+    ]
+  },
+  {
+    "display_text": "HORN TOSS (From Facet): Magnus tosses enemies in front of him to his rear. Deals 300 magical damage. Enemies spend 0.6 seconds in the air (stunned) and are stunned for an additional 0.75 seconds upon landing, for a total of 1.35 seconds of disable. After the stun, they are slowed by 100% for 2 seconds. The pull angle is 230 degrees in front, with a 75 offset.",
+    "search_text": "Horn Toss facet ability toss rear 300 damage air 0.6 seconds stun land stun 0.75 total 1.35s disable slow 100% 2 seconds angle 230 pull 75 offset",
+    "tags": [
+      "MAGNUS",
+      "ABILITY_DATA",
+      "HORN_TOSS",
+      "FACET",
+      "STUN",
+      "DAMAGE",
+      "REPOSITION"
+    ]
+  },
+  {
+    "display_text": "SOLID CORE (Passive): Provides Magnus with 20/30/40/50% slow resistance. Also reduces knockback distance from enemy abilities and items by 50%. This makes him significantly harder to kite or control with slows and knockbacks like Force Staff or powershot.",
+    "search_text": "Solid Core passive slow resistance 20 30 40 50% knockback reduction 50% force staff powershot kiting",
+    "tags": [
+      "MAGNUS",
+      "ABILITY_DATA",
+      "SOLID_CORE",
+      "PASSIVE",
+      "SLOW_RESISTANCE",
+      "KNOCKBACK_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "REVERSE POLARITY (R): Magnus pulls all enemies within a 430 radius in front of him, then slams them, dealing 100/200/300 magical damage and stunning them for 2.5/3.0/3.5 seconds. Cooldown is 115 seconds. Does NOT pierce BKB. The Facet 'Reverse Reverse Polarity' pushes enemies away instead of pulling them in. The level 20 talent can provide +12 All Attributes per hero hit for 7 seconds.",
+    "search_text": "Reverse Polarity R ultimate pull 430 radius front damage 100 200 300 stun 2.5 3.0 3.5 seconds cooldown 115 BKB pierce no facet push away talent attributes per hero",
+    "tags": [
+      "MAGNUS",
+      "ABILITY_DATA",
+      "REVERSE_POLARITY",
+      "R",
+      "ULTIMATE",
+      "STUN",
+      "AOE",
+      "INITIATION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind. Focus on defensive itemization like Force Staff or Lotus Orb instead of aggressive Blink initiations. Use Reverse Polarity defensively to counter-initiate on enemies diving your towers or high-ground. Max Shockwave and use it to safely clear waves from a distance. Consider the 'Reverse Reverse Polarity' Facet to create space and save your team from engagements.",
+    "search_text": "Magnus playing from behind defensive items Force Staff Lotus Orb counter-initiate RP high ground defense Shockwave wave clear facet push away",
+    "tags": [
+      "MAGNUS",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy team has high physical armor. Your physical damage from Empower and right-clicks will be less effective. Prioritize maximizing magical burst damage instead. Build Veil of Discord or Kaya \u0026 Sange to amplify Shockwave and Reverse Polarity damage. Your role shifts more to pure setup and control for magical damage allies.",
+    "search_text": "Magnus vs high armor physical damage ineffective build magic damage Veil of Discord Kaya Sange amplify Shockwave RP setup control",
+    "tags": [
+      "MAGNUS",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR",
+      "MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your team lacks a traditional carry. Select the 'Eternal Empowerment' Facet. Itemize as a right-click core with Armlet, Daedalus, Assault Cuirass, and Satanic. Use Empower's scaling cleave to farm and deal massive AoE physical damage in fights. Your Skewer and RP become tools to position yourself for optimal cleave angles rather than just initiation.",
+    "search_text": "Magnus no carry team facet Eternal Empowerment carry build Armlet Daedalus Assault Cuirass Satanic farm cleave physical damage positioning",
+    "tags": [
+      "MAGNUS",
+      "SITUATIONAL",
+      "AS_CARRY",
+      "PHYSICAL_DAMAGE",
+      "EMPOWER_FACET"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has key heroes with BKB-piercing disables (e.g., Beastmaster Roar, Bane Fiend's Grip). You cannot rely on BKB to ensure your combo. Itemize for instant cast and survival. Consider Aghanim's Shard for instant Horn Toss setup from a distance, Linken's Sphere to block a key spell, or even a refresher for a second RP if the first one gets interrupted.",
+    "search_text": "Magnus vs BKB piercing disable Beastmaster Bane Aghanim Shard Horn Toss Linken Sphere survival Refresher second RP",
+    "tags": [
+      "MAGNUS",
+      "SITUATIONAL",
+      "VS_BKB_PIERCE",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Split pushing. With maxed Shockwave and the 'Diminishing Return' Facet (returning wave), Magnus becomes an excellent split pusher. The double wave clears creep waves instantly. Use Skewer as a long-distance escape tool over cliffs or through trees. Carry a TP scroll to join fights after applying lane pressure.",
+    "search_text": "Magnus split push Shockwave max level facet Diminishing Return double wave clear creep Skewer escape 1100 range TP scroll",
+    "tags": [
+      "MAGNUS",
+      "SITUATIONAL",
+      "SPLIT_PUSH",
+      "FARMING",
+      "SHOCKWAVE_FACET"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10 Choice: Left: +1.5 Mana Regen. Provides crucial sustainability for spamming Shockwave and Skewer in the early-mid game, especially if you don't have other mana items. Right: +1.25s Skewer Slow Duration. Extends the slow from 3.25s to 4.5s, significantly increasing the lockdown after an initiation and making it easier for allies to follow up. Choose Mana Regen if you are struggling with mana, otherwise the extended slow is generally more impactful for kills.",
+    "search_text": "Magnus level 10 talent left +1.5 mana regen sustain right +1.25s Skewer slow duration 3.25 to 4.5 lockdown follow up",
+    "tags": [
+      "MAGNUS",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10",
+      "MANA_REGEN",
+      "SKEWER_SLOW"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15 Choice: Left: +12 All Attributes per hero hit with Reverse Polarity, lasting 7 seconds. This is a massive teamfight talent, granting +12 Strength/Agility/Intelligence for each enemy hero caught in your ultimate, making you incredibly tanky and increasing your damage temporarily. Right: -5s Skewer Cooldown. Reduces Skewer cooldown from 16s to 11s at max level, greatly increasing your mobility, escape potential, and initiation frequency. Choose the RP Attributes talent for big 5-man fights, or Skewer cooldown if you need more frequent pick-offs and mobility.",
+    "search_text": "Magnus level 15 talent left +12 all attributes per RP hero hit 7 seconds stats tank right -5s Skewer cooldown 16 to 11 mobility escape",
+    "tags": [
+      "MAGNUS",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15",
+      "ATTRIBUTES",
+      "SKEWER_COOLDOWN"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20 Choice: Left: +125 Shockwave Damage. Increases Shockwave damage from 300 to 425, significantly boosting your wave clear, farming speed, and AoE burst damage in fights. Right: +15% Skewer Damage Per Distance Travelled. Adds to the existing 6/9/12/15% damage bonus, making a max-range Skewer deal massive single-target or small group damage (up to 30% of distance traveled). Choose Shockwave for consistent AoE impact and farming, or Skewer for burst assassination potential on key targets.",
+    "search_text": "Magnus level 20 talent left +125 Shockwave damage 300 to 425 wave clear burst right +15% Skewer damage per distance total up to 30% nuke assassination",
+    "tags": [
+      "MAGNUS",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20",
+      "SHOCKWAVE_DAMAGE",
+      "SKEWER_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25 Choice: Left: +10% Empower Damage/Cleave. Increases Empower's damage and cleave percentage from 40% to 50% (65% for Magnus himself with the self-multiplier). This is a massive boost to your right-click and cleave damage, essential if you are playing as a carry with the Eternal Empowerment facet. Right: +0.8s Reverse Polarity Stun Duration. Increases the stun duration from 3.5s to 4.3s, one of the longest AoE disables in the game. This is the choice for the traditional initiator/controller Magnus. Pick Empower for damage scaling, or RP duration for game-winning crowd control.",
+    "search_text": "Magnus level 25 talent left +10% Empower damage cleave 40 to 50% 65% self carry right click right +0.8s Reverse Polarity stun 3.5 to 4.3 seconds teamfight control",
+    "tags": [
+      "MAGNUS",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25",
+      "EMPOWER_BUFF",
+      "RP_STUN_DURATION"
+    ]
+  }
+]

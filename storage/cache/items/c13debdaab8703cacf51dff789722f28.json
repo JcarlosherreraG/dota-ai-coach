@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Ogre Heart, Cost: 0: Found only as a neutral item drop, providing mana regeneration to enhance spellcasting sustainability. Cannot be purchased from the shop. Stats: HP Regen: 0, Mana Regen: 1.",
+    "search_text": "neutral item, mana regen, regen neutral, mana sustain, spell sustain, mana neutral, tier neutral, ogre heart, mana regeneration, utility neutral, Ogre Heart",
+    "tags": [
+      "ITEM_DATA",
+      "OGRE_HEART",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "MANA_REGEN",
+      "REGEN",
+      "SUSTAIN",
+      "UTILITY"
+    ]
+  }
+]

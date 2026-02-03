@@ -1,0 +1,42 @@
+[
+  {
+    "display_text": "Observer Ward, Cost: 0: Places an invisible Observer Ward that provides 1600 radius ground vision to your team, lasting 6 minutes. Holds a single charge that replenishes over time at the shop. Critical for map control and information. Stats: CD: 1s, Duration: 360s, Vision: 1600, HP: 200.",
+    "search_text": "observer ward, ward, vision item, map control, sentry ward, deward, support item, ward placement, vision control, detect ward, Observer Ward",
+    "tags": [
+      "ITEM_DATA",
+      "OBSERVER_WARD",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "VISION",
+      "MAP_CONTROL",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Observer Ward, Cost: 0: Essential early game consumable for lane safety and rune control. Provides vision to avoid ganks and secure last hits safely. Supports primarily purchase these for team-wide map awareness.",
+    "search_text": "early game ward, laning ward, support ward, vision early game, gank prevention, lane vision, support consumable, Observer Ward",
+    "tags": [
+      "ITEM_DATA",
+      "OBSERVER_WARD",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "LANING",
+      "VISION",
+      "SUPPORT_ITEM",
+      "SAFETY"
+    ]
+  },
+  {
+    "display_text": "Observer Ward, Cost: 0: Use to secure Roshan pit vision, spot enemy rotations through jungle chokepoints, and deward high-ground cliffs for push defense. The single charge mechanic forces strategic placement decisions.",
+    "search_text": "ward placement, roshan ward, deward, high ground ward, chokepoint vision, rotation spotting, strategic vision, map awareness, Observer Ward",
+    "tags": [
+      "ITEM_DATA",
+      "OBSERVER_WARD",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "VISION",
+      "MAP_CONTROL",
+      "STRATEGIC"
+    ]
+  }
+]

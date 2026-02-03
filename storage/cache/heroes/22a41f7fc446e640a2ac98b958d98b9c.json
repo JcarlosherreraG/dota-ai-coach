@@ -1,0 +1,236 @@
+[
+  {
+    "display_text": "Ogre Magi is a melee strength hero with a low base attack time of 1.7 and starting stats of 25 Strength, 14 Agility, and 0 Intelligence. He has one of the highest base Strength values in the game, giving him significant health pool and mana through his passive. Being melee and having no inherent Intelligence requires careful positioning in lane.",
+    "search_text": "Ogre Magi stats melee strength hero attack type 1.7 BAT base Strength 25 Agility 14 Intelligence 0",
+    "tags": [
+      "Ogre Magi",
+      "BASE_STATS",
+      "MELEE",
+      "STRENGTH_HERO"
+    ]
+  },
+  {
+    "display_text": "Facet Choice: 'Fat Chance' provides {s:bonus_strength_mult}% increased Multicast chance per point of Strength. This amplifies your core strength-scaling RNG and is the default choice for a core or scaling build. 'Learning Curve' reduces all spell and talent level requirements by {s:bonus_required_level_reduction} and grants {s:bonus_level_one_ability_points} and {s:bonus_level_two_ability_points} extra ability points at levels 1 and 2, enabling faster Ignite or Fireblast maxing for a powerful, aggressive support role. Choose Learning Curve to dominate the lane.",
+    "search_text": "Ogre Magi Facet Fat Chance Multicast Strength scaling Learning Curve early ability points level requirement reduction",
+    "tags": [
+      "Ogre Magi",
+      "FACET_STRATEGY",
+      "FAT_CHANCE",
+      "LEARNING_CURVE"
+    ]
+  },
+  {
+    "display_text": "In lane, Ogre Magi excels as a support with high base damage and survivability. Use Ignite's 20/30/40/50 damage per second and 25% slow to harass. Secure kills with level 1 Fireblast (70 damage, 1.2s stun). Your high HP and Dumb Luck passive providing mana from Strength allow aggressive trades. Prioritize securing runes and zoning the enemy offlaner with right-clicks and spell combos.",
+    "search_text": "Ogre Magi laning phase support harass Ignite DPS slow Fireblast stun Dumb Luck mana from Strength",
+    "tags": [
+      "Ogre Magi",
+      "LANING_PHASE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 (Multicast chance for double casts). Level 12 (maxed Ignite and Fireblast, plus level 2 Multicast for 30% chance of triple cast). Level 15 talent (+80 Damage) for right-click potential. Level 18 (max Multicast with 15% quadruple cast chance). Level 20 talent (+30 Strength) massively boosts HP, damage, and mana. Aghanim's Scepter timing for Unrefined Fireblast is a major spike. Level 25 talents (+220 Fireblast Damage or 17% Fireblast chance on attack) define late-game dominance.",
+    "search_text": "Ogre Magi power spike level 6 Multicast level 12 triple cast level 15 80 damage talent level 18 quadruple cast level 20 30 Strength talent Aghanim's Scepter level 25 talents",
+    "tags": [
+      "Ogre Magi",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: Break (Silver Edge, Hoodwink's Bushwhack) disables the Multicast passive, removing his core mechanic. Mana Drain (Anti-Mage, Diffusal Blade) is extremely effective as his mana pool scales from Strength and his spells are costly; burning mana cripples him. High-mobility heroes can kite his short cast ranges. Instant disables (Hex, Doom) prevent him from casting his spells and proccing Multicast.",
+    "search_text": "Ogre Magi counters Break Silver Edge Hoodwink Bushwhack disables Multicast Mana Drain Anti-Mage Diffusal Blade kiting instant hex doom",
+    "tags": [
+      "Ogre Magi",
+      "HARD_COUNTERS",
+      "BREAK",
+      "MANA_BURN"
+    ]
+  },
+  {
+    "display_text": "Core Build: 1) Aghanim's Scepter is absolutely essential, providing Unrefined Fireblast (150 + 1.5x Strength damage) with a 6s cooldown and 35% current mana cost, massively increasing burst damage and control. 2) Blink Dagger is critical for initiating with reliable multi-cast stuns. 3) Force Staff or Aether Lens for positioning and cast range. For a right-click core build, items like Manta Style (to dispel) and Monkey King Bar are essential.",
+    "search_text": "Ogre Magi core build Aghanim's Scepter Unrefined Fireblast Blink Dagger initiate Force Staff Aether Lens Manta Style Monkey King Bar",
+    "tags": [
+      "Ogre Magi",
+      "CORE_BUILD",
+      "AGHANIMS_SCEPTER",
+      "BLINK_DAGGER"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Ogre Magi is a frontline disabler and burst damage dealer. Use Blink to initiate with a multi-cast Fireblast/Unrefined Fireblast chain-stun on a key target. Cast Bloodlust (35/50/65/80 attack speed, 6/8/10/12% move speed) on your carry and yourself. Apply Ignite's damage over time and slow to multiple enemies via Multicast. Use Fire Shield to protect key allies and counter-attack. Your job is to create chaos with RNG-based multi-casts and amplify your team's physical damage.",
+    "search_text": "Ogre Magi teamfight role initiator disabler burst damage Fireblast chain stun Bloodlust attack speed move speed Ignite slow Multicast Fire Shield protect",
+    "tags": [
+      "Ogre Magi",
+      "TEAMFIGHT_ROLE",
+      "DISABLER",
+      "BUFF"
+    ]
+  },
+  {
+    "display_text": "Ability: Fireblast (Q). Blasts an enemy unit with a wave of fire, dealing 70/130/190/250 damage and stunning the target for 1.2 seconds. Cooldown is 11/10/9/8 seconds. When Multicast, Fireblast hits the same target each time with a 0.6 seconds interval between hits. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Fireblast Q Ogre Magi ability stun damage 70 130 190 250 cooldown 11 10 9 8 Multicast same target 0.6s interval",
+    "tags": [
+      "Ogre Magi",
+      "ABILITY_DATA",
+      "FIREBLAST",
+      "STUN",
+      "TARGET_UNIT"
+    ]
+  },
+  {
+    "display_text": "Ability: Ignite (W). Drenches the target and another random unit in volatile chemicals, causing it to burst into flames. Deals 20/30/40/50 damage per second and slows movement speed by 25% for 5/6/7/8 seconds. Projectile speed is 1000. Multicast makes this spell have a chance to cast on multiple random enemy units in a 1400 area of effect, with a 0.6s delay between casts. Hitting an already affected unit adds to the burn duration.",
+    "search_text": "Ignite W Ogre Magi ability damage over time slow 25% DPS 20 30 40 50 duration 5 6 7 8 Multicast 1400 AOE random targets 0.6s delay",
+    "tags": [
+      "Ogre Magi",
+      "ABILITY_DATA",
+      "IGNITE",
+      "SLOW",
+      "DOT",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Ability: Bloodlust (E). Incites a frenzy in a friendly unit or tower, increasing movement speed by 6/8/10/12% and attack speed by 35/50/65/80. Lasts 30 seconds. Grants Ogre Magi himself an increased attack speed bonus of 40/60/80/100. Increases model scale by 25%. When multicast, nearby allies in a 700 area of effect are randomly selected to also receive Bloodlust.",
+    "search_text": "Bloodlust E Ogre Magi ability buff attack speed 35 50 65 80 move speed 6 8 10 12% duration 30 self bonus 40 60 80 100 multicast 700 AOE towers",
+    "tags": [
+      "Ogre Magi",
+      "ABILITY_DATA",
+      "BLOODLUST",
+      "BUFF",
+      "ATTACK_SPEED",
+      "MOVE_SPEED"
+    ]
+  },
+  {
+    "display_text": "Ability: Unrefined Fireblast (R with Aghanim's Scepter). Blasts an enemy unit with a wave of fire, dealing 150 base damage plus 1.5 times Ogre Magi's Strength as damage, and stunning the target for 1.2 seconds. Mana cost is 35% of Ogre Magi's current mana. Cooldown is 6 seconds. When Multicast, it hits the same target each time with a 0.6 seconds interval between hits. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Unrefined Fireblast R Scepter Ogre Magi ability damage 150 plus 1.5x Strength stun 1.2s mana cost 35% current mana cooldown 6 Multicast same target 0.6s interval",
+    "tags": [
+      "Ogre Magi",
+      "ABILITY_DATA",
+      "UNREFINED_FIREBLAST",
+      "STUN",
+      "SCEPTER_ABILITY",
+      "STRENGTH_SCALING"
+    ]
+  },
+  {
+    "display_text": "Ability: Fire Shield (R with Aghanim's Shard). Creates a shield around a target ally or tower that absorbs 85% of the damage from the next 3 attacks from enemy heroes. Each time damage is absorbed, a fireball is launched at the attacker, dealing 160 damage. Shield lasts 25 seconds. Fireball projectile speed is 1400. When multicast, nearby allies in a 1000 area of effect are randomly selected to also receive Fire Shield.",
+    "search_text": "Fire Shield R Shard Ogre Magi ability shield absorb 85% damage 3 attacks counter fireball 160 damage multicast 1000 AOE towers",
+    "tags": [
+      "Ogre Magi",
+      "ABILITY_DATA",
+      "FIRE_SHIELD",
+      "SHARD_ABILITY",
+      "DAMAGE_ABSORB",
+      "COUNTER_ATTACK"
+    ]
+  },
+  {
+    "display_text": "Ability: Dumb Luck (Passive). Ogre Magi's maximum Intelligence is set to 0. He gains mana and mana regeneration from his Strength instead. Each point of Strength grants him 6 mana and 0.02 mana regeneration. This passive is what enables his high-strength build to also fuel his spellcasting.",
+    "search_text": "Dumb Luck passive Ogre Magi Intelligence 0 mana from Strength 6 mana per Str 0.02 mana regen per Str",
+    "tags": [
+      "Ogre Magi",
+      "ABILITY_DATA",
+      "DUMB_LUCK",
+      "PASSIVE",
+      "MANA",
+      "STRENGTH_SCALING"
+    ]
+  },
+  {
+    "display_text": "Ability: Multicast (Ultimate). Enables Ogre Magi's targeted abilities and items to have a chance to be cast multiple times with each use. Base chance: 75% for 2x cast, 30% for 3x cast at levels 2 and 3, and an additional 15% for 4x cast at level 3. There is a 0.6s delay between multicast casts. Targeted abilities apply to additional random enemies in an area. Fireblast and Unrefined Fireblast hit the same target multiple times.",
+    "search_text": "Multicast Ultimate Ogre Magi passive chance 75% double 30% triple 15% quadruple 0.6s delay targeted abilities items Fireblast same target",
+    "tags": [
+      "Ogre Magi",
+      "ABILITY_DATA",
+      "MULTICAST",
+      "ULTIMATE",
+      "PASSIVE",
+      "RNG"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When behind, focus on utility and survivability. Build items like Force Staff, Glimmer Cape, and Lotus Orb to save cores and dispel debuffs. Your spells remain relevant; use Bloodlust on your carry and Fire Shield on allies under siege. Avoid risky initiations; use Fireblast defensively to peel for your team. The +30 Strength talent at level 20 is crucial for tankiness.",
+    "search_text": "Ogre Magi scenario behind utility Force Staff Glimmer Cape Lotus Orb save Bloodlust carry Fire Shield defensive peel",
+    "tags": [
+      "Ogre Magi",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus High Magic Resistance/HP Pools. Against heroes like Pudge or Huskar, your magic burst (Fireblast, Ignite) falls off. Prioritize right-click items and the +80 Damage talent at level 15. Build items like Orchid Malevolence/Bloodthorn for silence and crit, and Monkey King Bar for true strike. Your role shifts to a physical damage dealer with Bloodlust self-buff.",
+    "search_text": "Ogre Magi scenario versus high magic resistance HP Pudge Huskar right click 80 damage talent Orchid Bloodthorn Monkey King Bar physical damage",
+    "tags": [
+      "Ogre Magi",
+      "SITUATIONAL",
+      "VS_TANKS",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion Heroes (Chaos Knight, Phantom Lancer). Your single-target lockdown is weak against many targets. Build Aghanim's Shard early for Fire Shield to protect allies and counter-attack illusions. Items like Shiva's Guard for armor and AOE slow, and Mjollnir for chain lightning are effective. Consider the Facet 'Fat Chance' to maximize Multicast chances on your AOE spells like Ignite.",
+    "search_text": "Ogre Magi scenario versus illusions Chaos Knight Phantom Lancer Fire Shield Shard Shiva's Guard Mjollnir AOE Fat Chance Multicast",
+    "tags": [
+      "Ogre Magi",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Scenario: As a Position 3/4 Core. When playing as an offlaner or farming support, prioritize Aghanim's Scepter and Blink Dagger to become an initiator. Follow up with items like Octarine Core (for cooldown reduction on your low-CD stuns) and Refresher Orb for double ultimate casts. Your goal is to lock down key targets with chain stuns from Multicast.",
+    "search_text": "Ogre Magi scenario position 3 4 core offlane Aghanim's Scepter Blink Dagger initiator Octarine Core Refresher Orb chain stun",
+    "tags": [
+      "Ogre Magi",
+      "SITUATIONAL",
+      "CORE_BUILD",
+      "INITIATOR"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Choose between +12 Ignite Damage Per Second or -1s Fireblast Cooldown (also reduces Unrefined Fireblast cooldown). The Ignite DPS talent significantly increases your lane harass and teamfight damage over time, ideal if you are spamming Ignite. The cooldown reduction talent provides more frequent stuns and burst, crucial for control and combo potential. Pick DPS for sustained damage, cooldown for lockdown.",
+    "search_text": "Ogre Magi talent level 10 left 12 Ignite DPS right -1s Fireblast Cooldown Unrefined Fireblast cooldown",
+    "tags": [
+      "Ogre Magi",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10",
+      "IGNITE_DPS",
+      "FIREBLAST_CD"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Choose between +80 Damage or +2/0.01 Dumb Luck Mana/Mana Regen Per Strength. The +80 Damage talent transforms Ogre into a potent right-click threat, especially when combined with Bloodlust self-buff. The Dumb Luck talent enhances mana sustainability, allowing more spell spam; pick this if you are struggling with mana or are a pure caster/support. For core builds, +80 Damage is almost always superior.",
+    "search_text": "Ogre Magi talent level 15 left 80 Damage right 2 mana 0.01 mana regen per Strength Dumb Luck",
+    "tags": [
+      "Ogre Magi",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15",
+      "DAMAGE",
+      "MANA_REGEN"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Choose between +30 Strength or +35 Bloodlust Attack Speed. The +30 Strength talent is massive, providing 570 health, 30 damage, 30 attack speed, and 180 mana (from Dumb Luck). It makes Ogre extremely tanky. The +35 Bloodlust Attack Speed talent increases the buff's value for your team, particularly if you have multiple physical damage cores. In most games, the raw stats from +30 Strength are more impactful for survival and damage.",
+    "search_text": "Ogre Magi talent level 20 left 30 Strength right 35 Bloodlust Attack Speed",
+    "tags": [
+      "Ogre Magi",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20",
+      "STRENGTH",
+      "BLOODLUST_ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Choose between +220 Fireblast Damage or 17% Fireblast chance on attack. The +220 Fireblast Damage talent adds huge burst to your primary nuke, especially dangerous with Multicasts. The 17% Fireblast chance on attack turns Ogre into a machine gun with a chance to proc a stun and damage on each attack, synergizing with high attack speed from Bloodlust and damage items. Choose the on-attack chance for a right-click build, and the raw damage for a caster build.",
+    "search_text": "Ogre Magi talent level 25 left 220 Fireblast Damage right 17% Fireblast chance on attack",
+    "tags": [
+      "Ogre Magi",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25",
+      "FIREBLAST_DAMAGE",
+      "ON_ATTACK_EFFECT"
+    ]
+  }
+]

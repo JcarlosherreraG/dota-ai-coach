@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Witchbane, Cost: 0: Neutral item providing +20 Attack Speed. Active ability 'Cleanse' applies a basic dispel to any target unit, removing most debuffs. Passive 'Subjugate' causes attacks to deal additional damage equal to 4% of the target's maximum mana pool. Stats: CD: 20s, Mana Cost: 75, Radius: 300.",
+    "search_text": "neutral item dispel, basic dispel item, cleanse active, purge effect, remove debuffs, mana burn damage, mana based damage, attack speed neutral, utility neutral, magic defense, damage boost, Witchbane",
+    "tags": [
+      "ITEM_DATA",
+      "WITCHBANE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "DISPEL",
+      "CLEANSE",
+      "VS_CONTROL",
+      "UTILITY",
+      "DAMAGE",
+      "ATTACK_SPEED"
+    ]
+  }
+]

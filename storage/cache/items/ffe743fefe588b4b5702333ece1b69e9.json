@@ -1,0 +1,57 @@
+[
+  {
+    "display_text": "Platemail, Cost: 1400: Purchased from the Secret Shop. Provides +10 bonus Armor, offering a significant boost to physical damage resistance for a single component item. Useful for heroes looking to increase survivability against right-click carries or to build into high-tier defensive items. Stats: Armor: +10.",
+    "search_text": "armor item, physical defense, physical resistance, plate mail, secret shop item, defensive component, tank item, armor boost, armor stat, physical damage reduction, armor component, Platemail",
+    "tags": [
+      "ITEM_DATA",
+      "PLATEMAIL",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ARMOR",
+      "VS_PHYSICAL",
+      "DEFENSIVE",
+      "SECRET_SHOP"
+    ]
+  },
+  {
+    "display_text": "Platemail, Cost: 1400: A core defensive component for survivability-focused heroes. Its raw +10 armor makes it a cost-effective way to dramatically increase Effective HP (EHP) against physical damage. It builds into several high-value late-game items like Assault Cuirass and Shiva's Guard.",
+    "search_text": "armor component item, high armor, build component, tank build, defensive build, physical survivability, physical tank, EHP increase, armor value, Platemail",
+    "tags": [
+      "ITEM_DATA",
+      "PLATEMAIL",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "ARMOR",
+      "DEFENSIVE",
+      "UPGRADE",
+      "COMPONENT"
+    ]
+  },
+  {
+    "display_text": "Platemail, Cost: 1400: Excels in team fights against lineups heavy on physical and attack damage. Provides the highest single-component armor value, making it a strong defensive spike for front-line heroes who need to absorb damage. Particularly effective for Strength heroes to amplify their high HP pool with armor.",
+    "search_text": "team fight armor, physical lineup counter, carry counter item, front line item, tanky item, damage soak, physical damage team fight, Platemail",
+    "tags": [
+      "ITEM_DATA",
+      "PLATEMAIL",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "ARMOR",
+      "VS_PHYSICAL",
+      "DEFENSIVE",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Platemail, Cost: 1400: Situational pickup against lineups dominated by right-click cores (e.g., Drow Ranger, Terrorblade) or against heroes who build Desolator. Counteracts armor reduction and burst physical damage, allowing squishier supports to survive longer when facing heavy physical threats.",
+    "search_text": "vs physical damage item, anti-carry armor, desolator counter, armor reduction counter, right click counter, physical burst defense, Platemail",
+    "tags": [
+      "ITEM_DATA",
+      "PLATEMAIL",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "ARMOR",
+      "VS_PHYSICAL",
+      "DEFENSIVE"
+    ]
+  }
+]

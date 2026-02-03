@@ -1,4 +1,4 @@
-// Package transport предоставляет HTTP сервер для приёма данных от Dota 2 GSI.
+// Package transport provides an HTTP server to receive data from Dota 2 GSI.
 package transport
 
 import (
@@ -9,12 +9,13 @@ import (
 	"net/http"
 )
 
-// gsiHandler обрабатывает входящие GSI запросы от Dota 2.
+// gsiHandler processes incoming GSI requests from Dota 2.
 type gsiHandler struct {
 	parser     *dota.Parser
 	stateStore *state.Store
 }
 
+// NewGSIHandler creates a new GSI HTTP handler.
 func NewGSIHandler(p *dota.Parser, sm *state.Store) http.Handler {
 	return &gsiHandler{
 		parser:     p,
@@ -23,6 +24,7 @@ func NewGSIHandler(p *dota.Parser, sm *state.Store) http.Handler {
 }
 
 func (h *gsiHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
+	// Read request body
 	body, err := io.ReadAll(r.Body)
 	if err != nil {
 		log.Printf("ERROR: failed to read request body: %v", err)
@@ -35,16 +37,22 @@ func (h *gsiHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 			log.Printf("WARN: failed to close request body: %v", err)
 		}
 	}(r.Body)
+
+	// Handle empty body
 	if len(body) == 0 {
 		w.WriteHeader(http.StatusOK)
 		return
 	}
+
+	// Parse game state
 	gameState, err := h.parser.Parse(body)
 	if err != nil {
 		log.Printf("ERROR: failed to parse game state: %v", err)
 		http.Error(w, "Could not parse game state", http.StatusBadRequest)
 		return
 	}
+
+	// Update state store
 	h.stateStore.Update(gameState)
 
 	w.WriteHeader(http.StatusOK)

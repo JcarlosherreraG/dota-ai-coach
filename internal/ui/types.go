@@ -1,4 +1,4 @@
-// Package ui предоставляет оверлей для отображения AI советов и ввода команд.
+// Package ui provides an overlay for displaying AI hints and entering commands.
 package ui
 
 import (
@@ -6,16 +6,16 @@ import (
 	"sync"
 )
 
-// FieldType тип активного поля ввода.
+// FieldType type of active field
 type FieldType int
 
 const (
-	FieldNone    FieldType = iota // Нет активного поля
-	FieldPrompt                   // Поле для ввода вопроса
-	FieldContext                  // Поле для ввода контекста
+	FieldNone    FieldType = iota // No active field
+	FieldPrompt                   // Input field for question
+	FieldContext                  // Input field for context
 )
 
-// Overlay прозрачный оверлей поверх игры на базе Raylib.
+// Overlay transparent overlay on top of the Raylib-based game.
 type Overlay struct {
 	hotkeyTurnOverlay  int
 	hotkeyFocusOverlay int
@@ -50,70 +50,70 @@ func NewOverlay(turnHotkey int, focusHotkey int, userPromptChan chan string) *Ov
 	}
 }
 
-// SetAiAdvice обновляет текст AI совета.
+// SetAiAdvice updates the AI board text.
 func (o *Overlay) SetAiAdvice(a string) {
 	o.mu.Lock()
 	defer o.mu.Unlock()
 	o.aiAdvice = a
 }
 
-// ToggleVisible переключает видимость оверлея.
+// ToggleVisible switches overlay visibility.
 func (o *Overlay) ToggleVisible() {
 	o.mu.Lock()
 	defer o.mu.Unlock()
 	o.visible = !o.visible
 }
 
-// ToggleFocus переключает режим фокуса (для ввода текста).
+// ToggleFocus switches focus mode (for text input).
 func (o *Overlay) ToggleFocus() {
 	o.mu.Lock()
 	defer o.mu.Unlock()
 	o.focused = !o.focused
 }
 
-// SetFocused устанавливает режим фокуса.
+// SetFocused sets the focus mode.
 func (o *Overlay) SetFocused(b bool) {
 	o.mu.Lock()
 	defer o.mu.Unlock()
 	o.focused = b
 }
 
-// GetContextText возвращает текст игрового контекста введённый пользователем.
+// GetContextText returns the text of the game context entered by the user.
 func (o *Overlay) GetContextText() string {
 	o.mu.RLock()
 	defer o.mu.RUnlock()
 	return o.gameContext
 }
 
-// GetShouldClose возвращает флаг необходимости закрытия оверлея.
+// GetShouldClose returns the flag to close the overlay.
 func (o *Overlay) GetShouldClose() bool {
 	o.mu.RLock()
 	defer o.mu.RUnlock()
 	return o.shouldClose
 }
 
-// GetFocused возвращает текущий режим фокуса.
+// GetFocused returns the current focus mode.
 func (o *Overlay) GetFocused() bool {
 	o.mu.RLock()
 	defer o.mu.RUnlock()
 	return o.focused
 }
 
-// GetVisible возвращает текущее состояние видимости.
+// GetVisible returns the current visibility state.
 func (o *Overlay) GetVisible() bool {
 	o.mu.RLock()
 	defer o.mu.RUnlock()
 	return o.visible
 }
 
-// GetActiveField возвращает активное поле ввода.
+// GetActiveField returns the active input field.
 func (o *Overlay) GetActiveField() FieldType {
 	o.mu.RLock()
 	defer o.mu.RUnlock()
 	return o.activeField
 }
 
-// Quit сигнализирует о необходимости закрытия оверлея.
+// Quit signals the need to close the overlay.
 func (o *Overlay) Quit() {
 	o.mu.Lock()
 	defer o.mu.Unlock()

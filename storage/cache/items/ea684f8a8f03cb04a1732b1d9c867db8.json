@@ -1,0 +1,30 @@
+[
+  {
+    "display_text": "Faerie Fire, Cost: 65: Instantly restores 85 health on use. Comes with a single charge and a 5-second cooldown. An instant, no-target consumable usable only on the purchaser or their allied heroes. Also provides a temporary +2 damage boost. Stats: CD: 5s, Heal: 85 HP, Damage Bonus: +2, Charges: 1.",
+    "search_text": "instant heal, burst heal, small heal, instant health, heal consumable, emergency heal, faerie fire, early game heal, immediate heal, lane sustain, hp restore, quick heal, early game item, cheap heal, combat heal, 85 health, faerie",
+    "tags": [
+      "ITEM_DATA",
+      "FAERIE_FIRE",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "HEALTH",
+      "SUSTAIN",
+      "INSTANT_CAST",
+      "NO_TARGET"
+    ]
+  },
+  {
+    "display_text": "Faerie Fire, Cost: 65: Provides critical early-game lane sustain. The instant, uncancellable heal can turn a trade or save you from a last tick of damage, making it essential for surviving aggressive harassment or baiting kills. Its fast cooldown allows for strategic reuse in drawn-out lane skirmishes. Stats: CD: 5s, Heal: 85 HP.",
+    "search_text": "early game sustain, lane sustain, early game item, trade sustain, quick heal lane, anti-harass, bait heal, cheap sustain, starting item, quick heal, 65 gold, lane survival, Faerie Fire",
+    "tags": [
+      "ITEM_DATA",
+      "FAERIE_FIRE",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "LANING",
+      "SUSTAIN",
+      "TRADING",
+      "STARTING_ITEM"
+    ]
+  }
+]

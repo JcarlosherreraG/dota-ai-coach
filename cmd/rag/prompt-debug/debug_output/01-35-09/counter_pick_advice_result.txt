@@ -1,0 +1,252 @@
+FILE: counter_pick_advice.json
+QUESTION: Как мне помочь против Broodmother? Какой предмет собрать?
+GENERATION TIME: 1.89s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: STRATEGY, Broodmother, TEAMFIGHT] | Broodmother Teamfight: Initiate with Sticky Snare, focus squishy targets with Insatiable Hunger, and use Spiderlings to overwhelm enemies.
+---
+[TAGS: Ability, Debuff, AoE] | Intimidate: Reduces nearby enemies' total attack damage, making it effective against physical-heavy lineups. Stats: Radius: 300/350/400/500, Total Attack Damage Reduction: 60%, Duration: 4, Cooldown: 16, Mana Cost: 50
+---
+[TAGS: ITEM_DATA, RECIPE_BLACK_KING_BAR, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Black King Bar Recipe. Cost: 1450: Component required to assemble Black King Bar. Does not provide stats or abilities.
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, PASSIVE, ILLUSION, DEATH_EFFECT] | Shadow of Vengeance CORE_MECHANICS: Upon death, spawn a strong illusion that deals 100% damage, takes 150% damage, and can cast all basic spells for 30 seconds. The illusion persists after your death, acting as a final source of damage or utility. Stats: Cost: 0 gold, +500 Health, +20% Damage Return.
+---
+[TAGS: DROW_RANGER, ABILITY_DATA, MULTISHOT, CHANNELED, PIERCES_BKB_DAMAGE_ONLY] | Multishot is a channeled ability costing no mana, with a 24/21/18/15 second cooldown. Drow channels for up to 1.75 seconds, releasing 3 waves of 4 arrows each. Each arrow deals 100%/120%/140%/160% of her attack damage, has 90 width, travels at 1300 speed, and has a range multiplier of 1.75. Arrows bypass damage block. Frost Arrows' effects are applied. Arrow base damage pierces magic immunity, but Frost Arrows' damage and slow do not.
+---
+[TAGS: Keeper of the Light, ABILITY_DATA, Blinding Light, Knockback, Miss Chance] | Blinding Light (W) knocks enemies back 400 units over 0.6 seconds within a 425/450/475/500 radius and applies a 45% miss chance for 4 seconds. Deals 90/140/190/240 damage. Cooldown is 24/21/18/15 seconds.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, MIDGAME] | Spirit Vessel Recipe LANING_PHASE: Not a laning item. Purchased after core components (Urn of Shadows, Crown) to upgrade into Spirit Vessel, typically after securing early kills/assists. Stats: Cost: 900 gold.
+---
+[TAGS: MEDUSA, SITUATIONAL, FARM_SPEED, SPLIT_SHOT, MAELSTROM, MASK_OF_MADNESS] | Scenario: Need to Accelerate Farm. Medusa farms slowly without items. Use Mystic Snake to secure lane creeps from a distance. Use Split Shot to farm jungle camps and ancient stacks. Early game items like Mask of Madness (if not using Mana Pact facet) or Maelstrom can significantly increase farm speed. Take the +8% Split Shot damage talent at level 15.
+---
+[TAGS: ITEM_DATA, SPIRIT_VESSEL, SYNERGY_BUILD, FULL_ITEM, SUPPORT_ITEM, UTILITY] | Spirit Vessel, Cost: 2725: Ideal for support heroes who can stay near fights to gain charges and consistently apply the debuff. Heroes who benefit from the all-around stats and can leverage both the offensive and defensive aspects of the active excel with it. It synergizes well with lineups that need to burst down durable enemies or sustain through prolonged engagements.
+---
+[TAGS: Ability, Damage, AoE] | Cleave Bonus (15%): Small cleave for supplementary area damage. Stats: Cleave: +15%
+---
+[TAGS: ITEM_DATA, SHADOW_OF_VENGEANCE, CORE_DESCRIPTION, NEUTRAL, EVENT_ITEM, ILLUSION, DEATH_EFFECT, DAMAGE_RETURN, PASSIVE, DEFENSIVE] | Shadow of Vengeance. Cost: 0 (Neutral / Event): A unique non-purchasable item. Upon death, you spawn a powerful illusion that deals 100% damage and takes 150% damage for 30 seconds. The illusion can cast all basic spells, acting as a persistent threat after your hero falls. Stats: Illusion Duration: 30s, Outgoing Damage: 100%, Incoming Damage: 150%.
+---
+[TAGS: Ability, Broodmother, Slow, Miss Chance] | Incapacitating Bite Slow/Miss Chance: Increases the slow and miss chance of Broodmother's Incapacitating Bite, making it harder for enemies to escape or land attacks.
+---
+[TAGS: ITEM_DATA, SPECIALISTS_ARRAY, TEAMFIGHT_ROLE, FULL_ITEM, AOE_DAMAGE, FARMING, WAVECLEAR, PHYSICAL_DAMAGE] | Specialist's Array, Cost: 2650: Functions as a teamfight and push accelerator by adding multi-target physical damage to ranged attacks. The 120-degree cone helps clear waves and damage clumped heroes, though secondary hits deal reduced damage and lack on-hit effects. This provides superior sustained area damage compared to single-target items. Stats: Secondary Damage: 75%, Secondary Angle: 120°, Proc Chance: 25%.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, SYNERGIES] | Spirit Vessel Recipe TEAMFIGHT_ROLE: Enables upgrade to Spirit Vessel, providing crucial anti-heal for teamfights. Purchase timing critical to have active before major engagements. Stats: Cost: 900 gold.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, DEBUFF, SUSTAIN, UTILITY] | Spirit Vessel CORE_MECHANICS: Active ability debuffs enemies or heals allies. On enemies, deals damage over time based on a percentage of current health and reduces their healing effectiveness. On allies, provides health regeneration. Charges are gained from nearby hero deaths. Stats: Cost: 2725 gold, +10 All Attributes, +2 Armor, +1.75 Mana Regeneration. Active: Soul Release (8s duration, 10s cooldown). Enemy Debuff: 4% current HP drain per second, 25 damage per second, reduces Health Restoration and incoming heals by 70%. Ally Buff: 40 health regen per second. Soul Radius: 1500, Initial Charges: 2, Additional Charge per hero death: 1.
+---
+[TAGS: Ability, AoE, Crowd Control] | Roshan Halloween Toss: A unit-targeting AoE ability that deals bonus damage and displaces enemies. Stats: Duration: 1, Grab Radius: 300, Radius: 275, Bonus Damage Percent: 20%, Grow Bonus Damage Percent: 35%, Toss Damage: 500.
+---
+[TAGS: Ability, No Target, AoE] | Congregations of the Deep: Releases tentacles in all directions, damaging and stunning multiple enemies for area control. Stats: Damage: 250-325, Stun Duration: 1.4s, Range: 300, Speed: 725, Projectile Count: 6.
+---
+[TAGS: Ability, Summon, Illusion] | Dark Portrait: Summons an illusion of an enemy hero. Tactical purpose: Disruption and damage amplification. Stats: Illusion duration: 25, Illusion damage: 125%, Illusion damage taken: 275%, Movespeed bonus: 30%.
+---
+[TAGS: MIRANA, SITUATIONAL, FROM_BEHIND] | Situation: Playing from Behind. When your team is losing, shift to a split-pushing and pick-off role. Use Moonlight Shadow defensively to avoid fights and create space. Farm with Starstorm and Maelstrom to clear waves safely. Look for long-range Sacred Arrows on enemies who are out of position to secure comeback kills.
+---
+[TAGS: MIRANA, POWER_SPIKES] | Power Spikes: Level 6 provides team-wide invisibility for ganks and saves. Level 12 with a key item like Dragon Lance or Maelstrom significantly increases your farming and fighting potential. Level 18 gives a stronger ultimate. The Level 20 talent (+35 Base Damage) is a massive damage spike. Level 25 talents are game-changing: Multishot Arrows for area control or a drastically reduced Moonlight Shadow cooldown for constant map pressure. Aghanim's Scepter is a major timing, allowing Sacred Arrow to proc Starstorm.
+---
+[TAGS: Ability, Area of Effect] | Eyes and Overgrowth AoE Increase: Expands the area of effect for vision and crowd control abilities.
+---
+[TAGS: ITEM_DATA, DAGON, FULL_ITEM, SITUATIONAL_VS_ILLUSIONS, VS_ILLUSIONS, VS_SUMMONS, COUNTER_ITEM] | Dagon (Level 5), Cost: 6250: Situational vs high-HP illusion heroes (Phantom Lancer, Chaos Knight) as it instantly destroys illusions while dealing significant main-target damage. The heal also provides counter-sustain against chip damage in prolonged fights.
+---
+[TAGS: ITEM_DATA, SYNERGIES, ILLUSION_SYNERGY, SCALING] | Riftshadow Prism SYNERGIES: Synergizes with heroes who have skills that benefit from or buff illusions. Can be used in combination with other illusion-creating items or abilities to overwhelm with numbers or create confusion. The health cost scales, so it pairs well with high-strength or HP regeneration builds. Stats: Health Cost: 10% current HP.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, WEAK_TO_AOE, ILLUSION_VULNERABLE] | Manta Style HARD_COUNTERS: Countered by abilities and items that quickly clear illusions or apply area-of-effect damage, such as Battle Fury, Maelstrom, and Shiva's Guard. The dispel is ineffective against hard disables like stuns (unless dodged) and most ultimate abilities. Illusions die quickly to magical burst damage. Stats: Illusions take 300% damage, Duration: 18 seconds.
+---
+[TAGS: STRATEGY, Broodmother, FACETS] | Broodmother Facet Strategy: Necrotic Webs reduces enemy health restoration on webs, making it ideal for early aggression. Feeding Frenzy enhances Insatiable Hunger for Spiderlings, preferred for pushing and teamfights.
+---
+[TAGS: STRATEGY, Broodmother, ITEM_BUILD, SITUATIONAL] | Broodmother Situational: Buy Shiva's Guard vs physical damage dealers or Linken's Sphere vs single-target spells. Consider Manta Style for dispelling silences.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DEFENSE, WAVE_CLEAR] | The Leveller HARD_COUNTERS: The item's effect is countered by teams that can defend structures effectively with wave clear, high-ground defense, or by winning fights decisively to prevent the enemy team from ever reaching buildings. The item itself offers no stats to help win those fights. Stats: No combat bonuses.
+---
+[TAGS: Ability, Area of Effect, Crowd Control] | Vacuum AoE: Expands the area of effect of Vacuum, improving its utility in team fights and crowd control.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPEL, VS_BKB] | Spirit Vessel HARD_COUNTERS: The debuff is dispellable by basic dispels (e.g., Eul's Scepter, Manta Style). The allied heal buff is removed if the ally is attacked by an enemy hero or Roshan. The debuff does not pierce spell immunity (BKB). The item provides limited personal survivability stats. Stats: Debuff dispellable by Basic Dispel.
+---
+[TAGS: Ability, Damage, AoE] | Cleave Bonus (100%): Transforms attacks into area damage for wave clear. Stats: Cleave: +100%
+---
+[TAGS: ITEM_DATA, DAGON_2, SITUATIONAL_VS_ILLUSIONS, FULL_ITEM, VS_ILLUSIONS, VS_SUMMONS, MAGICAL_DAMAGE] | Dagon 2, Cost: 3950: Counters illusion-based heroes by instantly killing their illusions. The magical burst damage is effective against targets with low magic resistance. It's a situational upgrade for heroes who build Dagon for burst, requiring careful positioning to land the single-target nuke. Stats: Illusion Instant Kill.
+---
+[TAGS: STRATEGY, Broodmother, ITEM_BUILD, CORE] | Broodmother Core Build: Orchid Malevolence for silencing key targets and Black King Bar for spell immunity.
+---
+[TAGS: Ability, Damage, Wave Clear] | Crypt Swarm: High-damage nuke ability for wave clearing and harassing enemies in lane. Stats: Damage: 100/175/250/325, Start radius: 110, End radius: 300, Cast range: 900, Speed: 1100
+---
+[TAGS: Ability, Area Control, Disable, Freezing] | Chronosphere: A tactical freezing ability that stops time in an area, disabling enemies. Stats: Radius: 425-675, Duration: 4/4.5/5, Vision Radius: 475, Cooldown: 130, Mana Cost: 150
+---
+[TAGS: ITEM_DATA, CORE_BUILD, UPGRADE] | Spirit Vessel Recipe CORE_BUILD: Builds into Spirit Vessel alongside Urn of Shadows and Crown. Recipe cost is a pure investment for the upgraded item's power spike. Stats: Cost: 900 gold.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: ITEM_DATA, DAGON, SITUATIONAL_VS_ILLUSIONS, FULL_ITEM, VS_ILLUSIONS, ANTI_ILLUSION, COUNTER_ITEM, ILLUSION_CLEAR] | Dagon (Level 5), Cost: 7400: High-priority situational item against illusion-based heroes like Chaos Knight or Phantom Lancer, as its active instantly destroys illusions. It also counters heroes reliant on low-health escapes, providing a reliable burst to finish them off.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, ILLUSION, DISPEL, SURVIVABILITY] | Manta Style CORE_MECHANICS: Creates 2 illusions of your hero that last 18 seconds. Melee illusions deal 33% damage, Ranged illusions deal 28%. Illusions take 300% damage. Used to dodge projectiles, disjoint spells, and purge many negative debuffs via its Basic Dispel. Stats: Cost: 4650 gold, +10 Strength, +26 Agility, +10 Intelligence, +15 Attack Speed, +10% Movement Speed, Active Ability: Mirror Image, Cast Time: 0.1 seconds (invulnerable).
+---
+[TAGS: Abilities, Buff, Area Effect] | Special Bonus Unique Antimage (Mana Void Radius): Expands area control by increasing Mana Void radius. Stats: Mana Void Radius Increase: [VALUE]
+---
+[TAGS: Ability, Area Control, Enigma] | Midnight Pulse Radius: Enhances area denial and battle control by increasing the radius of Midnight Pulse. Stats: Radius: 200
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Elusive HARD_COUNTERS: The evasion is countered by items and abilities providing True Strike (e.g., Monkey King Bar, Bloodthorn, certain hero spells), which completely negate its defensive benefit.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, DEBUFF_AMPLIFICATION, ILLUSION, UTILITY] | Wizard Glass CORE_MECHANICS: Creates two illusions of an enemy that take 125% damage and deal 10% damage. The illusions apply a 10% debuff amplification aura to all nearby enemy units, weakening them to further spell damage. Stats: Cost: 0 gold, Damage: 125, Radius: 700, Count: 2, Debuff Amplification: 10%, Cooldown Reduction: 8%, Cooldown: 15 seconds.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, SITUATIONAL_VS_EVASION, VS_EVASION] | Maelstrom, Cost: 2950: Situational vs Evasion: The Chain Lightning magical damage proc pierces evasion, making it a soft counter to heroes relying on miss chance. While it doesn't grant True Strike for regular attacks, its guaranteed magical damage application helps mitigate evasion's effectiveness. Stats: Damage pierces evasion.
+---
+[TAGS: PANGOLIER, CORE_BUILD, DIFFUSAL_BLADE, MAELSTROM, SYNERGY] | Core items for Pangolier are Diffusal Blade and Maelstrom. Diffusal Blade's mana burn and slow are applied by each slash of Swashbuckle, massively amplifying its damage and utility. Maelstrom (and later Mjollnir) causes chain lightning procs on each Swashbuckle slash, providing immense wave clear and magical damage in fights. These items synergize perfectly with his kit.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, EARLY_GAME, SUSTAIN] | Tiara of Selemene LANING_PHASE: Purchasable as a first major regen item, typically after basic boots and initial stats, aiming for a ~5-8 minute timing. It solves early mana issues, allowing for more aggressive spell usage to harass, secure last hits, or spam wave-clearing abilities to accelerate farm. Stats: Cost: 1700 gold.
+---
+[TAGS: Ability, AOE, Damage, Shield] | Ion Shell: Surrounds a unit with a damaging shield. Stats: Radius: 275, Damage Per Second: 30/50/70/90, Duration: 20/22/24/26s, Cast Range: 800, Mana Cost: 100/110/120/130
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_GROUPED, AOE] | Specialist's Array VS_GROUPED: Highly effective against teams that group tightly, as the extra projectiles can splash damage onto multiple heroes or creeps. It provides built-in physical area damage without requiring a separate cleave or splash item, punishing poor positioning in engagements. Stats: Proc Chance: 25%, Secondary Projectiles: 2, Secondary Target Angle: 120°.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, STAT_PROFILE, FULL_ITEM, HEALTH, DAMAGE, STRENGTH, SURVIVAL] | Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: Ability, Broodmother, Lifesteal, Survivability] | Insatiable Hunger Lifesteal: Augments Broodmother's lifesteal during Insatiable Hunger, enhancing her survivability and sustain in prolonged fights.
+---
+[TAGS: Keeper of the Light, SITUATIONAL, Behind, Defense] | When playing from behind, focus on using Illuminate and Blinding Light defensively to clear waves and protect high ground. Use Chakra Magic on your strongest surviving core to maximize their spell uptime. Build cheaper utility items like Glimmer Cape to save allies.
+---
+[TAGS: Ability, Crowd Control] | Overwhelming Odds Radius: Increases area of effect for better crowd control. Stats: Radius increase.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, UPGRADE] | Spirit Vessel CORE_BUILD: Upgrades from Urn of Shadows, adding Diadem for stats. Synergizes with heroes who can secure early kills to stack charges (e.g., Spirit Breaker, Night Stalker). The charges are shared, so only one per team should carry it. Stats: Components: Urn of Shadows, Diadem.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, CORE_ITEM] | Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, STAT_PROFILE, DAMAGE, ATTACK_SPEED, DPS] | Maelstrom, Cost: 2950: Provides +25 bonus damage and +25 attack speed. A moderate offensive stat boost that enhances right-click damage output and the frequency of Chain Lightning procs. Its value is amplified by high natural attack speed. Stats: Damage: +25, Attack Speed: +25.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, TEAMFIGHT_ROLE, AOE_DAMAGE, MULTI_TARGET, VS_ILLUSIONS] | Maelstrom, Cost: 2950: Provides significant wave clear and AoE damage contribution in team fights from its Chain Lightning proc. While not a burst initiation tool, it adds substantial magic DPS over a fight, particularly effective against grouped enemies. Lightning proc applies its full damage to illusions.
+---
+[TAGS: STRATEGY, Broodmother, TIMING] | Broodmother Power Spike: Peaks at Level 6 with Insatiable Hunger and when acquiring Orchid Malevolence or Black King Bar for mid-game dominance.
+---
+[TAGS: Ability, Area of Effect] | 75 Spell AoE: Increases the radius of area spells for superior battlefield coverage. Stats: Radius Increase: 75
+---
+[TAGS: Ability, AoE, Magical Damage] | Roshan Halloween Burn: A high-speed AoE ability with rotating projectiles for area control. Stats: Radius: 200, Speed: 1000, Damage: 1000, Rotation Angle: 90, Projectile Count: 20.
+---
+[TAGS: STRATEGY, Broodmother, WEAKNESS] | Broodmother Weakness: Vulnerable to Break effects, Silence, and heroes with strong AoE damage to clear Spiderlings.
+---
+[TAGS: Broodmother, Ability, Damage] | Incapacitating Bite Attack Bonus: Increases Broodmother's attack damage with Incapacitating Bite, enhancing her dueling potential. Stats: Attack Bonus: +X
+---
+[TAGS: BROODMOTHER, SITUATIONAL, COUNTER_WARDING, VISION] | Scenario: Enemy has Gem of True Sight or Sentry Wards. Your web mobility and Spinner's Snare traps are neutralized. Solution: Do not fight in areas without vision control. Carry your own Dust of Appearance or Sentry Wards to de-ward. Consider buying a Smoke of Deceit to move through enemy vision. Itemize for direct combat (BKB, Satanic) rather than pick-offs.
+---
+[TAGS: Ability, Area of Effect, Slow] | Stroke of Fate: A curved path ability that damages and slows enemies, with increased damage per hit. Tactical purpose: Area denial and teamfight damage scaling. Stats: Base damage: 100/160/220/280, Bonus damage per hero: 20/40/60/80, Bonus damage per creep/illusion: 10/20/30/40, Slow: 50%/60%/70%/80%, Slow duration: 1.75.
+---
+[TAGS: Ability, AOE, Debuff] | Desecrate: Armor-reducing AOE nuke for teamfight initiation. Stats: Damage: 200, Radius: 300, Duration: 6s, Armor Reduction: 50%
+---
+[TAGS: BEASTMASTER, SITUATIONAL, VS_MAGIC_BURST] | Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, SYNERGY_BUILD, CARRY_ITEM, UPGRADE] | Maelstrom, Cost: 2950: Synergizes with heroes who build attack speed, as it increases the frequency of Chain Lightning procs. Strong on ranged agility carries and universal heroes who can apply the effect safely. Upgrades into Mjollnir and Gleipnir, providing a core damage path.
+---
+[TAGS: ITEM_DATA, SPIRIT_VESSEL, STAT_PROFILE, FULL_ITEM, ALL_STATS, ARMOR, MANA_REGEN, DEFENSIVE] | Spirit Vessel, Cost: 2725: Provides +10 to all attributes, +2 armor, and +1.75 mana regeneration. Balanced stats offer defensive and mana sustainability. No bonus health directly from item. Stats: All Stats: +10, Armor: +2, Mana Regen: +1.75.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_HEALING, COUNTER_PICK, DEBUFF] | Spirit Vessel SITUATIONAL_VS_HEALING: Core counter-pick item against heroes and items reliant on HP regeneration or healing spells (e.g., Heart of Tarrasque, Holy Locket, Chen). The 70% reduction to both health restoration and incoming heals drastically reduces their effective durability. The percentage HP drain punishes high HP pools.
+---
+[TAGS: ITEM_DATA, RIFTSHADOW_PRISM, CORE_DESCRIPTION, NEUTRAL, TIER_5, ILLUSION, SUMMON, UTILITY, PUSHER_ITEM, DECOY] | Riftshadow Prism, Tier 5: Neutral item creating a full health illusion at the cost of 10% of your current HP. The illusion deals 50% outgoing damage and takes 240% incoming damage, lasting 20 seconds. Used to create decoys, tank damage, or push lanes. Stats: CD: 30s, Duration: 20s, Health Cost: 10% Current HP.
+---
+[TAGS: Ability, Area of Effect] | 50 Spell AoE: Enhances area-of-effect abilities for better crowd control and farming efficiency. Stats: Radius Increase: 50
+---
+[TAGS: ITEM_DATA, SPIRIT_VESSEL, CORE_MECHANICS, FULL_ITEM, HEAL_REDUCTION, ANTI_HEAL, VS_HEALERS, REGEN, SUSTAIN, DEBUFF, SUPPORT_ITEM, UTILITY] | Spirit Vessel, Cost: 2725: Active ability 'Soul Release' targets an enemy hero to drain 4% of their current health per second and reduce their healing and regeneration by 70% for 8 seconds, dealing 25 damage per second. Targets an allied hero to provide 40 health regeneration per second for 8 seconds. Gains charges when an enemy hero dies nearby or the user dies. Critical for amplifying damage against high-health targets and countering healing. Stats: CD: 10s, Duration: 8s, Charges Gain Radius: 1500.
+---
+[TAGS: ITEM_DATA, MAELSTROM, CORE_MECHANICS, FULL_ITEM, FARMING, WAVECLEAR, MAGICAL_DAMAGE, AOE_DAMAGE, ATTACK_MODIFIER, MULTI_TARGET] | Maelstrom, Cost: 2950: Attack modifier that grants a 25% chance on attack to release Chain Lightning, dealing 110 magical damage to up to 4 targets within a 650 radius. Lightning procs pierce evasion. Effective for heroes who can apply rapid attacks to multiple targets for farming and team fight damage. Stats: Chance: 25%, Damage: 110, Targets: 4, Cooldown: 0.2s.
+---
+[TAGS: ITEM_DATA, MIRROR_SHIELD, CORE_DESCRIPTION, NEUTRAL, TIER_3, DEFENSIVE, VS_MAGIC, MAGIC_DEFENSE, SPELL_BLOCK, REFLECT] | Mirror Shield, Cost: 0: Tier 3 neutral item with a passive Echo Shield effect. Blocks and reflects 75% of most targeted spells back to their caster once every 12 seconds. Provides no attribute bonuses. Stats: Block/Reflect CD: 12s, Reflect Chance: 75%.
+---
+[TAGS: Keeper of the Light, ABILITY_DATA, Will-O-Wisp, Ultimate, Aghanim Scepter, Pull, Area Control] | Will-O-Wisp (R) is Keeper's ultimate with Aghanim's Scepter. Summons a wisp that alternates on (1.0s) and off (1.85s) for 7 cycles, pulling enemies within 725 radius towards it. The wisp pulses 5 times when 'on', dealing 85 damage each pulse. It provides True Sight. Grants a fixed 60 movement speed and 100 gold bounty if killed.
+---
+[TAGS: Ability, Channeled, AOE, Damage] | Freezing Field: Channels massive area damage and slows enemies. Stats: Radius: 810, Explosion Radius: 320, Movement Slow: 40%, Attack Slow: 80/120/160, Slow Duration: 1s, Damage: 110/180/250, Mana Cost: 200/400/600
+---
+[TAGS: KUNKKA, SITUATIONAL, WAVE_CLEAR] | Scenario: When your team needs wave clear. Push with Tidebringer: Max Tidebringer early. Use its cleave to quickly kill creep waves from a safe distance (1025 at level 4). Build Battle Fury to further enhance cleave and farm speed, though it is situational.
+
+=== GAME STATE ===
+Match Time: 10:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: shadow_shaman (Lvl 6) | HP: 700/900 | Mana: 400/700 | Alive: true
+Stats: K/D/A 1/2/3 | Gold: 800 | LastHits: 15
+Inventory: [item_ward_observer x2, item_ward_sentry x3, item_smoke_of_deceit, item_tpscroll x1, item_arcane_boots, item_magic_wand x6]
+Abilities: [shadow_shaman_ether_shock(Lvl2)[Rdy] | shadow_shaman_voodoo(Lvl2)[Rdy] | shadow_shaman_shackles(Lvl1)[Rdy] | shadow_shaman_mass_serpent_ward(Lvl1)[ULTIMATE-READY]]
+User Situation Notes: Играю на 4-ке. Враги взяли Broodmother на мид, и наш Lina не справляется. Вражеская Brood уже 6-0. У нас нет героев с хорошим AOE уроном.
+
+=== USER QUESTION ===
+"Как мне помочь против Broodmother? Какой предмет собрать?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Как мне помочь против Broodmother? Какой предмет собрать?".**
+========================================
+
+[AI RESPONSE] (5.92s)
+Используй свой Shadow Shaman с готовым Ether Shock для урона по Broodmother и спаунить Serpent Wards, чтобы контролировать её на линии. Поскольку у нас нет героев с сильным AOE уроном, рекомендую использовать Smoke of Deceit, чтобы организовать засаду и поймать её, когда она будет неосторожна. Как альтернативу, можешь собрать Spirit Vessel, чтобы нанести урон и уменьшить её восстановление здоровья, если это позволит взять инициативу в ваши руки.

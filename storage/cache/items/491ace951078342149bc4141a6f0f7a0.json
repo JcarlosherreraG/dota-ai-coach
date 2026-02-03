@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Chipped Vest, Tier 1: Neutral item with Chipper passive (returns 30 damage to heroes and 20 damage to creeps each time you are attacked). A defensive item that punishes attackers, effective for tanky frontliners who take many hits. Stats: Tier: 1, Hero Return: 30, Creep Return: 20.",
+    "search_text": "neutral item, tier 1, damage return, return damage, reflect damage, attacked damage return, tank item, frontliner item, defensive neutral, harass neutral, chipper, Chipped Vest, chip damage, armor alternative, sustain damage, physical retaliation, counter-harass",
+    "tags": [
+      "ITEM_DATA",
+      "CHIPPED_VEST",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "DEFENSIVE",
+      "RETURN_DAMAGE",
+      "VS_PHYSICAL",
+      "TANK_ITEM"
+    ]
+  }
+]

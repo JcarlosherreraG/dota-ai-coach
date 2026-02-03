@@ -1,0 +1,194 @@
+[
+  {
+    "display_text": "Meepo is a Melee agility hero with 24 base Strength, 17 base Agility, and 18 base Intelligence. His base attack time is 1.7. He has a low base Agility and attack speed, compensated by his ability to have multiple units attacking at once.",
+    "search_text": "Meepo Melee stats strength 24 agility 17 intelligence 18 attack rate 1.7 BAT",
+    "tags": [
+      "MEEPO",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Meepo has three facets. More Meepo allows you to obtain extra Meepo clones sooner and provides 1 extra Meepo, focusing on faster scaling and unit count. Codependent provides aura-like bonuses, making other Meepos grant attack speed and armor to their allies, enhancing the group's survivability and damage. Pack Rat's description is not provided in the data.",
+    "search_text": "Meepo Facets More Meepo Codependent Pack Rat clones attack speed armor aura",
+    "tags": [
+      "MEEPO",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the first 10 minutes, Meepo focuses on securing last hits with Poof, which deals 50/80/110/140 damage to farm and harass. Early skill points in Earthbind at level 1 or 2 can secure kills with a teammate. Prioritize Divided We Stand at levels 4, 7, and 12 to get more clones, dramatically increasing farm speed. Meepo is vulnerable to ganks early; use clones carefully to avoid feeding.",
+    "search_text": "Meepo Laning Phase Poof damage 50 80 110 140 Earthbind root farm kills Divided We Stand clones",
+    "tags": [
+      "MEEPO",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Meepo's power spikes are level 4 (first clone), level 7 (second clone), level 12 (third clone), and level 18 (fourth clone). Level 20 and 25 talent choices significantly boost his late-game. Item spikes are very early core items like Power Treads and Dragon Lance, enabling his clones to fight. Aghanim's Scepter, granting 100% stat share, is a massive spike.",
+    "search_text": "Meepo Power Spikes levels 4 7 12 18 clones talents 20 25 Aghanim Scepter 100 stat share",
+    "tags": [
+      "MEEPO",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Meepo is hard countered by heroes with massive area-of-effect damage and control that can hit all clones simultaneously, such as Earthshaker, Axe, or Legion Commander. Break effects disable his passive Ransack. Instant hex or silence prevents Poof escapes. Any clone death kills all Meepos.",
+    "search_text": "Meepo Counters Earthshaker Axe Legion Commander AoE Break Ransack Hex Silence clone death all die",
+    "tags": [
+      "MEEPO",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Meepo's core build is centered on stats and mobility for his clones. Essential items are Power Treads (or other boots) for stats and attack speed which clones share, Dragon Lance (and later Hurricane Pike) for range and stats, and Aghanim's Scepter for 100% stat share, making clones much tankier and deadlier.",
+    "search_text": "Meepo Core Build Power Treads Dragon Lance Hurricane Pike Aghanim Scepter stats clones share",
+    "tags": [
+      "MEEPO",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Meepo's role is to burst down key targets using multiple clones. Use Earthbind to root enemies, then Poof all clones onto the target for massive damage. Use Dig to dispel and become invulnerable to avoid focus fire. In MegaMeepo form, he flings clones for damage and slow while gaining stats from his other Meepos.",
+    "search_text": "Meepo Teamfight burst Earthbind root Poof damage Dig dispel invulnerable MegaMeepo Fling slow",
+    "tags": [
+      "MEEPO",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Earthbind tosses a net at a target point, rooting all enemy units in a 220 radius for 2 seconds. It has a 1200 speed and a 16/14/12/10 second cooldown. It affects and reveals invisible units. It does not work on Debuff Immune units or Roshan. It does not pierce BKB.",
+    "search_text": "Meepo Earthbind Q root 220 radius 2 sec cooldown 16 14 12 10 reveals invis not BKB Debuff Immune",
+    "tags": [
+      "MEEPO",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Poof allows Meepo to teleport to another Meepo after a 1.5 second channel, dealing 50/80/110/140 damage in a 400 radius at both departure and arrival points. Alt-cast causes all Meepos to Poof to the target. When cast on ground, all other Meepos Poof to the closest location. It can target Meepo illusions and be cast via minimap.",
+    "search_text": "Meepo Poof W teleport channel 1.5 damage 50 80 110 140 radius 400 alt-cast all clones minimap illusions",
+    "tags": [
+      "MEEPO",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Ransack is Meepo's passive. Each strike steals 9/12/15/18 health from heroes and 3/5/7/9 from creeps, healing all other Meepos for that amount. The heal is amplified by Lifesteal Amplification.",
+    "search_text": "Meepo Ransack passive lifesteal heroes 9 12 15 18 creeps 3 5 7 9 heals all other Meepos",
+    "tags": [
+      "MEEPO",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Dig causes Meepo to become invulnerable and untargetable for 3 seconds, providing a basic dispel and restoring 25% of his max health over the duration.",
+    "search_text": "Meepo Dig E invulnerable untargetable 3 sec dispel basic health restore 25 percent",
+    "tags": [
+      "MEEPO",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "MegaMeepo is Meepo's ultimate ability. The primary Meepo mounts all other Meepos within 600 radius for 25 seconds, gaining 40% of their stats. He can Fling them to deal damage and slow. Earthbind generates extra nets and Poof deals bonus damage based on the number of mounted Meepos. Damage is distributed over 6 seconds. At the end, clones are knocked back 400 distance over 0.3 seconds.",
+    "search_text": "Meepo MegaMeepo ultimate mount clones 600 radius 25 sec gain 40 pct stats Fling damage slow Earthbind extra nets Poof bonus damage knockback",
+    "tags": [
+      "MEEPO",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Divided We Stand summons 1/2/3 clones at levels 4/11/18. Clones share experience, attributes, and abilities but cannot use most items. If any clone dies, all Meepos die. It provides 10/15/20 bonus magic resistance to all Meepos. With Aghanim's Scepter, clones share 100% of stats.",
+    "search_text": "Meepo Divided We Stand clones 1 2 3 share attributes abilities die together magic resist 10 15 20 Aghanim Scepter 100 pct stat share",
+    "tags": [
+      "MEEPO",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "MegaMeepo Fling is a sub-ability of MegaMeepo. Meepo flings a clone towards a target, dealing 225 damage and slowing movement speed by 60% for 3 seconds. The projectile moves at 900 speed and has a 300 radius. It does not trigger spell reflect.",
+    "search_text": "Meepo MegaMeepo Fling sub ability damage 225 slow 60 pct 3 sec speed 900 radius 300 no spell reflect",
+    "tags": [
+      "MEEPO",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Sticky Fingers is a sub-ability that grants Meepo an extra choice of neutral item to select from.",
+    "search_text": "Meepo Sticky Fingers neutral item extra choice",
+    "tags": [
+      "MEEPO",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "When facing heroes with high armor, Meepo struggles as his damage is primarily physical. Itemize for items that reduce armor like Desolator or Assault Cuirass. Consider the MegaMeepo talent at level 25 for more magic damage from Poof.",
+    "search_text": "Meepo vs High Armor physical damage Desolator Assault Cuirass armor reduction MegaMeepo Poof magic damage",
+    "tags": [
+      "MEEPO",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, avoid fights and split push with clones using Poof to clear waves safely. Focus on farming the map efficiently with multiple Meepos to catch up. Itemize defensively with Skadi or Heart of Tarrasque to survive burst. Use Dig defensively to escape.",
+    "search_text": "Meepo behind split push Poof farm clones Skadi Heart of Tarrasque survivability Dig escape",
+    "tags": [
+      "MEEPO",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.",
+    "search_text": "Meepo vs AoE disables spread clones Black King Bar BKB Linken Sphere initiation",
+    "tags": [
+      "MEEPO",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "When you have a significant lead, aggressively hunt enemy cores with your clones using Earthbind and Poof bursts. Dominate the map by farming enemy jungle and pushing all lanes simultaneously. Build offensive items like Eye of Skadi or Ethereal Blade to secure kills.",
+    "search_text": "Meepo snowball lead hunt Earthbind Poof burst farm enemy jungle push lanes Eye of Skadi Ethereal Blade",
+    "tags": [
+      "MEEPO",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +7 Strength or +50 Poof Damage. +7 Strength provides 133 health and slight damage, making clones tankier. +50 Poof Damage significantly increases farming speed and burst damage in early fights. Pick Strength for survivability, Poof Damage for aggressive farming and ganking.",
+    "search_text": "Meepo Talent Level 10 left 7 Strength health right 50 Poof Damage farm burst gank tanky",
+    "tags": [
+      "MEEPO",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between +15% Evasion or -2.5s Earthbind Cooldown. Evasion makes all Meepos harder to hit with physical attacks, valuable against right-clickers. Reduced Earthbind cooldown increases lockdown frequency, allowing for more picks and control in fights. Choose based on enemy damage type.",
+    "search_text": "Meepo Talent Level 15 left 15 pct Evasion physical right -2.5 Earthbind Cooldown lockdown control",
+    "tags": [
+      "MEEPO",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between Earthbind grants True Strike on Targets or +8 Ransack Health Steal. True Strike counters evasion and miss chance, crucial against heroes like Phantom Assassin or Butterfly carriers. Extra Ransack heal improves sustain in prolonged fights. Pick True Strike against evasion, Ransack for survivability.",
+    "search_text": "Meepo Talent Level 20 left Earthbind True Strike vs evasion right 8 Ransack Health Steal lifesteal sustain",
+    "tags": [
+      "MEEPO",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between +350 Health or -0.75s Poof Cast Duration. +350 Health makes each clone significantly tankier, mitigating burst. Reduced Poof cast time makes your combo much faster and harder to interrupt, increasing burst potential. Pick Health against high burst, Poof speed for faster execution.",
+    "search_text": "Meepo Talent Level 25 left 350 Health tanky clones right 0.75s Poof Cast Duration faster burst interrupt",
+    "tags": [
+      "MEEPO",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Ascetic's Cap, Cost: 0: Neutral item. Provides a passive effect that grants 40% Status resistance and 40% Slow Resistance for 3 seconds whenever a debuff would be applied to the owner. This makes the user temporarily more resilient to stuns, slows, and other negative effects. Stats: Status Resistance: 40%, Slow Resistance: 40%, Duration: 3s.",
+    "search_text": "status resistance item, slow resistance item, neutral item, tier neutral, debuff resistance, reduce stun duration, reduce slow effect, anti-debuff, anti-slow, Ascetic's Cap, defensive neutral, survivability",
+    "tags": [
+      "ITEM_DATA",
+      "ASCETIC'S_CAP",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "STATUS_RESISTANCE",
+      "SLOW_RESISTANCE",
+      "VS_CONTROL",
+      "VS_SLOW"
+    ]
+  }
+]

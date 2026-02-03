@@ -1,0 +1,179 @@
+[
+  {
+    "display_text": "Warlock is a ranged intelligence hero with low base strength (22) and agility (10), but a high starting intelligence of 25. He has a slow base attack time of 1.7 seconds, making his right-click damage unreliable. He is a classic backline support with poor physical survivability and mobility.",
+    "search_text": "Warlock stats ranged intelligence hero attack rate 1.7 slow BAT strength 22 agility 10 intelligence 25 base armor movement speed",
+    "tags": [
+      "Warlock",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Warlock has two Facets. 'Champion of Gorroth' causes his Chaotic Offering Golems to deal more burn damage based on his health and mana regeneration. This makes him a stronger teamfight presence when he can sustain and build regeneration items like Guardian Greaves or Kaya. The second Facet is unnamed in the data, offering no description; this likely means its effect is currently inactive or not defined.",
+    "search_text": "Warlock facets Champion of Gorroth golem burn damage health regeneration mana regeneration Facet choice passive teamfight scaling",
+    "tags": [
+      "Warlock",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Shadow Word (W) to harass enemy heroes, dealing 15/25/35/45 damage per second to them while healing your lane partner for the same amount. It lasts 10 seconds and ticks every 0.5 seconds, for a total potential of 300 damage or heal. Fatal Bonds (Q) is excellent for securing ranged creeps and damaging multiple heroes if they stand close. Focus on harassing with Shadow Word and pulling creeps to secure farm for your core.",
+    "search_text": "Warlock laning phase Shadow Word W harass heal 15 25 35 45 damage per second Fatal Bonds Q secure ranged creep pull camp support position 5",
+    "tags": [
+      "Warlock",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Warlock's primary power spike is at level 6 with his ultimate, Chaotic Offering. The golem provides a strong teamfight presence and pushing threat for 60 seconds. Level 12 is another spike with the Aghanim's Shard upgrade for Shadow Word. Level 20 talents offer a major choice between 25% Damage Resistance for Golems or +150 Shadow Word AoE. Level 25 with the 'Summons a Golem on death' talent makes him a massive late-game threat. Key item timings are Glimmer Cape or Force Staff for survival, Aghanim's Scepter for two golems, and Refresher Orb for double ultimate.",
+    "search_text": "Warlock power spikes level 6 Chaotic Offering golem level 12 Aghanim Shard level 20 talent level 25 talent Golem on death item timing Aghanim Scepter Refresher Orb Glimmer Cape",
+    "tags": [
+      "Warlock",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Warlock is hard-countered by heroes with high single-target burst damage that can quickly kill him before he gets his spells off, like Nyx Assassin or Clinkz. Heroes with strong dispels like Oracle, Legion Commander, or Abaddon can remove his long-duration Fatal Bonds and Shadow Word. Illusion-based heroes like Phantom Lancer or Chaos Knight can overwhelm his Golem and dilute Fatal Bonds damage. Heroes with BKB-piercing control like Beastmaster's Primal Roar can lock him down through his defensive items.",
+    "search_text": "Warlock counters hard counter burst damage Nyx Assassin Clinkz dispel Oracle Legion Commander Abaddon illusions Phantom Lancer Chaos Knight BKB-piercing stun",
+    "tags": [
+      "Warlock",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Warlock's core build consists of survivability and mana items. Glimmer Cape is essential for saving yourself or allies and setting up for your channeled Upheaval. Aghanim's Scepter is his most critical damage item, summoning a second Golem, dramatically increasing teamfight damage and pushing power. Boots of Travel are often needed later to split-push with Golems and join fights globally.",
+    "search_text": "Warlock core items build Glimmer Cape Aghanim Scepter Aghs Boots of Travel BoTs mana sustain survivability Golem",
+    "tags": [
+      "Warlock",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Warlock's role is to initiate or counter-initiate from the backline. Lead with Chaotic Offering (R) to stun multiple enemies and summon the Golem. Follow up immediately with Fatal Bonds (Q) on the key targets to amplify all damage dealt. Cast Shadow Word (W) on a diving ally or a low-health enemy. Then, find a safe spot to channel Upheaval (E) to create a massive area slow (up to 55/70/85/100%) that controls the entire fight. Your goal is to enable your team's damage with Bonds and control the battlefield with Upheaval and the Golem.",
+    "search_text": "Warlock teamfight role backline support initiator Chaotic Offering R stun Golem Fatal Bonds Q damage amp Shadow Word W heal Upheaval E channel slow 100% control",
+    "tags": [
+      "Warlock",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Fatal Bonds (Q). Binds 6 visible enemy units together within a 700 search radius. For 18 seconds, a percentage (15%/18%/21%/24%) of any damage dealt to one of them is shared as the same damage type to the others. This ability does NOT pierce BKB (based on standard mechanics; pierce_immunity attribute not present in data).",
+    "search_text": "Fatal Bonds Q Warlock ability binds 6 units 700 radius 18 seconds damage share 15 18 21 24 percent amplification AOE teamfight",
+    "tags": [
+      "Warlock",
+      "ABILITY_DATA",
+      "Fatal Bonds",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Shadow Word (W). Warlock casts a spell on a target unit. For 10 seconds, the target deals 15/25/35/45 magical damage every 0.5 seconds to nearby enemy units in a 225 radius and heals nearby ally units for the same amount. The target unit itself is also damaged if it is an enemy or healed if it is an ally. Cooldown is 15/14/13/12 seconds. With Aghanim's Shard, it also grants movement speed.",
+    "search_text": "Shadow Word W Warlock ability damage heal over time 15 25 35 45 0.5 second tick 225 AOE 10 seconds cooldown 15 14 13 12 Shard movement speed",
+    "tags": [
+      "Warlock",
+      "ABILITY_DATA",
+      "Shadow Word",
+      "W"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Upheaval (E). CHANNELED. Warlock creates a powerful slowing zone in a target area with an initial radius of 575/600/625/650. The slow increases by 11%/14%/17%/20% per second channeled, up to a maximum of 55%/70%/85%/100%. It also deals 10 damage per second, with a maximum damage of 35/60/85/110 if fully channeled for 1.0 second. The spell can be channeled for up to 10/12/14/16 seconds. Enemies are slowed for 1.0 second after leaving the area or when the spell ends. The talent '+=45 Upheaval Damage' adds a flat 45 damage per second.",
+    "search_text": "Upheaval E Warlock ability channeled slow zone radius 575 600 625 650 slow per second 11 14 17 20 max slow 55 70 85 100 damage 10 per second max 35 60 85 110 channel time 10 12 14 16 seconds talent +45 damage",
+    "tags": [
+      "Warlock",
+      "ABILITY_DATA",
+      "Upheaval",
+      "E",
+      "Channel"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Eldritch Summoning (Innate Passive). Whenever an enemy unit dies while affected by any of Warlock's abilities, a minor imp is summoned that lasts 15 seconds. Imps have 50/130/210/290/370 health and explode on death for 20/65/110/155/200 damage in a 400 radius. They automatically seek nearby units, prioritizing heroes affected by Fatal Bonds, and explode on contact. Imps do not explode if killed by enemy heroes.",
+    "search_text": "Eldritch Summoning Warlock passive innate ability imp summoned on death 15 seconds duration health 50 130 210 290 370 explode damage 20 65 110 155 200 radius 400 seek Fatal Bonds",
+    "tags": [
+      "Warlock",
+      "ABILITY_DATA",
+      "Eldritch Summoning",
+      "Passive"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Chaotic Offering (R). Summons a Golem from the depths, stunning enemies in a 600 radius for 0.8 seconds after a 0.5 second delay. The Golem lasts 60 seconds. Golem has 1500/2250/3000 health, 8/12/14 armor, deals 100/150/200 damage, has 25/50/75 health regen, 320/340/360 movement speed, and 60% bonus slow resistance. It takes reduced spell damage and has permanent immolation and flaming fists. Golems grant 100/150/200 gold bounty. With Aghanim's Scepter, a second Golem is summoned.",
+    "search_text": "Chaotic Offering R Warlock ultimate golem summon stun 0.8 seconds 600 AOE delay 0.5 duration 60 health 1500 2250 3000 armor 8 12 14 damage 100 150 200 regen 25 50 75 movement 320 340 360 slow resistance 60 Aghanim Scepter two golems bounty gold",
+    "tags": [
+      "Warlock",
+      "ABILITY_DATA",
+      "Chaotic Offering",
+      "Ultimate",
+      "R",
+      "Stun",
+      "Summon"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Against Illusion or Summon-based Heroes (e.g., Phantom Lancer, Chaos Knight). Your Fatal Bonds is extremely powerful as it can link the real hero with their illusions, causing your team's AOE damage to devastate the entire group. Prioritize maxing Fatal Bonds. Items like Shiva's Guard or Refresher Orb become high-value to increase your AOE control and damage to clear illusions and amplify damage across all bonded units.",
+    "search_text": "Warlock situational versus illusions Phantom Lancer Chaos Knight summons Fatal Bonds Q max AOE damage amplification item Shiva Guard Refresher Orb",
+    "tags": [
+      "Warlock",
+      "SITUATIONAL",
+      "Vs Illusions"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Playing from Behind. When your team is losing, Warlock's value shifts to high-ground defense. Upheaval can block choke points for long durations. Use Chaotic Offering defensively to stop pushes and create space. Itemize for survivability (Force Staff, Glimmer Cape) and save your cores with Shadow Word. Your Golem can help clear waves from a safe distance. Avoid getting caught; your death means your team loses all fight-swinging abilities.",
+    "search_text": "Warlock playing from behind high ground defense Upheaval E choke point Chaotic Offering R stop push save items Force Staff Glimmer Cape Shadow Word W heal",
+    "tags": [
+      "Warlock",
+      "SITUATIONAL",
+      "From Behind"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Vs High Burst or Jump Heroes (e.g., Storm Spirit, Clockwerk). Positioning is critical. Stay far behind your team. Items like Glimmer Cape, Force Staff, and later Aeon Disk are mandatory to survive the initial engagement. Your goal is to survive long enough to get your ultimate and Upheaval off. Cast Fatal Bonds and Shadow Word from maximum range. Consider a Linken's Sphere against single-target initiations.",
+    "search_text": "Warlock situational versus burst jump Storm Spirit Clockwerk positioning survival items Glimmer Cape Force Staff Aeon Disk Linken Sphere survive to cast ultimate",
+    "tags": [
+      "Warlock",
+      "SITUATIONAL",
+      "Vs Burst"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 10: Left talent is '+4% Fatal Bonds Damage', increasing the damage share to 19%/22%/25%/28%. Right talent is '+50 Upheaval Radius', increasing the initial slow area to 625/650/675/700. Choose the Fatal Bonds talent if your team has high AOE damage and fights are decisive. Choose the Upheaval radius if you need better control and fight in more open areas, or if you are struggling to keep enemies inside the zone.",
+    "search_text": "Warlock talent level 10 left +4% Fatal Bonds Damage 19 22 25 28 right +50 Upheaval Radius 625 650 675 700 choice AOE damage versus control",
+    "tags": [
+      "Warlock",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 15: Left talent is 'Maximum of +70 Attack Speed' from '+8 Upheaval Attack Speed per second on Allies'. This provides a scaling attack speed buff to allies standing in Upheaval, up to +70. Right talent is '+150 Shadow Word AoE', increasing its damage/heal radius from 225 to 375. Choose the Upheaval attack speed if you have strong right-click cores who can stand and fight in the slow. Choose the Shadow Word AoE for significantly better team sustain and AOE harassment in fights.",
+    "search_text": "Warlock talent level 15 left +8 Upheaval Attack Speed per second on Allies max +70 right +150 Shadow Word AoE radius 375 choice physical DPS versus team heal damage",
+    "tags": [
+      "Warlock",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 20: Left talent is '25% Damage Resistance for Chaotic Offering Golems'. This significantly increases the survivability of your primary teamfight tool. Right talent is '+150 Shadow Word AoE', increasing its radius from 225 to 375. This is a repeat of the level 15 right talent. At this level, the choice is between making your Golems incredibly tanky (especially against physical damage) versus having a massive AOE heal/damage aura. The Golem talent is generally preferred for late-game siege and sustain in prolonged fights.",
+    "search_text": "Warlock talent level 20 left 25% Damage Resistance for Golems right +150 Shadow Word AoE radius 375 choice Golem survivability versus AOE heal",
+    "tags": [
+      "Warlock",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 25: Left talent is '+=45 Upheaval Damage', adding a flat 45 damage per second to the ability, bringing its total to 55 DPS and maximum damage to 155/180/205/230. Right talent is 'Summons a Golem on death', creating a Chaotic Offering Golem when Warlock dies. This is a game-changing talent. The damage talent is rarely taken. The Golem on death talent is almost always the correct choice, as it guarantees massive fight impact even if you are focused and killed first, often turning a lost fight into a win.",
+    "search_text": "Warlock talent level 25 left +=45 Upheaval Damage 55 DPS right Summons a Golem on death Chaotic Offering post-death choice damage versus guaranteed teamfight impact",
+    "tags": [
+      "Warlock",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

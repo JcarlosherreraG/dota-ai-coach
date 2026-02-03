@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Giant's Ring, Tier Neutral: Provides no bonus stats but increases model size by 60%. Can path over any terrain including cliffs and trees. Deals damage equal to 100% of your strength per second to enemies stood upon in a 100 radius, making it effective for area denial and trapping enemies. Stats: Model Scale: +60%, Damage: 100% Strength per second, Radius: 100.",
+    "search_text": "neutral item, giants ring, free pathing, terrain walk, cliff walk, tree walk, go over terrain, terrain traversal, model scale, big hero, size increase, damage over time, strength scaling damage, aoe damage, area denial, crowd control, trap enemies, stand on enemy, path over cliffs, over terrain",
+    "tags": [
+      "ITEM_DATA",
+      "GIANTS_RING",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "PASSIVE",
+      "FREE_PATHING",
+      "TERRAIN_TRAVERSAL",
+      "AOE_DAMAGE",
+      "AREA_DENIAL",
+      "MOBILITY",
+      "UTILITY"
+    ]
+  }
+]

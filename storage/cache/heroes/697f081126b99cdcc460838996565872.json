@@ -1,0 +1,174 @@
+[
+  {
+    "display_text": "Elder Titan is a Melee Strength hero with a base Attack Rate of 1.7 seconds. His base stats are 26 Strength, 16 Agility, and 23 Intelligence. This gives him a good health pool for a Strength hero at level 1. As a Melee hero, he has a 150 attack range and a standard 315 movement speed.",
+    "search_text": "Elder Titan stats melee attack range 150 movement speed 315 strength 26 agility 16 intelligence 23 attack rate 1.7",
+    "tags": [
+      "ELDER_TITAN",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Elder Titan has two Facets. The Deconstruction Facet changes Natural Order to drain Magic Resistance and Armor over time, applying its full effect gradually rather than instantly. The other Facet, which currently has no name or description in the data, provides +100 Attack Speed. Deconstruction is better for drawn-out fights and comboing with his area-of-effect spells, while the Attack Speed Facet significantly boosts his right-click damage potential, enabling a more carry-oriented playstyle.",
+    "search_text": "Elder Titan facets Deconstruction Natural Order drains armor magic resistance over time Attack Speed facet 100 attack speed right click carry",
+    "tags": [
+      "ELDER_TITAN",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, focus on using Astral Spirit to secure last hits from a distance and harass enemies. At level 1, the spirit deals 50 pass-through damage and steals 1.5 movement speed from heroes and 1.5% from creeps per unit hit. Landing it on multiple units gives you significant bonus damage and armor for 10 seconds, allowing for favorable trades. Use Echo Stomp (1.7s channel, 0.2s initial stun) carefully for setup or disengage; it deals 60 physical damage around you and 60 magic damage around the Spirit. Prioritize levels in Astral Spirit for damage and Natural Order for armor reduction.",
+    "search_text": "Elder Titan laning phase guide first 10 minutes Astral Spirit last hit harass 50 damage movement speed steal Echo Stomp 1.7 channel 0.2 stun 60 damage",
+    "tags": [
+      "ELDER_TITAN",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Key power spikes are at level 6 with Earth Splitter for long-range initiation and percent-based damage. Level 12 with maxed Astral Spirit (80 hero damage, 6 armor, 7% move speed per hero) is a major timing for fights. Level 18 provides maxed ultimate. Talent spikes at 15 (+75 Echo Stomp Damage), 20 (+25 Astral Spirit Hero Attack), and 25 (+100% Cleave) are significant. A core item like Blink Dagger is a major spike for initiating with Echo Stomp into Earth Splitter. Aghanim's Scepter provides magic immunity per hero hit with Astral Spirit, creating a huge survivability spike in teamfights.",
+    "search_text": "Elder Titan power spikes level 6 Earth Splitter level 12 max Astral Spirit talent 15 20 25 Blink Dagger Aghanim Scepter magic immunity",
+    "tags": [
+      "ELDER_TITAN",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Elder Titan is countered by heroes with silence or interrupt abilities that can cancel his 1.7-second Echo Stomp channel, such as Silencer or Skywrath Mage. High mobility heroes can dodge his Astral Spirit and Earth Splitter. Illusion-based heroes dilute the effectiveness of his single-target percent-based damage from Earth Splitter. Heroes that can quickly burst him down before he can cast his spells or before his Astral Spirit returns are also strong counters.",
+    "search_text": "Elder Titan counters hard counters Silencer Skywrath Mage interrupt Echo Stomp channel mobility dodge Astral Spirit Earth Splitter illusions Anti-Mage",
+    "tags": [
+      "ELDER_TITAN",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Elder Titan's absolutely essential core items are Blink Dagger and Aghanim's Scepter. Blink Dagger is non-negotiable for initiating with Echo Stomp. Aghanim's Scepter is critical as it provides 1.2 seconds of magic immunity per hero hit by Astral Spirit, making him incredibly durable in teamfights and allowing him to follow up his initiation. A third core item is often Shiva's Guard or Assault Cuirass to further leverage his aura-based Natural Order and provide team utility.",
+    "search_text": "Elder Titan core build essential items Blink Dagger Aghanim Scepter Shiva Guard Assault Cuirass magic immunity per hero Astral Spirit",
+    "tags": [
+      "ELDER_TITAN",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Elder Titan's primary role is as an initiator and disabler. He should use Blink Dagger to position and channel Echo Stomp, putting multiple enemies to sleep for 2.0 to 4.4 seconds. He should use Astral Spirit before engaging to gain bonus stats and apply his Natural Order aura to reduce enemy base armor and magic resistance. After initiation, he follows up with Earth Splitter to deal massive percent-based damage (34%/42%/50% max HP) and slow enemies by 30%/40%/50%. He must stay alive to keep the Natural Order aura active on key targets.",
+    "search_text": "Elder Titan teamfight role job initiator disabler Blink Echo Stomp sleep 4.4 seconds Astral Spirit Natural Order armor magic resistance reduction Earth Splitter percent damage slow",
+    "tags": [
+      "ELDER_TITAN",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "ECHO STOMPS: Elder Titan channels for 1.7 seconds, then he and his Astral Spirit both stomp, damaging and knocking unconscious nearby enemies for 2.0/2.8/3.6/4.4 seconds. The Titan stomp deals 60/100/140/180 Physical damage. The Spirit stomp deals 60/100/140/180 Magical damage. Units hit by both take both instances of damage. Waking a unit by dealing more than 100/150/200/250 damage to it ends the sleep early. Cooldown: 14/13/12/11 seconds.",
+    "search_text": "Elder Titan Echo Stomp Q ability channel 1.7 seconds sleep 2.8 3.6 4.4 physical damage 60 100 140 180 magical damage wake damage limit 100 150 200 250 cooldown 14 13 12 11",
+    "tags": [
+      "ELDER_TITAN",
+      "ABILITY_DATA",
+      "ECHO_STOMP"
+    ]
+  },
+  {
+    "display_text": "ASTRAL SPIRIT: Sends a controllable spirit 1200 units away, dealing 50 damage to units it passes through. For each unit hit, Elder Titan gains bonus damage, armor, and movement speed for 10 seconds. Versus creeps: +3/7/11/15 damage, +0.5 armor, +1.5% move speed. Versus heroes: +17/38/59/80 damage, +1.5/3/4.5/6 armor, +4/5/6/7% move speed. The spirit lasts 10 seconds, moves at 900 speed, and can cast Echo Stomp and Natural Order. Aghanim's Scepter grants 1.2 seconds of magic immunity per hero hit. Return Spirit ability brings it back early.",
+    "search_text": "Elder Titan Astral Spirit W ability spirit duration 10 seconds range 1200 speed 900 damage 50 pass through hero bonus 80 damage 6 armor 7% move speed creep bonus 15 damage 0.5 armor 1.5% move speed scepter magic immunity per hero",
+    "tags": [
+      "ELDER_TITAN",
+      "ABILITY_DATA",
+      "ASTRAL_SPIRIT"
+    ]
+  },
+  {
+    "display_text": "NATURAL ORDER: Reduces the base armor and base magic resistance of all enemy units within a 350 radius by 40%/60%/80%/100%. When the Astral Spirit is active, the magic resistance reduction is centered on the spirit, while armor reduction is centered on Elder Titan. When the spirit is not present, both reductions are centered on Elder Titan. The Deconstruction Facet changes this to drain resistance over time instead of instantly.",
+    "search_text": "Elder Titan Natural Order E ability aura passive reduces base armor magic resistance 40 60 80 100 percent radius 350 spirit hero split Deconstruction drains over time",
+    "tags": [
+      "ELDER_TITAN",
+      "ABILITY_DATA",
+      "NATURAL_ORDER"
+    ]
+  },
+  {
+    "display_text": "EARTH SPLITTER: After a 3-second delay, creates a fissure that damages enemies based on 34%/42%/50% of their maximum health. Half the damage is Magical, half is Physical. Also slows affected enemies by 30%/40%/50% for 3/4/5 seconds (4/5/6 seconds with Aghanim's Shard). The crack travels 2400 units at 1100 speed and provides vision along its path for 4 seconds. Cooldown is 100 seconds.",
+    "search_text": "Elder Titan Earth Splitter R ultimate percent max HP damage 34 42 50 half magical half physical slow 30 40 50 percent duration 3 4 5 seconds cooldown 100 shard slow duration 4 5 6 seconds",
+    "tags": [
+      "ELDER_TITAN",
+      "ABILITY_DATA",
+      "EARTH_SPLITTER"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing Against High-Armor/High-Magic-Resistance Teams. Elder Titan excels here. His Natural Order aura completely negates 100% of base armor and magic resistance at max level, making enemies significantly more vulnerable to all forms of damage from your team. Prioritize staying alive in fights to keep the aura active. Coordinate with allies who deal physical or magical burst damage to capitalize on the exposed enemies.",
+    "search_text": "Elder Titan situational high armor magic resistance teams Natural Order 100% reduction base armor base magic resistance aura stay alive coordinate burst damage",
+    "tags": [
+      "ELDER_TITAN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on defensive utility. Use Astral Spirit for safe scouting and vision. Your main contribution will be landing a multi-hero Echo Stomp initiation with Blink Dagger to create pick-off opportunities. Earth Splitter remains valuable for its percent-based damage even when you are under-leveled. Build survivability items like Shiva's Guard or Pipe of Insight to enable you to cast your spells in fights.",
+    "search_text": "Elder Titan playing from behind defensive utility Astral Spirit scouting vision Blink Echo Stomp initiation percent damage Earth Splitter survivability items Shiva Pipe",
+    "tags": [
+      "ELDER_TITAN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Initiating a Teamfight. The standard combo is: 1) Cast Astral Spirit through multiple heroes. 2) Blink into the enemy team. 3) Channel Echo Stomp. 4) As the spirit returns, it will also stomp, potentially hitting enemies twice. 5) Cast Earth Splitter on the sleeping or retreating enemies. With Aghanim's Scepter, the magic immunity from the spirit allows you to channel Echo Stomp safely even if Blink is disabled.",
+    "search_text": "Elder Titan initiating teamfight combo Astral Spirit Blink Echo Stomp channel Earth Splitter Aghanim Scepter magic immunity combo sequence",
+    "tags": [
+      "ELDER_TITAN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion or Summon Heroes. Your Astral Spirit damage bonus scales with the number of units hit, giving you massive temporary damage against large groups. However, Earth Splitter's percent damage is less effective as it's split among illusions. Focus on using your area-of-effect disables (Echo Stomp) to control the real hero and key illusions. Natural Order significantly reduces the armor of all units, making them easier for your team to clear.",
+    "search_text": "Elder Titan versus illusions summons Phantom Lancer Chaos Knight Astral Spirit bonus damage many units Echo Stomp control Natural Order reduces armor clear",
+    "tags": [
+      "ELDER_TITAN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Sieging or Defending High Ground. Elder Titan is strong in high-ground standoffs. Use Astral Spirit to scout and harass defenders. A well-placed Earth Splitter can zone enemies off the tower or deal massive damage if they commit. His passive, Tip the Scales, causes creeps affected by Glyph of Fortification or a Banner to deal 100% bonus damage, making pushes under Glyph or with a Banner extremely potent.",
+    "search_text": "Elder Titan sieging defending high ground Earth Splitter zoning Astral Spirit scouting Tip the Scales passive glyph fortification banner creeps 100% bonus damage",
+    "tags": [
+      "ELDER_TITAN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left talent gives +2.5% Astral Spirit Move Speed Per Hero hit, enhancing mobility and chase potential. Right talent gives +25 Attack Speed, improving right-click damage. Choose the move speed if you need to be more mobile for initiating or escaping. Choose the attack speed if you are focusing on a right-click build, especially with the Attack Speed Facet.",
+    "search_text": "Elder Titan talent level 10 left 2.5% Astral Spirit move speed per hero right 25 attack speed mobility versus right click damage",
+    "tags": [
+      "ELDER_TITAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left talent gives +75 Echo Stomp Damage, increasing the burst damage of your initiation from 180 to 255. Right talent gives +25 Astral Spirit Hero Attack, increasing the permanent bonus damage per hero hit from 80 to 105. Choose Echo Stomp damage for more immediate burst in fights. Choose Astral Spirit damage for significantly higher sustained right-click damage after landing your spirit on heroes.",
+    "search_text": "Elder Titan talent level 15 left 75 Echo Stomp damage 255 total right 25 Astral Spirit hero attack 105 damage burst versus sustained right click",
+    "tags": [
+      "ELDER_TITAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left talent gives +350 Echo Stomp Wake Damage, raising the threshold to break the sleep from 250 to 600, making it nearly impossible for enemies to break free early. Right talent gives +150 Natural Order Radius, increasing the aura from 350 to 500, making it much easier to apply the armor and magic resistance reduction. Choose the wake damage if enemies have high burst to break sleep. Choose the radius to provide more consistent debuff coverage in chaotic fights.",
+    "search_text": "Elder Titan talent level 20 left 350 Echo Stomp wake damage 600 threshold right 150 Natural Order radius 500 aura coverage sleep protection versus debuff range",
+    "tags": [
+      "ELDER_TITAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left talent gives -60s Earth Splitter Cooldown, reducing it from 100 to 40 seconds, allowing it to be used in almost every engagement. Right talent gives +100% Cleave, enabling powerful area-of-effect physical damage with right-clicks, especially potent with the Attack Speed Facet and other damage items. Choose the cooldown reduction for more frequent fight-winning ultimates and control. Choose Cleave to transition into a formidable late-game carry with massive area damage.",
+    "search_text": "Elder Titan talent level 25 left 60s Earth Splitter cooldown reduction 40 seconds right 100% Cleave area damage late game carry frequent ultimate versus right click carry",
+    "tags": [
+      "ELDER_TITAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

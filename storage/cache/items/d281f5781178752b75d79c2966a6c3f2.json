@@ -1,0 +1,79 @@
+[
+  {
+    "display_text": "Pipe of Insight, Cost: 3725: Provides a strong defensive team-wide barrier against magic damage and an aura of health regeneration and magic resistance. Ideal for group pushes and mitigating high magic damage compositions. Stats: CD: 60s, Mana: 150, Barrier: 425 HP, Duration: 8s, Barrier Radius: 1200.",
+    "search_text": "magic damage block item, team magic shield item, AoE barrier, magic defense item, group magic resistance, push protection, magic barrier, save teammates, magic damage aura, magic resistance aura, defensive support item, teamfight survivability, Pipe of Insight, Pipe",
+    "tags": [
+      "ITEM_DATA",
+      "PIPE_OF_INSIGHT",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SAVE",
+      "VS_MAGIC",
+      "MAGIC_RESISTANCE",
+      "AURA",
+      "BUFF",
+      "TEAMFIGHT_UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Pipe of Insight, Cost: 3725: Stats include +14 Health Regeneration and +20% Magic Resistance for the carrier, plus an aura granting nearby allies +2.5 Health Regeneration and +8% Magic Resistance. A pure defensive stat profile focused on sustain and magic protection.",
+    "search_text": "pipe stats, health regen item, magic resistance stats, aura stats, team regen, health regeneration, magic resist aura, defensive stats, survivability stats, Pipe of Insight",
+    "tags": [
+      "ITEM_DATA",
+      "PIPE_OF_INSIGHT",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "REGEN",
+      "SUSTAIN",
+      "MAGIC_RESISTANCE",
+      "AURA"
+    ]
+  },
+  {
+    "display_text": "Pipe of Insight, Cost: 3725: Core teamfight role as a protective support item that shields allies from enemy spell damage burst. The active barrier can absorb 425 magic damage per hero, turning the tide of AoE magic fights. The passive aura provides sustained regeneration for sieging and brawling.",
+    "search_text": "teamfight save item, anti magic burst, magic nuke counter, group shield, protect team from spells, AoE magic block, team defensive item, support save, clutch barrier, Pipe of Insight",
+    "tags": [
+      "ITEM_DATA",
+      "PIPE_OF_INSIGHT",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "TEAMFIGHT_UTILITY",
+      "VS_MAGIC",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Pipe of Insight, Cost: 3725: Situational against heavy magic damage lineups featuring multiple AoE nukes or magic burst heroes (e.g., Zeus, Lina, Leshrac). The barrier directly negates a significant portion of their damage, making it a core counter-pick for high-impact teamfights.",
+    "search_text": "counter magic damage, anti magic item, magic nuke counter, AoE spell counter, Zeus counter, magic lineup counter, burst magic defense, Pipe of Insight",
+    "tags": [
+      "ITEM_DATA",
+      "PIPE_OF_INSIGHT",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "VS_MAGIC",
+      "COUNTER",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Pipe of Insight, Cost: 3725: Synergizes with heroes who want to group for pushes or defend high ground, as the aura benefits the entire team. Essential for tanky initiators or supports who can survive in the frontline to maintain the aura. Key timing item for mid-game sieges against magic-heavy defenses.",
+    "search_text": "team push item, siege aura, high ground defense, group fight aura, aura support, initiator aura, tank aura, mid game item, Pipe of Insight",
+    "tags": [
+      "ITEM_DATA",
+      "PIPE_OF_INSIGHT",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "PUSH",
+      "TEAMFIGHT_UTILITY",
+      "SUPPORT_ITEM",
+      "INITIATION"
+    ]
+  }
+]

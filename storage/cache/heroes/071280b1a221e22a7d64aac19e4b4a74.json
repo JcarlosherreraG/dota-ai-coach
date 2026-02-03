@@ -1,0 +1,211 @@
+[
+  {
+    "display_text": "Abaddon is a Melee Strength hero with starting attributes of 21 Strength, 22 Agility, and 18 Intelligence. His base attack rate of 1.5 is standard for a melee core. With high base Agility, his starting armor is above average. His primary attribute being Strength provides a solid health pool. He has a standard turn rate.",
+    "search_text": "Abaddon stats melee strength hero attack type 21 str 22 agi 18 int base attack time 1.5",
+    "tags": [
+      "ABADDON",
+      "BASE_STATS",
+      "MELEE",
+      "STRENGTH"
+    ]
+  },
+  {
+    "display_text": "Death Dude is a base facet. Mephitic Shroud changes Aphotic Shield: it absorbs more damage and reflects received damage instantly instead of exploding at the end, encouraging a tankier, counter-attack playstyle. Malignant Mist modifies Mist Coil to deal attack damage and apply on-hit effects, making it a tool for Abaddon to play as a more active right-click carry or ganker.",
+    "search_text": "Abaddon facets Death Dude Mephitic Shroud Aphotic Shield reflect damage Malignant Mist Mist Coil attack damage on-hit effects",
+    "tags": [
+      "ABADDON",
+      "FACET_STRATEGY",
+      "MEPHITIC_SHROUD",
+      "MALIGNANT_MIST"
+    ]
+  },
+  {
+    "display_text": "In lane, Abaddon's 1.5 base attack time and decent starting stats allow for solid harassment. Use Mist Coil (95/160/225/290 damage/heal, 40 self-damage) to secure ranged creeps, harass enemies, or save your lane partner. Prioritize Aphotic Shield to purge debuffs from yourself or your core and block 120/150/180/210 damage. Skill Curse of Avernus at level 2 or 4 to help with chasing and trading. Avoid using too many Mist Coils on enemies early due to the 40 self-damage cost.",
+    "search_text": "Abaddon laning phase Mist Coil 95 160 225 290 damage heal 40 self damage Aphotic Shield purge 120 150 180 210 barrier Curse of Avernus slow attack speed",
+    "tags": [
+      "ABADDON",
+      "LANING_PHASE",
+      "MIST_COIL",
+      "APHOTIC_SHIELD"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a major spike with Borrowed Time, making you nearly unkillable for 4/5/6 seconds and enabling aggressive dives. Level 12 with maxed Aphotic Shield (6s cooldown) allows for constant dispels and damage absorption. Level 15 talents (+8 Aphotic Shield Regen or +40 Curse DPS) enhance your chosen playstyle. Level 18 with max Borrowed Time. Level 20 talent (+35 Mist Coil Damage/Heal) significantly boosts your burst and sustain. Level 25 talents (+65 Curse Attack Speed or 350 AoE Mist Coil) are game-changing. Key item spikes are Solar Crest, Phase Boots, and Blademail for an aggressive core, or Holy Locket for a dedicated healer.",
+    "search_text": "Abaddon power spikes level 6 Borrowed Time 4 5 6 seconds level 12 Aphotic Shield 6s cooldown level 15 talents regen dps level 20 talent 35 Mist Coil level 25 talents attack speed AoE",
+    "tags": [
+      "ABADDON",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_20"
+    ]
+  },
+  {
+    "display_text": "Break disables the passive component of Borrowed Time, preventing its auto-activation when health falls below 400. Heroes with break (e.g., Viper, Doom) are hard counters. High burst damage that can kill you from above the 400 HP threshold before Borrowed Time can activate. Anti-healing effects like Ancient Apparition's Ice Blast, as your ultimate converts damage to healing. Disarms and silences prevent you from using your abilities (though Borrowed Time can still be manually activated while disabled, not silenced).",
+    "search_text": "Abaddon counters break disables Borrowed Time passive 400 HP threshold burst damage anti-heal Ancient Apparition Ice Blast disarm silence",
+    "tags": [
+      "ABADDON",
+      "HARD_COUNTERS",
+      "BREAK",
+      "BURST",
+      "ANTI_HEAL"
+    ]
+  },
+  {
+    "display_text": "Core item 1: Solar Crest. Provides stats, armor, and the active which synergizes perfectly with your role as a frontliner and buffer for your carry. Core item 2: Blade Mail. As a hero who wants to absorb damage, Blade Mail punishes enemies for attacking you, especially during Borrowed Time. Core item 3: Heart of Tarrasque. Maximizes your tankiness and HP regeneration, making you incredibly difficult to bring down.",
+    "search_text": "Abaddon core build Solar Crest Blade Mail Heart of Tarrasque tank items",
+    "tags": [
+      "ABADDON",
+      "CORE_BUILD",
+      "SOLAR_CREST",
+      "BLADE_MAIL",
+      "HEART_OF_TARRASQUE"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Abaddon is a disruptive frontliner and support. Your primary job is to absorb key spells and damage with your high HP and Borrowed Time. Use Aphotic Shield (12/10/8/6s cooldown) to dispel crucial debuffs (like stuns or silences) from your cores and provide a 120/150/180/210 damage barrier. Use Mist Coil to burst heal allies or finish off low enemies. Apply Curse of Avernus to key targets to slow them and boost your team's attack speed against them. Your presence forces the enemy to either ignore you or waste resources trying to kill you through your ultimate.",
+    "search_text": "Abaddon teamfight role frontliner support dispel Aphotic Shield 120 150 180 210 barrier Mist Coil heal Borrowed Time tank Curse of Avernus slow attack speed",
+    "tags": [
+      "ABADDON",
+      "TEAMFIGHT_ROLE",
+      "FRONTLINER",
+      "DISPEL",
+      "TANK"
+    ]
+  },
+  {
+    "display_text": "Mist Coil (Q): Abaddon releases a coil that can damage an enemy unit for 95/160/225/290 magic damage or heal a friendly unit for the same amount. Costs 40 of Abaddon's health when cast. Missile speed is 1300. Cannot be used to kill Abaddon himself. Does NOT pierce BKB unless specified elsewhere. The Malignant Mist facet changes this ability to also deal attack damage and apply on-hit effects.",
+    "search_text": "Mist Coil Q ability damage 95 160 225 290 heal 95 160 225 290 self damage 40 health cost missile speed 1300 Malignant Mist facet attack damage on-hit",
+    "tags": [
+      "ABADDON",
+      "ABILITY_DATA",
+      "MIST_COIL",
+      "HEAL",
+      "NUKER"
+    ]
+  },
+  {
+    "display_text": "Aphotic Shield (W): Places a shield on a target ally, applying a Strong Dispel. The shield absorbs 120/150/180/210 damage for 12 seconds. When the shield expires or is broken, it explodes, dealing 120/150/180/210 magic damage in a 675 radius. Cooldown is 12/10/8/6 seconds. Does NOT pierce BKB unless specified elsewhere. The Mephitic Shroud facet changes this ability to absorb more damage and reflect damage received instead of exploding.",
+    "search_text": "Aphotic Shield W ability dispel strong dispel absorbs 120 150 180 210 damage duration 12 seconds explosion 120 150 180 210 damage radius 675 cooldown 12 10 8 6 Mephitic Shroud facet reflect",
+    "tags": [
+      "ABADDON",
+      "ABILITY_DATA",
+      "APHOTIC_SHIELD",
+      "DISPEL",
+      "BARRIER"
+    ]
+  },
+  {
+    "display_text": "Curse of Avernus (E): Passive. Abaddon's attacks apply a chilling curse for 2 seconds. Cursed enemies are slowed by 10/15/20/25% and take 15/25/35/45 damage per second. All attacks against the cursed target (from any source) gain 10/20/30/40 attack speed. Damage over time to buildings is reduced by 100%. The slow duration is 2 seconds.",
+    "search_text": "Curse of Avernus E passive slow 10 15 20 25 percent dps 15 25 35 45 attack speed bonus 10 20 30 40 duration 2 seconds building damage reduced",
+    "tags": [
+      "ABADDON",
+      "ABILITY_DATA",
+      "CURSE_OF_AVERNUS",
+      "SLOW",
+      "ATTACK_SPEED",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Withering Mist (F): Passive. Damaging enemies applies the Withering Mist debuff for 5.0 seconds. Affected enemies have their Health Restoration reduced by 35% if they are below 40.0% HP. This is a built-in passive and not a facet.",
+    "search_text": "Withering Mist F passive health restoration reduction 35 percent threshold 40 percent HP duration 5 seconds",
+    "tags": [
+      "ABADDON",
+      "ABILITY_DATA",
+      "WITHERING_MIST",
+      "PASSIVE",
+      "HEAL_REDUCTION"
+    ]
+  },
+  {
+    "display_text": "Borrowed Time (R): Ultimate. When activated, applies a Strong Dispel on Abaddon. For 4/5/6 seconds, all damage dealt to Abaddon heals him instead of harming him. Cooldown is 90/85/80 seconds. If off cooldown, it automatically activates when Abaddon's health falls below 400. Can be manually activated while disabled (but not silenced). Passive activation is prevented by Break.",
+    "search_text": "Borrowed Time R ultimate strong dispel duration 4 5 6 seconds damage to heal cooldown 90 85 80 auto activate 400 HP threshold break disables passive manual cast while disabled",
+    "tags": [
+      "ABADDON",
+      "ABILITY_DATA",
+      "BORROWED_TIME",
+      "ULTIMATE",
+      "DISPEL",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against heavy magic burst (e.g., Zeus, Lina). Prioritize maxing Aphotic Shield early to absorb and reflect magic nukes. Build items like Pipe of Insight and Hood of Defiance. Your role is to soak key spells for your team and dispel silences.",
+    "search_text": "Abaddon scenario vs magic burst nuke Aphotic Shield Pipe of Insight Hood of Defiance dispel silence",
+    "tags": [
+      "ABADDON",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind as a support. Focus on saving your cores. Max Mist Coil and Aphotic Shield. Build cheap utility items like Glimmer Cape, Force Staff, and Holy Locket to amplify your healing and save potential. Use Borrowed Time to bait enemies into overcommitting on you.",
+    "search_text": "Abaddon scenario playing from behind support save cores Mist Coil Aphotic Shield Glimmer Cape Force Staff Holy Locket bait Borrowed Time",
+    "tags": [
+      "ABADDON",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "SUPPORT"
+    ]
+  },
+  {
+    "display_text": "Scenario: When your team lacks physical damage and you have a good start. Consider the Malignant Mist facet and build carry items like Armlet of Mordiggian, Desolator, and Assault Cuirass. Use Mist Coil to apply on-hit effects from range.",
+    "search_text": "Abaddon scenario carry physical damage Malignant Mist facet Armlet Desolator Assault Cuirass Mist Coil on-hit",
+    "tags": [
+      "ABADDON",
+      "SITUATIONAL",
+      "CORE_BUILD",
+      "MALIGNANT_MIST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against heroes with Break (Viper, Doom). You must play much more cautiously as your Borrowed Time will not auto-activate. Consider buying a Linken's Sphere or Lotus Orb to block the Break application. Communicate with your team to focus the Break hero first.",
+    "search_text": "Abaddon scenario vs break Viper Doom Borrowed Time no auto activate Linken's Sphere Lotus Orb",
+    "tags": [
+      "ABADDON",
+      "SITUATIONAL",
+      "VS_BREAK"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Choose between +10% Withering Mist Health Restoration Reduction (left) or Aphotic Shield provides +8 HP Regen (right). The left talent enhances your anti-sustain against low-HP enemies, useful against healers like Oracle or Huskar. The right talent provides significant personal sustain, making you tankier and less reliant on Mist Coil for self-heal. Choose left if the enemy has strong healing, otherwise right is generally more reliable.",
+    "search_text": "Abaddon talent level 10 left 10 percent Withering Mist heal reduction right Aphotic Shield 8 HP regen anti-heal sustain",
+    "tags": [
+      "ABADDON",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Choose between +40 Curse of Avernus DPS (left) or +35 Mist Coil Heal/Damage (right). The left talent increases your damage output and farming speed, especially if you are building as a right-clicker or have the Malignant Mist facet. The right talent significantly boosts your burst heal and nuke, better for a support/healer build. Pick based on your role in the game.",
+    "search_text": "Abaddon talent level 15 left 40 Curse of Avernus dps right 35 Mist Coil heal damage nuke support core",
+    "tags": [
+      "ABADDON",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Choose between +80 Aphotic Shield Barrier Amount (left) or +65 Curse of Avernus Attack Speed Bonus (right). The left talent makes your dispel and barrier much stronger, increasing survivability for you and your allies. The right talent dramatically boosts your and your team's right-click damage against cursed targets, a huge DPS increase for physical lineups. Choose left if you need more save, right if you need more damage.",
+    "search_text": "Abaddon talent level 20 left 80 Aphotic Shield barrier amount right 65 Curse of Avernus attack speed bonus save dps",
+    "tags": [
+      "ABADDON",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Choose between 100 Borrowed Time Immolation DPS in a 500 AoE (left) or 350 AoE Mist Coil (right). The left talent turns Borrowed Time into a significant AoE damage aura, excellent for tanking in the middle of fights. The right talent allows Mist Coil to hit all enemies and allies in a huge 350 radius, providing massive teamfight heal and damage. Left is better for a pure tank/disruptor, right is incredible for a support/healer or to apply on-hit effects in an AoE with the Malignant Mist facet.",
+    "search_text": "Abaddon talent level 25 left 100 Borrowed Time immolation dps 500 aoe right 350 AoE Mist Coil radius heal damage nuke",
+    "tags": [
+      "ABADDON",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

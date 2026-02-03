@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Misericorde, Cost: 0: Tier 3 neutral item. Provides Dark Mercy passive - your attacks deal 3 more damage for each 7% HP the enemy is missing. This makes it a powerful tool for finishing off low-health targets and scales damage significantly during prolonged fights or against high-health enemies. Stats: Damage per missing HP: 3, HP threshold per stack: 7%.",
+    "search_text": "damage per missing health, low health finisher, execute damage, missing hp damage, neutral item damage, scaling damage neutral, Dark Mercy, misericorde, tier 3 neutral, finishing item, physical damage neutral, kill secure",
+    "tags": [
+      "ITEM_DATA",
+      "MISERICORDE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "DAMAGE",
+      "PHYSICAL_DAMAGE",
+      "SCALING",
+      "FINISHER",
+      "CARRY_ITEM"
+    ]
+  }
+]

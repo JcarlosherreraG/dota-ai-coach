@@ -1,0 +1,49 @@
+[
+  {
+    "display_text": "Aghanim's Blessing, Cost: 5800: Purchasable upgrade that permanently improves a hero's ultimate ability and potentially modifies other abilities. It is a powerful late-game power spike that scales hero-specific powers. Consumed on use to bestow the Scepter effect without occupying an inventory slot. Stats: Cost: 5800.",
+    "search_text": "aghanims blessing, aghs upgrade, ultimate upgrade, ability upgrade, late game item, inventory free upgrade, consumed upgrade, Aghanim's Scepter effect, buyback aghs, aghanim's scepter 2, permanent aghs, aghs slot, power spike, hero upgrade, ultimate improvement, Aghanim's Blessing",
+    "tags": [
+      "ITEM_DATA",
+      "AGHANIMS_BLESSING",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "UPGRADE",
+      "ULTIMATE_UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Aghanim's Blessing, Cost: 5800: Provides no raw attribute or stat bonuses. The value comes entirely from the unique ability upgrade effect that permanently improves or alters a hero's ultimate. Does not occupy an inventory slot after use.",
+    "search_text": "aghanims blessing stats, no stats, ultimate only, no attributes, no stats item, ability upgrade only, pure utility upgrade, inventory free, Aghanim's Blessing",
+    "tags": [
+      "ITEM_DATA",
+      "AGHANIMS_BLESSING",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Aghanim's Blessing, Cost: 5800: A late-game power spike and win condition purchase that significantly enhances a hero's ultimate and sometimes other abilities. Critical for heroes whose effectiveness scales heavily with their Aghanim's Scepter upgrade.",
+    "search_text": "aghanims blessing team fight, win condition item, late game power spike, ultimate scaling, ultimate power, team fight impact, hero scaling, Aghanim's Blessing",
+    "tags": [
+      "ITEM_DATA",
+      "AGHANIMS_BLESSING",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "POWER_SPIKE",
+      "SCALING"
+    ]
+  },
+  {
+    "display_text": "Aghanim's Blessing, Cost: 5800: Must be bought after Aghanim's Scepter is already owned, freeing the inventory slot for another major item while retaining the powerful upgrade. This allows for a six-slotted late-game build where the hero still benefits from their Scepter effect.",
+    "search_text": "aghanims blessing synergy, aghs after aghs, inventory slot management, six slotted build, late game build, final upgrade, consume aghs, Aghanim's Blessing",
+    "tags": [
+      "ITEM_DATA",
+      "AGHANIMS_BLESSING",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "LATE_GAME",
+      "INVENTORY_MANAGEMENT"
+    ]
+  }
+]

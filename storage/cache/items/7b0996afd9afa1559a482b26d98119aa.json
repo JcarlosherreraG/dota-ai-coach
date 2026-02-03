@@ -1,0 +1,73 @@
+[
+  {
+    "display_text": "Ring of Aquila, Cost: N/A: Provides an aura granting +1 mana regeneration and +2 armor to nearby allied heroes and units within 1200 radius. Can be toggled to deactivate its aura effects for non-hero units. Core early game efficiency item for agility heroes. Stats: Aura Radius: 1200.",
+    "search_text": "aquila aura, ring of aquila, mana regen aura, armor aura, early game aura, team buff, support item, early game efficiency, aura item, cheap aura, ring item, agility aura, RING_OF_AQUILA, Aquila",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_AQUILA",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "TEAM_BUFF",
+      "SUPPORT_ITEM",
+      "MANA_REGEN",
+      "ARMOR"
+    ]
+  },
+  {
+    "display_text": "Ring of Aquila, Cost: N/A: Grants +3 damage, +3 strength, +9 agility, and +3 intelligence as flat attribute bonuses. Provides well-rounded early game stats, making it efficient for agility carries seeking a small power spike and lane sustain.",
+    "search_text": "ring of aquila stats, aquila stats, early agility stats, cheap stats item, early game attributes, stat item, ring aquila stats, stats for agility, early game carry item, RING_OF_AQUILA",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_AQUILA",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "AGILITY",
+      "DAMAGE",
+      "STRENGTH",
+      "INTELLIGENCE"
+    ]
+  },
+  {
+    "display_text": "Ring of Aquila, Cost: N/A: A team-oriented buff item for the early to mid game. Provides aura sustain in team fights and pushes by granting allies mana regeneration and armor. Its toggleable aura allows for lane control by preventing allied creeps from being buffed.",
+    "search_text": "team fight aura, push aura, early game team item, aura sustain, pushing item, team sustain, early game item, group aura, buff allies, armor aura, mana aura, RING_OF_AQUILA",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_AQUILA",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AURA",
+      "TEAM_BUFF",
+      "SUSTAIN",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Ring of Aquila, Cost: N/A: Provides early game mana regeneration to sustain spell spam and armor to mitigate physical harassment in lane. Its aura benefits the entire lane, making it effective for duo lanes or tri-lanes. The toggled state prevents giving enemy creeps buffs.",
+    "search_text": "laning item, early game sustain, lane mana regen, early armor, harass counter, lane item, early game item, duo lane item, tri-lane item, lane advantage, laning phase, mana sustain, RING_OF_AQUILA",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_AQUILA",
+      "EARLY_GAME_USAGE",
+      "FULL_ITEM",
+      "SUSTAIN",
+      "LANING",
+      "ARMOR",
+      "MANA_REGEN"
+    ]
+  },
+  {
+    "display_text": "Ring of Aquila, Cost: N/A: Strong synergy for agility heroes building other Ring of Basilius upgrades, as it provides efficient stats and aura utility. The bonus agility makes it particularly effective on heroes who scale with attack damage and armor.",
+    "search_text": "agility hero item, ring basilius upgrade, agility carry item, early carry item, stat efficient item, hero synergy, agility build, efficient item, RING_OF_AQUILA",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_AQUILA",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "AGILITY",
+      "CARRY_ITEM",
+      "EFFICIENCY"
+    ]
+  }
+]

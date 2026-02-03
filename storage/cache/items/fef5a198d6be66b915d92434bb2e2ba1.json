@@ -1,0 +1,65 @@
+[
+  {
+    "display_text": "Hand of Midas, Cost: 2200: Active ability (Transmute) instantly kills a non-hero target, granting 160 gold and a Madstone bundle if the target is a neutral creep. Cannot target Ancient creeps. Used to accelerate farm, gaining extra gold beyond the normal bounty and additional neutral item drops. Provides permanent bonus attack speed. Stats: Gold: 160 (unreliable), Attack Speed: +35, Active CD: 90s, Charges: 1.",
+    "search_text": "midas, farming item, farm acceleration, gold item, hand of midas, neutral creep kill, extra gold, madstone drop, attack speed item, farming tool, early gold, gold boost, farm boost, Hand of Midas, HOM, Transmute",
+    "tags": [
+      "ITEM_DATA",
+      "HAND_OF_MIDAS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "ATTACK_SPEED",
+      "GOLD",
+      "NEUTRAL_ITEM_DROP"
+    ]
+  },
+  {
+    "display_text": "Hand of Midas, Cost: 2200: Provides +35 Attack Speed. The gold from Transmute is unreliable, meaning it doesn't count toward hero or team net worth for passive gold and kill streak calculations. Stats: Attack Speed: +35.",
+    "search_text": "hand of midas stats, midas attack speed, unreliable gold, midas gold, stats, item stats, +35 attack speed, Hand of Midas",
+    "tags": [
+      "ITEM_DATA",
+      "HAND_OF_MIDAS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ATTACK_SPEED",
+      "GOLD"
+    ]
+  },
+  {
+    "display_text": "Hand of Midas, Cost: 2200: An investment item that accelerates gold and neutral item acquisition for farming cores. The 90-second cooldown dictates a timing window for usage, prioritizing high-value neutral creeps. It provides no direct combat stats or team fight contribution beyond raw attack speed. Stats: CD: 90s.",
+    "search_text": "farming role, gold acceleration, investment item, timing item, neutral item farming, farming core item, core farm item, Hand of Midas, midas timing",
+    "tags": [
+      "ITEM_DATA",
+      "HAND_OF_MIDAS",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "FARMING",
+      "INVESTMENT"
+    ]
+  },
+  {
+    "display_text": "Hand of Midas, Cost: 2200: Critical early purchase on heroes who scale well with attack speed and benefit from accelerated farm timing. Especially potent for heroes who can convert the attack speed into DPS or who need to reach key items quickly. The Madstone bundle drop also accelerates neutral item progression. Stats: CD: 90s.",
+    "search_text": "midas hero synergy, attack speed hero, farming hero, farm accelerator hero, DPS hero, scaling hero, madstone synergy, fast item timing, Hand of Midas",
+    "tags": [
+      "ITEM_DATA",
+      "HAND_OF_MIDAS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "ATTACK_SPEED_HERO",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Hand of Midas, Cost: 2200: A pure farm acceleration item with minimal combat impact. Its value comes from converting creeps into extra gold and neutral items, requiring efficient usage to justify its cost before key enemy power spikes. Typically bought by cores seeking a fast level and item advantage. Stats: Gold: 160.",
+    "search_text": "farming utility, farm speed, early investment, gold efficiency, level advantage, item timing, midas efficiency, Hand of Midas, farm tool",
+    "tags": [
+      "ITEM_DATA",
+      "HAND_OF_MIDAS",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "INVESTMENT",
+      "GOLD_EFFICIENCY"
+    ]
+  }
+]

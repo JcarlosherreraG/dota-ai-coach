@@ -1,0 +1,188 @@
+[
+  {
+    "display_text": "Slardar is a Melee Strength hero with low starting attributes: 21 Strength, 17 Agility, 15 Intelligence, and a very slow base Attack Speed of 1.7 seconds. He has below-average Intelligence gain, making mana management crucial early. His core strength lies in high movement speed potential, armor reduction, and reliable single-target lockdown, making him a natural initiator and physical damage amplifier.",
+    "search_text": "Slardar stats base attributes melee strength hero attack speed 1.7 slow int low mana",
+    "tags": [
+      "SLARDAR",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Slardar has two Facet choices. The 'Leg Day' Facet provides slow resistance and a greater initial speed boost when Guardian Sprint is activated. The 'Brineguard' Facet makes Corrosive Haze grant Slardar bonus armor equal to a percentage of the total armor reduced on the target. Brineguard enhances his survivability and tankiness when focusing a debuffed target, while Leg Day improves his initiation reliability against slows.",
+    "search_text": "Slardar Facets Leg Day Brineguard choice slow resistance bonus armor initiation tankiness",
+    "tags": [
+      "SLARDAR",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase (first 10 minutes), Slardar plays as a strong lane bully with Slithereen Crush. Use the 75/150/225/300 damage and 0.8s stun in the 325 AoE to secure last hits and harass. His 1.7 base attack time makes last-hitting difficult; focus on using Crush. Level 1 Bash of the Deep adds 35 bonus damage on the third hit. Manage his low mana pool carefully. Guardian Sprint can be skilled early for better positioning or escape, providing 10/18/26/34 bonus movement speed.",
+    "search_text": "Slardar laning phase early game last hits bully Slithereen Crush 325 AoE 300 damage stun Bash of the Deep mana low",
+    "tags": [
+      "SLARDAR",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Slardar's key Power Spikes are: Level 6 with Corrosive Haze for -10 armor ganks. Level 12 with maxed Slithereen Crush (300 damage) and Guardian Sprint for initiation. Level 15 with the +14 Seaborn Sentinel Damage talent significantly increases his right-click. Level 20 with +125 Slithereen Crush Damage or -4 Corrosive Haze Armor. Level 25 talents dramatically change fights: Corrosive Haze becomes Undispellable, or Crush cooldown drops to 4 seconds for constant AoE control. A Blink Dagger timing is his biggest early-game spike.",
+    "search_text": "Slardar power spikes level 6 12 15 20 25 Corrosive Haze armor reduction Blink Dagger talent timing",
+    "tags": [
+      "SLARDAR",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Slardar is Hard Countered by: Break (e.g., Silver Edge) which disables his Bash of the Deep and Seaborn Sentinel passives. High armor or damage reduction heroes that mitigate his physical damage and armor reduction. Instant disables that prevent him from initiating with Guardian Sprint or landing Slithereen Crush after Blink. Heroes with strong dispels can remove his standard Corrosive Haze before Level 25. His low Intelligence makes him vulnerable to mana burn.",
+    "search_text": "Slardar counters Break Silver Edge passive disabled high armor dispel mana burn low intelligence",
+    "tags": [
+      "SLARDAR",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Slardar's Core Build consists of Blink Dagger and Black King Bar. Blink Dagger is non-negotiable for initiating with Slithereen Crush. Black King Bar is essential to channel his combo (Blink -\u003e Crush -\u003e Haze -\u003e attacks) without being interrupted, as none of his abilities pierce spell immunity (BKB). Aghanim's Scepter is a strong situational core item, increasing the puddle duration by 5 seconds and radius by 75, enhancing his in-fight mobility and sustain via Seaborn Sentinel.",
+    "search_text": "Slardar core items Blink Dagger BKB Black King Bar Aghanim Scepter initiation mandatory",
+    "tags": [
+      "SLARDAR",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In Teamfights, Slardar's Role is to initiate on a key target, usually the enemy carry or a squishy core. He Blinks in, uses Slithereen Crush for AoE stun and slow, immediately applies Corrosive Haze for armor reduction and True Sight, and then right-clicks with Bash of the Deep procs. He should stay in his created puddles or water trails for bonus damage, armor, and regeneration from Seaborn Sentinel. His job is to lock down and amplify physical damage on one target, enabling his team to burst them.",
+    "search_text": "Slardar teamfight role initiator Blink Crush stun Corrosive Haze armor reduction True Sight right click lockdown",
+    "tags": [
+      "SLARDAR",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Guardian Sprint. Slardar moves faster, passing through units for 10 seconds. Cooldown is 29/25/21/17 seconds. Provides 10/18/26/34 bonus movement speed. Activating does not interrupt channeling. This ability does NOT pierce BKB.",
+    "search_text": "Guardian Sprint Q ability mobility speed 10 18 26 34 movement through units cooldown 29 25 21 17 no channel interrupt",
+    "tags": [
+      "SLARDAR",
+      "ABILITY_DATA",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Ability: Slithereen Crush. Slams ground, stunning enemies in a 325 radius for 0.8 seconds and dealing 75/150/225/300 damage. Leaves a puddle lasting 7 seconds. After the stun, affected units are slowed by -20/-25/-30/-35% attack speed and -20/-25/-30/-35 movement speed for 3/4/5/6 seconds. Cooldown is 7 seconds. This ability does NOT pierce BKB.",
+    "search_text": "Slithereen Crush W ability AoE stun 0.8s damage 75 150 225 300 radius 325 slow attack speed movement puddle 7s cooldown 7",
+    "tags": [
+      "SLARDAR",
+      "ABILITY_DATA",
+      "STUN",
+      "NUKE",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Ability: Bash of the Deep. Passive. After 3 attacks, your next attack will bash the target for 1 second and deal 35/90/145/200 bonus physical damage. Does not stack with Skull Basher.",
+    "search_text": "Bash of the Deep E ability passive proc bash stun 1s bonus damage 35 90 145 200 physical no Skull Basher stack",
+    "tags": [
+      "SLARDAR",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "BASH",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Ability: Seaborn Sentinel. Passive. While in a puddle, trail (from Corrosive Haze), or river, Slardar gains: 8/16/24/32 bonus attack damage, 18 bonus movement speed, 2.5/5.0/7.5/10.0 health regeneration, and 3/4/5/6 bonus armor.",
+    "search_text": "Seaborn Sentinel D ability passive water puddle trail river bonus damage 8 16 24 32 speed 18 hp regen 2.5 5 7.5 10 armor 3 4 5 6",
+    "tags": [
+      "SLARDAR",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "BUFF"
+    ]
+  },
+  {
+    "display_text": "Ability: Corrosive Haze. Reduces enemy armor by 10/15/20, provides True Sight and vision of the target for 18 seconds. The enemy leaves a trail of water (100 radius puddle) behind them for 7 seconds. Cooldown is 5 seconds. This ability does NOT pierce BKB by default. At Level 25, the Undispellable talent makes it pierce dispels.",
+    "search_text": "Corrosive Haze R ultimate armor reduction -10 -15 -20 True Sight vision 18s trail water puddle 100 radius cooldown 5s",
+    "tags": [
+      "SLARDAR",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "DEBUFF",
+      "ARMOR_REDUCTION",
+      "TRUE_SIGHT"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor and Illusion Heroes. Slardar's Corrosive Haze reduces armor by a flat 10/15/20, which is most effective against high base armor targets. The True Sight reveals invisible heroes like Riki or Treant. Against illusions (e.g., Phantom Lancer), Slithereen Crush provides AoE damage and control. Your focus should be to Haze the real hero and burst them down with your team's physical damage.",
+    "search_text": "Slardar situation high armor illusions True Sight Riki Phantom Lancer armor reduction flat physical damage",
+    "tags": [
+      "SLARDAR",
+      "SITUATIONAL",
+      "HIGH_ARMOR",
+      "ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When Slardar is under-leveled or under-farmed, he can still contribute. Use Corrosive Haze (5s cooldown) to provide vision and armor reduction for your carry in fights. Stay on the edge of fights, using Slithereen Crush (7s cooldown) for its stun and slow utility rather than diving deep. Build utility items like Aether Lens to cast Haze from safety, or Force Staff to save allies. Avoid expensive damage items; focus on survival and control.",
+    "search_text": "Slardar behind underfarmed utility Corrosive Haze vision support Aether Lens Force Staff control survival",
+    "tags": [
+      "SLARDAR",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Physical Damage Team. Slardar excels with allies who deal physical damage (e.g., Drow Ranger, Templar Assassin, Lycan). Your Corrosive Haze amplifies their damage significantly. Communicate your initiation target so allies can focus fire. The Brineguard Facet becomes more valuable here, as staying alive longer to keep applying Haze is key. Your role shifts slightly from pure initiator to a damage amplifier and secondary frontliner.",
+    "search_text": "Slardar physical damage team Drow TA Lycan armor reduction amplifier Brineguard Facet frontliner",
+    "tags": [
+      "SLARDAR",
+      "SITUATIONAL",
+      "PHYSICAL_TEAM"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Mobile Heroes. Heroes with high mobility (e.g., Storm Spirit, Anti-Mage) can kite Slardar. Maximize Guardian Sprint early and consider the Leg Day Facet for slow resistance. Your initiation relies on Blink + Crush; save Bash of the Deep for after they use their escape. Building a Basher or Abyssal Blade can help lock them down after their BKB. Corrosive Haze's vision helps track their movements.",
+    "search_text": "Slardar mobile heroes Storm Spirit Anti-Mage kite Guardian Sprint Leg Day Blink Crush Bash Basher vision",
+    "tags": [
+      "SLARDAR",
+      "SITUATIONAL",
+      "VS_MOBILE"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Choice between +2s Guardian Sprint Duration and +14 Seaborn Sentinel Bonus Damage. The Guardian Sprint talent extends its uptime from 10s to 12s, improving chase and map movement. The Seaborn Sentinel talent adds 14 damage to its river/puddle bonus (becoming 22/30/38/46), increasing farming speed and right-click damage in fights. Pick Sprint duration if you need more mobility for initiation/escape. Pick Sentinel damage if you are farming or focusing on right-click.",
+    "search_text": "Slardar talent level 10 left +2s Guardian Sprint duration right +14 Seaborn Sentinel damage mobility farm chase",
+    "tags": [
+      "SLARDAR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Choice between +300 Health and +40 Bash of the Deep Damage. The +300 Health talent significantly improves survivability, making you harder to burst. The +40 Bash of the Deep Damage increases the bonus damage of your proc from 35/90/145/200 to 75/130/185/240, a substantial boost to your burst potential. Choose Health if you are dying quickly in fights or are the main initiator. Choose Bash Damage if you are snowballing and can afford to be more aggressive.",
+    "search_text": "Slardar talent level 15 left +300 Health right +40 Bash of the Deep damage survivability tank burst kill potential",
+    "tags": [
+      "SLARDAR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Choice between +125 Slithereen Crush Damage and -4 Corrosive Haze Armor. The Crush Damage talent adds 125 to its damage at all levels (becoming 200/275/350/425), turning it into a powerful nuke. The Haze Armor talent increases the armor reduction from -10/-15/-20 to -14/-19/-24, dramatically amplifying physical damage from your entire team. Choose Crush Damage if you need burst and wave clear. Choose Haze Armor if your team has multiple physical damage dealers or against high-armor targets.",
+    "search_text": "Slardar talent level 20 left +125 Slithereen Crush damage right -4 Corrosive Haze armor reduction nuke wave clear team physical damage amp",
+    "tags": [
+      "SLARDAR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Choice between -3s Slithereen Crush Cooldown and Corrosive Haze Undispellable. The Crush Cooldown talent reduces it from 7s to 4s, allowing near-constant AoE stuns and slows. The Haze Undispellable talent makes the debuff impossible to remove by any means, ensuring the armor reduction and True Sight persist for the full 18 seconds. Choose Crush Cooldown for extreme crowd control and teamfight presence. Choose Haze Undispellable against heroes with strong dispels (e.g., Abaddon, Legion Commander) or Linken's Sphere carriers.",
+    "search_text": "Slardar talent level 25 left -3s Slithereen Crush cooldown 4s right Corrosive Haze Undispellable crowd control dispel immune True Sight",
+    "tags": [
+      "SLARDAR",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

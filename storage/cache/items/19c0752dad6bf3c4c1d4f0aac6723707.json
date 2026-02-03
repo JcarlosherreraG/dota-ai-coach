@@ -1,0 +1,14 @@
+[
+  {
+    "display_text": "Null Talisman Recipe, Cost: 210: Recipe component required to assemble Null Talisman. Does not provide any stats or abilities. Must be purchased alongside a Circlet and a Mantle of Intelligence to complete the item. Stats: Cost: 210.",
+    "search_text": "null talisman recipe, talisman recipe, component item, int item recipe, assembly component, Null Talisman Recipe, recipe, item recipe",
+    "tags": [
+      "ITEM_DATA",
+      "NULL_TALISMAN_RECIPE",
+      "CORE_DESCRIPTION",
+      "RECIPE",
+      "COMPONENT",
+      "UPGRADE"
+    ]
+  }
+]

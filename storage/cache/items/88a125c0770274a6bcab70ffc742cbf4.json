@@ -1,0 +1,67 @@
+[
+  {
+    "display_text": "Super Blink, Cost: N/A: Instantly teleports your hero up to 1200 units in the targeted direction, but will not blink further than 960 units from your original cast point. This clamps the maximum travel distance, preventing you from overshooting your intended landing zone. A core mobility tool for precise repositioning. Stats: CD: 15s, Max Range: 1200, Clamp Range: 960.",
+    "search_text": "super blink, blink item, mobility item, reposition, escape tool, initiation tool, teleport, repositioning, gap closer, instant movement, max blink range, range clamp, precise blink, short teleport, Super Blink",
+    "tags": [
+      "ITEM_DATA",
+      "SUPER_BLINK",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MOBILITY",
+      "POSITIONING",
+      "ESCAPE",
+      "INITIATION"
+    ]
+  },
+  {
+    "display_text": "Super Blink, Cost: N/A: Provides no attributes, stats, or bonus damage. Its value is purely derived from its powerful, repositioning active ability.",
+    "search_text": "super blink stats, blink dagger no stats, mobility item no stats, pure utility item, utility only, Super Blink",
+    "tags": [
+      "ITEM_DATA",
+      "SUPER_BLINK",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Super Blink, Cost: N/A: Functions as a powerful initiation or escape tool, allowing heroes to instantly close a gap or flee from danger. The range clamp ensures you land predictably within 960 units of your starting point, making it excellent for precise engagements or disengagements over cliffs and terrain.",
+    "search_text": "super blink teamfight, initiation blink, escape blink, catch tool, surprise engage, disengage tool, terrain blink, cliff jumping, team fight mobility, Super Blink",
+    "tags": [
+      "ITEM_DATA",
+      "SUPER_BLINK",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "INITIATION",
+      "ESCAPE",
+      "CATCH",
+      "POSITIONING"
+    ]
+  },
+  {
+    "display_text": "Super Blink, Cost: N/A: Situational versus heroes that rely on positioning or have long-range disables. The ability to instantly close a specific, predictable distance makes it strong for landing targeted abilities or escaping slow-moving projectiles, but does not help against instant, point-blank control.",
+    "search_text": "super blink vs range, blink vs skillshots, counter positioning, escape from range, gap close vs kiting, initiation vs backline, Super Blink",
+    "tags": [
+      "ITEM_DATA",
+      "SUPER_BLINK",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "POSITIONING",
+      "MOBILITY",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Super Blink, Cost: N/A: Synergizes strongly with heroes who have powerful, short-range AoE ultimates or point-target disables that require precise positioning (e.g., Axe, Earthshaker, Kunkka). The clamped range allows them to guarantee they land exactly where needed to maximize their spell impact.",
+    "search_text": "super blink initiator, blink axe, blink earthshaker, blink magnus, blink kunkka, positioning for ult, precise ultimate placement, combo initiator, Super Blink",
+    "tags": [
+      "ITEM_DATA",
+      "SUPER_BLINK",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INITIATOR_ITEM",
+      "COMBO_ITEM",
+      "UTILITY"
+    ]
+  }
+]

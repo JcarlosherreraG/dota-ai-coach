@@ -1,0 +1,213 @@
+[
+  {
+    "display_text": "Phantom Assassin is a Melee Agility hero with 21 base Agility, 19 base Strength, and 15 base Intelligence. Her attack rate is 1.7 seconds per attack. Her primary stat is Agility, making her damage scale with attack speed and armor.",
+    "search_text": "Phantom Assassin stats melee agility base attack rate 1.7 21 agility 19 strength 15 intelligence",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Veiled One. Blur is no longer dispelled when attacking and reduces mana costs during and after Blur. This facet rewards aggressive, sustained fighting by removing a key limitation of the standard Blur, allowing Phantom Assassin to initiate and man-fight without losing her evasion and move speed buff.",
+    "search_text": "Veiled One facet Phantom Assassin Blur not dispelled by attack reduces mana costs",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Facet 2: Methodical. Coup de Grace procs every set number of attacks on the same hero or non-hero units. This facet transforms her damage output from random crits to predictable, guaranteed bursts, ideal for focusing down single targets or farming consistently.",
+    "search_text": "Methodical facet Phantom Assassin Coup de Grace procs every set attacks guaranteed crit",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Facet 3: Sweet Release. Stifling Dagger re-casts when an enemy dies. This facet enhances wave clear and teamfight cleanup, allowing Phantom Assassin to chain daggers through enemy ranks, applying slows and damage repeatedly.",
+    "search_text": "Sweet Release facet Phantom Assassin Stifling Dagger recast on enemy kill chain dagger",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Stifling Dagger (6s cooldown) to harass from a safe distance, applying a 50% slow and dealing 65-80 + 30-75% of your attack damage. Prioritize last hitting with your high base damage. Use Phantom Strike (650-950 cast range) to secure last hits on ranged creeps or to escape by blinking to allied units. Your low HP pool makes you vulnerable to nukes, so avoid prolonged trades.",
+    "search_text": "Phantom Assassin laning phase Stifling Dagger harass 6 second cooldown 50% slow Phantom Strike last hit escape 650-950 range",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spike 1: Level 6 with Coup de Grace. Gains a 17% chance for a 200/300/400% critical strike, massively increasing kill threat with Phantom Strike. Power Spike 2: Level 12 with maxed Blur and Coup de Grace level 2. High evasion (35-55% with Immaterial) and stronger crits. Power Spike 3: Level 18 with max Coup de Grace (400% crit). Power Spike 4: Level 20 Talent choice of +200 Phantom Strike Cast Range or +60 Phantom Strike Attack Speed. Power Spike 5: Level 25 Talent choice of +10% Coup de Grace chance or Triple Strike Stifling Dagger.",
+    "search_text": "Phantom Assassin power spikes level 6 Coup de Grace 17% crit 200% level 12 Blur evasion level 18 400% crit level 20 talent range attack speed level 25 talent",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard Counter 1: Heroes with Break (e.g., Silver Edge, Hoodwink). Break disables her passive Immaterial evasion (25-55%) and Coup de Grace critical strike chance. Hard Counter 2: Instant disables and hexes (e.g., Lion, Shadow Shaman). Prevent her from using Phantom Strike to escape or initiate. Hard Counter 3: High physical burst and minus armor (e.g., Slardar, TA). Bypass her evasion with accuracy sources or sheer damage. Hard Counter 4: Illusion and summon heroes (e.g., Chaos Knight, Naga Siren). Can overwhelm and misdirect her single-target focus.",
+    "search_text": "Phantom Assassin counters break disable evasion Coup de Grace instant hex disable physical burst minus armor illusions",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build 1: Battle Fury. Essential for farming acceleration and cleave damage in fights. Core Build 2: Desolator. Provides massive armor reduction, synergizing with her physical burst from crits. Core Build 3: Black King Bar. Mandatory to avoid being disabled during her attack sequences in teamfights.",
+    "search_text": "Phantom Assassin core items Battle Fury farm Desolator armor reduction Black King Bar BKB magic immunity",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Phantom Assassin's role is to assassinate a key enemy core or support. Use Blur for positioning and to disjoint projectiles. Initiate with Phantom Strike on a high-value target, followed by attacks to proc Coup de Grace. Use Stifling Dagger to slow priority targets from range. She is a clean-up hero, entering fights after initial disables are used to avoid being locked down.",
+    "search_text": "Phantom Assassin teamfight role assassin pickoff key target Blur disjoint Phantom Strike initiate Coup de Grace crit clean up",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Stifling Dagger. Throws a dagger slowing the enemy unit's movement speed by 50% for 2.1/2.4/2.7/3 seconds. Deals 65/70/75/80 base damage plus 30/45/60/75% of Phantom Assassin's attack damage as physical damage. Applies attack effects from items and abilities. Cooldown is 6 seconds. Does NOT pierce BKB (slow does not affect spell immune enemies). Grants vision while traveling and on impact.",
+    "search_text": "Stifling Dagger Q slow 50% 2.1-3s duration physical damage 65-80 plus 30-75% attack damage applies item effects cooldown 6 vision projectile",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "ABILITY_DATA",
+      "STIFLING DAGGER"
+    ]
+  },
+  {
+    "display_text": "Ability: Phantom Strike. Teleports to a unit, friendly or enemy, with a cast range of 650/750/850/950. If the target is an enemy, grants 100/130/160/190 bonus attack speed for 2.5 seconds.",
+    "search_text": "Phantom Strike W blink teleport 650-950 range bonus attack speed 100-190 2.5s duration",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "ABILITY_DATA",
+      "PHANTOM STRIKE"
+    ]
+  },
+  {
+    "display_text": "Ability: Blur. Phantom Assassin blurs her body, increasing movement speed by 6/9/12/15%, disjointing incoming projectiles, and becoming invisible to enemy heroes and towers until she comes within a radius of 625/550/475/400. Lasts 30 seconds with a 0.4/0.6/0.8/1.0 second fade time. Cooldown is 45 seconds. Attacking Roshan dispels the invisibility. Does NOT provide true invisibility; can be revealed by detection.",
+    "search_text": "Blur E active move speed 6-15% disjoint projectiles invisibility radius 625-400 fade time 0.4-1.0s duration 30s cooldown 45s",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "ABILITY_DATA",
+      "BLUR"
+    ]
+  },
+  {
+    "display_text": "Ability: Fan of Knives. Phantom Assassin releases sharp blades around her in a 550 radius, dealing 30% of each victim's max health as initial damage and applying Break for 4 seconds. While Broken, victims have 50% reduced health regeneration and healing and have their passive abilities disabled. Deals 2% of max health per second as damage over the duration.",
+    "search_text": "Fan of Knives F ultimate shard 550 AOE 30% max health initial damage Break 4 seconds degen 2% health per second disables passives",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "ABILITY_DATA",
+      "FAN OF KNIVES"
+    ]
+  },
+  {
+    "display_text": "Ability: Immaterial. Passive. Provides 25/35/45/55% Evasion, stacking diminishingly with other sources. Improves with Phantom Assassin's levels.",
+    "search_text": "Immaterial passive evasion 25-55% scales with level",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "ABILITY_DATA",
+      "IMMATERIAL",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Coup de Grace. Passive. Grants a 17% chance on attack to gain Deadly Focus for 6/8/10 seconds. The next attack consumes Deadly Focus to guarantee a critical hit of 200/300/400% damage. Stifling Dagger has a 34% chance to cause Deadly Focus.",
+    "search_text": "Coup de Grace R ultimate passive 17% crit chance 200-400% damage Deadly Focus buff 6-10s duration Stifling Dagger 34% chance",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "ABILITY_DATA",
+      "COUP DE GRACE",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor or Illusion Heroes. Prioritize Battle Fury for cleave damage and farm. Consider a Silver Edge for Break against passives like Crimson Guard or high armor from items. Mjollnir is effective for clearing illusions. Avoid committing Phantom Strike onto illusions; use Stifling Dagger to identify the real hero.",
+    "search_text": "Phantom Assassin vs high armor illusions Battle Fury cleave Silver Edge Break Mjollnir Stifling Dagger identify real hero",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "SITUATIONAL",
+      "HIGH_ARMOR",
+      "ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on farming with Stifling Dagger and Battle Fury. Use Blur defensively to escape ganks and avoid fights. Build cost-effective stats like Wraith Bands and a casual Morbid Mask for sustain. Consider Aghanim's Shard for Fan of Knives Break utility to contribute in fights without committing. Your power spike is delayed until core items are online.",
+    "search_text": "Phantom Assassin behind farming Battle Fury Blur escape Wraith Band Morbid Mask Aghanim Shard Fan of Knives Break utility",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "FARMING"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy Team Has Heavy Magic Burst. Rush Black King Bar immediately after Battle Fury or Desolator. Consider a Linken's Sphere if they have single-target disables like Doom or Hex. Use Blur to disjoint projectile spells. Time your Phantom Strike engage after enemy key spells are used.",
+    "search_text": "Phantom Assassin vs magic burst Black King Bar BKB Linken Sphere single target disable Blur disjoint Phantom Strike timing",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "SITUATIONAL",
+      "MAGIC_BURST",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "Scenario: You Are the Primary Carry and Need to End Early. After Battle Fury and Desolator, build into a fast Black King Bar and Satanic. Take the Methodical facet for guaranteed crits on key targets. Group with your team at level 12+ and use Roshan advantage to siege high ground. Your goal is to burst key heroes before they can react.",
+    "search_text": "Phantom Assassin early end game Battle Fury Desolator BKB Satanic Methodical facet group push Roshan sieg high ground burst",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "SITUATIONAL",
+      "EARLY_END",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talent Choice: Left talent provides +0.6s Phantom Strike Duration, extending the attack speed buff to 3.1s total. Right talent provides -1.5s Stifling Dagger Cooldown, reducing it to 4.5s. Choose the left talent for more sustained man-fight damage, especially with the Veiled One facet. Choose the right talent for more frequent harassment, wave clear, and Deadly Focus procs with the Sweet Release facet.",
+    "search_text": "Phantom Assassin level 10 talent left +0.6s Phantom Strike duration right -1.5s Stifling Dagger cooldown",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talent Choice: Left talent provides +20% Immaterial Evasion, raising it to a maximum of 75% at level 4. Right talent provides +15% Stifling Dagger Damage, increasing the attack damage multiplier. Choose the left talent for survivability against physical damage cores. Choose the right talent for increased poke damage and burst potential, especially when paired with the Sweet Release facet.",
+    "search_text": "Phantom Assassin level 15 talent left +20% Immaterial Evasion right +15% Stifling Dagger Damage",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talent Choice: Left talent provides +200 Phantom Strike Cast Range, increasing maximum blink range to 1150. Right talent provides +60 Phantom Strike Attack Speed, raising the maximum bonus to 250. Choose the left talent for better initiation and escape, allowing safer positioning. Choose the right talent for maximum attack speed during the burst window, synergizing with the Methodical facet for faster guaranteed crits.",
+    "search_text": "Phantom Assassin level 20 talent left +200 Phantom Strike Cast Range right +60 Phantom Strike Attack Speed",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talent Choice: Left talent provides +10% Coup de Grace chance, raising it to 27%. Right talent causes Stifling Dagger to launch two extra daggers towards random visible enemies within cast range. Choose the left talent for significantly higher critical strike frequency, maximizing single-target damage. Choose the right talent for massive AOE slow and damage output in teamfights, excellent with the Sweet Release facet for chain reactions.",
+    "search_text": "Phantom Assassin level 25 talent left +10% Coup de Grace chance right Triple Strike Stifling Dagger extra daggers",
+    "tags": [
+      "PHANTOM ASSASSIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Greedy, Cost: 0: Tier 4 enhancement for neutral items that increases GPM but reduces attack damage and adds mana. Provides +75/100 bonus GPM and +200/250 bonus mana, but reduces attack damage by 30/60. Provides economic scaling at the cost of combat effectiveness. Stats: GPM Bonus: +75/+100, Mana: +200/+250, Attack Damage: -30/-60.",
+    "search_text": "neutral item enhancement, greedy upgrade, GPM bonus, gold per minute, increase gold, passive gold, gold scaling, economy item, mana bonus, cost damage, negative damage, attack damage penalty, Greedy, Greedy enhancement",
+    "tags": [
+      "ITEM_DATA",
+      "GREEDY",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_4",
+      "UPGRADE",
+      "GPM",
+      "MANA",
+      "DAMAGE_PENALTY",
+      "ECONOMY",
+      "SCALING"
+    ]
+  }
+]

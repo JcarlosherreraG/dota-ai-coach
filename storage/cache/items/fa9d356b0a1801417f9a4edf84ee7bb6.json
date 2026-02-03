@@ -1,0 +1,73 @@
+[
+  {
+    "display_text": "Buckler, Cost: 425: Early game support and aura item that grants +1 Armor to the holder and a +2 Armor aura to allied player units within 1200 range. A cost-effective way to bolster physical defense for your team during laning and early pushes. Stats: Armor: +1, Aura Armor: +2, Radius: 1200.",
+    "search_text": "aura item, armor aura, team armor, early armor, teamfight aura, team defense, physical defense aura, support armor, group armor, push item, cheap aura, physical resistance, buckler item, Buckler",
+    "tags": [
+      "ITEM_DATA",
+      "BUCKLER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "DEFENSIVE",
+      "ARMOR",
+      "VS_PHYSICAL",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Buckler, Cost: 425: Provides a base +1 Armor to the holder and a significant +2 Armor aura to all nearby allied heroes, creeps, and summoned units. The aura's 1200 radius makes it effective for grouped laning and early team fights.",
+    "search_text": "buckler stats, armor stats, buckler aura radius, buckler aura bonus, aura radius, buckler holder bonus, Buckler",
+    "tags": [
+      "ITEM_DATA",
+      "BUCKLER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ARMOR",
+      "BUFF",
+      "AURA"
+    ]
+  },
+  {
+    "display_text": "Buckler, Cost: 425: Team-oriented item that boosts the physical survivability of your entire team. Effective for early tower pushes and skirmishes where your team is grouped, providing a significant effective HP increase against enemy right-clicks.",
+    "search_text": "buckler team fight, teamfight armor, push armor, early push item, group fight defense, team survival, physical defense team fight, team aura, Buckler",
+    "tags": [
+      "ITEM_DATA",
+      "BUCKLER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "DEFENSIVE",
+      "VS_PHYSICAL",
+      "TEAM_UTILITY"
+    ]
+  },
+  {
+    "display_text": "Buckler, Cost: 425: Key counter item against lineups with high physical damage output in the early and mid-game. The armor aura reduces the impact of physical harass in lane and the damage from enemy carries and right-click supports.",
+    "search_text": "buckler counter, vs physical damage, armor vs physical, counter physical damage, anti physical, early armor counter, lane harass counter, Buckler",
+    "tags": [
+      "ITEM_DATA",
+      "BUCKLER",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "DEFENSIVE",
+      "ARMOR"
+    ]
+  },
+  {
+    "display_text": "Buckler, Cost: 425: Strong synergy with melee cores and supports who fight within the aura radius. Upgrades into Mekansm and Crimson Guard, making it a foundational purchase for heroes building those items. Its value peaks in the early game before enemy damage scales.",
+    "search_text": "buckler build, mekansm component, crimson guard component, aura support item, support upgrade, melee core aura, aura synergy, Buckler",
+    "tags": [
+      "ITEM_DATA",
+      "BUCKLER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "COMPONENT",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

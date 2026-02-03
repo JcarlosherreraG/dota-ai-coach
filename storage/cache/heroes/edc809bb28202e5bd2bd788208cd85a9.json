@@ -1,0 +1,201 @@
+[
+  {
+    "display_text": "Void Spirit is a Melee hero with a base attack time of 1.7. Starting attributes: 22 Strength, 21 Agility, 24 Intelligence. This gives him balanced base damage and survivability, with higher Intelligence for mana pool and spellcasting.",
+    "search_text": "Void Spirit base stats melee attack rate 1.7 strength 22 agility 21 intelligence 24",
+    "tags": [
+      "Void Spirit",
+      "BASE_STATS",
+      "STATS",
+      "ATTACK_TYPE"
+    ]
+  },
+  {
+    "display_text": "Void Spirit has three Facets. Sanctuary changes Resonant Pulse to provide an all-damage barrier, ideal against magic-heavy lineups. Symmetry provides a physical damage barrier, effective against physical attackers. Call of the Void creates Aether Remnants from Dissimilate portals, enhancing area control and burst damage in teamfights.",
+    "search_text": "Void Spirit facets Sanctuary Symmetry Call of the Void Resonant Pulse all damage barrier physical barrier Dissimilate Aether Remnants",
+    "tags": [
+      "Void Spirit",
+      "FACET_STRATEGY",
+      "FACETS"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Void Spirit should use Aether Remnant to pull enemies and secure last hits, dealing 90/140/190/240 damage. Resonant Pulse provides a shield absorbing 25/50/75/100 physical damage plus 35/50/65/80 per hero hit, allowing favorable trades. Dissimilate offers escape with 1.1 second phase duration. Manage mana with base 24 Intelligence and Intrinsic Edge bonus.",
+    "search_text": "Void Spirit laning Aether Remnant damage pull Resonant Pulse shield absorb Dissimilate escape mana management",
+    "tags": [
+      "Void Spirit",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Void Spirit's power spikes at level 6 with Astral Step, enabling gap-close and burst damage. Level 10 talents enhance mana regen or Resonant Pulse damage. Level 15 talents increase Aether Remnant damage or add Outer Dissimilate Ring. Level 20 reduces Astral Step charge restore time to 22/17/12 seconds. Level 25 offers 140% Astral Step critical or Dissimilate root for 2 seconds.",
+    "search_text": "Void Spirit power spikes level 6 Astral Step level 10 talents level 15 talents level 20 charge restore level 25 critical root",
+    "tags": [
+      "Void Spirit",
+      "POWER_SPIKES",
+      "LEVELS"
+    ]
+  },
+  {
+    "display_text": "Void Spirit is countered by silence and break effects that disable his Intrinsic Edge and prevent spellcasting. Instant hex or stuns can stop Dissimilate and Astral Step. High burst magic damage can bypass his physical barrier if not using Sanctuary facet.",
+    "search_text": "Void Spirit counters silence break hex stun magic burst disable mobility",
+    "tags": [
+      "Void Spirit",
+      "HARD_COUNTERS",
+      "COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items for Void Spirit are Bottle for sustain, Witch Blade for intelligence scaling and slow, and Scythe of Vyse for reliable disable. These items synergize with his spell-based playstyle and intelligence growth.",
+    "search_text": "Void Spirit core items Bottle Witch Blade Scythe of Vyse intelligence disable",
+    "tags": [
+      "Void Spirit",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Void Spirit's role is to initiate with Astral Step to mark and slow enemies, follow up with Dissimilate for area damage, and use Aether Remnant to pull key targets. Resonant Pulse provides survivability, and he should focus on bursting down backline heroes.",
+    "search_text": "Void Spirit teamfight initiator burst damage mobile control Aether Remnant Dissimilate Astral Step",
+    "tags": [
+      "Void Spirit",
+      "TEAMFIGHT_ROLE",
+      "ROLE"
+    ]
+  },
+  {
+    "display_text": "Aether Remnant places a remnant at a target location with a 0.4 second activation delay. It lasts 17 seconds and has a 300 radius. When a unit crosses within 130 radius of its gaze over 450 distance, it pulls the unit towards the remnant by 44/50/56/62 units over 1.0/1.2/1.4/1.6 seconds, dealing 90/140/190/240 magic damage. Cooldown scales from 17 to 11 seconds. Does not pierce creeps (pierces_creeps: 0).",
+    "search_text": "Aether Remnant Q pull damage 90 140 190 240 cooldown 17 15 13 11 radius 300 pull duration 1.0 1.2 1.4 1.6 activation delay 0.4",
+    "tags": [
+      "Void Spirit",
+      "ABILITY_DATA",
+      "AETHER_REMNANT",
+      "CONTROL",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Dissimilate makes Void Spirit phase for 1.1 seconds, creating 6 portals in a ring at 520 distance. Upon exiting, he deals damage in a 275 radius. Base damage not specified in attributes, but from common knowledge, it deals magic damage. With Outer Dissimilate Ring talent, an outer ring is added. Call of the Void facet creates Aether Remnants at portals.",
+    "search_text": "Dissimilate W phase 1.1 seconds portals 6 ring distance 520 damage radius 275 outer ring talent Call of the Void Aether Remnants",
+    "tags": [
+      "Void Spirit",
+      "ABILITY_DATA",
+      "DISSIMILATE",
+      "ESCAPE",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Resonant Pulse creates a shield that absorbs 25/50/75/100 physical damage and lasts 10 seconds. Upon activation, it emits a pulse dealing 60/110/160/210 magic damage in a 500 radius. For each hero hit by the pulse, the shield gains an additional 35/50/65/80 absorb. With Sanctuary facet, the shield absorbs all damage types. Cooldown and mana cost not specified in attributes.",
+    "search_text": "Resonant Pulse E shield absorb physical 25 50 75 100 damage pulse 60 110 160 210 radius 500 per hero absorb 35 50 65 80 duration 10 seconds Sanctuary all damage barrier",
+    "tags": [
+      "Void Spirit",
+      "ABILITY_DATA",
+      "RESONANT_PULSE",
+      "SHIELD",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Intrinsic Edge is a passive ability that increases Void Spirit's HP regeneration from Strength by 25%, armor from Agility by 25%, and mana regeneration and magic resistance from Intelligence by 25%. This enhances his survivability and sustainability.",
+    "search_text": "Intrinsic Edge passive bonus stats 25% HP regen strength armor agility mana regen magic resistance intelligence",
+    "tags": [
+      "Void Spirit",
+      "ABILITY_DATA",
+      "INTRINSIC_EDGE",
+      "PASSIVE",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Astral Step is a charge-based ability with 3 charges. Void Spirit dashes 200 to 800/900/1000 units, attacking enemies in a 170 radius along the path. The attack applies a void mark that slows by 40%/60%/80% for 1.25 seconds, then detonates for 130/230/330 magic damage. Charge restore time is 25/20/15 seconds. With level 20 talent, charge restore time is reduced by 3 seconds. Attacks do not cleave.",
+    "search_text": "Astral Step R ultimate charge dash distance 800 900 1000 radius 170 slow 40 60 80 pop damage 130 230 330 delay 1.25 charge restore 25 20 15 talent reduce cooldown no cleave",
+    "tags": [
+      "Void Spirit",
+      "ABILITY_DATA",
+      "ASTRAL_STEP",
+      "MOBILITY",
+      "BURST_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Against high magic damage lineups, choose the Sanctuary facet to make Resonant Pulse absorb all damage types. This significantly increases survivability against nukers and spellcasters.",
+    "search_text": "Void Spirit situational high magic damage Sanctuary facet Resonant Pulse all damage barrier",
+    "tags": [
+      "Void Spirit",
+      "SITUATIONAL",
+      "MAGIC_DAMAGE",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "When behind, Void Spirit should prioritize survival. Use Dissimilate defensively to avoid engagements, and place Aether Remnants for vision and control. Build items like Eul's Scepter or Black King Bar to escape disables.",
+    "search_text": "Void Spirit playing from behind defensive Dissimilate escape Aether Remnant control survival items",
+    "tags": [
+      "Void Spirit",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "When ahead, Void Spirit can aggressively use Astral Step to initiate and burst down heroes. Max Dissimilate for damage and follow up with Aether Remnant. Build offensive items like Witch Blade and Scythe of Vyse to snowball.",
+    "search_text": "Void Spirit when ahead aggressive Astral Step initiation burst damage offensive items Witch Blade Scythe",
+    "tags": [
+      "Void Spirit",
+      "SITUATIONAL",
+      "WHEN_AHEAD",
+      "OFFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Against illusion heroes, Void Spirit's area abilities like Dissimilate and Resonant Pulse can clear illusions. Aether Remnant can control the real hero. Consider items like Mjollnir for additional illusion clear.",
+    "search_text": "Void Spirit vs illusions Dissimilate area damage Resonant Pulse clear Aether Remnant control Mjollnir",
+    "tags": [
+      "Void Spirit",
+      "SITUATIONAL",
+      "ILLUSIONS",
+      "AREA_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +1.5 Mana Regen for better sustain and spellcasting, or +40 Resonant Pulse Damage for increased burst in fights. The mana regen is useful for longer engagements, while the damage boost enhances early teamfight presence.",
+    "search_text": "Void Spirit talent level 10 mana regen 1.5 Resonant Pulse damage 40 sustain burst",
+    "tags": [
+      "Void Spirit",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10",
+      "TALENT"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between +65 Aether Remnant Damage for higher control burst, or Outer Dissimilate Ring which adds an outer ring to Dissimilate, increasing area damage and escape options. The damage talent is good for pick-offs, while the ring talent improves teamfight impact.",
+    "search_text": "Void Spirit talent level 15 Aether Remnant damage 65 Outer Dissimilate Ring additional ring area damage",
+    "tags": [
+      "Void Spirit",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15",
+      "TALENT"
+    ]
+  },
+  {
+    "display_text": "At level 20, the available talent is -3s Astral Step Charge Restore Time, reducing charge restore time to 22/17/12 seconds. This increases mobility and burst frequency, allowing more frequent engagements and escapes.",
+    "search_text": "Void Spirit talent level 20 Astral Step charge restore time reduce 3 seconds cooldown reduction mobility",
+    "tags": [
+      "Void Spirit",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20",
+      "TALENT"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between 140% Astral Step Crit for massive burst damage on marked enemies, or Dissimilate Roots for 2s which adds a root effect upon exiting, providing crowd control. The crit talent amplifies single-target burst, while the root talent enhances lockdown in teamfights.",
+    "search_text": "Void Spirit talent level 25 Astral Step critical strike 140% Dissimilate root 2 seconds burst damage crowd control",
+    "tags": [
+      "Void Spirit",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25",
+      "TALENT"
+    ]
+  }
+]

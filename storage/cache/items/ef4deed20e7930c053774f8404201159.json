@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Jidi Pollen Bag, Tier 3: Neutral item. Spreads a damaging cloud in a large 700 radius, applying Pollinate to all nearby enemies. Pollinate reduces health restoration by 30% and deals damage equal to 9% of max health over 9 seconds (1% per second). Damage is classified as non-lethal HP Loss. Stats: CD: 25s, Radius: 700, Duration: 9s.",
+    "search_text": "neutral item, tier 3 neutral, jidi pollen bag, damage over time, health reduction, anti heal, healing reduction, max health damage, hp loss, area damage, AoE debuff, reduce healing, anti regeneration, Pollinate",
+    "tags": [
+      "ITEM_DATA",
+      "JIDI_POLLEN_BAG",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "DEBUFF",
+      "DAMAGE_OVER_TIME",
+      "HEAL_REDUCTION",
+      "ANTI_HEAL",
+      "VS_HEALERS",
+      "AOE_DAMAGE"
+    ]
+  }
+]

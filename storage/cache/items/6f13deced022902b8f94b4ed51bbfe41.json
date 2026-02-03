@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Cloak of Flames, Cost: 0: A very fine cloak that plays host to an overly-protective living flame. Provides a permanent Immolate aura that deals 45 magic damage per second to enemy units within a 375 radius. Illusions deal 30 damage per second. Non-purchasable neutral item providing area-of-effect damage. Stats: Damage: 45/sec (30/sec for illusions), Radius: 375.",
+    "search_text": "cloak of flames, damage aura, immolate aura, AoE aura damage, burn aura, magic damage aura, neutral item, tier neutral, aura item, per second damage, burn effect, DoT aura, area damage, DPS aura, illusion damage, Cloak of Flames",
+    "tags": [
+      "ITEM_DATA",
+      "CLOAK_OF_FLAMES",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "AURA",
+      "MAGICAL_DAMAGE",
+      "AOE_DAMAGE",
+      "DOT",
+      "ILLUSIONS"
+    ]
+  }
+]

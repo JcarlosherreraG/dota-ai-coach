@@ -1,0 +1,218 @@
+[
+  {
+    "display_text": "Lycan is a melee strength hero. He has a base Strength of 28 (good), Agility of 18, and Intelligence of 23. His base attack rate is 1.7, which is relatively slow. He does not have high base armor, relying instead on his passive and hero level for durability.",
+    "search_text": "Lycan stats melee strength hero base Strength 28 Agility 18 Intelligence 23 attack rate 1.7 slow armor",
+    "tags": [
+      "LYCAN",
+      "BASE_STATS",
+      "STRENGTH",
+      "MELEE"
+    ]
+  },
+  {
+    "display_text": "Lycan has three facets. Pack Leader: Enemy heroes killed by Lycan or his units extend Shapeshift duration. This rewards aggressive play and securing kills during your ultimate. Spirit Wolves: Summon Wolves creates invulnerable non-attacking wolves that buff Lycan's health and attack damage. This turns Wolves into a personal buff aura, sacrificing lane harass for a more durable, single-target damage core. Alpha Wolves: Increases the max level of Summon Wolves while lowering the max level of Howl and Feral Impulse. This is the dedicated 'summoner' build, focusing entirely on maximizing wolf count and stats.",
+    "search_text": "Lycan facets Pack Leader kill extend Shapeshift duration Spirit Wolves invulnerable buff health attack damage Alpha Wolves max level Summon Wolves lower Howl Feral Impulse",
+    "tags": [
+      "LYCAN",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Lycan's laning phase is defined by his Summon Wolves. At level 1, he summons 2 wolves with 325 health and 22 damage. Use them to harass the enemy, secure last hits, block camps, and scout. His low base armor makes him vulnerable to physical harass. Focus on securing levels, as your power spike is heavily level-dependent. Max Summon Wolves first, as levels increase their damage (22/28/34/40), health (325/375/425/475), and grant them invisibility at level 3 and Cripple at level 4.",
+    "search_text": "Lycan laning phase Summon Wolves level 1 2 wolves 325 health 22 damage harass last hits block scout low armor level dependent max wolves first damage health invisibility level 3 cripple level 4",
+    "tags": [
+      "LYCAN",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Lycan's power spikes are at level 6 (Shapeshift for kill threat and map movement), level 12 (level 2 Shapeshift with 200% crit and 325 bonus health), and level 18 (max Shapeshift with 240% crit and 425 bonus health). The level 20 talent for +7s Shapeshift Duration is a massive spike in uptime. Level 25 talent +2 Wolves Summoned is another huge power spike for the summon build. Item spikes include Helm of the Overlord for a dominated creep and Vladmir's Offering for teamfight sustain.",
+    "search_text": "Lycan power spikes level 6 Shapeshift level 12 Shapeshift 200% crit 325 health level 18 Shapeshift 240% crit 425 health talent 20 +7s Shapeshift duration talent 25 +2 Wolves Summoned item Helm of the Overlord Vladmir's Offering",
+    "tags": [
+      "LYCAN",
+      "POWER_SPIKES",
+      "LEVELS",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Lycan is hard countered by heroes with heavy area-of-effect damage and control that can quickly clear his summoned units, such as Legion Commander (Overwhelming Odds), Earthshaker (Echo Slam), and Kunkka (Tidebringer, Ghostship). Heroes with Break (like Doom, Shadow Demon, Viper) disable his Feral Impulse passive. Instant disables like Hex prevent him from using Shapeshift to escape. High armor and damage block significantly reduce the impact of his physical damage and wolves.",
+    "search_text": "Lycan counters AOE damage Legion Commander Overwhelming Odds Earthshaker Echo Slam Kunkka Tidebringer Ghostship Break Doom Shadow Demon Viper Feral Impulse disable Hex instant disable prevent Shapeshift escape high armor damage block",
+    "tags": [
+      "LYCAN",
+      "HARD_COUNTERS",
+      "COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Lycan's core build is centered on enabling his summons and physical damage. Helm of the Overlord/Dominator is absolutely essential to provide an extra powerful creep for his Feral Impulse and Wolf Bite. Vladmir's Offering provides crucial lifesteal, mana regen, and armor for him and his entire army. Black King Bar is critical to ensure he can get his Shapeshift damage off without being controlled in fights.",
+    "search_text": "Lycan core build items Helm of the Overlord Helm of the Dominator Vladmir's Offering lifesteal armor mana regen Black King Bar BKB Shapeshift damage control",
+    "tags": [
+      "LYCAN",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Lycan's teamfight role is that of a physical damage carry and split-pusher. He initiates with Howl to reduce enemy armor and attack damage, then uses Shapeshift to dive the backline, focusing supports or key cores with his high crit damage and speed. His wolves and dominated creep provide additional body-blocking and damage. He excels at creating chaos and forcing the enemy to deal with multiple targets. He can also disengage and take objectives extremely quickly after a fight.",
+    "search_text": "Lycan teamfight role physical damage carry split-pusher initiate Howl armor reduction attack damage reduction Shapeshift dive backline crit damage speed wolves dominated creep body-block damage chaos multiple targets disengage objectives",
+    "tags": [
+      "LYCAN",
+      "TEAMFIGHT_ROLE",
+      "FIGHT"
+    ]
+  },
+  {
+    "display_text": "Summon Wolves (Q). Lycan summons 2 wolves to fight for him. Wolves have 325/375/425/475/525/575 health and deal 22/28/34/40/46/52 damage. They last 50 seconds. At level 3, wolves gain Permanent Invisibility. At level 4, wolves gain Cripple: a 20% chance on attack to cause 8 damage per second and reduce attack speed by 60 for 4 seconds. Mana cost is 115/120/125/130/130/130. Casting this ability replaces existing wolves.",
+    "search_text": "Lycan ability Summon Wolves Q summon 2 wolves health 325 375 425 475 525 575 damage 22 28 34 40 46 52 duration 50 seconds level 3 Permanent Invisibility level 4 Cripple 20% chance 8 damage per second 60 attack speed slow 4 seconds mana cost 115 120 125 130 130 130 replace existing wolves",
+    "tags": [
+      "LYCAN",
+      "ABILITY_DATA",
+      "SUMMON_WOLVES",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "Howl (W). Lycan howls, reducing the armor of all enemies within 2000 range by 4/5/6/7 and their attack damage by 25%/30%/35%/40% for 8 seconds. At night, the armor and attack damage reductions are global. Does NOT pierce BKB.",
+    "search_text": "Lycan ability Howl W armor reduction 4 5 6 7 attack damage reduction 25% 30% 35% 40% duration 8 seconds radius 2000 night global Does NOT pierce BKB",
+    "tags": [
+      "LYCAN",
+      "ABILITY_DATA",
+      "HOWL",
+      "W"
+    ]
+  },
+  {
+    "display_text": "Feral Impulse (E). Passive ability. Increases the damage of Lycan and all units he controls by 10/20/30/40 and their health regeneration by 1/3/5/7.",
+    "search_text": "Lycan ability Feral Impulse E passive damage increase 10 20 30 40 health regeneration 1 3 5 7 units he controls",
+    "tags": [
+      "LYCAN",
+      "ABILITY_DATA",
+      "FERAL_IMPULSE",
+      "E",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Wolf Bite (D). Lycan bites an allied hero or creep-hero, granting them Shapeshift properties. Lycan and the bitten target gain 40% Lifesteal and share the healing effect of Lifesteal with each other as long as they are within 1200 range. Cooldown matches Shapeshift cooldown (110/100/90).",
+    "search_text": "Lycan ability Wolf Bite D bite ally hero creep-hero Shapeshift properties 40% Lifesteal share healing range 1200 cooldown 110 100 90 matches Shapeshift",
+    "tags": [
+      "LYCAN",
+      "ABILITY_DATA",
+      "WOLF_BITE",
+      "D"
+    ]
+  },
+  {
+    "display_text": "Apex Predator (Passive). Lycan and units he controls deal 2% extra damage to neutral creeps per hero level.",
+    "search_text": "Lycan ability Apex Predator passive extra damage neutral creeps 2% per hero level",
+    "tags": [
+      "LYCAN",
+      "ABILITY_DATA",
+      "APEX_PREDATOR",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Shapeshift (R). Lycan transforms, gaining 550 movement speed, 160%/200%/240% critical strike chance with 40% chance, 225/325/425 bonus health, and 1000 bonus night vision for 25 seconds. During Shapeshift, Lycan cannot be slowed. Cooldown is 110/100/90 seconds.",
+    "search_text": "Lycan ability Shapeshift R ultimate transform movement speed 550 critical strike 160% 200% 240% chance 40% bonus health 225 325 425 bonus night vision 1000 duration 25 seconds cannot be slowed cooldown 110 100 90",
+    "tags": [
+      "LYCAN",
+      "ABILITY_DATA",
+      "SHAPESHIFT",
+      "R",
+      "ULTIMATE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor. Against heroes like Terrorblade or Dragon Knight, Lycan's physical damage output can be mitigated. Prioritize the Howl ability to reduce their armor by up to 7. The Spirit Wolves facet can be beneficial here, as the invulnerable wolves provide a flat damage and health buff to Lycan himself, making him less reliant on his summons' attacks. Ensure you have a Black King Bar to maintain your damage output through their disables.",
+    "search_text": "Lycan situational vs high armor Terrorblade Dragon Knight physical damage mitigated prioritize Howl armor reduction 7 Spirit Wolves facet invulnerable wolves damage health buff BKB Black King Bar",
+    "tags": [
+      "LYCAN",
+      "SITUATIONAL",
+      "HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When your team is losing, Lycan can shift to a split-pushing role. Use the Alpha Wolves facet to maximize your wolf count. Send waves of invisible wolves (level 3+) down lanes to safely apply pressure and gain vision. Use Shapeshift primarily as an escape tool to avoid ganks. Focus on itemizing for survivability like Black King Bar and utility like Vladmir's Offering for your team.",
+    "search_text": "Lycan situational playing from behind split-push Alpha Wolves facet max wolf count invisible wolves level 3 pressure vision Shapeshift escape tool avoid ganks item BKB Vladmir's Offering survivability",
+    "tags": [
+      "LYCAN",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "SPLIT_PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Heavy AOE. Against heroes like Earthshaker, Leshrac, or Ember Spirit, your summoned units are a liability. In this case, the Spirit Wolves facet is likely the best choice, as your wolves become invulnerable buff-givers, removing the enemy's counter-play. Avoid clumping your army. Focus on using Shapeshift to quickly eliminate the AOE threat before they can cast their spells, or split push to force them to defend.",
+    "search_text": "Lycan situational enemy heavy AOE Earthshaker Leshrac Ember Spirit summoned units liability Spirit Wolves facet invulnerable wolves buff avoid clumping Shapeshift eliminate threat split push",
+    "tags": [
+      "LYCAN",
+      "SITUATIONAL",
+      "HEAVY_AOE",
+      "COUNTER_PLAY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Objective Focus (Roshan/Towers). Lycan is one of the fastest Roshan and tower takers in the game. Use the Pack Leader facet to potentially extend Shapeshift duration by killing the enemy team inside the pit. Ensure Feral Impulse is maxed for the damage and regen aura on your entire team and summons. Wolf Bite your strongest right-clicking ally or a dominated Alpha Wolf to double your team's lifesteal healing while taking the objective.",
+    "search_text": "Lycan situational objective Roshan towers fast taker Pack Leader facet extend Shapeshift duration kill enemy Feral Impulse max damage regen Wolf Bite ally Alpha Wolf lifesteal healing",
+    "tags": [
+      "LYCAN",
+      "SITUATIONAL",
+      "OBJECTIVES",
+      "ROSHAN",
+      "TOWERS"
+    ]
+  },
+  {
+    "display_text": "Scenario: You are the Primary Carry. When your team relies on you for damage, the Spirit Wolves facet provides the most consistent personal buff, giving you extra health and damage. Focus on a standard carry item build: Power Treads, Helm of the Overlord, Black King Bar, Assault Cuirass. Use Wolf Bite on your offlaner or a durable support to create a second threat in fights and share lifesteal sustain.",
+    "search_text": "Lycan situational primary carry Spirit Wolves facet personal buff health damage item build Power Treads Helm of the Overlord BKB Assault Cuirass Wolf Bite offlaner support share lifesteal",
+    "tags": [
+      "LYCAN",
+      "SITUATIONAL",
+      "PRIMARY_CARRY"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents. Left: +3 Howl Armor Reduction. Right: +10 Wolves Damage. Choose the armor reduction if your team has multiple physical damage dealers or you are fighting early. Choose the wolf damage if you are focusing on farming, pushing, or have taken the Alpha Wolves facet.",
+    "search_text": "Lycan talent level 10 left +3 Howl Armor Reduction right +10 Wolves Damage armor reduction team physical damage wolf damage farm push Alpha Wolves facet",
+    "tags": [
+      "LYCAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents. Left: +350 Summon Wolves Health. Right: -15s Shapeshift Cooldown. Choose the wolf health if your wolves are dying quickly to AOE or you are the primary split-pusher. Choose the cooldown reduction if you are fighting frequently and need more uptime on your ultimate for initiation or escape.",
+    "search_text": "Lycan talent level 15 left +350 Summon Wolves Health right -15s Shapeshift Cooldown wolf health AOE split-push cooldown reduction fight uptime ultimate initiation escape",
+    "tags": [
+      "LYCAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents. Left: +7s Shapeshift Duration. Right: +25% Feral Impulse Damage. The duration talent is generally superior, extending your primary fighting and chasing window from 25 to 32 seconds. The damage talent is a significant boost for you and all your units, but is often outvalued by the massive utility of longer Shapeshift.",
+    "search_text": "Lycan talent level 20 left +7s Shapeshift Duration right +25% Feral Impulse Damage duration talent 25 to 32 seconds fighting chasing damage talent boost units",
+    "tags": [
+      "LYCAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents. Left: Howl Reduces Total Attack Damage. Right: +2 Wolves Summoned. The left talent changes Howl from reducing base attack damage to reducing total attack damage, a massive debuff against farmed carries. The right talent summons 4 wolves total instead of 2, dramatically increasing your pushing power and army size. Choose left against heavy right-click teams. Choose right for maximum split-push or with the Alpha Wolves facet.",
+    "search_text": "Lycan talent level 25 left Howl Reduces Total Attack Damage right +2 Wolves Summoned total attack damage debuff carries 4 wolves push army size split-push Alpha Wolves facet",
+    "tags": [
+      "LYCAN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

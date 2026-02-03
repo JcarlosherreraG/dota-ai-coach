@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Doubloon, Cost: 0: Toggle item that converts 30% of your Max Health to Max Mana or 30% of your Max Mana to Max Health. Provides no base health or mana regeneration, serving as a flexible stat pool adjuster for heroes needing to balance their resource availability. Stats: CD: 5s, Conversion: 30%, Health Regen: +0, Mana Regen: +0.",
+    "search_text": "doubloon, toggle item, stat converter, health to mana, mana to health, resource converter, stat switch, convert health, convert mana, pool adjuster, Doubloon, conversion item, toggle conversion, pool management, flexible stats, swap health mana",
+    "tags": [
+      "ITEM_DATA",
+      "DOUBLOON",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "STAT_CONVERSION",
+      "UTILITY",
+      "HEALTH",
+      "MANA",
+      "TOGGLE"
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "display_text": "Headdress, Cost: 425: Creates a passive Regeneration Aura that grants 2 health regeneration to all allied units within a 1200 radius. Provides no active abilities. A team-oriented item that enhances the sustain of grouped allies during pushes or defensive holds. Stats: Aura Radius: 1200, Aura Regen: 2 HP/sec.",
+    "search_text": "aura item, regeneration aura, health regen aura, team heal aura, sustain item, support aura item, push aura, group regen, passive regen, team buff, group heal, Headdress, Headress",
+    "tags": [
+      "ITEM_DATA",
+      "HEADDDRESS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "TEAM_UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Headdress, Cost: 425: Stat profile: +0.5 Health Regeneration. This provides a small amount of personal sustain. The primary value lies in the significant 2 HP/sec aura for nearby teammates.",
+    "search_text": "headdress stats, headdress health regen, headdress aura stats, personal regen stats, item stats, +0.5 health regen, aura radius, Headdress",
+    "tags": [
+      "ITEM_DATA",
+      "HEADDDRESS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "REGEN",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Headdress, Cost: 425: Teamfight role: Group Sustain. The aura provides continuous healing during extended team fights and sieges, increasing the effective health pool of all nearby allied heroes, creeps, and summons.",
+    "search_text": "teamfight sustain, teamfight aura, siege sustain, group fight healing, push sustain, passive team healing, prolonged fight sustain, area heal, Headdress",
+    "tags": [
+      "ITEM_DATA",
+      "HEADDDRESS",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "REGEN",
+      "SUSTAIN",
+      "TEAM_UTILITY"
+    ]
+  },
+  {
+    "display_text": "Headdress, Cost: 425: Synergy build: Cost-effective early game aura for heroes looking to upgrade into Mekansm or build for pushes. Ideal for supports or initiators who stay near their team. Provides value before Mekansm is assembled.",
+    "search_text": "mekansm build, early game aura, support early item, team push item, mekansm component, cheap aura, early sustain item, Headdress",
+    "tags": [
+      "ITEM_DATA",
+      "HEADDDRESS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "AURA",
+      "SUPPORT_ITEM",
+      "UTILITY",
+      "UPGRADE_COMPONENT"
+    ]
+  }
+]

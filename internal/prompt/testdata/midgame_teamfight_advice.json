@@ -1,0 +1,48 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "100000002",
+    "game_time": 1200,
+    "clock_time": 1200,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": false
+  },
+  "player": {
+    "team_name": "Dire",
+    "name": "MidPlayer",
+    "gold": 2800,
+    "kills": 6,
+    "deaths": 2,
+    "assists": 5,
+    "last_hits": 140,
+    "gpm": 520,
+    "xpm": 580
+  },
+  "hero": {
+    "name": "npc_dota_hero_invoker",
+    "level": 16,
+    "health": 1400,
+    "max_health": 1400,
+    "mana": 1200,
+    "max_mana": 1800,
+    "alive": true,
+    "stunned": false,
+    "silenced": false
+  },
+  "items": {
+    "slot0": { "name": "item_travel_boots", "can_cast": true },
+    "slot1": { "name": "item_hand_of_midas", "can_cast": false, "cooldown": 45 },
+    "slot2": { "name": "item_aghanims_scepter", "can_cast": false },
+    "slot3": { "name": "item_blink", "can_cast": true },
+    "slot4": { "name": "item_force_staff", "can_cast": true },
+    "slot5": { "name": "item_magic_wand", "charges": 8, "can_cast": true }
+  },
+  "abilities": {
+    "ability0": { "name": "invoker_quas", "level": 5, "can_cast": true },
+    "ability1": { "name": "invoker_wex", "level": 5, "can_cast": true },
+    "ability2": { "name": "invoker_exort", "level": 5, "can_cast": true },
+    "ability3": { "name": "invoker_invoke", "level": 4, "can_cast": true, "cooldown": 0, "ultimate": true }
+  },
+  "user_context": "Играю Quas-Wex Invoker. Союзники собрались пушить мид, вражеская команда (Tidehunter, Luna, Puck, Shadow Shaman, Bounty Hunter) защищает хайграунд. У Tide BKB и ульт готовы.",
+  "user_question": "What is the most important tactical advice for next 30 seconds?"
+}

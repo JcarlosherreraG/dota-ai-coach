@@ -1,0 +1,199 @@
+[
+  {
+    "display_text": "Death Prophet is an Intelligence, ranged hero with an Attack Range of 600. She has 21 base Strength, 17 base Agility, and 24 base Intelligence. She has a base attack time of 1.7 and a movement speed of 285. Her stats indicate a hero with solid starting HP from Strength and good mana from Intelligence, but low armor due to low Agility. Her attack speed is average for a ranged caster.",
+    "search_text": "Death Prophet stats attributes attack type ranged intelligence base 1.7 BAT movement speed 285 strength agility intelligence",
+    "tags": [
+      "DEATH_PROPHET",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Ability: Crypt Swarm. Sends a swarm of winged beasts to savage enemy units in front of Death Prophet. It has a 900 cast range and a travel speed of 1100. The damage is 100/175/250/325. The cooldown is 9/8/7/6 seconds. Can hit units up to 1110 range away. Does not trigger spell block or spell reflect.",
+    "search_text": "Crypt Swarm Q ability Crypt Swarm damage 100 175 250 325 cooldown 9 8 7 6 range 900 projectile speed 1100 nuke wave",
+    "tags": [
+      "DEATH_PROPHET",
+      "ABILITY_DATA",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "Ability: Silence. Fires a projectile that prevents enemy units in a target area from casting spells. It has a 450 radius. Doesn't prevent usage of items.",
+    "search_text": "Silence W ability Silence area of effect AoE 450 radius projectile speed 1400 spell disable casting prevent",
+    "tags": [
+      "DEATH_PROPHET",
+      "ABILITY_DATA",
+      "W"
+    ]
+  },
+  {
+    "display_text": "Ability: Spirit Siphon. Creates a spirit link between Death Prophet and an enemy unit, draining health from the enemy. It deals 25/50/75/100 damage per second and heals Death Prophet for the same amount. Each charge has a 40 second replenish time. The link breaks if the target moves 250 units away from Death Prophet. The spell lasts up to 6 seconds. Cannot cast multiple Spirit Siphons on the same target.",
+    "search_text": "Spirit Siphon E ability Spirit Siphon damage per second 25 50 75 100 lifesteal drain health heal charge replenish 40 seconds duration 6 break distance 250",
+    "tags": [
+      "DEATH_PROPHET",
+      "ABILITY_DATA",
+      "E"
+    ]
+  },
+  {
+    "display_text": "Ability: Witchcraft. Death Prophet's occult knowledge deepens with experience, gaining movement speed and spell cooldown reduction. This is her passive ability. It provides 0.75% movement speed and 0.75% cooldown reduction per level.",
+    "search_text": "Witchcraft passive ability movement speed percent cooldown reduction spell CDR per level 0.75%",
+    "tags": [
+      "DEATH_PROPHET",
+      "ABILITY_DATA",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Exorcism. Unleashes evil spirits to drain the life of nearby enemy units and structures. Summons 10/18/26 spirits that deal 62-67 damage per hit. The ability lasts 40 seconds. At the end, Death Prophet is healed for 25% of the total damage dealt. Spirits move at 525 speed and search for targets within a 700 radius around Death Prophet. Deals 50% damage to buildings.",
+    "search_text": "Exorcism R ultimate Exorcism spirits 10 18 26 damage 62 64 67 heal percent 25 duration 40 building damage 50% radius 700 spirit speed 525",
+    "tags": [
+      "DEATH_PROPHET",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "R"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: +30 Attack Speed vs +12% Magic Resistance. The Attack Speed talent accelerates Death Prophet's right-click damage and farm speed, useful for a more carry-oriented build. The Magic Resistance talent increases her survivability against magic nukes, which is crucial for staying alive to drain and deal damage with her toolkit.",
+    "search_text": "Talent level 10 left +30 Attack Speed right +12% Magic Resistance AS MR survivability farm",
+    "tags": [
+      "DEATH_PROPHET",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: +100 Silence AoE vs -2.5s Crypt Swarm Cooldown. The increased Silence AoE talent is powerful for team fights, making it easier to disable multiple enemy casters. The reduced Crypt Swarm cooldown talent is better for constant wave clear and higher damage output in sustained fights, improving her farming and pushing speed.",
+    "search_text": "Talent level 15 left +100 Silence AoE radius right -2.5s Crypt Swarm Cooldown CD teamfight wave clear nuke",
+    "tags": [
+      "DEATH_PROPHET",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: +400 Health vs +30 Spirit Siphon Damage/Heal. The +400 Health talent provides a significant raw survivability boost, making her harder to burst down. The +30 Spirit Siphon Damage/Heal talent dramatically increases the power of her primary mid-fight sustain and damage tool, making her much tankier and more threatening when she gets on top of a target.",
+    "search_text": "Talent level 20 left +400 Health HP right +30 Spirit Siphon Damage Heal lifesteal drain sustain",
+    "tags": [
+      "DEATH_PROPHET",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: -22s Spirit Siphon Replenish Time vs +8 Exorcism Spirits. The -22s Spirit Siphon Replenish Time reduces the charge cooldown from 40s to 18s, allowing for near-constant uptime on multiple Siphons in fights, providing immense sustain. The +8 Exorcism Spirits talent adds 8 more spirits to her ultimate, increasing its total damage potential and, consequently, her end-of-ult heal by a significant amount.",
+    "search_text": "Talent level 25 left -22s Spirit Siphon Replenish Time charge cooldown right +8 Exorcism Spirits ultimate damage heal",
+    "tags": [
+      "DEATH_PROPHET",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  },
+  {
+    "display_text": "Facets: Death Prophet has the 'Suppress' facet. Suppress causes Silenced enemies to also be slowed. This facet turns her Silence from a pure casting disable into a soft crowd control that also hampers movement, making it easier for Death Prophet and her team to chase targets or kite melee cores. There is no choice between facets; this is her singular facet effect.",
+    "search_text": "Death Prophet Facet Suppress facet Silenced enemies also slowed movement slow crowd control chase",
+    "tags": [
+      "DEATH_PROPHET",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Laning Phase (0-10 mins): Death Prophet is typically played as a mid laner or an offlaner. Her goals are to secure last hits with Crypt Swarm (100-325 damage) and harass the enemy. Use Crypt Swarm to nuke the wave and push the lane for rune control. Her low base armor makes her vulnerable to physical harassment. Spirit Siphon is a powerful trading tool at level 2 or 3; use it on the enemy hero to drain their health while healing yourself, forcing them out of lane. Prioritize levels for stronger Crypt Swarm and an early point in Witchcraft for movement speed.",
+    "search_text": "Death Prophet laning early game mid offlane Crypt Swarm farm harass push wave Spirit Siphon trading sustain low armor",
+    "tags": [
+      "DEATH_PROPHET",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 with Exorcism is a massive spike for pushing towers and securing kills. Level 12 with maxed Spirit Siphon (100 dps/heal) and a core item like Eul's Scepter or Sange and Kaya makes her very strong in fights. Level 18 with maxed talents and ultimate (26 spirits). Level 20 talent choice (either +400 HP or +30 Siphon damage) is a significant survivability or damage spike. Level 25 talents make her extremely durable (faster Siphon charges) or give her ultimate massive damage/heal potential.",
+    "search_text": "Death Prophet power spikes level 6 Exorcism push level 12 Spirit Siphon max item timing level 18 ultimate level 20 talent level 25 talent",
+    "tags": [
+      "DEATH_PROPHET",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: High burst physical damage (e.g., PA, TA) can kill her through her siphon healing due to her low armor. Break (e.g., Silver Edge, Hoodwink Bushwhack) disables her Witchcraft passive and the movement speed bonus from her Exorcism spirits. Instant lockdown and burst (e.g., Lion Hex + Finger) can kill her before she can activate Exorcism and Siphon. Pure damage nukes (e.g., Timbersaw) bypass the healing from her ultimate. Spirit Siphon can be dispelled by strong dispels.",
+    "search_text": "Death Prophet counters hard counter burst physical damage low armor Break disables Witchcraft passive instant hex lockdown pure damage dispel Spirit Siphon",
+    "tags": [
+      "DEATH_PROPHET",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: Eul's Scepter of Divinity is essential. It provides mana regen, movement speed (synergizing with Witchcraft), and a defensive purge/cyclone to dodge spells or set up Silence. Sange and Kaya is a core damage and survivability item, amplifying her spell damage and healing from Spirit Siphon while providing status resistance and HP. Boots of Travel are crucial in the mid-to-late game to maximize her split-push potential with Exorcism and global map presence.",
+    "search_text": "Death Prophet core items essential Eul's Scepter mana movement speed setup dispel Sange and Kaya spell lifesteal amplification status resistance Boots of Travel split push global Exorcism",
+    "tags": [
+      "DEATH_PROPHET",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Death Prophet is a frontline tanky spellcaster and tower-pusher. Her job is to activate Exorcism (26 spirits at max level) and run at the enemy team, using Spirit Siphon (multiple charges) on key targets to drain their health and sustain herself. She should cast Silence (with Suppress slow) on clusters of enemies to disable their spellcasting and slow them. She soaks damage with her HP pool and Siphon healing, creating space for her backline. After a successful fight, her ultimate is ideal for taking objectives like towers and barracks.",
+    "search_text": "Death Prophet teamfight role frontline tank spellcaster pusher initiate Exorcism Spirit Siphon sustain drain Silence disable slow Suppress facet soak damage take objectives",
+    "tags": [
+      "DEATH_PROPHET",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When behind, Death Prophet should avoid direct 5v5 engagements. Use Crypt Swarm (7/6 sec cooldown with talent) to safely clear waves from a distance. Use Boots of Travel to split push lanes opposite to where the enemy is pressuring; activate Exorcism to quickly take waves and threaten towers. Focus on farming Sange and Kaya or a defensive item like BKB to survive the next fight. Use Spirit Siphon defensively to heal off creeps or the closest enemy if jumped.",
+    "search_text": "Death Prophet playing from behind split push farm safe wave clear Crypt Swarm Boots of Travel Exorcism tower threat avoid fight defensive items BKB",
+    "tags": [
+      "DEATH_PROPHET",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus High Magic Burst. Against heroes like Zeus or Lina, prioritize the +12% Magic Resistance talent at level 10. Build early HP items like a Point Booster (into Kaya) or a Hood of Defiance. Use Eul's Scepter to cyclone yourself during enemy initiation or to dodge key spells. In fights, try to pre-activate Exorcism and use Spirit Siphon on a frontliner to gain constant healing to offset the magic damage. Your Suppress-facet Silence can slow and disable their mobile casters.",
+    "search_text": "Death Prophet versus high magic burst magic resistance talent HP items Hood Defiance Eul's cyclone dodge Spirit Siphon sustain heal Exorcism pre-activate Silence Suppress slow",
+    "tags": [
+      "DEATH_PROPHET",
+      "SITUATIONAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion Heroes (e.g., Chaos Knight, Phantom Lancer). Death Prophet struggles as her single-target Spirit Siphon is less effective and illusions dilute her Exorcism spirit attacks. Build area-of-effect items like Shiva's Guard (to slow illusions and provide armor) and Kaya and Sange (for spell amp on Crypt Swarm). Maximize Crypt Swarm to clear illusion waves. The +8 Exorcism Spirits talent at level 25 becomes more valuable to overwhelm with sheer number of attacks against many targets.",
+    "search_text": "Death Prophet versus illusions illusion heroes Chaos Knight Phantom Lancer Spirit Siphon single target weak Exorcism spirits diluted build Shiva's Guard Kaya Sange Crypt Swarm clear waves talent +8 Exorcism Spirits",
+    "tags": [
+      "DEATH_PROPHET",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: As a Position 2 (Mid) Core. In mid, focus on using Crypt Swarm to secure last hits, harass, and push the wave for rune control. Rush Bottle for sustain. After level 6, use Exorcism to pressure the enemy mid tower or to rotate and gank side lanes with a rune. Core item progression: Phase Boots for damage and armor, Eul's Scepter, then Sange and Kaya. Your role is to be a tempo-setter, creating space with your ultimate and forcing early teamfights around objectives.",
+    "search_text": "Death Prophet mid position 2 core mid lane Crypt Swarm last hit harass push bottle rune control Exorcism level 6 gank tower pressure Phase Boots Eul's Sange Kaya tempo space teamfight",
+    "tags": [
+      "DEATH_PROPHET",
+      "SITUATIONAL",
+      "MID_CORE"
+    ]
+  },
+  {
+    "display_text": "Scenario: As a Position 3 (Offlane) Core. In the offlane, your priority is to survive and get experience. Use Crypt Swarm to secure range creeps and harass the enemy carry. An early point in Spirit Siphon allows you to trade favorably against the enemy support. Build tanky utility items: start with a Bracer, build Phase Boots, then Rod of Atos or Spirit Vessel to aid in kills. Your job is to be a durable frontliner in mid-game fights, using Exorcism to initiate and soak damage for your team.",
+    "search_text": "Death Prophet offlane position 3 survivability experience Crypt Swarm secure creep Spirit Siphon trade tank items Bracer Phase Boots Rod Atos Spirit Vessel frontliner initiate Exorcism soak damage",
+    "tags": [
+      "DEATH_PROPHET",
+      "SITUATIONAL",
+      "OFFLANE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Late Game and Sieging. Death Prophet excels at sieging high ground with Exorcism. Activate your ultimate from a safe distance before committing to the high ground push. The spirits will attack buildings for 50% damage and provide a large zone of control. Use Silence with its Suppress slow to deter defenders from initiating. Keep Spirit Siphon active on the enemy frontliner to stay healthy. If the fight turns, your ultimate's 25% heal on damage dealt can bring you back from the brink, allowing a counter-push.",
+    "search_text": "Death Prophet late game sieging high ground push Exorcism spirits building damage 50% zone control Silence Suppress slow deter initiation Spirit Siphon sustain heal 25% counter push",
+    "tags": [
+      "DEATH_PROPHET",
+      "SITUATIONAL",
+      "SIEGE"
+    ]
+  }
+]

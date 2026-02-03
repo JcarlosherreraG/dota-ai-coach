@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Assassin's Dagger, Tier 3: Neutral item providing +30 Bonus Damage, +10 Attack Speed, and an active ability to apply a 1-second debuff. No charges or mana cost. Primarily a damage amplification tool for aggressive positioning heroes who benefit from the on-hit effect. Stats: CD: 7s, Duration: 1s.",
+    "search_text": "assassins dagger, tier 3 neutral, damage neutral, attack speed neutral, on hit effect, active debuff, damage amplifier, neutral damage item, carry neutral, right click neutral, Assassin's Dagger",
+    "tags": [
+      "ITEM_DATA",
+      "ASSASSINS_DAGGER",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "DEBUFF",
+      "UTILITY"
+    ]
+  }
+]

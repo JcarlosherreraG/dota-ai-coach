@@ -1,0 +1,188 @@
+[
+  {
+    "display_text": "Sniper is a ranged Agility hero with a base Attack Range of 550. He has very low base Strength (19), making him fragile. His high base Agility (27) gives him good starting armor and attack speed. His Intelligence (15) is average. His base attack time of 1.7 is standard. Sniper's primary weakness is his lack of mobility and escape.",
+    "search_text": "Sniper stats ranged agility hero 550 attack range 19 strength 27 agility 15 intelligence 1.7 BAT low HP no mobility fragile",
+    "tags": [
+      "SNIPER",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Sniper has two facets. Ghillie Suit: While Take Aim is active, Sniper's attacks do not reveal him from fog of war. This facilitates a high-ground defensive playstyle, allowing him to attack from safety without being seen. Scattershot: Shrapnel slow and damage are increased, but duration is decreased. This facilitates a more aggressive area-denial and chasing playstyle, increasing burst damage and control.",
+    "search_text": "Sniper facets Ghillie Suit Take Aim attacks do not reveal from fog hide hidden vision Scattershot Shrapnel increased damage increased slow reduced duration area denial chase",
+    "tags": [
+      "SNIPER",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "During the laning phase, Sniper's primary goal is to secure last hits from a distance using his long base attack range. Use Shrapnel sparingly for wave clear, harassment, and securing range creep kills. The Headshot proc chance (40% at all levels) helps with harass and zoning. Be extremely cautious of positioning due to low HP and no escape. Focus on gaining levels and farm safely.",
+    "search_text": "Sniper laning phase last hits attack range 550 Shrapnel harass wave clear Headshot 40% chance proc harass zoning positioning fragile no escape",
+    "tags": [
+      "SNIPER",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Sniper's first power spike is at level 6 with Assassinate (300 damage), allowing for long-range kill threat. Level 12 (level 2 ultimate, 400 damage) and level 18 (level 3 ultimate, 500 damage) are major damage spikes. Talent spikes at level 10 (+55 Take Aim range) increases safety, and level 15 (+30 Headshot damage) significantly increases DPS. A key item spike is Dragon Lance, which further increases his attack range and survivability. Refreshed Assassinate on kill (from level 6) creates snowball potential.",
+    "search_text": "Sniper power spikes level 6 Assassinate 300 damage level 12 400 damage level 18 500 damage talent 10 +55 Take Aim range talent 15 +30 Headshot damage item Dragon Lance range refresh kill",
+    "tags": [
+      "SNIPER",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Sniper is hard countered by heroes with high mobility, gap-close, and long-range initiation. Heroes like Spirit Breaker, Clockwerk, Tusk, and Spectre can jump on him directly, bypassing his range advantage. Break mechanics (Silver Edge, Hoodwink) disable his Headshot and Take Aim passives. Instant disables (Hex) prevent him from using any skills or items. High physical burst damage can kill him before he can react.",
+    "search_text": "Sniper counters hard counter gap close jump Spirit Breaker Clockwerk Tusk Spectre Break Silver Edge disable Headshot Take Aim passive Hex disable physical burst",
+    "tags": [
+      "SNIPER",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Sniper's core build is focused on increasing his attack range and survivability. Dragon Lance (and later Hurricane Pike) is absolutely essential for the range and stats. Mask of Madness or Maelstrom provide crucial farming and attack speed. Power Treads are the standard boot for the attack speed and attribute flexibility. These items form his fundamental fighting and farming toolkit.",
+    "search_text": "Sniper core build essential items Dragon Lance Hurricane Pike attack range stats Mask of Madness Maelstrom farm attack speed Power Treads",
+    "tags": [
+      "SNIPER",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In a teamfight, Sniper's role is to stay at maximum attack range, often on high ground or behind his team. He provides sustained physical damage with his attacks and Headshot procs. He uses Shrapnel to zone areas, slow enemies, and provide vision. He uses Assassinate to finish off fleeing low-health targets or to initiate on a key, vulnerable backline hero. His primary job is to deal damage from a position of safety.",
+    "search_text": "Sniper teamfight role backline stay max range safe position sustained physical damage Headshot Shrapnel zone slow vision Assassinate finish kill initiate",
+    "tags": [
+      "SNIPER",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Shrapnel: Consumes a charge to launch a ball that showers an area. Deals 30/45/60/75 damage per second for 10 seconds (11 instances total). Slows enemy movement speed by 12/18/24/30% for 2 seconds. Reveals the targeted area. Radius is 400/425/450/475. Does not damage buildings. Charges restore every 35 seconds, with a max of 3 charges. Does NOT pierce BKB.",
+    "search_text": "Shrapnel Q ability area damage 30 45 60 75 per second 10 seconds slow 12 18 24 30% movement vision reveal radius 400 425 450 475 charges 3 restore 35s no building damage",
+    "tags": [
+      "SNIPER",
+      "ABILITY_DATA",
+      "SHARPNEL"
+    ]
+  },
+  {
+    "display_text": "Headshot (Passive): Gives Sniper a 40% chance on attack to deal 20/50/80/110 bonus damage and knock back the enemy. Knockback distance is up to 50, increasing based on how close the enemy is. Also slows enemy movement and attack speed by 100% for 0.2/0.3/0.4/0.5 seconds.",
+    "search_text": "Headshot passive W ability 40% chance proc bonus damage 20 50 80 110 knockback 50 distance slow 100% movement attack speed 0.2 0.3 0.4 0.5s",
+    "tags": [
+      "SNIPER",
+      "ABILITY_DATA",
+      "HEADSHOT"
+    ]
+  },
+  {
+    "display_text": "Take Aim (Toggle): When active, increases Sniper's attack range by 100/150/200/250 and grants 500/750/1000/1250 bonus vision. Also gives a 100% chance for attacks to apply Headshot. Slows Sniper's own movement speed by 65% and restricts his vision to a 140-degree frontal cone. Lasts 3 seconds. The Ghillie Suit facet makes attacks not reveal him from fog while this is active.",
+    "search_text": "Take Aim E ability toggle active attack range bonus 100 150 200 250 vision bonus 500 750 1000 1250 100% Headshot chance self slow 65% movement vision cone 140 degrees duration 3s Ghillie Suit no reveal fog",
+    "tags": [
+      "SNIPER",
+      "ABILITY_DATA",
+      "TAKE_AIM"
+    ]
+  },
+  {
+    "display_text": "Concussive Grenade: Launches a grenade 600 units away, dealing 200 damage in a 375 radius. Knocks back enemies 475 units over 0.4 seconds with 100 knockback height. Also knocks Sniper himself back. After the knockback, affected enemies are disarmed and have their movement slowed by 50% for 3 seconds. Does NOT pierce BKB.",
+    "search_text": "Concussive Grenade R ability new ultimate 600 cast range 200 damage radius 375 knockback 475 distance 0.4s 100 height self knockback disarm 50% slow 3s duration",
+    "tags": [
+      "SNIPER",
+      "ABILITY_DATA",
+      "CONCUSSIVE_GRENADE"
+    ]
+  },
+  {
+    "display_text": "Keen Scope (Passive): Increases Sniper's attack range by 160/260/360/460. This is a separate source of range increase from Take Aim.",
+    "search_text": "Keen Scope passive ability attack range bonus 160 260 360 460",
+    "tags": [
+      "SNIPER",
+      "ABILITY_DATA",
+      "KEEN_SCOPE"
+    ]
+  },
+  {
+    "display_text": "Assassinate (Legacy Ultimate): Sniper locks onto a target enemy unit from up to 2500/2500/2500 range. After a short aim time, he fires a shot that delivers his normal attack (amplified by 0/10/20%) plus 300/400/500 bonus damage. The projectile mini-stuns the target. If Sniper kills any enemy hero, Assassinate's cooldown is refreshed. The crosshair is visible to allies. Invisibility does not disjoint the projectile.",
+    "search_text": "Assassinate old ultimate R ability 2500 cast range attack damage amplification 0 10 20% bonus damage 300 400 500 ministun refresh cooldown on hero kill crosshair ally vision invisibility no disjoint",
+    "tags": [
+      "SNIPER",
+      "ABILITY_DATA",
+      "ASSASSINATE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus High Physical Armor. Enemy heroes like Dragon Knight or Terrorblade have very high armor. In this scenario, Sniper should build items that reduce armor or deal magical damage. Consider a Desolator for armor reduction, or a Mage Slayer/Daedalus for pure damage amplification. Assassinate's magic damage becomes more valuable for finishing. Shrapnel's magical damage over time is also effective.",
+    "search_text": "Sniper vs high armor physical build Desolator armor reduction Mage Slayer Daedalus magic damage Assassinate magical damage Shrapnel magical damage over time",
+    "tags": [
+      "SNIPER",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When the enemy is snowballing and Sniper is underfarmed, his priority is to find safe farm. Use Shrapnel to clear waves from a distance. Avoid showing on the map. Build cost-effective survival items like Hurricane Pike and a Shadow Blade or Blink Dagger for repositioning. Your role in fights is to provide long-range control with Shrapnel and Concussive Grenade, and secure kills with Assassinate from a safe distance.",
+    "search_text": "Sniper playing from behind lose farm safe wave clear Shrapnel hide map Hurricane Pike survival Shadow Blade Blink reposition control Concussive Grenade Assassinate secure kill",
+    "tags": [
+      "SNIPER",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Multiple Gap-Closing Heroes. Enemy team has Spirit Breaker, Storm Spirit, and Axe. Sniper's survival is paramount. Itemize for instant escape and survivability: Force Staff/Hurricane Pike is mandatory. A Linken's Sphere or Aeon Disk can block key initiations. Positioning is critical; never be the frontmost hero. Use Concussive Grenade defensively to create distance when jumped.",
+    "search_text": "Sniper vs gap close jump Spirit Breaker Storm Spirit Axe survival Force Staff Hurricane Pike escape Linken Sphere Aeon Disk positioning defensive Concussive Grenade knockback",
+    "tags": [
+      "SNIPER",
+      "SITUATIONAL",
+      "VS_GAP_CLOSE"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Strong Frontline. Your team has heroes like Tidehunter, Underlord, and Mars who can create space and lock down enemies. In this ideal scenario, Sniper can focus purely on damage. Build maximum DPS items like Mjollnir, Daedalus, and Satanic. Stand directly behind your initiators and use Take Aim to freely attack from a massive range. Use Assassinate to burst key targets after your team's control.",
+    "search_text": "Sniper with strong frontline Tidehunter Underlord Mars space lockdown build DPS Mjollnir Daedalus Satanic Take Aim max range attack Assassinate burst",
+    "tags": [
+      "SNIPER",
+      "SITUATIONAL",
+      "WITH_STRONG_FRONTLINE"
+    ]
+  },
+  {
+    "display_text": "Sniper Level 10 Talents. Left Talent: +55 Take Aim Attack Range Bonus. This increases your safety and maximum attack range. Pick this if you are being focused or need to stay further back in fights. Right Talent: +30 Headshot Damage. This increases your per-hit damage output significantly, especially with high attack speed. Pick this if you are free-hitting and want to maximize your DPS against tanky targets.",
+    "search_text": "Sniper talent level 10 left +55 Take Aim range safety right +30 Headshot damage DPS",
+    "tags": [
+      "SNIPER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Sniper Level 15 Talents. Left Talent: +45 Attack Speed During Take Aim. This provides a substantial burst of attack speed when your range steroid is active, synergizing with the 100% Headshot chance. Pick this for maximum physical output during engagements. Right Talent: +150 Assassinate Damage. This turns your ultimate into a more reliable execution tool (450/550/650 damage). Pick this if you need burst to secure kills on elusive heroes or to contribute from extreme range.",
+    "search_text": "Sniper talent level 15 left +45 attack speed Take Aim right +150 Assassinate damage burst execute",
+    "tags": [
+      "SNIPER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Sniper Level 20 Talents. Left Talent: +2s Take Aim Duration. Increases the duration of your range/vision steroid from 3s to 5s, improving uptime and safety. Pick this for longer, sustained sieges or fights where you can freely attack. Right Talent: +30% Shrapnel Damage. Increases Shrapnel's damage per second from 75 to 97.5 at max level. Pick this if you are using the Scattershot facet for aggressive area control, or if the enemy team has many melee/low-mobility heroes.",
+    "search_text": "Sniper talent level 20 left +2s Take Aim duration uptime right +30% Shrapnel damage area control",
+    "tags": [
+      "SNIPER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Sniper Level 25 Talents. Left Talent: -30s Shrapnel Charge Restore Time. Reduces Shrapnel charge cooldown from 35s to 5s, allowing near-constant area denial and vision. An incredibly powerful utility talent for map control and sieging. Right Talent: +50 Max Headshot Knockback Distance. Increases the maximum knockback from 50 to 100. This is a strong defensive talent against melee carries, pushing them away more effectively and increasing the slow duration from the distance calculation. Pick based on need: map control vs survivability.",
+    "search_text": "Sniper talent level 25 left -30s Shrapnel charge restore 5s cooldown map control right +50 max Headshot knockback 100 distance defensive",
+    "tags": [
+      "SNIPER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

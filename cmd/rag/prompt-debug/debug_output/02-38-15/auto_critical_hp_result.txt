@@ -1,0 +1,259 @@
+FILE: auto_critical_hp.json
+QUESTION: What is the most important tactical advice for next 30 seconds?
+GENERATION TIME: 1.90s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Quickening Charm HARD_COUNTERS: Its value is reduced against enemies who can apply silences, mana burn, or instant burst damage that outpaces the health regeneration. Stats: Health Regeneration: 10.
+---
+[TAGS: Ability, Invulnerability, Survivability] | Mischief: Extends invulnerability duration, improving survivability and escape options. Stats: Invulnerability Duration: s
+---
+[TAGS: ITEM_DATA, VITALITY_BOOSTER, STAT_PROFILE, FULL_ITEM, HEALTH, SURVIVAL, COMPONENT, SECRET_SHOP] | Vitality Booster, Cost: 1000: Purchasable from the Secret Shop. Provides a flat +250 maximum Health, offering raw survivability with no active abilities. A core component for many late-game health-focused items like Heart of Tarrasque. Stats: Health Bonus: +250.
+---
+[TAGS: STRATEGY, Phantom Assassin, TIMING] | Phantom Assassin Power Spike: Hits peak at Level 12 with maxed Blur and Coup de Grace, or after Battle Fury and BKB.
+---
+[TAGS: Necrophos, SITUATIONAL, FACET_PROFANE] | Scenario: With the Profane Potency Facet (AoE Radius). This facet encourages a snowballing, farming, and teamfight build. Prioritize items with AoE effects like Radiance, Shiva's Guard, and Octarine Core. Your goal is to get as many kills and assists as possible to stack Sadist and increase the radius of all these items and your Death Pulse. This makes you a massive area-denial hero in late-game teamfights.
+---
+[TAGS: VISAGE, SITUATIONAL, VS_BREAK] | Scenario: Versus Heroes with Break. Your Gravekeeper's Cloak and Lurker cannot gain new stacks under Break. Play extremely cautiously, as your survivability and cooldown acceleration are crippled. Prioritize items that provide raw stats like Heart or Skadi over utility. Stick close to allies for protection.
+---
+[TAGS: ITEM_DATA, HEALING_SALVE, SITUATIONAL_USAGE, CONSUMABLE, SUSTAIN, HEALTH, SUPPORT_ITEM] | Healing Salve, Cost: 100: Provides burst regeneration for pushing or before fights, but the healing-over-time nature requires pre-fight planning. Can be used on allies to help them sustain through a tough lane, though at reduced effectiveness. The break-on-hero-damage mechanic makes it a poor choice during active skirmishes.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, UTILITY, MOBILITY] | Town Portal Scroll CORE_MECHANICS: Allows you to teleport to any friendly building after channeling for 3 seconds. Primarily used for map repositioning, defending towers, or joining fights. Double-clicking teleports you directly to your team's fountain. Stats: Cost: 100 gold, Cooldown: 80 seconds, Channel Time: 3 seconds, Mana Cost: 75, Cast Range Min: 70, Cast Range Max: 800, Teleport Vision Radius: 200.
+---
+[TAGS: Phantom Assassin, Defensive, Passive] | Immaterial: Scaling evasion passive that softens physical damage intake, stacking diminishingly with other evasion sources. Stats: Evasion: 25%/35%/45%/55%
+---
+[TAGS: ITEM_DATA, SACRED_RELIC, STAT_PROFILE, FULL_ITEM, DAMAGE, PHYSICAL_DAMAGE] | Sacred Relic, Cost: 3400: Provides +55 bonus damage with no other attributes. It is a pure offensive stat stick, offering a significant power spike for physical damage dealers when they can afford it. Stats: Damage: +55.
+---
+[TAGS: ITEM_DATA, SACRED_RELIC, CORE_MECHANICS, FULL_ITEM, DAMAGE, COMPONENT, UPGRADE, CARRY_ITEM, SECRET_SHOP] | Sacred Relic, Cost: 3400: A Secret Shop item that provides +55 base damage. It is a pure damage component with no other stats or active effects, serving as a high-cost stepping stone to powerful late-game carry items. Stats: Damage: +55.
+---
+[TAGS: Ability, Sustain, Heal] | Shallow Grave: Prevents an ally from dying and amplifies healing. Stats: Duration: 4/4.5/5/5.5, Heal Amplification Per 10% Missing: 3%/5%/7%/9%
+---
+[TAGS: Ability, Health, Durability] | Special Bonus HP 450: Enhances durability with a significant health increase. Stats: Health: 450
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: ITEM_DATA, FULL_ITEM, SAVE, DEFENSIVE, REPOSITIONING, DISPEL, CC_IMMUNITY] | Wind Waker FULL_ITEM Cost: 6800: Provides a powerful Cyclone ability on a 19-second cooldown for 175 mana. This unit-targeted ability lifts a target (ally, enemy, or self) into a cyclone, making them invulnerable for 2.5 seconds—a duration unaffected by status resistance. It applies a basic dispel on cast and deals 50 magic damage to enemy units when they land. When cast on yourself, you can move the cyclone. Stats: Total Cost 6800g, CD 19s, Mana 175, Cyclone Duration 2.5s, Land Damage 50 magical.
+---
+[TAGS: ITEM_DATA, ORB_OF_CORROSION, SITUATIONAL_VS_HEALERS, FULL_ITEM, VS_HEALERS, HEAL_REDUCTION, ANTI_HEAL, SLOW, VS_MOBILITY] | Orb of Corrosion, Cost: 1050: Situational pick against heroes who rely on mobility or healing. The slow and healing reduction are effective against slippery heroes like Queen of Pain or Bristleback, and against high-regen heroes like Alchemist, Huskar, or Death Prophet. It helps your team stick to and burst down these targets.
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, CORE_MECHANICS, CONSUMABLE, MOBILITY, TELEPORT, MAP_CONTROL, CHANNELED] | Town Portal Scroll, Cost: 100: Channel for 3 seconds to teleport to any friendly building. Double-click to target your team's fountain. If multiple heroes target the same location, each successive channel time increases. Teleport is interrupted by taking player-based damage or root effects. Stats: CD: 80s, Mana: 75, Channel Time: 3s, Charges: 1.
+---
+[TAGS: STRATEGY, Phantom Assassin, ITEM_BUILD, SITUATIONAL] | Phantom Assassin Situational: Buy Manta Style vs Silence, Nullifier vs Ghost Scepter, or Aegis for risky engagements.
+---
+[TAGS: ITEM_DATA, SACRED_RELIC, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, DAMAGE, UPGRADE] | Sacred Relic, Cost: 3400: Core purchase for heroes who scale with raw attack damage and seek to build items like Radiance or Divine Rapier. It is a key timing item for heroes looking to dominate the late game with overwhelming right-click damage. The high cost requires significant farming commitment.
+---
+[TAGS: Ability, Slow, Disruption] | Dual Breath Slow: Reduces enemy movement and attack speed significantly, ideal for disrupting enemy carries or escaping dangerous situations. Stats: Movement Speed Slow: [value], Attack Speed Slow: [value]
+---
+[TAGS: ITEM_DATA, ESSENCE_RING, CORE_DESCRIPTION, NEUTRAL, TIER_2, SURVIVAL, DEFENSIVE, HEALTH, ACTIVE, BURST_HEAL] | Essence Ring, Tier 2: Neutral item that instantly increases your current and maximum health by 240 for 10 seconds upon activation. This burst of survivability provides a temporary health buffer for clutch moments in skirmishes or to survive burst damage. Its substantial mana cost requires careful mana management. Stats: CD: 25s, Mana: 160, Duration: 10s, Health Gain: 240.
+---
+[TAGS: WITCH_DOCTOR, HARD_COUNTERS] | Witch Doctor is countered by heroes with long-range stuns or silences that can interrupt his channeled Death Ward (e.g., Skywrath Mage, Silencer). Heroes with high burst damage can kill him before he activates Voodoo Restoration. Heroes with illusions or summons (e.g., Phantom Lancer, Chaos Knight) can be problematic if he lacks the Cleft Death facet, as they can soak up Paralyzing Cask bounces and block Death Ward attacks. Instant hex or Orchid Malevolence prevents all his spellcasting.
+---
+[TAGS: Ability, Synergy, Damage] | Special Bonus Unique Wisp 4: Allows tethered ally to attack tethered target, enhancing synergy and damage output. Stats: Damage: Percentage-based
+---
+[TAGS: TECHIES, ABILITY_DATA, STICKY_BOMB] | Sticky Bomb (Q): Techies lobs a bomb that sticks to the first enemy hero it lands near, slowing their movement speed by 25/35/45/55% for 1.2 seconds. After a 2-second countdown, it explodes for 95/170/245/320 magic damage in a 350 radius and applies a secondary slow of 15/25/35/45% for 3 seconds. The bomb has a travel speed of 500 and chases a target for up to 4 seconds if none is initially stuck. It has a 300 placement radius.
+---
+[TAGS: PHANTOM ASSASSIN, BASE_STATS] | Phantom Assassin is a Melee Agility hero with 21 base Agility, 19 base Strength, and 15 base Intelligence. Her attack rate is 1.7 seconds per attack. Her primary stat is Agility, making her damage scale with attack speed and armor.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+---
+[TAGS: ITEM_DATA, EYE_OF_SKADI, SITUATIONAL_VS_HEALERS, FULL_ITEM, HEAL_REDUCTION, ANTI_HEAL, VS_HEALERS] | Eye of Skadi, Cost: 5900: A core counter-pick against heroes who rely on high health restoration like Huskar, Alchemist, or items like Heart of Tarrasque and Satanic. The 40% heal and regeneration reduction is applied on every attack, making it effective against sustained fighters and long-duration healing sources.
+---
+[TAGS: Shadow Fiend, ABILITY_DATA, ULTIMATE, REQUIEM] | Ability: Requiem of Souls. Shadow Fiend releases captured souls as lines of demonic energy in a 1000 radius. Each soul creates one line. Units hit take damage per line. Any unit damaged is feared and has its movement speed reduced by 20/25/30% and magic resistance reduced by 10% for 0.6 seconds per line hit, up to a maximum of 2.15 seconds. Cooldown is 120/110/100 seconds. Automatically casts on death. Does NOT pierce BKB.
+---
+[TAGS: ORACLE, ABILITY_DATA, ULTIMATE, SAVE, HEAL_AMPLIFY, DISPEL] | False Promise: Targets an ally, applying a strong dispel on cast. For 7/8.5/10 seconds, all damage taken and healing received by the target is delayed until the end of the duration. Any healing delayed by False Promise is amplified by 100%. The target is hidden but not invulnerable during this time. Cooldown is 110/85/60. Does NOT pierce BKB. The delayed damage/healing accounts for resistance changes when it is applied.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, VS_HEAL, VS_SAVE] | Brigand's Blade HARD_COUNTERS: The item's damage is countered by healing, instant recovery effects (like Salve, Mekansm, or Burst Heal), and saves that prevent the target from reaching low HP thresholds. It is also less effective against elusive heroes who can disengage before the missing HP damage scaling becomes significant. Stats: Damage Type: Physical (derived from attack damage).
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, GLOBAL, DEFENSE] | Town Portal Scroll TEAMFIGHT_ROLE: Critical for global map presence to counter-gank, defend structures under siege, or secure Roshan after respawn. Successive teleports to the same location increase channel time, requiring coordination. Stats: Channel Time: 3 seconds, Range Max: 800.
+---
+[TAGS: STRATEGY, Phantom Assassin, WEAKNESS] | Phantom Assassin Weakness: Vulnerable to Break (e.g., Silver Edge) and Silence, which disable Blur and cast abilities.
+---
+[TAGS: PHANTOM ASSASSIN, POWER_SPIKES] | Power Spike 1: Level 6 with Coup de Grace. Gains a 17% chance for a 200/300/400% critical strike, massively increasing kill threat with Phantom Strike. Power Spike 2: Level 12 with maxed Blur and Coup de Grace level 2. High evasion (35-55% with Immaterial) and stronger crits. Power Spike 3: Level 18 with max Coup de Grace (400% crit). Power Spike 4: Level 20 Talent choice of +200 Phantom Strike Cast Range or +60 Phantom Strike Attack Speed. Power Spike 5: Level 25 Talent choice of +10% Coup de Grace chance or Triple Strike Stifling Dagger.
+---
+[TAGS: PANGOLIER, SITUATIONAL, SPLIT_PUSH, ESCAPE, MOBILITY] | Scenario: Need to Split Push. Swashbuckle clears creep waves rapidly. Rolling Thunder allows you to escape from most gank attempts by rolling through trees and over cliffs. Carry a Teleport Scroll to join fights after pushing. The Double Jump Facet can help you traverse terrain to escape.
+---
+[TAGS: MEEPO, ABILITY_DATA] | Dig causes Meepo to become invulnerable and untargetable for 3 seconds, providing a basic dispel and restoring 25% of his max health over the duration.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, VS_HEALING, SUSTAIN, COUNTER_PICK] | Spirit Vessel TEAMFIGHT_ROLE: Cripples high-healing or high-hp regeneration targets (e.g., Huskar, Alchemist, healing supports) during engagements. The percentage-based damage is effective against tanky heroes. Use on allies to provide significant healing in sustained fights or to save a low-health core. Stats: Duration: 8 seconds, Cooldown: 10 seconds.
+---
+[TAGS: ITEM_DATA, MISERICORDE, CORE_DESCRIPTION, NEUTRAL, TIER_3, DAMAGE, PHYSICAL_DAMAGE, SCALING, FINISHER, CARRY_ITEM] | Misericorde, Cost: 0: Tier 3 neutral item. Provides Dark Mercy passive - your attacks deal 3 more damage for each 7% HP the enemy is missing. This makes it a powerful tool for finishing off low-health targets and scales damage significantly during prolonged fights or against high-health enemies. Stats: Damage per missing HP: 3, HP threshold per stack: 7%.
+---
+[TAGS: PHANTOM ASSASSIN, HARD_COUNTERS] | Hard Counter 1: Heroes with Break (e.g., Silver Edge, Hoodwink). Break disables her passive Immaterial evasion (25-55%) and Coup de Grace critical strike chance. Hard Counter 2: Instant disables and hexes (e.g., Lion, Shadow Shaman). Prevent her from using Phantom Strike to escape or initiate. Hard Counter 3: High physical burst and minus armor (e.g., Slardar, TA). Bypass her evasion with accuracy sources or sheer damage. Hard Counter 4: Illusion and summon heroes (e.g., Chaos Knight, Naga Siren). Can overwhelm and misdirect her single-target focus.
+---
+[TAGS: JAKIRO, SITUATIONAL, FROM_BEHIND, DEFENSIVE] | When playing from behind, use your spells defensively. Ice Path to stop chases, Dual Breath to slow pursuers, and Macropyre to zone areas you need to defend. Build cheap utility items like Force Staff and Glimmer Cape to save allies and yourself.
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_HEALING, COUNTER_PICK, DEBUFF] | Spirit Vessel SITUATIONAL_VS_HEALING: Core counter-pick item against heroes and items reliant on HP regeneration or healing spells (e.g., Heart of Tarrasque, Holy Locket, Chen). The 70% reduction to both health restoration and incoming heals drastically reduces their effective durability. The percentage HP drain punishes high HP pools.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, PASSIVE, OFFENSIVE, VS_LOW_HP] | Brigand's Blade CORE_MECHANICS: Dark Mercy is a passive ability that increases your attack damage based on the target's missing health. Your attacks deal 3 additional damage for every 7% of maximum health the enemy is missing. This effect scales linearly, rewarding focused fire on wounded enemies and synergizing with burst damage. Stats: Cost: 0 gold, Passive Bonus Damage: 3 per missing 7% HP, Bonus Damage: +0, Attack Speed: +0.
+---
+[TAGS: ITEM_DATA, SHIVAS_GUARD, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE_ITEM, TANK_ITEM, AURA, VS_PHYSICAL] | Shiva's Guard, Cost: 5175: Strong synergy for tanky intelligence heroes (e.g., Necrophos, Death Prophet) who want to amplify their magical damage output while becoming more durable against physical attacks. The aura debuff synergizes with their role as magical damage dealers who benefit from staying in the middle of fights.
+---
+[TAGS: Ability, Health, Survivability] | Special Bonus HP 400: Increases survivability by granting a flat health boost. Stats: Health: 400
+---
+[TAGS: Ability, Health, Defense] | Special Bonus HP 650: Offers a robust health boost to withstand heavy attacks. Stats: Health: 650
+---
+[TAGS: STRATEGY, Phantom Assassin, ITEM_BUILD, CORE] | Phantom Assassin Core Build: Cannot function without Battle Fury for farming and BKB for survivability.
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, SITUATIONAL_USAGE, CONSUMABLE, MOBILITY, ESCAPE, SPLIT_PUSH, DEFENSE, VS_CONTROL] | Town Portal Scroll, Cost: 100: Core tactical tool for split-pushing safely and defending structures. Use to escape dangerous situations by channeling to a safe tower. Key for maintaining map pressure and forcing enemy reactions. Remember, roots prevent the channel. Stats: CD: 80s, Mana: 75.
+---
+[TAGS: Ability, Healing, Global] | Hand of God: A global healing ability that provides both immediate and sustained health recovery for allies. Stats: Initial Heal: 200/300/400, Heal Duration: 10 seconds, Heal Per Second: 20/30/40.
+---
+[TAGS: ITEM_DATA, SPIRIT_VESSEL, SITUATIONAL_VS_HEALERS, FULL_ITEM, VS_HEALERS, ANTI_HEAL, SUPPORT_ITEM] | Spirit Vessel, Cost: 2725: Situational against heroes reliant on healing or regeneration, such as Huskar, Alchemist, or Morphling. The 70% healing reduction significantly neuters their survivability, and the percentage-based health drain is highly effective against high-HP targets. It's also strong in drawn-out fights where the sustained heal and damage over time have maximum impact.
+---
+[TAGS: NATURES_PROPHET, ABILITY_DATA, TELEPORTATION] | ABILITY: Teleportation. Teleports to any point on the map. Gains a barrier after arriving to its destination. Cooldown is 65/50/35/20 seconds. Barrier absorbs 70/130/190/250 damage and lasts 15 seconds. Mana and cooldown are consumed only upon successful completion of the cast. A visible effect is created at the target location when casting begins.
+---
+[TAGS: VISAGE, SITUATIONAL, SIEGING] | Scenario: Sieging High Ground. Use Familiars to hit the tower from 180 range. Keep Visage back to preserve Gravekeeper's Cloak layers. Have Stone Form ready to stun enemies who initiate or to save Familiars from dive. Use Silent as the Grave to scout or reposition.
+---
+[TAGS: Ability, Unit Target, Repositioning] | Assimilate: Allows Lifestealer to consume a friendly hero, hiding within them. Tactical for repositioning and saving allies. Stats: Cooldown: 50s
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: ITEM_DATA, ORB_OF_FROST, FULL_ITEM, SITUATIONAL_VS_HEALERS, HEAL_REDUCTION, VS_HEALERS, ANTI_HEAL, SLOW] | Orb of Frost, Cost: 300: Effective against heroes with high innate health regeneration or healing abilities (Huskar, Alchemist, Morphling). The movement slow makes it easier to land skillshots or escape from melee pursuers. Counters laning phase sustain items like Tangos and healing salves.
+---
+[TAGS: ABILITY_DATA] | Ability: Dauntless (Passive). Mars gains 70 HP regen per second for each enemy hero that outnumbers him and his allied heroes within a 700 radius. For example, if there are 2 enemy heroes and 1 ally (Mars) in range, he is outnumbered by 1 and gains 70 HP regen.
+---
+[TAGS: Ability, Health, Mitigation] | Special Bonus HP 700: Elevates health pool to mitigate high-damage threats. Stats: Health: 700
+---
+[TAGS: Phantom Assassin, Damage, Passive] | Coup de Grace: Passive crit chance that guarantees massive critical hits via Deadly Focus stacks, amplified for Stifling Dagger. Stats: Crit Chance: 17%, Dagger Crit Chance: 34%, Crit Damage: 200%/300%/400%, Deadly Focus Duration: 6/8/10s
+---
+[TAGS: PHANTOM ASSASSIN, LANING_PHASE] | In the laning phase, use Stifling Dagger (6s cooldown) to harass from a safe distance, applying a 50% slow and dealing 65-80 + 30-75% of your attack damage. Prioritize last hitting with your high base damage. Use Phantom Strike (650-950 cast range) to secure last hits on ranged creeps or to escape by blinking to allied units. Your low HP pool makes you vulnerable to nukes, so avoid prolonged trades.
+---
+[TAGS: ITEM_DATA, DIMENSIONAL_DOORWAY, CORE_DESCRIPTION, NEUTRAL, TIER_5, MOBILITY, TEAM_BUFF, UTILITY, ESCAPE, REPOSITION] | Dimensional Doorway, Cost: 0: Tier 5 Neutral item that creates a one-way portal. Teleports you and nearby allied heroes to a target location after a short delay. Primarily used for strategic repositioning or escapes. Stats: CD: 90s, Charges: 3.
+---
+[TAGS: ITEM_DATA, FORTITUDE_RING, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SAVE, HEALTH, REGEN, SURVIVAL] | Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, UTILITY] | Town Portal Scroll CORE_BUILD: Core item for every hero at all stages, purchased repeatedly from the side shop. No components or upgrades. Synergy: Pair with Boots of Travel for non-structure teleports later. Stats: Cost: 100 gold.
+---
+[TAGS: Ability, Survivability, Passive] | Rawhide: Passive ability that scales Centaur's survivability. Gains 25 health every 120 seconds.
+---
+[TAGS: UNDYING, ABILITY_DATA, DECAY, Q] | Ability: Decay (Q). Undying steals 4 Strength from all enemy heroes in a 325 radius, dealing 20/60/100/140 damage. It deals double damage to creeps. The stolen Strength lasts 35 seconds and stacks. The cooldown is 13/10/7/4 seconds. With Aghanim's Shard, it gains a 40-second buff that increases strength steal to 6 and causes a second Decay to be cast at the location after 1.5 seconds. This ability pierces spell immunity (pierces BKB).
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, SLOW, DEBUFF, OFFENSIVE] | Orb of Frost CORE_MECHANICS: Provides an on-hit slow and heal reduction. Attacks slow enemy movement by 13% (reduced to 6% against melee attackers) and reduce Health Restoration by 13%. The effect lasts for 3 seconds, applying constant soft control in engagements. Stats: Cost: 300 gold, Slow (Ranged/General): 13%, Slow (Melee): 6%, Heal Reduction: 13%, Duration: 3s.
+---
+[TAGS: ITEM_DATA, AETHERIAL_HALO, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, VS_MAGIC, SURVIVAL, SUSTAIN, CONTROL, VS_MOBILITY] | Cost: 5900: Highly effective against magic-resistant enemies and physical burst due to the raw attribute bulk and spell lifesteal sustain. The active burn damage over time and slow helps control mobile heroes and prevent disengages.
+---
+[TAGS: Ability, Regeneration, Survivability] | Max HP Regen while inside The Calling: Boosts Muerta's health regeneration while inside The Calling, improving her survivability during her ultimate.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_TANKS, AMPLIFY] | Nemesis Curse SITUATIONAL_VS_TANKS: High value against durable, high-health heroes where the 12% damage amplification significantly increases your team's effective damage output, helping to burn through their large HP pools. The constant, single-target nature of the debuff is ideal for extended fights against such targets. Stats: Enemy Damage Amplification: 12% for 5 seconds.
+---
+[TAGS: PUCK, ABILITY_DATA, WANING_RIFT, SILENCE, DAMAGE, BLINK] | Waning Rift (W) teleports Puck a max distance of 350 units and deals 60/120/180/240 damage in a 400 radius around the target location, silencing enemies for 2.0/2.5/3.0/3.5 seconds. Cooldown is 16/15/14/13 seconds.
+---
+[TAGS: Roshan, Ability, Escape, Repositioning] | Teleport: Allows Roshan to relocate instantly, making it a versatile escape or repositioning tool. Stats: Cooldown: 0
+---
+[TAGS: ABADDON, ABILITY_DATA, BORROWED_TIME, ULTIMATE, DISPEL, SURVIVAL] | Borrowed Time (R): Ultimate. When activated, applies a Strong Dispel on Abaddon. For 4/5/6 seconds, all damage dealt to Abaddon heals him instead of harming him. Cooldown is 90/85/80 seconds. If off cooldown, it automatically activates when Abaddon's health falls below 400. Can be manually activated while disabled (but not silenced). Passive activation is prevented by Break.
+---
+[TAGS: ITEM_DATA, HEALING_SALVE, CORE_MECHANICS, CONSUMABLE, REGEN, SUSTAIN, HEALTH, DISPELLABLE] | Healing Salve, Cost: 100: Consumable item that restores 390 total health over 13 seconds to a single hero. It is cheaper than a full health fountain trip but breaks if the target takes damage from an enemy hero or Roshan, making it risky to use in combat. It heals allies for half the rate (195 total). Stats: CD: No cooldown, Duration: 13s, Charges: 1, Breakable by hero/rosh damage.
+---
+[TAGS: ITEM_DATA, SHIVAS_GUARD, SITUATIONAL_VS_HEALERS, FULL_ITEM, VS_HEALERS, HEAL_REDUCTION, ANTI_HEAL, VS_PHYSICAL] | Shiva's Guard, Cost: 5175: Highly effective versus high-healing or regeneration-reliant lineups (e.g., Huskar, Alchemist, Necrophos) due to its 25% heal reduction aura. The active slow and attack speed reduction also counters physical damage carries who depend on rapid attacks. Build against healing and physical damage cores.
+---
+[TAGS: ITEM_DATA, TOWN_PORTAL_SCROLL, EARLY_GAME_USAGE, CONSUMABLE, MOBILITY, ROTATION, LANING, SITUATIONAL_USAGE] | Town Portal Scroll, Cost: 100: Essential starting item for early game rotations and lane sustain. Enables heroes to quickly return to lane after visiting the fountain, minimizing experience loss. Critical for responding to early ganks or dives to turn fights and save allies.
+---
+[TAGS: Ability, Techies, Utility, Passive] | Spoon's Stash: Enhances Neutral Items by stacking enchantments, improving Techies' utility. Stats: Passive.
+---
+[TAGS: VISAGE, HARD_COUNTERS] | Visage is hard countered by heroes with Break (e.g., Shadow Demon, Doom) which disables the gaining of new Gravekeeper's Cloak and Lurker stacks, though existing stacks remain. Instant disables like Hex prevent Stone Form activation. High burst physical damage heroes can quickly kill Familiars (100 gold bounty each). Area-of-effect damage and control can stun multiple Familiars during Stone Form cast.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, EVASION, DEFENSIVE, HP_THRESHOLD] | Sister's Shroud CORE_MECHANICS: Provides a defensive evasion bonus when health drops below 50%, granting 150% evasion for 5 seconds. Each dodge reduces evasion by 75% of its current value, making it effective against few attacks but decaying quickly. Cooldown resets only on wearer's death or killing an enemy hero. Stats: HP Threshold: 50%, Evasion Bonus: 150%, Evasion Loss per Dodge: 75%, Duration: 5 seconds, Cooldown Reset: Death or hero kill, Does not trigger from non-player controlled creep damage.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, SITUATIONAL, CHASE, ESCAPE] | Unrelenting Eye TEAMFIGHT_ROLE: Gains peak value when the wearer is isolated or diving into the backline with few heroes nearby, maximizing slow resistance for chasing or escaping. Conversely, its effect is minimal in the middle of a dense 5-man clash, reducing its defensive utility against coordinated slows. Stats: Bonus reduced by 10% per enemy hero in attack radius.
+---
+[TAGS: MEDUSA, SITUATIONAL, DEFENSE, HIGH_GROUND, STALL, LATE_GAME] | Scenario: Playing from Behind / Defending High Ground. Medusa excels at defending with Split Shot clearing waves and Stone Gaze zoning the choke. Prioritize survivability items like Skadi and Butterfly. Use Mystic Snake to farm safely. Your Mana Shield makes you very hard to dive under tower. Drag the game out to reach your late-game potential.
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+
+=== GAME STATE ===
+Match Time: 18:20 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: phantom_assassin (Lvl 12) | HP: 180/1400 | Mana: 300/450 | Alive: true
+Stats: K/D/A 3/2/4 | Gold: 1800 | LastHits: 85
+Inventory: [item_desolator (CD), item_magic_wand x17, item_blight_stone (CD), item_tpscroll x1, item_phase_boots]
+Abilities: [phantom_assassin_stifling_dagger(Lvl4)[Rdy] | phantom_assassin_phantom_strike(Lvl2)[Rdy] | phantom_assassin_blur(Lvl4)[Rdy] | phantom_assassin_coup_de_grace(Lvl2)[NoMana/Silenced]]
+User Situation Notes: Только что вышла из драки, убила двоих, но осталась на 180 хп. Враги (Lion, Lina, Zeus) все живы. У Lion Finger готов. Мне нужно в шрайн, но он далеко.
+
+=== USER QUESTION ===
+"What is the most important tactical advice for next 30 seconds?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "What is the most important tactical advice for next 30 seconds?".**
+========================================
+
+[AI RESPONSE] (2.90s)
+The most important tactical advice for the next 30 seconds is to **use your Town Portal Scroll** to teleport back to a safe place, ideally your base or a nearby friendly tower. Your health is very low (180/1400), and the enemy Lion has a ready Finger of Death, which can instantly kill you. This will allow you to avoid unnecessary risk and get back to the action safely.

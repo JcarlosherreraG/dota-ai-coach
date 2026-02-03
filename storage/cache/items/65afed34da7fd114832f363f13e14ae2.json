@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Light Robes. Cost: 0: Neutral item providing negative health penalty and positive attack speed boost. Grants +35 Attack Speed but reduces max health by 175 HP. A high-risk, high-reward item for heroes who rely on attack speed and can offset the health loss. Stats: Attack Speed: +35, Health Penalty: -175.",
+    "search_text": "light robes, neutral item, attack speed neutral, health penalty, negative hp, offensive neutral, damage neutral, risk reward item, attack speed boost, Light Robes",
+    "tags": [
+      "ITEM_DATA",
+      "LIGHT_ROBES",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "ATTACK_SPEED",
+      "DAMAGE",
+      "OFFENSIVE",
+      "RISK_REWARD"
+    ]
+  }
+]

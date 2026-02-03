@@ -1,0 +1,41 @@
+[
+  {
+    "display_text": "Greater Faerie Fire, Cost: 0: Consumable item that instantly restores 250 health on use. Comes with 3 charges. No mana cost. Used for emergency healing in dangerous situations. Stats: Charges: 3, CD: 10s, Instant Heal: 250 HP.",
+    "search_text": "instant heal, burst heal, emergency heal, health consumable, consumable heal, instant health, instant health restore, instant hp, no cast heal, faerie fire, greater faerie fire, burst regen, no mana heal, pocket heal, quick heal",
+    "tags": [
+      "ITEM_DATA",
+      "GREATER_FAERIE_FIRE",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "HEALTH",
+      "INSTANT_CAST",
+      "SURVIVAL",
+      "EMERGENCY_HEAL"
+    ]
+  },
+  {
+    "display_text": "Greater Faerie Fire, Cost: 0: Provides +20 damage to your hero while in inventory. This damage bonus is lost when the item is consumed. Offers minor offensive stats alongside its healing utility.",
+    "search_text": "damage bonus, stat consumable, passive damage, consumable stats, minor damage, faerie fire damage, extra damage, temporary stats, bonus damage item, Greater Faerie Fire",
+    "tags": [
+      "ITEM_DATA",
+      "GREATER_FAERIE_FIRE",
+      "STAT_PROFILE",
+      "CONSUMABLE",
+      "DAMAGE",
+      "TEMPORARY_STATS"
+    ]
+  },
+  {
+    "display_text": "Greater Faerie Fire, Cost: 0: Timely use can turn around a close fight by providing a sudden health boost to survive burst damage. Can be used while stunned or disabled. Useful for baiting enemies who think you are low health.",
+    "search_text": "bait heal, fight turn, survive burst, low health bait, outplay heal, instant recovery, clutch heal, survivability item, comeback heal, Greater Faerie Fire",
+    "tags": [
+      "ITEM_DATA",
+      "GREATER_FAERIE_FIRE",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "SURVIVAL",
+      "BAIT",
+      "CLUTCH"
+    ]
+  }
+]

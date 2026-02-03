@@ -1,0 +1,210 @@
+[
+  {
+    "display_text": "Treant Protector is a Melee hero with a slow base attack time of 1.9 seconds. He has high starting Strength of 25, but low Agility of 15 and Intelligence of 20, making him tanky but with low armor and mana pool early on.",
+    "search_text": "Treant Protector Melee attack rate 1.9 strength 25 agility 15 intelligence 20 base stats",
+    "tags": [
+      "Treant Protector",
+      "BASE_STATS",
+      "MELEE",
+      "SLOW_ATTACK"
+    ]
+  },
+  {
+    "display_text": "Primeval Power facet grants bonus base attack damage per hero level, scaling into late game for a core damage role. Sapling facet allows Leech Seed to be ground targeted to plant a tree, enhancing vision, juking, and synergy with tree-based abilities like Nature's Guise. Uprooted facet currently has no effect.",
+    "search_text": "Treant Protector facets Primeval Power Sapling Uprooted attack damage per level Leech Seed plant tree",
+    "tags": [
+      "Treant Protector",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Treant Protector can harass with Leech Seed, dealing 20/40/60/80 bonus magic damage per attack and healing allies. Use Nature's Grasp to slow enemies by 25/30/35/40% and deal 35/50/65/80 damage per second. Living Armor can be used on allies or towers to block up to 120 damage and heal 4/7/10/13 per second. Focus on trading hits due to high strength, but be mindful of slow attack speed.",
+    "search_text": "Treant laning phase Leech Seed harass Nature's Grasp slow Living Armor heal block early game",
+    "tags": [
+      "Treant Protector",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Power spike at level 6 with Overgrowth, a large AoE root that deals 95 damage per second. Level 12 when basic abilities are maxed. Level 18 for level 3 Overgrowth with 5 second duration. Talent spikes at 10 (+4 Living Armor Heal or +50 Damage), 15 (+10% Leech Seed healing or +25 Nature's Grasp damage), 20 (+20 Living Armor block or +80 Leech Seed damage), 25 (-3s Leech Seed cooldown or 450 AoE Living Armor). Item spike with Blink Dagger for initiation or Aghanim's Scepter for global Living Armor.",
+    "search_text": "Treant power spikes level 6 Overgrowth level 12 talents 10 15 20 25 Blink Dagger Aghanim's Scepter",
+    "tags": [
+      "Treant Protector",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "TALENTS"
+    ]
+  },
+  {
+    "display_text": "Heroes that destroy trees like Timbersaw, Beastmaster, or with items like Quelling Blade counter Eyes in the Forest and Nature's Guise. Break effects can disable Nature's Guise's tree walking. Instant disables like Hex prevent Treant from using Overgrowth or escaping. Since Living Armor blocks damage from player-controlled sources, high magic damage or pure damage can bypass it.",
+    "search_text": "counters Treant tree destroy Timbersaw Beastmaster Break Nature's Guise Hex disable Living Armor",
+    "tags": [
+      "Treant Protector",
+      "HARD_COUNTERS",
+      "COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items include Arcane Boots to sustain mana for abilities, Blink Dagger to position for Overgrowth initiations, and Aghanim's Scepter to cast Living Armor globally on allies and towers.",
+    "search_text": "Treant core items Arcane Boots Blink Dagger Aghanim's Scepter essential build",
+    "tags": [
+      "Treant Protector",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Treant Protector initiates with Overgrowth to root multiple enemies, followed by Leech Seed for healing and slow. Use Living Armor to protect key allies and towers. Provide vision with Eyes in the Forest on key trees.",
+    "search_text": "Treant teamfight role initiator Overgrowth healer Living Armor vision Eyes in the Forest",
+    "tags": [
+      "Treant Protector",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Nature's Grasp creates vines every 0.1 seconds towards the target location, lasting 9/10/11/12 seconds. Vines slow enemies by 25/30/35/40% and deal 35/50/65/80 magic damage per second. Damage is reduced by 35% against creeps. Vines have a latch range of 135 and provide 150 vision.",
+    "search_text": "Nature's Grasp Q slow damage vines duration 9 10 11 12 movement slow 25 30 35 40 damage per second 35 50 65 80",
+    "tags": [
+      "Treant Protector",
+      "ABILITY_DATA",
+      "NATURE'S_GRASP",
+      "SLOW",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Leech Seed on attack deals 20/40/60/80 bonus magic damage and roots the target for 0.9/1.1/1.3/1.5 seconds. Emits 2 healing pulses to up to 5 nearby allies within 650 radius, healing for a flat 15/25/35/45 plus 20% of the damage dealt. Cooldown is 15/12/9/6 seconds.",
+    "search_text": "Leech Seed W attack bonus damage 20 40 60 80 root duration 0.9 1.1 1.3 1.5 heal pulses 2 flat heal 15 25 35 45 cooldown 15 12 9 6",
+    "tags": [
+      "Treant Protector",
+      "ABILITY_DATA",
+      "LEECH_SEED",
+      "HEAL",
+      "ROOT"
+    ]
+  },
+  {
+    "display_text": "Living Armor heals the target for 4/7/10/13 per second and blocks up to 120 damage from player-controlled sources for 12 seconds. Each block reduces the block amount by 35/30/25/20. Damage instances below 20 are ignored. If block reaches 0, the buff ends early.",
+    "search_text": "Living Armor E heal per second 4 7 10 13 damage block 120 block loss 35 30 25 20 duration 12 threshold 20",
+    "tags": [
+      "Treant Protector",
+      "ABILITY_DATA",
+      "LIVING_ARMOR",
+      "HEAL",
+      "DAMAGE_BLOCK"
+    ]
+  },
+  {
+    "display_text": "Eyes in the Forest enchants a tree to provide 800 vision for 300 seconds. It is invisible but takes 2 hits to destroy. If the tree is destroyed, the eye is lost. Overgrowth through enchanted trees deals damage. True Sight reveals enchanted trees.",
+    "search_text": "Eyes in the Forest vision 800 duration 300 seconds invisible hits to kill 2 tree enchant Overgrowth damage",
+    "tags": [
+      "Treant Protector",
+      "ABILITY_DATA",
+      "EYES_IN_THE_FOREST",
+      "VISION",
+      "INVISIBLE"
+    ]
+  },
+  {
+    "display_text": "Nature's Guise grants 10% movement speed near trees within 200 radius. After not taking damage for 2.75 seconds, Treant gains Tree Walking and can activate invisibility until he attacks or leaves trees. Invisibility has a 35-second cooldown. Vines from Nature's Grasp count as trees.",
+    "search_text": "Nature's Guise passive movement speed 10% tree walking invisibility cooldown 35 grace time 2.75 radius 200",
+    "tags": [
+      "Treant Protector",
+      "ABILITY_DATA",
+      "NATURE'S_GUISE",
+      "INVISIBILITY",
+      "MOVEMENT_SPEED"
+    ]
+  },
+  {
+    "display_text": "Overgrowth roots enemies in a 800 radius for 3/4/5 seconds, dealing 95 magic damage per second and preventing movement, blinking, invisibility, and attacking. Cooldown is 110/100/90 seconds. Pierces BKB and debuff immunity upon cast, but if immunity is gained after, the effect ends.",
+    "search_text": "Overgrowth ultimate root AoE 800 duration 3 4 5 damage 95 per second cooldown 110 100 90 pierces BKB",
+    "tags": [
+      "Treant Protector",
+      "ABILITY_DATA",
+      "OVERGROWTH",
+      "ROOT",
+      "AOE",
+      "PIERCES_BKB"
+    ]
+  },
+  {
+    "display_text": "Against high magic damage teams, Living Armor's damage block is less effective since it only blocks player-controlled physical damage. Prioritize maxing Leech Seed for healing and use Overgrowth to control key spellcasters. Consider items like Pipe of Insight for magic resistance.",
+    "search_text": "situational vs magic damage Living Armor less effective Leech Seed heal Overgrowth control Pipe of Insight",
+    "tags": [
+      "Treant Protector",
+      "SITUATIONAL",
+      "VS_MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, use Living Armor on towers to delay pushes and heal them. Place Eyes in the Forest for safe vision around your jungle. Use Overgrowth defensively to catch diving enemies.",
+    "search_text": "behind defense Living Armor towers Eyes in the Forest vision Overgrowth defensive",
+    "tags": [
+      "Treant Protector",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "With global heroes like Spectre or Zeus, Aghanim's Scepter on Treant allows global Living Armor application, providing healing and damage block to allies anywhere on the map.",
+    "search_text": "global synergy Aghanim's Scepter Living Armor Spectre Zeus",
+    "tags": [
+      "Treant Protector",
+      "SITUATIONAL",
+      "GLOBAL_SYNERGY"
+    ]
+  },
+  {
+    "display_text": "Against tree-destroying heroes like Timbersaw or Beastmaster, avoid relying on Eyes in the Forest for vision. Use Nature's Guise cautiously and consider alternative items for mobility like Force Staff.",
+    "search_text": "counters tree destroy Timbersaw Beastmaster Eyes in the Forest Nature's Guise avoid",
+    "tags": [
+      "Treant Protector",
+      "SITUATIONAL",
+      "VS_TREE_DESTROYERS"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +4 Living Armor Heal Per Second for better sustain and tower defense, or +50 Base Damage for improved last hitting and harass in lane.",
+    "search_text": "talent level 10 Living Armor heal +4 base damage +50",
+    "tags": [
+      "Treant Protector",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between +10% Leech Seed Damage to Healing for increased teamfight sustain, or +25 Nature's Grasp Damage for more area control and damage in fights.",
+    "search_text": "talent level 15 Leech Seed healing +10% Nature's Grasp damage +25",
+    "tags": [
+      "Treant Protector",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between +20 Living Armor Damage Block for stronger damage mitigation on allies, or +80 Leech Seed Bonus Damage for more burst and healing from attacks.",
+    "search_text": "talent level 20 Living Armor block +20 Leech Seed damage +80",
+    "tags": [
+      "Treant Protector",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between -3s Leech Seed Cooldown for more frequent heals and roots, or 450 AoE Living Armor to apply the buff in an area, protecting multiple allies or buildings at once.",
+    "search_text": "talent level 25 Leech Seed cooldown -3s Living Armor AoE 450",
+    "tags": [
+      "Treant Protector",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_25"
+    ]
+  }
+]

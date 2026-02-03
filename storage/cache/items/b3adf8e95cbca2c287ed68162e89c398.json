@@ -1,0 +1,44 @@
+[
+  {
+    "display_text": "Infused Raindrops, Cost: 225: Consumable item with 6 charges. Each charge blocks 120 magic damage from any damage instance exceeding 75 damage, then is consumed. A crucial defensive tool against early magic nukes, with a 7-second internal cooldown per damage instance. Once all charges are expended, the item is destroyed. Stats: Charges: 6, Magic Block: 120, Minimum Damage Threshold: 75, CD per Proc: 7s.",
+    "search_text": "magic block item, early magic defense, magic damage block, consumable magic resist, magic damage reduction, Infused Raindrops, magic nuke protection, low cost magic defense, mana regen item, early game sustain, support magic item, blocking magic, damage threshold, charges block, magic harass counter",
+    "tags": [
+      "ITEM_DATA",
+      "INFUSED_RAINDROPS",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "MAGIC_RESISTANCE",
+      "VS_MAGIC",
+      "DEFENSIVE",
+      "MANA_REGEN",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Infused Raindrops, Cost: 225: Provides a modest 0.8 mana regeneration in addition to its charge-based damage block. Ideal for intelligence heroes and spellcasters who need both mana sustain and survivability during the laning phase. The low cost makes it a highly efficient purchase against aggressive magic-heavy lanes.",
+    "search_text": "early game mana regen, laning phase item, int hero item, mana sustain, efficient defense, spellcaster item, Infused Raindrops, mana regen stats, magic harass lane, sustain item",
+    "tags": [
+      "ITEM_DATA",
+      "INFUSED_RAINDROPS",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "MANA_REGEN",
+      "SUSTAIN",
+      "LANING",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "Infused Raindrops, Cost: 225: Situational purchase against early-game heroes who rely on high-damage magic nukes (e.g., Zeus, Lina, Skywrath Mage). The damage threshold means it's less effective against low, sustained magic damage. Can be a game-changing, cost-effective buy before your first major defensive item like Glimmer Cape or Hood of Defiance. Stats: Magic Block per Charge: 120.",
+    "search_text": "counter magic burst, vs magic nuke, magic damage counter, Infused Raindrops, early magic item, magic burst hero counter, vs Zeus, vs Lina, vs Skywrath, pre-BKB defense, cheap magic resist, situational magic defense",
+    "tags": [
+      "ITEM_DATA",
+      "INFUSED_RAINDROPS",
+      "SITUATIONAL_VS_MAGIC",
+      "CONSUMABLE",
+      "VS_MAGIC",
+      "SITUATIONAL",
+      "DEFENSIVE"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "display_text": "Kaya, Cost: 2100: Grants +16 Intelligence and increases your spell damage and mana regeneration efficiency. Specifically provides +10% Spell Amplification, which boosts outgoing spell damage, and +40% Mana Regen Amplification, enhancing mana restoration effects. A pure caster-focused stat stick for intelligence heroes and spellcasters. Stats: Intelligence: +16, Spell Amp: +10%, Mana Regen Amp: +40%.",
+    "search_text": "spell damage item, magic damage item, spell amplification, mana regen item, intelligence item, caster item, spellcaster item, mana regen amp, magic amp, Kaya, magic power, caster stats, intelligence hero item, magic damage boost, spell boost, Kaya",
+    "tags": [
+      "ITEM_DATA",
+      "KAYA",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MAGICAL_DAMAGE",
+      "SPELL_AMPLIFICATION",
+      "MANA_REGEN",
+      "INTELLIGENCE",
+      "CASTER_ITEM",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Kaya, Cost: 2100: Provides a focused stat profile: +16 Intelligence for mana pool and spell damage, +10% Spell Amplification to increase all outgoing magical damage, and +40% Mana Regen Amplification to multiply mana regeneration from items and abilities. No health, attack speed, or armor. Stats: Intelligence: +16, Spell Amp: +10%, Mana Regen Amp: +40%.",
+    "search_text": "kaya stats, intelligence stats, spell amp stats, mana regen amp stats, caster stats, spell damage stats, Kaya, spellcaster stats, magic damage stats, mana regen stats, no health, no armor",
+    "tags": [
+      "ITEM_DATA",
+      "KAYA",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "MANA_REGEN",
+      "SPELL_AMPLIFICATION"
+    ]
+  },
+  {
+    "display_text": "Kaya, Cost: 2100: Enhances a spellcaster's damage output and sustain in prolonged fights or pushing phases. The Spell Amplification boosts all magical damage, making it effective for heroes with high-damage spells or DoTs. The Mana Regen Amplification synergizes with other regen items, allowing for more frequent spell usage. A core damage-boosting item for intelligence-based cores and some supports.",
+    "search_text": "kaya teamfight, spell damage teamfight, magic damage teamfight, mana regen teamfight, team fight caster, magic sustain, spell sustain, team fight utility, spell amplification teamfight, Kaya",
+    "tags": [
+      "ITEM_DATA",
+      "KAYA",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SPELL_AMPLIFICATION",
+      "MANA_REGEN",
+      "CASTER_ITEM",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Kaya, Cost: 2100: Builds from Staff of Wizardry (+10 Intelligence) and Robe of the Magi (+6 Intelligence). Upgrades into more powerful caster items like Kaya and Sange or Yasha and Kaya, which add additional survivability or mobility.",
+    "search_text": "kaya components, staff wizardry, robe magi, kaya build, item build, kaya upgrade, kaya and sange, yasha and kaya, Kaya",
+    "tags": [
+      "ITEM_DATA",
+      "KAYA",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "COMPONENT",
+      "CASTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Kaya, Cost: 2100: Situational versus enemy teams building magic resistance, as the Spell Amplification helps counteract their defenses. Also strong versus opponents where mana efficiency is key, as the Mana Regen Amplification allows you to sustain more spells throughout drawn-out skirmishes. Less effective against heroes who rely on physical damage or BKB carriers.",
+    "search_text": "vs magic resistance, vs high magic resist, vs pipe, vs hood, magic damage item, counter magic resist, mana efficiency, sustain item, vs BKB, vs physical damage, Kaya",
+    "tags": [
+      "ITEM_DATA",
+      "KAYA",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "VS_MAGIC",
+      "SPELL_AMPLIFICATION",
+      "SUSTAIN",
+      "MANA_REGEN"
+    ]
+  }
+]

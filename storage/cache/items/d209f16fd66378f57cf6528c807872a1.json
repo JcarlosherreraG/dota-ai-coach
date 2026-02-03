@@ -1,0 +1,95 @@
+[
+  {
+    "display_text": "Eternal Shroud, Cost: 3700: Provides magic resistance and converts incoming spell damage into mana. Core mechanics: Shroud restores 25% of pre-reduction spell damage as mana. Eternal Endurance grants a stack for every 300 spell damage received, increasing magic resistance by 3.5% per stack for 5s, up to 6 stacks. This creates a scaling defensive synergy against magic-heavy lineups, rewarding the user for tanking damage. Stats: CD: N/A, MR: +20% Base, +21% Max from Stacks, Strength: +10, Health: +250.",
+    "search_text": "eternal shroud, magic resist item, mana restore item, spell damage defense, tank magic damage, spell lifesteal, magic damage tank, mana sustain, spell shield, hood upgrade, magic defense, mana from spells, stack magic resist, enduring shroud, Shroud, Endurance, Eternal Shroud, Hood item",
+    "tags": [
+      "ITEM_DATA",
+      "ETERNAL_SHROUD",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "VS_MAGIC",
+      "MAGIC_RESISTANCE",
+      "MANA_RESTORE",
+      "MANA",
+      "HEALTH",
+      "STRENGTH",
+      "TANK_ITEM",
+      "SCALING_DEFENSE",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Eternal Shroud, Cost: 3700: Provides a balanced mix of durability and sustain. Increases tankiness against magic damage with significant magic resistance and health. Supplies mana sustain through combat, reducing dependency on external sources. The strength bonus adds both HP and damage for strength-based heroes. Stats: Total Magic Resistance: +20% Base (up to +41%), Health: +250, Mana Restore: 25% of Incoming Spell Damage, Strength: +10.",
+    "search_text": "eternal shroud stats, hp item, mana item, strength item, tank stats, magic resist stats, stats breakdown, item attributes, durability stats, Eternal Shroud",
+    "tags": [
+      "ITEM_DATA",
+      "ETERNAL_SHROUD",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "MAGIC_RESISTANCE",
+      "HEALTH",
+      "STRENGTH",
+      "MANA",
+      "SUSTAIN",
+      "TANK_ITEM"
+    ]
+  },
+  {
+    "display_text": "Eternal Shroud, Cost: 3700: Defensive frontline tank item. Core role is to absorb and mitigate magic damage for the team while becoming increasingly difficult to kill with spells over the course of a fight. Converts enemy spellcasting pressure into personal mana, enabling continued ability usage. Strong for heroes who need to be in the thick of fights to be effective. This creates a negative feedback loop for spellcasters trying to burst you down.",
+    "search_text": "eternal shroud teamfight, frontline tank, magic damage tank, spell damage sponge, tank role, fight sustain, mana sustain tank, durable frontliner, aura carrier, magic damage sponge, Eternal Shroud",
+    "tags": [
+      "ITEM_DATA",
+      "ETERNAL_SHROUD",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "TANK_ITEM",
+      "FRONTLINE",
+      "DEFENSIVE",
+      "VS_MAGIC",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Eternal Shroud, Cost: 3700: Situational counter against heavy magic damage lineups. Extremely effective against teams with 2-3 core magical nukers or sustained spell damage. The scaling resistance directly counters attempts to burst the user down with spells, making it a prime purchase when facing heroes like Zeus, Leshrac, or Queen of Pain. Less effective against teams dominated by physical damage.",
+    "search_text": "counter magic damage, vs magic damage, magic damage counter item, anti-spellcaster item, vs nukers, counter spell burst, magic defense item, vs zeus, vs leshrac, Eternal Shroud",
+    "tags": [
+      "ITEM_DATA",
+      "ETERNAL_SHROUD",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "VS_MAGIC",
+      "MAGIC_RESISTANCE",
+      "COUNTER_ITEM",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Eternal Shroud, Cost: 3700: Situational counter against mana burn and silence. The mana restoration from Shroud can offset mana drain effects from heroes like Anti-Mage, Pugna, or Invoker. The item provides raw stats without requiring active spellcasting, making it viable even when silenced, unlike items like Eul's Scepter or Lotus Orb. It sustains your ability to use spells through mana restoration, countering attempts to keep you spell-locked.",
+    "search_text": "counter mana burn, vs mana break, anti-mana drain, mana sustain vs silence, vs antimage, vs pugna, mana restore vs burn, vs invoker, silence counter, mana item vs silence, Eternal Shroud",
+    "tags": [
+      "ITEM_DATA",
+      "ETERNAL_SHROUD",
+      "SITUATIONAL_USAGE",
+      "FULL_ITEM",
+      "MANA_RESTORE",
+      "MANA",
+      "SUSTAIN",
+      "COUNTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Eternal Shroud, Cost: 3700: Synergy with spell-spamming tank heroes. Core on strength heroes who want to be in the middle of fights and cast spells frequently but lack innate mana sustain, such as Bristleback, Centaur Warrunner, or Underlord. The mana restoration fuels their low-cooldown abilities, while the magic resistance and health allow them to survive the focus fire they draw. Upgrades from Hood of Defenselessness, making it a natural progression for magic damage mitigation.",
+    "search_text": "eternal shroud build, bristleback item, centaur item, underlord item, strength hero item, tank core item, hood upgrade, magic resist upgrade, spell spammer item, mana sustain tank, Eternal Shroud",
+    "tags": [
+      "ITEM_DATA",
+      "ETERNAL_SHROUD",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "STRENGTH_HERO",
+      "TANK_ITEM",
+      "UPGRADE",
+      "MANA_RESTORE",
+      "VS_MAGIC"
+    ]
+  }
+]

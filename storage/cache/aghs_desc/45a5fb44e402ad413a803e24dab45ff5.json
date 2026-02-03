@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Drow Ranger Aghanim's Scepter: Frost Arrows now apply Hypothermia stacks, increasing damage and reducing regeneration. This upgrade counters sustained healing and tanky heroes by bursting enemies upon death, dealing AoE damage and slows, making it a strong tool against high-regen and grouped-up opponents.",
+    "search_text": "Drow Ranger Aghanim Scepter anti-healing anti-tank high-regen burst damage AoE slow",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Drow Ranger",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Drow Ranger Aghanim's Shard: Glacier creates an ice hill, granting bonus attack range, high ground advantage, and Multishot arrows. This upgrade transforms Drow into a high-ground defense powerhouse, countering melee attackers and enabling safer positioning during sieges or defenses.",
+    "search_text": "Drow Ranger Aghanim Shard high-ground defense attack range Multishot siege positioning",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Drow Ranger",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

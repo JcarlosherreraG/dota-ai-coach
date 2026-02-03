@@ -1,0 +1,73 @@
+[
+  {
+    "display_text": "Orchid Malevolence, Cost: 3275: Active ability 'Soul Burn' silences a target for 5 seconds and deals 30% of all damage taken during the silence as bonus magical damage at the end. Essential for locking down and bursting spell-dependent heroes. Stats: CD: 18s, Mana Cost: 125, Silence Duration: 5s.",
+    "search_text": "silence item, orchid malevolence, orchid, silence target, disable caster, magical damage burst, amplify damage, single target silence, ganking item, burst damage, catch tool, anti-mage, mana burn, intelligence item, Orchid Malevolence",
+    "tags": [
+      "ITEM_DATA",
+      "ORCHID_MALEVOLENCE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SILENCE",
+      "DISABLE",
+      "BURST_DAMAGE",
+      "MAGICAL_DAMAGE",
+      "SINGLE_TARGET"
+    ]
+  },
+  {
+    "display_text": "Orchid Malevolence, Cost: 3275: Provides a balanced mix of intelligence, mana regeneration, health regeneration, damage, and attack speed (+10 Int, +3 Mana Regen, +6 HP Regen, +10 Damage, +35 Attack Speed). Stats oriented towards casting and right-clicking spellcasters.",
+    "search_text": "orchid stats, int item, attack speed item, orchid malevolence stats, mana regen item, health regen item, damage item, right-click int, Orchid Malevolence",
+    "tags": [
+      "ITEM_DATA",
+      "ORCHID_MALEVOLENCE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "INTELLIGENCE",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "MANA_REGEN",
+      "HEALTH_REGEN"
+    ]
+  },
+  {
+    "display_text": "Orchid Malevolence, Cost: 3275: Serves as a core catch and burst tool in team fights, preventing key targets from casting spells while amplifying subsequent damage. Crucial for shutting down heroes reliant on escape or defensive abilities. The delayed damage burst complements follow-up attacks or spells.",
+    "search_text": "orchid teamfight, catch item, team fight silence, lock down support, burst setup, ganking item, counter escape, stop casting, disable in fight, Orchid Malevolence",
+    "tags": [
+      "ITEM_DATA",
+      "ORCHID_MALEVOLENCE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "CATCH",
+      "DISABLE",
+      "BURST_DAMAGE",
+      "INITIATION_SUPPORT"
+    ]
+  },
+  {
+    "display_text": "Orchid Malevolence, Cost: 3275: SITUATIONAL_VS_MAGIC: Counters high-mobility and magic-reliant heroes. The silence prevents spellcasting for escape (like Blink, Teleport) or defense (like Shallow Grave, Reaper's Scythe), making them vulnerable to follow-up damage.",
+    "search_text": "orchid vs magic, silence vs caster, counter escape hero, stop teleport, prevent blink, anti-mobility item, orchid counter, disable spellcaster, Orchid Malevolence",
+    "tags": [
+      "ITEM_DATA",
+      "ORCHID_MALEVOLENCE",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_MAGIC",
+      "DISABLE",
+      "VS_CASTERS",
+      "CATCH"
+    ]
+  },
+  {
+    "display_text": "Orchid Malevolence, Cost: 3275: SYNERGY_BUILD: Excellent on high-attack speed or spell-spam intelligence heroes who can quickly apply the silence and capitalize on the damage amplification. A core item for heroes like Storm Spirit or Queen of Pain who seek to solo kill or disable key targets.",
+    "search_text": "orchid synergy, orchid storm spirit, orchid queen of pain, orchid intelligence hero, attack speed synergy, orchid core, orchid carrier, ganking core item, Orchid Malevolence",
+    "tags": [
+      "ITEM_DATA",
+      "ORCHID_MALEVOLENCE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "INTELLIGENCE",
+      "ATTACK_SPEED",
+      "GANKING"
+    ]
+  }
+]

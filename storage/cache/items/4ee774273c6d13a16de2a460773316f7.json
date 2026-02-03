@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Magnifying Monocle. Tier 4: Neutral item providing Keen Eye passive that increases cast range by 100 and attack range by 100 for both Melee and Ranged heroes. The effect is disabled for 6 seconds after taking over 25 damage from a player-controlled source or Roshan. A pure utility item for safer spellcasting and kiting. Stats: Bonus Attack Range: 100, Bonus Cast Range: 100, Damage Threshold: 25, Disable Duration: 6s.",
+    "search_text": "neutral item, tier 4 neutral, cast range item, attack range item, range increase, positioning neutral, kiting item, caster neutral, safe casting, vision range, Keen Eye, Magnifying Monocle, range extension",
+    "tags": [
+      "ITEM_DATA",
+      "MAGNIFYING_MONOCLE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_4",
+      "UTILITY",
+      "POSITIONING",
+      "CASTER_ITEM",
+      "RANGE_INCREASE",
+      "PASSIVE"
+    ]
+  }
+]

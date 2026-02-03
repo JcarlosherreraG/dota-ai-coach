@@ -1,0 +1,229 @@
+[
+  {
+    "display_text": "Bloodseeker is a melee hero with average starting stats: 24 Strength, 24 Agility, and 17 Intelligence. His base attack time is 1.7, which is standard. Being melee, he requires careful positioning to farm and harass in lane. His Agility gain provides natural armor and attack speed scaling.",
+    "search_text": "Bloodseeker melee hero stats agility 24 strength 24 int 17 BAT 1.7",
+    "tags": [
+      "BLOODSEEKER",
+      "BASE_STATS",
+      "MELEE",
+      "AGILITY"
+    ]
+  },
+  {
+    "display_text": "Arterial Spray: Ruptured units are pushed when attacked by Bloodseeker. This enhances chase and repositioning during his ultimate, synergizing with the movement damage mechanic. Bloodrush: Bloodseeker can supercharge the movement speed from Thirst temporarily. This is excellent for high-tempo ganking and initiation. Old Blood: Bloodrage silences the target and can be applied to enemies. Bloodrage increases base attack damage instead of spell damage. This fundamentally changes his role to a physical damage dealer and anti-caster, losing the spell damage amplification for allies.",
+    "search_text": "Bloodseeker facets arterial spray bloodrush old blood rupture push supercharge thirst silence enemy base attack damage",
+    "tags": [
+      "BLOODSEEKER",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "In lane, leverage Sanguivore to sustain by last-hitting. It heals for 30 health plus 1.5% of the creep's max health. Use Blood Rite carefully due to its 2.6 second delay; it's best for zoning, securing ranged creeps, or setting up after a slow. Early levels in Thirst provide up to 40 bonus movement speed to chase low-health enemies. Rush boots to capitalize on Thirst and maintain lane presence with Sanguivore.",
+    "search_text": "Bloodseeker laning sanguivore heal 30 + 1.5% max hp blood rite silence zoning thirst movement speed chase",
+    "tags": [
+      "BLOODSEEKER",
+      "LANING_PHASE",
+      "SUSTAIN",
+      "LAST_HIT"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a major ganking spike with Rupture, dealing initial damage based on current health (10%) and 35/45/55% damage per 100 units moved. Level 12 with maxed Bloodrage provides 30% spell damage amp. Level 20 talent (+20 Agility) significantly boosts physical damage. Level 25 talent (+18% Max Thirst MS) makes him incredibly fast. Key item spikes include Maelstrom for farm, Blade Mail for survivability, and Black King Bar for uninterrupted spellcasting.",
+    "search_text": "Bloodseeker power spikes level 6 rupture 10% current hp move damage 35% level 12 bloodrage 30% spell amp level 20 agility talent level 25 thirst ms talent",
+    "tags": [
+      "BLOODSEEKER",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "RUPTURE"
+    ]
+  },
+  {
+    "display_text": "Bloodseeker is hard-countered by heroes with Break (e.g., Shadow Demon, Viper) which disables his Thirst and Sanguivore passives. Instant silences or hexes prevent him from casting Bloodrage or Rupture. High-mobility heroes that can avoid Blood Rite and survive Rupture by standing still (like Storm Spirit with Ball Lightning). Healers and high burst magic damage can negate his self-damage from Bloodrage.",
+    "search_text": "Bloodseeker counters break thirst sanguivore disable silence hex mobility avoid blood rite rupture stand still",
+    "tags": [
+      "BLOODSEEKER",
+      "HARD_COUNTERS",
+      "BREAK",
+      "SILENCE"
+    ]
+  },
+  {
+    "display_text": "Essential items for Bloodseeker are Power Treads for stats and attack speed, Maelstrom to accelerate farm and proc with Bloodrage, and Black King Bar to ensure he can cast spells and right-click without being disabled. Blade Mail is also highly synergistic as it returns amplified damage when under Bloodrage.",
+    "search_text": "Bloodseeker core build power treads maelstrom farm black king bar bkb blade mail damage return bloodrage",
+    "tags": [
+      "BLOODSEEKER",
+      "CORE_BUILD",
+      "POWER_TREADS",
+      "MAELSTROM",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Bloodseeker's role is to initiate or counter-initiate with Rupture on a key target, forcing them to stand still or take massive damage. Use Blood Rite to create large area denial and silence multiple enemies. Apply Bloodrage on himself or a core ally to amplify spell damage. Clean up low-health heroes with extreme movement speed from Thirst.",
+    "search_text": "Bloodseeker teamfight role initiate rupture area denial blood rite silence bloodrage amp spell damage thirst chase cleanup",
+    "tags": [
+      "BLOODSEEKER",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "SILENCE"
+    ]
+  },
+  {
+    "display_text": "Bloodrage: Drives Bloodseeker or an allied hero into a bloodthirsty rage. Grants 60/90/120/150 attack speed and increases spell damage by 15/20/25/30%. Costs the target 0% of their max health per second. Cast range is 800. Lasts 8 seconds. Damage dealt to Bloodseeker or allies is non-lethal. Does NOT pierce BKB.",
+    "search_text": "Bloodrage Q ability attack speed 60 90 120 150 spell amp 15 20 25 30% self damage 0% hp cost 0 mana 8 second duration 800 cast range non lethal",
+    "tags": [
+      "BLOODSEEKER",
+      "ABILITY_DATA",
+      "BLOODRAGE",
+      "BUFF",
+      "SPELL_AMP"
+    ]
+  },
+  {
+    "display_text": "Blood Rite: Bloodseeker baptizes an area in sacred blood. After 2.9 seconds (2.6s delay + 0.3s cast), enemies in a 600 radius take 100/155/210/265 magic damage and are silenced for 3/4/5/6 seconds. Cooldown is 15/14/13/12 seconds. Does NOT pierce BKB.",
+    "search_text": "Blood Rite W ability area silence 3 4 5 6 sec damage 100 155 210 265 magic radius 600 delay 2.9 sec cooldown 15 14 13 12",
+    "tags": [
+      "BLOODSEEKER",
+      "ABILITY_DATA",
+      "BLOOD_RITE",
+      "SILENCE",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Thirst: Passive. Bloodseeker gains 10/20/30/40 bonus movement speed when any enemy hero's health is below 100%. The bonus increases as their health falls, reaching its maximum when health is at or below 25%. At this threshold, he also gains vision and True Sight of that hero. Bonuses stack per hero. Effects linger for 4.0 seconds if a target dies. Unlocks max movement speed.",
+    "search_text": "Thirst passive E ability movement speed bonus 10 20 30 40 scaling low hp vision true sight 25% threshold stack per hero linger 4 sec max speed unlock",
+    "tags": [
+      "BLOODSEEKER",
+      "ABILITY_DATA",
+      "THIRST",
+      "PASSIVE",
+      "MOVEMENT_SPEED",
+      "TRUE_SIGHT"
+    ]
+  },
+  {
+    "display_text": "Sanguivore: Passive. Bloodseeker restores 30 health plus 1.5% of the unit's max health when he kills it. If an ally kills an enemy hero within 300 range, Bloodseeker heals for half that amount (15 health + 0.75% max health). Creep lifesteal is reduced by 40%.",
+    "search_text": "Sanguivore passive lifesteal heal on kill 30 + 1.5% max hp ally kill nearby 300 range half heal 15 + 0.75% creep lifesteal reduced 40%",
+    "tags": [
+      "BLOODSEEKER",
+      "ABILITY_DATA",
+      "SANGUIVORE",
+      "PASSIVE",
+      "LIFESTEAL",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Rupture: Ultimate. Causes an enemy unit's skin to rupture, dealing initial damage equal to 10% of its current health. For the next 9/10/11 seconds, the target takes 35/45/55% of the distance it moves as damage every 100 units. Cast range is 800. Cooldown is 75/70/65 seconds. Damage is capped at 200 damage per instance. Does NOT pierce BKB.",
+    "search_text": "Rupture ultimate R ability damage based on movement 35 45 55% per 100 units initial damage 10% current hp duration 9 10 11 sec cast range 800 cooldown 75 70 65 damage cap 200",
+    "tags": [
+      "BLOODSEEKER",
+      "ABILITY_DATA",
+      "RUPTURE",
+      "ULTIMATE",
+      "MOVEMENT_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor / Evasion. Bloodseeker's physical damage falls off. Build MKB for true strike and magic damage (procs amplified by Bloodrage). Prioritize Bloodrage spell amp and magic damage items like Kaya and Sange or Ethereal Blade. Use Rupture to force stationary fights where your magic damage matters more.",
+    "search_text": "Bloodseeker vs high armor evasion build MKB magic damage kaya sange ethereal blade bloodrage spell amp rupture force stand still",
+    "tags": [
+      "BLOODSEEKER",
+      "SITUATIONAL",
+      "HIGH_ARMOR",
+      "EVASION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When unable to secure kills, focus on farming with Sanguivore sustain. Use Blood Rite to defend towers and clear waves from a distance. Build survivability items like Blade Mail and BKB. Use Rupture defensively to punish dives or on the enemy's most mobile core.",
+    "search_text": "Bloodseeker playing from behind farm sanguivore defend towers blood rite wave clear blade mail bkb survive rupture defensive",
+    "tags": [
+      "BLOODSEEKER",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "FARM"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Illusion Heroes. Thirst is not triggered by illusions, reducing your movement speed. Blood Rite and Rupture are single-target or small AOE. Build Battle Fury or Maelstrom for cleave/procs. Use Bloodrage's spell amp on yourself and focus on AOE magic damage items like Shiva's Guard.",
+    "search_text": "Bloodseeker vs illusions thirst not triggered build battle fury maelstrom cleave shiva guard aoe magic bloodrage spell amp",
+    "tags": [
+      "BLOODSEEKER",
+      "SITUATIONAL",
+      "ILLUSIONS",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Scenario: With Global Heroes (e.g., Zeus, Spectre). Your Thirst provides vision and True Sight on low-health enemies globally. Coordinate with allies to secure kills across the map. Rupture can be used to finish off fleeing low-health targets revealed by Thirst.",
+    "search_text": "Bloodseeker with global heroes thirst vision true sight low hp map wide coordination rupture finish kill",
+    "tags": [
+      "BLOODSEEKER",
+      "SITUATIONAL",
+      "GLOBAL",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Dispel (Euls, Lotus, Manta). Blood Rite silence and Rupture movement damage are dispellable. Time your spells after key dispels are used. Consider Nullifier to lock down dispellable targets. Rupture's initial damage is not dispellable.",
+    "search_text": "Bloodseeker vs dispel euls lotus manta blood rite silence rupture dispellable timing nullifier",
+    "tags": [
+      "BLOODSEEKER",
+      "SITUATIONAL",
+      "DISPEL",
+      "NULLIFIER"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Burst Roshan. Bloodrage's spell damage amplification works on physical damage from allies against Roshan. Apply it to your team's highest physical DPS core (e.g., Ursa). Your Sanguivore provides sustain during the fight.",
+    "search_text": "Bloodseeker roshan burst bloodrage spell amp physical damage apply to ally dps sanguivore sustain",
+    "tags": [
+      "BLOODSEEKER",
+      "SITUATIONAL",
+      "ROSHAN",
+      "BURST"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is +175 Health. Right choice is +30 Bloodrage Attack Speed. Choose +175 Health if you need survivability against burst or are playing a tankier role. Choose +30 Bloodrage Attack Speed if you are focusing on right-click damage and farming speed, especially with the Old Blood facet.",
+    "search_text": "Bloodseeker talent level 10 left +175 health right +30 bloodrage attack speed survival vs burst vs farm damage",
+    "tags": [
+      "BLOODSEEKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is -0.7% Bloodrage Max Health DPS For Allies. Right choice is +100 Blood Rite Damage. Choose the left talent if you are heavily supporting allies with Bloodrage and they are struggling with the health cost. Choose the right talent to significantly increase your magical burst and wave clear.",
+    "search_text": "Bloodseeker talent level 15 left -0.7% bloodrage ally health cost right +100 blood rite damage support allies vs burst damage",
+    "tags": [
+      "BLOODSEEKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is +425 Rupture Cast Range. Right choice is +20 Agility. Choose the cast range if you need to safely initiate with Rupture from fog or against mobile backline heroes. Choose the Agility for a significant boost to armor, attack speed, and physical damage, scaling well with Bloodrage attack speed.",
+    "search_text": "Bloodseeker talent level 20 left +425 rupture cast range right +20 agility safe initiation vs physical dps scaling",
+    "tags": [
+      "BLOODSEEKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is +2.5s Blood Rite Silence Duration. Right choice is +18% Max Thirst MS. Choose the silence duration for extreme teamfight control against spell-reliant lineups, turning a 6s silence into 8.5s. Choose the movement speed to become an uncatchable chase monster, especially powerful with the Bloodrush facet.",
+    "search_text": "Bloodseeker talent level 25 left +2.5s blood rite silence duration right +18% max thirst movement speed teamfight control vs chase mobility",
+    "tags": [
+      "BLOODSEEKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

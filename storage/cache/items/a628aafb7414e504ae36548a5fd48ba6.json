@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Shadow of Vengeance. Cost: 0 (Neutral / Event): A unique non-purchasable item. Upon death, you spawn a powerful illusion that deals 100% damage and takes 150% damage for 30 seconds. The illusion can cast all basic spells, acting as a persistent threat after your hero falls. Stats: Illusion Duration: 30s, Outgoing Damage: 100%, Incoming Damage: 150%.",
+    "search_text": "post-death illusion, death spawn illusion, death vengeance illusion, illusion on death, strong illusion on death, revenge illusion, Shadow of Vengeance, vengeance shadow, respawn illusion, cheat death illusion, death passive, neutral illusion",
+    "tags": [
+      "ITEM_DATA",
+      "SHADOW_OF_VENGEANCE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "EVENT_ITEM",
+      "ILLUSION",
+      "DEATH_EFFECT",
+      "DAMAGE_RETURN",
+      "PASSIVE",
+      "DEFENSIVE"
+    ]
+  }
+]

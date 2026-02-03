@@ -11,7 +11,7 @@ func TestCreateClient(t *testing.T) {
 	t.Run("Missing API Key", func(t *testing.T) {
 		t.Setenv("API_KEY", "")
 
-		_, err := CreateClient("gemini", "mod", "sys")
+		_, err := CreateClient("gemini", "mod", 30)
 		if err == nil {
 			t.Error("Expected error when API_KEY is missing, got nil")
 		}
@@ -23,7 +23,7 @@ func TestCreateClient(t *testing.T) {
 	t.Run("Unknown Provider", func(t *testing.T) {
 		t.Setenv("API_KEY", "dummy-key")
 
-		_, err := CreateClient("deepseek-fake", "mod", "sys")
+		_, err := CreateClient("deepseek-fake", "mod", 30)
 		if err == nil {
 			t.Error("Expected error for unknown provider")
 		}
@@ -32,7 +32,7 @@ func TestCreateClient(t *testing.T) {
 	t.Run("Create Gemini", func(t *testing.T) {
 		t.Setenv("API_KEY", "gemini-secret-key")
 
-		client, err := CreateClient("gemini", "gemini-pro", "act like a pro")
+		client, err := CreateClient("gemini", "gemini-pro", 30)
 		if err != nil {
 			t.Fatalf("Failed to create gemini client: %v", err)
 		}
@@ -46,7 +46,7 @@ func TestCreateClient(t *testing.T) {
 	t.Run("Create OpenRouter", func(t *testing.T) {
 		t.Setenv("API_KEY", "or-secret-key")
 
-		client, err := CreateClient("openrouter", "gpt-4", "sys")
+		client, err := CreateClient("openrouter", "gpt-4", 30)
 		if err != nil {
 			t.Fatalf("Failed to create openrouter client: %v", err)
 		}

@@ -1,4 +1,3 @@
-// Package factory создаёт AI клиентов на основе конфигурации.
 package factory
 
 import (
@@ -9,9 +8,9 @@ import (
 	"os"
 )
 
-// CreateClient создаёт клиент для указанного AI провайдера.
-// Поддерживаемые провайдеры: "gemini", "openrouter".
-func CreateClient(providerName, model, systemPrompt string) (ai.Client, error) {
+// CreateClient creates a client for the specified AI provider.
+// Supported providers: "gemini", "openrouter".
+func CreateClient(providerName, model string, httpTimeOutSeconds int) (ai.Client, error) {
 	apiKey := os.Getenv("API_KEY")
 	if apiKey == "" {
 		return nil, fmt.Errorf("API_KEY is not set in .env")
@@ -19,9 +18,9 @@ func CreateClient(providerName, model, systemPrompt string) (ai.Client, error) {
 
 	switch providerName {
 	case "gemini":
-		return gemini.NewClient(apiKey, model, systemPrompt), nil
+		return gemini.NewClient(apiKey, model, httpTimeOutSeconds), nil
 	case "openrouter":
-		return openrouter.NewClient(apiKey, model, systemPrompt), nil
+		return openrouter.NewClient(apiKey, model, httpTimeOutSeconds), nil
 	default:
 		return nil, fmt.Errorf("unknown provider: %s", providerName)
 	}

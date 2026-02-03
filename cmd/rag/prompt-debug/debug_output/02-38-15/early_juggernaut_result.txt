@@ -1,0 +1,259 @@
+FILE: early_juggernaut.json
+QUESTION: Что мне купить следующим, чтобы выжить на линии и начать убивать?
+GENERATION TIME: 1.80s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, HARD_COUNTERS, WEAK_TO_AOE, ILLUSION_VULNERABLE] | Manta Style HARD_COUNTERS: Countered by abilities and items that quickly clear illusions or apply area-of-effect damage, such as Battle Fury, Maelstrom, and Shiva's Guard. The dispel is ineffective against hard disables like stuns (unless dodged) and most ultimate abilities. Illusions die quickly to magical burst damage. Stats: Illusions take 300% damage, Duration: 18 seconds.
+---
+[TAGS: ITEM_DATA, BLADE_MAIL, FULL_ITEM, TEAMFIGHT_ROLE, DEFENSIVE, UTILITY] | Blade Mail, Cost: 2300: A critical team fight role item that punishes focused damage. Activating it during key enemy spells or right-click volleys can disrupt enemy coordination and protect high-value allies. Its presence alters enemy targeting priorities.
+---
+[TAGS: ITEM_DATA, BLADE_MAIL, FULL_ITEM, SYNERGY_BUILD, STRENGTH_HERO, INITIATOR_ITEM] | Blade Mail, Cost: 2300: Synergizes with heroes who have high effective health pools or innate damage reduction. Heroes like Axe, Centaur Warrunner, or Bristleback can survive the initial damage burst and reflect significant damage back. Timing is key for punishing enemy initiation and reversing focus.
+---
+[TAGS: ITEM_DATA, DAEDALUS, CORE_MECHANICS, FULL_ITEM, PHYSICAL_DAMAGE, DAMAGE, CRITICAL_STRIKE, CARRY_ITEM, PASSIVE] | Daedalus, Cost: 5100: Epic damage item that provides a 30% chance for attacks to deal 225% damage on a critical strike. This passive significantly amplifies physical damage output, making it a core scaling item for right-click heroes. Stats: CD: N/A, Damage Bonus: +88.
+---
+[TAGS: ITEM_DATA, DEMON_EDGE, FULL_ITEM, CORE_MECHANICS, DAMAGE, CARRY_ITEM, COMPONENT, UPGRADE] | Demon Edge, Cost: 2200: Provides +40 base damage, a significant raw damage increase. This item is a core component for high-damage carry items like Divine Rapier and Daedalus. Stats: Damage: +40.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, LATE_GAME, UPGRADE] | Overwhelming Blink LANING_PHASE: Late-game upgrade (6800 gold), built from Blink Dagger and Reaver. Early components provide mobility and strength; aim for completion after core items (e.g., post-Blink, ~20-30m). Enhances survivability and initiation potential in mid-late transitions. Stats: Cost: 6800 gold, Components: Blink Dagger and Reaver.
+---
+[TAGS: ITEM_DATA, VITALITY_BOOSTER, STAT_PROFILE, FULL_ITEM, HEALTH, SURVIVAL, COMPONENT, SECRET_SHOP] | Vitality Booster, Cost: 1000: Purchasable from the Secret Shop. Provides a flat +250 maximum Health, offering raw survivability with no active abilities. A core component for many late-game health-focused items like Heart of Tarrasque. Stats: Health Bonus: +250.
+---
+[TAGS: ITEM_DATA, GREATER_FAERIE_FIRE, SITUATIONAL_USAGE, CONSUMABLE, SURVIVAL, BAIT, CLUTCH] | Greater Faerie Fire, Cost: 0: Timely use can turn around a close fight by providing a sudden health boost to survive burst damage. Can be used while stunned or disabled. Useful for baiting enemies who think you are low health.
+---
+[TAGS: ITEM_DATA, BLADE_MAIL, FULL_ITEM, STAT_PROFILE, DAMAGE, ARMOR, VS_PHYSICAL] | Blade Mail, Cost: 2300: Stat Profile: +15 Damage and +6 Armor. The combined offensive and defensive stats provide tankiness for the wielder and amplify the threat of the active return ability.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, TIMING] | Blade Mail Recipe LANING_PHASE: A pure timing purchase. The recipe's low cost means it is bought to complete Blade Mail, typically after acquiring its core components (Broadsword, Robe of the Magi, Chainmail). It indicates a transition to a mid-game power spike with Blade Mail's completion. Stats: Cost: 750 gold.
+---
+[TAGS: ITEM_DATA, DESOLATOR, CORE_MECHANICS, FULL_ITEM, DEBUFF, PHYSICAL_DAMAGE, DAMAGE, UPGRADE, CARRY_ITEM] | Desolator, Cost: 3500: Attacks apply Corruption, reducing the target's armor by -6 for 7 seconds. This effect is dispellable and works on buildings. The Soul Stealer passive grants +2 damage (or +1 for assists) each time an enemy hero dies while affected by Corruption, stacking up to +30 bonus damage. A powerful offensive item that amplifies physical damage output for the wielder and their team. Stats: Cost: 3500, Armor Reduction: -6, Duration: 7s, Max Bonus Damage: +30.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, STATS, AURA, BUFF, LIFESTEAL, MANA_REGEN, ARMOR, DAMAGE] | Vladmir's Offering provides modest personal stats and a significant aura. The holder gains +1 Armor and +0.75 Mana Regeneration. The powerful aura grants nearby allies 20% lifesteal on attacks, 18% bonus damage, +1 Mana Regeneration, and +2 Armor. Lifesteal against creeps is reduced to 12%. Stats: Personal Stats: +1 Armor, +0.75 Mana Regen. Aura Stats: 20% Lifesteal, 18% Bonus Damage, +1 Mana Regen, +2 Armor.
+---
+[TAGS: MIRANA, POWER_SPIKES] | Power Spikes: Level 6 provides team-wide invisibility for ganks and saves. Level 12 with a key item like Dragon Lance or Maelstrom significantly increases your farming and fighting potential. Level 18 gives a stronger ultimate. The Level 20 talent (+35 Base Damage) is a massive damage spike. Level 25 talents are game-changing: Multishot Arrows for area control or a drastically reduced Moonlight Shadow cooldown for constant map pressure. Aghanim's Scepter is a major timing, allowing Sacred Arrow to proc Starstorm.
+---
+[TAGS: ITEM_DATA, CLOAK_OF_FLAMES, CORE_DESCRIPTION, NEUTRAL, AURA, MAGICAL_DAMAGE, AOE_DAMAGE, DOT, ILLUSIONS] | Cloak of Flames, Cost: 0: A very fine cloak that plays host to an overly-protective living flame. Provides a permanent Immolate aura that deals 45 magic damage per second to enemy units within a 375 radius. Illusions deal 30 damage per second. Non-purchasable neutral item providing area-of-effect damage. Stats: Damage: 45/sec (30/sec for illusions), Radius: 375.
+---
+[TAGS: ITEM_DATA, ORB_OF_BLIGHT, CORE_MECHANICS, FULL_ITEM, DEBUFF, PHYSICAL_DAMAGE, UPGRADE, DISPELLABLE] | Orb of Blight, Cost: 300: Applies Lesser Corruption on attack, reducing the target's armor by -2 for 3 seconds. A cost-effective early game component that amplifies physical damage output from you and your allies against the target. Dispellable by enemies. Stats: Armor Reduction: -2, Duration: 3.0s.
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, SYNERGY_BUILD, CARRY_ITEM, UPGRADE] | Maelstrom, Cost: 2950: Synergizes with heroes who build attack speed, as it increases the frequency of Chain Lightning procs. Strong on ranged agility carries and universal heroes who can apply the effect safely. Upgrades into Mjollnir and Gleipnir, providing a core damage path.
+---
+[TAGS: CRYSTAL_MAIDEN, TEAMFIGHT_ROLE] | In teamfights, Crystal Maiden's role is backline control and area denial. Initiate with Crystal Nova to slow enemy movement and attack speed. Use Frostbite to lock down key targets or save allies from melee attackers. Position safely to channel Freezing Field, using Glimmer Cape or Force Staff to stay alive. Provide mana regeneration to allies globally via Arcane Aura. Use Crystal Clone (if Aghanim's Scepter is purchased) to reposition or disjoint spells.
+---
+[TAGS: Bounty Hunter, CORE_BUILD, Items, Phase Boots, Desolator, BKB] | Core items for Bounty Hunter are Phase Boots for movement speed and armor, Desolator for armor reduction amplifying his physical damage from Jinada and attacks, and Black King Bar to prevent disables during fights. These items synergize with his kit for pick-offs and teamfight contribution.
+---
+[TAGS: ORACLE, ABILITY_DATA, HEAL, DAMAGE, NON_LETHAL] | Purifying Flames: Target an ally or enemy. Deals 90/180/270/360 magic damage instantly. After the damage, the target heals for 150/250/350/450 health over 10 seconds (15/25/35/45 heal per second). The heal exceeds the initial damage. Can be cast repeatedly on allies to stack healing over time. The damage portion cannot kill an ally. Cooldown is 2.5 seconds. Does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, RECIPE_BLADE_MAIL, CORE_DESCRIPTION, RECIPE, COMPONENT] | Blade Mail Recipe, Cost: 750: Component required to assemble Blade Mail. Does not provide stats or abilities. Stats: Cost: 750.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UPGRADE_SIGNAL] | Blade Mail Recipe TEAMFIGHT_ROLE: This item has no direct role in fights. Acquiring it signals an imminent teamfight presence via the completed Blade Mail, which provides active damage return. Stats: Cost: 750 gold.
+---
+[TAGS: ITEM_DATA, BLADE_MAIL, FULL_ITEM, CORE_MECHANICS, DEFENSIVE, SURVIVAL, TEAMFIGHT, PHYSICAL_DAMAGE, MAGICAL_DAMAGE, UTILITY] | Blade Mail, Cost: 2300: Instantly returns all incoming damage for 5.5 seconds, increasing the percentage by 85%. Also passively returns 10 damage plus 15% of received attack damage. Effective for punishing focus fire. Stats: CD: 25s, Mana Cost: 25, Damage Return: 85% Active / 15% Passive.
+---
+[TAGS: ITEM_DATA, DIFFUSAL_BLADE_2, FULL_ITEM, STAT_PROFILE, AGILITY, INTELLIGENCE, DAMAGE, MANA, CARRY_ITEM] | Cost: 3850: Provides significant agility for attack damage and speed, plus intelligence for mana pool. Ideal for agility carries seeking damage and utility. Stats: +35 Agility, +15 Intelligence.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, VS_EVASION, CATCH, DEBUFF, SUSTAINED_DAMAGE, SLOW] | Witch Blade TEAMFIGHT_ROLE: This item serves as a sustained damage and utility tool in fights. The applied slow and damage over time from the Witch Blade passive helps control and whittle down key targets, especially mobile or elusive heroes. The True Strike component ensures the debuff is applied even against evasion, making it a reliable soft counter to heroes relying on agility or items for avoidance. Stats: Cooldown: 9s.
+---
+[TAGS: ITEM_DATA, PYRRHIC_CLOAK, CORE_MECHANICS, FULL_ITEM, DAMAGE_REFLECTION, PHYSICAL_DAMAGE, DEFENSIVE, COUNTER_BURST] | Cost: 0: Pyrrhic Cloak reflects 75% of damage taken back to a target enemy hero or unit as physical damage for 6 seconds if they are within 1200 range. This creates a high-risk, high-reward scenario where surviving the duration allows you to inflict massive retaliation damage. It's ideal for durable initiators who can survive to punish focused aggression. Stats: CD: 40s, Duration: 6s, Max Range: 1200.
+---
+[TAGS: ITEM_DATA, VLADMIRS_OFFERING, TEAMFIGHT_ROLE, FULL_ITEM, AURA, BUFF, PUSH, SUPPORT_ITEM] | Vladmir's Offering, Cost: 2200: Core team fight role as a force multiplier. The aura provides 20% lifesteal, 18% bonus damage, 2 armor, and 1 mana regeneration to all nearby allies, making grouped pushes and five-man team fights dramatically stronger. The lifesteal on creeps is reduced to 12%. Stats: Lifesteal Aura: 20%, Damage Aura: 18%, Armor Aura: 2, Mana Regen Aura: 1.
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, SYNERGY_BUILD, FULL_ITEM, INITIATOR_ITEM, SUPPORT_ITEM, CARRY_ITEM] | Blink Dagger, Cost: 2250: Essential first or second major item for initiators like Axe, Earthshaker, or Magnus to enable their AoE ultimates. Also a key positioning tool for supports and carries who need to avoid being kited or to secure kills. Timing is critical, as its power spike is immediate upon purchase.
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+---
+[TAGS: ITEM_DATA, VLADMIRS_OFFERING, CORE_MECHANICS, FULL_ITEM, AURA, BUFF, TEAMFIGHT_ROLE, PHYSICAL_DAMAGE, SUSTAIN, SUPPORT_ITEM, UTILITY] | Vladmir's Offering, Cost: 2200: A team-oriented aura item that grants allies lifesteal, bonus damage, armor, and mana regeneration. Effective when your team groups for fights or pushes, significantly boosting the combat power of multiple core heroes simultaneously. Stats: Radius: 1200.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_HARASS, SUSTAIN] | Tranquil Boots VS_HARASS: Counters constant spell and right-click harassment in lane by providing sustained regeneration, allowing you to stay on the map. The item is hard-countered by heroes who can consistently apply damage to break the passive, forcing you to play defensively. Stats: Health Regeneration Bonus: +14, Break Condition: Attacked by any unit.
+---
+[TAGS: PANGOLIER, CORE_BUILD, DIFFUSAL_BLADE, MAELSTROM, SYNERGY] | Core items for Pangolier are Diffusal Blade and Maelstrom. Diffusal Blade's mana burn and slow are applied by each slash of Swashbuckle, massively amplifying its damage and utility. Maelstrom (and later Mjollnir) causes chain lightning procs on each Swashbuckle slash, providing immense wave clear and magical damage in fights. These items synergize perfectly with his kit.
+---
+[TAGS: ITEM_DATA, FAERIE_FIRE, EARLY_GAME_USAGE, CONSUMABLE, LANING, SUSTAIN, TRADING, STARTING_ITEM] | Faerie Fire, Cost: 65: Provides critical early-game lane sustain. The instant, uncancellable heal can turn a trade or save you from a last tick of damage, making it essential for surviving aggressive harassment or baiting kills. Its fast cooldown allows for strategic reuse in drawn-out lane skirmishes. Stats: CD: 5s, Heal: 85 HP.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, MIDGAME, LATEGAME, AURA] | Vladmir's Offering LANING_PHASE: Typically a mid-to-late game aura item built for team-oriented lineups. It is not an early laning item due to its cost and component build (Buckler, Ring of Basilius, Morbid Mask, Blades of Attack), which suggests a timing after acquiring core farming items. Stats: Cost: 2200 gold.
+---
+[TAGS: ITEM_DATA, PHASE_BOOTS, EARLY_GAME_USAGE, FULL_ITEM, LANING, TRADING, MOBILITY, AGGRESSIVE] | Cost: 1500: Primarily a lane and early skirmish item that enhances physical trading, survivability, and mobility. The active allows heroes to secure last hits, chase down low targets, or escape ganks by moving unimpeded through units. It's a versatile choice for heroes who want to be aggressive in lane and transition into mid-game with solid stats. Stats: MS: +50, Armor: +4, Damage (Melee/Ranged): +18/+12.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, TEAMFIGHT_ROLE, AOE_DAMAGE, MULTI_TARGET, VS_ILLUSIONS] | Maelstrom, Cost: 2950: Provides significant wave clear and AoE damage contribution in team fights from its Chain Lightning proc. While not a burst initiation tool, it adds substantial magic DPS over a fight, particularly effective against grouped enemies. Lightning proc applies its full damage to illusions.
+---
+[TAGS: ITEM_DATA, TOUGH, CORE_DESCRIPTION, NEUTRAL, ENHANCEMENT, DAMAGE, ARMOR, SURVIVAL, STATS, UPGRADE, VS_PHYSICAL] | Tough, Tier: Enhancement: A neutral item upgrade that permanently increases the holder's bonus damage and armor. The final stage also provides significant knockback resistance, making the holder harder to displace. Does not require an item slot. Stats: Damage: +16, Armor: +8, Knockback Resist: 40%.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, RECIPE, UPGRADE] | Swift Blink Recipe CORE_MECHANICS: This is a combine recipe that allows upgrading Blink Dagger into Swift Blink. The recipe itself provides no stats or mechanics. Stats: Cost: 1750 gold.
+---
+[TAGS: ITEM_DATA, ESSENCE_RING, CORE_DESCRIPTION, NEUTRAL, TIER_2, SURVIVAL, DEFENSIVE, HEALTH, ACTIVE, BURST_HEAL] | Essence Ring, Tier 2: Neutral item that instantly increases your current and maximum health by 240 for 10 seconds upon activation. This burst of survivability provides a temporary health buffer for clutch moments in skirmishes or to survive burst damage. Its substantial mana cost requires careful mana management. Stats: CD: 25s, Mana: 160, Duration: 10s, Health Gain: 240.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Fairy's Trinket CORE_BUILD: No components and cannot be upgraded. Synergizes with heroes that rely on frequent spell casting, as the mana cost reduction and spell amplification compound their effectiveness. Stats: Manacost Reduction: +5%, Spell Amplification: +5%.
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: ITEM_DATA, FORTITUDE_RING, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SAVE, HEALTH, REGEN, SURVIVAL] | Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.
+---
+[TAGS: ITEM_DATA, FAERIE_FIRE, CORE_MECHANICS, CONSUMABLE, HEALTH, SUSTAIN, INSTANT_CAST, NO_TARGET] | Faerie Fire, Cost: 65: Instantly restores 85 health on use. Comes with a single charge and a 5-second cooldown. An instant, no-target consumable usable only on the purchaser or their allied heroes. Also provides a temporary +2 damage boost. Stats: CD: 5s, Heal: 85 HP, Damage Bonus: +2, Charges: 1.
+---
+[TAGS: ITEM_DATA, MAELSTROM, CORE_MECHANICS, FULL_ITEM, FARMING, WAVECLEAR, MAGICAL_DAMAGE, AOE_DAMAGE, ATTACK_MODIFIER, MULTI_TARGET] | Maelstrom, Cost: 2950: Attack modifier that grants a 25% chance on attack to release Chain Lightning, dealing 110 magical damage to up to 4 targets within a 650 radius. Lightning procs pierce evasion. Effective for heroes who can apply rapid attacks to multiple targets for farming and team fight damage. Stats: Chance: 25%, Damage: 110, Targets: 4, Cooldown: 0.2s.
+---
+[TAGS: MEDUSA, SITUATIONAL, FARM_SPEED, SPLIT_SHOT, MAELSTROM, MASK_OF_MADNESS] | Scenario: Need to Accelerate Farm. Medusa farms slowly without items. Use Mystic Snake to secure lane creeps from a distance. Use Split Shot to farm jungle camps and ancient stacks. Early game items like Mask of Madness (if not using Mana Pact facet) or Maelstrom can significantly increase farm speed. Take the +8% Split Shot damage talent at level 15.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_PHYSICAL, DEFENSIVE] | Ring of Protection VS_PHYSICAL: Directly counters physical damage harassment and right-clicks in the early laning phase. The +2 armor reduces incoming physical damage, making the bearer more durable against enemy carries and supports. Stats: +2 Armor.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, TEAMFIGHT, AURA, BUFF, SURVIVAL, DAMAGE] | Vladmir's Offering's role in teamfights is to significantly bolster the entire team's durability and damage output. The aura turns every allied hero into a more sustainable threat, providing armor, mana regen, lifesteal, and bonus damage. This makes coordinated pushes and prolonged engagements heavily favor the team with this item. Stats: Aura Radius: 1200.
+---
+[TAGS: ITEM_DATA, PHASE_BOOTS, STAT_PROFILE, FULL_ITEM, DAMAGE, ARMOR, MOVEMENT_SPEED, LANING, TRADING] | Cost: 1500: Provides +18 damage and +4 armor for melee heroes, or +12 damage and +4 armor for ranged heroes, alongside +50 base movement speed. A solid early-game stat profile for trading hits and surviving physical harass, especially on heroes who value both damage and armor for lane dominance. Stats: Damage (Melee/Ranged): +18/+12, Armor: +4, MS: +50.
+---
+[TAGS: ITEM_DATA, TRANQUIL_BOOTS, CORE_MECHANICS, FULL_ITEM, MOBILITY, REGEN, SUSTAIN, HEALTH, SUPPORT_ITEM, UTILITY] | Tranquil Boots, Cost: 900: Grants a bonus 65 movement speed and 14 health regeneration, but both benefits are reduced after attacking or being attacked by a hero (movement speed drops to 40, regen is lost) for 13 seconds. Provides a burst heal of 250 HP on activation when not broken. Essential for roaming supports and heroes needing constant movement across the map without committing to fights. Stats: CD: 13s, Passive MS: +65, Passive HP Regen: +14, Heal: 250 HP.
+---
+[TAGS: ITEM_DATA, BLADE_MAIL, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, SITUATIONAL_VS_MAGIC, DEFENSIVE, COUNTER_ITEM] | Blade Mail, Cost: 2300: Situational defensive counter-item against high-damage burst heroes. The active ability forces enemies to reconsider targeting the wielder, allowing melee initiators or durable cores to survive and turn fights. It is especially effective versus heroes reliant on high-damage, single-target abilities.
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, STAT_PROFILE, FULL_ITEM, UTILITY] | Blink Dagger, Cost: 2250: Provides no attribute bonuses or stats. Pure utility item whose value comes entirely from its powerful, low-cooldown active mobility spell.
+---
+[TAGS: ITEM_DATA, PHASE_BOOTS, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, MOBILITY, FARMING, EARLY_GAME] | Cost: 1500: Strong on heroes who need to close short distances to apply damage or spells, such as melee carries or initiators. The armor and damage provide excellent early-game efficiency for cores who want to farm and fight. Timing is key - it accelerates farming speed slightly and provides the mobility needed to join early fights or escape from them. Stats: CD: 8s, MS: +50.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, MOVEMENT, ACTIVE, DAMAGE] | Phase Boots CORE_MECHANICS: An active ability that grants bonus movement speed and phased movement (unit walking) for 3 seconds, with a cooldown of 8 seconds. The movement speed bonus is greater for melee heroes (20%) than for ranged heroes (10%). It also provides flat movement speed, damage, and armor. Stats: Cost: 1500 gold, Components: Boots + Chainmail + Blades of Attack, Active Cooldown: 8s, Active Duration: 3s, Bonus Movement Speed (Passive): 50, Bonus Movement Speed (Active, Melee): 20%, Bonus Movement Speed (Active, Ranged): 10%, Bonus Damage (Melee): 18, Bonus Damage (Ranged): 12, Bonus Armor: 4.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, LATEGAME, UPGRADE] | Boots of Travel 2 LANING_PHASE: Not a laning item. It is a late-game upgrade from Boots of Travel, built for expensive (4500 gold) component completion after core items. Stats: Cost: 4500 gold, Components: Travel Boots + Recipe.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, SITUATIONAL_VS_EVASION, VS_EVASION] | Maelstrom, Cost: 2950: Situational vs Evasion: The Chain Lightning magical damage proc pierces evasion, making it a soft counter to heroes relying on miss chance. While it doesn't grant True Strike for regular attacks, its guaranteed magical damage application helps mitigate evasion's effectiveness. Stats: Damage pierces evasion.
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, CORE_MECHANICS, FULL_ITEM, MOBILITY, POSITIONING, INITIATION, CATCH, ESCAPE, UTILITY] | Blink Dagger, Cost: 2250: Instantly teleports your hero up to 1200 units to a targeted point. Cannot be used for 3 seconds after taking damage from an enemy hero or Roshan. Essential initiation and repositioning tool for gap-closing and escape. Stats: CD: 15s, Range: 1200, Damage Disable: 3s.
+---
+[TAGS: ITEM_DATA, MAELSTROM, FULL_ITEM, STAT_PROFILE, DAMAGE, ATTACK_SPEED, DPS] | Maelstrom, Cost: 2950: Provides +25 bonus damage and +25 attack speed. A moderate offensive stat boost that enhances right-click damage output and the frequency of Chain Lightning procs. Its value is amplified by high natural attack speed. Stats: Damage: +25, Attack Speed: +25.
+---
+[TAGS: ITEM_DATA, GREATER_FAERIE_FIRE, STAT_PROFILE, CONSUMABLE, DAMAGE, TEMPORARY_STATS] | Greater Faerie Fire, Cost: 0: Provides +20 damage to your hero while in inventory. This damage bonus is lost when the item is consumed. Offers minor offensive stats alongside its healing utility.
+---
+[TAGS: Ability, Festive, Point Target] | Festive Firework: Launches an explosive firework for festive flair without dealing damage. Stats: Radius: 600, Speed: 1200, Linger Duration: 5s, Cast Range: 1200, Cast Time: 0s
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, TEAMFIGHT_ROLE, FULL_ITEM, INITIATION, CATCH, POSITIONING] | Blink Dagger, Cost: 2250: Core initiation tool enabling heroes to instantly close large distances to start fights, land critical abilities, or catch key targets. Essential for heroes with high-impact, short-range spells who lack innate mobility.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, STRENGTH_SCALING] | Overwhelming Blink CORE_BUILD: Builds from Blink Dagger (mobility) and Reaver (strength/health). Synergizes with strength heroes for higher damage scaling from strength percentage. Upgrades from standard Blink for added control and survivability. Stats: Components: Blink Dagger and Reaver, Bonus Strength: +25.
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: ITEM_DATA, VLADMIRS_OFFERING, STAT_PROFILE, FULL_ITEM, ARMOR, MANA_REGEN, UTILITY] | Vladmir's Offering, Cost: 2200: Provides a significant combination of utility stats to the wielder: +1 Armor and +0.75 Mana Regeneration. The primary value is the powerful aura that benefits the entire team in its radius. Stats: Armor: +1, Mana Regen: +0.75.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, VS_PHYSICAL, AURA, BUFF, SURVIVAL, ARMOR] | Vladmir's Offering is excellent against physical damage-heavy lineups. The +2 Armor aura provides substantial physical damage mitigation for the entire team. Combined with the lifesteal, it allows your team to sustain through physical harass and trades more effectively. Stats: Aura grants +2 Armor to allies.
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, SITUATIONAL_VS_CONTROL, FULL_ITEM, ESCAPE, SURVIVAL, DEFENSIVE, POSITIONING] | Blink Dagger, Cost: 2250: Provides critical mobility to escape dangerous situations by blinking over terrain or to allies. The 3-second cooldown after taking hero damage requires careful positioning and timing, making it a high-skill defensive item as well.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+---
+[TAGS: ITEM_DATA, VLADMIRS_OFFERING, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, PHYSICAL_DAMAGE, ILLUSIONS] | Vladmir's Offering, Cost: 2200: Situational pick when your team has multiple physical damage cores who benefit from lifesteal and damage (e.g., melee carries, illusion heroes). Especially powerful with heroes who already have high base damage or attack speed, as the percentage-based bonuses scale well. Less effective if your team relies primarily on magical damage or is split-pushing.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, AURA] | Vladmir's Offering HARD_COUNTERS: Less effective against teams that can burst targets quickly from range or disable key aura carriers before fights develop, as the aura requires allies to be nearby. The lifesteal on attacks against creeps is reduced to 12%, making it less efficient for pure PvE sustain. Stats: Creep Lifesteal: 12%.
+---
+[TAGS: ITEM_DATA, PHASE_BOOTS, CORE_MECHANICS, FULL_ITEM, MOBILITY, ESCAPE, POSITIONING, ACTIVE_ABILITY] | Cost: 1500: Phase Boots provide an active ability Phase that grants temporary movement speed boost, allows phasing through units, and increases turn rate for 3 seconds (20% bonus for melee, 10% for ranged heroes). This effect is crucial for chasing, escaping through creep waves, and repositioning quickly in skirmishes or during last hitting. Stats: CD: 8s, MS: +50.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_SUSTAINED_DAMAGE, DEFENSIVE] | Ring of Tarrasque SITUATIONAL_VS_SUSTAINED: Particularly effective against compositions that rely on consistent, low-damage harassment and damage-over-time spells rather than immediate burst. The regeneration negates their primary source of damage. Stats: Health Regeneration: +12.
+---
+[TAGS: ITEM_DATA, SUPER_BLINK, STAT_PROFILE, FULL_ITEM, UTILITY] | Super Blink, Cost: N/A: Provides no attributes, stats, or bonus damage. Its value is purely derived from its powerful, repositioning active ability.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, AURA, BUFF, PUSHING, SYNERGY, CORE_ITEM] | Vladmir's Offering is a core build item for teams with multiple right-clicking heroes, melee cores, or summons. It synergizes extremely well with heroes who have high attack speed or damage, as the lifesteal and damage bonus scale multiplicatively. It's also a key item for strategies centered around pushing and taking Roshan early. Components: Buckler, Ring of Basilius, Morbid Mask, Blades of Attack.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Phase Boots CORE_BUILD: Builds from basic Boots, Chainmail, and Blades of Attack. The recipe is cheap and provides a significant early power spike. It is a core first item for many melee carries and some ranged heroes. Boots movement speed bonuses do not stack with other boots. Stats: Components: Boots + Chainmail + Blades of Attack.
+---
+[TAGS: MIRANA, SITUATIONAL, FROM_BEHIND] | Situation: Playing from Behind. When your team is losing, shift to a split-pushing and pick-off role. Use Moonlight Shadow defensively to avoid fights and create space. Farm with Starstorm and Maelstrom to clear waves safely. Look for long-range Sacred Arrows on enemies who are out of position to secure comeback kills.
+---
+[TAGS: ITEM_DATA, GREATER_FAERIE_FIRE, CORE_MECHANICS, CONSUMABLE, HEALTH, INSTANT_CAST, SURVIVAL, EMERGENCY_HEAL] | Greater Faerie Fire, Cost: 0: Consumable item that instantly restores 250 health on use. Comes with 3 charges. No mana cost. Used for emergency healing in dangerous situations. Stats: Charges: 3, CD: 10s, Instant Heal: 250 HP.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, UPGRADE] | Blade Mail Recipe CORE_BUILD: The final piece required to assemble Blade Mail. It is purchased after its components to unlock the active ability. Without it, the components remain separate and do not provide Blade Mail's functionality. Stats: Cost: 750 gold.
+---
+[TAGS: ITEM_DATA, DRAGON_SCALE, CORE_DESCRIPTION, NEUTRAL, DAMAGE_OVER_TIME, BUILDING_DAMAGE, SIEGE, DEBUFF] | Dragon Scale, Tier N/A (Neutral): Provides Afterburn passive. Attacks apply a burn that deals 22 magic damage per second to enemies for 3 seconds. This damage affects buildings, enabling siege pressure. Stats: Damage per second: 22, Duration: 3s.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Swift Blink Recipe CORE_BUILD / SYNERGIES: Core build path component. Used to combine Blink Dagger into Swift Blink. No other build-from synergies.
+---
+[TAGS: ITEM_DATA, AETHERIAL_HALO, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, VS_MAGIC, SURVIVAL, SUSTAIN, CONTROL, VS_MOBILITY] | Cost: 5900: Highly effective against magic-resistant enemies and physical burst due to the raw attribute bulk and spell lifesteal sustain. The active burn damage over time and slow helps control mobile heroes and prevent disengages.
+
+=== GAME STATE ===
+Match Time: 05:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: juggernaut (Lvl 4) | HP: 600/800 | Mana: 120/350 | Alive: true
+Stats: K/D/A 1/0/0 | Gold: 650 | LastHits: 24
+Inventory: [item_quelling_blade (CD), item_tango x2, item_branches (CD), item_branches (CD)]
+Abilities: [juggernaut_blade_fury(Lvl2)[Rdy] | juggernaut_blade_dance(Lvl1)[NoMana/Silenced]]
+User Situation Notes: Стою на сложной линии против Bristleback и Lion. У врагов в миде Sniper. Моя цель — агрессия на линии, саппорт играет пассивно.
+
+=== USER QUESTION ===
+"Что мне купить следующим, чтобы выжить на линии и начать убивать?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Что мне купить следующим, чтобы выжить на линии и начать убивать?".**
+========================================
+
+[AI RESPONSE] (3.10s)
+Следующим купи Phase Boots. Они повысят твою мобильность, урон и броню, что поможет выжить на линии и начать более эффективно агрессировать. Помимо этого, пассивка будет полезна для последних ударов и убегания от паков.

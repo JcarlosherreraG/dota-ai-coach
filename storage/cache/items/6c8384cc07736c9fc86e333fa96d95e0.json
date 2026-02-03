@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Safety Bubble, Cost: 0, Tier N/A (Non-Purchasable): Equipped Hero gains a 100 HP Barrier against enemy damage. Barrier fully regenerates after not receiving damage for 8 seconds. Acts as an early-game defensive layer for survivability. Self-inflicted damage bypasses the barrier. Stats: Barrier HP: 100, Restore Time: 8s.",
+    "search_text": "defensive neutral, barrier item, shield item, absorb damage, early survivability, damage block, hp barrier, Safety Bubble",
+    "tags": [
+      "ITEM_DATA",
+      "SAFETY_BUBBLE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "DEFENSIVE",
+      "SHIELD",
+      "SURVIVAL",
+      "VS_PHYSICAL",
+      "VS_MAGIC",
+      "UTILITY"
+    ]
+  }
+]

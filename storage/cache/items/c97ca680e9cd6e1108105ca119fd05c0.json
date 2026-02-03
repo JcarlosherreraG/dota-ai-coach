@@ -1,0 +1,44 @@
+[
+  {
+    "display_text": "Clarity, Cost: 60: Consumable that grants a target friendly hero 6 mana per second for 25 seconds. The effect is dispellable and is immediately removed if the target is attacked by an enemy hero or Roshan. Useful for recovering mana to cast spells without returning to base. Stats: Charges: 1, Duration: 25s, Mana Regen: 6/sec.",
+    "search_text": "mana regen consumable, mana sustain item, early game mana, lane sustain, consumable mana, clarity, mana potion, mana regen early, starting item, clarity potion, Clarity",
+    "tags": [
+      "ITEM_DATA",
+      "CLARITY",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "REGEN",
+      "SUSTAIN",
+      "MANA",
+      "MANA_REGEN",
+      "DISPELLABLE"
+    ]
+  },
+  {
+    "display_text": "Clarity, Cost: 60: Core early-game laning consumable for spellcasting heroes. Enables sustained harassment, last-hitting with spells, and lane control by allowing repeated ability use. A cost-efficient way to stay in lane longer and maintain pressure. Essential starting item for mana-dependent midlaners and supports.",
+    "search_text": "early game sustain, laning consumable, mana for spells, lane phase item, starting regen, mana management, early game item, starting clarity, laning phase, Clarity",
+    "tags": [
+      "ITEM_DATA",
+      "CLARITY",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "LANING",
+      "SUSTAIN",
+      "MANA",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Clarity, Cost: 60: Use from a safe, hidden position to avoid having the buff cancelled by enemy attacks. Ideal for sustaining during a siege where you are not under direct attack, or after winning a fight to recover mana for the next objective. Can be shared with allies to help them sustain.",
+    "search_text": "safe clarity use, avoid attack clarity, sieging item, post-fight sustain, share regen, ally sustain, safe position, hidden clarity, Clarity",
+    "tags": [
+      "ITEM_DATA",
+      "CLARITY",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "UTILITY",
+      "ALLY_BUFF",
+      "SITUATIONAL_USAGE"
+    ]
+  }
+]

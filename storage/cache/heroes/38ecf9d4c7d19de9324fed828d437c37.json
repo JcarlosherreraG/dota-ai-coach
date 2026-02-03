@@ -1,0 +1,226 @@
+[
+  {
+    "display_text": "Vengeful Spirit is a ranged agility hero with a base attack range of 650. She has average base attributes: 20 Strength, 23 Agility, and 19 Intelligence. Her base attack time of 1.7 is standard. As an Agility hero, her armor scales well with Agility gain. Her starting stats are balanced, with slightly higher Agility for better early right-click damage and armor.",
+    "search_text": "Vengeful Spirit stats ranged agility attack range 650 base attack time 1.7 strength 20 agility 23 intelligence 19",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "BASE_STATS",
+      "ATTRIBUTES",
+      "RANGED",
+      "AGILITY"
+    ]
+  },
+  {
+    "display_text": "Vengeful Spirit's Avenging Missile facet causes Magic Missile to deal additional damage per creep the target enemy has killed, rewarding aggression against farming cores. The Melee facet fundamentally changes her attack type and range, altering her itemization and positioning in fights. Choose Avenging Missile to amplify pick-off potential against a high-CS core. Choose the Melee facet for a different, more brawler-style playstyle (exact mechanics require in-game verification).",
+    "search_text": "Vengeful Spirit facets Avenging Missile Magic Missile bonus damage per creep kill Melee facet attack type change",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "FACET_STRATEGY",
+      "AVENGING_MISSILE",
+      "MELEE"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Vengeful Spirit uses her high base damage from Agility and Vengeance Aura to secure last hits and harass. Magic Missile (85/170/255/340 damage, 1.2/1.4/1.6/1.8s stun) is a powerful, reliable stun for securing kills or saving allies. At level 2 or 3, a point in Wave of Terror provides armor reduction and vision. Prioritize Magic Missile for kill threat and lane control. Use Wave of Terror to secure ranged creeps from a distance and reduce enemy armor for right-clicks.",
+    "search_text": "Vengeful Spirit laning phase Magic Missile stun damage 85 170 255 340 Wave of Terror armor reduction lane harass",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "LANING_PHASE",
+      "HARASS",
+      "STUN",
+      "LAST_HIT"
+    ]
+  },
+  {
+    "display_text": "Vengeful Spirit's key power spikes are: Level 6 with Nether Swap (150 damage, position swap) for instant pick-offs. Level 10 with the +150 Nether Swap Damage talent or +100 Magic Missile Cast Range. Level 15 with -3 Wave of Terror Armor or +0.3s Magic Missile Stun. Level 20 with -2s Magic Missile Cooldown or Wave of Terror Steal. Level 25 with +16% Vengeance Aura damage or -18s Nether Swap Cooldown. Item spikes include early Mobility items (Force Staff) and Aghanim's Scepter for an illusion.",
+    "search_text": "Vengeful Spirit power spikes level 6 Nether Swap level 10 talent level 15 talent level 20 talent level 25 talent",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "TALENTS",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Vengeful Spirit is hard countered by Break mechanics (from Silver Edge, Doom) which disable her Vengeance Aura and Retribution passive. Instant disables (Hex, Batrider's Lasso) prevent her from casting Nether Swap. High burst magic damage can kill her before she can react. Heroes with built-in Spell Immunity (BKB, Lifestealer Rage) are difficult to lock down with Magic Missile. Does NOT pierce BKB.",
+    "search_text": "Vengeful Spirit counters Break Silver Edge Doom disables Vengeance Aura Retribution hex burst magic damage",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "HARD_COUNTERS",
+      "BREAK",
+      "DISABLE",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "Core items for Vengeful Spirit are Mobility and Utility. Force Staff or Blink Dagger is essential for positioning Nether Swap. Aghanim's Scepter creates a strong illusion upon death, allowing you to continue fighting. Solar Crest synergizes with Wave of Terror's armor reduction and provides stats. Magic Wand and Boots of Speed are essential early game.",
+    "search_text": "Vengeful Spirit core build Force Staff Blink Dagger Aghanim Scepter illusion Solar Crest",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "CORE_BUILD",
+      "FORCE_STAFF",
+      "AGHANIMS_SCEPTER",
+      "SOLAR_CREST"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Vengeful Spirit's role is to initiate or counter-initiate with Nether Swap to catch a key enemy or save an ally. She provides vision and armor reduction with Wave of Terror. She buffs her team's right-click damage with Vengeance Aura. She lands reliable Magic Missile stuns on priority targets. She is often a sacrificial initiator, using her death to apply the Retribution debuff and, with Aghanim's Scepter, create a fighting illusion.",
+    "search_text": "Vengeful Spirit teamfight role initiator Nether Swap save Wave of Terror armor reduction Vengeance Aura damage buff Magic Missile stun",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "SUPPORT",
+      "AURA",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Magic Missile: Fires a missile that stuns a single enemy for 1.2/1.4/1.6/1.8 seconds and deals 85/170/255/340 magic damage. Cast Range is 650. Missile speed is 1350. Cooldown is 14/13/12/11 seconds. Does NOT pierce BKB.",
+    "search_text": "Magic Missile Q stun 1.2 1.4 1.6 1.8 damage 85 170 255 340 range 650 cooldown 14 13 12 11",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "ABILITY_DATA",
+      "MAGIC_MISSILE",
+      "STUN",
+      "SINGLE_TARGET"
+    ]
+  },
+  {
+    "display_text": "Wave of Terror: Releases a wave that damages enemies in a line for 60/80/100/120 damage, reduces their attack damage by 10/15/20/25 and armor by 3/4/5/6. Provides 350 radius flying vision along its path for 4 seconds. Wave width is 325, speed is 2000. Does NOT pierce BKB.",
+    "search_text": "Wave of Terror W armor reduction -3 -4 -5 -6 attack damage reduction 10 15 20 25 damage 60 80 100 120 vision",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "ABILITY_DATA",
+      "WAVE_OF_TERROR",
+      "ARMOR_REDUCTION",
+      "VISION",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Vengeance Aura: Provides a 1200 radius aura that grants nearby allied heroes 10/15/20/25 bonus base damage. This aura is disabled by Break.",
+    "search_text": "Vengeance Aura E passive aura 1200 radius bonus base damage 10 15 20 25 disabled by Break",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "ABILITY_DATA",
+      "VENGANCE_AURA",
+      "AURA",
+      "DAMAGE_BUFF"
+    ]
+  },
+  {
+    "display_text": "Retribution: A passive ability. When an enemy hero kills Vengeful Spirit, they are debuffed until their next death. Vengeful Spirit deals 20% bonus damage to that hero for the duration.",
+    "search_text": "Retribution passive death debuff 20% bonus damage",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "ABILITY_DATA",
+      "RETRIBUTION",
+      "PASSIVE",
+      "DEATH_EFFECT"
+    ]
+  },
+  {
+    "display_text": "Nether Swap: Instantly swaps positions with a target hero (ally or enemy) within 0 range. Interrupts channeling. Enemy targets take 150/300/450 magic damage. Vengeful Spirit and any swapped ally gain a damage barrier equal to the damage dealt. Cooldown is 46/38/30 seconds. Works on Spell Immune units (pierces BKB). Destroys trees around both units.",
+    "search_text": "Nether Swap R ultimate swap position enemy ally 150 300 450 damage barrier cooldown 46 38 30 pierces BKB interrupts channeling destroys trees",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "ABILITY_DATA",
+      "NETHER_SWAP",
+      "ULTIMATE",
+      "POSITION_SWAP",
+      "PIERCES_BKB"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against a team with high physical damage and armor. Prioritize leveling Wave of Terror for the -6 armor reduction. Build items like Solar Crest and Assault Cuirass to further reduce enemy armor and protect your team. Use Nether Swap to reposition their high-armor carry into your team.",
+    "search_text": "Vengeful Spirit vs high armor physical damage Wave of Terror armor reduction Solar Crest Assault Cuirass",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind as a position 4/5. Focus on defensive utility. Use Magic Missile to save cores. Swap allies out of danger with Nether Swap. Build cheap survivability items like Force Staff, Glimmer Cape, and Aether Lens for cast range. Your auras and stuns remain valuable even without farm.",
+    "search_text": "Vengeful Spirit playing from behind support save Magic Missile Nether Swap save Force Staff Glimmer Cape",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND",
+      "SUPPORT"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has key BKB-piercing disables (e.g., Beastmaster Roar, Batrider Lasso). Positioning is critical. Do not be the first to jump in. Stay at the edge of fights, using Wave of Terror for vision and debuff. Save Nether Swap to save a core who gets caught. Consider a Linken's Sphere or Lotus Orb for protection.",
+    "search_text": "Vengeful Spirit vs BKB piercing disables Beastmaster Roar Batrider Lasso positioning Nether Swap save Linken Sphere Lotus Orb",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "SITUATIONAL",
+      "VS_PIERCING_DISABLE",
+      "POSITIONING"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your team lacks initiation. You must be the primary initiator. Build Blink Dagger after basic boots. Use Blink -\u003e Nether Swap to catch an enemy core. Follow up with Magic Missile. Consider Aghanim's Shard for the added utility. Communicate with your team to follow up on your swap.",
+    "search_text": "Vengeful Spirit primary initiator Blink Dagger Nether Swap catch Aghanim Shard",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "SITUATIONAL",
+      "PRIMARY_INITIATOR",
+      "BLINK_DAGGER"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has illusion-based heroes (e.g., Chaos Knight, Phantom Lancer). Wave of Terror provides excellent vision to spot the real hero. Its armor reduction affects all illusions. Magic Missile is a reliable single-target lock on the real hero if identified. Consider building a late-game Aghanim's Scepter to create your own strong illusion in the fight.",
+    "search_text": "Vengeful Spirit vs illusions Chaos Knight Phantom Lancer Wave of Terror vision Magic Missile Aghanim Scepter illusion",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice provides +150 damage to the enemy target of Nether Swap, increasing its nuke and barrier value. Right choice provides +100 cast range to Magic Missile, allowing safer stuns. Choose the damage if you are using Nether Swap aggressively for kills. Choose the range if you need to stay safer in the backline.",
+    "search_text": "Vengeful Spirit level 10 talent left +150 Nether Swap damage right +100 Magic Missile cast range",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice applies an additional -3 armor reduction to Wave of Terror, amplifying physical damage from your team. Right choice increases Magic Missile stun duration by 0.3 seconds, providing more lockdown. Choose the armor reduction if your team is physical damage heavy. Choose the stun duration if you need more control against mobile heroes.",
+    "search_text": "Vengeful Spirit level 15 talent left -3 Wave of Terror armor right +0.3s Magic Missile stun duration",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice reduces Magic Missile cooldown by 2 seconds, increasing your stun frequency. Right choice causes Wave of Terror to steal 25% of the reduced damage and armor, temporarily buffing yourself. Choose the cooldown reduction for more consistent disable. Choose the steal effect if you are taking more right-click engagements and want to become tankier.",
+    "search_text": "Vengeful Spirit level 20 talent left -2s Magic Missile cooldown right Wave of Terror steals 25% reduced damage armor",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice increases Vengeance Aura's bonus base damage from 25 to 41, significantly boosting your team's right-click output. Right choice reduces Nether Swap cooldown by 18 seconds, allowing for much more frequent repositioning and initiation. Choose the aura damage if your team wins through sustained physical damage. Choose the cooldown reduction if fights are drawn out or you need multiple swaps per engagement.",
+    "search_text": "Vengeful Spirit level 25 talent left +16% Vengeance Aura base damage right -18s Nether Swap cooldown",
+    "tags": [
+      "VENGEFUL_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

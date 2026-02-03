@@ -1,0 +1,77 @@
+[
+  {
+    "display_text": "Heaven's Halberd, Cost: 2600: Active ability 'Disarm' prevents a targeted enemy hero or basic unit from attacking for 3 seconds (3 seconds on ranged targets, 3 seconds on melee targets). Passive ability 'Damage Block' grants a 60% chance to block 60 damage from incoming melee attacks and 30 damage from ranged attacks. Provides durability through health and regeneration. A defensive utility item that heavily counters physical attackers. Stats: CD: 20s, Mana Cost: 25, Block Chance: 60%, Melee Block: 60, Ranged Block: 30.",
+    "search_text": "disarm item, disarm ability, attack prevention, anti right click, physical damage counter, melee counter, carry counter, block item, damage block, heaven's halberd, halberd, vs physical, save item, disable, stop attack, disarm support, utility, halberd disarm, counter carry",
+    "tags": [
+      "ITEM_DATA",
+      "HEAVENS_HALBERD",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "DEFENSIVE",
+      "SAVE",
+      "DISABLE",
+      "VS_PHYSICAL",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Heaven's Halberd, Cost: 2600: Stat profile provides +275 Health, +6 Health Regeneration, and +5 to all attributes (Strength, Agility, Intelligence). The primary stat focus is on raw survivability and sustain, not damage output. A significant health boost that synergizes with its defensive purpose.",
+    "search_text": "heaven's halberd stats, halberd stats, health item, tank item, survivability item, strength item, hp item, hp regen item, all stats, Heaven's Halberd, stats",
+    "tags": [
+      "ITEM_DATA",
+      "HEAVENS_HALBERD",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "HEALTH",
+      "REGEN",
+      "SUSTAIN",
+      "TANK",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE"
+    ]
+  },
+  {
+    "display_text": "Heaven's Halberd, Cost: 2600: Team fight role is as a powerful defensive save tool and anti-carry item. The active Disarm can shut down a key enemy right-click core for 3 seconds, preventing them from contributing damage. The passive Damage Block provides consistent physical damage mitigation for the wielder, especially against melee heroes.",
+    "search_text": "heaven's halberd team fight, team fight utility, defensive support, save item, protect ally, counter carry, disarm team fight, disable right click, team fight role, Heaven's Halberd",
+    "tags": [
+      "ITEM_DATA",
+      "HEAVENS_HALBERD",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DEFENSIVE",
+      "SAVE",
+      "UTILITY",
+      "VS_PHYSICAL",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Heaven's Halberd, Cost: 2600: Situational versus physical damage cores. The Disarm effect completely nullifies an enemy hero's ability to attack, making it exceptionally strong against heroes who rely on auto-attacks for damage (e.g., Phantom Assassin, Sniper, Faceless Void). The Damage Block passive further reduces their attack impact.",
+    "search_text": "heaven's halberd counter, vs physical damage, vs right click, vs carry, counter phantom assassin, counter sniper, counter faceless void, anti carry item, right click counter, physical damage counter, Heaven's Halberd",
+    "tags": [
+      "ITEM_DATA",
+      "HEAVENS_HALBERD",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_PHYSICAL",
+      "VS_PHYSICAL",
+      "ANTI_CARRY",
+      "COUNTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Heaven's Halberd, Cost: 2600: Synergy build item for heroes that need to survive against burst physical damage or those who can leverage the disarm to create space. Particularly strong on tanky Strength heroes and supports who can use the active defensively on their carry or offensively on an enemy. Provides valuable stats for durability.",
+    "search_text": "heaven's halberd build, halberd synergy, good on strength heroes, good on supports, defensive item build, utility build, tank build, Heaven's Halberd",
+    "tags": [
+      "ITEM_DATA",
+      "HEAVENS_HALBERD",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "DEFENSIVE",
+      "UTILITY",
+      "TANK",
+      "STRENGTH_HEROES",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

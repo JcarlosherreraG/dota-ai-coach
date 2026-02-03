@@ -1,0 +1,20 @@
+[
+  {
+    "display_text": "Crippling Crossbow, Tier 4: Neutral item. Active Hobble hits a targeted enemy for 75 magical damage, applies an 80% slow and reduces their Health Restoration by 40% for 4 seconds. The movement speed slow is intense initially but fades over the full duration, creating a powerful but time-limited ganking and catching tool. Stats: CD: 12s, Mana: 50, Damage: 75, Slow: 80%, Heal Reduction: 40%, Duration: 4s.",
+    "search_text": "neutral slow item, crippling crossbow, tier 4 neutral, gank neutral, catch item, apply slow, heal reduction, anti heal neutral, movement slow, hobble, crossbow, debuff item, utility neutral, pickoff tool, disable mobility, crippling crossbow",
+    "tags": [
+      "ITEM_DATA",
+      "CRIPPLING_CROSSBOW",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_4",
+      "SLOW",
+      "DEBUFF",
+      "HEAL_REDUCTION",
+      "VS_HEALERS",
+      "ANTI_HEAL",
+      "CATCH",
+      "PICKOFF"
+    ]
+  }
+]

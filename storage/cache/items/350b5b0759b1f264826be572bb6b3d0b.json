@@ -1,0 +1,79 @@
+[
+  {
+    "display_text": "Cost: 5900: Aetherial Halo. Creates a stationary damaging area at target location that channels over 1.5 seconds, dealing 150 magical damage to enemy units and 95 building damage on impact, then burning enemies for 60 magic damage per second and slowing them by 20% for 6 seconds. The impact also stuns units for 0.5 seconds. Provides excellent stats and spell amplification for intelligence cores. Stats: CD: 24s, Mana: 100, Duration: 6s (burn).",
+    "search_text": "aoe nuke item, area denial, channeled damage, burn effect, slow aoe, magical damage nuke, int core item, spell amp item, stationary aoe, teamfight control, aetherial halo, Aether Halo",
+    "tags": [
+      "ITEM_DATA",
+      "AETHERIAL_HALO",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "AOE_DAMAGE",
+      "MAGICAL_DAMAGE",
+      "SLOW",
+      "STUN",
+      "CHANNELED",
+      "AREA_DENIAL"
+    ]
+  },
+  {
+    "display_text": "Cost: 5900: Provides +25 Strength, +25 Agility, +40 Intelligence, +12% Spell Amplification, and +100% Mana Regeneration multiplier. The primary stat bundle offers 90 total attributes, significant HP/mana scaling, and vastly increased mana sustain for frequent spellcasting.",
+    "search_text": "stats item, attribute item, all stats, intelligence item, mana regen item, spell damage amp, int carry stats, aura stats, Aetherial Halo",
+    "tags": [
+      "ITEM_DATA",
+      "AETHERIAL_HALO",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "HEALTH",
+      "MANA",
+      "REGEN",
+      "MANA_REGEN",
+      "DAMAGE",
+      "SPELL_AMP"
+    ]
+  },
+  {
+    "display_text": "Cost: 5900: Provides 36% Spell Lifesteal Amplification, massively boosting sustain from spell damage. The active ability serves as a powerful area denial and crowd control tool in team fights, damaging, slowing, and briefly stunning multiple enemies to control choke points or objectives.",
+    "search_text": "spell lifesteal item, magic sustain, mana steal amp, teamfight control, zone control, choke point item, fight sustain, aoe teamfight, spell vamp, Aetherial Halo",
+    "tags": [
+      "ITEM_DATA",
+      "AETHERIAL_HALO",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "SUSTAIN",
+      "SPELL_LIFESTEAL",
+      "CONTROL",
+      "ZONING",
+      "AURA"
+    ]
+  },
+  {
+    "display_text": "Cost: 5900: Highly effective against magic-resistant enemies and physical burst due to the raw attribute bulk and spell lifesteal sustain. The active burn damage over time and slow helps control mobile heroes and prevent disengages.",
+    "search_text": "vs physical damage, vs burst, sustain vs nukes, anti-mobility, catch mobile heroes, disengage counter, magic sustain, hp pool item, Aetherial Halo",
+    "tags": [
+      "ITEM_DATA",
+      "AETHERIAL_HALO",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_PHYSICAL",
+      "VS_MAGIC",
+      "SURVIVAL",
+      "SUSTAIN",
+      "CONTROL",
+      "VS_MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Cost: 5900: Synergizes with heroes who have high-damage, low-cooldown spells to maximize the spell lifesteal and amplification. The active's building damage and long-duration burn make it potent for sieging and defending high-ground.",
+    "search_text": "siege item, building damage, high ground defense, spell spammer item, int carry synergy, push item, defense item, spell damage hero, Aetherial Halo",
+    "tags": [
+      "ITEM_DATA",
+      "AETHERIAL_HALO",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "PUSH",
+      "SIEGE",
+      "DEFENSE",
+      "SPELL_DAMAGE",
+      "CARRY_ITEM"
+    ]
+  }
+]

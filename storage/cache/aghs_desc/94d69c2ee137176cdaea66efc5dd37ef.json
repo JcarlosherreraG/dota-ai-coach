@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Troll Warlord Aghanim's Scepter: Whirling Axes (Melee) dispels Troll Warlord, reducing cooldown and mana cost. This upgrade counters debuffs with a Basic Dispel, allowing Troll to maintain combat effectiveness against slows, stuns, and other control effects.",
+    "search_text": "Troll Warlord Aghanim Scepter anti-disable dispel basic buff removal mana cost reduction",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Troll Warlord",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Troll Warlord Aghanim's Shard: Grants Troll a chance to fire additional ranged attacks based on Fervor stacks. This transforms Troll into a more versatile damage dealer, countering kiting and high-mobility heroes by ensuring consistent ranged damage application.",
+    "search_text": "Troll Warlord Aghanim Shard ranged attack fervor stacks anti-kite mobility counter",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Troll Warlord",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

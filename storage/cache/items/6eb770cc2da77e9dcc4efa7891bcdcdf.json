@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Tome of Aghanim, Cost: 0: Non-purchasable consumable item with 1 charge. Its ability, Consume, can be used on an allied hero to grant them the Aghanim's Scepter buff for 3 minutes. The target ally gains their ultimate ability upgrade without needing to purchase the actual Scepter item, which can be a massive temporary power spike. The ability is instant cast and unit targeted.",
+    "search_text": "tome of aghanim, aghanims scepter buff, temporary aghanims, consumable aghanims, grant aghanims, ally buff, ability upgrade item, free aghanims, ultimate upgrade, consume item, Tome",
+    "tags": [
+      "ITEM_DATA",
+      "TOME_OF_AGHANIM",
+      "CORE_DESCRIPTION",
+      "CONSUMABLE",
+      "BUFF",
+      "UTILITY",
+      "SUPPORT_ITEM",
+      "TEAM_BUFF"
+    ]
+  }
+]

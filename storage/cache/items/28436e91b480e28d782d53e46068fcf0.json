@@ -1,0 +1,71 @@
+[
+  {
+    "display_text": "Telescope, Cost: 0: Grants Prescient Aura (Passive). Lowers Scan cooldown by 50%. Grants +75 attack range (Ranged only) and +100 cast range to all allies within a 1200 radius. This item is focused entirely on team utility, providing significant global vision control and positioning advantages for all allied heroes. Stats: Scan CD Reduction: 50%, Aura Attack Range Bonus: 75 (Ranged), Aura Cast Range Bonus: 100, Aura Radius: 1200.",
+    "search_text": "telescope item, aura item, team utility item, vision control item, scan cooldown reduction, attack range aura, cast range aura, range buff item, team fight utility, ally range increase, aura range, global utility, Telescope",
+    "tags": [
+      "ITEM_DATA",
+      "TELESCOPE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AURA",
+      "UTILITY",
+      "TEAM_BUFF",
+      "VISION",
+      "RANGE",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Telescope, Cost: 0: Provides no direct attribute bonuses (Strength, Agility, Intelligence, Damage, Armor). Its value comes entirely from the potent utility aura, making it a pure team-oriented stat item.",
+    "search_text": "telescope stats, telescope attributes, aura stats, utility item stats, team buff stats, Telescope",
+    "tags": [
+      "ITEM_DATA",
+      "TELESCOPE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "UTILITY",
+      "TEAM_BUFF"
+    ]
+  },
+  {
+    "display_text": "Telescope, Cost: 0: Teamfight role is as a massive force multiplier through its aura. The increased cast range allows spellcasters to use abilities from much safer distances, while the attack range bonus significantly extends the threat range of ranged heroes, enabling them to safely poke and siege objectives.",
+    "search_text": "telescope team fight, force multiplier, aura team fight, team buff, cast range increase, attack range increase, siege tool, positioning advantage, safer casting, poke range, Telescope",
+    "tags": [
+      "ITEM_DATA",
+      "TELESCOPE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AURA",
+      "UTILITY",
+      "TEAM_BUFF",
+      "SAVE",
+      "POSITIONING"
+    ]
+  },
+  {
+    "display_text": "Telescope, Cost: 0: The Scan cooldown reduction allows for more frequent use of the strategic Scan ability, providing critical vision and revealing enemy positions across the map. This grants superior map control and information advantage to the entire team.",
+    "search_text": "scan cooldown reduction, scan item, map control item, vision item, information advantage, scan utility, reveal item, Telescope",
+    "tags": [
+      "ITEM_DATA",
+      "TELESCOPE",
+      "SITUATIONAL_USAGE",
+      "FULL_ITEM",
+      "VISION",
+      "MAP_CONTROL",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Telescope, Cost: 0: Synergizes powerfully with heroes who rely on long-range abilities and positioning, such as long-cast-range spellcasters and ranged carry heroes. It is especially valuable for teams that group up and fight as a unit, maximizing the aura's effect.",
+    "search_text": "telescope synergy, long range heroes, cast range heroes, attack range heroes, aura synergy, team fight synergy, support item synergy, group fight item, Telescope",
+    "tags": [
+      "ITEM_DATA",
+      "TELESCOPE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "SUPPORT_ITEM",
+      "CARRY_ITEM",
+      "UTILITY"
+    ]
+  }
+]

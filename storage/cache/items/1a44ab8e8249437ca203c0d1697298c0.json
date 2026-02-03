@@ -1,0 +1,94 @@
+[
+  {
+    "display_text": "Cost: 6625: Bloodthorn provides an active silence and damage amplification ability called Soul Rend, lasting 5 seconds. At the end of the silence, the target takes an additional 60% of all damage taken during the debuff as magical damage. While silenced, attacks from heroes and creeps against the target deal bonus damage. It also grants a passive Pierce chance, giving attacks a 40% chance to deal 60 bonus magical damage and ignore evasion, offering True Strike on proc. Stats: CD: 15s, Mana Cost: 125, Silence Duration: 5s, Bonus Damage: +10, Attack Speed: +95.",
+    "search_text": "silence item, true strike item, evasion counter item, magic damage item, disable item, orchid upgrade, int carry item, attack speed item, mana regen item, bloodthorn, amplification, orchid malevolence upgrade, pierce passive, silence burst damage, disable and damage, Bloodthorn",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODTHORN",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SILENCE",
+      "DISABLE",
+      "TRUE_STRIKE",
+      "VS_EVASION",
+      "MAGICAL_DAMAGE",
+      "DAMAGE_AMPLIFICATION",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Cost: 6625: Provides a balanced stat profile suited for Intelligence cores: +10 Intelligence, +10 Damage, and +95 Attack Speed. It also offers significant sustain with +6.5 Health Regeneration and +3.25 Mana Regeneration, aiding in prolonged fights and mana management.",
+    "search_text": "bloodthorn stats, intelligence item, attack speed item, health regen item, mana regen item, carry stats, int carry stats, bloodthorn attributes, Bloodthorn",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODTHORN",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "REGEN",
+      "MANA_REGEN",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Cost: 6625: Acts as a powerful single-target lockdown tool in team fights. The silence prevents spellcasting, while the damage amplification and bonus attack damage from allied heroes make the target extremely vulnerable to burst. Its True Strike component ensures reliable damage against evasive heroes. It is a high-priority offensive item for disabling and deleting key spellcasters or slippery targets.",
+    "search_text": "team fight silence, single target disable, burst damage amplifier, delete hero item, anti-caster item, team fight lockdown, target focus item, magic burst item, Bloodthorn",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODTHORN",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "INITIATION",
+      "CATCH",
+      "DISABLE",
+      "SILENCE",
+      "BURST_DAMAGE",
+      "VS_CASTERS"
+    ]
+  },
+  {
+    "display_text": "Cost: 6625: Situational against heroes relying on evasion, high mobility through spells, or magic resistance. The True Strike from Pierce counters Butterfly, Solar Crest, or hero abilities like Phantom Strike. The active silence is effective against elusive heroes who rely on spells to escape (e.g., Queen of Pain, Puck, Anti-Mage with Blink). The magical burst damage can bypass high armor targets.",
+    "search_text": "bloodthorn vs evasion, counter butterfly, counter solar crest, counter phantom assassin, silence mobility heroes, counter blink heroes, counter spell escape, anti-mage counter, anti-qop, anti-puck, magic damage vs armor, Bloodthorn",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODTHORN",
+      "SITUATIONAL_VS_EVASION",
+      "FULL_ITEM",
+      "VS_EVASION",
+      "TRUE_STRIKE",
+      "SITUATIONAL_VS_MAGIC",
+      "VS_MOBILITY",
+      "VS_CASTERS"
+    ]
+  },
+  {
+    "display_text": "Cost: 6625: Synergizes with heroes who have high attack speed to proc the Pierce passive frequently and benefit from the Attack Speed bonus. Intelligence right-click cores (like Storm Spirit, Silencer, Outworld Destroyer) utilize all its stats effectively. Heroes who already build Orchid Malevolence naturally upgrade to this late-game item for increased damage and control.",
+    "search_text": "bloodthorn synergy, attack speed synergy, orchid upgrade path, int right click hero, storm spirit item, silencer item, outworld destroyer item, late game orchid, carry upgrade, Bloodthorn",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODTHORN",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "INTELLIGENCE_HERO",
+      "ATTACK_SPEED_SYNERGY",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Cost: 6625: Can be used to accelerate farm through its passive Pierce, which deals bonus magical damage to creeps. The high attack speed and damage stats also improve farming speed. However, it is a premium late-game item; its primary utility is in fights, not farming efficiency.",
+    "search_text": "bloodthorn farm, farming item, wave clear item, jungle item, attack speed farm, magic damage farm, late game farm, Bloodthorn",
+    "tags": [
+      "ITEM_DATA",
+      "BLOODTHORN",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "ATTACK_SPEED",
+      "DAMAGE"
+    ]
+  }
+]

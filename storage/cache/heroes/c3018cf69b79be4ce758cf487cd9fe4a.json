@@ -1,0 +1,191 @@
+[
+  {
+    "display_text": "Tidehunter is a melee Strength hero with 27 base Strength, 15 base Agility, and 20 base Intelligence. His attack type is melee with a base attack time of 1.7 seconds.",
+    "search_text": "Tidehunter stats melee Strength 27 15 20 1.7 attack time",
+    "tags": [
+      "Tidehunter",
+      "BASE_STATS",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Facet: Kraken Swell. This facet modifies Kraken Shell, granting permanent Damage Block whenever an enemy hero dies under the effects of Anchor Smash. It significantly enhances Tidehunter's survivability in prolonged engagements and against physical damage lineups, turning him into a frontline juggernaut in fights where he can consistently apply his Anchor Smash debuff on dying enemies. Facet: Krill Eater. This facet causes Tidehunter's model to grow larger and grants unspecified extra bonuses per level, presumably augmenting his stats or abilities. It represents a scaling and more generic power increase compared to the conditional, fight-focused Kraken Swell.",
+    "search_text": "Tidehunter facets Kraken Swell Anchor Smash hero kill permanent Damage Block Kraken Shell Krill Eater size grow level bonuses",
+    "tags": [
+      "Tidehunter",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, prioritize Gush (Q) for its 100/160/220/280 magical damage and 40% slow, creating kill threat with a lane partner. His high base Strength (27) provides good HP for trading. Use Anchor Smash on the enemy hero and creeps to reduce their damage by -25/-30/-35/-40 for 6 seconds, securing last hits while harassing. Kraken Shell passively blocks 15/35/55/75 physical damage from heroes, mitigating harassment. As a melee hero, focus on pulling, denying, and using Anchor Smash to secure the ranged creep.",
+    "search_text": "Tidehunter laning phase skill build Gush 100 160 220 280 damage 40 slow Anchor Smash -25 -30 -35 -40 damage reduction Kraken Shell 15 35 55 75 block",
+    "tags": [
+      "Tidehunter",
+      "LANING_PHASE",
+      "LANE"
+    ]
+  },
+  {
+    "display_text": "Power Spike at Level 6: Ravage is a massive 1250 radius, 2.0 second stun, enabling huge teamfight impact or solo kill potential with Gush follow-up. Power Spike at Level 12/18: Increased levels in Anchor Smash and Kraken Shell improve his damage reduction and survivability. Power Spike at Levels 20/25: Talent choices significantly augment his impact. Key item spikes are Blink Dagger for instant Ravage initiation and Aghanim's Scepter for the powerful Dead in the Water ultimate upgrade.",
+    "search_text": "Tidehunter power spikes level 6 Ravage 1250 radius 2.0 stun Blink Dagger Aghanim's Scepter Dead in the Water talents 20 25",
+    "tags": [
+      "Tidehunter",
+      "POWER_SPIKES",
+      "TIMING"
+    ]
+  },
+  {
+    "display_text": "Hard counters include Break (from items like Silver Edge or abilities like Demonic Purge) which disables the gaining of new Kraken Swell stacks. However, Break does not remove bonuses from existing Kraken Swell stacks. Heroes with instant disables like Hex can prevent him from using Ravage or Blink Dagger. High magical burst damage can bypass his physical damage block from Kraken Shell.",
+    "search_text": "Tidehunter counters break Silver Edge disables Kraken Swell stack gain instant hex disable Ravage magical burst damage",
+    "tags": [
+      "Tidehunter",
+      "HARD_COUNTERS",
+      "COUNTER"
+    ]
+  },
+  {
+    "display_text": "The absolute core build for Tidehunter is Blink Dagger. This item is non-negotiable as it allows him to instantly position himself for a multi-hero Ravage initiation. Aghanim's Scepter is the second core item, upgrading his ultimate to Dead in the Water, a powerful single-target disable that leashes an enemy and can be crucial for locking down key targets.",
+    "search_text": "Tidehunter core items Blink Dagger Aghanim's Scepter Dead in the Water Ravage initiation",
+    "tags": [
+      "Tidehunter",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Tidehunter's primary role is as the initiator and disabler. His job is to use Blink Dagger to get into the center of the enemy team and cast Ravage, stunning all nearby enemies for up to 2.4 seconds. After initiating, he should apply Anchor Smash to reduce enemy attack damage and Gush to slow and armor-reduce priority targets. He soaks damage on the frontline thanks to Kraken Shell.",
+    "search_text": "Tidehunter teamfight role initiator disabler Blink Ravage 1250 radius Anchor Smash damage reduction Gush slow",
+    "tags": [
+      "Tidehunter",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Ability: Gush (Q). Summons a gush of water to damage an enemy unit, reducing their movement speed and armor. Deals 100/160/220/280 magical damage. Slows movement speed by 40%. Reduces armor by 3/4/5/6. Has a projectile speed of 2500. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Tidehunter Gush Q ability slow 40% armor reduction 3 4 5 6 damage 100 160 220 280 projectile 2500 magical",
+    "tags": [
+      "Tidehunter",
+      "ABILITY_DATA",
+      "ABILITY",
+      "GUSH"
+    ]
+  },
+  {
+    "display_text": "Ability: Kraken Shell (W). Passively blocks 15/35/55/75 damage from incoming physical attacks. Block amount is reduced by 50% versus creeps. Can be activated to double the block amount to 30/70/110/150 for 4.0 seconds, but reduces movement speed by 40% during this time. The ability triggers a strong dispel (called 'Blubber') if Tidehunter takes more than 450 damage from player-owned sources within a 7-second window, removing most debuffs. Break disables the gaining of new Kraken Swell stacks but does not disable existing ones. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Tidehunter Kraken Shell W passive damage block 15 35 55 75 activate double 30 70 110 150 4s 40 slow dispel 450 damage 7s cooldown break disables new stacks strong dispel",
+    "tags": [
+      "Tidehunter",
+      "ABILITY_DATA",
+      "ABILITY",
+      "KRAKEN_SHELL"
+    ]
+  },
+  {
+    "display_text": "Ability: Anchor Smash (E). Tidehunter swings his anchor on attack, dealing 50/100/150/200 bonus physical damage and reducing the attack damage of all enemies within a 375 radius by -25%/-30%/-35%/-40% for 6 seconds. This effect works on Ancients (except Roshan) but not on buildings by default. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Tidehunter Anchor Smash E AOE area 375 radius damage 50 100 150 200 physical attack damage reduction -25 -30 -35 -40 6s duration works on ancients not buildings",
+    "tags": [
+      "Tidehunter",
+      "ABILITY_DATA",
+      "ABILITY",
+      "ANCHOR_SMASH"
+    ]
+  },
+  {
+    "display_text": "Ability: Dead in the Water (R with Aghanim's Scepter). Tidehunter attaches an anchor to an enemy hero for 10 seconds, leashing them. If they move more than 350 units from the anchor point, their move speed is reduced to 100 and they drag the anchor. The anchor can be destroyed with 4 hero attacks. The projectile speed is 1000. The ability description does not specify damage. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Tidehunter Dead in the Water R Aghanim Scepter upgrade leash 350 range 10 duration 100 move speed drag anchor destroy 4 hero attacks projectile 1000",
+    "tags": [
+      "Tidehunter",
+      "ABILITY_DATA",
+      "ABILITY",
+      "DEAD_IN_THE_WATER"
+    ]
+  },
+  {
+    "display_text": "Ability: Ravage (R). Slams the ground, causing tentacles to erupt in a 1250 radius, damaging and stunning all nearby enemy units for 2.0/2.2/2.4 seconds. The waves move outward at a speed of 725. Cooldown is 150/145/140 seconds. Ravage hits invisible units. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Tidehunter Ravage R ultimate AOE stun 1250 radius 2.0 2.2 2.4 duration 150 145 140 cooldown wave speed 725 hits invisible",
+    "tags": [
+      "Tidehunter",
+      "ABILITY_DATA",
+      "ABILITY",
+      "RAVAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing Against High Physical Damage. In this scenario, prioritize maxing Kraken Shell early for its 55/75 damage block and consider the Kraken Swell facet to gain permanent block from kills. Build items like Shiva's Guard for armor and Pipe of Insight against mixed damage. Your Anchor Smash damage reduction of -35%/-40% is crucial against right-click carries.",
+    "search_text": "Tidehunter scenario high physical damage Kraken Shell block Anchor Smash reduction Shiva's Guard armor facet Kraken Swell",
+    "tags": [
+      "Tidehunter",
+      "SITUATIONAL",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing From Behind. When behind, your role shifts. Use Ravage defensively to counter-initiate or protect your cores instead of aggressively blinking in. Farm safely with Anchor Smash to clear waves. Build cheaper utility items like Blink Dagger, Force Staff, or Drums of Endurance to remain relevant in fights without expensive items.",
+    "search_text": "Tidehunter scenario behind defensive Ravage counter-initiation farm Anchor Smash wave clear utility items Blink Force Staff",
+    "tags": [
+      "Tidehunter",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Initiating Against Elusive Heroes. Against mobile heroes with escapes (e.g., Anti-Mage, Queen of Pain), the Aghanim's Scepter upgrade Dead in the Water becomes essential. Use it to lock down the elusive core before or after a Ravage. Alternatively, coordinate with instant disables from your team to secure the kill before they can react.",
+    "search_text": "Tidehunter scenario elusive heroes mobile Aghanim Scepter Dead in the Water leash lock down initiation coordination",
+    "tags": [
+      "Tidehunter",
+      "SITUATIONAL",
+      "ELUSIVE_HEROES"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion or Summon-Based Heroes. Your Anchor Smash is highly effective here. Its 375 radius damage and attack damage reduction apply to all units hit, making you a strong counter to heroes like Chaos Knight, Phantom Lancer, or Broodmother. Consider a Shiva's Guard for additional AOE damage and slow.",
+    "search_text": "Tidehunter scenario illusions summons Anchor Smash AOE 375 radius damage reduction effective Chaos Knight Phantom Lancer Broodmother",
+    "tags": [
+      "Tidehunter",
+      "SITUATIONAL",
+      "ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left talent offers +10% Anchor Smash Damage Reduction, increasing the debuff from -40% to -50% at max level. Right talent offers +20% Gush Slow, increasing the slow from 40% to 60%. Choose the left talent if you are facing heavy right-click physical damage carries. Choose the right talent if your team needs more catch and lockdown on slippery targets.",
+    "search_text": "Tidehunter talent level 10 left +10% Anchor Smash damage reduction right +20% Gush slow physical damage catch lockdown",
+    "tags": [
+      "Tidehunter",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left talent offers +100 Gush Damage, increasing its damage to 200/260/320/380. Right talent offers -4 Gush Armor, increasing its armor reduction to 7/8/9/10. Choose the left talent for higher burst damage and wave clear. Choose the right talent to significantly amplify physical damage from your team against the debuffed target, especially effective with minus armor lineups.",
+    "search_text": "Tidehunter talent level 15 left +100 Gush damage right -4 Gush armor reduction burst wave clear physical damage amp",
+    "tags": [
+      "Tidehunter",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left talent offers +1.0s Ravage Stun Duration, increasing it to 3.0/3.2/3.4 seconds. Right talent offers Anchor Smash affects buildings. Choose the left talent for overwhelmingly powerful teamfight control. Choose the right talent to become a strong siege and building damage threat, especially when combined with the attack damage reduction against tower attacks.",
+    "search_text": "Tidehunter talent level 20 left +1.0s Ravage stun duration right Anchor Smash affects buildings siege push teamfight control",
+    "tags": [
+      "Tidehunter",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: No specific talents are listed in the provided data for level 25. The raw data shows empty talent slots at this level for the hero. Further data is required to analyze level 25 talent choices.",
+    "search_text": "Tidehunter talent level 25 no data missing talents",
+    "tags": [
+      "Tidehunter",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

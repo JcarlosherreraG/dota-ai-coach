@@ -1,0 +1,216 @@
+[
+  {
+    "display_text": "Spirit Breaker is a melee hero with a base attack time of 1.9, which is slower than average. His starting attributes (28 Strength, 17 Agility, 14 Intelligence) are Strength-heavy, giving him high health but low mana and armor. This makes him tanky against magic and physical damage early from his high Strength gain, but vulnerable to armor reduction due to his low Agility base.",
+    "search_text": "Spirit Breaker base stats melee hero attack time 1.9 stats strength 28 agility 17 intelligence 14 starting health mana armor tanky",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Bull Rush - Charge of Darkness bonus movement speed lingers after the charge ends. This is excellent for initiating from fog, maintaining chase potential after a charge, or escaping. Choose this for map control and pick-off playstyle. Facet 2: Imbalanced - Enemy targets hit by Nether Strike will be moved further by allied forced movement effects (like Pudge Hook, Tiny Toss). This is a niche, combo-oriented choice for heavy displacement lineups. Facet 3: Bull's Hit - Greater Bash chance is increased if you've bashed more than one hero recently. This is the teamfight/aggression facet, rewarding you for staying in the fray and hitting multiple enemies. Pick this for core/fighting Spirit Breaker.",
+    "search_text": "Spirit Breaker Facets Bull Rush Imbalanced Bull's Hit Charge of Darkness movement speed linger Nether Strike forced movement Greater Bash chance teamfight pick-off combo",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, Spirit Breaker's high base Strength and Greater Bash at level 1 provide strong trading potential. Use short charges (Charge of Darkness) on the enemy from fog to secure a bash and harass. Focus on securing last hits to build towards early boots and a magic wand. Use Bulldoze at level 2 or 4 for its status resistance (40-70%) to escape ganks or turn fights. Your role is to pressure the enemy core, secure runes, and look for charge opportunities to other lanes once you hit level 6.",
+    "search_text": "Spirit Breaker laning phase early game Greater Bash level 1 trading Charge of Darkness harass Bulldoze status resistance escape last hits boots level 6 gank",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6: Unlock Nether Strike for single-target lockdown and global kill threat. Level 12: Maxed Charge of Darkness (13s cooldown) and Bulldoze, greatly increasing initiation frequency and tankiness. Level 18: All basic abilities maxed. Level 20 Talent (+45 Damage or -0.3s Greater Bash Cooldown) is a major damage/frequency spike. Level 25 Talent (-4s Charge Cooldown or +20% Greater Bash Damage) defines late-game initiation or burst. Item Spikes: Phase Boots (chase), Echo Sabre (lockdown combo), Black King Bar (fight through disables), Aghanim's Shard (Planar Pocket) for anti-caster utility.",
+    "search_text": "Spirit Breaker power spikes level 6 Nether Strike level 12 Charge of Darkness 13s cooldown level 20 talent damage bash cooldown level 25 talent charge cooldown bash damage item timings Phase Boots Echo Sabre BKB Aghanim Shard",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Break mechanics (e.g., Silver Edge, Viper Nethertoxin) disable the passive percent chance of Greater Bash, removing his core source of damage and lockdown from attacks. His charges are vulnerable to instant disables (Hex, Eul's Scepter) during the wind-up and travel time. Heroes with high mobility (Blink, Manta Style) can dodge Charge of Darkness impact. Planar Pocket can be exploited by enemies casting weak, single-target spells to waste its effect.",
+    "search_text": "Spirit Breaker counters hard counters Break Silver Edge Viper Nethertoxin disables Greater Bash passive instant hex Eul's Scepter interrupt charge dodge mobility Planar Pocket exploit",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Phase Boots are essential for the armor, damage, and active movement speed to stick to targets after a charge. Echo Sabre provides mana regeneration, strength, and the double attack which synergizes with Greater Bash for guaranteed lockdown. Black King Bar is non-negotiable for enabling you to charge into the enemy team and use Nether Strike without being chain-disabled.",
+    "search_text": "Spirit Breaker core build essential items Phase Boots Echo Sabre Black King Bar BKB mana strength lockdown movement speed",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Spirit Breaker's job is initiation and disruption. Use Charge of Darkness or Nether Strike on a key backline hero (support or core) to start the fight. Activate Bulldoze for status resistance and speed to run through the enemy team, applying Greater Bash procs. Use Planar Pocket on a key ally being focused, or on an enemy core to redirect spells to yourself. Your goal is to create chaos, lock down a primary target, and absorb spells with your tankiness and Planar Pocket.",
+    "search_text": "Spirit Breaker teamfight role initiator disruptor Charge of Darkness Nether Strike backline Bulldoze status resistance Greater Bash Planar Pocket redirect spells chaos lockdown",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Charge of Darkness (Q). Spirit Breaker charges at a target enemy unit from anywhere on the map, starting at 275 speed and reaching 425 max speed after 1.5 seconds. All enemies passed through and the target are hit by a Greater Bash, stunning for 1.3/1.6/1.9/2.2 seconds. Cooldown is 22/19/16/13 seconds. Charge provides shared vision of the target. If the target dies, he charges the nearest enemy. Does NOT pierce BKB on the bash application.",
+    "search_text": "Charge of Darkness Q ability global charge movement speed 275 to 425 windup 1.5s stun 1.3 1.6 1.9 2.2 cooldown 22 19 16 13 shared vision target dies redirect",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "ABILITY_DATA",
+      "STUN",
+      "GLOBAL"
+    ]
+  },
+  {
+    "display_text": "Ability: Bulldoze (W). Spirit Breaker gains 8%/12%/16%/20% movement speed and 40%/50%/60%/70% status resistance for 8 seconds. Cooldown is 22/20/18/16 seconds. Can be activated during Charge of Darkness. This ability provides significant tankiness against disables and slows, and enhances chase speed.",
+    "search_text": "Bulldoze W ability movement speed 8 12 16 20 percent status resistance 40 50 60 70 duration 8s cooldown 22 20 18 16 cast during charge",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "ABILITY_DATA",
+      "BUFF",
+      "STATUS_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "Ability: Greater Bash (Passive). Each attack has a 17% chance to Greater Bash, dealing 25/30/35/40 damage plus 17% of Spirit Breaker's current movement speed as bonus damage. It stuns for 0.9/1.1/1.3/1.5 seconds and knocks the target back. The bash from Charge of Darkness and Nether Strike applies this effect regardless of the chance. Break disables the passive chance, but not the guaranteed bashes from spells.",
+    "search_text": "Greater Bash passive ability chance 17 percent damage 25 30 35 40 plus movement speed percent 17 stun duration 0.9 1.1 1.3 1.5 knockback Break disables passive Charge Nether Strike apply",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "BASH",
+      "KNOCKBACK"
+    ]
+  },
+  {
+    "display_text": "Ability: Planar Pocket (Shard). Spirit Breaker gains 75% magic resistance for 6 seconds and distorts reality around a selected hero (ally or enemy). Any unit-targeted spells cast by enemy heroes within 900 range are redirected to Spirit Breaker instead. This can be used to protect an ally from targeted disables or to absorb spells intended for an enemy.",
+    "search_text": "Planar Pocket Shard ability Aghanim magic resistance 75 percent duration 6s radius 900 redirect enemy unit-targeted spells to Spirit Breaker protect ally absorb",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "ABILITY_DATA",
+      "SHARD",
+      "MAGIC_RESISTANCE",
+      "REDIRECT"
+    ]
+  },
+  {
+    "display_text": "Ability: Herd Mentality (Innate). The hero on your team whose level is lower than anybody else's on your team gains 50% more experience from all sources. This helps your team's lowest-level hero catch up.",
+    "search_text": "Herd Mentality innate ability passive lowest level hero on team gains 50 percent more XP experience",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "ABILITY_DATA",
+      "INNATE",
+      "EXPERIENCE"
+    ]
+  },
+  {
+    "display_text": "Ability: Nether Strike (Ultimate, R). Spirit Breaker becomes invisible for 1 second, then appears behind the target enemy, applying a Greater Bash of the current level for double the normal knockback distance and dealing 150/250/350 bonus damage. This ability pierces spell immunity. It is a reliable initiation and lockdown tool.",
+    "search_text": "Nether Strike R ultimate ability invisibility fade time 1s appears behind target Greater Bash double knockback bonus damage 150 250 350 pierces BKB spell immunity lockdown",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "INVISIBILITY",
+      "BASH",
+      "PIERCES_BKB"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Physical Damage/Armor Reduction. Spirit Breaker's low base armor makes him vulnerable. Build early armor items like Phase Boots and consider a Medallion of Courage/Solar Crest for yourself or an ally. Use Bulldoze's status resistance to reduce the duration of physical slows like Skadi. Prioritize locking down the physical damage dealer with Nether Strike.",
+    "search_text": "Spirit Breaker vs high physical damage armor reduction low armor counter build Phase Boots Medallion Solar Crest Bulldoze status resistance slow Nether Strike lockdown",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "SITUATIONAL",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When your team is losing, focus on pick-offs with Charge of Darkness and Nether Strike on isolated targets. Build utility items like Spirit Vessel or Heaven's Halberd instead of pure damage. Use Herd Mentality to help your under-leveled core catch up. Avoid initiating 5v5 fights; play on the edges and look for counter-initiation.",
+    "search_text": "Spirit Breaker playing from behind losing game pickoff Charge Nether Strike isolated target utility items Spirit Vessel Heaven Halberd Herd Mentality catch up avoid 5v5",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Illusion/Summons Heroes. Greater Bash deals bonus damage based on movement speed, which is effective against illusions. However, the low bash chance can be unreliable for clearing. Build Radiance or Mjollnir for AOE damage. Use Charge of Darkness to quickly identify and jump on the real hero among illusions.",
+    "search_text": "Spirit Breaker vs illusions summons Chaos Knight Phantom Lancer Naga Siren Greater Bash movement speed damage Radiance Mjollnir AOE Charge find real hero",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: With Heavy Displacement Allies. If your team has heroes like Pudge, Tiny, or Dark Willow with knockbacks, take the 'Imbalanced' Facet. This causes enemies hit by your Nether Strike to be moved significantly further by your allies' forced movement, enabling devastating combos like Hook into Nether Strike into Toss.",
+    "search_text": "Spirit Breaker combo with displacement allies Pudge Hook Tiny Toss Dark Willow Imbalanced Facet Nether Strike increases forced movement combo setup",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "SITUATIONAL",
+      "WITH_DISPLACEMENT"
+    ]
+  },
+  {
+    "display_text": "Scenario: As a Position 4 Support. Max Charge of Darkness first for lower cooldown and longer stun. Build Urn of Shadows/Spirit Vessel, Solar Crest, and Aghanim's Shard. Your role is to scout, provide vision with charge, and save allies with Planar Pocket. Use Nether Strike to lock down key targets for your core.",
+    "search_text": "Spirit Breaker position 4 support build max Charge cooldown stun Urn Spirit Vessel Solar Crest Aghanim Shard Planar Pocket save scout vision",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "SITUATIONAL",
+      "POSITION_4"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Linken's Sphere. Your Charge of Darkness and Nether Strike are both single-target spells blocked by Linken's. You must carry a basic dispel (like Lotus Orb) or a cheap pop item (Force Staff, Eul's) to break it before initiating. Alternatively, use Charge of Darkness on another unit to bash and pop the Linken's with the AOE bash, then cast Nether Strike.",
+    "search_text": "Spirit Breaker vs Linken Sphere Charge of Darkness Nether Strike blocked pop with Force Staff Euls Lotus Orb dispel use Charge on other unit AOE bash pop",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "SITUATIONAL",
+      "VS_LINKENS"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents. Left: +500 Night Vision. Drastically improves vision for scouting, initiating charges from fog at night, and avoiding ganks. Right: +4 Armor. Compensates for Spirit Breaker's low base armor, significantly increasing physical EHP in the early-mid game. Choose Night Vision for aggressive map play and pick-offs. Choose Armor if you are the frontline and facing heavy physical damage.",
+    "search_text": "Spirit Breaker level 10 talent left 500 night vision right 4 armor compare pick scouting initiation physical EHP frontline",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents. Left: -3s Bulldoze Cooldown. Reduces cooldown from 16s to 13s at max level, giving near 60% uptime on the status resistance and movement speed buff. Essential for constant fighting and tanking disables. Right: +45 Damage. A significant raw damage increase that enhances last hitting, bash damage, and right-click DPS. Choose Bulldoze cooldown if you are the initiator and need to survive. Choose Damage if you are playing as a core and need to kill targets faster.",
+    "search_text": "Spirit Breaker level 15 talent left -3s Bulldoze cooldown uptime status resistance right +45 damage DPS last hit bash damage compare initiator vs core",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents. Left: -0.3s Greater Bash Cooldown. Reduces the internal cooldown of Greater Bash's proc chance, making it possible to bash more frequently. This significantly increases lockdown and damage in prolonged fights. Right: Bulldoze 375 All Damage Barrier. Adds a 375-damage barrier that blocks all damage types when Bulldoze is activated, providing a massive survivability boost. Choose Bash cooldown for maximum control and damage output. Choose Barrier if you are being focused and burst down quickly.",
+    "search_text": "Spirit Breaker level 20 talent left -0.3s Greater Bash cooldown more bashes lockdown right Bulldoze 375 damage all damage barrier survivability burst protection",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents. Left: +20% Greater Bash Damage. Multiplies the total damage of Greater Bash (base + movement speed component) by 1.2. This is a massive late-game damage spike, especially with high movement speed items. Right: -4s Charge of Darkness Cooldown. Reduces cooldown from 13s to 9s at max level, allowing for near-constant global map pressure and initiation. Choose Bash Damage to delete supports and cores with your bashes. Choose Charge Cooldown for unparalleled map control, pick-offs, and teamfight re-engagement.",
+    "search_text": "Spirit Breaker level 25 talent left +20 percent Greater Bash damage multiplier right -4s Charge of Darkness cooldown 9s global map pressure pickoff compare burst vs utility",
+    "tags": [
+      "SPIRIT_BREAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

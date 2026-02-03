@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Necrophos Aghanim's Scepter: Enhances Heartstopper Aura by scaling its Health Decay with Necrophos's health regeneration. This upgrade counters sustain-heavy lineups by amplifying percentage-based damage, forcing enemies to either disengage or invest in additional healing reduction.",
+    "search_text": "Necrophos Aghanim Scepter Heartstopper Aura sustain counter health regeneration percentage damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Necrophos",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Necrophos Aghanim's Shard: Death Seeker transforms Necrophos into a mobile Death Pulse, allowing him to reposition aggressively while simultaneously healing allies and damaging enemies. This counters kiting and split-push strategies by providing instant AoE presence and sustain in teamfights.",
+    "search_text": "Necrophos Aghanim Shard Death Seeker mobility reposition anti-kite teamfight sustain",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Necrophos",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "display_text": "Templar Assassin is a Ranged Agility hero with base Agility 23, Strength 21, and Intelligence 20. Starting stats are average. Attack range is standard for ranged heroes, but can be significantly increased via Psi Blades and items. Starting armor is decent. Her base attack rate is 1.6 seconds, which is slightly slower than average. Her primary farming and harassing mechanism is the spill damage from her Psi Blades passive, allowing her to hit multiple creeps and heroes at once from a safe distance.",
+    "search_text": "Templar Assassin Lanaya ranged agility hero stats base agility 23 attack type ranged attack rate 1.6",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "BASE_STATS",
+      "AGILITY",
+      "RANGED"
+    ]
+  },
+  {
+    "display_text": "Templar Assassin has three Facets. Voidblades makes Meld's bonus damage and -armor apply to all enemies in the Psi Blades spill radius, making her a superior teamfighter and AoE damage threat. Refractor gives Refraction a damage charge every time a shield charge is consumed, rewarding aggressive trading and making her a high-tempo, burst-oriented hero. Hidden Reach grants Templar Assassin up to a significant bonus attack range increase over time while in Meld, making her a safer, sieging-focused hero that can attack from extreme range.",
+    "search_text": "Facet Voidblades Refractor Hidden Reach Meld damage spill shield charge attack range",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "FACET_STRATEGY",
+      "VOIDBLADES",
+      "REFRACTOR",
+      "HIDDEN_REACH"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, focus on last-hitting and harassing with Psi Blades to damage the enemy hero while farming. Use Refraction early for bonus damage on 3/4/5/6 attacks and 30 HP shield instances to win trades. Meld can be used at level 2 or 4 for burst harassment, applying -2/-4/-6/-8 armor for 6 seconds and dealing 50/100/150/200 bonus damage. Use the Psi Blades spill width of 90 to hit heroes behind creeps. Your goal is to secure farm for a fast Blink Dagger or Desolator timing.",
+    "search_text": "Laning Phase Psi Blades spill Refraction shield Meld armor reduction harass last hit",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Key power spikes: Level 6 with Psionic Trap for vision, scouting, and kill setup. Level 12 with maxed Psi Blades and Refraction for high farming speed and fighting. Level 18 with max talents. Key item spikes are Blink Dagger for initiation, Desolator for armor reduction synergy with Meld, and Dragon Lance for range (synergizes with Hidden Reach). The Level 25 talent +4 Refraction Instances is a massive survivability and damage spike.",
+    "search_text": "Power Spike level 6 Psionic Trap level 12 Desolator Blink Dagger level 25 talent",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "ITEM_TIMING"
+    ]
+  },
+  {
+    "display_text": "Templar Assassin is hard countered by heroes with Break (Silver Edge, Hoodwink, Viper), which disables her Refraction shield and Psi Blades spill. Instant disables and Hex prevent her from using Refraction or Psionic Projection to escape. Heavy magical burst damage can pop her Refraction charges quickly. Illusion heroes can drain her limited Refraction charges. Heroes with True Sight can reveal her during Meld and when placing Traps.",
+    "search_text": "Counter Break Silver Edge Viper disable hex burst magic damage illusion true sight Meld Trap",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "HARD_COUNTERS",
+      "BREAK",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "The core build for Templar Assassin is Blink Dagger and Desolator. Blink Dagger is essential for initiating with Meld strikes and repositioning. Desolator synergizes perfectly with Meld's armor reduction, allowing her to deal massive physical burst damage. A Dragon Lance or Hurricane Pike is also highly recommended to increase her attack range, survivability, and synergy with Psi Blades and the Hidden Reach Facet.",
+    "search_text": "Core Build Blink Dagger Desolator Dragon Lance Hurricane Pike essential items",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "CORE_BUILD",
+      "BLINK_DAGGER",
+      "DESOLATOR"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Templar Assassin's role is to assassinate key backline heroes (supports, squishy carries) with a Blink + Meld + Refraction combo. She should place Traps beforehand to control chokepoints and slow enemies. She uses Psionic Projection to teleport to a trap for repositioning or escape. She relies on her Refraction shield to survive initial bursts. She should position to maximize Psi Blades spill damage on multiple enemies, especially with the Voidblades Facet.",
+    "search_text": "Teamfight Role Assassin burst kill backline Blink Meld Trap Psionic Projection reposition",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "TEAMFIGHT_ROLE",
+      "ASSASSIN",
+      "BURST"
+    ]
+  },
+  {
+    "display_text": "Ability: Refraction. Grants 15/30/45/60 bonus damage per attack and a 30 HP damage barrier per instance. Has 3/4/5/6 total instances (shield and damage combined). Lasts 17 seconds. If a damage instance exceeds the remaining barrier, all damage is absorbed. Can be cast while disabled with talent. Is dispelled by basic dispels. Damage as HP Removal bypasses Refraction.",
+    "search_text": "Refraction Q ability shield barrier 30 hp per instance 3 4 5 6 charges bonus damage 15 30 45 60 duration 17",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "ABILITY_DATA",
+      "REFRACTION",
+      "SHIELD",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Ability: Meld. Makes Templar Assassin invisible while stationary. Breaking invisibility by attacking deals 50/100/150/200 bonus damage and reduces the target's armor by 2/4/6/8 for 6 seconds. Meld is broken by any action except staying still or channeling Psionic Projection. The armor reduction does not work on buildings.",
+    "search_text": "Meld W ability invisibility stationary break attack bonus damage 50 100 150 200 armor reduction 2 4 6 8 debuff 6 seconds",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "ABILITY_DATA",
+      "MELD",
+      "INVISIBILITY",
+      "ARMOR_REDUCTION",
+      "BURST"
+    ]
+  },
+  {
+    "display_text": "Ability: Psi Blades. Passive. Increases attack range by 50/100/150/200. Attacks spill damage to units behind the primary target within a 90-degree width and up to 400/500/600/700 range. Spill damage is 70%/80%/90%/100% of the attack damage, reduced for each subsequent unit hit. Spill damage hits invisible units. On-hit effects only apply to the main target.",
+    "search_text": "Psi Blades E passive ability attack range increase 50 100 150 200 spill damage 70 80 90 100 percent spill range 400 500 600 700 width 90 degrees",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "ABILITY_DATA",
+      "PSI_BLADES",
+      "PASSIVE",
+      "SPILL_DAMAGE",
+      "RANGE"
+    ]
+  },
+  {
+    "display_text": "Ability: Trap. Springs the trap nearest to Templar Assassin, or the trap closest to the cursor if alt-cast. The trap slows nearby enemies. This ability is used to activate placed Psionic Traps.",
+    "search_text": "Trap D ability activate spring trigger slow alt-cast",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "ABILITY_DATA",
+      "TRAP",
+      "ACTIVATE"
+    ]
+  },
+  {
+    "display_text": "Ability: Psionic Projection. Channel for 2 seconds to teleport to any Psionic Trap, detonating it upon arrival as if fully charged and dealing 400 bonus damage instantly. Channeling does not break Meld invisibility.",
+    "search_text": "Psionic Projection F ability channel 2 seconds teleport to Trap detonate fully charged instant 400 bonus damage does not break Meld",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "ABILITY_DATA",
+      "PSIONIC_PROJECTION",
+      "CHANNEL",
+      "TELEPORT",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Ability: Psionic Trap. Places an invisible, spell immune trap that lasts indefinitely. Max traps: 5/8/11. Traps fade in over 2 seconds. When sprung, they deal 200/300/400 bonus damage when fully charged over 3.5 seconds, and slow enemies in a 400 radius. Slow starts at 20% and increases up to 50% after 3.5 seconds charge time. Traps have 250/250 vision. They take 2 hits from ranged heroes, 1 from melee heroes, and 4 from creeps to kill.",
+    "search_text": "Psionic Trap R ultimate ability place trap invisible spell immune duration infinite max 5 8 11 traps fade time 2 seconds slow 20 to 50 percent over 3.5 seconds radius 400 bonus damage 200 300 400 fully charged vision 250",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "ABILITY_DATA",
+      "PSIONIC_TRAP",
+      "ULTIMATE",
+      "SLOW",
+      "VISION",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Ability: Third Eye. Passive. Templar Assassin and her teammates can see Roshan's respawn timer.",
+    "search_text": "Third Eye passive ability see Roshan respawn timer team vision",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "ABILITY_DATA",
+      "THIRD_EYE",
+      "PASSIVE",
+      "ROSHAN"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs. High Armor/High HP Cores. Prioritize Meld's armor reduction and build Desolator. Consider a Daedalus for critical strike burst to bypass high armor through raw damage. The Voidblades Facet is excellent here to apply the armor reduction to multiple frontliners. Use Traps to slow and kite them.",
+    "search_text": "Situational High Armor High HP cores Desolator Daedalus Meld armor reduction Voidblades Facet kite",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "SITUATIONAL",
+      "HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on farming with Psi Blades spill and Refraction shield to survive jungle camps. Use Traps defensively to spot ganks on your side of the map. Itemize for survivability (Black King Bar, Linken's Sphere) and split-push (Boots of Travel) rather than pure damage. The Refractor Facet can help secure comeback kills.",
+    "search_text": "Situational Behind losing game farm jungle Psi Blades Traps defensive vision BKB Linken's split push Boots of Travel",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "FARM"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs. Illusion/Summon Heroes. Your limited Refraction charges can be drained quickly. Avoid man-fighting. Use Psionic Traps for area control and to identify the real hero. Build Battle Fury or Mjollnir for cleave and AoE damage to clear illusions. The Voidblades Facet can help but is risky.",
+    "search_text": "Situational Illusions Summons Phantom Lancer Chaos Knight Refraction charges drained Battle Fury Mjollnir cleave Trap control",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "SITUATIONAL",
+      "ILLUSIONS",
+      "SUMMONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Siege High Ground. Use the Hidden Reach Facet to gain massive attack range while in Meld, allowing you to hit buildings and heroes from a very safe distance. Place Traps on the enemy high ground ramp for vision and slow. Have a Hurricane Pike for extra range and disengage.",
+    "search_text": "Situational Siege High Ground Hidden Reach Facet Meld attack range buildings Traps vision Hurricane Pike",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "SITUATIONAL",
+      "SIEGE",
+      "HIGH_GROUND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Invisible Heroes. Place Psionic Traps in common paths to provide vision and slow them when they pass. Your Psi Blades spill damage hits invisible units, so you can sometimes reveal them by attacking a creep near their suspected location. Carry Dust of Appearance or ask supports for Sentry Wards.",
+    "search_text": "Situational Invisible Heroes Riki Clinkz Bounty Hunter Trap vision Psi Blades spill hits invisible Dust Sentry",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "SITUATIONAL",
+      "INVISIBILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Heavy Magic Burst. Refraction shield blocks instances of damage, but many spells can pop it quickly. Prioritize a Black King Bar to become spell immune. The Level 15 talent 'Refraction Can Be Cast While Disabled' is crucial against instant disables like Lion Hex. Consider a Linken's Sphere against single-target initiations.",
+    "search_text": "Situational Magic Burst Lina Zeus Lion Refraction shield BKB Level 15 talent cast while disabled Linken's Sphere",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "SITUATIONAL",
+      "MAGIC_BURST",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Choose between +1.5s Meld Debuff Duration (more time for you and your team to capitalize on the -armor) or +10% Psionic Trap Slow (better chase, control, and kill secure). The Meld talent is better for aggressive kill lanes and physical damage lineups. The Trap talent is better for utility, kiting, and if you are being focused on placing traps in fights.",
+    "search_text": "Talent Level 10 left +1.5s Meld Debuff Duration right +10% Psionic Trap Slow armor reduction slow utility",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Choose between Refraction Can Be Cast While Disabled (crucial survival tool against instant disables, allows you to always get your shield up) or +3 Meld Armor Reduction (increases your burst damage from -8 to -11 armor, a significant increase). The Refraction talent is almost always better for survivability. The Meld talent is for when you are snowballing and the enemy has minimal lockdown.",
+    "search_text": "Talent Level 15 left Refraction Cast While Disabled right +3 Meld Armor Reduction survivability lockdown burst damage snowball",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Choose between Refraction Dispels (applies a basic dispel on cast, removing silences, slows, etc. - a powerful defensive and offensive tool) or +40 Refraction Damage (increases bonus damage from 60 to 100 per hit, a massive DPS increase). The Dispels talent is superior in most games as it provides crucial utility and purge. The Damage talent is for when you are far ahead and need to end quickly, or against lineups with few debuffs.",
+    "search_text": "Talent Level 20 left Refraction Dispels basic dispel right +40 Refraction Damage 100 bonus damage per hit utility DPS",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Choose between 0.8s Meld Hit Bash (provides a reliable mini-stun on your Meld strike, incredible for locking down key targets and interrupting channels) or +4 Refraction Instances (increases total instances from 6 to 10, making you incredibly tanky and increasing your damage output duration). The Bash talent is for pick-offs and control. The Instances talent is for sustained man-fighting and survivability against heavy damage. Both are extremely strong.",
+    "search_text": "Talent Level 25 left 0.8s Meld Hit Bash stun interrupt right +4 Refraction Instances 10 charges tanky survivability damage",
+    "tags": [
+      "TEMPLAR_ASSASSIN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

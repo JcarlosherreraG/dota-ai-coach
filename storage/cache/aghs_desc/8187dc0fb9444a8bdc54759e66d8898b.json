@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Bane Aghanim's Scepter: Creates two uncontrollable illusions that channel Fiend's Grip alongside Bane. This upgrade counters single-target disables by making it harder to interrupt all Fiend's Grip channels simultaneously, significantly increasing teamfight control and damage.",
+    "search_text": "Bane Aghanim Scepter counter-disable anti-interrupt Fiend's Grip illusions teamfight control",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Bane",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Bane Aghanim's Shard: Turns Brain Sap into an AoE spell, healing Bane and damaging enemies in a 550 radius. This upgrade counters AoE damage spells by ensuring Bane sustains health even in chaotic teamfights, transforming him into a durable teamfight presence.",
+    "search_text": "Bane Aghanim Shard AoE Brain Sap healing anti-burst teamfight sustain",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Bane",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

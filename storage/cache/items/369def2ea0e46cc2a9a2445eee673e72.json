@@ -1,0 +1,63 @@
+[
+  {
+    "display_text": "Cost: 1625: Drum of Endurance provides an aura granting +15 movement speed to nearby allies. Its active ability, Endurance, gives +35 attack speed and +13% movement speed to allies within 1200 range for 6 seconds, with a 45-second cooldown. An essential team-fighting and pushing utility item that provides 8 charges. Stats: CD: 45s, Duration: 6s, Radius: 1200, Charges: 8.",
+    "search_text": "drums item, team movement speed, attack speed aura, team buff item, push item, drum of endurance, movement speed aura, attack speed buff, endurance active, team fight utility, aura item, cost effective team item, group push, fighting aura, drums",
+    "tags": [
+      "ITEM_DATA",
+      "DRUM_OF_ENDURANCE",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "AURA",
+      "BUFF",
+      "TEAMFIGHT_ROLE",
+      "UTILITY",
+      "MOVEMENT_SPEED",
+      "ATTACK_SPEED",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Cost: 1625: Stat profile provides +7 Strength, +7 Intelligence, and a constant aura of +15 movement speed to allies. The active provides a significant temporary team-wide buff to attack and movement speed. Stats: +7 STR, +7 INT, Aura MS: +15.",
+    "search_text": "drum stats, drum attributes, drum strength, drum intelligence, movement speed aura, stats drums, endurance stats, drum of endurance stats",
+    "tags": [
+      "ITEM_DATA",
+      "DRUM_OF_ENDURANCE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "STRENGTH",
+      "INTELLIGENCE",
+      "MOVEMENT_SPEED",
+      "AURA"
+    ]
+  },
+  {
+    "display_text": "Cost: 1625: Team fight role focuses on amplifying team mobility and attack speed. The Swiftness Aura passively benefits your team's positioning, while the Endurance active is a critical timing tool for engaging, disengaging, or pushing objectives by boosting your team's DPS and movement. Stats: Aura Radius: 1200.",
+    "search_text": "drum team fight, engage drum, push objective drum, team speed buff, engage timing, objective push, fighting item, group fight buff, tempo item, drum of endurance",
+    "tags": [
+      "ITEM_DATA",
+      "DRUM_OF_ENDURANCE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT_UTILITY",
+      "BUFF",
+      "AURA",
+      "PUSH_ITEM",
+      "TEMPO"
+    ]
+  },
+  {
+    "display_text": "Cost: 1625: Synergy build for heroes that excel in early team fights and want to accelerate their team's tempo. Excellent on aura-based supports, initiators, and heroes who want to group early for tower pushes. The active effect is particularly strong on heroes who rely on right-click damage alongside their spells. Stats: Active Attack Speed Bonus: +35, Movement Speed Bonus: +13%.",
+    "search_text": "drums aura build, support drums, initiator drums, push drums, early fighting build, team tempo item, aura carrier, early grouping item, cost effective aura, drum of endurance",
+    "tags": [
+      "ITEM_DATA",
+      "DRUM_OF_ENDURANCE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "SUPPORT_ITEM",
+      "AURA_BUILD",
+      "TEMPO",
+      "PUSH_ITEM",
+      "TEAM_BUFF"
+    ]
+  }
+]

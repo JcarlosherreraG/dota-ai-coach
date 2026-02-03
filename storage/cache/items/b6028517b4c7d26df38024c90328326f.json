@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Horizon, Cost: 0: A neutral item that applies a knockback effect to a targeted unit, pushing them away for 250 distance over 1 second. The effect pierces spell immunity, making it effective even against magic-immune targets. This provides repositioning utility to create distance from enemies or set up follow-up abilities. Stats: CD: 10s, Knockback Distance: 250, Knockback Duration: 1s.",
+    "search_text": "knockback neutral item, reposition tool, push item, spell immunity piercing knockback, control neutral item, knockback distance, neutral tier item, utility neutral, crowd control neutral, knockback target, Horizon",
+    "tags": [
+      "ITEM_DATA",
+      "HORIZON",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "KNOCKBACK",
+      "CROWD_CONTROL",
+      "UTILITY",
+      "SPELL_IMMUNITY_PIERCE",
+      "POSITIONING"
+    ]
+  }
+]

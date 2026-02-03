@@ -1,0 +1,61 @@
+[
+  {
+    "display_text": "Cost: 1000: Refresher Shard is a consumable that resets the cooldowns of all your items and abilities upon use, sharing a cooldown with Refresher Orb. It provides immediate stat bonuses including health regeneration, mana regeneration, and damage. Its cooldown only progresses while the item is in your main inventory. Stats: CD: 180s, Mana Cost: 200, Charges: 1, Heal Regen: +12, Mana Regen: +6, Damage: +20.",
+    "search_text": "refresher shard, reset cooldowns, item reset, ability reset, consumable refresher, refresher cooldown, refresh abilities, refresh items, double ult, cooldown reset item, shard refresher, cooldown resetter, refresher consumable, late game consumable, refresh, double cast, ultimate reset, ability refresh, item refresh, reset all cooldowns, Refresher Shard",
+    "tags": [
+      "ITEM_DATA",
+      "REFRESHER_SHARD",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "UTILITY",
+      "COOLDOWN_RESET",
+      "REGEN",
+      "SUSTAIN",
+      "DAMAGE",
+      "SHARABLE"
+    ]
+  },
+  {
+    "display_text": "Cost: 1000: Stat bonuses include significant passive health regeneration and a moderate boost to mana regeneration, aiding sustain alongside a notable +20 damage bonus. This makes it a useful stat stick even before the active is used. Stats: Heal Regen: +12, Mana Regen: +6, Damage: +20.",
+    "search_text": "refresher shard stats, health regen item, mana regen item, damage item, stat stick, sustain item, passive regen, item stats, stats consumable, Refresher Shard",
+    "tags": [
+      "ITEM_DATA",
+      "REFRESHER_SHARD",
+      "STAT_PROFILE",
+      "CONSUMABLE",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "MANA_REGEN",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Cost: 1000: The Refresher Shard's primary function is a single, high-impact use to reset abilities, effectively allowing for two major ultimate casts in a fight or the back-to-back use of critical actives like BKB or Satanic. It is a game-changing tool in late-game, high-stakes engagements. Stats: CD: 180s, Mana Cost: 200.",
+    "search_text": "team fight consumable, ultimate reset, double ultimate, late game power spike, fight swing, high impact consumable, clutch reset, game winning item, double bkb, double satanic, double hex, team fight refresher, Refresher Shard",
+    "tags": [
+      "ITEM_DATA",
+      "REFRESHER_SHARD",
+      "TEAMFIGHT_ROLE",
+      "CONSUMABLE",
+      "UTILITY",
+      "HIGH_IMPACT",
+      "LATE_GAME",
+      "POWER_SPIKE"
+    ]
+  },
+  {
+    "display_text": "Cost: 1000: An essential late-game purchase for heroes with long cooldown, high-impact ultimates (e.g., Enigma, Tidehunter, Faceless Void) or those reliant on powerful active items. It is shareable, allowing a support to grant it to a core hero. It shares a cooldown with Refresher Orb, making them mutually exclusive. Stats: CD: 180s, Charges: 1.",
+    "search_text": "refresher shard hero, enigma refresher, tidehunter refresher, faceless void refresher, share refresher, support refresher, refresher synergy, ultimate hero item, refresher orb alternative, refresher alternative, hero synergy, Refresher Shard",
+    "tags": [
+      "ITEM_DATA",
+      "REFRESHER_SHARD",
+      "SYNERGY_BUILD",
+      "CONSUMABLE",
+      "UTILITY",
+      "ULTIMATE_HEROES",
+      "SHARABLE",
+      "LATE_GAME"
+    ]
+  }
+]

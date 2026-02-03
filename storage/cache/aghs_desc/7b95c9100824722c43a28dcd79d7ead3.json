@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Nature's Prophet Aghanim's Scepter: Wrath of Nature entangles all enemies it hits, scaling from 1.5s to 3.0s at max bounce. This upgrade counters mobility and escape mechanics, providing strong AoE control and disrupting enemy repositioning.",
+    "search_text": "Nature's Prophet Aghanim Scepter counter-mobility anti-escape AoE control entanglement",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Nature's Prophet",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Nature's Prophet Aghanim's Shard: Curse of the Oldgrowth applies a curse on all enemy heroes within 900 range, revealing them in fog, slowing them, and dealing damage over time based on nearby trees. This counters fog-of-war reliance and jungle mobility, forcing enemies out of tree-heavy areas.",
+    "search_text": "Nature's Prophet Aghanim Shard anti-fog-of-war jungle mobility tree-reliant curse slow reveal",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Nature's Prophet",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

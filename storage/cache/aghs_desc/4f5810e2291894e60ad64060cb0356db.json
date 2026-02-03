@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Arc Warden Aghanim's Scepter: Flux silences when the target is alone, deals more damage, and lasts longer. This upgrade counters solo heroes and split-pushers by applying a punishing silence and amplified damage, forcing enemies to stay grouped or suffer heavy penalties.",
+    "search_text": "Arc Warden Aghanim Scepter anti-split-push silence isolation counter-disable solo hero punishment",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Arc Warden",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Arc Warden Aghanim's Shard: When Spark Wraith activates, a secondary Spark Wraith fuses to the next closest target, dealing 80% damage. This upgrade counters grouped enemies and teamfight positioning, adding area denial and punishing clumped formations with additional burst damage.",
+    "search_text": "Arc Warden Aghanim Shard anti-grouping area denial teamfight positioning Spark Wraith chain damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Arc Warden",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

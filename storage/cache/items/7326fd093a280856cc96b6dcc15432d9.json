@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Aviana's Feather. Tier 5: Provides +25% evasion and +30 movement speed. When the equipped hero falls below 30% HP, they gain flying movement. A powerful survival tool that grants escape potential at low health. Stats: Evasion: +25%, Movement Speed: +30, Flight HP Threshold: 30%.",
+    "search_text": "avianas feather, tier 5 neutral, evasion neutral, flying movement, escape neutral, low health buff, survival item, move speed neutral, mobility neutral, free pathing, flight item, tier 5, Aviana's Feather",
+    "tags": [
+      "ITEM_DATA",
+      "AVIANAS_FEATHER",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_5",
+      "EVASION",
+      "MOBILITY",
+      "ESCAPE",
+      "SURVIVAL",
+      "UTILITY"
+    ]
+  }
+]

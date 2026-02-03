@@ -1,0 +1,88 @@
+[
+  {
+    "display_text": "Witch Blade, Cost: 2775: Causes your next attack to apply a poison that deals 0.75x intelligence as damage every second and slows the target by 25% for 4 seconds. This attack cannot miss (True Strike). The item provides attack speed, armor, mana regen, and projectile speed. Stats: CD: 9s, True Strike Duration: 4s, Slow: 25%.",
+    "search_text": "witch blade, intelligence damage item, attack poison, true strike item, slow item, intelligence scaling damage, attack modifier, proc item, magic damage on hit, on-hit magic, intelligence attack, DOT attack, Dot damage, on-attack, WITCH BLADE",
+    "tags": [
+      "ITEM_DATA",
+      "WITCH_BLADE",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "TRUE_STRIKE",
+      "SLOW",
+      "MAGICAL_DAMAGE",
+      "ATTACK_MODIFIER",
+      "DOT",
+      "VS_EVASION"
+    ]
+  },
+  {
+    "display_text": "Witch Blade, Cost: 2775: Provides +40 Attack Speed, +12 Intelligence, +5 Armor, +1.5 Mana Regeneration, and +300 Projectile Speed. The Intelligence and Mana Regen help sustain spellcasting, while Attack Speed and Armor improve physical durability and right-click potential.",
+    "search_text": "witch blade stats, attack speed item, intelligence item, armor item, mana regen item, projectile speed, stats breakdown, attribute bonuses, Witch Blade",
+    "tags": [
+      "ITEM_DATA",
+      "WITCH_BLADE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "ATTACK_SPEED",
+      "INTELLIGENCE",
+      "ARMOR",
+      "MANA_REGEN",
+      "PROJECTILE_SPEED"
+    ]
+  },
+  {
+    "display_text": "Witch Blade, Cost: 2775: Functions as a catch and sustained damage tool in team fights. The guaranteed-hit slow makes it reliable for kiting or chasing, while the Intelligence-scaling poison provides significant magical damage over time, pressuring enemy frontliners or high-armor targets.",
+    "search_text": "witch blade team fight, catch tool, chase item, kiting item, magic damage over time, DOT team fight, sustained magic damage, utility damage, Witch Blade",
+    "tags": [
+      "ITEM_DATA",
+      "WITCH_BLADE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "CATCH",
+      "SLOW",
+      "DOT",
+      "MAGICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Witch Blade, Cost: 2775: Counters heroes reliant on evasion or mobility. The True Strike passive ensures your damaging slow hits through evasion and blind effects, making it a situational counter to heroes like Phantom Assassin or Windranger. The slow also hampers mobile carries.",
+    "search_text": "counter evasion item, blind counter, miss counter, phantom assassin counter, windranger counter, true strike utility, accuracy item, guaranteed slow, versus evasion, versus blind, Witch Blade",
+    "tags": [
+      "ITEM_DATA",
+      "WITCH_BLADE",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_EVASION",
+      "TRUE_STRIKE",
+      "VS_EVASION",
+      "SLOW",
+      "VS_MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Witch Blade, Cost: 2775: Strong synergy for Intelligence heroes who right-click and need to burst or kite. The Intelligence scaling makes it a natural fit for heroes like Silencer, Skywrath Mage, or Nature's Prophet, providing them with both defensive stats and a reliable attack-based disable. Its build-up uses Oblivion Staff.",
+    "search_text": "witch blade synergy, intelligence hero item, right-click int hero, silencer item, skywrath mage item, nature's prophet item, attack speed int hero, carry int item, utility int item, Witch Blade",
+    "tags": [
+      "ITEM_DATA",
+      "WITCH_BLADE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "INTELLIGENCE_HERO",
+      "UTILITY",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Witch Blade, Cost: 2775: The moderate cooldown and mana regeneration support consistent harassment in lane or during sieges. It's not a primary farming tool, but the added attack speed and projectile speed can improve last-hitting and trading efficiency for ranged Intelligence cores.",
+    "search_text": "witch blade laning, harassment item, attack speed for farming, last hit aid, projectile speed item, lane trading, sieging item, mana regen for spam, Witch Blade",
+    "tags": [
+      "ITEM_DATA",
+      "WITCH_BLADE",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "ATTACK_SPEED",
+      "MANA_REGEN",
+      "PROJECTILE_SPEED",
+      "LANING"
+    ]
+  }
+]

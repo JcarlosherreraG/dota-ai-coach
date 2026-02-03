@@ -1,0 +1,52 @@
+[
+  {
+    "display_text": "Demon Edge, Cost: 2200: Provides +40 base damage, a significant raw damage increase. This item is a core component for high-damage carry items like Divine Rapier and Daedalus. Stats: Damage: +40.",
+    "search_text": "damage item, raw damage, component item, high damage, dps item, demon edge, Daedalus component, Divine Rapier component, carry item, Demon Edge, DE",
+    "tags": [
+      "ITEM_DATA",
+      "DEMON_EDGE",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "DAMAGE",
+      "CARRY_ITEM",
+      "COMPONENT",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Demon Edge, Cost: 2200: Provides only +40 Damage. No other stats or attributes are granted. Its value is purely as a damage multiplier for right-click heroes.",
+    "search_text": "demon edge stats, pure damage item, damage component, demon edge stats only damage, Demon Edge",
+    "tags": [
+      "ITEM_DATA",
+      "DEMON_EDGE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Demon Edge, Cost: 2200: Serves as a late-game damage spike purchase, primarily for carries building into final damage items. Its value in team fights is the immediate, multiplicative damage increase to physical attacks. Does not provide utility or survivability.",
+    "search_text": "demon edge team fight, damage spike, late game damage, carry damage, physical damage amp, damage boost, Demon Edge",
+    "tags": [
+      "ITEM_DATA",
+      "DEMON_EDGE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DAMAGE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Demon Edge, Cost: 2200: A key component for building Monkey King Bar against high-evasion heroes or Daedalus for critical strike chance. This component significantly boosts a core hero's ability to threaten objectives and secure kills through increased right-click damage.",
+    "search_text": "demon edge build, monkey king bar component, daedalus component, damage component, carry item build, Demon Edge",
+    "tags": [
+      "ITEM_DATA",
+      "DEMON_EDGE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "DAMAGE",
+      "COMPONENT",
+      "UPGRADE"
+    ]
+  }
+]

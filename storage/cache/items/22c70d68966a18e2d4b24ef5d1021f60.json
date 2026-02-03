@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Unrelenting Eye, Tier 3 Neutral: Provides the Relentless passive, granting 50% slow resistance. This resistance decreases by 10% for each enemy hero within your attack range. A situational defensive tool that is most effective when you are isolated or separated from enemies. Stats: Max Slow Resistance: 50%, Reduction per Enemy Hero: 10%.",
+    "search_text": "slow resistance item, status resistance, tier 3 neutral, neutral item, slow immunity, movement slow counter, reduce slows, slow resist, slow item, Unrelenting Eye, neutral tier 3, defensive neutral, utility neutral",
+    "tags": [
+      "ITEM_DATA",
+      "UNRELENTING_EYE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "UTILITY",
+      "SLOW_RESISTANCE",
+      "STATUS_RESISTANCE",
+      "DEFENSIVE",
+      "SURVIVAL"
+    ]
+  }
+]

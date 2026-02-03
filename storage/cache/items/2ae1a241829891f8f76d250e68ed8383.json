@@ -1,0 +1,75 @@
+[
+  {
+    "display_text": "Disperser, Cost: 6100: Active ability 'Suppress' dispels both the caster and target unit, granting allies bonus movement speed and slow resistance for 5 seconds, while slowing enemy targets for the same duration. The built-in 'Manabreak' passive burns 40 mana from attacked targets and deals 1 physical damage per mana burned. Excellent for controlling and chasing single targets or saving allies. Stats: CD: 15s, Mana Cost: 75, Ally Buff Duration: 5s, Enemy Slow Duration: 5s.",
+    "search_text": "dispel item, purge item, cleanse, remove debuffs, mana burn item, mana break, slow item, movement speed item, slow resistance, chase item, catch item, agility item, Diffusal upgrade, Disperser, gap close, support item, control item, Disperser",
+    "tags": [
+      "ITEM_DATA",
+      "DISPERSER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DISPEL",
+      "CLEANSE",
+      "SLOW",
+      "MANA_BREAK",
+      "PHYSICAL_DAMAGE",
+      "MOBILITY",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Disperser, Cost: 6100: Provides significant agility (+40) and intelligence (+10), making it a strong stat item for agility heroes needing mana pool and damage. The high agility boost translates directly into armor and attack speed. Stats: Agility: +40, Intelligence: +10.",
+    "search_text": "disperser stats, agility item, intelligence item, stat item, Diffusal Blade upgrade stats, agility intelligence, carry stats, Disperser",
+    "tags": [
+      "ITEM_DATA",
+      "DISPERSER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "AGILITY",
+      "INTELLIGENCE",
+      "CARRY_ITEM",
+      "DAMAGE",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Disperser, Cost: 6100: Team fight role focuses on powerful single-target control through mana burn and dispel-enabled chase or save. The active can be used offensively to slow and burn a key enemy's mana or defensively to cleanse and speed up an ally. The self-dispel always provides the beneficial effect.",
+    "search_text": "team fight utility, single target control, catch item, save item, ally cleanse, enemy slow, team fight control, defensive dispel, offensive dispel, Disperser",
+    "tags": [
+      "ITEM_DATA",
+      "DISPERSER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "UTILITY",
+      "CONTROL",
+      "SAVE",
+      "DEFENSIVE",
+      "DEBUFF"
+    ]
+  },
+  {
+    "display_text": "Disperser, Cost: 6100: Synergizes with high attack speed agility heroes who can apply the mana burn rapidly, and with heroes who benefit from self-dispel or need to purge enemy buffs. An excellent upgrade from Diffusal Blade, maintaining the mana burn while adding a powerful dispel active. Stats: Builds from Diffusal Blade and Eaglesong.",
+    "search_text": "mana burn synergy, agility carry item, Diffusal Blade upgrade, self dispel item, hero synergy, attack speed synergy, Diffusal upgrade, Disperser",
+    "tags": [
+      "ITEM_DATA",
+      "DISPERSER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "UPGRADE",
+      "AGILITY_SYNERGY"
+    ]
+  },
+  {
+    "display_text": "Disperser, Cost: 6100: Strong situational item against heroes reliant on mana or who are vulnerable to dispels. Counters heroes with key buffs to purge (e.g., Guardian Angel, Bloodlust) and heroes with low mana pools vulnerable to the burn. The self-dispel can also counter enemy roots and slows.",
+    "search_text": "counter mana heroes, purge buffs, dispel counter, anti-buff item, vs mana pool, vs buffs, counter slow, counter root, vs Guardian Angel, Disperser",
+    "tags": [
+      "ITEM_DATA",
+      "DISPERSER",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_BUFFS",
+      "DISPEL",
+      "CLEANSE"
+    ]
+  }
+]

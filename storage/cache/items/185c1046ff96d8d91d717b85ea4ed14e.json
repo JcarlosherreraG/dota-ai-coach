@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Flicker, Cost: 0 / Neutral Item: Provides +35 Movement Speed and an active that dispels debuffs and blinks you forward between 200-600 range. If cast within 3 seconds of receiving player damage, it blinks in place instead of forward. This makes it a reliable, albeit random-range, self-dispel escape tool that can be used even while taking damage. Stats: CD: 5s, MS Bonus: +35.",
+    "search_text": "blink item, escape item, dispel item, self cleanse, purge debuff, reposition, mobility neutral, movement speed neutral, random blink, defensive neutral, survival item, reposition tool, fae trickster, Flicker",
+    "tags": [
+      "ITEM_DATA",
+      "FLICKER",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "UTILITY",
+      "MOBILITY",
+      "ESCAPE",
+      "DISPEL",
+      "SURVIVAL",
+      "DEFENSIVE"
+    ]
+  }
+]

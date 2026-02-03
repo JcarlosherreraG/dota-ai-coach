@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Vampire Fangs, Tier 2: Neutral item providing lifesteal bonuses for both attacks and spells. Grants +12/16/20% Lifesteal and +8/12/16% Spell Lifesteal based on the time of day (night/day/night-and-day). Provides sustain through both physical attacks and spell damage. Stats: Attack Lifesteal: 12%/16%/20%, Spell Lifesteal: 8%/12%/16%.",
+    "search_text": "vampire fangs, tier 2 neutral, lifesteal neutral, spell lifesteal, attack lifesteal, sustain neutral, day night bonus, neutral lifesteal, sustain item, hp sustain, mana sustain, neutral sustain, Vampire Fangs",
+    "tags": [
+      "ITEM_DATA",
+      "VAMPIRE_FANGS",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_2",
+      "LIFESTEAL",
+      "SPELL_LIFESTEAL",
+      "SUSTAIN",
+      "REGEN"
+    ]
+  }
+]

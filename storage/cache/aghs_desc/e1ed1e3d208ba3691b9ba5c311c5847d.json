@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Skywrath Mage Aghanim's Scepter: Creates an additional Mystic Flare on a random nearby enemy within 500 range of the original target. This upgrade counters AoE healing or damage mitigation by applying double burst damage in a clustered fight, forcing enemies to spread out or suffer massive magical damage.",
+    "search_text": "Skywrath Mage Aghanim Scepter AOE burst damage counter-mitigation spread-out strategic damage upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Skywrath Mage",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Skywrath Mage Aghanim's Shard: Fires two additional Arcane Bolts at random enemies near the original target, prioritizing heroes. This upgrade counters hero-focused sustain or evasion mechanics by ensuring consistent magical damage output even against elusive or healing-heavy targets.",
+    "search_text": "Skywrath Mage Aghanim Shard counter-heal counter-evasion hero-focused magical damage upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Skywrath Mage",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

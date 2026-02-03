@@ -1,0 +1,53 @@
+[
+  {
+    "display_text": "Boots of Speed, Cost: 500: Basic movement speed item providing +45 movement speed. Movement speed bonuses from multiple sources of boots do not stack. Essential early purchase for all heroes to improve map mobility and positioning. Provides no other stats or abilities. Stats: MS: +45.",
+    "search_text": "boots of speed, boots, movement speed item, early boots, mobility, speed, +45 ms, movement boots, basic boots, brown boots, lane mobility, positioning, early game mobility, Boots of Speed",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_SPEED",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MOBILITY",
+      "POSITIONING",
+      "EARLY_GAME_ITEM",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Boots of Speed, Cost: 500: Provides +45 flat movement speed. No attributes, damage, or other combat stats. Pure mobility upgrade.",
+    "search_text": "boots stats, movement speed, no attributes, pure mobility, stats, +45 ms, Boots of Speed",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_SPEED",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Boots of Speed, Cost: 500: Foundational mobility item enabling faster rotations, better laning positioning, and improved chase/escape capabilities in early skirmishes. Primary purpose is to establish baseline movement speed advantage.",
+    "search_text": "boots team fight, rotation speed, positioning, chase, escape, early fights, mobility advantage, map movement, Boots of Speed",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_SPEED",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "MOBILITY",
+      "POSITIONING",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Boots of Speed, Cost: 500: Synergizes with all heroes as a mandatory early purchase. Upgrades into advanced boots (Power Treads, Phase Boots, etc.) which provide additional stats and abilities. Timing is crucial, typically purchased between 1-5 minutes for core heroes.",
+    "search_text": "boots upgrade, boots components, power treads upgrade, phase boots upgrade, early timing, core timing, mandatory item, starting upgrade, Boots of Speed",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_SPEED",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "CORE_ITEM",
+      "EARLY_GAME_ITEM"
+    ]
+  }
+]

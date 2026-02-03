@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Witch Doctor Aghanim's Scepter: Death Ward attacks bounce between nearby enemies. This upgrade counters clustered enemy formations by amplifying damage output against grouped targets, turning Witch Doctor into a teamfight powerhouse that punishes poor positioning.",
+    "search_text": "Witch Doctor Aghanim Scepter Death Ward bounce teamfight anti-cluster anti-grouping damage amplification",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Witch Doctor",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Witch Doctor Aghanim's Shard: Voodoo Switcheroo turns Witch Doctor into a Death Ward briefly while hidden. This upgrade counters direct targeting and burst damage, allowing Witch Doctor to reposition safely or continue dealing damage while evading enemy focus.",
+    "search_text": "Witch Doctor Aghanim Shard Voodoo Switcheroo anti-targeting anti-burst reposition evasion hidden damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Witch Doctor",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

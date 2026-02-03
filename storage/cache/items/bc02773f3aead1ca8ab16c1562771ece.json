@@ -1,0 +1,21 @@
+[
+  {
+    "display_text": "Ash Legion Shield. Tier 1 Neutral Item: Activate to reduce your own movement speed by 12% and grant a 140 physical damage barrier to all friendly player-controlled units within an 800 radius for 6 seconds. This provides a strong defensive tool for team pushes or protecting a group of summons from physical damage, but comes at the cost of personal mobility. Stats: CD: 40s, Barrier: 140, Radius: 800, Duration: 6s, Slow: 12%.",
+    "search_text": "team shield item, physical barrier, defensive neutral, team buff, protect summons, aura shield, physical damage block, team fight protection, save allies, Ash Legion Shield, ash shield, legion shield, shield wall",
+    "tags": [
+      "ITEM_DATA",
+      "ASH_LEGION_SHIELD",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "DEFENSIVE",
+      "SAVE",
+      "TEAM_BUFF",
+      "AURA",
+      "UTILITY",
+      "PHYSICAL_DAMAGE_BLOCK",
+      "VS_PHYSICAL",
+      "SELF_SLOW"
+    ]
+  }
+]

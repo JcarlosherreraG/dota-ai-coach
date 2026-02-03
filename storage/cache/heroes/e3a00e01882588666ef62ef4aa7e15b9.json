@@ -1,0 +1,175 @@
+[
+  {
+    "display_text": "Phantom Lancer is a melee agility hero with a base attack time of 1.7. He has balanced base attributes of 21 Strength, 26 Agility, and 21 Intelligence, giving him solid starting damage and armor from his high agility. As a melee hero, he must close the gap to farm and fight.",
+    "search_text": "Phantom Lancer stats melee agility hero base attack time 1.7 strength 21 agility 26 intelligence 21",
+    "tags": [
+      "PHANTOM_LANCER",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Phantom Lancer has four Facets. Convergence (Doppelganger spawns more illusions based on missing health) emphasizes survivability and creating chaos in the middle of a fight. Divergence (Juxtapose Illusions spawn randomly and deal more damage but are uncontrollable) is for high-risk, high-reward area damage and split-pushing pressure. Lancelot (Illusions' Spirit Lances deal extra damage) enhances single-target burst. Fractured is a non-functional Facet.",
+    "search_text": "Phantom Lancer Facets Convergence Divergence Lancelot Fractured Doppelganger missing health Juxtapose uncontrollable illusions Spirit Lance illusion damage",
+    "tags": [
+      "PHANTOM_LANCER",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Spirit Lance (10/9/8/7 sec cooldown, 100/160/220/280 magic damage, 3.75s slow) for safe harassment and last hitting. Its 675 range and 1000 speed make it reliable. Early points in Phantom Rush (15/11/7/3 sec cooldown, 20/30/40/50% evasion) provide trading power and chase potential. Use Doppelganger (22/18/14/10 sec cooldown) to disjoint enemy projectiles and dispel debuffs. Focus on farming your core items with your good base damage.",
+    "search_text": "Phantom Lancer laning phase Spirit Lance harass slow 100 160 220 280 damage Phantom Rush evasion 20 30 40 50 Doppelganger dispel disjoint farm",
+    "tags": [
+      "PHANTOM_LANCER",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Key power spikes: Level 6 unlocks Juxtapose, enabling jungle farming and skirmishes. Level 12 with maxed Phantom Rush and a Diffusal Blade is a major fighting spike. Level 18 with max Juxtapose and talents like +100 Spirit Lance Damage significantly increases burst. Level 20 talent -4s Doppelganger Cooldown drastically improves survivability and mobility. Key item timings are Diffusal Blade (early-mid game), Manta Style (illusion generation), and Heart of Tarrasque (tankiness).",
+    "search_text": "Phantom Lancer power spikes level 6 Juxtapose level 12 max Phantom Rush Diffusal Blade level 18 level 20 talent Doppelganger cooldown Manta Style Heart",
+    "tags": [
+      "PHANTOM_LANCER",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Phantom Lancer is hard countered by heroes with strong AoE and clear. Earthshaker, Legion Commander, and Sven destroy illusions with their abilities. Heroes with Break (e.g., Shadow Demon, Viper) disable his Juxtapose and Phantom Rush passives, removing his evasion and illusion generation. Instant disables like Hex prevent him from using Doppelganger to escape.",
+    "search_text": "Phantom Lancer counters Earthshaker Legion Commander Sven AoE clear Break Shadow Demon Viper disable Juxtapose Phantom Rush hex Doppelganger",
+    "tags": [
+      "PHANTOM_LANCER",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "The core build for Phantom Lancer is absolutely Diffusal Blade and Manta Style. Diffusal Blade provides agility, mana burn that works on illusions, and a slow. Manta Style creates two strong, controllable illusions that benefit from all his passives, and dispels debuffs. A third essential late-game item is Heart of Tarrasque, granting immense health and regeneration to keep his illusion army alive.",
+    "search_text": "Phantom Lancer core build Diffusal Blade Manta Style Heart of Tarrasque mana burn illusions dispel health regeneration",
+    "tags": [
+      "PHANTOM_LANCER",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Phantom Lancer's role is to create chaos and overwhelm the enemy with illusions. He uses Doppelganger to reposition and dodge key spells. He focuses a key target with Phantom Rush and Spirit Lance, while his Juxtapose illusions automatically spawn and attack nearby enemies. His goal is to drain enemy mana with Diffusal, soak spells with his illusions, and clean up fights once major AoE cooldowns are used.",
+    "search_text": "Phantom Lancer teamfight role chaos illusions Doppelganger reposition dodge Phantom Rush Spirit Lance focus target Juxtapose spawn illusions Diffusal Blade mana drain soak spells",
+    "tags": [
+      "PHANTOM_LANCER",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Spirit Lance (Q) sends a lance to an enemy, dealing 100/160/220/280 magic damage and slowing their movement speed by 14/21/28/35% for 3.75 seconds. It also summons an illusion that lasts 3.5/5.0/6.5/8.0 seconds to attack the target. The illusion deals 300% incoming damage and takes 85% reduced outgoing damage. Cooldown is 10/9/8/7 seconds. Illusions within 675 range will mimic the cast animation.",
+    "search_text": "Spirit Lance Q damage 100 160 220 280 slow 14 21 28 35 duration 3.75 illusion summon 3.5 5.0 6.5 8.0 seconds cooldown 10 9 8 7",
+    "tags": [
+      "PHANTOM_LANCER",
+      "ABILITY_DATA",
+      "SPIRIT_LANCE"
+    ]
+  },
+  {
+    "display_text": "Doppelganger (W) makes Phantom Lancer vanish for 1 second, then reappear at a targeted location within 575 range. Upon reappearing, he and any nearby illusions are moved, and two extra doppelgangers are created. All illusions have their duration extended by 2 seconds. One doppelganger takes normal damage and deals none. The other takes 500% bonus damage and deals 80 less damage. The ability dispels debuffs and has a 22/18/14/10 second cooldown.",
+    "search_text": "Doppelganger W vanish 1 second reposition 575 range dispel basic dispel two extra illusions extended duration 2 seconds one takes normal damage one takes 500 damage cooldown 22 18 14 10",
+    "tags": [
+      "PHANTOM_LANCER",
+      "ABILITY_DATA",
+      "DOPPELGANGER"
+    ]
+  },
+  {
+    "display_text": "Phantom Rush (E) is a passive. When targeting an enemy to attack, Phantom Lancer charges toward them from a distance between 275 and 600/675/750/825 units away, gaining 800 movement speed and 20/30/40/50% evasion. The evasion lasts for the duration of the rush. Cooldown is 15/11/7/3 seconds. His illusions also have this ability.",
+    "search_text": "Phantom Rush E passive charge attack 275 600 675 750 825 range movement speed 800 evasion 20 30 40 50 cooldown 15 11 7 3 illusions have it",
+    "tags": [
+      "PHANTOM_LANCER",
+      "ABILITY_DATA",
+      "PHANTOM_RUSH"
+    ]
+  },
+  {
+    "display_text": "Illusory Armaments (Passive) is an innate ability. Whenever an illusion of Phantom Lancer is created, its outgoing damage cannot go below a fixed value of 18 for 3 seconds. This ensures new illusions always deal a minimum amount of damage.",
+    "search_text": "Illusory Armaments passive illusion created minimum outgoing damage 18 duration 3 seconds",
+    "tags": [
+      "PHANTOM_LANCER",
+      "ABILITY_DATA",
+      "ILLUSORY_ARMAMENTS"
+    ]
+  },
+  {
+    "display_text": "Juxtapose (Ultimate, R) is a passive. Phantom Lancer has a 40/45/50% chance on attack to create an illusion. Illusions created from Phantom Lancer last 8 seconds, while illusions created from other illusions last 4 seconds. Illusions from Juxtapose deal 500% incoming damage and take 85% reduced outgoing damage. The maximum number of illusions is 6/8/10. Illusions also have a 9% chance to create further illusions.",
+    "search_text": "Juxtapose R ultimate passive attack proc chance 40 45 50 create illusion duration 8 4 seconds max illusions 6 8 10 illusion damage 500 incoming 85 reduced outgoing",
+    "tags": [
+      "PHANTOM_LANCER",
+      "ABILITY_DATA",
+      "JUXTAPOSE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus High Armor and Evasion. Heroes like Phantom Assassin or Troll Warlord can be problematic. Build a Monkey King Bar to deal with evasion and provide reliable physical damage. Consider a Silver Edge to break passives like Blur or Berserker's Rage and to gank. Your illusions benefit from the MKB's magic damage procs.",
+    "search_text": "Phantom Lancer vs high armor evasion Monkey King Bar MKB Silver Edge break passives illusions magic damage proc",
+    "tags": [
+      "PHANTOM_LANCER",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When your team is losing, focus on split-pushing with your illusions. Use the Divergence Facet to create uncontrollable illusions that pressure lanes automatically. Itemize for survivability like a Skadi or Butterfly to survive ganks. Avoid 5v5 fights until you have key defensive items like Heart or BKB.",
+    "search_text": "Phantom Lancer playing from behind split push Divergence Facet uncontrollable illusions Skadi Butterfly Heart BKB survival",
+    "tags": [
+      "PHANTOM_LANCER",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Heavy Magic Burst. Heroes like Zeus or Lina can clear illusions and kill you quickly. Build a Mage Slayer or Pipe of Insight to reduce incoming magic damage. A Hood of Defiance early can help in lane. Use Doppelganger to dodge key projectiles like Laguna Blade. Consider a BKB to fight through the burst.",
+    "search_text": "Phantom Lancer vs magic burst Mage Slayer Pipe of Insight Hood of Defiance Doppelganger dodge BKB",
+    "tags": [
+      "PHANTOM_LANCER",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Lock Down Mobile Heroes. Against heroes like Storm Spirit or Queen of Pain, your illusions can be kited. Build a Diffusal Blade for the slow and consider a Basher/Abyssal Blade later. Use Spirit Lance to slow from a distance. The Convergence Facet helps create more illusions to body-block and trap the enemy.",
+    "search_text": "Phantom Lancer vs mobile heroes Diffusal Blade slow Basher Abyssal Blade Spirit Lance slow Convergence Facet body block",
+    "tags": [
+      "PHANTOM_LANCER",
+      "SITUATIONAL",
+      "VS_MOBILE_HEROES"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Illusion Clear but Single-Target. Heroes like Medusa or Sniper can clear illusions but are vulnerable to being jumped. Use the Lancelot Facet to boost your illusions' Spirit Lance damage for burst. Build a Blink Dagger or Swift Blink to initiate directly on the backline. A Skadi helps you stick to them.",
+    "search_text": "Phantom Lancer vs single-target clear Lancelot Facet Spirit Lance damage Blink Dagger Swift Blink initiation Skadi slow",
+    "tags": [
+      "PHANTOM_LANCER",
+      "SITUATIONAL",
+      "VS_SINGLE_TARGET"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talent Choice. Left: +1.25s Spirit Lance Slow Duration. This increases the slow from 3.75s to 5s, improving your chase and lockdown. Right: This talent slot data is missing from the provided JSON. Typically, the right talent would be another option. Based on common data, the right talent is often +6 Strength. Choose the slow duration if you need more control; choose the strength for survivability.",
+    "search_text": "Phantom Lancer level 10 talent left +1.25 Spirit Lance slow duration right +6 strength chase lockdown survivability",
+    "tags": [
+      "PHANTOM_LANCER",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talent Choice. Left: +100 Spirit Lance Damage. This significantly increases your burst and farming speed, adding 100 magic damage to Spirit Lance. Right: This talent slot data is missing. Commonly, the right talent is +5% Juxtapose Illusion Damage. Choose the Spirit Lance damage for burst and pick-offs. Choose the illusion damage for sustained fight DPS and pushing.",
+    "search_text": "Phantom Lancer level 15 talent left +100 Spirit Lance damage right +5 Juxtapose illusion damage burst farming sustained DPS",
+    "tags": [
+      "PHANTOM_LANCER",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talent Choice. Left: -4s Doppelganger Cooldown. This reduces the cooldown from a base of 10 seconds (at max level) to 6 seconds, vastly improving your mobility, dispel uptime, and survivability. Right: This talent slot data is missing. The common alternative is +20 Phantom Rush Agility. Choose the cooldown reduction for survivability and playmaking. Choose the agility for higher right-click damage and armor.",
+    "search_text": "Phantom Lancer level 20 talent left -4 Doppelganger cooldown right +20 Phantom Rush agility mobility dispel damage armor",
+    "tags": [
+      "PHANTOM_LANCER",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  }
+]

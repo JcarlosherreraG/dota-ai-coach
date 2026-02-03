@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Faceless Void Aghanim's Scepter: Applies Time Lock to all units at the landing destination of Time Walk. This upgrade counters grouped-up enemy formations by providing AoE control and damage, transforming Void into a powerful initiator and teamfight disruptor.",
+    "search_text": "Faceless Void Aghanim Scepter Time Lock AoE control initiation teamfight disruptor",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Faceless Void",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Faceless Void Aghanim's Shard: Reverse Time Walk allows Void to rewind his position within 1.5 seconds of casting Time Walk. This counters aggressive enemy positioning and lockdown, enabling Void to escape dangerous situations or reposition for better follow-up abilities.",
+    "search_text": "Faceless Void Aghanim Shard Reverse Time Walk escape reposition anti-lockdown",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Faceless Void",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

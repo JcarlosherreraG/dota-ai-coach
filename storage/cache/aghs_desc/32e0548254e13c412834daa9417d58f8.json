@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Tinker Aghanim's Scepter: Upgrades Laser into Shrink Ray, reducing target's size, health, and maximum health. This counters tanky heroes and high-health pool strategies, making it a potent tool against durability-focused lineups.",
+    "search_text": "Tinker Aghanim Scepter counter-tank high-health durability shrink ray laser upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Tinker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Tinker Aghanim's Shard: Grants Warp Flare, teleporting and rooting enemies while reducing their Cast and Attack Range. This counters positioning-dependent heroes and ranged attackers, disrupting their effectiveness in team fights.",
+    "search_text": "Tinker Aghanim Shard counter-positioning range reduction teleport root warp flare",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Tinker",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

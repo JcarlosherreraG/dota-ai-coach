@@ -1,0 +1,184 @@
+[
+  {
+    "display_text": "Night Stalker is a Melee Strength hero with 23 base Strength, 18 base Agility, and 15 base Intelligence. His attack speed is a relatively slow 1.7 attacks per second. This setup gives him a solid health pool and base damage for a melee core.",
+    "search_text": "Night Stalker stats melee strength base 23 18 15 agility intelligence attack rate 1.7 BAT",
+    "tags": [
+      "NIGHT STALKER",
+      "BASE_STATS",
+      "STATS",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Blinding Void enhances Void. Enemies under its effect do not share vision with allies and take damage over time if they are not visible to their own team. Voidbringer increases Void's maximum level. Level 4 Void at night becomes a ground-targeted area effect. Dayswap is a placeholder facet with no defined effect. Blinding Void is a powerful tool for initiating ganks in the fog and punishing lone heroes. Voidbringer is a lategame choice that increases your AoE disable and damage.",
+    "search_text": "Night Stalker Facets Blinding Void vision damage not visible to allies Voidbringer ground target area effect Dayswap no effect",
+    "tags": [
+      "NIGHT STALKER",
+      "FACET_STRATEGY",
+      "BLINDING_VOID",
+      "VOIDBRINGER"
+    ]
+  },
+  {
+    "display_text": "Focus on securing last hits with your base damage in the first few minutes. Use Void to harass and slow enemy laners. Since Crippling Fear has a high mana cost and long cooldown early, use it sparingly, primarily to secure kills or escape. Your passive, Hunter in the Night, provides minimal benefit during the day. Your goal is to survive the lane, get a few levels, and prepare for a major power spike at level 6 when night falls.",
+    "search_text": "Night Stalker laning phase early game first 10 minutes last hit Void harass slow Crippling Fear mana cooldown kill escape Hunter in the Night day weak",
+    "tags": [
+      "NIGHT STALKER",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Level 6 is your first major spike as Dark Ascension creates a long night. Level 7 with maxed Void deals high damage and long slow. Level 12 talent choice enhances either your core ability or ultimate. Aghanim's Shard upgrade is key. Level 18 with maxed Hunter in the Night gives massive night-time speed. Level 20 talent for +40 Crippling Fear DPS or +15 Strength. Level 25 talent for +100 Attack Speed or -40s ultimate cooldown defines your lategame role.",
+    "search_text": "Night Stalker power spikes level 6 Dark Ascension night level 12 talent shard level 18 Hunter in the Night level 20 25 talent",
+    "tags": [
+      "NIGHT STALKER",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Break mechanics disable Hunter in the Night, removing your night-time mobility and attack speed. Heroes with instant disables like Hex prevent your initiation and escape. High mobility heroes can kite you during the day. Heroes that can fight effectively at night or have superior night vision can challenge your dominance.",
+    "search_text": "Night Stalker counters break disable Hunter in the Night passive hex instant disable kite mobility day time night vision",
+    "tags": [
+      "NIGHT STALKER",
+      "HARD_COUNTERS",
+      "BREAK",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Phase Boots or Power Treads for mobility and stats. Echo Sabre is essential for mana regen, extra burst, and attack slow to keep targets in Void. Black King Bar is mandatory to avoid being disabled during fights so you can apply your damage and silence.",
+    "search_text": "Night Stalker core build items Phase Boots Power Treads Echo Sabre mana regen slow Black King Bar BKB",
+    "tags": [
+      "NIGHT STALKER",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Night Stalker's role in teamfights is to initiate or counter-initiate on key backline targets. Use Dark Ascension for flight and vision to find the ideal target. Use Void to slow and damage a core, then use Crippling Fear to silence them and nearby supports. Your high night-time movement speed and attack speed allow you to chase down and eliminate heroes after your initial disruption.",
+    "search_text": "Night Stalker teamfight role initiate counter-initiate backline Dark Ascension flight vision Void slow damage Crippling Fear silence chase",
+    "tags": [
+      "NIGHT STALKER",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "CARRY"
+    ]
+  },
+  {
+    "display_text": "Void: Deals 80/160/240/320/400 magic damage and slows the target's movement and attack speed by 50% for 1.25 seconds. At night, the duration increases to 1.6/2.2/2.8/3.4/4.0 seconds and applies a mini-stun, interrupting channeling abilities. Cooldown is 11/10/9/8 seconds. Does NOT pierce BKB.",
+    "search_text": "Night Stalker Void Q first ability damage 80 160 240 320 400 slow 50% attack speed move duration 1.25 day night 1.6 2.2 2.8 3.4 4 mini-stun interrupt channel cooldown 11 10 9 8",
+    "tags": [
+      "NIGHT STALKER",
+      "ABILITY_DATA",
+      "VOID",
+      "STUN",
+      "SLOW",
+      "NUKER"
+    ]
+  },
+  {
+    "display_text": "Crippling Fear: Creates an aura that silences and deals 25/30/35/40 magic damage per second to all nearby enemies. Duration is 3.0 seconds during the day and 4.5/5.0/5.5/6.0 seconds at night. Radius is 375. Cooldown is 30/25/20/15 seconds. Does NOT pierce BKB.",
+    "search_text": "Night Stalker Crippling Fear W second ability silence dps damage per second 25 30 35 40 aura radius 375 duration 3 day night 4.5 5 5.5 6 cooldown 30 25 20 15",
+    "tags": [
+      "NIGHT STALKER",
+      "ABILITY_DATA",
+      "CRIPPLING_FEAR",
+      "SILENCE",
+      "AURA"
+    ]
+  },
+  {
+    "display_text": "Hunter in the Night: Passive ability. During night, Night Stalker gains 22%/28%/34%/40% bonus movement speed and 20/40/60/80 bonus attack speed. At level 4, the bonus is 40% movement speed and 80 attack speed. This ability does not provide any bonuses during the day.",
+    "search_text": "Night Stalker Hunter in the Night E third ability passive night time bonus movement speed 22 28 34 40 percent attack speed 20 40 60 80",
+    "tags": [
+      "NIGHT STALKER",
+      "ABILITY_DATA",
+      "HUNTER_IN_THE_NIGHT",
+      "PASSIVE",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Dark Ascension: Night Stalker smothers the sun, creating an extended night for 30 seconds. He gains flying movement, unobstructed vision, and 50/100/150 bonus damage on attacks. Cooldown is 140/135/130 seconds.",
+    "search_text": "Night Stalker Dark Ascension R ultimate ability creates night duration 30 seconds flying movement unobstructed vision bonus damage 50 100 150 cooldown 140 135 130",
+    "tags": [
+      "NIGHT_STALKER",
+      "ABILITY_DATA",
+      "DARK_ASCENSION",
+      "ULTIMATE",
+      "FLYING",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "When playing from behind and unable to initiate fights, focus on split-pushing during the night with your high mobility. Use your ultimate, Dark Ascension, defensively to gain vision and escape from ganks or to secure an area for your team to farm.",
+    "search_text": "Night Stalker scenario behind losing split push night mobility Dark Ascension defensive vision escape farm",
+    "tags": [
+      "NIGHT STALKER",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "SPLIT_PUSH"
+    ]
+  },
+  {
+    "display_text": "Against high armor or evasion heroes, prioritize itemization that negates their defenses. Items like Assault Cuirass for armor reduction and Monkey King Bar for true strike are critical. Your physical damage output with Hunter in the Night relies on hitting your targets.",
+    "search_text": "Night Stalker scenario versus high armor evasion Assault Cuirass Monkey King Bar MKB physical damage Hunter in the Night",
+    "tags": [
+      "NIGHT STALKER",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR",
+      "VS_EVASION"
+    ]
+  },
+  {
+    "display_text": "When your team is ahead, use Dark Ascension aggressively to extend night time and take objectives. Your night-time dominance allows you to dive towers, secure Roshan, and control the entire map, choking out the enemy's farm.",
+    "search_text": "Night Stalker scenario ahead snowball Dark Ascension aggressive night objectives Roshan map control",
+    "tags": [
+      "NIGHT STALKER",
+      "SITUATIONAL",
+      "AHEAD",
+      "SNOWBALL"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Choose between -1 second Void Cooldown or +5 seconds Dark Ascension Duration. The Void cooldown reduction is better for consistent ganking and lockdown, while the ultimate duration is better for extended teamfights and objective pushes.",
+    "search_text": "Night Stalker talent level 10 left -1s Void cooldown right +5s Dark Ascension duration ganking lockdown teamfight push",
+    "tags": [
+      "NIGHT STALKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Choose between +25 Dark Ascension Damage or +20% Hunter in the Night Status Resistance. The damage talent increases your right-click threat during your ultimate. The status resistance talent makes you significantly harder to control during night-time engagements, a key defensive option.",
+    "search_text": "Night Stalker talent level 15 left +25 Dark Ascension damage right +20% Hunter in the Night status resistance right-click tank control",
+    "tags": [
+      "NIGHT STALKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Choose between +40 Crippling Fear DPS or +15 Strength. The DPS talent significantly increases the damage output of your area silence, making it a potent anti-caster tool. The Strength talent provides 285 health and some damage, making you tankier.",
+    "search_text": "Night Stalker talent level 20 left +40 Crippling Fear DPS damage right +15 Strength health tank",
+    "tags": [
+      "NIGHT STALKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Choose between +100 Hunter In The Night Attack Speed or -40s Dark Ascension Cooldown. The attack speed talent turns you into an ultra-fast right-click monster during any night. The cooldown reduction brings your ultimate down to a ~90-second cooldown, allowing you to have near-constant night-time dominance.",
+    "search_text": "Night Stalker talent level 25 left +100 Hunter in the Night attack speed right -40s Dark Ascension cooldown carry fighter uptime",
+    "tags": [
+      "NIGHT STALKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

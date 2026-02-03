@@ -1,0 +1,71 @@
+[
+  {
+    "display_text": "Falcon Blade, Cost: 1125: Early-game stat item that provides balanced attributes for spellcasting carries and cores. Its primary value lies in cost-efficient health, damage, and mana sustain, making it ideal for heroes who need to stay active in lane and jungle while building toward bigger items. Stats: +14 Damage, +200 Health, +1.8 Mana Regeneration.",
+    "search_text": "falcon blade, early game item, cost efficient stats, mana regen item, health damage item, starting stats, laning sustain, core item, farming sustain, mana regeneration, damage health, early carry item, balanced stats, cheap stats, Falcon Blade",
+    "tags": [
+      "ITEM_DATA",
+      "FALCON_BLADE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "STAT_ITEM",
+      "HEALTH",
+      "MANA_REGEN",
+      "DAMAGE",
+      "SUSTAIN",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Falcon Blade, Cost: 1125: Provides a modest mix of survivability and damage output for its cost. The flat health and mana regeneration allow heroes to spam spells and withstand harassment in lane without needing multiple small regen items. Stats: +200 Health, +14 Damage, +1.8 Mana Regeneration.",
+    "search_text": "falcon blade stats, health mana regen damage, stats breakdown, attribute item, early stat item, cheap health, cheap mana regen, cheap damage, Falcon Blade",
+    "tags": [
+      "ITEM_DATA",
+      "FALCON_BLADE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "MANA_REGEN",
+      "DAMAGE",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Falcon Blade, Cost: 1125: Its teamfight role is providing early survivability and mana sustain to cores, allowing them to participate in skirmishes without being burst down and having enough mana to cast multiple spell rotations. It offers no active abilities, serving as a pure stat and sustain item for prolonged engagements.",
+    "search_text": "falcon blade teamfight, early game sustain, laning item, skirmish sustain, mana for fights, health for fights, survive burst, spell spam, Falcon Blade",
+    "tags": [
+      "ITEM_DATA",
+      "FALCON_BLADE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SUSTAIN",
+      "SURVIVAL",
+      "STAT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Falcon Blade, Cost: 1125: Core early pickup for agility and intelligence heroes who rely on spell damage and have high attack damage scaling, such as Morphling or Medusa. It bridges the gap between starting items and major farming items, providing the stats needed to accelerate farm without delaying core item timings.",
+    "search_text": "falcon blade morphling, falcon blade medusa, carry item, intelligence carry, agility carry, spell damage carry, farming acceleration, efficient stats, cheap core item, Falcon Blade",
+    "tags": [
+      "ITEM_DATA",
+      "FALCON_BLADE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "FARMING",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Falcon Blade, Cost: 1125: Provides farming utility by sustaining mana for wave-clearing spells and providing enough health to tank jungle camp damage, allowing for more efficient jungle rotations between waves. It accelerates farm by reducing downtime spent returning to base for regen.",
+    "search_text": "falcon blade farming, jungle sustain, mana for farming, farming item, wave clear sustain, reduce downtime, efficient jungle, Falcon Blade",
+    "tags": [
+      "ITEM_DATA",
+      "FALCON_BLADE",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "SUSTAIN",
+      "MANA_REGEN"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "display_text": "Ring of Health, Cost: 700: Provides +4.5 Health Regeneration as a passive aura. A pure sustain item with no active ability, primarily purchased as a component for more advanced defensive items or to significantly improve lane staying power for heroes that need constant health recovery. Stats: Health Regen: +4.5.",
+    "search_text": "health regeneration item, sustain item, lane regen, component item, health sustain, passive regen, ring of health, RoH, hp regen, survival item, survivability, defensive component, laning item, regen item",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_HEALTH",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "DEFENSIVE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Ring of Health, Cost: 700: Provides no direct combat stats such as damage, attack speed, or primary attributes. Its entire value comes from the significant passive health regeneration, offering pure survivability and lane sustainability.",
+    "search_text": "ring of health stats, hp regen stats, sustain stats, no damage item, regen only, pure sustain, component stats, Ring of Health",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_HEALTH",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH"
+    ]
+  },
+  {
+    "display_text": "Ring of Health, Cost: 700: Role is to provide continuous, out-of-combat healing, allowing heroes to stay on the map longer, farm more safely, and shrug off harassment. It indirectly contributes to team fights by ensuring heroes enter engagements at full health after skirmishes. Its value is sustained presence over burst impact.",
+    "search_text": "lane sustain item, map presence, farm sustain, harassment counter, health recovery, out of combat heal, stay in lane, farming sustain, defensive sustain, Ring of Health",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_HEALTH",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SUSTAIN",
+      "REGEN",
+      "SURVIVAL",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Ring of Health, Cost: 700: Synergizes with heroes who have high damage output or utility but lack inherent health regeneration, enabling them to farm aggressively and stay in lane against harass. A core early component for tanky initiators or carries building into Vanguard or Heart of Tarrasque for maximum survivability.",
+    "search_text": "lane regen component, early sustain, vanguard component, heart component, tank item build, initiator sustain, carry sustain, farming item component, Ring of Health",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_HEALTH",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "COMPONENT",
+      "SUSTAIN",
+      "DEFENSIVE",
+      "UPGRADE"
+    ]
+  }
+]

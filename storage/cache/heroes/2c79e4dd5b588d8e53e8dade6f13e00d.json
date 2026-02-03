@@ -1,0 +1,179 @@
+[
+  {
+    "display_text": "Mirana is a Ranged Agility hero with 20 base Strength, 26 base Agility, and 22 base Intelligence. This gives her decent starting health and very good starting armor, but she has a relatively slow base attack time of 1.7 seconds. Her attack type is Ranged.",
+    "search_text": "Mirana stats Ranged Agility hero base Strength 20 base Agility 26 base Intelligence 22 armor attack time 1.7",
+    "tags": [
+      "MIRANA",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet Choice: Moonlight Shadow enhances Mirana's existing ultimate, making her team better at initiating and escaping with a lower fade delay (1.5s at max level). Solar Flare replaces the invisibility with a powerful damage and attack speed buff for her team over time, turning Moonlight Shadow into an aggressive teamfight aura. Starstruck makes Starstorm's second meteor significantly more impactful by blinding enemies, which is excellent against right-click carries. Leaps and Bounds adds a root on landing, giving Leap utility for lockdown and chasing. Pick Moonlight Shadow for a classic, utility-based playstyle. Pick Solar Flare if your team wants to stand and fight. Pick Starstruck to counter physical damage heroes. Pick Leaps and Bounds if your team needs more control.",
+    "search_text": "Mirana Facet Moonlight Shadow Solar Flare Starstruck Leaps and Bounds root blind teamfight initiation utility damage",
+    "tags": [
+      "MIRANA",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Laning Phase: Prioritize Sacred Arrow to secure last hits on ranged creeps and potentially harass or kill the enemy. Your high base Agility gives good damage and armor for trading. Use Leap primarily as an escape from ganks or to reposition. Coordinate with supports for long-range Arrow setups from the fog. Avoid using Starstorm early unless you can guarantee the double hit for maximum damage, as its mana cost is high relative to your early mana pool. Focus on securing farm and maintaining lane equilibrium.",
+    "search_text": "Mirana laning Sacred Arrow last hit harass Leap escape Starstorm mana cost early game",
+    "tags": [
+      "MIRANA",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 provides team-wide invisibility for ganks and saves. Level 12 with a key item like Dragon Lance or Maelstrom significantly increases your farming and fighting potential. Level 18 gives a stronger ultimate. The Level 20 talent (+35 Base Damage) is a massive damage spike. Level 25 talents are game-changing: Multishot Arrows for area control or a drastically reduced Moonlight Shadow cooldown for constant map pressure. Aghanim's Scepter is a major timing, allowing Sacred Arrow to proc Starstorm.",
+    "search_text": "Mirana power spikes level 6 ultimate level 12 item Dragon Lance Maelstrom level 20 talent base damage level 25 talent multishot arrows cooldown Aghanim's Scepter",
+    "tags": [
+      "MIRANA",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: Heroes with instant, point-and-click disables (e.g., Lion, Shadow Shaman) can lock you down before you can Leap away. High burst magic damage can kill you through Leap's speed buff. True Sight and reveal abilities (e.g., Slardar's Amplify Damage, Bloodseeker's Thirst) completely negate the defensive value of Moonlight Shadow. Silence prevents the use of Leap and Moonlight Shadow for escape. Break disables Selemene's Faithful, reducing your Lotus healing.",
+    "search_text": "Mirana counters instant disable point and click stun hex silence burst magic damage true sight reveal break Selemene's Faithful",
+    "tags": [
+      "MIRANA",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: Dragon Lance is essential for increasing Sacred Arrow and Starstorm range, and providing good stats. Maelstrom/Mjollnir is the premier farming and wave-clear item, synergizing with your high attack speed from Leap. Boots of Travel are crucial in the mid to late game to split-push and join fights with Moonlight Shadow.",
+    "search_text": "Mirana core items Dragon Lance range stats Maelstrom Mjollnir farming wave clear attack speed Leap Boots of Travel split push",
+    "tags": [
+      "MIRANA",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Initiator and Backline Damage Dealer. Start fights by landing a long-range Sacred Arrow on a key target. Use Moonlight Shadow to position your team. In the fight, stay at the edge, using Leap to reposition and maintain your attack speed buff. Cast Starstorm on clumped enemies. Your job is to provide long-range disables with Arrow, area magic damage with Starstorm, and sustained physical damage with your right-clicks.",
+    "search_text": "Mirana teamfight initiator backline damage dealer Sacred Arrow stun Moonlight Shadow positioning Leap reposition Starstorm area damage right-click",
+    "tags": [
+      "MIRANA",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Starstorm (Q). Calls down a wave of meteors to damage nearby enemy units in a 675 radius for 75/150/225/300 magic damage. The closest enemy unit to Mirana within that radius will be struck a second time for 70% of the damage (52.5/105/157.5/210). Cooldown is 12 seconds at all levels. Does NOT pierce BKB. Notes: Starstorm is not blocked by Linken's Sphere. It cannot hit invisible units. The second meteor will choose a new target if the first one dies before impact.",
+    "search_text": "Starstorm Q Mirana ability meteor damage 75 150 225 300 radius 675 secondary hit 70% cooldown 12 magic damage",
+    "tags": [
+      "MIRANA",
+      "ABILITY_DATA",
+      "STARSTORM"
+    ]
+  },
+  {
+    "display_text": "Ability: Sacred Arrow (W). Fires a long-range arrow that stuns and damages the first enemy unit it strikes. Arrow range is 3000, speed is 900, and width is 115. Stun duration scales from 0.01 to 2.6/3.4/4.2/5.0 seconds, and bonus damage scales up to 180, based on distance traveled (max at 1500 range). Instantly kills the first non-ancient creep it hits. Cooldown is 19/18/17/16 seconds. Pierces BKB? The data does not contain a pierce_immunity flag. Notes: For every 150 distance, stun increases by 0.5s and bonus damage by 14. Can hit invisible units.",
+    "search_text": "Sacred Arrow W Mirana ability long range stun 0.01 to 5.0 seconds damage up to 180 bonus range 3000 speed 900 creep kill cooldown 19 18 17 16",
+    "tags": [
+      "MIRANA",
+      "ABILITY_DATA",
+      "SACRED_ARROW"
+    ]
+  },
+  {
+    "display_text": "Ability: Leap (E). Mirana leaps forward 650 units. Upon landing, she gains 6/12/18/24 bonus movement speed and 25/50/75/100 bonus attack speed for 5 seconds. Cooldown is not explicitly listed in the provided attributes. Does NOT pierce BKB.",
+    "search_text": "Leap E Mirana ability jump 650 distance movement speed 6 12 18 24 attack speed 25 50 75 100 duration 5 seconds",
+    "tags": [
+      "MIRANA",
+      "ABILITY_DATA",
+      "LEAP"
+    ]
+  },
+  {
+    "display_text": "Ability: Selemene's Faithful (Innate Passive). Healing Lotuses are 50% more effective on Mirana and her allies.",
+    "search_text": "Selemene's Faithful passive innate Mirana Healing Lotus 50% more effective",
+    "tags": [
+      "MIRANA",
+      "ABILITY_DATA",
+      "SELEMENES_FAITHFUL"
+    ]
+  },
+  {
+    "display_text": "Ability: Moonlight Shadow (R). Turns Mirana and all allied heroes invisible and grants 9/12/15 bonus movement speed for 18 seconds. Mirana gains 9%/12%/15% bonus outgoing damage during the duration. Fade delay is 2.5/2.0/1.5 seconds. If a hero is revealed, invisibility will restore after the fade delay if the duration remains. Cooldown is 120/110/100 seconds. Does NOT pierce BKB. Notes: Units affected will not auto-attack enemies.",
+    "search_text": "Moonlight Shadow R Mirana ultimate invisibility all allies movement speed 9 12 15 damage bonus 9% 12% 15% duration 18 fade delay 2.5 2.0 1.5 cooldown 120 110 100",
+    "tags": [
+      "MIRANA",
+      "ABILITY_DATA",
+      "MOONLIGHT_SHADOW"
+    ]
+  },
+  {
+    "display_text": "Situation: Versus High Magic Burst. You are extremely vulnerable to being instantly killed before you can react. Itemize for survival: consider a Black King Bar to guarantee you can Leap away or cast Moonlight Shadow. A Linken's Sphere can block a key initiation spell. Positioning is paramount; stay far back and initiate only with long-range Arrows.",
+    "search_text": "Mirana vs high magic burst survival BKB Black King Bar Linken's Sphere positioning initiation Sacred Arrow",
+    "tags": [
+      "MIRANA",
+      "SITUATIONAL",
+      "VS_BURST"
+    ]
+  },
+  {
+    "display_text": "Situation: Playing from Behind. When your team is losing, shift to a split-pushing and pick-off role. Use Moonlight Shadow defensively to avoid fights and create space. Farm with Starstorm and Maelstrom to clear waves safely. Look for long-range Sacred Arrows on enemies who are out of position to secure comeback kills.",
+    "search_text": "Mirana playing from behind split push pick off Moonlight Shadow defensive farm Starstorm Maelstrom Sacred Arrow comeback",
+    "tags": [
+      "MIRANA",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Situation: Your Team Lacks Initiation. You become the primary initiator. Prioritize items that help you survive going in, like a Blink Dagger to close distance for a guaranteed Arrow, followed by BKB. Use Moonlight Shadow to get your team in position. Your first Arrow in a fight is critical; missing it can lose the engagement.",
+    "search_text": "Mirana team lacks initiation primary initiator Blink Dagger BKB Sacred Arrow Moonlight Shadow positioning",
+    "tags": [
+      "MIRANA",
+      "SITUATIONAL",
+      "PRIMARY_INITIATOR"
+    ]
+  },
+  {
+    "display_text": "Situation: Against Illusion or Summon Heroes (e.g., Phantom Lancer, Nature's Prophet). Starstorm is inefficient against many units. Focus on building area-of-effect physical damage like Mjollnir and Gleipnir. Your Sacred Arrow can instantly kill a key summon like Treants or Spiderlings if you target them directly.",
+    "search_text": "Mirana vs illusions summons Phantom Lancer Nature's Prophet Starstorm inefficient Mjollnir Gleipnir AOE physical damage Sacred Arrow kill summons",
+    "tags": [
+      "MIRANA",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left choice is -2s Starstorm Cooldown (reducing it to 10s). Right choice is +150 Leap Distance (increasing it to 800). Choose the cooldown reduction if you are focusing on magic damage and wave clear, allowing you to farm and fight more often with Starstorm. Choose the leap distance for dramatically improved mobility, escape, and chase potential.",
+    "search_text": "Mirana talent level 10 left -2s Starstorm Cooldown right +150 Leap Distance magic damage farm mobility escape",
+    "tags": [
+      "MIRANA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left choice is Moonlight Shadow gives +20% Evasion (and the evasion works at all times during the buff). Right choice is +90 Leap Attack Speed (adding to the base 100, for a total of 190 at max level Leap). Choose the Evasion if the enemy team has heavy physical damage and you need survivability for yourself and your team. Choose the Attack Speed if you are building for right-click damage and need to maximize your physical DPS.",
+    "search_text": "Mirana talent level 15 left Moonlight Shadow 20% Evasion always on right +90 Leap Attack Speed physical damage survivability DPS",
+    "tags": [
+      "MIRANA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left choice is +200 Starstorm Damage (increasing it to 500 at max level). Right choice is +35 Base Damage. Choose the Starstorm damage for a massive increase in your magic burst, especially potent with Aghanim's Scepter. Choose the Base Damage for a significant and consistent boost to your right-click physical damage, which scales with all attack modifiers.",
+    "search_text": "Mirana talent level 20 left +200 Starstorm Damage magic burst right +35 Base Damage physical damage right click",
+    "tags": [
+      "MIRANA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left choice is +2 Multishot Sacred Arrows (arrows are launched in a cone and cannot hit the same target). Right choice is -30s Moonlight Shadow Cooldown (reducing it to 70/80/90). Choose Multishot Arrows for incredible teamfight control, area stun, and damage, making it harder for enemies to dodge. Choose the Cooldown reduction to have your ultimate available for nearly every engagement, providing constant map pressure and safety for your team.",
+    "search_text": "Mirana talent level 25 left +2 Multishot Sacred Arrows cone stun teamfight right -30s Moonlight Shadow Cooldown 70 80 90 constant uptime",
+    "tags": [
+      "MIRANA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

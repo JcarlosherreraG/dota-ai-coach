@@ -1,0 +1,20 @@
+[
+  {
+    "display_text": "Penta-Edged Sword, Cost: 0: Tier Neutral item providing +45 Damage and +100 Attack Range for melee heroes. Each attack has a 25% chance to maim the enemy, reducing their movement speed by 20% and attack speed by 60 for 3 seconds, making it a potent slow tool. Stats: CD: Passive, Damage: +45, Attack Range Bonus: +100 (Melee), Maim Chance: 25%, Slow Duration: 3s, Move Slow: 20%, Attack Slow: 60.",
+    "search_text": "penta-edged sword, neutral item, damage neutral, maim neutral, slow item, attack speed slow, movement slow, melee range, attack range bonus, +100 range, DPS neutral, carry neutral, attack proc, chance to slow, cripple enemy, attack modifier, neutral drop, Penta-Edged Sword",
+    "tags": [
+      "ITEM_DATA",
+      "PENTA_EDGED_SWORD",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "DAMAGE",
+      "ATTACK_RANGE",
+      "MAIM",
+      "SLOW",
+      "DEBUFF",
+      "ATTACK_MODIFIER",
+      "DPS",
+      "CARRY_ITEM"
+    ]
+  }
+]

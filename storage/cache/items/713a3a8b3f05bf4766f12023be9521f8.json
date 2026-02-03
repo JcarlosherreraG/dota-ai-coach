@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Clumsy Net, Tier N/A (Neutral Item): Active ability Ensnare targets an enemy unit and yourself for 1.75 seconds. This immobilizes both targets, acting as a self-rooting disable. The effect is dispellable. Useful for securing kills or interrupting channels when you can afford to be stationary. Stats: CD: 25s, Duration: 1.75s.",
+    "search_text": "ensnare item, root item, self root, disable item, catch tool, neutral catch, immobilize, active root, channel interrupt, neutral utility, Clumsy Net",
+    "tags": [
+      "ITEM_DATA",
+      "CLUMSY_NET",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "ROOT",
+      "DISABLE",
+      "CATCH",
+      "UTILITY",
+      "SELF_DISABLE"
+    ]
+  }
+]

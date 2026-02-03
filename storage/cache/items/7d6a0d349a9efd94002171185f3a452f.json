@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "River Vial: Dry, Tier 0: Cosmetic terrain changer that paints the river banks with a dry/desert theme for 15 minutes. No combat stats or mechanical effects. Purely visual customization item for altering the map's appearance. Stats: Duration: 900s.",
+    "search_text": "river vial dry, terrain changer, cosmetic item, map skin, river paint, visual effect, cosmetic river, dry river, desert river, cosmetic terrain, river skin, River Vial: Dry",
+    "tags": [
+      "ITEM_DATA",
+      "RIVER_VIAL_DRY",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "COSMETIC",
+      "TERRAIN",
+      "VISUAL_EFFECT",
+      "UTILITY"
+    ]
+  }
+]

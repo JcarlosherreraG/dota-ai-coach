@@ -1,0 +1,75 @@
+[
+  {
+    "display_text": "Cost: 0: Hood of Defiance is an epic-tier core item costing 1550 gold, providing magic resistance and health regeneration. Its active ability, Barrier, creates a spell shield that absorbs up to 350 magic damage for 12 seconds, with a 60-second cooldown and 50 mana cost. This offers a powerful defensive tool against burst magic damage. Stats: CD: 60s, Mana: 50, Barrier Block: 350, Barrier Duration: 12s.",
+    "search_text": "magic resistance item, magic defense item, spell shield item, hood of defiance, anti-magic item, magic damage block, spell resistance, magic immunity alternative, magic burst counter, HP regen item, early magic defense, hood, HoD, defensive item, sustain item, vs magic damage, caster counter",
+    "tags": [
+      "ITEM_DATA",
+      "HOOD_OF_DEFIANCE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "VS_MAGIC",
+      "MAGIC_RESISTANCE",
+      "SAVE",
+      "SURVIVAL",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Hood of Defiance provides +18% Magic Resistance and +8.5 Health Regeneration. It offers no other attribute bonuses, focusing purely on enhancing survivability against magic damage and providing lane or jungle sustain through significant passive HP regeneration. Stats: Magic Resist: +18%, HP Regen: +8.5.",
+    "search_text": "hood stats, hood of defiance stats, magic resist stats, hp regen stats, magic defense stats, sustain stats, Hood of Defiance",
+    "tags": [
+      "ITEM_DATA",
+      "HOOD_OF_DEFIANCE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "MAGIC_RESISTANCE",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Hood of Defiance serves as a significant defensive item during mid-game team fights, absorbing key enemy nukes and providing sustain for heroes who need to frontline against magic-heavy compositions. Its spell shield allows heroes to survive burst combos and continue fighting. Stats: Block: 350 magic damage.",
+    "search_text": "magic damage soak, team fight sustain, defensive item team fight, magic burst survival, tank magic damage, frontliner item, Hood of Defiance",
+    "tags": [
+      "ITEM_DATA",
+      "HOOD_OF_DEFIANCE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Hood of Defiance is a situational counter against heroes with high magical burst damage like Zeus, Lina, or Leshrac. The active Barrier significantly reduces incoming magic damage, allowing a hero to survive combos that would otherwise be lethal. It is essential against magic-heavy lineups and is a core component for Pipe of Insight. Stats: Spell Resistance Stacks Multiplicatively.",
+    "search_text": "hood counter magic, counter zeus, counter lina, counter leshrac, magic burst counter item, vs casters, magic lineups, Hood of Defiance",
+    "tags": [
+      "ITEM_DATA",
+      "HOOD_OF_DEFIANCE",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "VS_MAGIC",
+      "DEFENSIVE",
+      "MAGIC_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Hood of Defiance synergizes well with heroes who want to build into Pipe of Insight (like Centaur Warrunner) or who need early magic survivability and HP regen to sustain in lane or the jungle. Its passive regen benefits tanky heroes and offlaners who face constant harassment. Stats: Magic Resist: +18%, HP Regen: +8.5.",
+    "search_text": "hood synergy, pipe component, tank item, offlane item, frontliner regen, early sustain item, magic defense build, Hood of Defiance",
+    "tags": [
+      "ITEM_DATA",
+      "HOOD_OF_DEFIANCE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "TANK_ITEM",
+      "OFFLANE_ITEM",
+      "SUSTAIN",
+      "VS_MAGIC",
+      "UPGRADE"
+    ]
+  }
+]

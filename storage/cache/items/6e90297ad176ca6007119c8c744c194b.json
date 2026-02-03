@@ -1,0 +1,15 @@
+[
+  {
+    "display_text": "Gris-Gris, Cost: 0: Non-purchasable item that cannot be dropped. Stores 100% of gold lost on death and refunds it when consumed. Consuming the item permanently removes it. Stats: Death Gold Loss Reduction: 100%, Gold Interval: 3s.",
+    "search_text": "gold loss prevention, death gold save, store lost gold, gold refund, consume to get gold, death penalty reduction, gold recovery, Gris-Gris, permanent gold save, non-droppable item, utility item",
+    "tags": [
+      "ITEM_DATA",
+      "GRIS-GRIS",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "UTILITY",
+      "GOLD_EFFICIENCY",
+      "ECONOMIC"
+    ]
+  }
+]

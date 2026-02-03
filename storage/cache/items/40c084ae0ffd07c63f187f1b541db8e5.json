@@ -1,0 +1,77 @@
+[
+  {
+    "display_text": "Helm of the Dominator, Cost: 2550: Grants control over a single non-ancient, neutral, lane creep, or summoned unit. Grants the dominated unit bonuses to speed, health, health regen, mana regen, armor, and base damage. Grants the caster a percentage of the creep's kill bounty and experience. Cannot dominate a new creep if the current one has taken hero damage in the last 3 seconds. Stats: CD: 45s, Mana Cost: 50, Dominate Cooldown after Damage: 3s.",
+    "search_text": "dominate creep, control creep, summons neutral, take over creep, ancient domination, creep domination item, helm dominate, neutral takeover, lane creep control, summon control, creep army, stack ancients, farming stack, aura creep, neutral stacking, Helm of the Dominator, HotD",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_DOMINATOR",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SUMMON_CONTROL",
+      "MINION_CONTROL",
+      "FARMING",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Helm of the Dominator, Cost: 2550: Provides +6 to all attributes, +6 armor, and +6 health regeneration. This moderate defensive stat package helps its holder survive longer. Stats: STR/AGI/INT: +6, Armor: +6, Health Regen: +6.",
+    "search_text": "helm stats, stats all attributes, stats armor, stats regen, +6 stats, +6 armor, +6 regen, stat item, defensive stats, sustain stats, Helm of the Dominator",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_DOMINATOR",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STATS",
+      "ARMOR",
+      "REGEN",
+      "SUSTAIN",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Helm of the Dominator, Cost: 2550: Used to secure powerful auras (e.g., Alpha Wolf, Wildwing Tornado, Dark Troll Summoner) for team fight buffs or to control lane creeps for pushing and scouting. Provides a persistent, controllable unit for vision and tanking. The unit can be used to stack ancients or farm jungle camps safely.",
+    "search_text": "helm team fight, aura creep, aura for team, team buff item, vision creep, scout creep, pushing item, summon push, siege creep, tank creep, stack ancients, stack camps, jungle farm, Helm of the Dominator",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_DOMINATOR",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "VISION",
+      "PUSHER",
+      "SUMMON"
+    ]
+  },
+  {
+    "display_text": "Helm of the Dominator, Cost: 2550: Enables safe ancient stacking for heroes that can clear them, accelerating farm. Allows heroes to dominate a lane creep during pushes to increase pressure. Can be used to secure jungle bounty during rotations or to gain vision for Roshan attempts.",
+    "search_text": "helm farming, farm accelerator, stack ancients, farm stacks, jungle farming, gold efficiency, lane push, siege pressure, secure bounty, Roshan vision, scout roshan, Helm of the Dominator",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_DOMINATOR",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "GOLD_EFFICIENCY",
+      "VISION",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Helm of the Dominator, Cost: 2550: Synergizes with heroes who lack summons but can benefit from an extra unit or aura. Strong on aura-based supports to provide additional team utility. Good on cores who need jungle/stack farm acceleration early. Timing is critical for the 50% bonus bounty from creep kills.",
+    "search_text": "helm synergy, helm support, aura support, Chen Helm, Lycan Helm, Enchantress Helm, Beastmaster Helm, core helm, early helm, timing item, bounty farming, Helm of the Dominator",
+    "tags": [
+      "ITEM_DATA",
+      "HELM_OF_THE_DOMINATOR",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "SUMMONER_ITEM",
+      "AURA_BUILD",
+      "TIMING_ITEM",
+      "SUPPORT_ITEM",
+      "CARRY_ITEM"
+    ]
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "display_text": "Winter Wyvern is a ranged Intelligence hero with a 1.70 base attack time. Her starting attributes are 22 Strength, 16 Agility, and 26 Intelligence. This gives her a high starting Intelligence and decent Strength for survivability, but low base Agility results in low armor. Her attack range is standard for a ranged hero.",
+    "search_text": "Winter Wyvern stats base attack time 1.70 ranged intelligence hero 22 strength 16 agility 26 intelligence",
+    "tags": [
+      "WINTER_WYVERN",
+      "BASE_STATS",
+      "STATS",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Winterproof. Allows Cold Embrace to be cast on buildings. Does not heal buildings. Allied units and buildings gain bonus attack damage when emerging from the icy cocoon. This facet is for a defensive, turtling playstyle, protecting towers and high-ground. Facet 2: Recursive. Winter's Curse is recast on the lowest health enemy hero if the primary target dies. This is for an aggressive, teamfight-oriented playstyle, maximizing the chaos and damage output of the ultimate in engagements. Choose Winterproof for sieging/defending high-ground. Choose Recursive for teamfight dominance and securing multiple kills.",
+    "search_text": "Winter Wyvern facets Winterproof Cold Embrace buildings Recursive Winter's Curse recast lowest health hero",
+    "tags": [
+      "WINTER_WYVERN",
+      "FACET_STRATEGY",
+      "FACET",
+      "WINTERPROOF",
+      "RECURSIVE"
+    ]
+  },
+  {
+    "display_text": "In lane, use Splinter Blast (80/160/240/320 damage) to harass the enemy by targeting a ranged creep. The primary target is unaffected, but the 500 radius shatter damages and slows (28/32/36/40%) nearby heroes. Use Arctic Burn at level 1 or 2 for trading; its 4/6/8/10% current HP per second damage and 16/24/32/40% slow are strong, and it gives you 250/275/300/325 bonus attack range for 7/8/9/10 seconds. Your low armor makes you vulnerable to physical harass, so position carefully. Use Cold Embrace (40/45/50/55 base heal plus 2.25/3/3.75/4.5% max HP per second) to save your core or yourself from burst physical damage.",
+    "search_text": "Winter Wyvern laning Splinter Blast harass 320 damage 500 radius slow Arctic Burn trading 10% HP slow 325 range Cold Embrace save heal",
+    "tags": [
+      "WINTER_WYVERN",
+      "LANING_PHASE",
+      "LANE",
+      "HARASS"
+    ]
+  },
+  {
+    "display_text": "Level 6: Power spike with Winter's Curse. Use it to guarantee a kill or counter-initiate. Level 12: Maxed Splinter Blast (320 damage) and Arctic Burn (10% HP damage) for strong poke and wave clear. Level 18: Maxed all abilities. Level 20 Talent: Choice between +17% Arctic Burn Slow (more control) or +100 Splinter Blast Damage (more burst). Level 25 Talent: Choice between +60 Winter's Curse Attack Speed (faster kill) or Splinter Blast 1s Stun (reliable interrupt). Item spikes include Aghanim's Scepter for Arctic Burn upgrade, Glimmer Cape for saving, and Force Staff for repositioning.",
+    "search_text": "Winter Wyvern power spikes level 6 Winter's Curse level 12 max Splinter Blast Arctic Burn level 20 talent 25 talent Aghanim's Scepter",
+    "tags": [
+      "WINTER_WYVERN",
+      "POWER_SPIKES",
+      "LEVELS",
+      "TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Winter Wyvern is hard countered by heroes with strong magic damage or pure damage, as Cold Embrace only blocks physical damage. Heroes like Zeus, Enigma, or Lina can burst through her save. She is also countered by heroes with long-range disables or silences (Skywrath Mage, Silencer) that prevent her from casting Cold Embrace or Winter's Curse. Diffusal Blade or other dispels can remove the powerful slow and damage from Arctic Burn. Heroes that build Black King Bar are less affected by her spells, though Winter's Curse pierces BKB on the primary target only.",
+    "search_text": "Winter Wyvern counters magic damage pure damage Cold Embrace physical only silences dispels Arctic Burn BKB pierce primary target only",
+    "tags": [
+      "WINTER_WYVERN",
+      "HARD_COUNTERS",
+      "COUNTER",
+      "WEAKNESS"
+    ]
+  },
+  {
+    "display_text": "Core items are Tranquil Boots for lane sustain and mobility, Magic Wand for stats and burst heal, and Glimmer Cape. Glimmer Cape is essential for saving allies who are not under Cold Embrace or for saving yourself. Force Staff is another core utility item for repositioning yourself or allies. Aghanim's Scepter is a luxury core item that significantly upgrades Arctic Burn.",
+    "search_text": "Winter Wyvern core build Tranquil Boots Glimmer Cape Force Staff Aghanim's Scepter save item",
+    "tags": [
+      "WINTER_WYVERN",
+      "CORE_BUILD",
+      "ITEMS",
+      "ESSENTIAL"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Winter Wyvern's primary role is backline support and counter-initiation. Use Splinter Blast to poke and slow the enemy team. Save Cold Embrace for allies who are focused by physical damage carries or to negate big physical ultimates. Use Winter's Curse to disable a key enemy hero and force their teammates to attack them. Position the Curse to catch as many enemy heroes as possible within the 525 radius. Your job is to control the fight, save allies, and enable kills with your ultimate.",
+    "search_text": "Winter Wyvern teamfight role backline support save Cold Embrace physical damage counter-initiation Winter's Curse disable 525 radius",
+    "tags": [
+      "WINTER_WYVERN",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT",
+      "SUPPORT"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Arctic Burn (Q). Winter Wyvern soars, granting unobstructed movement. Her attacks gain 250/275/300/325 bonus range and 500 bonus projectile speed for 7/8/9/10 seconds. Each attack applies a debuff that slows the enemy by 16/24/32/40% and deals 4/6/8/10% of their current health as damage per second for 5 seconds. The attack point is reduced to 0.1. The debuff can only be applied once per cast per enemy. The damage and slow can be dispelled. Does NOT pierce BKB.",
+    "search_text": "Arctic Burn Q Winter Wyvern flying unobstructed movement 325 attack range 500 projectile speed 10% current HP damage 40% slow dispellable not BKB pierce",
+    "tags": [
+      "WINTER_WYVERN",
+      "ABILITY_DATA",
+      "ARCTIC_BURN",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Splinter Blast (W). Launches a projectile at a unit (1200 speed). The primary target is unaffected. On impact, it shatters, dealing 80/160/240/320 magic damage and applying a 28/32/36/40% slow for 4 seconds to all other enemies in a 500 radius. The secondary splinters move at 1000 speed. The primary projectile cannot be disjointed. Does NOT pierce BKB.",
+    "search_text": "Splinter Blast W Winter Wyvern 320 damage 500 radius 40% slow 4 seconds primary target unaffected cannot disjoint not BKB pierce",
+    "tags": [
+      "WINTER_WYVERN",
+      "ABILITY_DATA",
+      "SPLINTER_BLAST",
+      "W"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Cold Embrace (E). Encases an ally in ice, freezing them and making them immune to physical damage for 4 seconds. Heals the target for 40/45/50/55 base health plus 2.25/3/3.75/4.5% of their maximum health every second (heals every 0.25 seconds). Does NOT pierce BKB.",
+    "search_text": "Cold Embrace E Winter Wyvern save physical damage immunity 4 seconds heal 55 base 4.5% max HP per second not BKB pierce",
+    "tags": [
+      "WINTER_WYVERN",
+      "ABILITY_DATA",
+      "COLD_EMBRACE",
+      "E"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Winter's Curse (R). Dispels and freezes an enemy hero in place for 2 seconds. All other enemy units within 525 radius are forced to attack the cursed target with 65 bonus attack speed. The cursed target and the attackers are immune to all damage from enemies, except damage from Winter Wyvern or her controlled units. The duration increases by 0.5 seconds per creep and 2 seconds per hero caught in the aura, up to a max of 4/5.5/7 seconds. This ability Pierces BKB on the primary target only.",
+    "search_text": "Winter's Curse R Winter Wyvern ultimate disable taunt 525 radius 65 attack speed damage immunity primary target BKB pierce max 7 seconds",
+    "tags": [
+      "WINTER_WYVERN",
+      "ABILITY_DATA",
+      "WINTERS_CURSE",
+      "R",
+      "ULTIMATE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Magic Damage Lineups. Cold Embrace only blocks physical damage, making it useless against magic burst. In this scenario, prioritize Glimmer Cape and Force Staff for saving. Consider a Pipe of Insight for your team. Your Winter's Curse is still valuable, but positioning is key to avoid being burst before casting it.",
+    "search_text": "Winter Wyvern situation vs magic damage Cold Embrace useless Glimmer Cape Force Staff Pipe of Insight positioning",
+    "tags": [
+      "WINTER_WYVERN",
+      "SITUATIONAL",
+      "VS_MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When your team is losing, use Splinter Blast to safely clear waves from a distance. Use Winter's Curse defensively to counter-initiate on diving enemies. The Recursive facet is less valuable here; consider Winterproof to help defend your towers and barracks with Cold Embrace. Build cheap save items like Glimmer Cape and Force Staff to keep your cores alive.",
+    "search_text": "Winter Wyvern situation from behind defensive Splinter Blast wave clear Winter's Curse counter-initiate Winterproof defend towers",
+    "tags": [
+      "WINTER_WYVERN",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSE"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Physical Damage Carry. Your Cold Embrace is extremely powerful when your core is a hero like Phantom Assassin or Troll Warlord. Use it to save them when they are focused. Coordinate Winter's Curse to lock down an enemy hero, allowing your carry to freely attack others, as the cursed target is immune to their damage.",
+    "search_text": "Winter Wyvern situation with physical carry Cold Embrace save Phantom Assassin Troll Warlord Winter's Curse coordination",
+    "tags": [
+      "WINTER_WYVERN",
+      "SITUATIONAL",
+      "WITH_PHYSICAL_CORE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Dispels (Eul's, Lotus, Manta). The slow and damage from Arctic Burn can be dispelled. In this scenario, use Arctic Burn primarily for the mobility and attack range to position for Splinter Blast or Winter's Curse. Do not rely on its damage against heroes who can easily dispel it. The slow from Splinter Blast is also dispellable.",
+    "search_text": "Winter Wyvern situation vs dispels Arctic Burn dispellable Eul's Scepter Lotus Orb Manta Style use for mobility",
+    "tags": [
+      "WINTER_WYVERN",
+      "SITUATIONAL",
+      "VS_DISPEL"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 10: Left choice is +20 HP/s Cold Embrace Heal. Right choice is +35 Damage. The heal talent significantly improves your save potential, adding 80 total healing over the 4-second duration. The damage talent helps with last hitting and harass. Choose the heal talent if you are the primary save support or against heavy physical damage. Choose the damage talent if you are having a good lane and want to transition into a more core/pushing role.",
+    "search_text": "Winter Wyvern talent level 10 left +20 HP/s Cold Embrace Heal right +35 Damage save vs harass",
+    "tags": [
+      "WINTER_WYVERN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 15: Left choice is +3s Arctic Burn Debuff Duration. Right choice is +250 Splinter Blast Shatter Radius. The Arctic Burn talent increases the slow and damage duration from 5s to 8s, greatly enhancing your chase and poke. The Splinter Blast talent increases the shatter radius from 500 to 750, making it much easier to hit multiple heroes. Choose Arctic Burn talent for more single-target control and damage. Choose Splinter Blast talent for better teamfight impact and wave clear.",
+    "search_text": "Winter Wyvern talent level 15 left +3s Arctic Burn duration right +250 Splinter Blast radius 750 control vs teamfight",
+    "tags": [
+      "WINTER_WYVERN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 20: Left choice is +17% Arctic Burn Slow. Right choice is +100 Splinter Blast Damage. The Arctic Burn talent increases the slow from 40% to 57%, making it extremely difficult for enemies to escape. The Splinter Blast talent increases its damage from 320 to 420, adding significant burst. Choose the slow talent if your team lacks control and you need to kite enemy cores. Choose the damage talent if you need burst to kill key targets like supports or to clear waves faster.",
+    "search_text": "Winter Wyvern talent level 20 left +17% Arctic Burn slow 57% right +100 Splinter Blast damage 420 burst control vs damage",
+    "tags": [
+      "WINTER_WYVERN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 25: Left choice is +60 Winter's Curse Attack Speed. Right choice is Splinter Blast 1s Stun. The Winter's Curse talent increases the attack speed bonus on affected enemies from 65 to 125, dramatically increasing the speed at which the cursed target dies. The Splinter Blast talent adds a 1-second stun to the shatter effect, providing a reliable interrupt and setup. Choose the attack speed talent to guarantee kills with your ultimate, especially against tanky heroes. Choose the stun talent for extra teamfight control and to interrupt channeling spells like Black Hole or TP scrolls.",
+    "search_text": "Winter Wyvern talent level 25 left +60 Winter's Curse attack speed 125 right Splinter Blast 1 second stun interrupt kill speed vs control",
+    "tags": [
+      "WINTER_WYVERN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

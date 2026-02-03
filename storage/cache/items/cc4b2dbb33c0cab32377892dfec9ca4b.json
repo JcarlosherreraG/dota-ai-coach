@@ -1,0 +1,69 @@
+[
+  {
+    "display_text": "Blink Dagger, Cost: 2250: Instantly teleports your hero up to 1200 units to a targeted point. Cannot be used for 3 seconds after taking damage from an enemy hero or Roshan. Essential initiation and repositioning tool for gap-closing and escape. Stats: CD: 15s, Range: 1200, Damage Disable: 3s.",
+    "search_text": "blink item, teleport item, initiation item, mobility item, gap closer, instant movement, reposition, escape tool, catch tool, blink dagger, active blink, short cooldown, instant reposition, long range teleport, Blink Dagger, BKB",
+    "tags": [
+      "ITEM_DATA",
+      "BLINK_DAGGER",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MOBILITY",
+      "POSITIONING",
+      "INITIATION",
+      "CATCH",
+      "ESCAPE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Blink Dagger, Cost: 2250: Provides no attribute bonuses or stats. Pure utility item whose value comes entirely from its powerful, low-cooldown active mobility spell.",
+    "search_text": "blink dagger stats, blink stats, no stats item, utility only, pure utility, active only, no attributes, no damage, blink attributes",
+    "tags": [
+      "ITEM_DATA",
+      "BLINK_DAGGER",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Blink Dagger, Cost: 2250: Core initiation tool enabling heroes to instantly close large distances to start fights, land critical abilities, or catch key targets. Essential for heroes with high-impact, short-range spells who lack innate mobility.",
+    "search_text": "blink initiation, start fights, team fight starter, catch tool, surprise engage, initiation mobility, gap closer, fight opener, target access, lockdown setup, Blink Dagger",
+    "tags": [
+      "ITEM_DATA",
+      "BLINK_DAGGER",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "INITIATION",
+      "CATCH",
+      "POSITIONING"
+    ]
+  },
+  {
+    "display_text": "Blink Dagger, Cost: 2250: Provides critical mobility to escape dangerous situations by blinking over terrain or to allies. The 3-second cooldown after taking hero damage requires careful positioning and timing, making it a high-skill defensive item as well.",
+    "search_text": "blink escape, defensive blink, terrain escape, dodge ability, reposition escape, survival tool, defensive mobility, blink out, escape initiation, Blink Dagger",
+    "tags": [
+      "ITEM_DATA",
+      "BLINK_DAGGER",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "ESCAPE",
+      "SURVIVAL",
+      "DEFENSIVE",
+      "POSITIONING"
+    ]
+  },
+  {
+    "display_text": "Blink Dagger, Cost: 2250: Essential first or second major item for initiators like Axe, Earthshaker, or Magnus to enable their AoE ultimates. Also a key positioning tool for supports and carries who need to avoid being kited or to secure kills. Timing is critical, as its power spike is immediate upon purchase.",
+    "search_text": "blink initiator item, blink core item, melee initiator, blink axe, blink earthshaker, blink magnus, positioning support, aggressive positioning, core timing, power spike, Blink Dagger",
+    "tags": [
+      "ITEM_DATA",
+      "BLINK_DAGGER",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INITIATOR_ITEM",
+      "SUPPORT_ITEM",
+      "CARRY_ITEM"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "display_text": "Boots of Bearing, Cost: 4225: Upgrade to Drums of Slaughter providing a powerful active team buff. Active 'Endurance' grants allies +50 attack speed and +15% movement speed for 6 seconds, with the first 1.5 seconds providing immunity to slows. Passive 'Swiftness Aura' grants +20 movement speed. The active is ideal for decisive team fights or disengages due to the short-duration slow immunity. Stats: CD: 30s, Radius: 1200, Total Cost: 4225.",
+    "search_text": "boots of bearing, drums of bearing, team buff, aura, attack speed aura, movement speed aura, endurance active, team fight item, support item, utility item, aura carry, team speed, slow immunity, initiation tool, disengage tool, group buff, pushing item, Boots of Bearing",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_BEARING",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "MOBILITY",
+      "UTILITY",
+      "TEAM_FIGHT",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Boots of Bearing, Cost: 4225: Provides +8 Strength, +8 Intelligence, +65 movement speed, and +18 health regeneration. The stat profile offers well-rounded support attributes, with significant movement speed from the boots upgrade. The health regen aids sustain for front-line aura carriers. Stats: MS: +65, HP Regen: +18, Str: +8, Int: +8.",
+    "search_text": "boots of bearing stats, movement speed, health regeneration, strength intelligence, aura carrier stats, support stats, hybrid stats, Boots of Bearing",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_BEARING",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "REGEN",
+      "MOBILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Boots of Bearing, Cost: 4225: Teamfight-oriented aura item ideal for grouped pushes and engagements. The active allows your team to engage aggressively or retreat safely, while the passive aura provides constant movement advantage. It excels in 5-man deathball lineups or teamfight-heavy mid-game compositions. Stats: CD: 30s, Radius: 1200.",
+    "search_text": "boots of bearing teamfight, team fight aura, push item, deathball item, team speed boost, group fight utility, mid game teamfight, initiation aura, team engage, disengage aura, Boots of Bearing",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_BEARING",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "TEAM_FIGHT",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Boots of Bearing, Cost: 4225: Counters slows and movement-impairing abilities with its 1.5-second slow immunity on activation, making it effective against heroes with heavy slows for initiating or escaping. It provides a group-wide defensive movement option versus crowd control. Stats: Slow Immunity Duration: 1.5s.",
+    "search_text": "boots of bearing counter slow, slow counter item, slow immunity, escape slows, slow resistance, team slow resist, disengage from slows, vs slows, Boots of Bearing",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_BEARING",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_CONTROL",
+      "BUFF",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Boots of Bearing, Cost: 4225: Synergizes with heroes who benefit from attack speed and want to build Drums of Slaughter, such as aura-based initiators (e.g., Undying) or core heroes who are already building for team fights. It's a natural upgrade for heroes who bought Tranquil Boots and need a late-game aura. Builds from Tranquil Boots, Drums of Slaughter, and Ring of Tarrasque.",
+    "search_text": "boots of bearing synergy, drums upgrade, tranquil boots upgrade, aura initiator, support upgrade, late game aura, team synergy item, Undying item, Boots of Bearing",
+    "tags": [
+      "ITEM_DATA",
+      "BOOTS_OF_BEARING",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "AURA",
+      "BUFF",
+      "UPGRADE"
+    ]
+  }
+]

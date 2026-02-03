@@ -1,0 +1,179 @@
+[
+  {
+    "display_text": "Windranger is a Ranged agility hero with a base attack time of 1.5. Her starting stats are 18 Strength, 17 Agility, and 18 Intelligence. These balanced initial stats provide decent health and damage for a ranged laner. Her projectile speed and attack animation are critical for last hitting and harassment.",
+    "search_text": "Windranger base stats attack type ranged 1.5 BAT agility 17 strength 18 int 18",
+    "tags": [
+      "Windranger",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Windranger has five Facets. Tailwind: Windranger's movement speed cannot be lower than 240 and can reach 600. Focus Fire Facet: Focus Fire rapidly attacks a single target. Whirlwind: Focus Fire randomly attacks enemies within range. Tangled: Shackleshot affects more enemies and grants damage per unit shackled. Killshot: Powershot executes low health enemy heroes. Choose Focus Fire Facet for sustained single-target damage and building destruction. Choose Whirlwind for chaotic teamfight AOE. Choose Tangled for more reliable stuns and AOE burst. Choose Killshot for hero pickoffs and securing kills. The Tailwind mobility is a passive default facet.",
+    "search_text": "Windranger Facet choice Tailwind movespeed limit 240 min 600 max Focus Fire Facet single target Whirlwind random AOE Tangled Shackleshot more enemies bonus damage Killshot Powershot execute",
+    "tags": [
+      "Windranger",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Windranger's laning phase is focused on securing last hits with her good attack animation. Use Powershot at level 1 or 2 to secure ranged creeps and harass the enemy from a long distance. At level 2, Shackleshot can be used for kill attempts if an enemy is near a tree or creep. Use Windrun at level 3 or 4 to trade hits favorably and escape ganks due to its 100% evasion and 60% movement speed bonus. Focus on building items like Null Talismans, Boots, and a Magic Wand.",
+    "search_text": "Windranger laning Powershot harass last hit Shackleshot stun tree creep Windrun evasion 100% movespeed 60% dodge gank",
+    "tags": [
+      "Windranger",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Windranger's key power spikes are at level 6 with Focus Fire, allowing her to take towers and kill isolated heroes with support. Level 12 (Focus Fire level 2) and level 18 (Focus Fire level 3) are massive damage spikes. Getting a Javelin/Maelstrom early accelerates farm and kill potential. Getting an Aghanim's Scepter or Mjollnir is a major mid-game spike. Level 20 talent (-10% Focus Fire Damage Reduction) dramatically increases single-target DPS. Level 25 talents are game-changing, especially Focus Fire Kills Advance Cooldown by 18s.",
+    "search_text": "Windranger power spike level 6 Focus Fire 70 cooldown tower damage level 12 level 18 Aghanims Scepter Mjollnir talent 20 -10 damage reduction talent 25 cooldown advance 18s",
+    "tags": [
+      "Windranger",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Windranger is hard countered by heroes with Break (e.g., Silver Edge, Viper) which disables Windrun's evasion, leaving her vulnerable. Instant disables like Hex prevent her from activating Windrun or Shackleshot. Heavy magic burst damage bypasses Windrun's evasion. High armor heroes can significantly reduce the impact of her physical DPS from Focus Fire. Heroes with mobility spells can dodge her skillshots (Shackleshot, Powershot).",
+    "search_text": "Windranger counter Break Silver Edge Viper removes Windrun evasion Hex disable high armor physical damage resist dodge skillshot Shackleshot Powershot",
+    "tags": [
+      "Windranger",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Windranger's core build is highly flexible but two essential items are Javelin (into Maelstrom/Mjollnir or Gleipnir) for farming and procs during Focus Fire, and Aghanim's Scepter which allows her to move while using Focus Fire and reduces its cooldown to 15 seconds. Boots of Travel are often prioritized for global map presence and split-pushing with Focus Fire.",
+    "search_text": "Windranger core items Javelin Maelstrom Mjollnir Gleipnir proc Aghanims Scepter focus fire move cooldown 15s Boots Travel split push",
+    "tags": [
+      "Windranger",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Windranger's role is to initiate or follow-up with a multi-hero Shackleshot stun. She then uses Windrun to position aggressively and avoid physical damage. Her primary job is to use Focus Fire on the highest priority target (core hero or building) to burn them down quickly. She can use Powershot from the edges to damage and slow multiple enemies. With the Whirlwind facet, she can become an AOE damage threat instead.",
+    "search_text": "Windranger teamfight role Shackleshot initiator stun Windrun dodge physical Focus Fire single target burn Powershot AOE slow Whirlwind facet random AOE",
+    "tags": [
+      "Windranger",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "SHACKLESHOT (Q): Shackles the target to an enemy unit or tree in a line directly behind it for 1.75 / 2.25 / 2.75 / 3.25 seconds. If no unit or tree is present, the stun duration is reduced to 0.6 seconds. Cooldown is 16 / 14 / 12 / 10 seconds. Max shackle distance is 575 behind the target. This spell can be disjointed.",
+    "search_text": "Shackleshot Q stun 1.75 2.25 2.75 3.25 duration tree creep fail stun 0.6 cooldown 16 14 12 10 disjointable",
+    "tags": [
+      "Windranger",
+      "ABILITY_DATA",
+      "STUN",
+      "DISJOINTABLE"
+    ]
+  },
+  {
+    "display_text": "POWERSHOT (W): Windranger channels her bow for up to 1.0 second to fire an arrow that travels up to 3000 range at 3000 speed, dealing 170 / 270 / 370 / 470 damage in a 125 width line. For each enemy hit, the damage is reduced by 15%. Enemies hit are slowed by 20% / 25% / 30% / 35% for 3 seconds. The arrow destroys trees in its path and provides 400 radius vision for 3.34 seconds. This is a channeled spell.",
+    "search_text": "Powershot W channel 1.0 sec damage 170 270 370 470 range 3000 speed 3000 width 125 damage reduction 15% per hit slow 20 25 30 35% duration 3 destroys trees vision",
+    "tags": [
+      "Windranger",
+      "ABILITY_DATA",
+      "CHANNELED",
+      "NUKER",
+      "SLOW",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "WINDRUN (E): Increases Windranger's movement speed by 60% and grants 100% evasion from physical attacks for 3 / 4 / 5 / 6 seconds. Cooldown is 15 / 14 / 13 / 12 seconds. Activating Windrun will evade incoming projectiles.",
+    "search_text": "Windrun E Windrun evasion 100% movespeed 60% duration 3 4 5 6 cooldown 15 14 13 12 dodge projectile",
+    "tags": [
+      "Windranger",
+      "ABILITY_DATA",
+      "EVASION",
+      "MOBILITY",
+      "SURVIVABILITY"
+    ]
+  },
+  {
+    "display_text": "GALE FORCE (Vector Targeted): Summons a strong wind in a 900 radius area that pushes all enemies 240 units towards the target direction over 3.0 seconds.",
+    "search_text": "Gale Force vector targeted push enemy 240 units radius 900 duration 3.0",
+    "tags": [
+      "Windranger",
+      "ABILITY_DATA",
+      "VECTOR_TARGETED",
+      "DISPLACEMENT"
+    ]
+  },
+  {
+    "display_text": "FOCUS FIRE (R): Windranger channels the wind to gain 350 / 425 / 500 additional attack speed against a single enemy unit or structure for 20 seconds, but with a 25% reduction to her attack damage. Extra damage from secondary item effects is not reduced. Cooldown is 70 / 50 / 30 seconds. Windranger can move while attacking. Using a Hold Position command will pause her attacks.",
+    "search_text": "Focus Fire R ultimate attack speed 350 425 500 duration 20 cooldown 70 50 30 damage reduction 25% attack move hold position pause",
+    "tags": [
+      "Windranger",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "SINGLE_TARGET",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Armor \u0026 Evasion Cores (e.g., Terrorblade, Phantom Assassin). In this situation, Windranger's physical damage from Focus Fire is heavily mitigated. The correct adaptation is to build items that provide magical or pure damage procs unaffected by armor, like Mjollnir and MKB. Prioritize using Shackleshot to lock down the evasive target and rely on teammates' magic damage. The Killshot facet can be valuable for execution.",
+    "search_text": "Windranger vs high armor evasion build Mjollnir MKB magic pure damage proc Shackleshot lock down Killshot execute facet",
+    "tags": [
+      "Windranger",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind / Split Pushing. When your team is losing teamfights, Windranger's strengths shift to split-pushing with Focus Fire on towers. Build Boots of Travel and Aghanim's Scepter early to maximize mobility and uptime on Focus Fire. Use Powershot to clear waves from a safe distance. Constantly pressure side lanes, forcing the enemy to respond, and use Windrun to escape when they arrive.",
+    "search_text": "Windranger from behind split push Focus Fire tower Boots Travel Aghanims Scepter Powershot clear wave Windrun escape",
+    "tags": [
+      "Windranger",
+      "SITUATIONAL",
+      "SPLIT_PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Initiating Fights with Shackleshot. Your team needs reliable initiation. Position yourself to land a multi-hero Shackleshot on key targets standing near each other or near trees/creeps. Use Blink Dagger or Force Staff to get the perfect angle. The Tangled facet is ideal here for increasing the shackle count and damage. Follow up immediately with Focus Fire on the most dangerous stunned target.",
+    "search_text": "Windranger initiator Shackleshot multi-hero stun Blink Dagger Force Staff angle Tangled facet more shackles damage Focus Fire follow up",
+    "tags": [
+      "Windranger",
+      "SITUATIONAL",
+      "INITIATOR"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left: +1s Powershot Slow Duration. Right: +4 All Attributes. Choose +1s Powershot Slow Duration if you are playing a utility/poke role, as it increases the slow from 3s to 4s, enhancing chase and escape. Choose +4 All Attributes for a more well-rounded boost to health, damage, armor, and mana, which is generally better for a core Windranger focusing on survivability and right-clicks.",
+    "search_text": "Windranger talent level 10 left +1s Powershot Slow Duration right +4 All Attributes utility slow stats",
+    "tags": [
+      "Windranger",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left: -2s Windrun Cooldown. Right: -15% Powershot Reduction. Choose -2s Windrun Cooldown to increase your survivability and uptime on your escape/chase tool, reducing cooldown to 10/9/8/7 seconds. This is almost always the better choice for a core Windranger. Choose -15% Powershot Reduction if you are playing a heavily spell-based, utility role and need more reliable AOE damage, reducing the per-hit damage reduction from 15% to 0%.",
+    "search_text": "Windranger talent level 15 left -2s Windrun Cooldown right -15% Powershot Reduction survival utility nuke damage",
+    "tags": [
+      "Windranger",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left: +0.75s Shackleshot Duration. Right: -10% Focus Fire Damage Reduction. This is a major choice between utility and damage. +0.75s Shackleshot Duration increases the max stun to a massive 4 seconds, which is exceptional for locking down a key target. -10% Focus Fire Damage Reduction reduces the penalty from -25% to -15%, a significant 40% relative increase in your main damage output. The damage talent is typically preferred for a core role.",
+    "search_text": "Windranger talent level 20 left +0.75s Shackleshot Duration 4s stun right -10% Focus Fire Damage Reduction -15% penalty damage increase",
+    "tags": [
+      "Windranger",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left: Windrun Cannot Be Dispelled. Right: Focus Fire Kills Advance Cooldown by 18s. Windrun Cannot Be Dispelled makes your defensive tool immune to purges like Nullifier or Demonic Purge, a strong defensive option against specific counters. Focus Fire Kills Advance Cooldown by 18s is an extremely powerful offensive talent; if your Focus Fire target dies, the cooldown is reduced by 18 seconds, potentially allowing you to use it multiple times in a single fight. The cooldown reduction talent is usually the game-winning choice.",
+    "search_text": "Windranger talent level 25 left Windrun Cannot Be Dispelled purge immune right Focus Fire Kills Advance Cooldown 18s reset multi kill",
+    "tags": [
+      "Windranger",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

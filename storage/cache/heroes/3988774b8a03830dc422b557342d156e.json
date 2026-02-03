@@ -1,0 +1,194 @@
+[
+  {
+    "display_text": "Axe is a melee strength hero with 25 base strength, 20 agility, and 18 intelligence. His base attack time is 1.7, which is average for melee cores. This stat line provides him with high starting health and decent armor, making him naturally tanky for the laning stage.",
+    "search_text": "Axe stats melee strength hero 25 strength 20 agility 18 intelligence 1.7 attack rate base armor health",
+    "tags": [
+      "AXE",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Axe has two Facets. 'One Man Army' is the default Facet. The 'Call Out' Facet modifies Berserker's Call to grant attacking enemies more attack speed while giving Axe more armor for the duration. This changes the dynamic of the spell, making enemies hit him harder but also rewarding him with greater survivability.",
+    "search_text": "Axe facets One Man Army default Call Out Berserker's Call gives enemies attack speed gives Axe more armor",
+    "tags": [
+      "AXE",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Axe excels in the offlane. Use Battle Hunger (12/18/24/30 DPS) to harass and secure last hits from a distance. Max Counter Helix first (100/120/140/160 pure damage) to trade aggressively when enemies attack you, as it procs every 7/6/5/4 attacks. Your high base strength makes you difficult to kill. Start with a point in Counter Helix for early trades.",
+    "search_text": "Axe laning offlane Battle Hunger 12 18 24 30 damage per second harass Counter Helix 100 120 140 160 pure damage procs every 7 6 5 4 attacks trade",
+    "tags": [
+      "AXE",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Axe's major power spikes are at level 6 (Culling Blade kill potential and reset), level 12 (maxed Counter Helix and level 2 ultimate), level 18 (level 3 ultimate), and level 20/25 talents. Key item spikes are Blink Dagger for initiation, Blade Mail for damage return during Berserker's Call, and Vanguard/Hood for survivability.",
+    "search_text": "Axe power spikes level 6 Culling Blade reset level 12 max Counter Helix level 18 ultimate talents 20 25 Blink Dagger Blade Mail Vanguard Hood",
+    "tags": [
+      "AXE",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Axe is hard countered by heroes with Break (e.g., Silver Edge, Hoodwink) which disables Counter Helix and his armor talents. High magic burst damage can kill him before he can cast Berserker's Call. Heroes with illusions or summons can trigger Counter Helix without putting their main hero at risk, wasting its cooldown. Debuff dispels can remove Battle Hunger.",
+    "search_text": "Axe counters break Silver Edge disables Counter Helix magic burst damage illusions summons trigger helix waste cooldown dispel Battle Hunger",
+    "tags": [
+      "AXE",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Axe's core build is Blink Dagger and Blade Mail. Blink Dagger is non-negotiable for initiating with Berserker's Call. Blade Mail's damage return synergizes perfectly with the forced attacks from Berserker's Call, often securing kills. These two items are the absolute minimum for Axe to function in mid-game fights.",
+    "search_text": "Axe core items Blink Dagger initiation Blade Mail damage return synergy Berserker's Call forced attacks",
+    "tags": [
+      "AXE",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Axe's role is to initiate with Blink Dagger + Berserker's Call, taunting multiple enemies in a 315 radius for 2.1/2.4/2.7/3.0 seconds while gaining 12/13/14/15 bonus armor. Activate Blade Mail immediately after. He then uses Culling Blade (275/375/475 pure damage) to execute low-health heroes, resetting its cooldown and granting allies 20/25/30 bonus move speed and 10/15/20 bonus armor for 6 seconds.",
+    "search_text": "Axe teamfight initiator Blink Dagger Berserker's Call 315 radius taunt 3 seconds 15 armor Blade Mail Culling Blade 475 pure damage execute reset speed armor buff",
+    "tags": [
+      "AXE",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Berserker's Call (Q) taunts all nearby enemy units within 315 radius for 2.1/2.4/2.7/3.0 seconds, forcing them to attack Axe. For the duration, Axe gains 12/13/14/15 bonus armor. This ability pierces spell immunity (BKB).",
+    "search_text": "Axe Q Berserker's Call taunt 315 radius 3.0 seconds duration 15 bonus armor pierces BKB",
+    "tags": [
+      "AXE",
+      "ABILITY_DATA",
+      "BERSERKERS_CALL",
+      "CROWD_CONTROL"
+    ]
+  },
+  {
+    "display_text": "Battle Hunger (W) enrages a single enemy, dealing 12/18/24/30 damage per second for 12 seconds and applying a 18/22/26/30% slow as long as they are facing away from Axe. The debuff is removed if the affected unit kills another unit (including buildings). It does NOT pierce spell immunity (BKB).",
+    "search_text": "Axe W Battle Hunger damage per second 12 18 24 30 12 second duration 30% slow facing away dispel on kill building does not pierce BKB",
+    "tags": [
+      "AXE",
+      "ABILITY_DATA",
+      "BATTLE_HUNGER",
+      "SLOW",
+      "DOT"
+    ]
+  },
+  {
+    "display_text": "Counter Helix (E) is a passive ability. After Axe is attacked 7/6/5/4 times, he performs a helix counter attack, dealing 100/120/140/160 pure damage to all enemies within a 275 radius. The counter attack has a 0.3 second cooldown between procs. This ability does NOT pierce spell immunity (BKB).",
+    "search_text": "Axe E Counter Helix passive 7 6 5 4 attack trigger 160 pure damage 275 radius 0.3 sec cooldown does not pierce BKB",
+    "tags": [
+      "AXE",
+      "ABILITY_DATA",
+      "COUNTER_HELIX",
+      "PURE_DAMAGE",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Culling Blade (R) is an ultimate ability that deals 275/375/475 pure damage to a single enemy. If this damage kills an enemy hero, the cooldown is reset, and all nearby allied units gain 20/25/30 bonus movement speed and 10/15/20 bonus armor for 6 seconds. The ability has a 900 travel speed for its AoE buff. It pierces spell immunity (BKB).",
+    "search_text": "Axe R ultimate Culling Blade 475 pure damage execute kill reset cooldown buff allies 30 speed 20 armor 6 seconds pierces BKB",
+    "tags": [
+      "AXE",
+      "ABILITY_DATA",
+      "CULLING_BLADE",
+      "ULTIMATE",
+      "PURE_DAMAGE",
+      "EXECUTE"
+    ]
+  },
+  {
+    "display_text": "Axe's Coat of Blood (D) is an innate ability. Each time Axe kills an enemy Hero, he permanently gains 0.2/0.3/0.4/0.5 bonus armor per stack. Killing a hero with Culling Blade grants 3x the stack amount (0.6/0.9/1.2/1.5 armor). This provides Axe with significant late-game scaling armor.",
+    "search_text": "Axe D innate Coat of Blood 0.2 0.3 0.4 0.5 armor per hero kill Culling Blade kill gives 3x 1.5 armor scaling",
+    "tags": [
+      "AXE",
+      "ABILITY_DATA",
+      "COAT_OF_BLOOD",
+      "INNATE",
+      "SCALING"
+    ]
+  },
+  {
+    "display_text": "When playing against illusion or summon-heavy lineups (e.g., Chaos Knight, Nature's Prophet), Counter Helix will trigger constantly on the illusions, often wasting its cooldown and reducing your effective damage output in fights. Prioritize items like Crimson Guard or Shiva's Guard for AoE mitigation, and focus on using Culling Blade to delete the real hero quickly.",
+    "search_text": "Axe vs illusions summons Chaos Knight Nature's Prophet Counter Helix wasted cooldown build Crimson Guard Shiva's Guard focus Culling Blade real hero",
+    "tags": [
+      "AXE",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "When playing from behind without a Blink Dagger, Axe's impact plummets. In this scenario, focus on farming safely with Battle Hunger and Counter Helix stacks from jungle camps. Build cheaper survival items like Vanguard and Hood of Defiance to become a frontline tank. Use Berserker's Call defensively to protect your core if enemies dive your tower.",
+    "search_text": "Axe behind no Blink Dagger farm jungle Battle Hunger Counter Helix Vanguard Hood of Defiance tank defensive Berserker's Call",
+    "tags": [
+      "AXE",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Against high physical damage lineups, Axe's natural tankiness from armor and Berserker's Call shines. Prioritize items that amplify this, such as Assault Cuirass and Shiva's Guard. The 'Call Out' Facet becomes particularly strong here, as the extra armor from the modified Berserker's Call further negates the enemy's physical attack speed bonus.",
+    "search_text": "Axe vs high physical damage armor Berserker's Call Assault Cuirass Shiva's Guard Call Out Facet extra armor negates enemy attack speed",
+    "tags": [
+      "AXE",
+      "SITUATIONAL",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Against heavy magic damage and disables, Axe can be burst down before he can act. In these games, a fast Hood of Defiance into Pipe of Insight is critical. Consider a Black King Bar (BKB) after Blink Dagger to ensure you can get your Berserker's Call off without being interrupted by stuns or silences.",
+    "search_text": "Axe vs magic burst disables Hood of Defiance Pipe of Insight Black King Bar BKB ensure Berserker's Call initiation",
+    "tags": [
+      "AXE",
+      "SITUATIONAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "When your team lacks lockdown, Axe's Berserker's Call becomes the primary initiation tool. Maximize its effectiveness by getting a Blink Dagger as fast as possible and consider an Aghanim's Scepter later to apply Battle Hunger in an AoE after a Call, providing additional soft control and damage.",
+    "search_text": "Axe team lacks lockdown Berserker's Call primary initiation fast Blink Dagger Aghanim's Scepter AoE Battle Hunger control",
+    "tags": [
+      "AXE",
+      "SITUATIONAL",
+      "INITIATOR_ROLE"
+    ]
+  },
+  {
+    "display_text": "At Level 10, choose between +3s Culling Blade Kill Buff Bonus Duration and +8% Movement Speed per active Battle Hunger. The duration talent makes the post-execute speed and armor buff last 9 seconds, great for prolonged chases. The movement speed talent provides up to 40% extra speed with 5 Battle Hungers, enhancing mobility and chasing power in fights where you can't get a quick kill.",
+    "search_text": "Axe talent level 10 left +3s Culling Blade buff duration 9 seconds right +8% Movement Speed per Battle Hunger 40% speed chase",
+    "tags": [
+      "AXE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At Level 15, choose between +10 Battle Hunger Damage Per Second and +10 Berserker's Call Armor. The Battle Hunger talent increases its DPS to 40 at max level, improving your harassment and wave clear. The Berserker's Call armor talent gives you a total of 25 bonus armor during the taunt, making you incredibly durable against physical damage during your initiation. Pick based on whether you need more damage/mobility or survivability.",
+    "search_text": "Axe talent level 15 left +10 Battle Hunger DPS 40 damage right +10 Berserker's Call Armor 25 total armor survivability",
+    "tags": [
+      "AXE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At Level 20, choose between +15 Strength and +40 Counter Helix Damage. The Strength talent provides 285 health and some damage, adding to overall tankiness. The Counter Helix talent increases its pure damage to 200, significantly boosting your AoE damage output in fights, especially against spell immune targets. This is a classic choice between survivability and damage.",
+    "search_text": "Axe talent level 20 left +15 Strength 285 health right +40 Counter Helix Damage 200 pure damage AoE",
+    "tags": [
+      "AXE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At Level 25, choose between +85 Berserker's Call AoE and +150 Culling Blade Damage. The AoE talent increases Berserker's Call radius from 315 to 400, allowing you to taunt significantly more enemies in a fight. The damage talent increases Culling Blade's pure damage to 625, making it a much more reliable execution tool against tanky heroes and increasing your kill threshold dramatically.",
+    "search_text": "Axe talent level 25 left +85 Berserker's Call AoE 400 radius right +150 Culling Blade Damage 625 pure damage execute",
+    "tags": [
+      "AXE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

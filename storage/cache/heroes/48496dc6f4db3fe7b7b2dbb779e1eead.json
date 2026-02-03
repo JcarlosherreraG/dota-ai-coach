@@ -1,0 +1,198 @@
+[
+  {
+    "display_text": "Viper is a ranged agility hero with base 21 Strength, 21 Agility, and 17 Intelligence. He has a slow 1.7 base attack time and is a ranged attacker. Compared to average heroes, his balanced starting attributes offer no extreme strengths or weaknesses. His ranged nature combined with his Poison Attack skill defines his harass-heavy laning phase.",
+    "search_text": "Viper base stats attack type ranged agility hero base attack time 1.7",
+    "tags": [
+      "VIPER",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Viper has two Facets: Poison Burst and Caustic Bath. Poison Burst causes enemies around a target to take damage when Poison Attack stacks expire, enhancing his area damage potential in teamfights. Caustic Bath increases Corrosive Skin's effects while Viper stands inside his own Nethertoxin, significantly boosting his durability and damage output when he can control the area. Choose Poison Burst for maximizing teamfight splash damage against grouped enemies. Choose Caustic Bath for a more front-line, tanky playstyle where you can fight inside your Nethertoxin zones.",
+    "search_text": "Viper Facets Poison Burst Caustic Bath area damage teamfight durability front-line",
+    "tags": [
+      "VIPER",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, prioritize Poison Attack. Its 4/8/12/16 damage per second over 4 seconds and 25 bonus range allows you to harass enemies safely. Use it to apply stacking slows and magic resistance reduction. Your goal is to dominate your lane by constantly applying pressure with this orb-walking ability, denying farm and securing last hits. Nethertoxin can be taken at level 2 to help secure ranged creeps or harass enemies who stand still, but Poison Attack is your primary tool.",
+    "search_text": "Viper laning phase Poison Attack harass orb-walk 4 8 12 16 damage per second 25 bonus range slow magic resistance reduction",
+    "tags": [
+      "VIPER",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Viper's key power spikes are: Level 6 with Viper Strike for kill threat. Level 12 with maxed Nethertoxin and Corrosive Skin for strong mid-game pushing and fighting. Level 18 with maxed ultimate. Talent levels: 10 for utility, 15 for increased damage or slow, 20 for significant Corrosive Skin boost, and 25 for a major Viper Strike cooldown/manacost reduction or a dynamic Nethertoxin. Essential item timings include an early Magic Wand and Power Treads, followed by Dragon Lance for range and stats, and a defensive item like Black King Bar or a damage item like Hurricane Pike.",
+    "search_text": "Viper power spikes level 6 Viper Strike level 12 Nethertoxin Corrosive Skin level 18 talent levels 10 15 20 25 items Dragon Lance Black King Bar",
+    "tags": [
+      "VIPER",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Viper is hard countered by heroes or items that apply Break. Break disables his Corrosive Skin passive (and the Predator passive). This makes him significantly less tanky and reduces his damage output. Instant disables like Hex prevent him from using his abilities or items to escape. High magic burst damage can also bypass his Corrosive Skin magic resistance if he is caught without it active.",
+    "search_text": "Viper counters Break disables Corrosive Skin Predator passive Hex instant disable magic burst",
+    "tags": [
+      "VIPER",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core build for Viper consists of: 1. Power Treads for attack speed and attribute toggling. 2. Dragon Lance (and later Hurricane Pike) to increase his attack range, survivability, and provide an escape/disengage. 3. Black King Bar is almost always essential to allow him to stand and fight without being disabled, maximizing his Poison Attack and Predator damage output.",
+    "search_text": "Viper core items Power Treads Dragon Lance Hurricane Pike Black King Bar BKB",
+    "tags": [
+      "VIPER",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Viper's role is to be a front-line damage dealer and anti-carry. Use Viper Strike on the enemy's key right-clicker or mobile core to slow them and disable their passives. Position yourself to apply Poison Attack stacks to multiple targets. Drop Nethertoxin on choke points or clumped enemies to reduce their attack speed and deal damage over time. Your Corrosive Skin makes you deceptively tanky against magic damage, allowing you to absorb spells while your damage-over-time effects whittle down the enemy team.",
+    "search_text": "Viper teamfight role front-line damage dealer anti-carry Viper Strike slow disable passives Poison Attack stacks Nethertoxin attack speed slow Corrosive Skin tanky",
+    "tags": [
+      "VIPER",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Poison Attack: An active ability that intensifies Viper's next attack. It deals 4/8/12/16 damage per second over 4 seconds, grants 25 bonus attack range, and applies a stacking movement speed slow (3/6/9/12%) and magic resistance reduction (4/6/8/10). Stacks up to 6 times. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Poison Attack Q Viper skill ability orb attack 4 8 12 16 dps 25 range slow 3 6 9 12 percent magic resist reduction 4 6 8 10 stacks 6",
+    "tags": [
+      "VIPER",
+      "ABILITY_DATA",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "Nethertoxin: Viper releases a toxin at a target 400 radius area. Units inside take increasing damage over time based on duration, from 15/25/35/45 minimum to 35/65/95/125 maximum damage. Their attack speed is slowed by 30/40/50/60%. The effect lasts 6.5/7/7.5/8 seconds. Multiple Nethertoxins do not stack. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Nethertoxin W Viper ability area damage over time DoT 15 25 35 45 min 35 65 95 125 max attack slow 30 40 50 60 percent duration 6.5 7 7.5 8 radius 400",
+    "tags": [
+      "VIPER",
+      "ABILITY_DATA",
+      "W"
+    ]
+  },
+  {
+    "display_text": "Corrosive Skin: A passive ability. Any enemy that damages Viper within 1200 range takes 8/16/24/32 damage per second and has their attack speed slowed by 9/18/27/36% for 4 seconds. Viper also gains 10/15/20/25% bonus magic resistance. Break prevents application of this passive. Does NOT pierce BKB (no pierce_immunity attribute found).",
+    "search_text": "Corrosive Skin E Viper passive ability aura 1200 range 8 16 24 32 dps attack speed slow 9 18 27 36 percent magic resistance 10 15 20 25 percent break disables",
+    "tags": [
+      "VIPER",
+      "ABILITY_DATA",
+      "E"
+    ]
+  },
+  {
+    "display_text": "Nosedive: Viper slams into the ground, releasing a Nethertoxin and splattering each enemy in a 500 AoE for 4 seconds with the effect of Corrosive Skin. Dive speed is 700. This is a mobility and initiation tool that applies his core debuffs in an area.",
+    "search_text": "Nosedive Shard Viper ability dive slam Nethertoxin Corrosive Skin apply 500 AoE 4 seconds speed 700 initiation",
+    "tags": [
+      "VIPER",
+      "ABILITY_DATA",
+      "SHARD"
+    ]
+  },
+  {
+    "display_text": "Predator: An innate passive ability. Viper's attacks deal an additional instance of physical damage per missing health percentage of the target hero, equal to 0.15 + 0.05 per Viper's level. This makes him exceptionally strong against low-health targets. Break disables this passive.",
+    "search_text": "Predator innate passive Viper attack physical damage missing health 0.15 plus 0.05 per level break disables",
+    "tags": [
+      "VIPER",
+      "ABILITY_DATA",
+      "INNATE"
+    ]
+  },
+  {
+    "display_text": "Viper Strike: Viper's ultimate. He slows the target's movement and attack speed, disables their passives (pierces Break immunity), and deals 70/110/150 damage per second over 6 seconds. The slowing effect reduces over time. It provides Viper with 60/70/80 bonus movement speed and 100/140/180 bonus attack speed for the duration. Cooldown is 50/40/30 seconds, manacost 100/150/200. Has 2 charges with a 30 second restore time. Pierces BKB (does_break: 1).",
+    "search_text": "Viper Strike R ultimate Viper slow disable passives Break 70 110 150 dps 6 seconds movement speed 60 70 80 attack speed 100 140 180 cooldown 50 40 30 mana 100 150 200 charges 2 pierces BKB",
+    "tags": [
+      "VIPER",
+      "ABILITY_DATA",
+      "R",
+      "ULTIMATE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus High Armor or High HP Heroes (e.g., Dragon Knight, Centaur). Your Predator passive deals physical damage based on missing health, which is effective, but their high armor reduces it. Prioritize items that reduce armor (e.g., Desolator) or provide percentage-based damage (e.g., Eye of Skadi). Your magic damage from Poison Attack and Nethertoxin remains reliable. Use Nethertoxin's attack speed slow to cripple their right-click.",
+    "search_text": "Viper versus high armor high HP Dragon Knight Centaur Predator physical damage missing health buy Desolator armor reduction Eye of Skadi slow Nethertoxin attack slow",
+    "tags": [
+      "VIPER",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. If you are underfarmed, focus on being a utility hero. Max Corrosive Skin for survivability. Build cheaper, survivability items like Magic Wand, Bracer, and Hood of Defiance. Use Viper Strike defensively to slow diving enemies. Farm with Nethertoxin to safely clear waves. Your role shifts to providing vision and control with your slows rather than being the primary damage dealer.",
+    "search_text": "Viper playing from behind underfarmed utility max Corrosive Skin survivability items Magic Wand Bracer Hood of Defiance Viper Strike defensive farm Nethertoxin wave clear",
+    "tags": [
+      "VIPER",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion Heroes (e.g., Chaos Knight, Phantom Lancer). Your single-target damage is strong but can be overwhelmed. Build area damage items like Mjollnir or Gleipnir. Viper Strike is excellent for locking down the real hero among illusions. Nethertoxin's area attack speed slow affects all units in its radius, reducing the effectiveness of illusion swarms.",
+    "search_text": "Viper versus illusions Chaos Knight Phantom Lancer Mjollnir Gleipnir area damage Viper Strike lock real hero Nethertoxin attack speed slow all units",
+    "tags": [
+      "VIPER",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Strong Save Support (e.g., Oracle, Dazzle). This allows you to play aggressively as a front-line core. You can itemize more for damage (e.g., Skadi, Daedalus) instead of pure survivability. Coordinate with your support to use Viper Strike on key targets, knowing you have backup heals and saves.",
+    "search_text": "Viper with save support Oracle Dazzle front-line aggressive item Skadi Daedalus damage coordinate Viper Strike key targets",
+    "tags": [
+      "VIPER",
+      "SITUATIONAL",
+      "WITH_SAVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy Team Has Strong Break (e.g., Silver Edge, Hoodwink). Break disables your Corrosive Skin and Predator passives. Your priority becomes avoiding being hit by the Break application. Buy Linken's Sphere to block Silver Edge active. Position carefully in fights. Consider buying items that provide raw stats and survivability that aren't disabled by Break, like Heart of Tarrasque or Satanic.",
+    "search_text": "Viper enemy has Break Silver Edge Hoodwink disables Corrosive Skin Predator buy Linken's Sphere avoid Break items Heart of Tarrasque Satanic",
+    "tags": [
+      "VIPER",
+      "SITUATIONAL",
+      "VS_BREAK"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left choice is +1s Viper Strike Duration. Right choice is +10% Poison Attack slow/damage. Choose +1s Viper Strike Duration if you are using your ultimate for pick-offs or to lock down a key target longer. Choose +10% Poison Attack slow/damage if you are focusing on right-click harassment and sustained damage in longer fights.",
+    "search_text": "Viper talent level 10 left +1 second Viper Strike duration right +10 percent Poison Attack slow damage pick-off lockdown sustained damage",
+    "tags": [
+      "VIPER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left choice is +30 Nethertoxin Min/Max Damage. Right choice is +20 Corrosive Skin Damage Per Second. Choose +30 Nethertoxin Damage if you need more burst/wave clear or are fighting inside your toxin frequently. Choose +20 Corrosive Skin DPS if you are being focused and want to punish attackers more, enhancing your tankiness and retaliation damage.",
+    "search_text": "Viper talent level 15 left +30 Nethertoxin min max damage right +20 Corrosive Skin dps burst wave clear tankiness retaliation",
+    "tags": [
+      "VIPER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left choice is +80 Viper Strike DPS. Right choice is +0.25 Predator Damage Per Missing Health. Choose +80 Viper Strike DPS for a massive boost to your single-target burst and kill threat on a locked-down target. Choose +0.25 Predator Damage if you are right-click focused and the enemy team has high-health heroes you need to shred; it scales incredibly well into the late game.",
+    "search_text": "Viper talent level 20 left +80 Viper Strike dps right +0.25 Predator damage per missing health single-target burst kill threat right-click high-health shred late game",
+    "tags": [
+      "VIPER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left choice is Nethertoxin Radius increases by 25 every 0.5s. Right choice is -50% Viper Strike manacost/cooldown. Choose the growing Nethertoxin radius for extreme area control in teamfights and high-ground defense. Choose the Viper Strike reduction to become a permanent threat, able to cast your powerful ultimate twice as often with half the mana cost, effectively locking down one or two heroes per fight.",
+    "search_text": "Viper talent level 25 left Nethertoxin radius increases 25 every 0.5 seconds right -50 percent Viper Strike mana cost cooldown area control teamfight high-ground defense permanent threat lockdown",
+    "tags": [
+      "VIPER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

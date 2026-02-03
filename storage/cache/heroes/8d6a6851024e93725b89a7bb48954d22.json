@@ -1,0 +1,201 @@
+[
+  {
+    "display_text": "Spectre is a melee agility carry with base Strength 21, Agility 26, Intelligence 16, and an attack rate of 1.8. She has low base damage and HP. Her melee nature makes her vulnerable in lane.",
+    "search_text": "Spectre stats melee agility carry attack rate 1.8 strength 21 agility 26 intelligence 16",
+    "tags": [
+      "SPECTRE",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "FACET: Forsaken - Desolate deals 1.5x damage (25 -\u003e 37.5) but her illusions no longer have Desolate. This massively increases her single-target pick-off potential but reduces her Haunt and Shadow Step illusion damage against groups. FACET: Twist the Knife - Reality also casts Spectral Dagger on the Haunt illusion's target. This provides an instant slow and terrain-passing chase after teleporting to a Haunt illusion, improving teamfight initiation and lockdown. FACET: Ephemeral - This facet does nothing and is a placeholder.",
+    "search_text": "Spectre facets Forsaken Desolate 1.5x damage illusions no Desolate single target Twist the Knife Reality casts Spectral Dagger on Haunt target initiation slow Ephemeral does nothing",
+    "tags": [
+      "SPECTRE",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Laning Phase: Spectre is a weak laner. Focus on last-hitting with high base attack time (1.8). Use Spectral Dagger (70 damage, 22s cooldown at level 1) to secure ranged creeps or harass from safety. The path gives you 10% bonus move speed and phasing. Max Desolate for later damage or Spectral Dagger for lane presence. Build early survivability items like Ring of Health towards Radiance or Diffusal Blade components.",
+    "search_text": "Spectre laning weak last hit Spectral Dagger 70 damage 22 cooldown harass secure creep path 10 movespeed phasing Desolate",
+    "tags": [
+      "SPECTRE",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 (Haunt) enables global presence and assists. Level 12 with Radiance or Diffusal Blade and maxed Desolate or Dispersion. Level 18 with maxed Haunt (7s duration). Level 20 talent (+15% Spectral Dagger Slow/Bonus). Level 25 talent (+5% Dispersion). Key item spikes are Radiance (farm acceleration), Manta Style (illusion synergy), Skadi (slow and tank).",
+    "search_text": "Spectre power spikes level 6 Haunt level 12 Radiance Diffusal Blade Desolate Dispersion level 18 Haunt 7s level 20 talent 15 Spectral Dagger level 25 talent 5 Dispersion",
+    "tags": [
+      "SPECTRE",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: Break mechanics (e.g., Silver Edge, Doom) disable Desolate and Dispersion, removing her damage and survivability. High-damage burst heroes can kill her before Dispersion reflects meaningful damage. Heroes with illusions or summons (e.g., Chaos Knight, Phantom Lancer) negate Desolate's isolation requirement. Instant disables (e.g., Hex) prevent her from using Reality to escape. Mana burn (e.g., Diffusal Blade, Antimage) hurts her low mana pool.",
+    "search_text": "Spectre counters Break Silver Edge Doom Desolate Dispersion disabled burst kills before Dispersion reflects illusions summons Chaos Knight Phantom Lancer negate Desolate isolation instant Hex prevents Reality escape mana burn Diffusal Antimage",
+    "tags": [
+      "SPECTRE",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: 1. Radiance - Core farming item, Haunt illusions burn enemies globally. 2. Manta Style - Creates Desolate-enabled illusions (unless Forsaken facet), dispels, increases farm and split-push. 3. Eye of Skadi - Provides massive HP, slow on hit, and stats, solving her tank and chase issues. Alternative early core: Diffusal Blade for early mana burn and kill threat with Shadow Step.",
+    "search_text": "Spectre core items Radiance farm Haunt illusions burn Manta Style illusions Desolate dispel Eye of Skadi HP slow stats Diffusal Blade early kill mana burn",
+    "tags": [
+      "SPECTRE",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Spectre is a late-game teamfight carry and global threat. Initiate fights with Haunt, sending illusions to all enemy heroes. Use Reality to jump to a key target, applying Spectral Dagger (with Twist the Knife facet) and slow. Focus isolated targets with Desolate for pure damage. Her Dispersion (8/12/16/20% damage reflection) makes her deceptively tanky and punishes area damage. Clean up with Spectral Dagger chase.",
+    "search_text": "Spectre teamfight late game carry global Haunt initiate illusions Reality jump key target Spectral Dagger slow Desolate isolated pure damage Dispersion 8 12 16 20 damage reflection tanky",
+    "tags": [
+      "SPECTRE",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Spectral Dagger (Q). Flings a dagger dealing 70/120/170/220 damage and slowing enemies along its path. The dagger creates a Shadow Path for 12 seconds. While on the path, Spectre gains 10/14/18/22 bonus movement speed and phases through terrain. The path radius is 175. Does not pierce BKB (no pierce_immunity attribute). Cooldown: 22/20/18/16 seconds.",
+    "search_text": "Spectral Dagger Q damage 70 120 170 220 slow path Shadow Path 12 seconds bonus movespeed 10 14 18 22 phasing terrain radius 175 cooldown 22 20 18 16",
+    "tags": [
+      "SPECTRE",
+      "ABILITY_DATA",
+      "Q",
+      "SLOW",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Ability: Desolate (Passive). Spectre and her illusions deal 25 bonus pure damage when attacking an enemy hero with no other enemy units within 350 radius. Damage is dealt before her attack. Does NOT pierce BKB (no pierce_immunity attribute). Illusions also have Desolate, unless the Forsaken facet is chosen.",
+    "search_text": "Desolate passive pure damage 25 bonus isolated no units within 350 radius illusions also have Desolate Forsaken facet removes from illusions",
+    "tags": [
+      "SPECTRE",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "PURE_DAMAGE",
+      "ISOLATION"
+    ]
+  },
+  {
+    "display_text": "Ability: Dispersion (W). Passively reflects 8/12/16/20% of damage taken to all nearby enemies. The reflection lessens with distance from Spectre, from max damage at 350 range to minimum at 800 range. The reflected damage is not dealt to Spectre. Damage is reflected before reductions. Does NOT pierce BKB (no pierce_immunity attribute). Illusions do NOT have this ability.",
+    "search_text": "Dispersion W passive damage reflection 8 12 16 20 percent radius 350 to 800 damage not taken by Spectre before reductions illusions do not have",
+    "tags": [
+      "SPECTRE",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "DAMAGE_REFLECTION",
+      "TANK"
+    ]
+  },
+  {
+    "display_text": "Ability: Shadow Step (E). Targets an enemy hero within 750/900/1050/1200 range. Sends an uncontrollable illusion that follows and attacks the target for 3.5/4/4.5/5 seconds. The illusion deals 32/38/44/50% of Spectre's damage and takes 200% incoming damage. The illusion moves at 900 speed. Reality sub-ability (D) allows teleporting to the illusion, destroying it.",
+    "search_text": "Shadow Step E range 750 900 1050 1200 illusion uncontrollable duration 3.5 4 4.5 5 deals 32 38 44 50 damage takes 200 damage movespeed 900 Reality D teleport",
+    "tags": [
+      "SPECTRE",
+      "ABILITY_DATA",
+      "E",
+      "ILLUSION",
+      "GAP_CLOSE"
+    ]
+  },
+  {
+    "display_text": "Ability: Reality (D). Sub-ability. Teleports Spectre to a target Shadow Step or Haunt illusion, destroying it. Cast range is global. Cooldown: 1.5 seconds. With the Twist the Knife facet, also casts Spectral Dagger on the Haunt illusion's target.",
+    "search_text": "Reality D teleport to Shadow Step Haunt illusion destroys it global cooldown 1.5 Twist the Knife facet casts Spectral Dagger on target",
+    "tags": [
+      "SPECTRE",
+      "ABILITY_DATA",
+      "D",
+      "TELEPORT",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Ability: Haunt (R). Ultimate. Creates an illusion for every enemy hero for 5/6/7 seconds. Haunt illusions are uncontrollable, take 200% damage, and deal 30/55/80% of Spectre's damage (after the -70/-45/-20 outgoing damage penalty). They ignore terrain. Reality (D) can be used to teleport to any illusion. Cooldown: 180/160/140 seconds. Aghanim's Scepter reduces cooldown by 20 seconds.",
+    "search_text": "Haunt R ultimate illusion every enemy hero duration 5 6 7 takes 200 damage deals 30 55 80 damage ignore terrain Reality D teleport cooldown 180 160 140 Aghanim Scepter -20 cooldown",
+    "tags": [
+      "SPECTRE",
+      "ABILITY_DATA",
+      "R",
+      "ULTIMATE",
+      "GLOBAL",
+      "ILLUSION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. If you die in lane or your team is losing, skip Radiance. Build cheaper fighting items like Diffusal Blade and Blade Mail. Use Haunt to assist in fights anywhere on the map for easy kills and assist gold. Focus on farming jungle with Dispersion tankiness. Consider the Twist the Knife facet for easier pick-offs with Haunt + Reality + Dagger.",
+    "search_text": "Spectre behind losing skip Radiance Diffusal Blade Blade Mail fighting Haunt assist global kills farm jungle Dispersion tank Twist the Knife facet pickoff",
+    "tags": [
+      "SPECTRE",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Magic Burst. Enemies like Zeus or Lina can kill you quickly. Build early HP (Vanguard, later Heart of Tarrasque) and Magic Resistance (Black King Bar). Your Dispersion reflects magic damage. Use Black King Bar to survive initial burst and let Dispersion reflect damage. Consider the Forsaken facet for faster single-target elimination before you die.",
+    "search_text": "Spectre vs magic burst Zeus Lina HP Vanguard Heart Tarrasque Magic Resistance BKB Dispersion reflects magic damage Forsaken facet kill fast",
+    "tags": [
+      "SPECTRE",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Split-Pushing and Map Pressure. Use Haunt to join fights instantly from anywhere. Build Manta Style to push lanes safely with illusions. Use Spectral Dagger to escape through trees. The Forsaken facet is weaker here as illusions lose Desolate for pushing. The Twist the Knife facet is better for joining fights with a slow.",
+    "search_text": "Spectre split push map pressure Haunt join fights global Manta Style illusions push lanes Spectral Dagger escape trees Forsaken facet weaker illusions no Desolate Twist the Knife better fight slow",
+    "tags": [
+      "SPECTRE",
+      "SITUATIONAL",
+      "SPLIT_PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Illusion/Summon Heroes (e.g., Chaos Knight, Phantom Lancer). Desolate is useless as enemies are rarely isolated. Build Battle Fury for cleave and farm acceleration, or Mjollnir for static charge. Focus on Radiance burn damage. Dispersion is less effective as damage is spread. Teamfight role shifts to killing the real hero with Haunt identification.",
+    "search_text": "Spectre vs illusions summons Chaos Knight Phantom Lancer Desolate useless Battle Fury cleave Mjollnir static charge Radiance burn Dispersion less effective Haunt find real hero",
+    "tags": [
+      "SPECTRE",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left choice is -4s Spectral Dagger Cooldown (22/20/18/16 -\u003e 18/16/14/12). Right choice is +12 Desolate Damage (25 -\u003e 37). Choose Cooldown reduction for more frequent chase, escape, and damage. Choose Desolate Damage for faster farming and higher single-target burst, especially with the Forsaken facet.",
+    "search_text": "Spectre talent level 10 left -4s Spectral Dagger Cooldown 18 16 14 12 right +12 Desolate Damage 37 chase vs farm burst",
+    "tags": [
+      "SPECTRE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left choice is +80 Spectral Dagger Damage (70/120/170/220 -\u003e 150/200/250/300). Right choice is +350 Health. Choose Damage for significant nuke increase, improving wave clear and hero damage. Choose Health for survivability, synergizing with Dispersion's damage reflection. Generally, Health is safer and more consistent.",
+    "search_text": "Spectre talent level 15 left +80 Spectral Dagger Damage 150 200 250 300 right +350 Health nuke vs survivability Dispersion synergy",
+    "tags": [
+      "SPECTRE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left choice is +15% Spectral Dagger Slow/Bonus (10/14/18/22 -\u003e 25/29/33/37 bonus move speed, slow increased similarly). Right choice is +20% All Spectre Illusion Damage (affects Haunt and Shadow Step illusions). Choose Slow/Bonus for exceptional chase and escape mobility. Choose Illusion Damage if your Haunt and Shadow Step are primary damage sources, especially without the Forsaken facet.",
+    "search_text": "Spectre talent level 20 left 15 Spectral Dagger Slow Bonus movespeed 25 29 33 37 right 20 All Spectre Illusion Damage Haunt Shadow Step mobility vs illusion damage",
+    "tags": [
+      "SPECTRE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left choice is +5% Dispersion (8/12/16/20 -\u003e 13/17/21/25% damage reflection). Right choice is +25% Haunt Illusion Damage (from 30/55/80% to 55/80/105%). Choose Dispersion for massive tankiness and teamfight damage reflection. Choose Haunt Illusion Damage for global teamfight presence and pick-off potential. Dispersion is generally the stronger late-game talent.",
+    "search_text": "Spectre talent level 25 left 5 Dispersion 13 17 21 25 damage reflection right 25 Haunt Illusion Damage 55 80 105 tankiness vs global damage",
+    "tags": [
+      "SPECTRE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

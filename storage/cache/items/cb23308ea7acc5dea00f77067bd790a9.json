@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Gale Guard, Cost: 0: Tier Neutral item. Provides Cyclonic Shield active ability that creates a barrier absorbing 75% of incoming damage up to 225 max for 10 seconds. While active, grants 50% Slow Resistance. No mana cost. Stats: CD: 30s, Barrier Duration: 10s, Barrier Amount: 225, Barrier Absorb: 75%, Slow Resist: 50%.",
+    "search_text": "gale guard, cyclone shield, damage barrier, damage absorb, magic barrier, defensive neutral, save neutral, slow resistance neutral, damage reduction neutral, shield neutral, Cyclonic Shield, barrier item, defensive item, neutral item, protection neutral, Gale Guard",
+    "tags": [
+      "ITEM_DATA",
+      "GALE_GUARD",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "DEFENSIVE",
+      "BARRIER",
+      "DAMAGE_REDUCTION",
+      "SLOW_RESISTANCE",
+      "SAVE"
+    ]
+  }
+]

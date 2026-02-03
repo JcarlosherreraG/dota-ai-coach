@@ -1,0 +1,66 @@
+[
+  {
+    "display_text": "Cost: 0: Pyrrhic Cloak reflects 75% of damage taken back to a target enemy hero or unit as physical damage for 6 seconds if they are within 1200 range. This creates a high-risk, high-reward scenario where surviving the duration allows you to inflict massive retaliation damage. It's ideal for durable initiators who can survive to punish focused aggression. Stats: CD: 40s, Duration: 6s, Max Range: 1200.",
+    "search_text": "damage reflection item, reflect damage, retaliation damage, physical damage reflect, damage return, punish focus, initiator item, duel item, brawl item, tank item, counter burst, Pyrrhic Cloak, reflect, counter damage, damage amplifier",
+    "tags": [
+      "ITEM_DATA",
+      "PYRRHIC_CLOAK",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DAMAGE_REFLECTION",
+      "PHYSICAL_DAMAGE",
+      "DEFENSIVE",
+      "COUNTER_BURST"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Provides no direct attribute or stat bonuses. Its power comes entirely from its potent active ability, making it a pure utility item focused on turning damage against attackers.",
+    "search_text": "pyrrhic cloak stats, no stats item, utility item, active only, stat profile, Pyrrhic Cloak",
+    "tags": [
+      "ITEM_DATA",
+      "PYRRHIC_CLOAK",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Core team fight tool for durable heroes who can survive bursts of damage. Its use discourages enemies from focusing you, creating space for your team while potentially deleting the primary attacker. Requires careful timing to maximize reflected damage and mitigate the significant risk of being targeted.",
+    "search_text": "team fight role, initiator item, tank item, space creator, damage deterrent, punish attacker, survive focus, Pyrrhic Cloak, team fight utility, duel tool",
+    "tags": [
+      "ITEM_DATA",
+      "PYRRHIC_CLOAK",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "INITIATION",
+      "DEFENSIVE",
+      "DAMAGE_AMPLIFICATION"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Situational against heavy single-target burst heroes who rely on quick kills. Forces the enemy to reconsider focusing you, turning their damage against them. Less effective against spread damage or illusion/summon-based damage.",
+    "search_text": "vs single target, vs burst damage, counter burst, anti carry, duel item, counter focus, vs physical burst, retaliate, Pyrrhic Cloak",
+    "tags": [
+      "ITEM_DATA",
+      "PYRRHIC_CLOAK",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_BURST",
+      "COUNTER_BURST",
+      "ANTI_CARRY"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Synergizes with heroes who have high survivability through high health, damage block, or damage reduction abilities (e.g., Bristleback, Axe, Centaur Warrunner). Also effective on heroes who can initiate and absorb key spells. The 40-second cooldown demands careful use in major engagements.",
+    "search_text": "pyrrhic cloak synergy, tank heroes, durability synergy, initiator synergy, brawl heroes, frontline item, high hp heroes, Pyrrhic Cloak",
+    "tags": [
+      "ITEM_DATA",
+      "PYRRHIC_CLOAK",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "TANK_ITEM",
+      "INITIATOR_ITEM",
+      "DURABILITY"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Tough, Tier: Enhancement: A neutral item upgrade that permanently increases the holder's bonus damage and armor. The final stage also provides significant knockback resistance, making the holder harder to displace. Does not require an item slot. Stats: Damage: +16, Armor: +8, Knockback Resist: 40%.",
+    "search_text": "enhancement tough, tough upgrade, neutral item upgrade, bonus damage, armor upgrade, damage enhancement, permanent stats, stat upgrade, knockback resistance, anti-knockback, dispel resistance, upgrade item, Enhance, Tough",
+    "tags": [
+      "ITEM_DATA",
+      "TOUGH",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "ENHANCEMENT",
+      "DAMAGE",
+      "ARMOR",
+      "SURVIVAL",
+      "STATS",
+      "UPGRADE",
+      "VS_PHYSICAL"
+    ]
+  }
+]

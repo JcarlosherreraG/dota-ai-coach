@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Poor Man's Shield, Cost: 0: Item classified as Poor Man's Shield. This tier 2 neutral item provides a damage block passive with a 100% chance to block 30 damage from melee heroes and 20 damage from ranged heroes. Has a 50% chance to block damage from creeps, providing early game survivability for agility-based heroes. Stats: Damage Block: 30/20, Block Chance vs Heroes: 100%, Block Chance vs Creeps: 50%.",
+    "search_text": "damage block item, early game defense, poor man's shield, neutral item, tier 2, agility defense, lane sustain, harass mitigation, creep block, hero block, melee defense, ranged defense, survivability, early survivability, agility item, damage reduction, neutral tier 2, Poor Man's Shield, PMS",
+    "tags": [
+      "ITEM_DATA",
+      "POOR_MANS_SHIELD",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_2",
+      "VS_PHYSICAL",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "ARMOR",
+      "LANING",
+      "SUSTAIN"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Gossamer Cape, Cost: 0: Neutral item providing Sixth Sense passive ability (automatically dodges an attack from an enemy hero). Grants no movement speed or other attributes. Functions as a single-use evasion tool against hero attacks. Stats: CD: 6s.",
+    "search_text": "gossamer cape, neutral item, auto dodge, attack dodge, sixth sense, evasion neutral, hero attack counter, defensive neutral, escape neutral, automatic dodge, attack evasion, survival neutral, defense item, passive dodge, Gossamer Cape",
+    "tags": [
+      "ITEM_DATA",
+      "GOSSAMER_CAPE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "EVASION",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "VS_PHYSICAL",
+      "PASSIVE"
+    ]
+  }
+]

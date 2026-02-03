@@ -1,0 +1,15 @@
+[
+  {
+    "display_text": "Pirate Hat. Tier N/A: Non-purchasable cursed item providing passive gold steal from enemy deaths and reduces gold loss on death. Plunder: Steals 150 gold when an enemy hero dies within 2400 units (400 extra gold if the wearer scores the kill). Buried Treasure: Reduces gold lost on death by 100%. A powerful economic swing tool.",
+    "search_text": "pirate hat, gold steal, bounty steal, gold loss reduction, deny gold, bounty modifier, passive gold, income item, neutral item, economic advantage, anti-bounty, kill gold, deny gold, steal gold, gold advantage, Pirate Hat",
+    "tags": [
+      "ITEM_DATA",
+      "PIRATE_HAT",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "INCOME",
+      "UTILITY",
+      "ECONOMIC"
+    ]
+  }
+]

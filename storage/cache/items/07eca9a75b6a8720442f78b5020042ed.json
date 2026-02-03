@@ -1,0 +1,61 @@
+[
+  {
+    "display_text": "Power Treads, Cost: 1400: Boots that provide +25 Attack Speed and +10 to a selected attribute (Strength, Agility, or Intelligence). Allows switching between attributes via active ability, adapting to needs for HP, damage, or mana. Grants +55 MS for melee heroes, +45 MS for ranged. Stats: CD: 0s, Attack Speed: +25, Selected Stat: +10, Melee MS: +55, Ranged MS: +45.",
+    "search_text": "power treads, stat switch boots, attribute boots, attack speed boots, treads, switch stats, strength treads, agility treads, int treads, tread switch, mobility boots, farming boots, Power Treads",
+    "tags": [
+      "ITEM_DATA",
+      "POWER_TREADS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "ATTRIBUTE_SWITCH",
+      "ATTACK_SPEED",
+      "MOBILITY",
+      "BOOTS",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Power Treads, Cost: 1400: Core stat profile includes +25 Attack Speed and +10 to Strength, Agility, or Intelligence depending on active selection. No bonus base damage. Grants +55 movement speed for melee heroes, +45 for ranged heroes. Provides a versatile early-game platform for heroes who scale with attack speed and benefit from the stat swap utility.",
+    "search_text": "treads stats, power treads stats, attack speed item, stat item, early game stats, farming stats, attribute item, damage platform, Power Treads",
+    "tags": [
+      "ITEM_DATA",
+      "POWER_TREADS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ATTACK_SPEED",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE",
+      "MOBILITY",
+      "BOOTS"
+    ]
+  },
+  {
+    "display_text": "Power Treads, Cost: 1400: Provides versatile utility and stats for farming heroes. The attribute switching allows efficient stat allocation for health (Strength), damage/armor (Agility), or mana pool/spell damage (Intelligence) as needed. The movement speed increase aids in lane positioning and chasing. A cost-effective upgrade for carries and cores that accelerates farm through attack speed and adaptable stats.",
+    "search_text": "power treads farming, treads utility, stat switching, farming item, attack speed farm, core item, early game carry item, Power Treads",
+    "tags": [
+      "ITEM_DATA",
+      "POWER_TREADS",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "SUSTAIN",
+      "BOOTS"
+    ]
+  },
+  {
+    "display_text": "Power Treads, Cost: 1400: Core item for heroes who benefit from attack speed and efficient stat allocation, particularly mana-intensive spellcasters who can swap to Intelligence for casting then to Strength for survivability, or Agility carries who use attack speed. Synergizes with heroes like Phantom Assassin, Medusa, or Zeus who can leverage the stat switching mechanics for optimal resource management and damage output.",
+    "search_text": "treads synergy, hero treads, stat switch synergy, mana management item, efficient farming, attack speed hero, carry treads, Power Treads",
+    "tags": [
+      "ITEM_DATA",
+      "POWER_TREADS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "SPELLCASTER_ITEM",
+      "MANA_MANAGEMENT",
+      "SUSTAIN"
+    ]
+  }
+]

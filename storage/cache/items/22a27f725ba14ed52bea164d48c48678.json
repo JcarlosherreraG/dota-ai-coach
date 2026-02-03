@@ -1,0 +1,67 @@
+[
+  {
+    "display_text": "Desolator, Cost: 3500: Attacks apply Corruption, reducing the target's armor by -6 for 7 seconds. This effect is dispellable and works on buildings. The Soul Stealer passive grants +2 damage (or +1 for assists) each time an enemy hero dies while affected by Corruption, stacking up to +30 bonus damage. A powerful offensive item that amplifies physical damage output for the wielder and their team. Stats: Cost: 3500, Armor Reduction: -6, Duration: 7s, Max Bonus Damage: +30.",
+    "search_text": "desolator, armor reduction item, minus armor, physical damage amplification, building armor reduction, corruption, soul stealer, damage stacking, snowball item, debuff, attack modifier, physical damage carry, dps, right-click damage, armor shred, damage per kill, deso",
+    "tags": [
+      "ITEM_DATA",
+      "DESOLATOR",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DEBUFF",
+      "PHYSICAL_DAMAGE",
+      "DAMAGE",
+      "UPGRADE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Desolator, Cost: 3500: Provides a flat +55 damage increase to all attacks. The item's value is almost entirely in this raw damage output and its armor-reducing passive, providing no defensive stats, attributes, or utility effects. Stats: Bonus Damage: +55.",
+    "search_text": "desolator stats, damage item, raw damage, +55 damage, no utility, pure damage, Desolator",
+    "tags": [
+      "ITEM_DATA",
+      "DESOLATOR",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Desolator, Cost: 3500: A core damage amplification tool for physical damage teams. The -6 armor debuff effectively increases physical damage from all sources against the target, making it a force multiplier in team fights. Its ability to reduce building armor also makes it a key item for high-ground sieges and pushing objectives. Stats: Armor Reduction: -6, Duration: 7s.",
+    "search_text": "team fight item, physical team, armor shred team, building damage, siege item, objective damage, damage multiplier, team fight role, team synergy, Desolator",
+    "tags": [
+      "ITEM_DATA",
+      "DESOLATOR",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DEBUFF",
+      "PHYSICAL_DAMAGE",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Desolator, Cost: 3500: Highly effective against enemies stacking armor, as the flat -6 armor reduction has a greater impact on damage amplification against high-armor targets. Conversely, it is less effective against heroes who are naturally elusive, magic-resistant, or have damage-blocking abilities that negate the attack needed to apply the debuff. Stats: Armor Reduction: -6.",
+    "search_text": "situational item, vs armor, vs high armor, armor counter, tank counter, counter item, anti-armor, physical resistance counter, Desolator",
+    "tags": [
+      "ITEM_DATA",
+      "DESOLATOR",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_PHYSICAL",
+      "COUNTER",
+      "ANTI_ARMOR",
+      "DEBUFF"
+    ]
+  },
+  {
+    "display_text": "Desolator, Cost: 3500: A premier damage item for physical damage carries and heroes with high attack speed who can reliably apply the armor debuff to multiple targets. It is often built by heroes who want to accelerate their tower damage and snowball with kills due to the Soul Stealer passive. Typically purchased after core mobility or survivability items. Stats: Cost: 3500.",
+    "search_text": "carry item, attack speed synergy, right-click hero, physical carry, tower damage, snowball build, damage timing, hero synergy, Desolator",
+    "tags": [
+      "ITEM_DATA",
+      "DESOLATOR",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "DAMAGE",
+      "CARRY_ITEM",
+      "PUSH"
+    ]
+  }
+]

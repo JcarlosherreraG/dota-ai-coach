@@ -1,0 +1,202 @@
+[
+  {
+    "display_text": "Enigma is a ranged intelligence hero with base stats of 21 Strength, 14 Agility, and 19 Intelligence. His base attack speed is 1.7 seconds per attack, which is fairly slow. He has a low base HP pool but a decent mana pool for spellcasting in lane.",
+    "search_text": "Enigma stats ranged intelligence hero strength 21 agility 14 intelligence 19 attack rate 1.7",
+    "tags": [
+      "ENIGMA",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Enigma has two Facets: Gravity and Fragment. Gravity provides a passive Damage Reduction aura to allies near Enigma, scaling from 9%/11%/13%/15% at 200 distance to 0% at 500 distance. This facilitates a more supportive, teamfight-oriented playstyle, enhancing his allies' survivability around his Black Hole. Fragment modifies his Demonic Summoning, granting Eidolons a chance to split into additional Eidolons on attack. This facilitates a more aggressive, lane-dominating, and pushing playstyle.",
+    "search_text": "Enigma facets Gravity Fragment Gravity Well passive ally damage reduction 9 11 13 15 percent teamfight aura Fragment Demonic Summoning Eidolon split chance push lane",
+    "tags": [
+      "ENIGMA",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, prioritize Demonic Summoning (Eidolons) to secure last hits, harass the enemy, and deny creeps. Use Malefice at level 1 or 2 for a reliable stun and damage to set up kills or escape ganks. Your low armor and health make you vulnerable, so position your Eidolons between you and the enemy. Use Midnight Pulse at level 4 or 5 to farm stacked camps quickly and control the lane equilibrium by clearing waves.",
+    "search_text": "Enigma laning early game first 10 minutes Demonic Summoning Eidolon last hit harass deny Malefice stun damage Midnight Pulse farm stacks wave clear",
+    "tags": [
+      "ENIGMA",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Enigma's primary power spike is at level 6 with Black Hole. A successful Black Hole can win a teamfight. Level 12 (maxed Demonic Summoning and Midnight Pulse) is a strong farming and pushing spike. Level 18 (max Black Hole) increases teamfight damage. Talent levels 10, 15, 20, and 25 offer significant upgrades. Item spikes include Blink Dagger for initiation, Black King Bar to secure channeling, and Refresher Orb for double Black Hole.",
+    "search_text": "Enigma power spikes level 6 Black Hole teamfight level 12 max skills farm push level 18 talents Blink Dagger BKB Refresher Orb",
+    "tags": [
+      "ENIGMA",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Enigma is hard-countered by any hero with an instant, long-range disable that can interrupt Black Hole's channeling (e.g., Lion Hex, Shadow Shaman Hex, Bane Nightmare). Heroes with silence or root that can be applied from outside his vision range also counter him (e.g., Skywrath Mage, Silencer). Heroes with abilities that grant status resistance or reduce disable duration (e.g., Tiny with Grow, Slark with Dark Pact) can reduce Malefice's effectiveness. Spell immunity (BKB) blocks Malefice and Midnight Pulse damage.",
+    "search_text": "Enigma counters interrupt Black Hole channel instant disable hex silence root status resistance BKB spell immunity Malefice Midnight Pulse",
+    "tags": [
+      "ENIGMA",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Enigma's core build is Blink Dagger and Black King Bar. Blink Dagger is non-negotiable for initiating with Black Hole. Black King Bar is essential to prevent your ultimate from being interrupted by stuns and silences. A third essential item in the late game is often Refresher Orb for a second Black Hole.",
+    "search_text": "Enigma core items Blink Dagger BKB Black King Bar Refresher Orb ultimate initiation channel",
+    "tags": [
+      "ENIGMA",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Enigma's teamfight role is initiator and area-of-effect controller. Your job is to find a key Blink Dagger initiation with Black Hole on multiple enemy cores or supports. You must communicate with your team to follow up on your ultimate. Outside of Black Hole, use Midnight Pulse in the fight area for sustained percentage-based damage and Malefice to lock down a single target. Your Eidolons provide additional physical damage and can body-block or split-push other lanes during fights.",
+    "search_text": "Enigma teamfight role initiator AOE control Black Hole Blink Dagger initiate follow up Midnight Pulse percent damage Malefice stun Eidolon physical damage split push",
+    "tags": [
+      "ENIGMA",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Malefice focuses Enigma's power on a target, causing it to take 55/70/85/100 damage per instance and become repeatedly stunned for 0.3/0.5/0.7/0.9 seconds per instance. An instance strikes every 2.0 seconds, for a total of 3 instances. With Aghanim's Shard, the stun duration is increased by 0.30 seconds per instance.",
+    "search_text": "Malefice Q stun damage 55 70 85 100 per instance duration 0.3 0.5 0.7 0.9 instances 3 every 2.0 seconds Aghanim Shard bonus 0.30",
+    "tags": [
+      "ENIGMA",
+      "ABILITY_DATA",
+      "Q",
+      "STUN",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Demonic Summoning summons 3 Eidolons at the cost of Enigma's health. Each Eidolon has 180/200/220/240 base health plus 3% of Enigma's current health. They deal 16/27/38/49 base damage, have 280/310/340/370 movement speed, 425/450/475/500 attack range, and 30%/40%/50%/60% magic resistance. After landing 6 attacks, an Eidolon splits into two full-health Eidolons. Non-splitting Eidolons have their gold bounty reduced by 50%.",
+    "search_text": "Demonic Summoning W Eidolon summons 3 health 180 200 220 240 plus 3 percent current health damage 16 27 38 49 move speed 280 310 340 370 attack range 425 450 475 500 magic resist 30 40 50 60 split after 6 attacks gold bounty reduced 50",
+    "tags": [
+      "ENIGMA",
+      "ABILITY_DATA",
+      "W",
+      "SUMMON",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Midnight Pulse creates a pulsing area that deals 4%/6%/8%/10% of an enemy's max health as damage plus 5/10/15/20 base damage every 0.5 seconds for 9/10/11/12 seconds. The radius is 600. It destroys trees. Multiple instances of Midnight Pulse do not stack.",
+    "search_text": "Midnight Pulse E AOE percent max health damage 4 6 8 10 plus base 5 10 15 20 tick 0.5 duration 9 10 11 12 radius 600 destroys trees no stack",
+    "tags": [
+      "ENIGMA",
+      "ABILITY_DATA",
+      "E",
+      "AOE",
+      "PERCENT_DAMAGE",
+      "TREE_DESTROY"
+    ]
+  },
+  {
+    "display_text": "Gravity Well is a passive aura that grants allies within 500 distance of Enigma up to 9%/11%/13%/15% Damage Reduction. The effect starts at 0% at max distance (500) and increases to its maximum strength when the ally is at 200 distance. Does not affect Enigma himself.",
+    "search_text": "Gravity Well passive aura ally damage reduction 9 11 13 15 percent radius 500 max 200 min self unaffected",
+    "tags": [
+      "ENIGMA",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "AURA",
+      "DAMAGE_REDUCTION"
+    ]
+  },
+  {
+    "display_text": "Black Hole is a channeled ultimate that summons a vortex with a 420 radius, pulling enemies towards the center for 4 seconds. Enemies affected cannot move, attack, or cast spells. It deals 100/150/200 damage per second, with a tick rate of 0.1 seconds. The pull speed is 30 units per tick. Provides 800 vision. Black Hole pierces spell immunity (BKB).",
+    "search_text": "Black Hole R ultimate channel 4 seconds radius 420 pull disable stun damage per second 100 150 200 tick 0.1 pull speed 30 vision 800 pierces BKB",
+    "tags": [
+      "ENIGMA",
+      "ABILITY_DATA",
+      "R",
+      "ULTIMATE",
+      "CHANNEL",
+      "AOE",
+      "DISABLE",
+      "PIERCES_BKB"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Magic Resistance Lineups. Midnight Pulse deals percentage-based damage, which is reduced by magic resistance. Consider building items that reduce enemy magic resistance (e.g., Veil of Discord) to amplify your Black Hole and Midnight Pulse damage. The Eidolons from Demonic Summoning deal physical damage, which can be more effective against such heroes.",
+    "search_text": "Enigma vs high magic resistance lineup Midnight Pulse percent damage reduced Veil of Discord amplify Eidolon physical damage",
+    "tags": [
+      "ENIGMA",
+      "SITUATIONAL",
+      "VS_HIGH_MAGIC_RESIST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. If you cannot farm safely, max Demonic Summoning and use Eidolons to farm jungle camps from a distance. Use Midnight Pulse to clear stacked camps. Your role shifts to a counter-initiator; wait for the enemy to commit on a teammate before using Black Hole. Focus on landing multi-hero Black Holes to turn fights. Build survivability items like BKB and Aghanim's Shard earlier.",
+    "search_text": "Enigma playing from behind farm jungle Eidolon Midnight Pulse stacks counter initiate Black Hole teamfight survival BKB Aghanim Shard",
+    "tags": [
+      "ENIGMA",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion or Summon Heroes. Your Eidolons can multiply by attacking enemy illusions or summons, quickly overwhelming the battlefield. Midnight Pulse is extremely effective against high-health illusions like Phantom Lancer's. Black Hole can control the real hero among the illusions if identified.",
+    "search_text": "Enigma vs illusions summons Phantom Lancer Eidolon multiply attack Midnight Pulse high health Black Hole control real hero",
+    "tags": [
+      "ENIGMA",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need for Faster Farming. Prioritize leveling Midnight Pulse alongside Demonic Summoning. Use Midnight Pulse on stacked neutral camps and lane creeps. The Facet 'Fragment' can accelerate farming by creating more Eidolons to clear camps simultaneously.",
+    "search_text": "Enigma fast farm Midnight Pulse stacks neutral camps Demonic Summoning Eidolon Fragment Facet multiply",
+    "tags": [
+      "ENIGMA",
+      "SITUATIONAL",
+      "FARMING"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy Has Multiple Interrupts. Your Black Hole channeling is vulnerable. Itemize accordingly: Blink Dagger for surprise initiation, Black King Bar is mandatory, Linken's Sphere or Lotus Orb for single-target spells, and consider Aghanim's Scepter for the instant-cast Black Hole effect.",
+    "search_text": "Enigma enemy interrupts Black Hole channel Blink BKB Black King Bar Linken Sphere Lotus Orb Aghanim Scepter instant cast",
+    "tags": [
+      "ENIGMA",
+      "SITUATIONAL",
+      "VS_INTERRUPTS"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is +10 Eidolon Attack Speed, right choice is +50 Black Hole Damage Per Second. Choose +10 Eidolon Attack Speed if you are focusing on pushing lanes and farming faster with your Eidolons, especially with the Fragment Facet. Choose +50 Black Hole Damage if you are aiming for maximum teamfight impact and burst damage with your ultimate.",
+    "search_text": "Enigma talent level 10 left +10 Eidolon Attack Speed right +50 Black Hole Damage Per Second push farm Fragment teamfight burst",
+    "tags": [
+      "ENIGMA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is +250 Health, right choice is +60 Malefice Instance Damage. Choose +250 Health for survivability, especially if you are being focused or need more HP to survive initiation attempts. Choose +60 Malefice Instance Damage for increased single-target lockdown and damage, useful against high-priority mobile heroes.",
+    "search_text": "Enigma talent level 15 left +250 Health right +60 Malefice Instance Damage survivability tank lockdown damage",
+    "tags": [
+      "ENIGMA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is +200 Midnight Pulse Radius, right choice is +40 Eidolon Damage. Choose +200 Midnight Pulse Radius for vastly improved area control in teamfights, making it easier to cover choke points and follow up on Black Hole. Choose +40 Eidolon Damage if you are split-pushing heavily or your Eidolons are your primary source of damage.",
+    "search_text": "Enigma talent level 20 left +200 Midnight Pulse Radius right +40 Eidolon Damage AOE control teamfight split push physical damage",
+    "tags": [
+      "ENIGMA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is +4 Malefice Instances, right choice is +4 Demonic Summoning Eidolons. Choose +4 Malefice Instances for an incredibly long single-target disable (7 instances total), perfect for locking down a key enemy carry through BKB. Choose +4 Demonic Summoning Eidolons for massive pushing power and swarm potential, summoning 7 Eidolons initially which can quickly multiply.",
+    "search_text": "Enigma talent level 25 left +4 Malefice Instances right +4 Demonic Summoning Eidolons disable lockdown BKB push swarm summon 7",
+    "tags": [
+      "ENIGMA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_25"
+    ]
+  }
+]

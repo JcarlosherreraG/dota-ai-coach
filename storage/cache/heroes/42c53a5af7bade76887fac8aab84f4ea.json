@@ -1,0 +1,208 @@
+[
+  {
+    "display_text": "Earth Spirit is a Melee hero with a base Strength of 22, Agility of 17, and Intelligence of 18. With a base attack rate of 1.7, he has a below-average attack speed. His primary attributes are fairly balanced for an initiator, but his melee status and slow attack animation require careful positioning in lane.",
+    "search_text": "Earth Spirit base stats melee attack type strength 22 agility 17 intelligence 18 attack rate 1.7",
+    "tags": [
+      "EARTH_SPIRIT",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Earth Spirit has four Facets. 1. Resonance: Provides bonus Attack Damage when Magnetizing Stone Remnants, scaling the ultimate's damage. 2. Stepping Stone: Changes Stone Remnant to a flat 0 cooldown instead of Charges, and Remnants are not destroyed by Rolling Boulder. This enables high-mobility play. 3. Ready to Roll: Rolling Boulder can roll over allied heroes for additional bonuses, enhancing team-based initiation and rescue. 4. Reformation: This Facet currently has no functional effect. Choose Resonance for more damage and scaling, Stepping Stone for maximum mobility and combo potential, or Ready to Roll for team-save utility.",
+    "search_text": "Earth Spirit Facets Resonance bonus attack damage magnetize Stepping Stone cooldown charges Rolling Boulder not destroyed Ready to Roll roll over allied heroes Reformation no effect",
+    "tags": [
+      "EARTH_SPIRIT",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, use Boulder Smash to secure ranged creep kills and harass with the 110/180/250/320 damage from enemy heroes or Remnants. Rolling Boulder at level 1 provides a 1000 speed escape or chase with a 60 damage nuke and 0.3s stun. Prioritize levels in Rolling Boulder for mobility and Geomagnetic Grip for the silence. Use Stone Remnant charges sparingly to harass with Boulder Smash or secure kills. Your low armor and melee range make you vulnerable to ranged harass; use pulls and camps to maintain farm.",
+    "search_text": "Earth Spirit laning phase Boulder Smash harass 320 damage Rolling Boulder escape 1000 speed 60 damage 0.3s stun Geomagnetic Grip silence Stone Remnant charges",
+    "tags": [
+      "EARTH_SPIRIT",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 unlocks Magnetize, enabling teamfight control and burst with Remnant explosions. Level 12 with maxed Boulder Smash (320 damage) and Rolling Boulder (90 + 100% STR damage). Level 18 with max level abilities. Talent Levels: 10 (-2s Boulder Smash Cooldown for more frequent displacement vs +150 Rolling Boulder Distance for mobility). 15 (+80 Boulder Smash Damage for burst vs +30% Magnetize Damage \u0026 Duration for sustained fight damage). 20 (+175% Rolling Boulder Damage from Strength for massive nuke vs Earth Spirit Magnetizes himself for self-applied ultimate). 25 (+175 Geomagnetic Grip Remnant Damage for burst vs ???). Item spikes: Blink Dagger for initiation, Force Staff for saves, Aghanim's Scepter for Enchant Remnant.",
+    "search_text": "Earth Spirit power spikes level 6 Magnetize level 12 Boulder Smash 320 Rolling Boulder 90 100% STR talent 10 15 20 25 blink dagger force staff aghanims scepter",
+    "tags": [
+      "EARTH_SPIRIT",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Earth Spirit is countered by heroes with instant silences or hexes (Silencer, Shadow Shaman) that prevent his Rolling Boulder initiation or escape. Spell immunity (Black King Bar) blocks all his abilities except Enchant Remnant. Break (Silver Edge, Hoodwink) disables his passive bonus damage from Stone Remnant charges. High mobility heroes (Storm Spirit, Anti-Mage) can dodge his skillshots. Illusion-based heroes (Phantom Lancer, Chaos Knight) can be difficult to lock down and drain Remnant charges.",
+    "search_text": "Earth Spirit counters instant silence hex BKB spell immunity break Silver Edge Hoodwink high mobility Storm Spirit illusions Phantom Lancer",
+    "tags": [
+      "EARTH_SPIRIT",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: 1. Blink Dagger is essential for instant initiation with Boulder Smash or Rolling Boulder into Magnetize. 2. Force Staff provides saves for allies via Geomagnetic Grip and mobility. 3. Aghanim's Scepter unlocks Enchant Remnant, a powerful save or setup tool that can deal 450 damage in a 450 AoE after 2.4 seconds.",
+    "search_text": "Earth Spirit core items Blink Dagger Force Staff Aghanim Scepter Enchant Remnant 450 damage 450 AoE",
+    "tags": [
+      "EARTH_SPIRIT",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Earth Spirit's role is to initiate with Blink into Rolling Boulder or Boulder Smash, then cast Magnetize on multiple heroes. Use Stone Remnants to refresh Magnetize duration and spread silences/slows via Geomagnetic Grip and Boulder Smash. Protect key allies by pulling them with Geomagnetic Grip or using Enchant Remnant. Disrupt enemy backlines and create chaos with constant repositioning of units and Remnants.",
+    "search_text": "Earth Spirit teamfight role initiator Blink Rolling Boulder Boulder Smash Magnetize Stone Remnant refresh silence slow Geomagnetic Grip save Enchant Remnant",
+    "tags": [
+      "EARTH_SPIRIT",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Boulder Smash. Earth Spirit smashes a target enemy, ally, or area, sending them in the direction he is facing. If targeting an area, it hits the nearest unit or Stone Remnant within 200 radius. The traveling unit deals 110/180/250/320 damage to enemies hit. If hit by a Stone Remnant, enemies are also slowed by 50% for 1.25/2.5/3.25/4 seconds. Stone Remnants travel 2000 units, other units travel 500/600/700/800 units. Cooldown is 20/17/14/11 seconds. Does NOT pierce BKB.",
+    "search_text": "Boulder Smash Q smash knockback damage 110 180 250 320 slow 50% duration 1.25 2.5 3.25 4 cooldown 20 17 14 11 remnant travel 2000 unit travel 500 600 700 800",
+    "tags": [
+      "EARTH_SPIRIT",
+      "ABILITY_DATA",
+      "DISPLACE",
+      "SLOW",
+      "NUIKE"
+    ]
+  },
+  {
+    "display_text": "Ability: Rolling Boulder. After a 0.6s delay, Earth Spirit rolls 800 units at 1000 speed, dealing 60/70/80/90 + 100% of his Strength as damage and stunning for 0.3/0.5/0.7/0.9 seconds. Collides with enemy heroes. Rolling over a Stone Remnant destroys it, increases travel distance (multiplier of 2), increases speed to 1600, and increases stun duration to 0.3/0.5/0.7/0.9 seconds. Cooldown is 16/12/8/4 seconds. Does NOT pierce BKB.",
+    "search_text": "Rolling Boulder W roll stun 0.3 0.5 0.7 0.9 damage 60 70 80 90 100% STR delay 0.6s speed 1000 over remnant speed 1600 stun 0.3 0.5 0.7 0.9 cooldown 16 12 8 4",
+    "tags": [
+      "EARTH_SPIRIT",
+      "ABILITY_DATA",
+      "MOBILITY",
+      "STUN",
+      "NUIKE"
+    ]
+  },
+  {
+    "display_text": "Ability: Geomagnetic Grip. Earth Spirit pulls a target Stone Remnant or allied unit 1400 units at 800 speed over 2/2.5/3/3.5 seconds (heroes are pulled at 600 speed). Cast range is 550/600/650/700 on heroes, longer on Remnants. Enemies struck by the pulled target are silenced for the pull duration. Pulled Remnants deal 75/150/225/300 damage to struck enemies. Cooldown is 13 seconds. Does NOT pierce BKB.",
+    "search_text": "Geomagnetic Grip E grip pull silence duration 2 2.5 3 3.5 damage 75 150 225 300 cast range 550 600 650 700 heroes cooldown 13",
+    "tags": [
+      "EARTH_SPIRIT",
+      "ABILITY_DATA",
+      "SILENCE",
+      "PULL",
+      "NUIKE"
+    ]
+  },
+  {
+    "display_text": "Ability: Stone Remnant. Places an invulnerable, non-vision granting Stone Remnant at target location. Has 7 charges with an 18 second charge restore time and 0 cooldown per cast. Remnants last 60 seconds. Passively, Earth Spirit gains 2.5% bonus damage per unused charge. When a Stone Remnant is targeted by an ability, Earth Spirit gains an additional 7.5 bonus damage for 10 seconds (does not stack).",
+    "search_text": "Stone Remnant D remnant charges 7 restore 18 seconds duration 60 passive bonus damage 2.5% per unused charge 7.5 damage buff 10s on ability use",
+    "tags": [
+      "EARTH_SPIRIT",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "RESOURCE"
+    ]
+  },
+  {
+    "display_text": "Ability: Enchant Remnant (Aghanim's Scepter Upgrade). Earth Spirit enchants a hero, turning them into a Stone Remnant for 2.4 seconds. When the effect ends or the remnant is shattered, it deals 450 damage in a 450 AoE. Cast range is 500 on ally heroes. Can be cast on existing Stone Remnants with a 5 second cooldown. Does NOT pierce BKB.",
+    "search_text": "Enchant Remnant Scepter upgrade enchant turn to stone 2.4s damage 450 AoE 450 cast range 500 ally 5s cooldown on remnants",
+    "tags": [
+      "EARTH_SPIRIT",
+      "ABILITY_DATA",
+      "SAPPHIRE",
+      "NUIKE",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Magnetize. Applies a debuff to enemies in a 350 radius, dealing 45/85/125 damage per second for 6 seconds. Magnetized heroes cause Stone Remnants within 600 radius to explode after 8 seconds, destroying the remnant and refreshing Magnetize's duration on all nearby enemies. If a magnetized hero is affected by Geomagnetic Grip (silence) or Boulder Smash (slow), all magnetized heroes share the effect (silence for 5s, slow for 2s). Does NOT pierce BKB.",
+    "search_text": "Magnetize R ultimate AoE 350 damage per second 45 85 125 duration 6s remnant explode 600 radius refresh duration share silence 5s slow 2s",
+    "tags": [
+      "EARTH_SPIRIT",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "DAMAGE_OVER_TIME",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Magic Burst. Prioritize a fast Hoodwink into Pipe of Insight. Use Rolling Boulder to dodge key spells. In fights, initiate from fog and use Magnetize to force enemies to scatter. Save Geomagnetic Grip to pull an ally core out of danger. Consider the Ready to Roll Facet to roll over allies and provide escape.",
+    "search_text": "Earth Spirit vs high magic burst Hoodwink Pipe of Insight dodge spells Rolling Boulder Magnetize scatter Geomagnetic Grip save Ready to Roll Facet",
+    "tags": [
+      "EARTH_SPIRIT",
+      "SITUATIONAL",
+      "VS_BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on defensive utility. Build Force Staff and Glimmer Cape. Use Boulder Smash to disrupt enemy initiations by kicking their core away. Save allies with Geomagnetic Grip pulls. Place Stone Remnants defensively to control choke points. Avoid committing Rolling Boulder aggressively unless securing a key kill.",
+    "search_text": "Earth Spirit playing from behind defensive Force Staff Glimmer Cape Boulder Smash disrupt initiation Geomagnetic Grip save defensive remnants",
+    "tags": [
+      "EARTH_SPIRIT",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Illusion Heroes. Magnetize is less effective as it doesn't spread to illusions. Prioritize AOE control items like Shiva's Guard. Use Boulder Smash and Geomagnetic Grip to identify and control the real hero. The Resonance Facet can help increase your right-click damage to deal with illusions faster. Manage your Remnant charges carefully as they are your primary source of lockdown.",
+    "search_text": "Earth Spirit vs illusions Phantom Lancer Chaos Knight Magnetize not spread Shiva's Guard identify real hero Resonance Facet right click damage manage remnants",
+    "tags": [
+      "EARTH_SPIRIT",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Wombo-Combo Team (e.g., Enigma, Magnus). Your role is to set up or follow up. Use Blink into Rolling Boulder to group enemies for your ally's ultimate. Use Enchant Remnant on an enemy hero to set them up for a guaranteed Black Hole or Reverse Polarity. The Stepping Stone Facet allows unlimited Remnants for repeated setups.",
+    "search_text": "Earth Spirit wombo combo Enigma Magnus set up follow up Blink Rolling Boulder group Enchant Remnant set up Stepping Stone Facet unlimited remnants",
+    "tags": [
+      "EARTH_SPIRIT",
+      "SITUATIONAL",
+      "WITH_SETUP"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Kill a BKB Carrier. Your spells do not pierce BKB. Your goal is to control and burst the target before BKB is activated, or kite them after. Use Enchant Remnant to turn them to stone (pierces magic immunity). Coordinate instant disables with your team. Build items like Nullifier or Heaven's Halberd to deal with them after BKB ends.",
+    "search_text": "Earth Spirit vs BKB carrier spells dont pierce kill before BKB kite Enchant Remnant pierces immunity Nullifier Heaven Halberd",
+    "tags": [
+      "EARTH_SPIRIT",
+      "SITUATIONAL",
+      "VS_BKB"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talent: Choose between -2.0s Boulder Smash Cooldown or +150 Rolling Boulder Distance. The cooldown reduction is better for more frequent displacements, damage, and slow applications in skirmishes. The extra distance is better for increased mobility, escape range, and initiation reach. Pick cooldown if you need more control, pick distance if you need more catch or survivability.",
+    "search_text": "Earth Spirit talent level 10 -2s Boulder Smash Cooldown 150 Rolling Boulder Distance control mobility initiation escape",
+    "tags": [
+      "EARTH_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talent: Choose between +80 Boulder Smash Damage or +30% Magnetize Damage \u0026 Duration. The Boulder Smash damage adds significant burst to your combo (increasing from 320 to 400). The Magnetize talent increases both the damage per second (to ~58/110/163) and total duration (to 7.8s), making it much more punishing in prolonged fights. Pick Boulder Smash for burst, pick Magnetize for scaling teamfight damage.",
+    "search_text": "Earth Spirit talent level 15 80 Boulder Smash Damage 30% Magnetize Damage Duration burst scaling teamfight DPS",
+    "tags": [
+      "EARTH_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talent: Choose between +175% Rolling Boulder Damage from Strength or Earth Spirit Magnetizes himself. The Rolling Boulder talent turns the ability into a massive nuke, scaling with your Strength items. The self-Magnetize talent applies Magnetize at its current duration to enemies around you when cast, and can be refreshed by Remnants, making you a constant threat in the middle of fights. Pick Rolling Boulder for delete potential, pick self-Magnetize for area denial and sustained presence.",
+    "search_text": "Earth Spirit talent level 20 175% Rolling Boulder Damage from Strength self Magnetize nuke area denial refresh remnant",
+    "tags": [
+      "EARTH_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talent: Choose between +175 Geomagnetic Grip Remnant Damage or a currently unspecified right-side talent (data missing). The Geomagnetic Grip damage increases the Remnant pull damage from 300 to 475, adding significant burst to your combo when pulling a Remnant through enemies. The choice would depend on the missing talent, but the Grip damage is a strong offensive option.",
+    "search_text": "Earth Spirit talent level 25 175 Geomagnetic Grip Remnant Damage burst missing talent",
+    "tags": [
+      "EARTH_SPIRIT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

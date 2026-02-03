@@ -1,0 +1,94 @@
+[
+  {
+    "display_text": "Shiva's Guard, Cost: 5175: Emits an Arctic Blast active ability that deals 200 magical damage and applies a 4-second 40% slow to enemies in a 900 radius. Enemies hit also take 15% increased spell damage for 16 seconds. Its passive Freezing Aura reduces the attack speed of all nearby enemies by 45 and cuts their Health Restoration and Incoming Heal Amplification by 25%. Stats: CD: 27s, Mana: 75, Aura Radius: 1200.",
+    "search_text": "shiva's guard, magic damage item, AoE slow item, attack speed reduction, aura item, team fight item, anti-heal item, healing reduction, magic amplification, spell damage amp, anti right click, Arctic Blast, Freezing Aura, Shiva's Guard",
+    "tags": [
+      "ITEM_DATA",
+      "SHIVAS_GUARD",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AURA",
+      "SLOW",
+      "DEBUFF",
+      "MAGICAL_DAMAGE",
+      "AOE_DAMAGE",
+      "VS_HEALERS",
+      "HEAL_REDUCTION",
+      "ANTI_HEAL",
+      "MAGIC_AMPLIFICATION"
+    ]
+  },
+  {
+    "display_text": "Shiva's Guard, Cost: 5175: Provides balanced attributes (+5 all stats), substantial +15 armor for physical defense, and +5 health regeneration. The flat stat bonuses offer well-rounded survivability and utility for Intelligence heroes. Stats: Armor: +15, HP Regen: +5, All Stats: +5.",
+    "search_text": "shiva's guard stats, armor item, stats item, health regen item, Shiva's Guard stats, survivability item, Shiva's Guard",
+    "tags": [
+      "ITEM_DATA",
+      "SHIVAS_GUARD",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "ARMOR",
+      "VS_PHYSICAL",
+      "HEALTH",
+      "REGEN",
+      "SUSTAIN",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Shiva's Guard, Cost: 5175: Powerful team fight utility item. The Arctic Blast provides instant AoE damage and control to initiate or counter-initiate, while the persistent aura significantly weakens enemy right-clickers and dampens their sustain. Ideal for frontline heroes who can stay in the 1200 radius aura.",
+    "search_text": "shiva's guard team fight, AoE team fight item, crowd control item, aura team fight, disable right click, counter physical damage, team buff, Shiva's Guard",
+    "tags": [
+      "ITEM_DATA",
+      "SHIVAS_GUARD",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "TEAMFIGHT",
+      "AOE_DAMAGE",
+      "UTILITY",
+      "DEBUFF",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Shiva's Guard, Cost: 5175: Highly effective versus high-healing or regeneration-reliant lineups (e.g., Huskar, Alchemist, Necrophos) due to its 25% heal reduction aura. The active slow and attack speed reduction also counters physical damage carries who depend on rapid attacks. Build against healing and physical damage cores.",
+    "search_text": "shiva's guard counter healing, anti heal item, healing reduction item, counter physical carry, counter right click, anti regeneration, healing aura reduction, Shiva's Guard",
+    "tags": [
+      "ITEM_DATA",
+      "SHIVAS_GUARD",
+      "SITUATIONAL_VS_HEALERS",
+      "FULL_ITEM",
+      "VS_HEALERS",
+      "HEAL_REDUCTION",
+      "ANTI_HEAL",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Shiva's Guard, Cost: 5175: Strong synergy for tanky intelligence heroes (e.g., Necrophos, Death Prophet) who want to amplify their magical damage output while becoming more durable against physical attacks. The aura debuff synergizes with their role as magical damage dealers who benefit from staying in the middle of fights.",
+    "search_text": "shiva's guard intelligence hero, intelligence tank item, aura intelligence hero, Shiva's Guard Necrophos, Shiva's Guard Death Prophet, Shiva's Guard tank, Shiva's Guard",
+    "tags": [
+      "ITEM_DATA",
+      "SHIVAS_GUARD",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INTELLIGENCE_ITEM",
+      "TANK_ITEM",
+      "AURA",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Shiva's Guard, Cost: 5175: Can accelerate farming for heroes with innate wave clear by adding a reliable AoE nuke (Arctic Blast) on a 27-second cooldown. The intelligence and mana regeneration from components also support sustained spellcasting. Use the active to clear creep waves or stacked jungle camps efficiently.",
+    "search_text": "shiva's guard farming, wave clear item, AoE farm item, jungle clear item, Shiva's Guard wave clear, Shiva's Guard farm, Shiva's Guard",
+    "tags": [
+      "ITEM_DATA",
+      "SHIVAS_GUARD",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "AOE_DAMAGE",
+      "MAGICAL_DAMAGE"
+    ]
+  }
+]

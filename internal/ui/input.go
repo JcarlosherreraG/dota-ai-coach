@@ -6,24 +6,27 @@ import (
 )
 
 const (
-	keyRepeatDelay = 0.5  // Задержка перед повтором клавиши
-	keyRepeatRate  = 0.05 // Интервал повтора клавиши
-	MessageKeyDown = 256  // Код события нажатия клавиши
+	keyRepeatDelay = 0.5  // Delay before key repeat starts
+	keyRepeatRate  = 0.05 // Interval between key repeats
+	MessageKeyDown = 256  // Key down event code
 )
 
-// handleInput обрабатывает пользовательский ввод с клавиатуры и мыши.
+// handleInput processes user input from keyboard and mouse.
 func (o *Overlay) handleInput() {
 	o.mu.Lock()
 	defer o.mu.Unlock()
 
+	// Handle mouse clicks
 	if rl.IsMouseButtonPressed(rl.MouseLeftButton) {
 		o.processMouseClick(rl.GetMousePosition())
 	}
 
+	// If no field is active, skip keyboard input
 	if o.activeField == FieldNone {
 		return
 	}
 
+	// Handle character input
 	char := rl.GetCharPressed()
 	for char > 0 {
 		if char >= 32 {
@@ -32,16 +35,19 @@ func (o *Overlay) handleInput() {
 		char = rl.GetCharPressed()
 	}
 
+	// Handle backspace with repeat logic
 	isPressed := rl.IsKeyPressed(rl.KeyBackspace)
 	isDown := rl.IsKeyDown(rl.KeyBackspace)
 	dt := rl.GetFrameTime()
 	o.processBackspace(isPressed, isDown, dt)
 
+	// Handle submit (Enter)
 	if rl.IsKeyPressed(rl.KeyEnter) || rl.IsKeyPressed(rl.KeyKpEnter) {
 		o.processSubmit()
 	}
 }
 
+// processMouseClick determines which field was clicked.
 func (o *Overlay) processMouseClick(pos rl.Vector2) {
 	if rl.CheckCollisionPointRec(pos, o.textBoxRect) {
 		o.activeField = FieldPrompt
@@ -52,6 +58,7 @@ func (o *Overlay) processMouseClick(pos rl.Vector2) {
 	}
 }
 
+// processCharInput appends a character to the active field.
 func (o *Overlay) processCharInput(char int32) {
 	ptr := o.getActiveFieldPtr()
 	if ptr != nil {
@@ -59,6 +66,7 @@ func (o *Overlay) processCharInput(char int32) {
 	}
 }
 
+// processBackspace handles backspace logic including repeat.
 func (o *Overlay) processBackspace(isPressed, isDown bool, dt float32) {
 	ptr := o.getActiveFieldPtr()
 	if ptr != nil {
@@ -77,6 +85,7 @@ func (o *Overlay) processBackspace(isPressed, isDown bool, dt float32) {
 	}
 }
 
+// processSubmit handles Enter key press for active fields.
 func (o *Overlay) processSubmit() {
 	if o.activeField == FieldPrompt && o.promptText != "" {
 		fmt.Println("Send AI prompt:", o.promptText)
@@ -89,12 +98,14 @@ func (o *Overlay) processSubmit() {
 	}
 }
 
+// sendPrompt sends user input to the prompt channel.
 func (o *Overlay) sendPrompt(userInput string) {
 	for {
 		select {
 		case o.userPromptChan <- userInput:
 			return
 		default:
+			// If channel is full, drop the oldest message
 			select {
 			case <-o.userPromptChan:
 			default:
@@ -104,6 +115,7 @@ func (o *Overlay) sendPrompt(userInput string) {
 	}
 }
 
+// deleteLastChar removes the last character from a string (handles multi-byte runes).
 func (o *Overlay) deleteLastChar(text *string) {
 	if text == nil || *text == "" {
 		return
@@ -114,6 +126,7 @@ func (o *Overlay) deleteLastChar(text *string) {
 	}
 }
 
+// getActiveFieldPtr returns a pointer to the string of the currently active field.
 func (o *Overlay) getActiveFieldPtr() *string {
 	switch o.activeField {
 	case FieldPrompt:

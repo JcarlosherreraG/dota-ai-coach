@@ -1,0 +1,43 @@
+[
+  {
+    "display_text": "Claymore, Cost: 1350: Provides +20 damage, boosting physical right-click potential. A foundational damage component for many carry and core items like Battle Fury and Crystalys. Offers no other attributes, focusing purely on raw attack power. Stats: Damage: +20.",
+    "search_text": "damage item, attack damage, right-click damage, DPS item, physical damage, +damage, component, carry item, core item, farming damage, early damage, damage boost, Claymore",
+    "tags": [
+      "ITEM_DATA",
+      "CLAYMORE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "DAMAGE",
+      "PHYSICAL_DAMAGE",
+      "COMPONENT",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Claymore, Cost: 1350: An upgrade item that serves as a common component for more powerful end-game carry weapons. It is a cost-efficient step toward items that increase farming speed and kill threat. The damage is constant and provides no active abilities.",
+    "search_text": "claymore build, component item, damage component, item recipe part, build into battle fury, build into crystalys, upgrade component, carry item component, Claymore",
+    "tags": [
+      "ITEM_DATA",
+      "CLAYMORE",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "COMPONENT",
+      "UPGRADE",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Claymore, Cost: 1350: Synergizes with attack-speed items and critical strike mechanics to maximize damage output. Typically built on heroes who rely on auto-attacks and scale with raw physical damage, accelerating their farming and mid-game power spike. Essential first damage step for many right-click cores.",
+    "search_text": "damage synergy, attack speed synergy, right-click carry, physical core, farming item component, early power spike, auto-attack boost, core farming, Claymore",
+    "tags": [
+      "ITEM_DATA",
+      "CLAYMORE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "DAMAGE",
+      "PHYSICAL_DAMAGE",
+      "FARMING"
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "display_text": "Chen is a Ranged Intelligence hero with base Strength 23, Agility 15, Intelligence 19. He has a 1.7 attack rate and average attack range. His base stats are well-rounded, with Strength being his highest base attribute, granting him decent starting health for a ranged support hero.",
+    "search_text": "Chen stats Intelligence Ranged attack rate 1.7 armor move speed strength agility",
+    "tags": [
+      "CHEN",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet choice modifies the type of neutral creep summoned by Chen's 'Summon Convert' ability. Centaur Convert provides stun and tankiness, Wolf Convert offers critical strike aura, Hellbear Convert has slow and attack speed aura, Troll Convert gives ensnare and skeletons, Satyr Convert offers mana burn and nukes, Marshmage Convert provides purge and damage amp. Choose based on team needs: Centaur/Troll for lockdown, Wolf/Hellbear for physical damage, Satyr/Marshmage for magical utility. The choice defines Chen's early game control and pushing power.",
+    "search_text": "Chen facets Summon Convert Centaur Wolf Hellbear Troll Satyr Marshmage lockdown push aura utility",
+    "tags": [
+      "CHEN",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In laning, Chen focuses on securing a ranged creep for his carry with Holy Persuasion for gold and using the creep to harass. Use Penitence to slow enemies and amplify ally attacks during trades. The Summon Convert provides a lane-strong neutral creep to zone or tank. Build towards a fast level 3 for two controlled creeps, then look to gank mid with Penitence and creep abilities. Prioritize survivability items like Ring of Basilius or Headdress from side shop.",
+    "search_text": "Chen laning phase harass Penitence slow Holy Persuasion creep Summon Convert zoning gank level 3",
+    "tags": [
+      "CHEN",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power spikes: Level 3 (two Holy Persuasion creeps), Level 6 (Hand of God global heal for teamfight/push), Level 7 (max Penitence for high slow and damage amp), Level 12 (Aghanim's Shard enables Ancient creeps), Level 20 (talent: Hand of God applies Strong Dispel), Level 25 (talent: Hand of God Fully Heals Chen and His Creeps). Item spikes: Holy Locket (amplifies Divine Favor and Hand of God), Aghanim's Scepter (grants global teleport for creeps).",
+    "search_text": "Chen power spikes level 3 level 6 Hand of God level 7 Penitence max level 12 Shard Ancient level 20 strong dispel level 25 full heal",
+    "tags": [
+      "CHEN",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Chen is hard countered by heroes with strong area-of-effect damage and wave clear that can kill his creeps instantly (e.g., Earthshaker, Magnus, Sand King). Heroes with Break (e.g., Doom, Shadow Demon) disable Penitence's debuff and Holy Persuasion's bonuses. Instant disables (e.g., Lion hex, Shadow Shaman shackles) prevent Chen from saving allies with Divine Favor teleport. Silences prevent him from using his global heal and re-controlling creeps.",
+    "search_text": "Chen counters AoE wave clear Earthshaker Magnus Sand King Break Doom Shadow Demon instant hex Lion Shadow Shaman silence",
+    "tags": [
+      "CHEN",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items are Holy Locket (massively amplifies Hand of God and Divine Favor heals), Aghanim's Shard (allows Holy Persuasion on Ancient creeps for massive power spike), and Boots of Bearing (synergizes with Divine Favor aura and provides teamfight sustain). These items are essential for scaling Chen's healing and creep army utility.",
+    "search_text": "Chen core build Holy Locket Aghanim's Shard Ancient creeps Boots of Bearing Divine Favor aura",
+    "tags": [
+      "CHEN",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Chen's role is to position behind his team, using Penitence to debuff key enemy heroes, making them take +50/75/100/125 damage and 20/40/60/80 attack speed from allies while slowed by 12/18/24/30%. He must keep Divine Favor aura active and cast it on diving allies for bonus armor and healing amp. His creeps should use their abilities (stun, slow, purge). He uses Hand of God for a global 200/300/400 instant heal plus 20/30/40 heal per second for 10 seconds at the fight's start or to save allies across the map.",
+    "search_text": "Chen teamfight role Penitence slow damage amp Divine Favor aura armor heal amp creep control Hand of God global heal",
+    "tags": [
+      "CHEN",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Penitence deals 50/75/100/125 damage and slows the target enemy's movement speed by 12/18/24/30% for 5/6/7/8 seconds. Allied attacks against the target gain 20/40/60/80 bonus attack speed. This ability does NOT pierce BKB.",
+    "search_text": "Penitence Q slow 12 18 24 30 movement speed damage 50 75 100 125 bonus attack speed 20 40 60 80 duration 5 6 7 8",
+    "tags": [
+      "CHEN",
+      "ABILITY_DATA",
+      "PENITENCE"
+    ]
+  },
+  {
+    "display_text": "Holy Persuasion allows Chen to take control of one enemy or neutral creep per level (max 1/2/3/4). Controlled creeps have their max health set to 400 + 50 per Chen level and gain 5/10/20/30 bonus movement speed and 4/8/12/16 bonus damage. Chen receives 25/50/75/100% of the creep's bounty. The ability can target Ancient creeps when Chen has Aghanim's Shard.",
+    "search_text": "Holy Persuasion W convert creep control max units 1 2 3 4 health 400 +50 per level speed 5 10 20 30 damage 4 8 12 16 gold bounty 25 50 75 100 Shard Ancient",
+    "tags": [
+      "CHEN",
+      "ABILITY_DATA",
+      "HOLY_PERSUASION"
+    ]
+  },
+  {
+    "display_text": "Divine Favor passively provides a 1200 radius aura granting 1.5/3/4.5/6 health regeneration. When cast on an ally, it provides them with 5/10/15/20 bonus armor and increases all healing and health regeneration they receive by 5/10/15/20% for 6 seconds. If cast on Chen himself, all units he controls receive the buff and will be teleported to him after a 6-second delay. The teleport is canceled if Chen or his units take damage from an enemy hero or their units.",
+    "search_text": "Divine Favor E passive aura 1200 radius health regen 1.5 3 4.5 6 cast ally bonus armor 5 10 15 20 heal amp 5 10 15 20 duration 6 teleport creeps delay 6 cancel on damage",
+    "tags": [
+      "CHEN",
+      "ABILITY_DATA",
+      "DIVINE_FAVOR"
+    ]
+  },
+  {
+    "display_text": "Summon Convert summons a neutral creep to fight for Chen, chosen by his selected Facet. The convert gains bonuses from Holy Persuasion and dies if Chen dies. Its max health is 220 + 80 per Chen level. The spell is on cooldown while the convert is alive but refreshes when Chen respawns. The convert counts towards Holy Persuasion's max unit count. Its ability level scales with Chen's Holy Persuasion level.",
+    "search_text": "Summon Convert D facet creep Centaur Wolf Hellbear Troll Satyr Marshmage health 220 +80 per level Holy Persuasion bonuses",
+    "tags": [
+      "CHEN",
+      "ABILITY_DATA",
+      "SUMMON_CONVERT"
+    ]
+  },
+  {
+    "display_text": "Hand of God heals all allied heroes globally and all units under Chen's control for 200/300/400 health instantly, followed by 20/30/40 health per second for 10 seconds. Cooldown is 150/130/110 seconds. Can heal invulnerable and hidden units. This ability does NOT pierce BKB.",
+    "search_text": "Hand of God R ultimate global heal instant 200 300 400 heal over time 20 30 40 per second 10 seconds cooldown 150 130 110 invulnerable hidden",
+    "tags": [
+      "CHEN",
+      "ABILITY_DATA",
+      "HAND_OF_GOD"
+    ]
+  },
+  {
+    "display_text": "Against high physical damage teams, prioritize maxing Divine Favor early for the passive armor aura and healing amplification. Build items like Mekansm and Vladimir's Offering to further bolster your team's survivability. Use Summon Convert to get an Alpha Wolf for its critical strike aura or a Hellbear Smasher for its attack speed aura to help your carry trade hits.",
+    "search_text": "Chen scenario vs physical damage Divine Favor armor heal amp Mekansm Vladimir Offering Wolf crit Hellbear attack speed",
+    "tags": [
+      "CHEN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, focus on defensive play with your team. Use Hand of God liberally to sustain through enemy sieges. Use Holy Persuasion to secure bounty runes and jungle creeps for economic recovery without showing on the map. Prioritize utility items like Glimmer Cape or Force Staff to save cores rather than expensive aura items.",
+    "search_text": "Chen scenario behind defensive Hand of God sustain siege Holy Persuasion bounty jungle Glimmer Cape Force Staff save",
+    "tags": [
+      "CHEN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "When ahead and pushing, use your army of creeps to siege towers aggressively. Ancient creeps with Aghanim's Shard are extremely durable. Use Divine Favor to teleport your entire creep army onto a key target or to dive with your team. Build Boots of Bearing and Assault Cuirass to make your push unstoppable.",
+    "search_text": "Chen scenario ahead push siege towers Ancient creeps Shard Divine Favor teleport army Boots of Bearing Assault Cuirass",
+    "tags": [
+      "CHEN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "When facing illusion heroes or summons, your Penitence single-target debuff is less effective. Prioritize controlling creeps with AoE abilities like the Centaur stomp or Satyr purge. Consider items like Shiva's Guard to help clear illusions. Your Holy Persuasion can also steal powerful enemy summons.",
+    "search_text": "Chen scenario vs illusions summons Penitence single target creep AoE Centaur stomp Satyr purge Shiva's Guard steal summons",
+    "tags": [
+      "CHEN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talent: +75 Penitence Damage vs +150 Convert Attack Speed. Choose +75 Penitence Damage if you are focusing on ganking and amplifying single-target physical damage on your team. Choose +150 Convert Attack Speed if you have a strong army of creeps and are focusing on pushing towers or roshan.",
+    "search_text": "Chen talent level 10 left +75 Penitence Damage right +150 Convert Attack Speed gank push roshan",
+    "tags": [
+      "CHEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talent: +14 Holy Persuasion Damage vs -14% Penitence Slow. Choose +14 Holy Persuasion Damage to significantly increase your creep army's damage output for pushing and fighting. Choose -14% Penitence Slow if the enemy team has high mobility heroes you need to lock down, making the slow effectively stronger.",
+    "search_text": "Chen talent level 15 left +14 Holy Persuasion Damage right -14 Penitence Slow creep damage lockdown",
+    "tags": [
+      "CHEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talent: +1300 Holy Persuasion Minimum Health vs Hand of God applies a Strong Dispel. Choose +1300 Holy Persuasion Minimum Health to make your creeps, especially Ancients with Shard, incredibly tanky and hard to kill. Choose Hand of God applies a Strong Dispel if the enemy has critical debuffs like silences, roots, or stuns that need to be removed globally from your team.",
+    "search_text": "Chen talent level 20 left +1300 Holy Persuasion Minimum Health right Hand of God Strong Dispel tanky creeps remove debuffs",
+    "tags": [
+      "CHEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talent: Hand of God Fully Heals Chen and His Creeps vs talent placeholder (no data for right side). The left talent, Hand of God Fully Heals Chen and His Creeps, is an immensely powerful survival tool, making Chen and his entire army unkillable in a fight when combined with the initial heal. It turns Hand of God into a full reset button for your push.",
+    "search_text": "Chen talent level 25 left Hand of God Fully Heals Chen and His Creeps right no data survival reset push",
+    "tags": [
+      "CHEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

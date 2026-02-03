@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Keeper of the Light Aghanim's Scepter: Will-O-Wisp summons a mesmerising ward that draws enemies closer. This upgrade counters enemy positioning and movement, forcing foes into unfavorable engagements or disrupting their retreat.",
+    "search_text": "Keeper of the Light Aghanim Scepter counter-positioning disrupt movement control force engagement",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Keeper of the Light",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Keeper of the Light Aghanim's Shard: Enhances Illuminate's healing capability. This upgrade shifts his role into a more reliable support, countering sustained damage by providing amplified survivability for allies during prolonged engagements.",
+    "search_text": "Keeper of the Light Aghanim Shard counter-sustain damage support role Illuminate heal",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Keeper of the Light",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

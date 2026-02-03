@@ -1,0 +1,61 @@
+[
+  {
+    "display_text": "Null Talisman, Cost: 505: Early-game stat item providing a balanced boost to Intelligence, Strength, Agility, mana, and mana regeneration. Ideal for spellcasting heroes who benefit from all attributes. Provides immediate lane presence and mana sustainability. Stats: Int: +5, Str: +2, Agi: +2, Max Mana: +3%, Mana Regen: +1.0.",
+    "search_text": "early game stat item, starter item, core intelligence item, starting null, null component, mana item, early int, stat boost, attributes item, lane sustain, magic damage boost, early mana, caster item, Null Talisman, Null, Talisman",
+    "tags": [
+      "ITEM_DATA",
+      "NULL_TALISMAN",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "MANA",
+      "MANA_REGEN",
+      "ATTRIBUTES",
+      "STATS",
+      "UTILITY",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Null Talisman, Cost: 505: Stat profile offers +5 Intelligence, +2 Strength, +2 Agility, +3% max mana, and +1.0 mana regeneration. The combination provides a well-rounded boost for spell-dependent heroes needing health, damage, and mana to stay active in the lane.",
+    "search_text": "null talisman stats, int agi str, mana regen item, percentage mana, early attributes, base stats, mana pool item, intelligence stats, strength agility int, Null Talisman",
+    "tags": [
+      "ITEM_DATA",
+      "NULL_TALISMAN",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "STRENGTH",
+      "AGILITY",
+      "MANA_REGEN",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Null Talisman, Cost: 505: Primarily a laning and early-farming item for intelligence-based heroes and casters. The mana regeneration and pool increase allow for more frequent spell usage to secure last hits and harass. The small strength and agility bonuses improve survivability and right-click damage.",
+    "search_text": "null talisman laning, early game item, starting stats, farming item, caster sustain, spell spam, last hit mana, harass sustain, lane presence, early mana regen, Null Talisman",
+    "tags": [
+      "ITEM_DATA",
+      "NULL_TALISMAN",
+      "EARLY_GAME_USAGE",
+      "FULL_ITEM",
+      "LANING",
+      "SUSTAIN",
+      "FARMING_UTILITY",
+      "MANA_REGEN"
+    ]
+  },
+  {
+    "display_text": "Null Talisman, Cost: 505: An efficient component for further upgrades like Dagon and Kaya. It is a common first purchase for heroes who rush these high-tier intelligence items to accelerate their early game power spike.",
+    "search_text": "null talisman upgrade, dagon component, kaya component, item component, early game component, upgrade path, int item component, build into, early game build, Null Talisman",
+    "tags": [
+      "ITEM_DATA",
+      "NULL_TALISMAN",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "COMPONENT",
+      "INTELLIGENCE"
+    ]
+  }
+]

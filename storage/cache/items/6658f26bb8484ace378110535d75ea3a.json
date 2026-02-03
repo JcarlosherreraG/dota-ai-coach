@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.",
+    "search_text": "second chance item, prevent death item, lifesaver item, cheat death, resurrection item, save item, defensive item, escape item, healing item, cooldown reset, non-ultimate reset, lethal protection, survival item, Phoenix Ash",
+    "tags": [
+      "ITEM_DATA",
+      "PHOENIX_ASH",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "SAVE",
+      "DEFENSIVE",
+      "ESCAPE",
+      "SURVIVAL",
+      "HEALING",
+      "COOLDOWN_RESET",
+      "PASSIVE"
+    ]
+  }
+]

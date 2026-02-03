@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Enhancement Evolved, Tier N/A: Grants +40 to the primary attribute of the holder's hero. For Universal Heroes, it grants +24 to each of Strength, Agility, and Intelligence instead. Does not have an active ability or consume a slot. Stats: Attribute Bonus: +40 Primary or +24 All for Universal.",
+    "search_text": "enchantment evolved, universal hero item, primary attribute item, stat bonus, attribute bonus, universal stats, stats for universal, evolved item, enhancement evolved, bonus primary stat, bonus all stats",
+    "tags": [
+      "ITEM_DATA",
+      "ENHANCEMENT_EVOLVED",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "STAT_BOOST",
+      "ATTRIBUTES",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE",
+      "UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "display_text": "Maelstrom, Cost: 2950: Attack modifier that grants a 25% chance on attack to release Chain Lightning, dealing 110 magical damage to up to 4 targets within a 650 radius. Lightning procs pierce evasion. Effective for heroes who can apply rapid attacks to multiple targets for farming and team fight damage. Stats: Chance: 25%, Damage: 110, Targets: 4, Cooldown: 0.2s.",
+    "search_text": "maelstrom, chain lightning item, farming item, magical damage item, wave clear, AoE damage, attack modifier, lightning proc, chance to proc, proc item, multi-target, pierce evasion, true strike for proc, illusion damage, farm accelerator, magic AoE, Maelstrom",
+    "tags": [
+      "ITEM_DATA",
+      "MAELSTROM",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "MAGICAL_DAMAGE",
+      "AOE_DAMAGE",
+      "ATTACK_MODIFIER",
+      "MULTI_TARGET"
+    ]
+  },
+  {
+    "display_text": "Maelstrom, Cost: 2950: Provides +25 bonus damage and +25 attack speed. A moderate offensive stat boost that enhances right-click damage output and the frequency of Chain Lightning procs. Its value is amplified by high natural attack speed. Stats: Damage: +25, Attack Speed: +25.",
+    "search_text": "maelstrom stats, damage item, attack speed item, bonus damage, attack speed boost, right-click damage, DPS stats, Maelstrom",
+    "tags": [
+      "ITEM_DATA",
+      "MAELSTROM",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "DPS"
+    ]
+  },
+  {
+    "display_text": "Maelstrom, Cost: 2950: Provides significant wave clear and AoE damage contribution in team fights from its Chain Lightning proc. While not a burst initiation tool, it adds substantial magic DPS over a fight, particularly effective against grouped enemies. Lightning proc applies its full damage to illusions.",
+    "search_text": "team fight item, AoE team fight, magic AoE damage, wave clear team fight, DPS in fight, group fight damage, illusion damage, Maelstrom",
+    "tags": [
+      "ITEM_DATA",
+      "MAELSTROM",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "AOE_DAMAGE",
+      "MULTI_TARGET",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Maelstrom, Cost: 2950: Excellent farming item for heroes lacking innate wave clear or AoE abilities. Accelerates jungle farming and lane pushing significantly due to its Chain Lightning effect. Often an early-game purchase for farming cores to increase gold income. Stats: Lightning procs every 0.2 seconds.",
+    "search_text": "farming item, jungle item, wave clear, farm accelerator, gold farming, jungle speed, creep clear, Maelstrom",
+    "tags": [
+      "ITEM_DATA",
+      "MAELSTROM",
+      "FULL_ITEM",
+      "FARMING_UTILITY",
+      "WAVECLEAR"
+    ]
+  },
+  {
+    "display_text": "Maelstrom, Cost: 2950: Synergizes with heroes who build attack speed, as it increases the frequency of Chain Lightning procs. Strong on ranged agility carries and universal heroes who can apply the effect safely. Upgrades into Mjollnir and Gleipnir, providing a core damage path.",
+    "search_text": "attack speed synergy, proc synergy, high attack speed, ranged carry item, universal hero item, damage path, upgrade path, mjollnir, gleipnir, Maelstrom",
+    "tags": [
+      "ITEM_DATA",
+      "MAELSTROM",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "CARRY_ITEM",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Maelstrom, Cost: 2950: Situational vs Evasion: The Chain Lightning magical damage proc pierces evasion, making it a soft counter to heroes relying on miss chance. While it doesn't grant True Strike for regular attacks, its guaranteed magical damage application helps mitigate evasion's effectiveness. Stats: Damage pierces evasion.",
+    "search_text": "evasion counter item, pierce evasion, anti-evasion, vs evasion, magic damage vs evasion, counter butterfly, counter radiance, miss counter, Maelstrom",
+    "tags": [
+      "ITEM_DATA",
+      "MAELSTROM",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_EVASION",
+      "VS_EVASION"
+    ]
+  }
+]

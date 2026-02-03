@@ -1,0 +1,253 @@
+FILE: bkb-piercing.json
+QUESTION: Как мне спасти нашего керри от ульты Дума или Бейна? БКБ ему не помогает.
+GENERATION TIME: 2.18s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, GUARDIAN_GREAVES, FULL_ITEM, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_PHYSICAL, VS_CONTROL, DISPEL, DEFENSIVE, SAVE, MANA_REGEN] | Guardian Greaves, Cost: 4300: Excellent against lineups with strong physical damage (armor bonus) and AoE magic damage that lowers the team's health (clutch AoE heal). It is a situational counter to control spells that can be Basic Dispelled (e.g., slows, DoTs), allowing the support to purge themself and heal allies simultaneously. The constant mana regen aura helps counter mana-burn strategies.
+---
+[TAGS: STRATEGY, Dazzle, ITEM_BUILD, CORE] | Dazzle Core Build: Arcane Boots (for mana sustain) and Aghanim's Scepter (for Nothl Projection's save). Glimmer Cape or Force Staff are also highly valuable.
+---
+[TAGS: DAZZLE, TALENT_LEVEL_DATA, TALENT_10] | Level 10 Talents. Left: +200 Attack Range when attacking an enemy affected by Poison Touch. This synergizes with the Poison Touch refresh mechanic and the Poison Bloom facet, allowing safer stacking of the slow. Right: +1.75 Mana Regeneration. Provides sustain for constant spellcasting, especially Shallow Grave and Shadow Wave. Choose Attack Range for a more aggressive, right-click oriented build (often with Poison Bloom). Choose Mana Regen if you are struggling for mana or playing a pure backline save role.
+---
+[TAGS: PANGOLIER, ABILITY_DATA, ROLL_UP, IMMUNITY, MAGIC_RESISTANCE, COUNTER_ATTACK] | Roll Up: Pangolier curls into a ball, becoming debuff immune and gaining 80% magic resistance for 2.25 seconds. He can turn but not move. If attacked, he will roll away from the attacker, dealing Rolling Thunder damage and stun to enemies in his path. Can be cast during Rolling Thunder to stop temporarily. Has a 0.5 second cast time. Does NOT pierce BKB (he gains immunity, but the effect itself is not a piercing disable).
+---
+[TAGS: ITEM_DATA, BELOVED_MEMORY, CORE_DESCRIPTION, NON_PURCHASABLE, EVENT, UTILITY] | Ofrenda - Beloved Memory, Tier N/A (Non-Purchasable): An Offering that can be placed on an Altar to honor the dead. Its sole ability honors the dead with a memory, targeted on friendly buildings. Provides no stat bonuses. This item is for event or tribute mechanics. Stats: CD: 3s, Cast Speed: 1000.
+---
+[TAGS: HOODWINK, SITUATIONAL] | Scenario: When playing from behind, Hoodwink should focus on defense and control. Build utility items like Force Staff, Glimmer Cape, or Aether Lens. Use Scurry and trees to safely de-push waves with Acorn Shot. Look for pick-offs with Bushwhack into Sharpshooter on isolated targets to create space.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: Ability, Defense] | 20s Spell Block: Offers maximum spell immunity, crucial for enduring heavy magical assaults. Stats: Duration: 20 seconds
+---
+[TAGS: Omniknight, Ability, Duration, Immunity] | Repel Duration: Extends Repel duration, providing longer immunity to spells and debuffs for Omniknight or allies.
+---
+[TAGS: STRATEGY, Spectre, ITEM_BUILD, SITUATIONAL] | Spectre Situational: Buy Blademail vs burst damage, BKB vs heavy disables, and Skadi vs high-mobility heroes. Consider Heart of Tarrasque for extreme late-game durability.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, DISPEL, DEFENSIVE] | Lotus Orb, Cost: 3850: Highly effective against heroes and items that rely on single-target disables or debuffs (e.g., Scythe of Vyse, Orchid Malevolence, Ancient Apparition Ice Blast). The basic dispel component can remove many common slows and silences before the reflection even occurs.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, VS_CONTROL, DISPEL, SAVE] | A powerful counter to single-target disables and debuffs due to its basic dispel effect on cast. Effective against heroes reliant on silences, roots, or other dispellable effects to lock down targets, as it can instantly remove them from an ally.
+---
+[TAGS: Ability, Crowd Control] | Overwhelming Odds Radius: Increases area of effect for better crowd control. Stats: Radius increase.
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, FULL_ITEM, SITUATIONAL_VS_MAGIC, DEFENSIVE, SAVE, VS_MAGIC, MAGIC_RESISTANCE] | Glimmer Cape, Cost: 2150: Situational counter to enemy lineups that rely on high magic damage or single-target nukes. The magic barrier and resistance directly reduce the effectiveness of magical burst combos. The invisibility can also delay or prevent follow-up physical attacks. Stats: Magic Resistance: +20%, Magic Barrier: 375.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, HERO_SPECIFIC] | Aghanim's Blessing - Roshan SITUATIONAL_VS_BKB: The upgrade's effectiveness vs BKB depends on the specific hero's upgraded ability; some upgrades may grant BKB-piercing effects, others may not. It must be analyzed per hero. Stats: No inherent BKB interaction.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, COUNTERED_BY_BKB] | Searing Signet HARD_COUNTERS: The burn is completely negated by spell immunity (BKB) and is less effective against heroes with high magic resistance or healing/regen. The effect will not trigger if you are more than 2000 range away from the target. Stats: Max Range: 2000, Creep Penalty: 50%.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, SYNERGY_BUILD, FULL_ITEM, SUPPORT_ITEM, INITIATOR_ITEM, TANK_ITEM] | Lotus Orb, Cost: 3850: Synergizes with tanky initiators or durable supports who can survive to cast it mid-fight. The mana and regen stats support repeated spellcasting. It is particularly strong on heroes who want to be in the thick of the action to protect their cores.
+---
+[TAGS: Ability, Magic Resistance, Immunity] | Magic Resistance (100%): Grants complete immunity to magical damage, countering spell-reliant enemies. Stats: Magic Resistance: 100%
+---
+[TAGS: ITEM_DATA, CLARITY, SITUATIONAL_USAGE, CONSUMABLE, UTILITY, ALLY_BUFF, SITUATIONAL_USAGE] | Clarity, Cost: 60: Use from a safe, hidden position to avoid having the buff cancelled by enemy attacks. Ideal for sustaining during a siege where you are not under direct attack, or after winning a fight to recover mana for the next objective. Can be shared with allies to help them sustain.
+---
+[TAGS: STRATEGY, Enigma, ITEM_BUILD, SITUATIONAL] | Enigma Situational: Buy Linken's Sphere against targeted spells or Ghost Scepter to evade physical damage.
+---
+[TAGS: SHADOW_DEMON, SITUATIONAL, PLAYING_FROM_BEHIND] | Scenario: Playing from Behind. When your team is losing, shift to a defensive save role. Max Disruption first for the reduced cooldown (20s at level 4) to save your carries. Use Disseminate on your own diving core to punish enemies for focusing them. Build save items like Glimmer Cape and Force Staff. Use Shadow Poison for vision and scouting rather than aggressive stacking.
+---
+[TAGS: STRATEGY, Dazzle, FACETS] | Dazzle Facet Strategy: Nothl Boon (Red) is preferred for a healing-focused support role, converting overhealing into barriers and amplifying Weave's effects on allies. Poison Bloom (Purple) suits a more aggressive playstyle, spreading Poison Touch and enhancing Weave's debuff on enemies.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPEL, VS_AOE] | Lotus Orb HARD_COUNTERS: Basic dispels remove the Echo Shell buff. AoE and non-targeted spells are not reflected. Neutral item abilities do not trigger it. Stats: Dispel Type: Basic Dispel.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, UPGRADE, SUPPORT, UTILITY, AURA] | Built from Buckler, Ring of Basilius, and Headdress, consolidating their component auras into one efficient package. This makes it an ideal mid-game upgrade for supports or utility cores looking to enhance their team's durability and pushing power. Its value is maximized when grouped with multiple heroes.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, STAT_PROFILE, FULL_ITEM, HEALTH, DAMAGE, STRENGTH, SURVIVAL] | Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, UTILITY, OBJECTIVE] | Beloved Memory SITUATIONAL_UTILITY: Situational for specific game events or objectives related to Altars. No direct counterplay from enemies as it targets a friendly structure. Its value is derived from its unique interaction, not stats. Stats: Target Team: Friendly.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, DEFENSIVE] | Unwavering Condition VS_MAGIC: Provides near-total immunity to magic damage, making it a direct counter to nuke-heavy lineups and intelligence cores. Stats: Magic Resistance: +95%.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: Ability, Defense] | 18s Spell Block: Grants extended protection against magical damage, ideal for prolonged engagements. Stats: Duration: 18 seconds
+---
+[TAGS: ITEM_DATA, GUARDIAN_GREAVES, FULL_ITEM, CORE_MECHANICS, AURA, BUFF, SAVE, DEFENSIVE, DISPEL, HEAL, MANA_REGEN, SUPPORT_ITEM] | Guardian Greaves, Cost: 4300: Provides two core support abilities. The active 'Mend' instantly restores 325 health and 200 mana to all allies in a 1200 radius while removing most negative effects from the caster with a Basic Dispel. The passive 'Guardian Aura' provides a constant 2.5 health and 1.5 mana regeneration aura in the same radius, which dramatically increases to 14.5 health regen if the wearer falls below 25% health. Stats: CD: 45s, Mana: 0, Aura Radius: 1200.
+---
+[TAGS: STRATEGY, Keeper of the Light, ITEM_BUILD, SITUATIONAL] | Keeper of the Light Situational: Buy Glimmer Cape vs magic damage or Ghost Scepter vs physical burst. Eul's Scepter can counter silences.
+---
+[TAGS: DAZZLE, TALENT_LEVEL_DATA, TALENT_25] | Level 25 Talents. Left: +1 Weave Armor Reduction/Increase. Increases the armor swing per stack from 0.5/0.75/1.0/1.25 to 1.5/1.75/2.0/2.25. An enormous late-game talent that makes Weave devastating against physical damage teams and incredibly strong for protecting allies. Right: Nothl Projection Leash Stops Pull. This talent likely removes or severely weakens the leash pull mechanic when the spirit goes beyond 1600 units, granting near-global range for his empowered spells. Choose +1 Weave for teamfight dominance in physical damage games. Choose the Leash talent for unparalleled safety, global save potential, and initiation with hex.
+---
+[TAGS: Dazzle, DPS, Damage Over Time] | Poison Touch DPS: Increases Dazzle's Poison Touch damage over time by 75. Stats: DPS Bonus: 75
+---
+[TAGS: JAKIRO, ABILITY_DATA, MACROPYRE, ULTIMATE, AREA_DAMAGE, NUKER] | Macropyre is Jakiro's ultimate. He exhales a line of fire 1400 units long and 500 units wide that lasts 10 seconds. It deals 100/150/200 magic damage per second to enemies in the area. Enemies continue to burn for 1 second after leaving the area. Cooldown is not specified in the raw data. Does NOT pierce BKB.
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: STRATEGY, Dazzle, ITEM_BUILD, SITUATIONAL] | Dazzle Situational: Buy Spirit Vessel vs. heavy healing, Lotus Orb vs. silences/debuffs, or Guardian Greaves for team sustain. BKB can be considered against high magic burst.
+---
+[TAGS: Ability, Defense] | Permanent Spell Immunity: Grants complete protection against enemy spells, making the hero a robust frontline. Stats: Duration: Permanent
+---
+[TAGS: ITEM_DATA, RECIPE_BLACK_KING_BAR, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Black King Bar Recipe. Cost: 1450: Component required to assemble Black King Bar. Does not provide stats or abilities.
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, FULL_ITEM, STAT_PROFILE, MAGIC_RESISTANCE] | Glimmer Cape, Cost: 2150: Provides +20% Magic Resistance. No raw attributes like Strength or Agility. The item's value is derived entirely from its defensive active ability and magic resistance aura. Stats: Magic Resistance: +20%.
+---
+[TAGS: STRATEGY, Dazzle, WEAKNESS] | Dazzle Weakness: Vulnerable to burst damage (bypassing Shallow Grave), Break (disabling Weave's armor manipulation), and Silence (preventing spell usage).
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, CORE_ITEM] | Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPEL] | Rod of Atos HARD_COUNTERS: The root is dispellable by basic dispels, so items like Manta Style, Lotus Orb, or Eul's Scepter can remove it. Spell Immunity (BKB) prevents the root from being applied in the first place. Stats: Dispellable: Yes.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, UTILITY, DISPELLABLE, REFLECT] | Lotus Orb CORE_MECHANICS: Echo Shell shield reflects most targeted spells back to the caster for 5 seconds. The shielded unit still takes the spell's damage. The active dispels debuffs upon cast. Stats: Cost: 3850 gold, Cooldown: 15s, Mana Cost: 175, Active Duration: 5s, +10 Armor, +6.5 HP Regeneration, +4 MP Regeneration, +250 Mana.
+---
+[TAGS: Ability, Passive, Resistance, Counter] | Spell Immunity: Grants immunity to most magical spells, making the unit resistant to magic damage and effects.
+---
+[TAGS: ITEM_DATA, WAND_OF_THE_BRINE, CORE_MECHANICS, SAVE, DEFENSIVE, HEAL, BUFF, MOBILITY, SURVIVAL, UTILITY] | Wand of the Brine, Cost: 0, Tier N/A: Active item that can be cast on allies or self. Heals 40 health every 0.5 seconds for 3 seconds while increasing the target's heal amplification by 15% and movement speed by 50%. Also grants 50% damage reduction for the duration. A powerful defensive save tool that boosts sustain and survivability during fights. Stats: CD: 35s, Mana Cost: 90, Duration: 3s, Interval: 0.5s.
+---
+[TAGS: ITEM_DATA, DISPERSER, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_BUFFS, DISPEL, CLEANSE] | Disperser, Cost: 6100: Strong situational item against heroes reliant on mana or who are vulnerable to dispels. Counters heroes with key buffs to purge (e.g., Guardian Angel, Bloodlust) and heroes with low mana pools vulnerable to the burn. The self-dispel can also counter enemy roots and slows.
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, STAT_PROFILE, FULL_ITEM, ARMOR, REGEN, MANA_REGEN, MANA, DEFENSIVE] | Lotus Orb, Cost: 3850: Provides +10 Armor, +6.5 HP Regeneration, +4.0 Mana Regeneration, and +250 Mana. These stats offer significant survivability and sustain, making it suitable for frontliners or supports who need to stay in fights to cast their spells. Stats: Armor: +10, HP Regen: +6.5, Mana Regen: +4.0, Mana: +250.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_SINGLE_TARGET, VS_DISABLE, COUNTER] | Lotus Orb VS_SINGLE_TARGET: Hard counter to heroes reliant on key single-target spells for initiation or kill threat (e.g., Doom, Rupture, Hex). Forces enemies to consider casting order or risk self-disable. Stats: Spell Reflection Duration: 5s.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, VS_MAGIC_IMMUNITY] | Warhammer HARD_COUNTERS: Spell immunity (BKB) prevents the debuff application. Basic dispels can remove the armor reduction effect. Ineffective against magic-immune cores. Stats: Target: Enemy Hero/Basic, Cooldown: 20 seconds.
+---
+[TAGS: ITEM_DATA, LINKENS_SPHERE, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, DEFENSIVE] | Linken's Sphere, Cost: 4800: A situational item against teams with key single-target disables or nukes (e.g., Doom, Laguna Blade, Fiend's Grip). It is less effective against teams with abundant area-of-effect spells or multiple low-cooldown targeted abilities that can pop the block easily. Prioritize this on mobile, high-priority cores who are the primary target for enemy disables. Stats: Block Cooldown: 14s.
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, CORE_MECHANICS, FULL_ITEM, SAVE, DEFENSIVE, SUPPORT_ITEM, UTILITY, TEAMFIGHT_ROLE, VS_MAGIC, MAGIC_RESISTANCE] | Glimmer Cape, Cost: 2150: Provides a targeted defensive active that grants a 375 magic damage barrier, 20% Magic Resistance, and invisibility after a 0.5s fade to you or an ally for 5 seconds. This can be used while channeling. Primarily a support save item to protect fragile allies against magic damage burst or to enable repositioning. Stats: CD: 15s, Mana: 125, Magic Barrier: 375, Duration: 5s, Fade Delay: 0.5s.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, RECIPE] | Glimmer Cape LANING_PHASE: A pure recipe item, it has no role in the laning phase. It is purchased only to complete the Glimmer Cape when all other components are acquired. Stats: Cost: 450 gold.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, TEAMFIGHT_ROLE, FULL_ITEM, SAVE, DEFENSIVE, TEAMFIGHT_UTILITY, DISRUPT] | Lotus Orb, Cost: 3850: Serves as a defensive save item in team fights. By applying the Echo Shell to a key ally being focused or disabled, you can punish the enemy's initiation, often forcing them to hold their spells. This creates a disruptive aura of protection that can turn the tide of an engagement.
+---
+[TAGS: Ability, Area of Effect, Slow] | Stroke of Fate: A curved path ability that damages and slows enemies, with increased damage per hit. Tactical purpose: Area denial and teamfight damage scaling. Stats: Base damage: 100/160/220/280, Bonus damage per hero: 20/40/60/80, Bonus damage per creep/illusion: 10/20/30/40, Slow: 50%/60%/70%/80%, Slow duration: 1.75.
+---
+[TAGS: Ability, Duration, Area Control] | March of the Machines Duration: Extends area control and damage over time. Stats: Duration: +{bonus_duration}s
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, FULL_ITEM, SITUATIONAL_VS_CONTROL, SAVE, DEFENSIVE, UTILITY, SUPPORT_ITEM] | Glimmer Cape, Cost: 2150: Situational for countering heroes with channeling or long-cast-time abilities. Because it can be cast while channeling, it allows heroes like Crystal Maiden or Witch Doctor to complete their ultimates while gaining magic protection and the chance to become invisible. It's a strong save for heroes who are stunned or rooted. Stats: CD: 15s, Magic Barrier: 375.
+---
+[TAGS: Dazzle, Armor, Scaling] | Weave Armor Reduction/Increase: Enhances Dazzle's Weave armor manipulation by 1 per second. Stats: Armor Change: +1
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, DEFENSIVE] | Lotus Orb CORE_BUILD / SYNERGIES: Builds from Perseverance (regen), Platemail (armor), and Energy Booster (mana). Strong on initiators or squishy cores who need to survive key spells. Synergy with self-cast heroes (e.g., Legion Commander Duel). Stats: Components: Perseverance, Platemail, Energy Booster.
+---
+[TAGS: ITEM_DATA, CLOAK, FULL_ITEM, TEAMFIGHT_ROLE, VS_MAGIC, MAGIC_RESISTANCE, DEFENSIVE, SURVIVAL] | Cloak, Cost: 800: Defensive utility item that reduces incoming magical damage in team fights and skirmishes. Increases effective HP pool against magic nukers, allowing heroes to survive burst combos. Particularly valuable for frontline heroes or those with low base magic resistance.
+---
+[TAGS: ITEM_DATA, FORTITUDE_RING, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SAVE, HEALTH, REGEN, SURVIVAL] | Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.
+---
+[TAGS: Ability, Control] | God's Rebuke Slow Duration Increase: Prolongs the slow effect of God's Rebuke, providing better control over enemy movement. Stats: Slow Duration: {bonus_knockback_slow_duration}s
+---
+[TAGS: STRATEGY, Visage, ITEM_BUILD, SITUATIONAL] | Visage Situational: Buy BKB vs lockdown, Shiva's vs physical damage, or Nullifier vs saves. Consider Overwhelming Blink for initiation if ahead.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, FULL_ITEM, SYNERGY_BUILD, SUPPORT_ITEM, SAVE, DEFENSIVE, UTILITY] | Glimmer Cape, Cost: 2150: High synergy for heroes who need to protect themselves while casting stationary spells, such as Crystal Maiden, Witch Doctor, or Bane. Also a natural purchase for position 4/5 supports looking for a reliable save tool to counter enemy magic cores like Zeus or Lina. The build-up is relatively smooth with Shadow Amulet and Cloak.
+---
+[TAGS: ITEM_DATA, GLIMMER_CAPE, FULL_ITEM, TEAMFIGHT_ROLE, SAVE, DEFENSIVE, SUPPORT_ITEM, VS_MAGIC, UTILITY] | Glimmer Cape, Cost: 2150: Core defensive support item in team fights to save key teammates. The barrier and invisibility disrupt enemy targeting and focus fire, allowing allies to survive or escape lethal magic burst. It excels at countering lineups heavy with magic damage nukes and delayed disables. Stats: CD: 15s, Magic Barrier: 375.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: ITEM_DATA, LOTUS_ORB, CORE_MECHANICS, FULL_ITEM, DISPEL, SAVE, DEFENSIVE, VS_CONTROL, UTILITY] | Lotus Orb, Cost: 3850: Applies a basic dispel and a protective Echo Shell to a target ally for 5 seconds. Most single-target spells cast on the shielded unit are reflected back to the original caster while the shielded unit still takes the spell damage. This makes it a powerful counter-initiation and save tool against targeted disables and debuffs. Stats: CD: 15s, Mana Cost: 175, Duration: 5s.
+---
+[TAGS: BEASTMASTER, SITUATIONAL, VS_MAGIC_BURST] | Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Elusive HARD_COUNTERS: The evasion is countered by items and abilities providing True Strike (e.g., Monkey King Bar, Bloodthorn, certain hero spells), which completely negate its defensive benefit.
+---
+[TAGS: DAZZLE, SITUATIONAL, WITH_MAGIC_DAMAGE] | Scenario: With a Heavy Magic Damage Lineup. Dazzle's utility is still high but his armor reduction is less impactful. Focus on the Nothl Boon facet to maximize healing and disable uptime (hex from Poison Touch). Items like Lotus Orb and Pipe of Insight become more relevant. Your job is to keep magic damage dealers alive long enough to cast their spells multiple times.
+---
+[TAGS: SAND_KING, SITUATIONAL, VS_BKB, CONTROL] | Scenario: Enemy team has multiple BKB carriers. Burrowstrike does NOT pierce BKB, so you must initiate before they activate BKB or focus on non-BKB targets. Epicenter slow does not pierce BKB. Your value comes from controlling supports and applying Caustic Finale explosions from non-BKB kills. Shiva's Guard active slow is crucial.
+---
+[TAGS: ITEM_DATA, SAMPLE_PICKER, CORE_DESCRIPTION, NON_PURCHASABLE] | Sample Picker, Cost: 0: This item appears to be a placeholder or custom game item, providing no purchasable stats or active abilities in the standard shop. It is associated with a penalty to Strength. Stats: Cooldown: 15s.
+---
+[TAGS: BANE, CORE_BUILD] | Bane's core build consists of: 1) Tranquil Boots for mobility and sustain as he doesn't need mana boots. 2) Aether Lens to increase the cast range of all his crucial spells (Brain Sap, Nightmare, Fiend's Grip). 3) Force Staff or Glimmer Cape, depending on the enemy lineup, for positioning, saving allies, or saving himself while channeling Fiend's Grip.
+
+=== GAME STATE ===
+Match Time: 00:00 | State: 
+Hero: dazzle (Lvl 15) | HP: 1200/1200 | Mana: 1000/1000 | Alive: true
+Stats: K/D/A 0/0/0 | Gold: 0 | LastHits: 0
+Inventory: [item_arcane_boots (CD), item_mech (CD), item_aether_lens (CD)]
+Abilities: []
+User Situation Notes: У врагов есть Doom и Bane. В каждой драке они кидают свои ульты в нашего Свена, даже если он жмет БКБ. Крест не спасает, он стоит в контроле 10 лет.
+
+=== USER QUESTION ===
+"Как мне спасти нашего керри от ульты Дума или Бейна? БКБ ему не помогает."
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Как мне спасти нашего керри от ульты Дума или Бейна? БКБ ему не помогает.".**
+========================================
+
+[AI RESPONSE] (3.90s)
+Используй Lotus Orb на Свене, когда он становится целью для ульты Дума или Бейна. Это обеспечит ему базовый дисперс и затруднит противникам его контролировать в бою. Альтернативно, если произойдет активный контроль, подожди, пока Arcane Boots или Mekansm окажутся готовы, чтобы быстро восстановить здоровье и дать возможность Свену продолжить сражаться.

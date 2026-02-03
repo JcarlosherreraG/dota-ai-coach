@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Quickening Charm, Cost: 0: Tier neutral item: An evergreen amulet of druidic origins. Reduces the cooldown time of all spells and items and grants health regeneration.",
+    "search_text": "neutral item, cooldown reduction, cd reduction, health regen, cooldown item, regen neutral, Quickening Charm",
+    "tags": [
+      "ITEM_DATA",
+      "QUICKENING_CHARM",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "COOLDOWN_REDUCTION",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH"
+    ]
+  }
+]

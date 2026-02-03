@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Trusty Shovel, Tier 4: Neutral item with a channeled ability that digs for a random reward after 1 second. Possible rewards: 16% chance for a Bounty Rune, 28% chance for a Healing Salve, 28% chance for an Enchanted Mango, or 28% chance to summon a Kobold follower for 60 seconds. Digging in a river always yields a Water Rune. The same reward cannot be found twice in a row. Stats: CD: 70s.",
+    "search_text": "trusty shovel, dig item, neutral item, dig ability, tier 4 neutral, random reward, bounty rune, healing salve, enchanted mango, kobold summon, water rune, channel dig, utility neutral, consumable generator, trusty shovel",
+    "tags": [
+      "ITEM_DATA",
+      "TRUSTY_SHOVEL",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_4",
+      "UTILITY",
+      "RNG",
+      "CONSUMABLE_GENERATION"
+    ]
+  }
+]

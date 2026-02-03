@@ -1,0 +1,60 @@
+[
+  {
+    "display_text": "Refresher Orb, Cost: 5000: Resets cooldowns of all items and abilities (including itself), allowing double cast of ultimates or key spells in a fight. This high-cost, high-impact item enables a second round of crowd control or burst damage. Its long cooldown and significant mana cost commit you to major team fights or objectives. Stats: CD: 180/190/200/210s, Mana Cost: 400, HP Regen: 12, Mana Regen: 6.",
+    "search_text": "cooldown reset item, reset ultimates, double cast, double ult, reset abilities, reset items, team fight reset, high cooldown item, Refresher Orb, refresher, reset cooldown, ability reset, item reset, double Black Hole, double Ravage, double Chronosphere, ult reset, combo reset",
+    "tags": [
+      "ITEM_DATA",
+      "REFRESHER_ORB",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "UTILITY",
+      "ABILITY_RESET",
+      "ITEM_RESET",
+      "HIGH_IMPACT",
+      "LONG_COOLDOWN"
+    ]
+  },
+  {
+    "display_text": "Refresher Orb, Cost: 5000: Provides substantial flat health and mana regeneration (+12 HP/sec, +6 Mana/sec). This sustain helps maintain presence on the map between its long cooldown windows. It provides no primary attributes or damage. Stats: HP Regen: 12, Mana Regen: 6.",
+    "search_text": "Refresher Orb stats, refresher stats, hp regen item, mana regen item, sustain stats, Refresher Orb attributes, Refresher Orb regen, no damage item, utility stats",
+    "tags": [
+      "ITEM_DATA",
+      "REFRESHER_ORB",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "REGEN",
+      "MANA",
+      "MANA_REGEN",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Refresher Orb, Cost: 5000: Team fight winning item that grants a hero a decisive advantage through a second cast of powerful ultimates or disable chains. It dramatically amplifies the impact of heroes with long cooldown, high value abilities, turning a single strong spell into two in rapid succession.",
+    "search_text": "team fight reset, game winning item, ultimate amplifier, double ultimate, team fight advantage, Refresher Orb team fight, Refresher Orb win condition, fight resetter, Refresher Orb",
+    "tags": [
+      "ITEM_DATA",
+      "REFRESHER_ORB",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "UTILITY",
+      "HIGH_IMPACT",
+      "WIN_CONDITION",
+      "AMPLIFIER"
+    ]
+  },
+  {
+    "display_text": "Refresher Orb, Cost: 5000: Critical item for heroes whose power is concentrated in long-cooldown ultimates (e.g., Tidehunter, Enigma, Zeus). The massive mana cost requires a sufficient mana pool or regeneration to cast both spells back-to-back. Timing is key—buy it when you have enough mana and survivability to use its effect effectively in a fight.",
+    "search_text": "Refresher Orb heroes, heroes with Refresher Orb, Refresher Orb timing, Refresher Orb mana cost, tidehunter refresher, enigma refresher, zeus refresher, ult refresher, Refresher Orb",
+    "tags": [
+      "ITEM_DATA",
+      "REFRESHER_ORB",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UTILITY",
+      "HERO_SYNERGY",
+      "TIMING_SENSITIVE",
+      "MANA_INTENSIVE"
+    ]
+  }
+]

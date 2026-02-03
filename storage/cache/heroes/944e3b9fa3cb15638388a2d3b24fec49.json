@@ -1,0 +1,227 @@
+[
+  {
+    "display_text": "Tinker is an Intelligence-based ranged hero with 19 starting Strength, 17 starting Agility, and 30 starting Intelligence. With a base attack rate of 1.7 seconds per attack, his early game right-click is average to slow. He has no innate health or armor advantages, making him vulnerable in lane. His primary strength is his high Intelligence pool for early spellcasting.",
+    "search_text": "Tinker stats base intelligence 30 strength 19 agility 17 attack rate 1.7 ranged hero",
+    "tags": [
+      "TINKER",
+      "BASE_STATS",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "The 'Repair Bots' facet makes March of the Machines apply a heal over time to allies it passes through, enabling a more supportive, pushing, and team-fight oriented playstyle. The 'Translocator' facet gives Tinker a blink when his Self-Defense Matrix barrier is fully absorbed, providing a significant defensive and mobility tool for a solo, ganking, or high-risk core playstyle where repositioning is key. Choose Repair Bots for utility and team sustain; choose Translocator for survivability and mobility to enable aggressive spellcasting.",
+    "search_text": "tinker facets Repair Bots Translocator heal allies march machines blink defense matrix barrier playstyle support core solo",
+    "tags": [
+      "TINKER",
+      "FACET_STRATEGY",
+      "FACETS"
+    ]
+  },
+  {
+    "display_text": "Tinker's laning phase is defined by his high starting Intelligence (30) for spamming Laser. Use Laser (Q) at level 1 to harass, as it deals 75 Pure damage and blinds for 3 seconds, causing enemy carries to miss attacks. Max Laser first for kill threat. Use March of the Machines (E) to secure ranged creeps and shove the wave. He is weak to physical damage and ganks due to low armor and HP, so positioning is critical. Prioritize getting Soul Ring and Boots of Travel components.",
+    "search_text": "tinker laning phase laser harass 75 pure damage blind 3 seconds march machines secure ranged creep farm soul ring boots of travel vulnerable low armor",
+    "tags": [
+      "TINKER",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Tinker's power spikes are tied to Rearm and key items. Level 6 enables Rearm for constant wave clear with March and Laser. Level 12 improves all basic spells. The biggest spike is Boots of Travel, allowing global map pressure. Level 18 (max Rearm) and Aghanim's Shard (Warp Flare) provide immense control. Level 20 talents (Laser AoE or -0.5s Keen Conveyance channel) are significant. Level 25 with +40 Intelligence and item cooldown reduction from Eureka! makes him a relentless spellcaster.",
+    "search_text": "tinker power spikes level 6 rearm boots of travel global shard warp flare control level 18 level 20 talent laser aoe level 25 40 intelligence eureka cooldown reduction",
+    "tags": [
+      "TINKER",
+      "POWER_SPIKES",
+      "TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Tinker is hard-countered by heroes with instant silences, hexes, or long-duration stuns that prevent Rearm channeling (e.g., Skywrath Mage, Storm Spirit, Lion). Break effects disable his innate ability Eureka!, removing his item cooldown reduction. High burst physical damage (e.g., Phantom Assassin) can kill him through Defense Matrix. Heroes with global presence or high mobility can match his BoT split-push (e.g., Nature's Prophet, Spectre).",
+    "search_text": "tinker counters silence hex stun stop rearm channel break disable eureka item cooldown reduction burst physical damage global match boots of travel",
+    "tags": [
+      "TINKER",
+      "HARD_COUNTERS",
+      "COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Tinker's absolute core build is Soul Ring (for mana sustain with Rearm) and Boots of Travel (for global mobility and map pressure). A third essential item is almost always Aghanim's Shard, which grants Warp Flare, providing a crucial repositioning and lockdown tool (150 damage, 2s root, range reduction). These three items are non-negotiable for his core gameplay loop.",
+    "search_text": "tinker core items soul ring boots of travel aghanims shard warp flare essential mandatory",
+    "tags": [
+      "TINKER",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Tinker's role is to spam high-impact spells from the outskirts. He initiates or disrupts with Warp Flare (Shard) to teleport and root key targets. He uses Defense Matrix on the initiator or himself for survivability. He blinds high physical damage dealers with Laser and zones/chips with constant March of the Machines. His job is to create chaos, control space, and burn enemy resources through relentless spellcasting, not to stand and right-click.",
+    "search_text": "tinker teamfight role spam spells backline warp flare shard root control defense matrix save laser blind march machines zone chaos control space",
+    "tags": [
+      "TINKER",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Laser (Q) deals 75/150/225/300 Pure damage and blinds the target for 3.0/3.5/4.0/4.5 seconds, causing them to miss 100% of physical attacks. The ability has a 100% splash in a radius of 0. Does NOT pierce BKB. It is a targeted nuke and debuff for harass and disabling carries.",
+    "search_text": "tinker laser Q ability pure damage 75 150 225 300 blind 3 3.5 4 4.5 seconds miss 100% physical attacks nuke debuff",
+    "tags": [
+      "TINKER",
+      "ABILITY_DATA",
+      "LASER",
+      "PURE_DAMAGE",
+      "BLIND"
+    ]
+  },
+  {
+    "display_text": "March of the Machines (E) summons 24 robots per second for 6.0 seconds in a 900 radius around Tinker. Each robot deals 13/22/31/40 damage on impact with a 150 splash radius. Robots travel 1800 distance at 400 speed. This ability is for wave clear, farming, and area denial.",
+    "search_text": "tinker march of the machines E ability robots 24 per second 6 sec duration 900 radius damage 13 22 31 40 splash 150 wave clear farm area denial",
+    "tags": [
+      "TINKER",
+      "ABILITY_DATA",
+      "MARCH_OF_THE_MACHINES",
+      "AOE_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Defense Matrix (D) targets an ally, applying a damage barrier that absorbs 80/160/240/320 damage and grants 15/20/25/30% Status Resistance for 15 seconds. This is a single-target defensive buff and dispel tool.",
+    "search_text": "tinker defense matrix D ability barrier absorb 80 160 240 320 damage status resistance 15 20 25 30% duration 15 seconds save dispel",
+    "tags": [
+      "TINKER",
+      "ABILITY_DATA",
+      "DEFENSE_MATRIX",
+      "BARRIER",
+      "STATUS_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "Warp Flare (Shard Ability) throws a flare at an enemy, dealing 150 damage, teleporting them up to 2000 units away (to cast range + 100), rooting them, and reducing their Cast and Attack Range by 40% for 2 seconds. It is a powerful single-target repositioning and lockdown tool.",
+    "search_text": "tinker warp flare shard ability damage 150 teleport enemy root 2 seconds reduce cast attack range 40% control reposition",
+    "tags": [
+      "TINKER",
+      "ABILITY_DATA",
+      "WARP_FLARE",
+      "SHARD",
+      "ROOT",
+      "REPOSITION"
+    ]
+  },
+  {
+    "display_text": "Keen Conveyance (R) is a channeled teleport to friendly structures (level 1), units (level 2), and heroes (level 3). The channel time is 3.0 seconds (reduced by talents). It has a 20-second cooldown on game start. This is Tinker's innate Boots of Travel ability, enabling his global playstyle.",
+    "search_text": "tinker keen conveyance R innate teleport channel 3.0 sec 20 sec start cooldown teleport structures units heroes global mobility",
+    "tags": [
+      "TINKER",
+      "ABILITY_DATA",
+      "KEEN_CONVEYANCE",
+      "TELEPORT",
+      "CHANNEL"
+    ]
+  },
+  {
+    "display_text": "Rearm (R) is a channeled ability that, over 3.0 seconds, resets the cooldown of all Tinker's basic abilities and items (except Keen Conveyance). This ability defines Tinker, allowing for infinite spell and item usage.",
+    "search_text": "tinker rearm ultimate R channel 3.0 sec resets cooldowns abilities items infinite spam core mechanic",
+    "tags": [
+      "TINKER",
+      "ABILITY_DATA",
+      "REARM",
+      "ULTIMATE",
+      "CHANNEL"
+    ]
+  },
+  {
+    "display_text": "Eureka! (Innate Passive) grants Tinker 1% item cooldown reduction per 3 Intelligence, up to a maximum of 60%. This passive scales with his Intelligence, significantly reducing the cooldown of items like Shiva's Guard, Scythe of Vyse, and Dagon.",
+    "search_text": "tinker eureka innate passive item cooldown reduction 1% per 3 intelligence max 60% scaling intelligence items",
+    "tags": [
+      "TINKER",
+      "ABILITY_DATA",
+      "EUREKA",
+      "PASSIVE",
+      "COOLDOWN_REDUCTION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against high physical damage teams (e.g., Phantom Assassin, Templar Assassin). Prioritize maxing Laser for the long-duration blind. Build items like Shiva's Guard for armor and attack speed slow. Use Defense Matrix proactively on yourself or the target being focused. The Translocator facet is highly valuable here for escaping after the barrier breaks.",
+    "search_text": "tinker vs high physical damage armor laser blind shivas guard defense matrix translocator facet escape",
+    "tags": [
+      "TINKER",
+      "SITUATIONAL",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind with poor farm. Focus on split-pushing with March of the Machines and Keen Conveyance to create space. Build utility items like Aether Lens to cast spells safely and Force Staff for survival. Avoid expensive luxury items; prioritize your Aghanim's Shard for the reliable Warp Flare control in fights. The Repair Bots facet can provide value by healing allies during defensive sieges.",
+    "search_text": "tinker playing from behind split push march machines keen conveyance space utility aether lens force staff shard warp flare repair bots facet heal",
+    "tags": [
+      "TINKER",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has strong magic burst (e.g., Zeus, Lina). Build a Pipe of Insight or a BKB to survive initial bursts. Use Defense Matrix to grant status resistance against stuns. Consider the Repair Bots facet for the extra healing while marching to sustain through chip damage. Positioning is key; stay far back until key enemy spells are used.",
+    "search_text": "tinker vs magic burst pipe of insight bkb defense matrix status resistance repair bots facet heal positioning",
+    "tags": [
+      "TINKER",
+      "SITUATIONAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "Scenario: You need to lockdown a mobile core (e.g., Storm Spirit, Queen of Pain). Your Aghanim's Shard (Warp Flare) is your primary tool. Follow up with Scythe of Vyse for a long-duration hex. Coordinate with your team to burst the target during the 2-second root. Talent choices like +50 Laser Damage at 15 can help secure the kill.",
+    "search_text": "tinker lockdown mobile core warp flare shard root scythe of vyse hex coordination talent laser damage",
+    "tags": [
+      "TINKER",
+      "SITUATIONAL",
+      "LOCKDOWN"
+    ]
+  },
+  {
+    "display_text": "Scenario: The game is a slow, siege-heavy matchup. Utilize the Repair Bots facet to heal allies during prolonged standoffs with March of the Machines. Max March to constantly clear waves and chip at towers. Items like Shiva's Guard and Octarine Core (for spell lifesteal and cooldown) are excellent for sustaining through long fights and mana consumption.",
+    "search_text": "tinker siege repair bots facet heal allies march machines chip towers shivas guard octarine core sustain",
+    "tags": [
+      "TINKER",
+      "SITUATIONAL",
+      "SIEGE"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +1.0s March of the Machines Duration or +10% Manacost/Manaloss Reduction. The March duration talent increases farming speed and area control slightly. The Manacost Reduction talent is generally superior as it directly improves your sustainability for spamming spells with Rearm, reducing the burden of your high mana costs.",
+    "search_text": "tinker level 10 talent left +1.0s march machines duration right +10% manacost manaloss reduction mana sustain farming control",
+    "tags": [
+      "TINKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between +60 Defense Matrix Damage Barrier or +50 Laser Damage. The Defense Matrix talent significantly improves your and your allies' survivability, making it the better teamfight and defensive choice. The Laser Damage talent increases your burst potential. Pick Defense Matrix if you are being focused or need to save cores; pick Laser Damage if you are snowballing and need more kill threat.",
+    "search_text": "tinker level 15 talent left +60 defense matrix barrier right +50 laser damage survivability save vs burst damage kill threat",
+    "tags": [
+      "TINKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between +10% Defense Matrix Status Resistance or -0.5s Keen Conveyance Channel Time. The Status Resistance talent makes the buffed target much more resistant to disables, great against heavy control lineups. The Keen Conveyance talent reduces channel time to 2.5s, making your global teleports faster and less risky. Pick the channel time if split-pushing is your win condition; pick Status Resistance for teamfight durability.",
+    "search_text": "tinker level 20 talent left +10% defense matrix status resistance right -0.5s keen conveyance channel time teleport speed vs disable resistance",
+    "tags": [
+      "TINKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between 200 AoE Laser or +40 Intelligence. The AoE Laser talent transforms Laser into a powerful teamfight ability that can blind multiple enemies, devastating against physical lineups. The +40 Intelligence talent provides massive mana, damage, and, via Eureka!, up to ~13% additional item cooldown reduction. Pick AoE Laser for fight impact; pick +40 Int for unparalleled spam and utility with items.",
+    "search_text": "tinker level 25 talent left 200 aoe laser blind multiple right +40 intelligence mana damage eureka item cooldown reduction",
+    "tags": [
+      "TINKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

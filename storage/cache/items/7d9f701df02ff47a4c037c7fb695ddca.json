@@ -1,0 +1,75 @@
+[
+  {
+    "display_text": "Diffusal Blade, Cost: 2500: Active ability 'Inhibit' slows a single enemy for 4 seconds. Each attack passively burns 40 mana from the target and deals 1 physical damage per mana burned. Illusions cannot burn mana. Effective for controlling mobile heroes and draining mana-dependent casters. Stats: CD: 15s, Mana Cost: 25.",
+    "search_text": "mana burn item, slow item, agility item, intelligence item, anti-mana item, mana drain, slow active, purge slow, root, diffusal blade, diffusal, agility carry item, catch tool, illusion mana burn, diffusal slow, inhibit, manabreak",
+    "tags": [
+      "ITEM_DATA",
+      "DIFFUSAL_BLADE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MANA_BURN",
+      "SLOW",
+      "CATCH",
+      "AGILITY",
+      "INTELLIGENCE",
+      "PURGE",
+      "DISPELLABLE"
+    ]
+  },
+  {
+    "display_text": "Diffusal Blade, Cost: 2500: Provides +15 Agility and +10 Intelligence, making it efficient for Agility heroes who scale with attack speed and damage. The Intelligence helps support the mana cost of its active ability. Stats: AGI: +15, INT: +10.",
+    "search_text": "diffusal blade stats, agility item, intelligence item, stat item, mana burn stats, agi diffusal, stat boost, diffusal stats",
+    "tags": [
+      "ITEM_DATA",
+      "DIFFUSAL_BLADE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "AGILITY",
+      "INTELLIGENCE",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "MANA"
+    ]
+  },
+  {
+    "display_text": "Diffusal Blade, Cost: 2500: Primarily a catch and anti-caster tool in team fights. The active slow helps lock down key targets, while the mana burn reduces the threat from spellcasters and can turn fights by exhausting enemy mana pools, making follow-up disables lethal.",
+    "search_text": "team fight mana burn, anti-caster item, slow catch, team fight utility, mana drain fight, control item, diffusal team fight, catch tool, anti mana",
+    "tags": [
+      "ITEM_DATA",
+      "DIFFUSAL_BLADE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "CATCH",
+      "VS_CASTERS",
+      "CONTROL",
+      "DEBUFF"
+    ]
+  },
+  {
+    "display_text": "Diffusal Blade, Cost: 2500: Highly situational against heroes with low mana pools or high mana-cost abilities. Counters mobile, mana-dependent heroes and provides a dispellable slow that can interrupt channeling spells or chase down fleeing enemies.",
+    "search_text": "situational diffusal, low mana pool counter, high mana cost counter, counter mana heroes, anti mobility, chase item, diffusal situational, dispel root, diffusal vs mana, diffusal counter",
+    "tags": [
+      "ITEM_DATA",
+      "DIFFUSAL_BLADE",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_CASTERS",
+      "MOBILITY",
+      "CHASE"
+    ]
+  },
+  {
+    "display_text": "Diffusal Blade, Cost: 2500: Strong synergy with illusion-based heroes like Phantom Lancer or Naga Siren, though illusions do not burn mana. It is a core damage and utility item for Agility carries who can leverage the stat efficiency and the active slow to secure kills.",
+    "search_text": "diffusal synergy, illusion heroes, agi carry item, phantom lancer item, naga siren item, carry diffusal, kill secure item, stat efficient, agility carry, diffusal build",
+    "tags": [
+      "ITEM_DATA",
+      "DIFFUSAL_BLADE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "AGILITY",
+      "ILLUSION_SYNERGY",
+      "DAMAGE"
+    ]
+  }
+]

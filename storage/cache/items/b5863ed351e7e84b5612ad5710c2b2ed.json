@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Brawny, Cost: 0 / Tier 1: Neutral item providing a health and health regeneration bonus that scales with tiers, and slow resistance at Tier 4. A sustain item for heroes looking to tank up during the early mid-game. Stats: HP Bonus: 110/150/190/230, HP Regen: 0/3/6/9, Slow Resist: 0/0/0/25%.",
+    "search_text": "neutral item, tier 1, health item, hp regen, sustain, slow resistance, brawny, tank neutral, early game sustain, farming neutral, survival neutral, Brawny",
+    "tags": [
+      "ITEM_DATA",
+      "ENHANCEMENT_BRAWNY",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "HEALTH",
+      "REGEN",
+      "SUSTAIN",
+      "SURVIVAL",
+      "SLOW_RESISTANCE"
+    ]
+  }
+]

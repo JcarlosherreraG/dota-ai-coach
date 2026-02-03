@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Pudge Aghanim's Scepter: Increases Rot radius and damage, and reduces enemy Health Restoration. This upgrade counters high-health regeneration and healing mechanics, making Pudge a strong counter to heroes reliant on sustain tactics. It enhances his area denial capabilities in team fights.",
+    "search_text": "Pudge Aghanim Scepter anti-healing health restoration sustain counter area denial",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Pudge",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Pudge Aghanim's Shard: Meat Hook deals bonus damage based on distance when hitting enemies and reduces cooldown by 50% when hitting allies. This upgrade counters long-range disengages and synergizes with ally repositioning, enhancing Pudge’s role as both a damage dealer and a support for saving allies.",
+    "search_text": "Pudge Aghanim Shard long-range damage repositioning disengage support ally save",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Pudge",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

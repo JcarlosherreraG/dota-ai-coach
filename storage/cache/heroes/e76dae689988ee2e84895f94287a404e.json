@@ -1,0 +1,215 @@
+[
+  {
+    "display_text": "Primal Beast is a Melee strength hero with a slow base attack rate of 1.8. He has high base Strength (26) but low base Agility (15) and Intelligence (16), meaning he has high HP but low armor and a small mana pool. His attack range is standard for melee heroes, and his turn rate (0.7 from the Onslaught ability data) is average. His primary weakness in the laning stage is low armor and susceptibility to mana burn due to his low Intelligence.",
+    "search_text": "Primal Beast stats melee strength 26 15 16 1.8 attack rate low armor mana",
+    "tags": [
+      "Primal Beast",
+      "BASE_STATS",
+      "ATTACK_TYPE",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Romp n' Stomp - Trample grants bonus movement speed to Primal Beast and his allies. This is a team-oriented facet, ideal for initiating fights with your team or helping allies disengage. Choose this when your team lacks mobility and needs to stick to targets or escape together. Facet 2: Provoke the Beast - Gain 3 Uproar stacks upon being disabled by an enemy hero. This is an aggressive, bait-oriented facet. Pick this when facing heroes with many single-target disables (like Lion, Shadow Shaman) to turn their attempts to control you into a significant damage and armor buff. Facet 3: Ferocity - Each Pulverize slam increases Primal Beast's AoE. This is a late-game scaling facet for teamfight dominance. Select this when you expect long, drawn-out fights and need to control a larger area with your ultimate, especially against illusion or summon-heavy lineups.",
+    "search_text": "Primal Beast facets Romp n Stomp Provoke the Beast Ferocity Trample speed Uproar stacks disable Pulverize AoE",
+    "tags": [
+      "Primal Beast",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "In the laning phase (first 10 minutes), leverage Primal Beast's high base damage and the threat of Trample. Start with a point in Uproar for trading hits, as each instance of 50+ hero damage grants a stack, increasing your damage and armor when activated. Use Trample level 1 carefully for last-hitting ranged creeps or harassing, but be mindful of the 5.5-second disarm. Your primary goal is to survive and get levels, as your kill potential is low before level 6. Focus on securing last hits with your high base damage. Be cautious of mana usage; your Intelligence is low.",
+    "search_text": "Primal Beast laning phase early game Trample Uproar stacks trade damage disarm last hit",
+    "tags": [
+      "Primal Beast",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Power Spike 1: Level 6 with Pulverize. This gives you solo kill potential with a full channel, dealing up to 100/175/250 + 20/40/60 bonus damage per hit. Power Spike 2: Level 12 with maxed Trample (cooldown reduced to 21s) and level 2 Pulverize. Power Spike 3: Level 18 with maxed Rock Throw and level 3 Pulverize. Talent Spikes: Level 10 talents (+30 Damage or +25% Magic Resistance During Trample) enhance your right-click or survivability. Level 15 (-5s Trample Cooldown or +6 Uproar Armor Per Stack) improves mobility/durability or tankiness. Level 20 (Basic Self-Dispel on Uproar Cast or +20% Trample Attack Multiplier) offers utility or massive damage. Level 25 (Cannot be slowed or rooted during Trample or +67% Pulverize Duration) are both massive late-game upgrades. Item Spike: Blink Dagger allows reliable initiation. Black King Bar ensures you can channel Pulverize uninterrupted.",
+    "search_text": "Primal Beast power spikes level 6 12 18 20 25 talents Blink Dagger BKB Pulverize Trample",
+    "tags": [
+      "Primal Beast",
+      "POWER_SPIKES",
+      "TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Primal Beast is hard countered by: 1. Break (Silver Edge, Hoodwink's Bushwhack). Break disables the gaining of new Uproar stacks, removing his primary source of bonus damage and armor. 2. Kiting and mobility. Heroes with high movement speed or blinks (Weaver, Storm Spirit) can easily avoid Onslaught and Trample. 3. Instant Disables and Silences. Hex (Lion, Shadow Shaman) or global silence (Silencer) can prevent him from activating Uproar or cancel Trample/Onslaught. 4. Mana Burn (Anti-Mage, Nyx Assassin). His low Intelligence pool makes him extremely vulnerable to having his mana depleted, rendering him unable to cast spells.",
+    "search_text": "Primal Beast counters break Silver Edge Uproar kiting mobility silence hex mana burn Anti-Mage",
+    "tags": [
+      "Primal Beast",
+      "HARD_COUNTERS",
+      "COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: 1. Blink Dagger is absolutely essential. It allows Primal Beast to instantly close the gap and land Pulverize or start Trample on key targets. 2. Black King Bar is non-negotiable. Pulverize is a channeled ability that lasts 2.3 seconds and does NOT pierce BKB. BKB ensures you cannot be interrupted during your ultimate. 3. Aghanim's Scepter is a core luxury item. It provides Rock Throw, a long-range initiation and crowd control tool that also generates Uproar stacks.",
+    "search_text": "Primal Beast core items Blink Dagger BKB Black King Bar Aghanim Scepter Rock Throw",
+    "tags": [
+      "Primal Beast",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In a 5v5 teamfight, Primal Beast's primary role is that of a disruptive initiator and frontline tank. Your job is to start fights with Blink + Pulverize on a key hero, locking them down for your team. Use Onslaught to disrupt enemy formations, knocking heroes out of position. Activate Trample to deal significant AoE damage while moving through the fight. Use Uproar reactively when you take damage to gain massive bonus damage and armor, making you incredibly hard to kill. Your goal is to absorb spells and create chaos, allowing your carries to clean up.",
+    "search_text": "Primal Beast teamfight role initiator tank disrupt Pulverize Onslaught Trample Uproar frontline",
+    "tags": [
+      "Primal Beast",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Onslaught (Q). Primal Beast charges up for up to 1.7 seconds and then runs 2000 units, knocking back enemies and allies. Enemies hit take 75/170/265/360 damage, are knocked back 200 units over 0.2 seconds, and are stunned for 0.7/1/1.3/1.6 seconds. The knockback radius is 190. Charge speed is 1200. Can be cancelled. Does NOT pierce BKB (pierce_immunity is 0).",
+    "search_text": "Onslaught Q charge knockback stun 75 170 265 360 damage 0.7 1 1.3 1.6 sec stun 2000 distance initiation mobility",
+    "tags": [
+      "Primal Beast",
+      "ABILITY_DATA",
+      "Q",
+      "STUN",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Trample (W). For 5.5 seconds, Primal Beast is disarmed. Every 140 units he travels, he deals 15/30/45/60 base damage plus 35% of his attack damage to all enemies in a 230 radius around him. Cooldown is 30/27/24/21 seconds. Does NOT pierce BKB.",
+    "search_text": "Trample W AoE damage disarm 5.5 sec 15 30 45 60 base damage 35% attack damage 140 units step mobility",
+    "tags": [
+      "Primal Beast",
+      "ABILITY_DATA",
+      "W",
+      "DAMAGE",
+      "DISARM"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Uproar (Passive/E). Every instance of 50 or more hero damage taken grants Primal Beast a stack of Uproar, lasting 20 seconds up to a max of 6 stacks. When activated, he roars, slowing all enemies in a 900 radius for 3 seconds by 4/6/8/10% per stack. For 7 seconds, Primal Beast gains 10/20/30/40 bonus damage and 2/3/4/5 bonus armor per stack. Break disables gaining new stacks.",
+    "search_text": "Uproar E passive active slow 4 6 8 10% per stack 3 sec 10 20 30 40 damage 2 3 4 5 armor per stack 900 radius 50 damage threshold",
+    "tags": [
+      "Primal Beast",
+      "ABILITY_DATA",
+      "E",
+      "PASSIVE",
+      "BUFF",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Rock Throw (R with Aghanim's Scepter). Primal Beast throws a rock to a target location at least 550 units away. It stuns enemies in a 225 radius for 1.4 seconds and deals 325 damage. After landing, 3 fragments land behind it, each in a 185 radius. Increases Uproar stacks for each hero hit.",
+    "search_text": "Rock Throw R Aghanim Scepter stun 1.4 sec 325 damage 550 min range fragment AoE Uproar stacks",
+    "tags": [
+      "Primal Beast",
+      "ABILITY_DATA",
+      "R",
+      "AGHANIM",
+      "STUN",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Pulverize (R/Ultimate). CHANNELED for 2.3 seconds. Primal Beast grabs a target enemy within 200 range, slamming them every 0.75 seconds. Each slam deals 100/175/250 damage in a 600 radius, mini-stunning for 0.2 seconds. Each consecutive hit deals 20/40/60 bonus damage. Does NOT pierce BKB (pierce_immunity is 0).",
+    "search_text": "Pulverize R ultimate channeled 2.3 sec 100 175 250 damage 0.75 interval 0.2 ministun 600 AoE 20 40 60 bonus damage per hit grab disable",
+    "tags": [
+      "Primal Beast",
+      "ABILITY_DATA",
+      "R",
+      "ULTIMATE",
+      "CHANNELED",
+      "DAMAGE",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Versus Ranged Heroes / Kiting. In this scenario, your low mobility is exploited. Solution: Max Trample first to close gaps with movement speed (if using Romp n' Stomp facet) and deal damage while chasing. Build early Phase Boots and a Blink Dagger as fast as possible. Use Onslaught to initiate from fog or as a counter-engage when they commit.",
+    "search_text": "Primal Beast vs ranged kiting Trample Phase Boots Blink Dagger Onslaught initiation gap close",
+    "tags": [
+      "Primal Beast",
+      "SITUATIONAL",
+      "VS_RANGED",
+      "KITING"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Playing from Behind. When your team is losing, you lack the items to initiate safely. Solution: Switch to a defensive playstyle. Use Rock Throw (with Aghanim's) or Onslaught to disrupt enemy pushes from a distance. Build survivability items like Heaven's Halberd or Lotus Orb. Your role becomes a counter-initiator; wait for the enemy to jump your cores, then use Pulverize on their follow-up heroes.",
+    "search_text": "Primal Beast behind defensive Rock Throw Onslaught counter initiate Halberd Lotus Orb survivability",
+    "tags": [
+      "Primal Beast",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "SITUATION: With Aghanim's Scepter Timing. Once you acquire Aghanim's Scepter, your playstyle changes. You now have a long-range initiation tool. Use Rock Throw to start fights from over 2000 range, stunning and damaging key targets before blinking in with Pulverize. This allows you to engage from safety and generate Uproar stacks before taking damage.",
+    "search_text": "Primal Beast Aghanim Scepter Rock Throw long range initiation 2000 range combo blink Pulverize",
+    "tags": [
+      "Primal Beast",
+      "SITUATIONAL",
+      "AGHANIMS",
+      "INITIATION"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Versus Illusion Heroes (Phantom Lancer, Chaos Knight). Your AoE damage from Trample and Pulverize is effective. Solution: Consider the Ferocity facet to increase Pulverize's AoE with each slam. Build Radiance or Mjollnir for additional illusion clear. Your goal is to lock down the real hero with Pulverize while your AoE damages the illusions.",
+    "search_text": "Primal Beast vs illusions Phantom Lancer Chaos Knight Trample Pulverize AoE Ferocity facet Radiance Mjollnir",
+    "tags": [
+      "Primal Beast",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "AOE"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Versus Heavy Magic Damage Lineups. Your low magic resistance makes you vulnerable. Solution: Take the level 10 talent for +25% Magic Resistance During Trample. Build a Pipe of Insight for your team. Use Trample to move through fights while reducing magic damage taken. Activate Uproar for the armor, but remember it doesn't give magic resistance.",
+    "search_text": "Primal Beast vs magic damage talent 25% resistance Tramble Pipe of Insight Uproar armor",
+    "tags": [
+      "Primal Beast",
+      "SITUATIONAL",
+      "VS_MAGIC",
+      "RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 10. Left Choice: +30 Damage. This significantly boosts your right-click damage, improving farming speed and man-fighting potential. Right Choice: +25% Magic Resistance During Trample. This is a defensive option that makes you much tankier while using your primary damage/mobility spell, especially against magic-heavy lineups. Choose the damage if you are farming well and need to scale. Choose the magic resistance if you are facing nukers and need to survive initial bursts to get your spells off.",
+    "search_text": "Primal Beast talent level 10 left +30 damage right +25% magic resistance during Trample",
+    "tags": [
+      "Primal Beast",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 15. Left Choice: -5s Trample Cooldown. Reduces Trample's cooldown from 21s to 16s at max level. This greatly increases your mobility, damage uptime, and wave clear. Right Choice: +6 Uproar Armor Per Stack. Increases the armor per Uproar stack from 5 to 11 at max level. This makes you incredibly tanky against physical damage when you have 6 stacks (66 bonus armor). Choose the cooldown if you need to be more active in fights and skirmishes. Choose the armor if the enemy team has high physical damage (e.g., Drow Ranger, Troll Warlord) and you are the main frontliner.",
+    "search_text": "Primal Beast talent level 15 left -5s Trample cooldown right +6 Uproar armor per stack",
+    "tags": [
+      "Primal Beast",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 20. Left Choice: Basic Self-Dispel on Uproar Cast. When activated, Uproar removes basic debuffs like silences, slows, and roots. This is a crucial utility talent that prevents you from being kited or locked down. Right Choice: +20% Trample Attack Multiplier. Increases the attack damage multiplier of Trample from 35% to 55%. This is a massive damage increase, especially if you have built attack damage items. Choose the dispel if the enemy has key slows or silences you need to purge (e.g., Silencer, Venomancer). Choose the damage if you are snowballing and can freely Trample through fights without fear of disable.",
+    "search_text": "Primal Beast talent level 20 left basic self dispel Uproar right +20% Trample attack multiplier",
+    "tags": [
+      "Primal Beast",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 25. Left Choice: Cannot be slowed or rooted during Trample. This makes Trample an unstoppable movement and damage spell, allowing you to ignore crowd control like Crystal Nova or Rod of Atos. Right Choice: +67% Pulverize Duration. Increases Pulverize's channel time from 2.3 seconds to approximately 3.84 seconds. This deals significantly more damage and lockdown. Choose the Trample immunity if you are being kited and need to guarantee you reach your target. Choose the Pulverize duration if you can reliably get the cast off (e.g., with BKB) and want to delete a single target or control an area for longer.",
+    "search_text": "Primal Beast talent level 25 left cannot be slowed rooted during Trample right +67% Pulverize duration",
+    "tags": [
+      "Primal Beast",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

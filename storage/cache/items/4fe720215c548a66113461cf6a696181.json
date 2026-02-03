@@ -1,0 +1,54 @@
+[
+  {
+    "display_text": "Crystalys, Cost: 2000: Grants Critical Strike, giving each attack a 30% chance to deal 160% damage (effective +60% damage). No active ability. A mid-game damage multiplier for carries seeking to amplify their physical attack output. Does not work against buildings. Stats: Damage: +32, Crit Chance: 30%, Crit Multiplier: 160%, Cooldown: None, Mana: None.",
+    "search_text": "crit item, critical strike item, damage item, carry item, DPS, right-click damage, physical damage, chance to crit, crystalys, crystal, damage amplifier, attack damage, mid game damage, crit chance, crit multiplier, Crystalys",
+    "tags": [
+      "ITEM_DATA",
+      "CRYSTALYS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "CRITICAL_STRIKE",
+      "CRIT",
+      "PHYSICAL_DAMAGE",
+      "DAMAGE",
+      "CARRY_ITEM",
+      "MID_GAME"
+    ]
+  },
+  {
+    "display_text": "Crystalys, Cost: 2000: Provides a significant attack damage bonus along with a powerful chance-based damage multiplier. Primarily a stat stick focused on enhancing physical attack damage output. Stats: Damage: +32, Crit Chance: 30%, Crit Multiplier: 160%.",
+    "search_text": "crystalys stats, damage item stats, crit stats, damage and crit, crystalys damage, 32 damage, 30 crit chance, 160 crit, Crystalys",
+    "tags": [
+      "ITEM_DATA",
+      "CRYSTALYS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Crystalys, Cost: 2000: Team fight role revolves around raw damage output amplification. The Critical Strike chance can swing skirmishes by delivering unexpected high-damage attacks, forcing enemies to respect your threat. Increases single-target burst potential.",
+    "search_text": "crystalys team fight, damage amp, burst damage, single target damage, crit in fight, damage swing, right click burst, physical burst, Crystalys",
+    "tags": [
+      "ITEM_DATA",
+      "CRYSTALYS",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Crystalys, Cost: 2000: Synergizes strongly with heroes who naturally build high attack speed and base damage, as more attacks mean more chances to proc the critical strike. Upgrades into Daedalus for greater damage scaling. An efficient purchase for heroes who already benefit from raw attack damage.",
+    "search_text": "crystalys synergy, high attack speed, daedalus upgrade, damage scaling, physical carry, damage multiplier, crystalys heroes, crit build, Crystalys",
+    "tags": [
+      "ITEM_DATA",
+      "CRYSTALYS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "DAMAGE",
+      "UPGRADE",
+      "CARRY_ITEM"
+    ]
+  }
+]

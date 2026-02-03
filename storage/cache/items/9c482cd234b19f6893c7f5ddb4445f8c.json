@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Orb of Destruction, Cost: 0: Tier 3 Neutral item providing the Impeding Corruption passive. Attacks reduce the target's armor by 2 and slow them. Slow amount is higher against melee attacks (8%) than ranged attacks (4%). Effective for physical damage dealers to amplify their team's damage and kite enemies. Stats: Duration: 3s, Armor Reduction: 2.",
+    "search_text": "orb of destruction, tier 3 neutral, armor reduction, slow item, attack modifier, physical damage amplifier, debuff on hit, attack debuff, reduce armor, slow attack, kiting item, carry neutral, orb effect, melee slow, ranged slow, Orb of Destruction",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_DESTRUCTION",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "DEBUFF",
+      "SLOW",
+      "ARMOR_REDUCTION",
+      "PHYSICAL_DAMAGE",
+      "UTILITY"
+    ]
+  }
+]

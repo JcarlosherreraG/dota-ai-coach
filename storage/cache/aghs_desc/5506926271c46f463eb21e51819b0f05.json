@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Ogre Magi Aghanim's Scepter: Adds Unrefined Fireblast, a high-damage single-target stun scaling with Ogre's Strength. This upgrade counters durable heroes by ensuring a reliable and mana-efficient disable, transforming Ogre into a potent initiation and pickoff threat.",
+    "search_text": "Ogre Magi Aghanim Scepter anti-durable single-target disable str scaling mana-efficient initiation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ogre Magi",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ogre Magi Aghanim's Shard: Adds Fire Shield, a damage-absorption shield for allies that retaliates with fireballs. This counters physical burst damage, enabling Ogre to protect key allies or towers during sieges, shifting his role towards a supportive guardian.",
+    "search_text": "Ogre Magi Aghanim Shard anti-physical damage absorption shield retaliate fireballs tower protection support guardian",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ogre Magi",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

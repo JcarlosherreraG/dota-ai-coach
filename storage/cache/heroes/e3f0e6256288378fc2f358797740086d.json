@@ -1,0 +1,191 @@
+[
+  {
+    "display_text": "Muerta is a ranged intelligence carry with starting 19 Strength, 21 Agility, and 23 Intelligence. Her base attack speed is 1.7. This gives her average starting attributes, but the ranged nature combined with her kit positions her as a backline spellcaster and magical damage dealer.",
+    "search_text": "Muerta stats ranged intelligence carry attack rate 1.7 STR 19 AGI 21 INT 23",
+    "tags": [
+      "MUERTA",
+      "BASE_STATS",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Dance of the Dead: The Calling becomes stronger when heroes die inside it. This is excellent for teamfight-oriented or objective-focused lineups where you can force fights in chokepoints. It synergizes with other AoE control and damage, rewarding you for successful fights. Ofrenda: Muerta can place a beneficial Ofrenda on the map to respawn there instead of the fountain. This grants incredible map presence and split-push security. It's strong for map control, allowing you to be aggressive and defend objectives instantly after respawning. Quickdraw: Dead Shot fears increase Gunslinger chance. Gunslinger procs reduce Dead Shot cooldown. This facet synergizes with itself, rewarding aggressive play and ability usage. It's ideal for players focusing on casting Dead Shot and auto-attacking, creating a fluid 'spell-carry' playstyle. Choose Dance of the Dead for teamfight power, Ofrenda for map control, or Quickdraw for personal power and synergy.",
+    "search_text": "Facets Dance of the Dead The Calling heroes die inside stronger teamfight objective Ofrenda place respawn map fountain map presence split push Quickdraw Dead Shot fears Gunslinger chance Gunslinger procs Dead Shot cooldown spell carry",
+    "tags": [
+      "MUERTA",
+      "FACET_STRATEGY",
+      "FACETS"
+    ]
+  },
+  {
+    "display_text": "In lane, prioritize Dead Shot (Q) for harass, securing ranged creeps, and controlling the lane equilibrium by using its ricochet off creeps or trees to fear the enemy hero. Max Dead Shot first for damage. Gunslinger (E) is often taken at level 2 or 4 to increase your harass potential and CS ability; the secondary shot can be used to harass enemies behind creeps. Use your high base Intelligence to spam Dead Shot. Look for kills once you have 2-3 points in Dead Shot and can secure the slow and fear off a ricochet. Your starting attributes are not tanky, so positioning is key.",
+    "search_text": "laning phase Muerta Dead Shot harass secure ranged creeps ricochet fear Gunslinger level 2 harass CS secondary shot intelligence spam",
+    "tags": [
+      "MUERTA",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a significant spike as Pierce the Veil (R) allows you to trade aggressively, dive towers, and become immune to physical damage for 8 seconds. Level 12 (Ultimate Level 2) increases the bonus damage to 100. Level 15 talents (+20 Attack Speed vs +3.0% Max HP Regen) are a core fighting spike. Level 18 (Ultimate Level 3) brings bonus damage to 130. Level 20 talent (+55 Gunslinger Damage) is a massive DPS increase. Level 25 talent (2 Dead Shot Charges) is a game-changing late-game spike for control and burst. Key item timings include early mana regen (Bottle, Falcon Blade), mobility (Blink Dagger, Force Staff), and magic damage amplification (Kaya, Witch Blade).",
+    "search_text": "power spikes level 6 Pierce the Veil physical immune 8 seconds level 12 Ultimate level 2 100 damage level 15 talents attack speed HP regen level 18 Ultimate level 3 130 damage level 20 55 Gunslinger damage level 25 2 Dead Shot charges item timings mana regen blink force staff Kaya Witch Blade",
+    "tags": [
+      "MUERTA",
+      "POWER_SPIKES",
+      "TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Muerta is countered by heroes and items that negate magic damage or provide high magic resistance (e.g., Anti-Mage, Visage, Pipe of Insight, Hood of Defiance). Since her ultimate makes her immune to physical but not magic damage, nukers with magical burst (Lina, Zeus) can kill her during Pierce the Veil. Instant silences or hexes prevent her from activating her ultimate. Break (Silver Edge, Doom) disables Gunslinger's passive chance. Heroes with high mobility can dodge Dead Shot ricochet angles.",
+    "search_text": "counters magic resistance magic immunity Anti-Mage Visage Pipe Hood magical burst Lina Zeus silence hex Break Silver Edge Doom Gunslinger mobility dodge Dead Shot",
+    "tags": [
+      "MUERTA",
+      "HARD_COUNTERS",
+      "COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Mobility is essential: Blink Dagger or Force Staff are core for positioning Dead Shot ricochets and staying safe. Magic damage amplification is critical: Kaya and Sange \u0026 Kaya are excellent for spell damage and sustain. Attack speed and on-hit magic damage: Witch Blade provides intelligence, attack speed, and a magical damage proc that synergizes perfectly with her ultimate and Gunslinger. These items are non-negotiable for a core Muerta.",
+    "search_text": "core build Blink Dagger Force Staff mobility Kaya Sange Kaya magic damage amplification spell lifesteal Witch Blade attack speed intelligence on-hit magical damage",
+    "tags": [
+      "MUERTA",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Muerta's role is to initiate or counter-initiate with The Calling (W) to zone and silence key targets, then use Dead Shot (Q) to fear enemies into the revenants or away from your team. Activate Pierce the Veil (R) to become immune to physical damage and convert all your attacks to magical damage. Position on the edge of the fight, using Gunslinger (E) to deal massive AoE magical damage. Your job is to provide crowd control (slow, fear, silence) and deal sustained magical damage while being untouchable by right-clickers.",
+    "search_text": "teamfight role The Calling zone silence Dead Shot fear Pierce the Veil physical immune magical damage Gunslinger sustained magical damage crowd control slow fear silence",
+    "tags": [
+      "MUERTA",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Dead Shot (Q). Muerta fires a ghostly trickshot at an enemy unit or tree from 1000 range. When the bullet strikes, it deals 100/175/250/325 damage and briefly slows by 100% for 1 second. The bullet then ricochets in the targeted direction, traveling up to 1.5x the cast range (1500). The ricochet deals the same damage to all units it passes through, stopping when it hits a hero. Heroes hit by the ricochet are feared away from the impact point for 0.8/0.95/1.1/1.25 seconds. Does NOT pierce BKB.",
+    "search_text": "Dead Shot Q ricochet fear 1000 cast range 100 175 250 325 damage 100 slow 1 second 1.5x range 0.8 0.95 1.1 1.25 fear magic immune",
+    "tags": [
+      "MUERTA",
+      "ABILITY_DATA",
+      "DEAD_SHOT"
+    ]
+  },
+  {
+    "display_text": "ABILITY: The Calling (W). Summons 4 revenants that slowly circle the targeted location for 5/6/7/8 seconds. Enemies within the area are slowed by 20%. Each revenant deals 45/90/135/180 damage and silences enemies for 1.5/2/2.5/3 seconds as they pass through them. Revenants start at 340 distance from the center and rotate counter-clockwise. They accelerate from a speed of 0.2 to a max of 1.0 over time. Does NOT pierce BKB.",
+    "search_text": "The Calling W revenants 4 5 6 7 8 duration 20 slow 45 90 135 180 damage silence 1.5 2 2.5 3 seconds",
+    "tags": [
+      "MUERTA",
+      "ABILITY_DATA",
+      "THE_CALLING"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Gunslinger (E). Toggleable. When toggled on, Muerta's attacks have an 18/27/36/45% chance to fire a second shot at another target within her attack range plus 175. Prioritizes heroes, then non-hero units, then buildings. If no other units are in range, she fires both guns at the original target. The secondary shot can trigger attack modifiers.",
+    "search_text": "Gunslinger E passive toggle double shot 18 27 36 45 chance attack range plus 175 heroes priority attack modifiers",
+    "tags": [
+      "MUERTA",
+      "ABILITY_DATA",
+      "GUNSLINGER"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Pierce the Veil (R). Muerta transforms for 8 seconds, becoming immune to physical damage. All of her attack damage is dealt as magical damage instead. During this time, she gains 70/100/130 bonus attack damage and phased movement. Her model scale is increased by 30%. This spell is dispellable by Basic Dispels.",
+    "search_text": "Pierce the Veil R ultimate physical immune 8 seconds attack damage magical 70 100 130 bonus damage phased movement model scale 30% dispellable basic dispel",
+    "tags": [
+      "MUERTA",
+      "ABILITY_DATA",
+      "PIERCE_THE_VEIL"
+    ]
+  },
+  {
+    "display_text": "Supernatural (Passive). Muerta can always attack when she is ethereal (e.g., from Ghost Scepter). Muerta can always attack ethereal targets. When attacking ethereal targets, all of her attack damage is dealt as magical damage.",
+    "search_text": "Supernatural passive attack ethereal while ethereal attack ethereal targets damage magical",
+    "tags": [
+      "MUERTA",
+      "ABILITY_DATA",
+      "SUPERNATURAL"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Vs High Armor/High Physical Damage Teams. Your ultimate, Pierce the Veil, makes you immune to physical damage, allowing you to man-fight heroes like Sven, Troll Warlord, or Phantom Assassin during its 8-second duration. Build items like Witch Blade and Kaya to maximize your magical DPS while they cannot touch you.",
+    "search_text": "high armor physical damage Sven Troll Phantom Assassin Pierce the Veil immune Witch Blade Kaya magical DPS",
+    "tags": [
+      "MUERTA",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Playing from Behind. Your goal is to farm safely using Dead Shot and Gunslinger to accelerate farm. Build defensive items like Hurricane Pike (Force Staff component) or Eul's Scepter to survive ganks. Use The Calling defensively to protect towers and create space for your team. Focus on hitting your core items (Kaya, Witch Blade) to become relevant.",
+    "search_text": "behind farming Dead Shot Gunslinger accelerate farm defensive Hurricane Pike Eul's Scepter survive The Calling defend towers",
+    "tags": [
+      "MUERTA",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Vs Heavy Magic Damage Burst. Your ultimate does not protect you from magic damage. You are vulnerable to heroes like Lina, Zeus, or Queen of Pain. Itemize for magic resistance (Glimmer Cape, BKB, Mage Slayer) and consider picking the Ofrenda facet to avoid long respawn walks and maintain map pressure even if you die.",
+    "search_text": "magic burst Lina Zeus Queen of Pain vulnerability magic resistance Glimmer Cape BKB Mage Slayer Ofrenda facet",
+    "tags": [
+      "MUERTA",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "SITUATION: With a Wombo-Combo Team. If your team has big AoE setups (Magnus, Enigma, Void), your role is to follow up with The Calling for massive AoE silence and damage. Position to use Dead Shot to fear enemies deeper into the combo. Use Pierce the Veil to clean up while the enemy team is disabled.",
+    "search_text": "wombo combo Magnus Enigma Void The Calling AoE silence damage Dead Shot fear follow up Pierce the Veil cleanup",
+    "tags": [
+      "MUERTA",
+      "SITUATIONAL",
+      "WOMBO_COMBO"
+    ]
+  },
+  {
+    "display_text": "SITUATION: Split Pushing. With the Ofrenda facet, you can place your respawn point near a dangerous lane, allowing you to aggressively split push. Use Dead Shot to clear waves quickly from a safe distance. Have an escape item (Blink, Force) ready. If you die, you respawn at the Ofrenda, making it very punishing for the enemy to commit on you.",
+    "search_text": "split push Ofrenda facet respawn point aggressive push Dead Shot clear waves escape Blink Force Staff",
+    "tags": [
+      "MUERTA",
+      "SITUATIONAL",
+      "SPLIT_PUSHING"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 10: Left Talent: +300 Dead Shot Cast Range. Right Talent: +20 Attack Speed. Strategic Choice: +300 Cast Range dramatically improves your harass, initiation, and safety, allowing you to land Dead Shot ricochets from extreme distance. +20 Attack Speed increases your right-click DPS and synergy with Gunslinger. Choose Range for a more spellcaster/poke style, or Attack Speed for a more right-click focused build.",
+    "search_text": "talent level 10 left 300 Dead Shot cast range right 20 attack speed harass safety Gunslinger DPS",
+    "tags": [
+      "MUERTA",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 15: Left Talent: +20 Attack Speed. Right Talent: +3.0% Max HP Regen while inside The Calling (applies only to Muerta). Strategic Choice: +20 Attack Speed is a straightforward DPS increase for both physical and magical phases of the game. +3.0% Max HP Regen is a defensive option that can provide significant sustain during prolonged fights if you can stand inside your own W. Choose Attack Speed for damage, HP Regen if you are being focused and need survivability in fights.",
+    "search_text": "talent level 15 left 20 attack speed right 3.0 max HP regen The Calling defensive sustain DPS",
+    "tags": [
+      "MUERTA",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 20: Left Talent: +55 Gunslinger Damage (affects both shots). Right Talent: +2s Pierce the Veil Duration. Strategic Choice: +55 Gunslinger Damage is a massive DPS spike, significantly increasing your magical damage output during your ultimate and normal attacks. +2s Pierce the Veil Duration extends your physical immunity and bonus damage window, crucial for longer fights. Choose Gunslinger Damage for pure burst, or Duration for better survivability and sustained pressure.",
+    "search_text": "talent level 20 left 55 Gunslinger damage both shots right 2s Pierce the Veil duration physical immunity DPS burst",
+    "tags": [
+      "MUERTA",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 25: Left Talent: The Calling summons 2 additional revenants (for a total of 6). Right Talent: +20% Gunslinger chance (increasing it to a potential 65% at max level). Strategic Choice: 2 additional revenants makes The Calling a much more dangerous and harder-to-avoid zoning tool, increasing its damage and silence frequency. +20% Gunslinger chance turns you into a machine gun, dramatically increasing your attack proc rate and overall DPS. Choose The Calling if you need teamfight control, choose Gunslinger for maximum single-target and multi-target damage.",
+    "search_text": "talent level 25 left 2 additional revenants The Calling total 6 right 20 Gunslinger chance 65 machine gun DPS control",
+    "tags": [
+      "MUERTA",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

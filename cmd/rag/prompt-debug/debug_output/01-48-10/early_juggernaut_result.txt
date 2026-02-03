@@ -1,0 +1,271 @@
+FILE: early_juggernaut.json
+QUESTION: Что мне купить следующим, чтобы выжить на линии и начать убивать?
+GENERATION TIME: 1.95s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, CORE_MECHANICS, DEBUFF, OFFENSIVE] | Nemesis Curse CORE_MECHANICS: Primary passive is Glass Cannon, causing the bearer to take 6% more damage from all sources. Active offensive passive is Glassify, applying a 12% damage amplification debuff to an attacked hero for 5 seconds, but only one target can be debuffed at a time. This creates a high-risk, high-reward dynamic for targeting a key enemy in fights. Stats: Self Damage Taken Increase: 6%, Enemy Damage Amplification: 12%, Enemy Debuff Duration: 5 seconds.
+---
+[TAGS: Ability, Area Damage, Debuff Immunity] | Blade Fury: Area damage and debuff immunity for survivability. Stats: Damage per Second: 80/110/140/170, Radius: 260, Duration: 5
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: Bristleback, Ability, Damage] | Quill Stack Damage: Boosts Bristleback's damage output per stack, increasing his threat in sustained encounters. Stats: Damage per Stack: +X
+---
+[TAGS: JAKIRO, SITUATIONAL, FROM_BEHIND, DEFENSIVE] | When playing from behind, use your spells defensively. Ice Path to stop chases, Dual Breath to slow pursuers, and Macropyre to zone areas you need to defend. Build cheap utility items like Force Staff and Glimmer Cape to save allies and yourself.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Phase Boots CORE_BUILD: Builds from basic Boots, Chainmail, and Blades of Attack. The recipe is cheap and provides a significant early power spike. It is a core first item for many melee carries and some ranged heroes. Boots movement speed bonuses do not stack with other boots. Stats: Components: Boots + Chainmail + Blades of Attack.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Magic Wand HARD_COUNTERS: Less effective against enemy lineups with few active abilities or long-cooldown ultimates, as it will gain charges very slowly. Its value is also diminished if you are caught out and bursted before you can react with the active. Stats: Cooldown: 15 seconds, requires charges to be effective.
+---
+[TAGS: ITEM_DATA, MAGIC_STICK, SYNERGY_BUILD, FULL_ITEM, SUPPORT_ITEM, UPGRADE, VS_SPAM] | Magic Stick, Cost: 200: Core early purchase for heroes susceptible to magic burst (like supports or offlaners). Extremely cost-effective when facing heroes with low-cooldown spells (e.g., Bristleback, Skywrath Mage). Builds into Magic Wand and Holy Locket for enhanced utility.
+---
+[TAGS: STRATEGY, Lion, ITEM_BUILD, SITUATIONAL] | Lion Situational: Buy Force Staff vs melee divers, BKB vs silences/stuns, or Glimmer Cape vs magic burst.
+---
+[TAGS: Bristleback, Ability, Armor] | Goo Armor Per Stack: Reduces enemy armor per Goo stack, increasing Bristleback's teamfight utility. Stats: Armor Reduction: -X
+---
+[TAGS: ITEM_DATA, LANING_PHASE, EARLY_GAME, OFFENSIVE] | Mechanical Arm LANING_PHASE: A zero-cost item that can be available immediately, providing early kill threat or harassment potential. Its passive stun chance enhances last-hit trades by interrupting enemy attacks or abilities. Stats: Cost: 0 gold.
+---
+[TAGS: ITEM_DATA, VANGUARD, SYNERGY_BUILD, FULL_ITEM, STRENGTH_ITEM, INITIATOR_ITEM, MELEE_HERO] | Vanguard, Cost: 1700: Ideal for melee strength heroes who intend to fight early and need to survive in the middle of combat. Synergizes with abilities that force enemies to attack you or with heroes who have high base health pools. A core component for tanky initiators like Axe or Bristleback.
+---
+[TAGS: STRATEGY, Muerta, ITEM_BUILD, SITUATIONAL] | Muerta Situational: Buy Manta Style against silences or Orchid Malevolence. Consider Shadow Blade or Silver Edge against tanky heroes with Break.
+---
+[TAGS: BRISTLEBACK, ABILITY_DATA, BRISTLEBACK, DAMAGE_REDUCTION, PASSIVE] | Bristleback (Passive): Bristleback takes less damage if hit on the sides or rear. Rear (within 70 degrees) damage reduction is 16%/24%/32%/40%. Side (within 110 degrees) damage reduction is 8%/12%/16%/20%. If Bristleback takes 275/250/225/200 damage from the rear, he releases a Quill Spray of the current level. There is a 24 second cooldown between passive Quill releases.
+---
+[TAGS: AGHS_STRATEGY, Bristleback, COUNTER_MECHANIC, AGHANIM] | Bristleback Aghanim's Scepter: Adds active ability to forcefully eject Quill Sprays in a tight conical pattern. This upgrade counters enemy clustering by threatening massive area denial and damage, forcing opponents to scatter or face burst quill damage.
+---
+[TAGS: STRATEGY, Visage, ITEM_BUILD, SITUATIONAL] | Visage Situational: Buy BKB vs lockdown, Shiva's vs physical damage, or Nullifier vs saves. Consider Overwhelming Blink for initiation if ahead.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, SUPPORT, UTILITY_CORE, LATE_GAME, CHARGE_BASED] | Primarily a situational luxury or late-game utility purchase for supports or utility cores who benefit from the cast range and can position to affect multiple allies. Best on heroes who naturally build towards items with charges (like Magic Wand) and want to convert those charges into a powerful teamfight cooldown. The long 40-second cooldown demands careful timing.
+---
+[TAGS: AGHS_STRATEGY, Lion, COUNTER_MECHANIC, AGHANIM] | Lion Aghanim's Scepter: Finger of Death becomes an AoE nuke with increased damage and reduced cooldown. This upgrade counters clustered enemy formations, punishing grouped pushes or teamfight positioning while amplifying Lion's burst damage potential in late-game engagements.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+---
+[TAGS: STRATEGY, Bristleback, ITEM_BUILD, CORE] | Bristleback Core Build: Vanguard and Blade Mail are essential for tankiness and damage reflection, enabling him to frontline effectively.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, PASSIVE, STAT_ITEM] | Mantle of Intelligence HARD_COUNTERS: No active abilities to counter; as a passive stat item, its benefits are negated by early burst damage or aggression that quickly eliminates the carrier. Stats: Cost: 140 gold.
+---
+[TAGS: Bounty Hunter, CORE_BUILD, Items, Phase Boots, Desolator, BKB] | Core items for Bounty Hunter are Phase Boots for movement speed and armor, Desolator for armor reduction amplifying his physical damage from Jinada and attacks, and Black King Bar to prevent disables during fights. These items synergize with his kit for pick-offs and teamfight contribution.
+---
+[TAGS: URSA, ABILITY_DATA, FURY_SWIPES] | Fury Swipes: Ursa's consecutive attacks on the same enemy deal bonus damage per stack: 13/21/29/37. If the same target is not attacked for 8/12/16/20 seconds (8 seconds against Roshan), the bonus damage is lost. Break disables the application of new stacks but does not remove existing ones. This is Ursa's primary source of damage.
+---
+[TAGS: Invoker, SITUATIONAL, EARLY_AGGRESSION] | Scenario: With a strong early-game lineup aiming to end quickly. Focus on a Quas-Wex build for maximum control with Tornado, EMP, and Cold Snap. Build Urn of Shadows and Spirit Vessel to amplify damage. Use Ghost Walk for ganks. Take objectives after successful pick-offs.
+---
+[TAGS: ITEM_DATA, PHASE_BOOTS, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, MOBILITY, FARMING, EARLY_GAME] | Cost: 1500: Strong on heroes who need to close short distances to apply damage or spells, such as melee carries or initiators. The armor and damage provide excellent early-game efficiency for cores who want to farm and fight. Timing is key - it accelerates farming speed slightly and provides the mobility needed to join early fights or escape from them. Stats: CD: 8s, MS: +50.
+---
+[TAGS: ITEM_DATA, TRANQUIL_BOOTS, CORE_MECHANICS, FULL_ITEM, MOBILITY, REGEN, SUSTAIN, HEALTH, SUPPORT_ITEM, UTILITY] | Tranquil Boots, Cost: 900: Grants a bonus 65 movement speed and 14 health regeneration, but both benefits are reduced after attacking or being attacked by a hero (movement speed drops to 40, regen is lost) for 13 seconds. Provides a burst heal of 250 HP on activation when not broken. Essential for roaming supports and heroes needing constant movement across the map without committing to fights. Stats: CD: 13s, Passive MS: +65, Passive HP Regen: +14, Heal: 250 HP.
+---
+[TAGS: ITEM_DATA, VANGUARD, CORE_MECHANICS, FULL_ITEM, DEFENSIVE, VS_PHYSICAL, SURVIVAL, HEALTH, REGEN] | Vanguard, Cost: 1700: Grants a 60% chance to block 50 damage from incoming melee attacks and 25 damage from ranged attacks. Provides significant early-game survivability against physical damage harassment and creep attacks. Stats: CD: N/A, Mana: N/A.
+---
+[TAGS: ITEM_DATA, VANGUARD, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, FRONTLINE, VS_PHYSICAL] | Vanguard, Cost: 1700: Serves as a frontline defensive item, absorbing physical damage for the team during pushes and initiations. Makes the bearer significantly harder to kill with right-click attacks in early team fights. Effective against physical damage cores in the mid-game.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_PHYSICAL, VS_SUMMONS, DAMAGE_BLOCK] | Vanguard VS_PHYSICAL: Counters heavy physical attack lineups, heroes with high attack speed, or summons (like Broodmother/Beastmaster). The damage block effect is highly effective at mitigating multiple small physical hits. Stats: Damage Block Chance: 60%, Block Damage (Melee): 50.
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: STRATEGY, Pudge, ITEM_BUILD, SITUATIONAL] | Pudge Situational: Buy Black King Bar against stuns and silences, and consider Lotus Orb for dispelling debuffs.
+---
+[TAGS: BRISTLEBACK, HARD_COUNTERS, WEAKNESS] | Bristleback is hard countered by Break effects (Silver Edge, Viper Nethertoxin, Hoodwink Sharpshooter) which disable his Bristleback damage reduction and Warpath stack generation. High magical burst damage (Lina, Lion) can kill him before his passive Quill procs trigger. Percentage-based damage (Necrophos Heartstopper, Enigma Midnight Pulse) ignores his damage reduction. Spirit Vessel severely reduces his high health regeneration.
+---
+[TAGS: BRISTLEBACK, POWER_SPIKES, LEVELS, ITEMS] | Bristleback's power spikes are level 6 with Warpath, enabling him to chase and deal extra damage. Level 12 with maxed Quill Spray and Bristleback makes him very tanky and high damage. Level 18 with maxed abilities is a major spike. Level 20 talent for +20 Quill Stack Damage or +8%/4% Bristleback reduction significantly boosts damage or tankiness. Level 25 with +18 Warpath Damage Per Stack makes him a lategame monster. Key item spikes are Vanguard/Hood, Aghanim's Scepter, and Heart of Tarrasque.
+---
+[TAGS: ITEM_DATA, PHASE_BOOTS, STAT_PROFILE, FULL_ITEM, DAMAGE, ARMOR, MOVEMENT_SPEED, LANING, TRADING] | Cost: 1500: Provides +18 damage and +4 armor for melee heroes, or +12 damage and +4 armor for ranged heroes, alongside +50 base movement speed. A solid early-game stat profile for trading hits and surviving physical harass, especially on heroes who value both damage and armor for lane dominance. Stats: Damage (Melee/Ranged): +18/+12, Armor: +4, MS: +50.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_HARASS, SUSTAIN] | Tranquil Boots VS_HARASS: Counters constant spell and right-click harassment in lane by providing sustained regeneration, allowing you to stay on the map. The item is hard-countered by heroes who can consistently apply damage to break the passive, forcing you to play defensively. Stats: Health Regeneration Bonus: +14, Break Condition: Attacked by any unit.
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+---
+[TAGS: ITEM_DATA, VANGUARD, SITUATIONAL_VS_PHYSICAL, FULL_ITEM, VS_PHYSICAL, VS_ILLUSIONS, VS_SUMMONS] | Vanguard, Cost: 1700: Counters heroes and builds focused on rapid physical damage output. The damage block significantly reduces the effectiveness of heroes with high attack speed but low damage per hit. A strong counter to illusion-based heroes or summons early on.
+---
+[TAGS: Ability, Mobility, Chase] | Blade Fury Movement Speed: Increases Juggernaut's movement speed during Blade Fury, improving his ability to chase or escape. Stats: Movement Speed Bonus: 40
+---
+[TAGS: Ability, Movement, Buff] | Movement Speed Bonus (50): Maximizes mobility for aggressive playmaking. Stats: Movement Speed: +50
+---
+[TAGS: ITEM_DATA, MAGIC_WAND, FULL_ITEM, TEAMFIGHT_ROLE, DEFENSIVE, SAVE, SURVIVAL, VS_MAGIC] | Cost: 460: Serves as a defensive and reactive support item in team fights, countering high-frequency spell combos. Its value scales with the number of enemy spells cast nearby, providing a crucial burst of HP and MP to turn fights or survive ganks initiated by spell-heavy lineups.
+---
+[TAGS: LION, HARD_COUNTERS] | Lion is countered by heroes with BKB-piercing control that can catch him during his long cast animations (e.g., Faceless Void's Chronosphere). High mobility heroes (Storm Spirit, Queen of Pain) can dodge his linear Earth Spike. Lotus Orb and Linken's Sphere block his single-target disables and Finger of Death. Heroes with strong dispels (Slark, Legion Commander) can remove Hex. Instant silences prevent him from casting his combo. Illusion heroes are tough if he lacks the Fist of Death facet.
+---
+[TAGS: LION, TEAMFIGHT_ROLE] | In teamfights, Lion's role is to initiate or counter-initiate with Blink Dagger + Earth Spike (which does NOT pierce BKB) to stun multiple heroes. He must instantly Hex (Does NOT pierce BKB) the most dangerous enemy core or save-caster. He should use Mana Drain to lock down and slow a key target, preventing them from using spells. His ultimate, Finger of Death (Does NOT pierce BKB), is used to execute a low-health priority target. Positioning is critical; he is fragile and must avoid being focused.
+---
+[TAGS: LION, SITUATIONAL] | Scenario: Versus Illusion/Summon Heroes (Phantom Lancer, Broodmother). The Fist of Death facet becomes mandatory. After casting Finger of Death, you gain a powerful cleaving melee attack for 3 seconds, allowing you to clear illusions quickly. Itemize for survivability (BKB, Shiva's Guard) to survive in melee range and utilize the cleave.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, COMPONENT] | Quelling Blade CORE_BUILD: This is a basic component item, purchased early and often sold later. Its low cost makes it accessible from the side shop. It builds into Battle Fury for melee heroes. The item has no direct synergies beyond its own farm acceleration. Stats: Cost: 100 gold.
+---
+[TAGS: ITEM_DATA, VITALITY_BOOSTER, STAT_PROFILE, FULL_ITEM, HEALTH, SURVIVAL, COMPONENT, SECRET_SHOP] | Vitality Booster, Cost: 1000: Purchasable from the Secret Shop. Provides a flat +250 maximum Health, offering raw survivability with no active abilities. A core component for many late-game health-focused items like Heart of Tarrasque. Stats: Health Bonus: +250.
+---
+[TAGS: STRATEGY, Bristleback, WEAKNESS] | Bristleback Weakness: Vulnerable to Break effects (Silver Edge) which disable his passive Bristleback damage reduction. Also struggles against magic burst and silence.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, MOVEMENT, ACTIVE, DAMAGE] | Phase Boots CORE_MECHANICS: An active ability that grants bonus movement speed and phased movement (unit walking) for 3 seconds, with a cooldown of 8 seconds. The movement speed bonus is greater for melee heroes (20%) than for ranged heroes (10%). It also provides flat movement speed, damage, and armor. Stats: Cost: 1500 gold, Components: Boots + Chainmail + Blades of Attack, Active Cooldown: 8s, Active Duration: 3s, Bonus Movement Speed (Passive): 50, Bonus Movement Speed (Active, Melee): 20%, Bonus Movement Speed (Active, Ranged): 10%, Bonus Damage (Melee): 18, Bonus Damage (Ranged): 12, Bonus Armor: 4.
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: STRATEGY, Spirit Breaker, ITEM_BUILD, SITUATIONAL] | Spirit Breaker Situational: Buy BKB vs disables, or Lotus Orb vs silences/debuffs.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, NO_DEFENSE] | Weighted Dice HARD_COUNTERS: The item provides no survivability or defensive benefits, leaving the hero vulnerable if rushed for economic gain. It is hard-countered by aggressive lane opponents who can zone or kill you, nullifying its income advantage. It also becomes less impactful once base damage or last-hitting is already secure. Stats: Cost: 0 gold, No defensive stats.
+---
+[TAGS: ITEM_DATA, PHASE_BOOTS, EARLY_GAME_USAGE, FULL_ITEM, LANING, TRADING, MOBILITY, AGGRESSIVE] | Cost: 1500: Primarily a lane and early skirmish item that enhances physical trading, survivability, and mobility. The active allows heroes to secure last hits, chase down low targets, or escape ganks by moving unimpeded through units. It's a versatile choice for heroes who want to be aggressive in lane and transition into mid-game with solid stats. Stats: MS: +50, Armor: +4, Damage (Melee/Ranged): +18/+12.
+---
+[TAGS: ITEM_DATA, VANGUARD, STAT_PROFILE, FULL_ITEM, HEALTH, REGEN, SURVIVAL, SUSTAIN] | Vanguard, Cost: 1700: Provides raw health and regeneration, increasing bulk and lane staying power. Stats: +250 Health, +4.5 Health Regeneration.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, UPGRADE] | Vanguard CORE_BUILD: Builds from Ring of Health and Vitality Booster. Upgrades into Abyssal Blade for melee carriers or Crimson Guard for team utility. Stats: Components: Ring of Health + Vitality Booster.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Ring of Regen CORE_BUILD: Core component for Headdress (into Mekansm, Pipe), Hood of Defiance (into Pipe), and Ring of Health (into Vanguard, Battle Fury, Linken's). It does not build into higher-tier items by itself. Stats: Cost: 175 gold.
+---
+[TAGS: Juggernaut, ABILITY_DATA, BLADE_FURY, MAGIC_IMMUNITY, DISPEL] | Blade Fury: Juggernaut spins for 5 seconds, becoming debuff immune, gaining 80% magic resistance, and dealing 80/110/140/170 damage every 0.2 seconds to enemies within a 260 radius. The ability applies a strong dispel at the end. Does NOT pierce BKB. Cooldown: 36/30/24/18. You can use items and attack, but attacks only hit units unaffected by Blade Fury.
+---
+[TAGS: Ability, Damage, Tank Counter] | Blade Fury DPS: Enhances Juggernaut's Blade Fury damage output, making it more effective against tanky heroes or during early skirmishes. Stats: Damage Per Second: [value]
+---
+[TAGS: STRATEGY, Tiny, ITEM_BUILD, SITUATIONAL] | Tiny Situational: Buy Black King Bar against heavy magic damage or stuns, and Assault Cuirass to mitigate armor reduction.
+---
+[TAGS: BRISTLEBACK, ABILITY_DATA, WARPATH, ULTIMATE, BUFF] | Warpath (Ultimate): Bristleback works himself up into a fury every time he casts a spell, increasing his movement speed and damage. Each stack provides 15/20/25 damage and 2/2.5/3% movement speed. Max stacks are 8/10/12. Stack duration is 16/18/20 seconds. Items do not trigger Warpath. Break disables gaining new stacks but does not disable bonuses from existing stacks.
+---
+[TAGS: STRATEGY, Disruptor, ITEM_BUILD, SITUATIONAL] | Disruptor Situational: Buy Glimmer Cape or Eul's Scepter for survival vs burst damage. Consider Lotus Orb vs Silences or debuffs. Guardian Greaves for team sustain.
+---
+[TAGS: ITEM_DATA, MAGIC_WAND, FULL_ITEM, STAT_PROFILE, HEALTH, MANA, ATTRIBUTES, UTILITY] | Cost: 460: Provides a small stat boost of +3 to all attributes (Strength, Agility, Intelligence), adding minor health, mana, attack speed, and damage. This base profile makes it a valuable early-game slot-efficient purchase that builds from Magic Stick.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, STATS, UTILITY, CAST_RANGE] | Wand of Sanctitude provides a unique active that gives significant temporary raw stats and utility. Its primary value is the +15 all attributes buff to multiple allies, bolstering health, mana, damage, and armor simultaneously. The +200 cast range bonus is a unique stat that enhances the positioning and safety of spellcasters.
+---
+[TAGS: STRATEGY, Lion, WEAKNESS] | Lion Weakness: Vulnerable to Silence (stops Mana Drain/combos) and BKB (nullifies his disables).
+---
+[TAGS: ITEM_DATA, ESSENCE_RING, CORE_DESCRIPTION, NEUTRAL, TIER_2, SURVIVAL, DEFENSIVE, HEALTH, ACTIVE, BURST_HEAL] | Essence Ring, Tier 2: Neutral item that instantly increases your current and maximum health by 240 for 10 seconds upon activation. This burst of survivability provides a temporary health buffer for clutch moments in skirmishes or to survive burst damage. Its substantial mana cost requires careful mana management. Stats: CD: 25s, Mana: 160, Duration: 10s, Health Gain: 240.
+---
+[TAGS: Ability, AoE, Damage] | Greevil Blade Fury: Deals damage in an area around the caster, making it effective for clearing waves or disrupting grouped enemies. Stats: Damage Tick: 0.2, Duration: 5, Radius: 250, Custom Damage: 28/33/38, Cooldown: 25
+---
+[TAGS: ITEM_DATA, PHASE_BOOTS, CORE_MECHANICS, FULL_ITEM, MOBILITY, ESCAPE, POSITIONING, ACTIVE_ABILITY] | Cost: 1500: Phase Boots provide an active ability Phase that grants temporary movement speed boost, allows phasing through units, and increases turn rate for 3 seconds (20% bonus for melee, 10% for ranged heroes). This effect is crucial for chasing, escaping through creep waves, and repositioning quickly in skirmishes or during last hitting. Stats: CD: 8s, MS: +50.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, LATEGAME, UPGRADE] | Boots of Travel 2 LANING_PHASE: Not a laning item. It is a late-game upgrade from Boots of Travel, built for expensive (4500 gold) component completion after core items. Stats: Cost: 4500 gold, Components: Travel Boots + Recipe.
+---
+[TAGS: ITEM_DATA, FORTITUDE_RING, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SAVE, HEALTH, REGEN, SURVIVAL] | Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.
+---
+[TAGS: Ability, Cooldown, Mobility] | Blade Fury Cooldown: Reduces the cooldown of Juggernaut's Blade Fury, enabling more frequent use in skirmishes and chases. Stats: Cooldown Reduction: 3s
+---
+[TAGS: Bristleback, Ability, Survivability] | Bristleback Damage Reduction: Enhances Bristleback's survivability against rear and side attacks. Stats: Back Reduction: +X%, Side Reduction: +X%
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, SUSTAIN] | Magic Wand SITUATIONAL_VS_MAGIC: Highly effective against lane opponents or enemy teams that spam low-cooldown abilities, as this quickly generates charges for frequent healing. It counters magic-based harassment and sustained spell damage by converting enemy spell casts into your own sustain. Stats: Gains a charge per visible enemy ability within 1200 range.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Magic Wand CORE_BUILD: Builds from a core Magic Stick, which is often purchased first, and two Iron Branches. It does not build into any higher-tier items but remains a valuable slot for its active throughout the game. Synergy: Works well with any hero, especially those with low mana pools or who need to survive in the thick of fights where abilities are used frequently.
+---
+[TAGS: LION, SITUATIONAL] | Scenario: Playing from Behind. Without farm, Lion is fragile. Build cheap utility: Force Staff to save allies and yourself, Glimmer Cape to hide during channeling. Use Earth Spike defensively to stop chasers. Your disables (Hex) remain powerful regardless of net worth. Focus on protecting your most farmed core with your disables rather than initiating.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, COMPONENT, SYNERGIES] | Ring of Health CORE_BUILD: A fundamental component for several core items. It builds into Vanguard, Hood of Defiance, Perseverance, and Holy Locket, making it a versatile early investment for many strength, agility, and intelligence hero builds. Stats: Cost: 700 gold.
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: STRATEGY, Morphling, ITEM_BUILD, SITUATIONAL] | Morphling Situational: Buy BKB vs disables, Linken’s vs targeted spells (Doom), or Skadi vs tanky/healing enemies.
+---
+[TAGS: Ability, Damage] | Fury Swipes Damage: Increases the damage per stack of Fury Swipes. Stats: Damage per Stack: 
+---
+[TAGS: ITEM_DATA, BATTLE_FURY, STAT_PROFILE, FULL_ITEM, DAMAGE, REGEN, SUSTAIN, HEALTH, MANA_REGEN, CARRY_ITEM] | Battle Fury, Cost: 3900: Provides a substantial stat profile focused on sustain and raw damage output. Grants +50 Damage for significant right-click power, +7.5 Health Regeneration for lane/jungle sustain, and +2.75 Mana Regeneration to support ability use during farming rotations. Stats: Damage: +50, HP Regen: +7.5, Mana Regen: +2.75.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Magic Wand Recipe CORE_BUILD: Builds from nothing, combines with Iron Branch and Magic Stick to create Magic Wand. Synergy: Enables final item's burst heal/mana. Stats: Cost: 150 gold.
+---
+[TAGS: ITEM_DATA, MAGIC_WAND, FULL_ITEM, SYNERGY_BUILD, EARLY_GAME_USAGE, SUPPORT_ITEM, CORE_ITEM, VS_CASTER] | Cost: 460: Situational vs spell-spamming heroes or lineups that cast frequently in skirmishes (e.g., Bristleback, Batrider, Zeus). Highly effective in early-game lanes against aggressive spell usage, making it a core early purchase for most heroes.
+---
+[TAGS: STRATEGY, Lion, TIMING] | Lion Power Spike: Level 6 with Finger of Death for solo kills, or mid-game with Blink Dagger for teamfight initiation.
+---
+[TAGS: ITEM_DATA, AETHERIAL_HALO, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, VS_MAGIC, SURVIVAL, SUSTAIN, CONTROL, VS_MOBILITY] | Cost: 5900: Highly effective against magic-resistant enemies and physical burst due to the raw attribute bulk and spell lifesteal sustain. The active burn damage over time and slow helps control mobile heroes and prevent disengages.
+---
+[TAGS: STRATEGY, Vengeful Spirit, ITEM_BUILD, SITUATIONAL] | Vengeful Spirit Situational: Buy Glimmer Cape vs magic damage or Eul’s Scepter vs silences. Consider Solar Crest for teamfight utility.
+---
+[TAGS: AGHS_STRATEGY, Lion, COUNTER_MECHANIC, AGHANIM] | Lion Aghanim's Shard: Mana Drain now affects multiple enemies and grants Debuff Immunity with magic resistance during channeling. This hard-counters single-target disables and magic nukes, transforming Lion into a resilient mana-denial tool against spell-reliant lineups while sustaining himself in fights.
+---
+[TAGS: STRATEGY, Lion, TEAMFIGHT] | Lion Teamfight: Backline disabler—initiate with Blink + Impale, hex key targets, and finish with Finger of Death.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, DAMAGE_BLOCK, DEFENSIVE, SUSTAIN] | Vanguard CORE_MECHANICS: Provides consistent damage mitigation against physical attacks with a 60% chance to block 50 damage from melee and 25 damage from ranged sources. Primarily used by melee heroes as a durable early game item that scales well with high health. Stats: Cost: 1700 gold, +250 Health, +4.5 Health Regeneration, Damage Block Chance: 60%, Block Damage (Melee): 50, Block Damage (Ranged): 25.
+---
+[TAGS: STRATEGY, Undying, ITEM_BUILD, SITUATIONAL] | Undying Situational: Buy Glimmer Cape vs magic burst or Lotus Orb against debuffs and silences.
+
+=== GAME STATE ===
+Match Time: 05:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: juggernaut (Lvl 4) | HP: 600/800 | Mana: 120/350 | Alive: true
+Stats: K/D/A 1/0/0 | Gold: 650 | LastHits: 24
+Inventory: [item_quelling_blade (CD), item_tango x2, item_branches (CD), item_branches (CD)]
+Abilities: [juggernaut_blade_fury(Lvl2)[Rdy] | juggernaut_blade_dance(Lvl1)[NoMana/Silenced]]
+User Situation Notes: Стою на сложной линии против Bristleback и Lion. У врагов в миде Sniper. Моя цель — агрессия на линии, саппорт играет пассивно.
+
+=== USER QUESTION ===
+"Что мне купить следующим, чтобы выжить на линии и начать убивать?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Что мне купить следующим, чтобы выжить на линии и начать убивать?".**
+========================================
+
+[AI RESPONSE] (4.18s)
+Покупай Tranquil Boots для повышения выживаемости на линии и улучшения передвижения. Этот предмет обеспечит тебе хп-регенерацию и скорость передвижения, что поможет справляться с уронами от Bristleback и Lion. Альтернативно, можно дождаться восстановления Quelling Blade, чтобы увеличить свою эффективность в атаке на крепов и получить дополнительные силы для агрессии.

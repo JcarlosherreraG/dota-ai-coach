@@ -1,0 +1,84 @@
+[
+  {
+    "display_text": "Mask of Madness, Cost: 1900: Active Berserk ability grants 100 attack speed and 25 movement speed for 6 seconds at the cost of 8 armor and silencing the user. Also provides 24% Lifesteal passive. A high-risk, high-reward item for maximizing physical damage output and farm speed during its active duration. Stats: CD: 16s, Mana Cost: 25, Berserk Duration: 6s.",
+    "search_text": "attack speed item, lifesteal item, berserk, physical damage, farm accelerator, silence, armor reduction, high risk, active damage boost, MoM, Mask of Madness, Mask of Madness item, attack speed steroid, farming item, carry item, physical DPS, early game DPS, DPS item",
+    "tags": [
+      "ITEM_DATA",
+      "MASK_OF_MADNESS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "ATTACK_SPEED",
+      "LIFESTEAL",
+      "MOBILITY",
+      "PHYSICAL_DAMAGE",
+      "RISK_REWARD"
+    ]
+  },
+  {
+    "display_text": "Mask of Madness, Cost: 1900: Provides +20 Damage and 24% Lifesteal. Primarily an item for raw physical attack power and sustainability from Lifesteal. No defensive attributes; actively reduces armor when using its Berserk ability. Stats: Damage: +20, Lifesteal: 24%.",
+    "search_text": "mask of madness stats, damage item, lifesteal stats, MoM stats, damage boost, physical lifesteal, item stats, Mask of Madness",
+    "tags": [
+      "ITEM_DATA",
+      "MASK_OF_MADNESS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE",
+      "LIFESTEAL",
+      "PHYSICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Mask of Madness, Cost: 1900: Functions as a powerful but vulnerable DPS amplifier during team fights or chases via its Berserk active. The silence and armor reduction make timing critical, as you become susceptible to burst damage and disables. Best used to quickly eliminate key targets when you have backup or a positional advantage.",
+    "search_text": "team fight item, DPS amplifier, berserk active, chase item, kill potential, burst window, vulnerable DPS, Mask of Madness",
+    "tags": [
+      "ITEM_DATA",
+      "MASK_OF_MADNESS",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "PHYSICAL_DAMAGE",
+      "RISK_REWARD",
+      "DPS"
+    ]
+  },
+  {
+    "display_text": "Mask of Madness, Cost: 1900: Situational against teams lacking burst magic damage or instant disables that can exploit your 6-second silence and armor debuff. Effective for heroes who can mitigate the self-silence or have high natural survivability. Countered by burst damage and heroes who can lock you down during Berserk.",
+    "search_text": "vs low burst, vs low control, self silence item, counter burst, berserk vulnerability, magic damage counter, physical damage counter, Mask of Madness",
+    "tags": [
+      "ITEM_DATA",
+      "MASK_OF_MADNESS",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "VS_MAGIC",
+      "VS_CONTROL",
+      "RISK_REWARD"
+    ]
+  },
+  {
+    "display_text": "Mask of Madness, Cost: 1900: Strong synergy for heroes who rely on physical attacks, especially those with built-in damage or attack speed steroids (e.g., Sven, Faceless Void). The Lifesteal and active significantly accelerate farming in jungle and lane, making it a powerful early-to-mid game transition item for carries.",
+    "search_text": "synergy with attack speed, synergy with physical damage, farming item, carry item, early game DPS, farm accelerator, jungle item, lane farm, Mask of Madness",
+    "tags": [
+      "ITEM_DATA",
+      "MASK_OF_MADNESS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "PHYSICAL_DAMAGE",
+      "FARMING",
+      "WAVECLEAR"
+    ]
+  },
+  {
+    "display_text": "Mask of Madness, Cost: 1900: Excellent for accelerating farm and pushing lanes due to the massive attack speed bonus from Berserk. The Lifesteal helps sustain jungling. Core for carries seeking to quickly farm their next major item and create a mid-game power spike.",
+    "search_text": "farming item, wave clear, jungle farming, push item, mid game power spike, farm acceleration, attack speed farm, MoM farming, Mask of Madness",
+    "tags": [
+      "ITEM_DATA",
+      "MASK_OF_MADNESS",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "WAVECLEAR",
+      "ATTACK_SPEED",
+      "CARRY_ITEM"
+    ]
+  }
+]

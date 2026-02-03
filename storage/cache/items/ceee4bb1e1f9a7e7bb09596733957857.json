@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Forebearer's Fortune, Tier N / Non-Purchasable: Point target ability that signals commitment to honor spirits. If every ally makes an Undying Promise before battle, the dead might listen. Leaves a lingering effect in a 600 radius. Stats: Speed: 1200, Radius: 600, Linger Duration: 5.0s.",
+    "search_text": "Undying Promise, ofrenda pledge, Forebearer's Fortune, honor spirits, battle commitment, team ritual, pre-fight ability, point target, team buff, morale boost, ritual item, event item, pledge ability, pre-fight ritual",
+    "tags": [
+      "ITEM_DATA",
+      "FOREBEARERS_FORTUNE",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "EVENT_ITEM",
+      "TEAM_BUFF",
+      "PRE_FIGHT",
+      "RITUAL",
+      "POINT_TARGET",
+      "AOE_EFFECT"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Ballista, Tier 4: Neutral item providing +250 Attack Range for ranged heroes. Passive ability: Every attack knocks enemies back 50 units and deals 50 pure damage in addition to the attack's normal damage. Greatly improves kiting and safety for ranged carries. Stats: Knockback Distance: 50, Knockback Duration: 0.2s, Bonus Pure Damage: 50.",
+    "search_text": "ballista, tier 4 neutral, attack range neutral, knockback item, pure damage item, ranged neutral item, kiting item, ranged carry neutral, attack knockback, bonus range, Ballista",
+    "tags": [
+      "ITEM_DATA",
+      "BALLISTA",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_4",
+      "RANGED_ONLY",
+      "KNOCKBACK",
+      "PURE_DAMAGE",
+      "KITING",
+      "POSITIONING",
+      "CARRY_ITEM"
+    ]
+  }
+]

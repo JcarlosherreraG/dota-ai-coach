@@ -1,0 +1,220 @@
+FILE: auto_ward_vision.json
+QUESTION: 
+GENERATION TIME: 1.60s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: STRATEGY, Bounty Hunter, WEAKNESS] | Bounty Hunter Weakness: Vulnerable to True Sight (reveals Wind Walk), Break (disables Jinada/Track), and burst damage (low HP pool).
+---
+[TAGS: Bounty Hunter, ABILITY_DATA, Ability, Big Game Hunter, Passive, Gold] | Big Game Hunter is a passive ability where Bounty Hunter receives 20% extra gold when getting a kill or assist on an enemy with a killing streak. This synergizes with Track for additional gold income.
+---
+[TAGS: Nyx Assassin, Ability Upgrade, Damage] | Special Bonus Unique Nyx Vendetta Damage: Increases Vendetta damage, enhancing assassination potential. Stats: Vendetta Damage: +{bonus_bonus_damage}
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, VISION, CONSUMABLE] | Observer and Sentry Wards CORE_MECHANICS: A consumable that carries both ward types. Allows placing either an Observer Ward for vision or a Sentry Ward for True Sight. Stats: Cost: 50 gold. Observer Ward: Cost to Plant: 75 gold, Cast Range: 500, Lifetime: 360 seconds, Vision Range: 1600. Sentry Ward: Cost to Plant: 100 gold, Cast Range: 500, Lifetime: 420 seconds, True Sight Range: 1050.
+---
+[TAGS: VENOMANCER, ABILITY_DATA, PLAGUE_WARD, SUMMON, MAGIC_IMMUNE, VISION] | Plague Ward (E): Summons an immune-to-magic ward that attacks enemies. Ward lasts 40 seconds. Cooldown: 5 seconds. Ward HP: 150/250/350/450. Ward Damage: 16/24/32/40. The ward's attacks inherit Poison Sting, dealing 50% of the full damage. Gold bounty: 100%.
+---
+[TAGS: STRATEGY, Bounty Hunter, TIMING] | Bounty Hunter Power Spike: Level 6 (Track) and mid-game (Phase Boots + Orb of Corrosion). Late-game spikes with Aghanim's Shard (Big Game Hunter) and Level 20 (Jinada no-cooldown Talent).
+---
+[TAGS: Ability, Detection, Vision] | Crystal Ball: Scans an area globally to detect enemy presence and reveal invisibility, countering stealth tactics. Stats: Radius: 450, Duration: 5, Truesight Linger: 1
+---
+[TAGS: ITEM_DATA, WARD_SENTRY, EARLY_GAME_USAGE, CONSUMABLE, VISION, DETECTION, SUPPORT_ITEM, LANING] | Cost: 50: Essential early-game consumable for securing vision control and countering enemy vision. Used to deward Observer Wards and block enemy camp pulls. Provides no regen or stats, but grants True Sight to deny enemy information and gold. Stats: Lifetime: 7 min (420s), True Sight Range: 1050.
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, SUPPORT, MAP_CONTROL] | Observer and Sentry Wards CONSUMABLE Cost: 50: This item allows you to plant vision-providing Observer Wards and True Sight-granting Sentry Wards. Double-clicking the item switches the currently selected ward type before planting. Hold Control and use on an allied hero to transfer a single ward to them. Stats: Observer Cost: 75, Observer Duration: 6 min (360s), Observer Vision Range: 1600, Observer Cast Range: 500. Sentry Cost: 100, Sentry Duration: 8 min (420s), Sentry True Sight Range: 1050, Sentry Cast Range: 500.
+---
+[TAGS: ITEM_DATA, WARD_DISPENSER, SITUATIONAL_USAGE, CONSUMABLE, VS_INVIS, VISION, DETECTION, UTILITY, SUPPORT_ITEM] | Observer and Sentry Wards Dispenser, Cost: 50: Purchase for efficient slot usage when you need both vision and detection. Use Sentry Wards to counter invisibility-based heroes or to deward common enemy Observer spots. Share wards with allies to free up inventory slots. Prioritize placing Observers for high-ground vision and Sentries for objective control. Stats: Observer Vision: 1600, Sentry True Sight Range: 1050, Observer Cast Range: 500, Sentry Cast Range: 500.
+---
+[TAGS: ITEM_DATA, WARD_SENTRY, CORE_MECHANICS, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, VS_INVIS] | Cost: 50: Sentry Ward, a consumable detection tool. Provides True Sight within 1050 radius around allied vision, revealing invisible units, wards, and mines. It does not grant ground vision itself. Lasts 7 minutes and can be planted by holding Control to give one to an allied hero. Stats: Lifetime: 7 min (420s), True Sight Range: 1050, CD: 1s, Charges: 1, Health: 200.
+---
+[TAGS: STRATEGY, Nyx Assassin, WEAKNESS] | Nyx Assassin Weakness: Vulnerable to Break and silence which disable Carapace and Vendetta.
+---
+[TAGS: STRATEGY, Spirit Breaker, ITEM_BUILD, SITUATIONAL] | Spirit Breaker Situational: Buy BKB vs disables, or Lotus Orb vs silences/debuffs.
+---
+[TAGS: STRATEGY, Void Spirit, WEAKNESS] | Void Spirit Weakness: Vulnerable to Silence (prevents mobility) and Break (disables Resonant Pulse barrier).
+---
+[TAGS: Bounty Hunter, Ability, Slow] | Shuriken Toss Slow: Extends the slow duration of Shuriken Toss, improving crowd control and chase potential.
+---
+[TAGS: Nyx Assassin, Ability Upgrade, Crowd Control] | Special Bonus Unique Nyx 6: Extends Spiked Carapace stun duration, improving defensive crowd control. Stats: Spiked Carapace Stun Duration: +{bonus_stun_duration}s
+---
+[TAGS: Nyx Assassin, Ability Upgrade, Damage Reflect] | Special Bonus Unique Nyx Carapace Reflect Duration: Increases Spiked Carapace reflect duration, extending retaliation window. Stats: Spiked Carapace Reflect Duration: +{bonus_reflect_duration}s
+---
+[TAGS: SPIRIT_BREAKER, HARD_COUNTERS] | Break mechanics (e.g., Silver Edge, Viper Nethertoxin) disable the passive percent chance of Greater Bash, removing his core source of damage and lockdown from attacks. His charges are vulnerable to instant disables (Hex, Eul's Scepter) during the wind-up and travel time. Heroes with high mobility (Blink, Manta Style) can dodge Charge of Darkness impact. Planar Pocket can be exploited by enemies casting weak, single-target spells to waste its effect.
+---
+[TAGS: STRATEGY, Spirit Breaker, ITEM_BUILD, CORE] | Spirit Breaker Core Build: Phase Boots (mobility) and Echo Sabre (burst + mana sustain).
+---
+[TAGS: ITEM_DATA, OBSERVER_WARD, CORE_MECHANICS, CONSUMABLE, VISION, MAP_CONTROL, SUPPORT_ITEM] | Observer Ward, Cost: 0: Places an invisible Observer Ward that provides 1600 radius ground vision to your team, lasting 6 minutes. Holds a single charge that replenishes over time at the shop. Critical for map control and information. Stats: CD: 1s, Duration: 360s, Vision: 1600, HP: 200.
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, MAP_CONTROL, DETECTION, SUPPORT] | Observer Ward CONSUMABLE Cost: 0: A consumable ward that provides ground vision. Plants an invisible Observer Ward that grants 1600 radius vision to your team. It lasts for 6 minutes. Use this to gain map control, spot enemy movements, or secure key objectives. Stats: Cost: 0 Gold. Cooldown: 1s. Charges: 1. Lifetime: 360s (6 minutes). Vision Range: 1600. Health: 200.
+---
+[TAGS: STRATEGY, Bounty Hunter, ITEM_BUILD, SITUATIONAL] | Bounty Hunter Situational: Buy BKB vs lockdown, Lotus Orb vs single-target spells, or Nullifier vs Ghost Scepter/Eul's. Consider Gleipnir if your team lacks catch.
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, VS_INVIS, MAP_CONTROL] | Observer and Sentry Wards CONSUMABLE Cost: 50: Use Sentry Wards to secure key areas against invisible heroes like Riki or to destroy enemy Observer Wards when you suspect they have vision. Plant Observer Wards to provide vision for Roshan attempts, key jungle choke points, or to safely push towers. The ability to switch between ward types makes it a flexible tool for vision domination throughout the game.
+---
+[TAGS: Map Control, Vision, Awareness] | Vision: Enhances Zeus's map awareness and vision control by granting additional sight range. Stats: Vision Bonus: +200
+---
+[TAGS: Bounty Hunter, BASE_STATS, Melee, Attack Rate, Attributes] | Bounty Hunter is a Melee agility hero with a base attack rate of 1.5, which is faster than the average, allowing for quicker attacks. Starting attributes are 19 Strength, 21 Agility, and 20 Intelligence. His primary attribute is Agility, contributing to damage and armor. As a melee hero, he has standard turn rate and move speed, but specific values are not provided in the data.
+---
+[TAGS: Ability, Vision, Utility] | Night Vision Bonus: Grants superior vision control in darkness. Stats: Night Vision Range: +400/500/600/800/1000
+---
+[TAGS: Bounty Hunter, Ability, Survivability] | Damage Taken in Shadow Walk: Reduces damage taken while in Shadow Walk, improving survivability during initiation or escape.
+---
+[TAGS: Ability, Utility, Vision Control] | Raven's Veil: Grants invisibility, movement speed, and vision reduction for tactical repositioning. Stats: Radius: 1500, Wave Speed: 1500, Buff Duration: 7/8/9 seconds, Bonus Movement Speed: 15%/25%/35%, Vision Debuff Duration: 4 seconds.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_INVISIBILITY, DEFENSIVE] | Observer and Sentry Wards SITUATIONAL_VS_INVISIBILITY: The Sentry component counters invisible heroes (e.g., Riki, Clinkz). Placing them in common paths or during pushes can reveal and enable kills. Stats: Sentry Ward True Sight Range: 1050.
+---
+[TAGS: Nyx Assassin, HARD_COUNTERS, BREAK, DISABLES, TRUE SIGHT] | Heroes with Break abilities like Silver Edge can disable Spiked Carapace and Nyxth Sense. Instant disables like Hex can prevent Nyx from using Vendetta or Burrow. True sight from items like Dust or Gem reveals Vendetta invisibility.
+---
+[TAGS: STRATEGY, Nyx Assassin, TIMING] | Nyx Assassin Power Spike: Level 6 with Vendetta and again with Aghanim's Scepter for Spiked Carapace upgrades.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SUPPORT] | Observer and Sentry Wards CORE_BUILD: A basic purchase, not built from other items. Carries two separate consumable wards. Can give a ward to an ally using Control. Stats: Components: ward_sentry, ward_observer.
+---
+[TAGS: Nyx Assassin, SITUATIONAL, FROM BEHIND, DEFENSIVE] | Playing from behind, focus on defensive items like Blink Dagger for escape and positioning. Use Burrow for damage reduction and regen in fights. Prioritize stuns with Impale and Spiked Carapace to protect allies and counter-initiate.
+---
+[TAGS: Nyx Assassin, Ability Upgrade, Damage Reflect] | Special Bonus Unique Nyx 4: Enhances Spiked Carapace damage reflection, increasing retaliation damage. Stats: Spiked Carapace Damage Reflect: +{bonus_damage_reflect_pct}%
+---
+[TAGS: Bounty Hunter, SITUATIONAL, Invisible, True Sight, Counter] | Against invisible heroes, Bounty Hunter's Track provides True Sight, making him a natural counter. Use Track to reveal enemies and coordinate with your team to kill them. Consider carrying detection like Dust or Gem for additional security.
+---
+[TAGS: AGHS_STRATEGY, Bounty Hunter, COUNTER_MECHANIC, AGHANIM] | Bounty Hunter Aghanim's Scepter: Shuriken Toss gains increased cast range and applies Jinada on hit. This upgrade enhances Bounty Hunter's burst damage and catch potential, making it a strong counter to mobile heroes by ensuring guaranteed Jinada procs on distant targets.
+---
+[TAGS: VENGEFUL_SPIRIT, HARD_COUNTERS, BREAK, DISABLE, BKB] | Vengeful Spirit is hard countered by Break mechanics (from Silver Edge, Doom) which disable her Vengeance Aura and Retribution passive. Instant disables (Hex, Batrider's Lasso) prevent her from casting Nether Swap. High burst magic damage can kill her before she can react. Heroes with built-in Spell Immunity (BKB, Lifestealer Rage) are difficult to lock down with Magic Missile. Does NOT pierce BKB.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, CONSUMABLE, VISION, OBJECTIVE_CONTROL, TEAMFIGHT, INITIATION] | Observer Ward CONSUMABLE Cost: 0: A situational tool for map control and objective security. Plant wards to secure vision before taking Roshan, pushing high ground, or controlling key jungle areas. Essential for scouting enemy positions and initiating teamfights from favorable angles. Stats: Cost: 0 Gold. Cooldown: 1s. Vision Range: 1600.
+---
+[TAGS: Ability, Vision, Passive] | Sight: Provides passive vision in a large area. Stats: Radius: 1000
+---
+[TAGS: Ability, Area of Effect] | Eyes and Overgrowth AoE Increase: Expands the area of effect for vision and crowd control abilities.
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, VS_INVIS] | Crucial for establishing early game vision control. Used to de-ward enemy Observer Wards to protect your lane and deny enemy information. Also provides insurance against ganks from invisible supports like Bounty Hunter or heroes using Shadow Amulet. Stats: Cost: 50 gold, True Sight Radius: 1050.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Observer and Sentry Wards HARD_COUNTERS: Wards can be destroyed by enemies attacking them. Sentry Wards are countered by staying outside their True Sight radius. Stats: Wards are killable.
+---
+[TAGS: SPIRIT_BREAKER, BASE_STATS] | Spirit Breaker is a melee hero with a base attack time of 1.9, which is slower than average. His starting attributes (28 Strength, 17 Agility, 14 Intelligence) are Strength-heavy, giving him high health but low mana and armor. This makes him tanky against magic and physical damage early from his high Strength gain, but vulnerable to armor reduction due to his low Agility base.
+---
+[TAGS: ITEM_DATA, WARD_DISPENSER, CORE_MECHANICS, CONSUMABLE, VISION, DETECTION, UTILITY, SUPPORT_ITEM] | Observer and Sentry Wards Dispenser, Cost: 50: Holds both Observer and Sentry wards in one item slot. Double-click to switch between ward types before planting. Can share individual wards with allies by holding Control. Consumable. Stats: No Cooldown, No Mana Cost.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_VISION, MAP_CONTROL, UTILITY] | Smoke of Deceit SITUATIONAL_VS_VISION: Directly counters enemy vision and map control. It allows teams to move through areas likely warded, devalue enemy sentry wards, and execute ganks or Roshan attempts without being seen by Observer Wards or hero abilities that grant vision. Stats: True Sight Immune Invisibility, Break Radius: 1025.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, SUPPORT] | Sentry Ward CORE_BUILD / SYNERGIES: Purchased alongside Observer Wards for complete vision coverage. Can be shared with an ally using the Control key. Synergy: High-ground vision from Observer Wards allows Sentry Wards to deward a larger area with their true sight. Stats: Can be given to allies.
+---
+[TAGS: ITEM_DATA, THIRD_EYE, CORE_DESCRIPTION, NON_PURCHASABLE, VISION, DETECTION, TRUE_SIGHT, VS_INVIS, STATS, BONUS_VISION] | Third Eye, Tier N/A: Non-purchasable item providing True Sight vision in a 500 radius around its carrier. Grants +300 bonus vision and +7 to all attributes. Contains 3 charges; loses a charge upon death and is destroyed when all charges are consumed. Provides no active abilities. Stats: +7 All Stats, Bonus Vision: 300, True Sight Radius: 500.
+---
+[TAGS: STRATEGY, Spirit Breaker, TIMING] | Spirit Breaker Power Spike: Strong at Level 6 with Nether Strike, and mid-game with Phase Boots + Echo Sabre.
+---
+[TAGS: SPIRIT_BREAKER, SITUATIONAL, VS_PHYSICAL] | Scenario: Vs High Physical Damage/Armor Reduction. Spirit Breaker's low base armor makes him vulnerable. Build early armor items like Phase Boots and consider a Medallion of Courage/Solar Crest for yourself or an ally. Use Bulldoze's status resistance to reduce the duration of physical slows like Skadi. Prioritize locking down the physical damage dealer with Nether Strike.
+---
+[TAGS: EARTH_SPIRIT, HARD_COUNTERS] | Earth Spirit is countered by heroes with instant silences or hexes (Silencer, Shadow Shaman) that prevent his Rolling Boulder initiation or escape. Spell immunity (Black King Bar) blocks all his abilities except Enchant Remnant. Break (Silver Edge, Hoodwink) disables his passive bonus damage from Stone Remnant charges. High mobility heroes (Storm Spirit, Anti-Mage) can dodge his skillshots. Illusion-based heroes (Phantom Lancer, Chaos Knight) can be difficult to lock down and drain Remnant charges.
+---
+[TAGS: ITEM_DATA, OBSERVER_WARD, EARLY_GAME_USAGE, CONSUMABLE, LANING, VISION, SUPPORT_ITEM, SAFETY] | Observer Ward, Cost: 0: Essential early game consumable for lane safety and rune control. Provides vision to avoid ganks and secure last hits safely. Supports primarily purchase these for team-wide map awareness.
+---
+[TAGS: Ability, Healing, Cooldown] | Healing Ward Cooldown: Reduces the cooldown of Juggernaut's Healing Ward, allowing for more frequent sustain in prolonged engagements. Stats: Cooldown Reduction: 12s
+---
+[TAGS: Nyx Assassin, TALENT_LEVEL_DATA, TALENT, TALENT_20] | At level 20, choose between +0.6s Spiked Carapace Stun Duration or +140 Impale Damage. Pick the stun duration for longer disables and crowd control, or the Impale damage for increased burst and wave clear.
+---
+[TAGS: ITEM_DATA, WARD_SENTRY, SITUATIONAL_USAGE, CONSUMABLE, VS_INVIS, VISION, DETECTION, SITUATIONAL_VS_INVIS] | Cost: 50: Key situational item against invisible heroes (Riki, Bounty Hunter) and for objective control (dewarding Roshan pit). Critical for high-ground siege to clear enemy vision and for protecting key areas. Can be shared with an ally. Stats: Lifetime: 7 min (420s), True Sight Range: 1050.
+---
+[TAGS: Ability, Ward, Damage] | Purple Plague Ward: Summons a ward that deals physical damage over time. Stats: Duration: 30, HP: 200, Damage: 19
+---
+[TAGS: PUGNA, ABILITY_DATA, ABILITY_E, WARD, PUNISH] | Nether Ward lasts until destroyed (4 attacks to kill). It has a 1400 radius. When an enemy hero casts a spell within range, the Ward fires at them, dealing 50/70/90/110 base damage plus 1/1.2/1.4/1.6 times the mana cost of the spell as damage. The damage is magical.
+---
+[TAGS: Slardar, Ability Upgrade, Vision Control] | Corrosive Haze Undispellable: Makes vision and armor reduction permanent against targets, countering dispels. Stats: Undispellable debuff
+---
+[TAGS: STRATEGY, Spirit Breaker, WEAKNESS] | Spirit Breaker Weakness: Vulnerable to Silence (disables Charge/Bulldoze) and Break (nullifies Greater Bash).
+---
+[TAGS: ITEM_DATA, OBSERVER_WARD, SITUATIONAL_USAGE, CONSUMABLE, VISION, MAP_CONTROL, STRATEGIC] | Observer Ward, Cost: 0: Use to secure Roshan pit vision, spot enemy rotations through jungle chokepoints, and deward high-ground cliffs for push defense. The single charge mechanic forces strategic placement decisions.
+---
+[TAGS: ITEM_DATA, WARD_DISPENSER, EARLY_GAME_USAGE, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, SUPPORT_ITEM] | Observer and Sentry Wards Dispenser, Cost: 50: Core vision tool for supports. Observer Wards provide map control and vision for 6 minutes. Sentry Wards provide True Sight to deward enemy vision or detect invisible heroes. Essential for controlling key objectives. Stats: Observer Cost: 75, Sentry Cost: 100, Observer Duration: 6 min, Sentry Duration: 8 min.
+---
+[TAGS: Bounty Hunter, HARD_COUNTERS, Counters, True Sight, Silence, Break] | Bounty Hunter is hard countered by heroes and items that provide true sight, such as Slardar's Amplify Damage or Gem of True Sight, revealing his Shadow Walk. Silences prevent him from using Shadow Walk to escape. Break effects can disable his Big Game Hunter passive, reducing gold income. High burst damage heroes can kill him before he can react due to his low health pool from base Strength.
+---
+[TAGS: ITEM_DATA, CONSUMABLE, VISION, DETECTION, TRUE_SIGHT, VS_INVIS] | Sentry Ward CONSUMABLE Cost: 50 gold: Places a Sentry Ward, an invisible watcher that grants True Sight in a 1050 radius around any existing allied vision. Does not grant ground vision. Essential for de-warding and countering invisible heroes. Can be shared with an allied hero by holding the Control key. Stats: True Sight Radius: 1050, Duration: 7 minutes (420 seconds), Health: 200, Cooldown: 1s.
+---
+[TAGS: STRATEGY, Nyx Assassin, ITEM_BUILD, SITUATIONAL] | Nyx Assassin Situational: Buy Lotus Orb against silences and Force Staff against mobility issues.
+
+=== GAME STATE ===
+Match Time: 22:30 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: warlock (Lvl 9) | HP: 800/1100 | Mana: 500/800 | Alive: true
+Stats: K/D/A 0/6/8 | Gold: 600 | LastHits: 8
+Inventory: [item_smoke_of_deceit, item_tpscroll x1, item_tranquil_boots (CD), item_magic_wand x10, item_ward_observer x4, item_ward_sentry x2]
+Abilities: [warlock_fatal_bonds(Lvl2)[Rdy] | warlock_shadow_word(Lvl4)[Rdy] | warlock_upheaval(Lvl1)[Rdy] | warlock_rain_of_chaos(Lvl1)[ULTIMATE-READY]]
+User Situation Notes: Играю на 5-ке. У меня 4 варда, но команда жалуется на отсутствие вижена. Враги (Nyx, Bounty Hunter, Spirit Breaker) постоянно убивают наших при переходах. Не понимаю, куда ставить варды.
+
+=== USER QUESTION ===
+""
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "".**
+========================================
+
+[AI RESPONSE] (2.55s)
+Понимаю ситуацию, давайте разберёмся. Вы можете установить **Sentry Wards** в ключевых местах, где вероятно находятся враги, чтобы остановить ваше падение, особенно против Nyx и Bounty Hunter. Рассмотрите возможность размещения **Observer Wards** в тех местах, которые дают вам обзор на Рошана и пути к нажатиям, чтобы ваша команда могла видеть передвижения врагов и избегать гангов.

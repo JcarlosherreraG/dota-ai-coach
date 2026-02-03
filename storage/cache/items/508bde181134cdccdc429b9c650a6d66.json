@@ -1,0 +1,57 @@
+[
+  {
+    "display_text": "Oblivion Staff, Cost: 1625: A stat-boosting component and upgrade item. Combines Intelligence, Attack Speed, and Mana Regeneration, making it a core ingredient for intelligence-based right-click heroes and mana-hungry casters. Commonly built into items like Witch Blade, Orchid Malevolence, or Scythe of Vyse. Stats: CD: N/A, Mana Cost: N/A.",
+    "search_text": "intelligence item, attack speed item, mana regen item, stat component, oblivion staff, core item, intelligence core, orchid component, witch blade component, scythe component, mid-game intelligence, mana regen, right-click caster, attack speed, stat boost",
+    "tags": [
+      "ITEM_DATA",
+      "OBLIVION_STAFF",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "ATTACK_SPEED",
+      "MANA_REGEN",
+      "UPGRADE",
+      "COMPONENT"
+    ]
+  },
+  {
+    "display_text": "Oblivion Staff, Cost: 1625: Provides a well-rounded stat package for heroes who use mana and attack speed. Offers +10 Intelligence for mana pool and spell damage, +35 Attack Speed for faster right-clicks, and +1.0 Mana Regeneration for lane or jungle sustainability.",
+    "search_text": "oblivion staff stats, stats breakdown, +10 int, +35 attack speed, +1 mana regen, stat item, intelligence stats, attack speed stats, mana regeneration stats, Oblivion Staff",
+    "tags": [
+      "ITEM_DATA",
+      "OBLIVION_STAFF",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "ATTACK_SPEED",
+      "MANA_REGEN",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Oblivion Staff, Cost: 1625: A versatile mid-game item that enhances sustained spellcasting and right-click output. The mana regeneration and attack speed improve a hero's overall DPS and farming speed in prolonged engagements or when clearing waves and camps. It provides no defensive or active abilities.",
+    "search_text": "mid-game item, versatile item, sustained damage, farming speed, mana sustain, spellcaster item, right-click sustain, wave clear, jungle farming, Oblivion Staff",
+    "tags": [
+      "ITEM_DATA",
+      "OBLIVION_STAFF",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "FARMING",
+      "SUSTAIN",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Oblivion Staff, Cost: 1625: Core building block for intelligence heroes who rely on attack speed and need to address early mana issues, such as Storm Spirit, Leshrac, or Windranger. Often rushed as a first major component to accelerate farm and fighting potential. An efficient stepping stone to powerful single-target or area control items.",
+    "search_text": "oblivion staff build, intelligence carry build, storm spirit item, leshrac item, windranger item, core build, early game item, mana solution, farming accelerator, item progression, Oblivion Staff",
+    "tags": [
+      "ITEM_DATA",
+      "OBLIVION_STAFF",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "FARMING_UTILITY",
+      "CARRY_ITEM"
+    ]
+  }
+]

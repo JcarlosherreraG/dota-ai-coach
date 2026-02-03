@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Stygian Desolator, Cost: 0: Tier 5 Neutral item. Your attacks apply Greater Corruption, reducing the target's armor by -13 for 7 seconds. This armor reduction effect works against all units, including buildings. Stats: Armor Reduction: -13, Duration: 7.0s.",
+    "search_text": "tier 5 neutral, armor reduction, corruption, physical damage amplification, minus armor, attack modifier, building damage, siege, Stygian Desolator, desolator upgrade, right-click damage, physical carry, neutral drop, high-tier neutral, bonus damage, DPS, carry neutral, building demolisher, armor shred",
+    "tags": [
+      "ITEM_DATA",
+      "STYGIAN_DESOLATOR",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_5",
+      "DEBUFF",
+      "PHYSICAL_DAMAGE",
+      "CARRY_ITEM",
+      "UPGRADE",
+      "DAMAGE",
+      "VS_PHYSICAL"
+    ]
+  }
+]

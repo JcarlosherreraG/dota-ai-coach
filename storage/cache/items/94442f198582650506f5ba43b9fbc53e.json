@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Ogre Axe, Cost: 1000: Component item that provides +10 Strength, offering 200 bonus health and 0.3 health regeneration. A foundational piece for many Strength-based carry and survival item upgrades, increasing durability and right-click damage potential. Stats: Strength: +10.",
+    "search_text": "ogre axe, strength item, component, health item, attribute item, item component, build component, basic item, core component, +10 strength, durability item, health pool, strength stat, upgrade component, Ogre Axe",
+    "tags": [
+      "ITEM_DATA",
+      "OGRE_AXE",
+      "CORE_DESCRIPTION",
+      "COMPONENT",
+      "STRENGTH",
+      "HEALTH",
+      "DURABILITY",
+      "UPGRADE"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Stormcrafter, Tier N/A (Neutral Item): Zaps 2 enemy targets within 700 range, dealing 175 magical damage and a 40% slow for 0.4 seconds. Strikes automatically every 3.5 seconds, providing periodic AoE damage and soft crowd control. Does not provide any stat bonuses. Stats: CD: 3.5s, Damage: 175, Slow: 40%, Range: 700.",
+    "search_text": "stormcrafter, neutral item, automatic damage, passive lightning, periodic zap, aoe damage, multi target, slow, crowd control, auto attack, passive proc, lightning damage, magic damage, Stormcrafter, bottled lightning",
+    "tags": [
+      "ITEM_DATA",
+      "STORMCRAFTER",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "PASSIVE",
+      "MAGICAL_DAMAGE",
+      "AOE_DAMAGE",
+      "MULTI_TARGET",
+      "SLOW",
+      "CROWD_CONTROL"
+    ]
+  }
+]

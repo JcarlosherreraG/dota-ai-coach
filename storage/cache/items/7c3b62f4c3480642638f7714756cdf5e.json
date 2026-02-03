@@ -1,0 +1,14 @@
+[
+  {
+    "display_text": "Phylactery Recipe, Cost: 200: Component required to assemble Phylactery. Does not provide stats or abilities. You must buy this to combine the Orb of Venom, Soul Ring, and Crown into a Phylactery. Stats: Cost: 200.",
+    "search_text": "phylactery recipe, recipe item, orb of venom recipe, soul ring recipe, crown recipe, combine item, Phylactery Recipe",
+    "tags": [
+      "ITEM_DATA",
+      "PHYLACTERY_RECIPE",
+      "CORE_DESCRIPTION",
+      "RECIPE",
+      "COMPONENT",
+      "UPGRADE"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Marci Aghanim's Scepter: Reduces Unleash cooldown and applies a basic dispel on Marci. While Unleash is active, casting abilities unleashes pulses that silence enemies for 1 second. This upgrade counters silence and debuffs, enabling Marci to maintain her mobility and damage output even when targeted by disabling spells.",
+    "search_text": "Marci Aghanim Scepter counter-disable silence mobility debuff dispel upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Marci",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Marci Aghanim's Shard: Increases damage and allows Rebound to be cast on enemies, granting Marci the speed boost when cast. This upgrade enhances Marci's initiation and escape capabilities, making her a versatile roamer and duelist who can quickly engage or disengage from fights.",
+    "search_text": "Marci Aghanim Shard initiation escape mobility duelist upgrade",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Marci",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

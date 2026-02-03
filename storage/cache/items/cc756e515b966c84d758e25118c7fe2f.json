@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Dormant Curio, Tier 1: Neutral artifact that amplifies the next neutral artifact you craft. While equipped, the potency (stat bonuses) of the next neutral artifact you find and upgrade is increased by 30%. Does not affect cooldowns, mana costs, or cast ranges. Stats: Potency Increase: 30%.",
+    "search_text": "neutral artifact boost, tier 1 neutral, amplify neutral, stat increase, craft bonus, artifact crafting, dormant curio, upgrade boost, neutral item amplifier, early game neutral, utility neutral, passive neutral",
+    "tags": [
+      "ITEM_DATA",
+      "DORMANT_CURIO",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_1",
+      "PASSIVE",
+      "UTILITY",
+      "STAT_BONUS",
+      "ARTIFACT_AMPLIFY"
+    ]
+  }
+]

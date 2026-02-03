@@ -1,0 +1,56 @@
+[
+  {
+    "display_text": "Orb of Venom, Cost: 350: Applies a magical damage-over-time effect on attack, dealing 10 damage per second for 3 seconds. A cost-effective early harass tool that provides consistent lane pressure, especially on heroes with high attack speed or range. Its damage ignores physical armor, making it strong against low-health targets. Stats: CD: 9s, DoT: 10 dps, Duration: 3s, Total Damage: 30.",
+    "search_text": "orb of venom, venom orb, poison attack, damage over time, DoT item, lane harass item, early game harass, on-hit slow, magical DoT, consistent damage, attack modifier, slow item, cheap harass, orb effect, Orb of Venom, OOV",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_VENOM",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DEBUFF",
+      "MAGICAL_DAMAGE",
+      "DOT",
+      "LANING",
+      "HARASS",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Orb of Venom, Cost: 350: Provides no direct attribute bonuses. The item's value is purely offensive, derived from its unique attack modifier. Offers cheap early game trading power.",
+    "search_text": "orb of venom stats, OOV stats, orb item stats, no stats item, offensive item, attack modifier stats, Orb of Venom",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_VENOM",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "OFFENSIVE",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Orb of Venom, Cost: 350: Primarily an early laning and harassment tool. Its consistent damage over time forces enemies to consume regen, providing a gold-efficient advantage in the lane. Effective at securing kill thresholds on mobile heroes.",
+    "search_text": "orb of venom laning, lane harassment, early game pressure, OOV lane, harass tool, trading item, pressure lane, force regen, laning phase, Orb of Venom",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_VENOM",
+      "EARLY_GAME_USAGE",
+      "FULL_ITEM",
+      "LANING",
+      "HARASS",
+      "OFFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Orb of Venom, Cost: 350: Strong synergy with heroes who can apply it frequently, like ranged carries or melee heroes with gap closers. It can be an effective starting or early-game pickup on roaming supports like Bounty Hunter to enhance their ganking damage.",
+    "search_text": "orb of venom synergy, who buys OOV, venom hero, good with ranged, melee gap closer, support item, roaming support, ganking item, starting item, Orb of Venom",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_VENOM",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "HARASS",
+      "SUPPORT_ITEM",
+      "LANING"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "display_text": "Star Mace, Tier 3: Neutral item providing +10% movement speed, +1 mana regeneration, and a Cleave effect for melee attacks. Attacks deal 20% of attack damage in an expanding AoE behind the target, making it effective for accelerating farm and teamfight AoE damage for melee heroes. Stats: MS: +10%, Mana Regen: +1, Cleave Damage: 20%, Cleave Width: 150-360, Cleave Range: 650.",
+    "search_text": "tier 3 neutral, neutral cleave item, melee cleave, farming neutral, wave clear neutral, AoE damage neutral, jungle farming, melee carry neutral, mana regen neutral, movement speed neutral, farming acceleration, area damage, Star Mace",
+    "tags": [
+      "ITEM_DATA",
+      "STAR_MACE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "MELEE_ONLY",
+      "CLEAVE",
+      "AOE_DAMAGE",
+      "PHYSICAL_DAMAGE",
+      "FARMING",
+      "WAVECLEAR",
+      "MOBILITY",
+      "MANA_REGEN"
+    ]
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "display_text": "Sven is a Melee strength hero. He has high base strength of 23 and low base attack rate of 1.9, making him a slow but powerful hitter from level 1. As a melee hero, he must close the distance to deal damage, making positioning and gap-closing crucial.",
+    "search_text": "Melee Strength Carry Core hero stats Attack Range Armor Movespeed 1.9 Base Attack Time Slow attack speed High starting Strength",
+    "tags": [
+      "SVEN",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Sven has two Facets: 'Heavy Plate' and 'Str Scaling'. The Heavy Plate Facet causes his Warcry ability to provide a physical damage barrier to allies. This is a defensive choice, excellent against physical damage-heavy lineups. The Str Scaling Facet replaces his base barrier and armor/movespeed bonus from Warcry with a scaling effect based on his Strength, turning him into a more selfish, hard-carry version. Choose Heavy Plate for a more supportive, teamfight-focused role. Choose Str Scaling if you plan to be the primary damage source and need to scale harder with items.",
+    "search_text": "Facet Heavy Plate Str Scaling Warcry physical damage barrier armor move speed strength scaling selfish carry teamfight support",
+    "tags": [
+      "SVEN",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Sven's high base damage and stun from Storm Hammer make him strong in kill lanes. Use Storm Hammer (600 range, 1.0/1.2/1.4/1.6s stun) to secure kills with a support. His low attack speed means last-hitting requires good timing. Use Warcry for its 5/8/11/14 armor and 6/9/12/15% movement speed to trade hits favorably or disengage from ganks. Prioritize getting last hits to afford a fast Blink Dagger or farming item.",
+    "search_text": "Laning Phase early game 10 minutes Storm Hammer stun 600 range 1.6 sec Warcry armor move speed last hit farm kill lane Blink Dagger",
+    "tags": [
+      "SVEN",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Sven's major power spikes are at level 6 (God's Strength for +110% damage), level 12 (maxed Great Cleave for farming and level 2 ultimate), and level 18 (level 3 ultimate). Item spikes are Blink Dagger (initiation), Black King Bar (spell immunity), and Daedalus/Moonshard (critical damage/attack speed). Level 20 talent (+20% God's Strength Slow Resistance) and level 25 talent (+1s Storm Hammer Stun Duration) are significant late-game spikes.",
+    "search_text": "Power Spike level 6 12 18 God's Strength 110 150 190% damage Blink Dagger BKB Daedalus Great Cleave farm talent 20 25",
+    "tags": [
+      "SVEN",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Sven is hard countered by heroes that can kite him (e.g., Slark, Venomancer), heroes with Break to disable his passive Vanquisher and Great Cleave (e.g., Doom, Shadow Demon), and instant disables that prevent him from casting God's Strength or Blinking (e.g., Hex). Illusions and summons also counter his single-target damage style without cleave active. High armor and damage mitigation severely reduce his physical burst.",
+    "search_text": "Counter Kite Break passive Vanquisher Great Cleave Hex instant disable God's Strength Blink Dagger illusions summons high armor physical damage mitigation Slark Venomancer Doom Shadow Demon",
+    "tags": [
+      "SVEN",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Sven's core build is non-negotiable: Blink Dagger for initiation and gap-close, and Black King Bar to ensure he can deliver his damage without being controlled. A third essential item is either Daedalus for massive critical strikes or Assault Cuirass for attack speed and armor reduction to amplify his and his team's physical damage.",
+    "search_text": "Core Build Blink Dagger BKB Black King Bar Daedalus Assault Cuirass initiation gap close spell immunity critical strike attack speed armor reduction",
+    "tags": [
+      "SVEN",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Sven's role is to initiate with Blink Dagger + Storm Hammer on key targets, cast God's Strength and Warcry, and use Black King Bar to deliver massive physical cleave damage. His job is to delete the enemy backline (supports, carries) with a few hits. He must be the primary engage and damage dealer, creating space and forcing the enemy team to focus him.",
+    "search_text": "Teamfight Role initiator primary damage dealer Blink Storm Hammer stun God's Strength Warcry BKB cleave physical damage burst delete backline carry",
+    "tags": [
+      "SVEN",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Storm Hammer (Q): Sven throws his magical gauntlet, dealing damage and stunning enemy units in a small area around the target. Cast Range: 600. Effect Radius: 250/270/290/310. Stun Duration: 1.0/1.2/1.4/1.6 seconds. Projectile Speed: 1000. Provides 225 radius flying vision on impact. With Aghanim's Scepter, deals an additional 180 damage and becomes a ground-targeted area stun.",
+    "search_text": "Ability Q Storm Hammer Magic Gauntlet stun AOE 250 270 290 310 radius 1.0 1.2 1.4 1.6 seconds 600 range 1000 speed flying vision 225 Aghanim Scepter 180 bonus damage ground target",
+    "tags": [
+      "SVEN",
+      "ABILITY_DATA",
+      "STUN",
+      "NUKEDAMAGE"
+    ]
+  },
+  {
+    "display_text": "Great Cleave (W): Sven's attacks cleave, dealing physical damage in a cone behind his primary target. Cleave Starting Width: 150. Cleave Ending Width: 270/300/330/360. Cleave Distance: 400/500/600/700. Cleave Damage: 60/70/80/90% of his attack damage. This ability allows Sven to farm jungle stacks and deal damage to multiple heroes in teamfights.",
+    "search_text": "Ability W Great Cleave passive cleave physical damage cone 150 starting width 270 300 330 360 ending width 400 500 600 700 distance 60 70 80 90% damage farm jungle stack teamfight",
+    "tags": [
+      "SVEN",
+      "ABILITY_DATA",
+      "CLEAVE",
+      "FARMING"
+    ]
+  },
+  {
+    "display_text": "Warcry (E): Sven heartens his allied heroes, granting them bonus armor and movement speed for 8 seconds. Radius: 700. Bonus Armor: 5/8/11/14. Bonus Movement Speed: 6/9/12/15%. With the 'Heavy Plate' Facet, Warcry also provides a physical damage barrier.",
+    "search_text": "Ability E Warcry buff aura armor 5 8 11 14 move speed 6 9 12 15% 8 seconds 700 radius Heavy Plate Facet physical damage barrier",
+    "tags": [
+      "SVEN",
+      "ABILITY_DATA",
+      "BUFF",
+      "ARMOR",
+      "MOVESPEED"
+    ]
+  },
+  {
+    "display_text": "God's Strength (R): Sven channels his rogue strength, gaining a massive bonus to his damage based on his base damage and strength for 30 seconds. Bonus Damage: 110/150/190%. Also grants 30% slow resistance. Cooldown: 110/105/100 seconds. This is Sven's primary damage steroid and teamfight presence ability.",
+    "search_text": "Ultimate R God's Strength ultimate buff damage steroid 110 150 190% bonus damage 30 seconds 30% slow resistance cooldown 110 105 100 base damage strength scaling",
+    "tags": [
+      "SVEN",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "DAMAGEBUFF"
+    ]
+  },
+  {
+    "display_text": "Vanquisher (Passive): Sven's attacks deal 20% bonus damage to stunned enemies. This passive synergizes perfectly with his own Storm Hammer and other stuns from his team, allowing him to burst down targets quickly.",
+    "search_text": "Passive Vanquisher innate passive 20% bonus damage vs stunned enemies synergy Storm Hammer burst",
+    "tags": [
+      "SVEN",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "BONUSDAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Armor/Agi Carries. Enemy heroes like Phantom Assassin or Terrorblade have high armor. In this scenario, Sven must prioritize armor reduction items like Assault Cuirass and consider a Silver Edge for Break to disable their passives. His physical damage can be mitigated, so timing God's Strength with these items is critical.",
+    "search_text": "Situational vs High Armor Agility Carry Phantom Assassin Terrorblade Assault Cuirass armor reduction Silver Edge Break passive mitigation physical damage",
+    "tags": [
+      "SVEN",
+      "SITUATIONAL",
+      "HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. If Sven has a bad lane and is underfarmed, he should avoid fights and use Great Cleave to farm jungle stacks efficiently. Items like Mask of Madness or Echo Sabre can accelerate farm. Focus on getting core Blink and BKB before rejoining fights, using Storm Hammer defensively to save allies.",
+    "search_text": "Situational Playing from Behind underfarmed farm jungle stacks Great Cleave Mask of Madness Echo Sabre accelerate farm Blink BKB defensive Storm Hammer",
+    "tags": [
+      "SVEN",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion/Summon Heroes. Against Chaos Knight, Phantom Lancer, or Broodmother, Sven struggles to identify the real hero. In this scenario, Battle Fury becomes a valuable item to quickly clear illusions with cleave. Silver Edge can also be useful to Break key passives like Phantom Lancer's Juxtapose.",
+    "search_text": "Situational vs Illusions Summons Chaos Knight Phantom Lancer Broodmother Battle Fury cleave clear illusions Silver Edge Break passives Juxtapose",
+    "tags": [
+      "SVEN",
+      "SITUATIONAL",
+      "ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: As a Position 3 Offlaner. When played as an offlaner, Sven's build shifts to utility. Max Warcry early for lane sustain and team armor. Build items like Vladmir's Offering, Pipe of Insight, or Solar Crest to support the team. Use Storm Hammer for setup and God's Strength to create space as a frontliner, not necessarily as the primary damage dealer.",
+    "search_text": "Situational Position 3 Offlaner utility build Warcry armor Vladmir Offering Pipe of Insight Solar Crest support frontliner setup Storm Hammer God's Strength space creator",
+    "tags": [
+      "SVEN",
+      "SITUATIONAL",
+      "OFFLANE"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Choose between +5s Warcry Duration or +10% Vanquisher Bonus Damage. The Warcry talent extends its powerful armor and movespeed buff to 13 seconds, excellent for prolonged fights and team sustain. The Vanquisher talent increases bonus damage vs stunned targets from 20% to 30%, significantly boosting burst potential. Pick Warcry for team utility; pick Vanquisher for personal damage if you can reliably stun targets.",
+    "search_text": "Talent 10 level 10 left +5s Warcry Duration right +10% Vanquisher Bonus Damage 20% to 30% team utility armor move speed burst damage vs stun",
+    "tags": [
+      "SVEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Choose between -12s God's Strength Cooldown or +25% Great Cleave Damage. The cooldown reduction talent lowers God's Strength CD to 98/93/88s, allowing it to be used in almost every fight and for farming. The cleave damage talent increases Great Cleave from 90% to 115%, massively improving farming speed and teamfight AOE damage. Pick CDR for more frequent fight presence; pick Cleave if you need to farm faster or face clustered enemies.",
+    "search_text": "Talent 15 level 15 left -12s God's Strength Cooldown 98 93 88 seconds right +25% Great Cleave Damage 90% to 115% farming speed AOE teamfight damage",
+    "tags": [
+      "SVEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Choose between +20% God's Strength Slow Resistance or +8 Warcry Armor. The slow resistance talent stacks with the innate 30%, giving Sven 50% slow resistance during God's Strength, making him extremely hard to kite. The Warcry armor talent increases its bonus from 14 to 22 armor, a huge defensive boost for your entire team. Pick Slow Resist if you are being kited; pick Armor if the enemy has heavy physical damage.",
+    "search_text": "Talent 20 level 20 left +20% God's Strength Slow Resistance total 50% right +8 Warcry Armor 14 to 22 armor kite physical damage defense",
+    "tags": [
+      "SVEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Choose between +50% God's Strength Damage or +1s Storm Hammer Stun Duration. The damage talent increases God's Strength bonus from 190% to 240%, making Sven's attacks devastating. The stun talent increases Storm Hammer stun from 1.6s to 2.6s, providing incredible lockdown. Pick Damage to delete heroes instantly; pick Stun for crucial control against elusive enemies like Storm Spirit or Anti-Mage.",
+    "search_text": "Talent 25 level 25 left +50% God's Strength Damage 190% to 240% right +1s Storm Hammer Stun Duration 1.6s to 2.6s lockdown burst damage control elusive heroes",
+    "tags": [
+      "SVEN",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

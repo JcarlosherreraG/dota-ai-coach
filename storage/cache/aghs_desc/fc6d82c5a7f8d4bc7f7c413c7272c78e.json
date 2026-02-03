@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Omniknight Aghanim's Scepter: Turns Guardian Angel into a global ability that also affects buildings and amplifies healing. This upgrade counters AoE damage and siege strategies, transforming Omniknight into a reliable teamfight protector and high-ground defender.",
+    "search_text": "Omniknight Aghanim Scepter global healing counter-AoE anti-siege high-ground defender",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Omniknight",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Omniknight Aghanim's Shard: Purification now re-applies after 3 seconds at reduced effectiveness, countering burst damage over time and prolonged engagements by ensuring sustained healing and damage mitigation.",
+    "search_text": "Omniknight Aghanim Shard Purification burst counter sustained healing damage mitigation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Omniknight",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "display_text": "Witch Doctor is a ranged intelligence support hero with 600 attack range and a 1.7 base attack time. He has average starting stats of 20 Strength, 13 Agility, and 22 Intelligence.",
+    "search_text": "Witch Doctor stats attack type ranged intelligence support 600 attack range 1.7 attack time 20 strength 13 agility 22 int",
+    "tags": [
+      "WITCH_DOCTOR",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet 1 (Headhunter): Paralyzing Cask deals more damage each bounce. This rewards chaining the stun between multiple enemies, increasing its offensive impact and kill threat in teamfights. Facet 2 (Voodoo Festeration): Voodoo Restoration deals damage to enemies and only heals Witch Doctor. This transforms his sustain ability into a selfish damage aura, ideal for a more aggressive, core-like Witch Doctor who wants to stay in the thick of fights. Facet 3 (Cleft Death): Death Ward attacks multiple targets with reduced damage. This provides area-of-effect (AOE) damage, making the ultimate effective against grouped-up enemies or illusions. Facet 4 (Malpractice): Enemies dying while Maledicted explode. This enhances Maledict's power in securing kills and provides additional burst damage in teamfights, punishing clumped enemies.",
+    "search_text": "Witch Doctor facets Headhunter Paralyzing Cask more damage per bounce Voodoo Festeration Voodoo Restoration damage enemies heal self Cleft Death Death Ward attack multiple targets Malpractice Maledict explode on death",
+    "tags": [
+      "WITCH_DOCTOR",
+      "FACET_STRATEGY",
+      "HEADHUNTER",
+      "VOODOO_FESTERATION",
+      "CLEFT_DEATH",
+      "MALPRACTICE"
+    ]
+  },
+  {
+    "display_text": "In lane, use your 600 attack range to harass. Use Paralyzing Cask (20.0 sec cooldown, 55 damage) when two enemy heroes are close to stun and damage both, securing last hits or harass. Max Voodoo Restoration first (20/30/40/50 heal per 0.33s, 9/12/15/18 mana per sec) to provide sustain for your lane partner. Take a value point in Maledict at level 2 or 4 to secure kills if your lane has burst damage. Your low armor and HP make positioning crucial; stay behind your core.",
+    "search_text": "Witch Doctor laning phase harass 600 attack range Paralyzing Cask 20s cooldown 55 damage stun two heroes Voodoo Restoration heal 20 30 40 50 per 0.33s mana 9 12 15 18 per sec Maledict level 2 kill secure positioning",
+    "tags": [
+      "WITCH_DOCTOR",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spike 1 (Level 6): Death Ward (60 damage, 600 range) gives immense kill threat with setup from Paralyzing Cask or Maledict. Power Spike 2 (Level 12): Death Ward level 2 (90 damage) with a core item like Aghanim's Scepter is a major teamfight threat. Power Spike 3 (Level 20): Talent choice of +75 Death Ward Attack Range or +1% Target Max Health Voodoo Restoration Heal significantly boosts teamfight presence or sustain. Power Spike 4 (Level 25): Talent choice of +40 Death Ward Damage or -6.0s Paralyzing Cask Cooldown provides massive late-game damage or crowd control uptime.",
+    "search_text": "Witch Doctor power spikes level 6 Death Ward 60 damage 600 range level 12 Death Ward 90 damage Aghanims level 20 talent +75 ward range or +1% max health heal level 25 talent +40 ward damage or -6s cask cooldown",
+    "tags": [
+      "WITCH_DOCTOR",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Witch Doctor is countered by heroes with long-range stuns or silences that can interrupt his channeled Death Ward (e.g., Skywrath Mage, Silencer). Heroes with high burst damage can kill him before he activates Voodoo Restoration. Heroes with illusions or summons (e.g., Phantom Lancer, Chaos Knight) can be problematic if he lacks the Cleft Death facet, as they can soak up Paralyzing Cask bounces and block Death Ward attacks. Instant hex or Orchid Malevolence prevents all his spellcasting.",
+    "search_text": "Witch Doctor counters hard counters interrupt Death Ward channel stun silence Skywrath Mage Silencer burst damage kill before Voodoo Restoration illusions Phantom Lancer Chaos Knight block cask block ward instant hex Orchid Malevolence",
+    "tags": [
+      "WITCH_DOCTOR",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Aghanim's Scepter is the core item, making Death Ward bounce between enemies and providing lifesteal. Glimmer Cape or Force Staff are essential for positioning and saving yourself or allies to get a full-duration Death Ward channel. Arcane Boots are crucial to sustain his high mana costs, especially for Voodoo Restoration.",
+    "search_text": "Witch Doctor core build essential items Aghanims Scepter Death Ward bounce lifesteal Glimmer Cape Force Staff positioning save channel Arcane Boots mana sustain Voodoo Restoration",
+    "tags": [
+      "WITCH_DOCTOR",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Witch Doctor's role is to position safely and channel his full-duration Death Ward. Use Paralyzing Cask (20.0/18.0/16.0/14.0 sec cooldown, 55/70/85/100 damage) to stun multiple enemies and initiate or counter-initiate. Apply Maledict (12.0 sec duration, 16/24/32/40 bonus damage per 100 HP lost) on key targets to amplify team damage. Keep Voodoo Restoration active (20/30/40/50 heal per 0.33s) to sustain your frontline. Your goal is to control the fight with Cask and deal massive damage with your ultimate.",
+    "search_text": "Witch Doctor teamfight role position channel Death Ward Paralyzing Cask stun multiple 55 70 85 100 damage Maledict 12s duration 16 24 32 40 bonus damage per 100 HP lost amplify damage Voodoo Restoration heal 20 30 40 50 per 0.33s sustain",
+    "tags": [
+      "WITCH_DOCTOR",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Q - Paralyzing Cask: Launches a cask that ricochets between enemy units, stunning and damaging them. It has a 20.0/18.0/16.0/14.0 second cooldown, deals 55/70/85/100 base damage, and increases damage by 20 each bounce. It bounces 3/4/5/6 times, with a 575 bounce range and a 0.1 second bounce delay. Stun duration is 0.8 seconds on heroes and creeps. The stun does NOT pierce BKB. It can hit the same target multiple times if it bounces off another unit in between.",
+    "search_text": "Paralyzing Cask Q stun ricochet bounce damage 55 70 85 100 bonus 20 per bounce bounces 3 4 5 6 bounce range 575 bounce delay 0.1 cooldown 20 18 16 14 hero duration 0.8 creep duration 0.8 does not pierce BKB",
+    "tags": [
+      "WITCH_DOCTOR",
+      "ABILITY_DATA",
+      "STUN",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "W - Voodoo Restoration: A toggleable ability that heals nearby allied units for 20/30/40/50 health every 0.33 seconds, costing 9/12/15/18 mana per second. It has a radius of 500/550/600/650. The heal can affect Spell Immune units. It does not deal damage in its base form.",
+    "search_text": "Voodoo Restoration W toggle heal allies 20 30 40 50 per 0.33s mana cost 9 12 15 18 per second radius 500 550 600 650 heals spell immune units no damage",
+    "tags": [
+      "WITCH_DOCTOR",
+      "ABILITY_DATA",
+      "HEAL",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "E - Maledict: Curses enemies in a 200 radius for 12.0 seconds. Affected units take damage over time and a burst of damage every 4 seconds (3 ticks). The burst damage is 16/24/32/40 bonus damage per 100 HP they have lost since Maledict was cast. If a hero's health increases above the amount they had when Maledict began, the burst damage is 0.",
+    "search_text": "Maledict E curse damage over time burst damage 12 second duration 200 radius ticks 3 burst damage 16 24 32 40 per 100 HP lost bonus damage threshold 100 health increase resets burst to 0",
+    "tags": [
+      "WITCH_DOCTOR",
+      "ABILITY_DATA",
+      "DAMAGE_OVER_TIME",
+      "AMPLIFY"
+    ]
+  },
+  {
+    "display_text": "R - Death Ward: Channels for up to 8.0 seconds, summoning an invulnerable ward that attacks enemy heroes within 600 range. The ward attacks every 0.22 seconds and deals 60/90/120 damage per attack. It has 50% bonus accuracy, meaning it is less likely to miss. The ward is destroyed if Witch Doctor's channeling is interrupted. It does NOT pierce BKB. With Aghanim's Scepter, its attacks bounce between enemies.",
+    "search_text": "Death Ward R ultimate channel 8 seconds ward invulnerable attack range 600 damage 60 90 120 attack speed 0.22 50% bonus accuracy does not pierce BKB Aghanims Scepter bounce lifesteal",
+    "tags": [
+      "WITCH_DOCTOR",
+      "ABILITY_DATA",
+      "CHANNELED",
+      "PHYSICAL_DAMAGE",
+      "ULTIMATE"
+    ]
+  },
+  {
+    "display_text": "Situational: Playing Against Illusion Heroes (e.g., Phantom Lancer). Without the Cleft Death facet, your Paralyzing Cask will waste bounces on illusions and your Death Ward can be body-blocked. Prioritize items like Shiva's Guard for AOE slow and damage, or consider taking the Cleft Death facet if available. Positioning is key to target the real hero with Maledict.",
+    "search_text": "Witch Doctor situational vs illusion heroes Phantom Lancer Chaos Knight cask bounces wasted Death Ward body blocked need AOE Shiva's Guard Cleft Death facet target real hero Maledict",
+    "tags": [
+      "WITCH_DOCTOR",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Situational: Playing from Behind. When your team is losing, you cannot safely channel Death Ward in fights. Focus on defensive utility. Use Paralyzing Cask defensively to stop initiations. Max Voodoo Restoration and build items like Glimmer Cape and Force Staff to save your cores. Avoid showing on the map to get picked off by enemies with gap-close.",
+    "search_text": "Witch Doctor situational playing from behind cannot channel Death Ward defensive play cask defensive stop initiation max Voodoo Restoration Glimmer Cape Force Staff save cores avoid being picked off",
+    "tags": [
+      "WITCH_DOCTOR",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Situational: Vs High Magic Burst Teams. Enemies like Zeus or Lina can kill you before you cast spells. Build survivability items like a Bracer, Magic Wand, and consider a Black King Bar (BKB) or Linken's Sphere later. Use Voodoo Restoration proactively to mitigate poke damage. Position extremely carefully and wait for the enemy to use their key spells before committing with Death Ward.",
+    "search_text": "Witch Doctor situational vs high magic burst Zeus Lina survivability Bracer Magic Wand BKB Linkens Sphere Voodoo Restoration mitigate poke careful positioning wait for enemy cooldowns before Death Ward",
+    "tags": [
+      "WITCH_DOCTOR",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Situational: When Your Team Lacks Lockdown. Your Death Ward and Maledict require enemies to stand still. Build items that provide setup, such as Rod of Atos or even a Scythe of Vyse. Coordinate with allies who have stuns. The Paralyzing Cask stun is crucial, so level it up after Voodoo Restoration to increase its duration and lower its cooldown.",
+    "search_text": "Witch Doctor situational team lacks lockdown Death Ward Maledict need setup Rod of Atos Scythe of Vyse coordinate with ally stuns level up Paralyzing Cask for more stun duration lower cooldown",
+    "tags": [
+      "WITCH_DOCTOR",
+      "SITUATIONAL",
+      "NEEDS_SETUP"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is -25% Voodoo Restoration Mana Per Second. This reduces the mana drain from 9/12/15/18 to approximately 6.75/9/11.25/13.5 per second, significantly improving your mana sustainability for prolonged healing. Right choice is +200 Health. This provides a raw survivability boost, making you harder to burst down. Choose the mana talent if you are having mana issues and want to keep Voodoo Restoration active more often. Choose the health talent if you are dying quickly to physical or magic burst.",
+    "search_text": "Witch Doctor talent level 10 left -25% Voodoo Restoration Mana Per Second mana sustain right +200 Health survivability burst",
+    "tags": [
+      "WITCH_DOCTOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is +2 Paralyzing Cask Bounces. This increases the maximum bounces from 3/4/5/6 to 5/6/7/8, greatly improving its teamfight control and damage potential, especially with the Headhunter facet. Right choice is +4s Maledict Duration. This extends the curse duration from 12.0 to 16.0 seconds, allowing for more damage over time ticks and increasing the window for your team to trigger the burst damage. Choose the Cask talent for more reliable crowd control. Choose the Maledict talent if you can reliably land it on key targets and your team has sustained damage.",
+    "search_text": "Witch Doctor talent level 15 left +2 Paralyzing Cask Bounces more bounces control right +4s Maledict Duration 16 seconds more damage ticks",
+    "tags": [
+      "WITCH_DOCTOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is +75 Death Ward Attack Range. This increases the ward's attack range from 600 to 675, allowing you to channel it from a safer position and hit backline targets. Right choice is +1% Target Max Health Voodoo Restoration Heal. This adds a percentage-based heal to Voodoo Restoration's flat heal, making it extremely powerful against high-HP cores and in the late game. Choose the range talent if you need safety and are the primary damage source. Choose the heal talent if your team needs more sustain and you are facing high-HP enemies.",
+    "search_text": "Witch Doctor talent level 20 left +75 Death Ward Attack Range 675 safe position right +1% Target Max Health Voodoo Restoration Heal percentage heal vs high HP",
+    "tags": [
+      "WITCH_DOCTOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is -6.0s Paralyzing Cask Cooldown. This reduces the cooldown from 14.0 seconds (at max level) to 8.0 seconds, providing extremely frequent stuns and crowd control. Right choice is +40 Death Ward Damage. This increases the ward's damage per attack from 120 to 160, a massive 33% increase in DPS for the full channel duration. Choose the Cask cooldown talent for unparalleled control and setup. Choose the ward damage talent to maximize your physical damage output and quickly delete heroes.",
+    "search_text": "Witch Doctor talent level 25 left -6.0s Paralyzing Cask Cooldown 8 seconds frequent stuns right +40 Death Ward Damage 160 damage high DPS",
+    "tags": [
+      "WITCH_DOCTOR",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

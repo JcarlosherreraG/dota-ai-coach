@@ -1,0 +1,15 @@
+[
+  {
+    "display_text": "Mango Tree, Tier N/A: Consumable that plants a permanent mango tree at target location. The tree provides unlimited mango power, generating one Enchanted Mango (item) every 60 seconds. It also grants unobstructed vision in the area around it. Stats: Mango Spawn Interval: 60s, Vision Radius: Unobstructed.",
+    "search_text": "consumable mango tree, plant tree, vision tree, mango spawn, unlimited mangoes, generate mango, free mango, vision item, unobstructed vision, plant vision, mango power, Mango Tree",
+    "tags": [
+      "ITEM_DATA",
+      "MANGO_TREE",
+      "CORE_DESCRIPTION",
+      "CONSUMABLE",
+      "VISION",
+      "UTILITY",
+      "SUSTAIN"
+    ]
+  }
+]

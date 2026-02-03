@@ -1,0 +1,71 @@
+[
+  {
+    "display_text": "Echo Sabre, Cost: 2700: Provides an Echo Strike passive, causing melee attacks to attack twice in quick succession, applying a 100% movement slow for 0.8 seconds on the first strike. Offers burst damage and a reliable slow for ganking and chasing. Stats: CD: 5s, Slow: 100% for 0.8s.",
+    "search_text": "double attack item, melee double hit, slow on hit, echo strike, melee attack modifier, attack twice, proc slow, ganking item, chase item, burst damage, echo sabre, echo",
+    "tags": [
+      "ITEM_DATA",
+      "ECHO_SABRE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SLOW",
+      "PHYSICAL_DAMAGE",
+      "UTILITY",
+      "ATTACK_MODIFIER"
+    ]
+  },
+  {
+    "display_text": "Echo Sabre, Cost: 2700: Provides +15 Strength, +20 Damage, and +1.75 Mana Regeneration. A balanced mid-game item offering survivability, right-click damage, and mana sustain. Stats: STR: +15, DMG: +20, MP Regen: +1.75.",
+    "search_text": "echo sabre stats, strength damage mana regen, melee stats, mid game stats, strength item, mana regen item, damage item, Echo Sabre",
+    "tags": [
+      "ITEM_DATA",
+      "ECHO_SABRE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "DAMAGE",
+      "MANA_REGEN",
+      "SUSTAIN",
+      "HEALTH"
+    ]
+  },
+  {
+    "display_text": "Echo Sabre, Cost: 2700: Enhances melee heroes with instant double-hit burst and a potent movement slow for initiation and lockdown. The guaranteed slow aids in catching mobile targets and securing follow-up attacks or spells for your team.",
+    "search_text": "team fight melee, initiation slow, lockdown item, catch tool, slow utility, melee support, chase lockdown, Echo Sabre",
+    "tags": [
+      "ITEM_DATA",
+      "ECHO_SABRE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "INITIATION",
+      "CATCH",
+      "LOCKDOWN",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Echo Sabre, Cost: 2700: Ideal for strength-based melee cores who benefit from health, damage, and mana, and whose kits synergize with the double-attack slow for locking down targets (e.g., Sven, Tiny, Slardar). The slow helps secure stuns and combos.",
+    "search_text": "strength melee core, sven item, tiny item, slardar item, double hit slow, proc synergy, strength carry, mana regen core, Echo Sabre",
+    "tags": [
+      "ITEM_DATA",
+      "ECHO_SABRE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "STRENGTH_HERO",
+      "MELEE_HERO"
+    ]
+  },
+  {
+    "display_text": "Echo Sabre, Cost: 2700: The instant slow combats heroes reliant on high mobility and positioning to escape. It provides a soft counter to elusive, kite-focused heroes by applying a near-root effect, forcing them to use mobility spells defensively.",
+    "search_text": "counter mobility, vs mobility, vs kite, slow counter, chase counter, lock down mobile hero, vs escape, Echo Sabre",
+    "tags": [
+      "ITEM_DATA",
+      "ECHO_SABRE",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_MOBILITY",
+      "SLOW",
+      "UTILITY"
+    ]
+  }
+]

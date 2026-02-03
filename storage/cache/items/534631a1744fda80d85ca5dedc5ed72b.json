@@ -1,0 +1,15 @@
+[
+  {
+    "display_text": "Keen-eyed. Enhancement: Provides +125 / +135 cast range and +1 / +1.5 mana regeneration at the cost of reducing maximum mana by 10%. This is a purely stat-modifying effect with no active ability or cooldown, designed to enhance the range and mana sustain of spellcasting heroes. Stats: Cast Range: +125/135, Mana Regen: +1/1.5, Max Mana Reduction: 10%.",
+    "search_text": "keen eyed, enhancement, cast range increase, mana regeneration, mana reduction, neutral item, stat modifier, range boost, mana boost, utility item, Keen-eyed",
+    "tags": [
+      "ITEM_DATA",
+      "KEEN_EYED",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "ENHANCEMENT",
+      "UTILITY",
+      "STAT_BOOST"
+    ]
+  }
+]

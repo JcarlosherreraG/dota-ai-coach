@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "name": "npc_dota_hero_ember_spirit",
+    "level": 18,
+    "health": 1600,
+    "max_health": 1600,
+    "mana": 900,
+    "max_mana": 900,
+    "alive": true
+  },
+  "items": {
+    "slot0": { "name": "item_phase_boots" },
+    "slot1": { "name": "item_maelstrom" },
+    "slot2": { "name": "item_black_king_bar" },
+    "slot3": { "name": "item_empty" },
+    "slot4": { "name": "item_empty" }
+  },
+  "user_context": "Играю против Huskar и Necrophos. Мы вносим кучу урона, но Хускар постоянно отхиливается сатаником и пассивкой, а Некр хилит команду. Драки бесконечные.",
+  "user_question": "Они хилятся как бешеные. Какой предмет купить, чтобы они перестали регениться?"
+}

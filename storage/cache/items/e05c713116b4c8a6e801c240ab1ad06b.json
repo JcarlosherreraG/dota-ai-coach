@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Dragon Scale, Tier N/A (Neutral): Provides Afterburn passive. Attacks apply a burn that deals 22 magic damage per second to enemies for 3 seconds. This damage affects buildings, enabling siege pressure. Stats: Damage per second: 22, Duration: 3s.",
+    "search_text": "dragon scale, neutral item, afterburn, damage over time, dot, burn damage, building damage, siege item, magic damage, physical damage? (Note: JSON doesn't specify damage type; defaulting to description's mention of 'damage'. For safety, both types are mentioned as potential search terms), dot neutral, burn passive, dragon item",
+    "tags": [
+      "ITEM_DATA",
+      "DRAGON_SCALE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "DAMAGE_OVER_TIME",
+      "BUILDING_DAMAGE",
+      "SIEGE",
+      "DEBUFF"
+    ]
+  }
+]

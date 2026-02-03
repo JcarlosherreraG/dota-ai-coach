@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Defiant Shell, Tier 2: Neutral item providing Reciprocity passive. When the holder is attacked, they counter-attack a target within their attack range for 80% of their regular attack damage. Enables retaliatory damage during skirmishes and trades. Stats: Counter Damage: 80%, Cooldown: 5s.",
+    "search_text": "defiant shell, tier 2 neutral, counter attack, retaliate, reciprocity, thorns, return damage, attack on hit, defensive offense, neutral item, neutral tier 2, damage return, Defiant Shell",
+    "tags": [
+      "ITEM_DATA",
+      "DEFIANT_SHELL",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_2",
+      "DAMAGE",
+      "DEFENSIVE",
+      "PASSIVE"
+    ]
+  }
+]

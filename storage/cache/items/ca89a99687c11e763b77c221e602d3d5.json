@@ -1,0 +1,73 @@
+[
+  {
+    "display_text": "Tranquil Boots, Cost: 900: Grants a bonus 65 movement speed and 14 health regeneration, but both benefits are reduced after attacking or being attacked by a hero (movement speed drops to 40, regen is lost) for 13 seconds. Provides a burst heal of 250 HP on activation when not broken. Essential for roaming supports and heroes needing constant movement across the map without committing to fights. Stats: CD: 13s, Passive MS: +65, Passive HP Regen: +14, Heal: 250 HP.",
+    "search_text": "tranquil boots, movement speed boots, healing boots, roaming boots, support boots, sustain item, out of combat regen, passive regen, lane sustain, breakable boots, tranqs, hp regen boots, broken tranquils, Tranquil Boots",
+    "tags": [
+      "ITEM_DATA",
+      "TRANQUIL_BOOTS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MOBILITY",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "SUPPORT_ITEM",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Tranquil Boots, Cost: 900: Provides no damage or armor, focusing purely on out-of-combat utility. Stats are movement speed and health regeneration. The value lies in its passive sustain and mobility, making it gold-efficient for non-combat roles. Stats: MS: +65, HP Regen: +14.",
+    "search_text": "tranquil boots stats, tranquils stats, support item stats, no armor boots, utility boots, movement speed item, regen item, Tranquil Boots",
+    "tags": [
+      "ITEM_DATA",
+      "TRANQUIL_BOOTS",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "MOBILITY",
+      "REGEN",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Tranquil Boots, Cost: 900: Primarily a sustain and repositioning tool for supports and roamers, not a team fight item. Its primary role is to keep heroes healthy and mobile between skirmishes, enabling better ward placement, rotations, and escape after taking damage. The break mechanic discourages aggressive trading while equipped.",
+    "search_text": "tranquil boots role, support sustain, roamer sustain, out of combat utility, repositioning boots, healing between fights, ward placement, rotation item, Tranquil Boots",
+    "tags": [
+      "ITEM_DATA",
+      "TRANQUIL_BOOTS",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "SUPPORT_ITEM",
+      "MOBILITY",
+      "REGEN",
+      "UTILITY",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Tranquil Boots, Cost: 900: Ideal for position 4 and 5 supports who need to move quickly to place wards, stack camps, and rotate without relying on salves. The burst heal activation provides crucial survivability after escaping a gank. Best purchased early to maximize lane presence and map movement efficiency.",
+    "search_text": "tranquil boots support, pos 4 boots, pos 5 boots, warding boots, stacking boots, rotation boots, early game boots, support early item, Tranquil Boots",
+    "tags": [
+      "ITEM_DATA",
+      "TRANQUIL_BOOTS",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "SUPPORT_ITEM",
+      "EARLY_GAME",
+      "MOBILITY",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Tranquil Boots, Cost: 900: Strong choice against heroes that rely on attrition damage and harassment in lane, as the passive regen offsets chip damage. Weak against burst damage or heroes that force constant combat, as the break condition will frequently disable the core benefits.",
+    "search_text": "tranquil boots vs harassment, counter attrition, lane sustain vs harass, weak vs burst, combat boots alternative, break condition, Tranquil Boots",
+    "tags": [
+      "ITEM_DATA",
+      "TRANQUIL_BOOTS",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_PHYSICAL",
+      "SUSTAIN",
+      "VS_HARASS",
+      "WEAK_VS_BURST"
+    ]
+  }
+]

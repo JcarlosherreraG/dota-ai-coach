@@ -1,0 +1,42 @@
+[
+  {
+    "display_text": "Bottle, Cost: 675: Restores 110 health and 60 mana over 2.7 seconds. Comes with 3 charges. Regeneration is interrupted if the user is attacked by an enemy hero or Roshan. Can be refilled at the fountain and can store Runes for later use, which fully refill it upon activation. Shareable with allies. Stats: CD: Instant Cast, Total Heal: 110, Total Mana: 60, Duration: 2.7s, Charges: 3.",
+    "search_text": "bottle, regen bottle, lane sustain, mana bottle, health bottle, restore item, early game sustain, rune bottle, bottle charges, bottle refill, bottle rune storage, fountain refill, Bottle, shareable bottle, mid bottle",
+    "tags": [
+      "ITEM_DATA",
+      "BOTTLE",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "MANA",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Bottle, Cost: 675: Core mid-lane sustain item, allowing heroes to stay in lane and control rune timings. Efficient for recovering between skirmishes and trades. Essential for securing power runes and mana management for early spells. The ability to share with allies enhances its value in dual lanes or to support the mid laner.",
+    "search_text": "mid lane bottle, early game bottle, mid sustain, rune control, lane sustain item, bottle timing, bottle mid, early mana sustain, starting bottle, Bottle",
+    "tags": [
+      "ITEM_DATA",
+      "BOTTLE",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "LANING",
+      "SUSTAIN",
+      "MID_ITEM"
+    ]
+  },
+  {
+    "display_text": "Bottle, Cost: 675: Stored runes (like Haste or Double Damage) refill the bottle and provide instant power spikes. Use charges proactively before being harassed out of lane. Timing usage to avoid enemy hero damage is critical to maximize healing efficiency. Prioritize refilling during downtime or by courier delivery.",
+    "search_text": "bottle rune, rune storage, bottle regen timing, avoid damage regen, charge management, refill bottle, courier bottle, power rune bottle, Bottle",
+    "tags": [
+      "ITEM_DATA",
+      "BOTTLE",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "UTILITY",
+      "TIMING"
+    ]
+  }
+]

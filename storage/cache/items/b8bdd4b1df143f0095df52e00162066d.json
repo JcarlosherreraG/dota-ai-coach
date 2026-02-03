@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Miniboss Minion Summoner, Tier: Artifact: Summons a powerful miniboss minion with protective abilities for 20 seconds. The minion creates a 900 radius aura that grants allies within range a damage-absorbing barrier, reflecting 40% of incoming damage back to attackers. Minions disappear after 120 seconds without taking damage. Stats: CD: 40s, Duration: 20s, Max Barrier HP%: 40%, Owner Barrier HP%: 25%, Barrier Regen Time: 2s, Barrier Decay Time: 1s, Damage Reflection: 40%, Damage CD: 1.5s.",
+    "search_text": "miniboss summon, minion summoner, protective aura, barrier item, damage reflection item, defensive summon, team fight protection, area shield, ally shield, damage absorb, reflect damage, protective minion, defensive neutral, artifact neutral, artifact item, Miniboss Minion Summoner",
+    "tags": [
+      "ITEM_DATA",
+      "MINIBOSS_MINION_SUMMONER",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "ARTIFACT",
+      "SUMMON",
+      "BARRIER",
+      "DAMAGE_REFLECTION",
+      "AURA",
+      "DEFENSIVE",
+      "TEAM_PROTECTION",
+      "SAVE",
+      "UTILITY",
+      "VS_PHYSICAL"
+    ]
+  }
+]

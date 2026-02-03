@@ -1,0 +1,73 @@
+[
+  {
+    "display_text": "Veil of Discord, Cost: 1725: Cast a 900 radius blast that causes affected enemy heroes to take 10% increased magic damage from spells for 16 seconds. Can be cast while channeling other abilities. An offensive aura item designed to amplify spell damage from your team. Stats: CD: 16s, Mana Cost: 50, Duration: 16s, Debuff Radius: 900.",
+    "search_text": "magic amplification item, spell amp item, magic damage boost, intelligence item, magic resistance reduction, increase magic damage, teamfight magic aura, veil, magic vulnerability, spell vulnerability, magic weakness, team damage amp, magic debuff item, Veil of Discord",
+    "tags": [
+      "ITEM_DATA",
+      "VEIL_OF_DISCORD",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MAGIC_AMPLIFICATION",
+      "AOE",
+      "DEBUFF",
+      "TEAM_UTILITY",
+      "SPELL_AMP"
+    ]
+  },
+  {
+    "display_text": "Veil of Discord, Cost: 1725: Stat profile: +4 to all Attributes, +4 Armor, +4.5 Health Regeneration, +10% Spell Amplification. Provides well-rounded survivability for intelligence heroes with health regeneration, armor, and base stats. Stats: All Stats: +4, Armor: +4, HP Regen: +4.5, Spell Amp: +10%.",
+    "search_text": "veil stats, magic amp stats, spell amp, all stats item, armor item, hp regen item, intelligence stats, survivability item, Veil of Discord",
+    "tags": [
+      "ITEM_DATA",
+      "VEIL_OF_DISCORD",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "REGEN",
+      "ARMOR",
+      "ATTRIBUTES",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Veil of Discord, Cost: 1725: Teamfight role is spell damage amplifier. The area-of-effect debuff makes enemy heroes more vulnerable to all subsequent magical damage, synergizing strongly with allied magic nukers. It enhances the output of magical burst combos and sustained spell damage from your team.",
+    "search_text": "spell amp aura, team magic damage, magic debuff, damage amp teamfight, magic teamfight item, aoe spell amp, combo damage increase, teamfight utility item, magic amplification aura, Veil of Discord",
+    "tags": [
+      "ITEM_DATA",
+      "VEIL_OF_DISCORD",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "TEAM_UTILITY",
+      "AURA",
+      "BUFF",
+      "MAGIC_AMPLIFICATION"
+    ]
+  },
+  {
+    "display_text": "Veil of Discord, Cost: 1725: Synergizes with heroes who deal significant magical or area-of-effect damage, such as Zeus, Leshrac, or Puck. It is a core item for magic damage cores and some supports looking to scale their team's magical output. The stats provide good survivability for its cost.",
+    "search_text": "veil build, magic core item, spell damage hero item, intelligence core, magic damage synergy, spell amp build, magic damage timing, intelligence nuker item, Veil of Discord",
+    "tags": [
+      "ITEM_DATA",
+      "VEIL_OF_DISCORD",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INTELLIGENCE_ITEM",
+      "MAGIC_DAMAGE",
+      "CORE_ITEM",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Veil of Discord, Cost: 1725: Situational vs high-magic-resistance lineups. The magic amplification debuff helps pierce naturally high magic resistance on heroes like Visage or Anti-Mage, or from items like Hood of Defiance. It amplifies the base magic damage before resistance is applied.",
+    "search_text": "counter magic resistance, magic resist counter, pierce magic resist, magic vulnerability item, vs magic armor, magic amp vs resistance, vs hood, vs pipe, Veil of Discord",
+    "tags": [
+      "ITEM_DATA",
+      "VEIL_OF_DISCORD",
+      "SITUATIONAL_VS_MAGIC",
+      "FULL_ITEM",
+      "VS_MAGIC_RESISTANCE",
+      "MAGIC_AMPLIFICATION",
+      "COUNTER"
+    ]
+  }
+]

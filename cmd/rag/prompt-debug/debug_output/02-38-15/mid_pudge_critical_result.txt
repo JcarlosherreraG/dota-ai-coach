@@ -1,0 +1,237 @@
+FILE: mid_pudge_critical.json
+QUESTION: Меня быстро убивают магией. Какой предмет купить, чтобы выжить?
+GENERATION TIME: 1.59s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, VS_DISABLE] | Mirror Shield VS_MAGIC: Counters heroes reliant on single-target spells for lockdown or burst damage (e.g., Lion's Hex, Skywrath Mage's Mystic Flare). The 12-second cooldown requires timing against enemy initiation cycles. Stats: Block/Reflect Cooldown: 12 seconds, Reflection Chance: 75%.
+---
+[TAGS: ITEM_DATA, CLOAK, FULL_ITEM, SYNERGY_BUILD, VS_MAGIC, COMPONENT, UPGRADE] | Cloak, Cost: 800: Situational against teams with heavy magic damage output from multiple heroes. Often purchased early to counter aggressive spellcasting laners. Builds into higher-tier magic defense items like Hood of Defiance or Pipe of Insight for even greater protection.
+---
+[TAGS: ITEM_DATA, INFUSED_RAINDROPS, CORE_MECHANICS, CONSUMABLE, MAGIC_RESISTANCE, VS_MAGIC, DEFENSIVE, MANA_REGEN, SURVIVAL] | Infused Raindrops, Cost: 225: Consumable item with 6 charges. Each charge blocks 120 magic damage from any damage instance exceeding 75 damage, then is consumed. A crucial defensive tool against early magic nukes, with a 7-second internal cooldown per damage instance. Once all charges are expended, the item is destroyed. Stats: Charges: 6, Magic Block: 120, Minimum Damage Threshold: 75, CD per Proc: 7s.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Nullifier HARD_COUNTERS: Loses value against targets with BKB (spell immunity) as the slow and dispel do not pierce it. Also countered by Linken's Sphere which blocks the initial cast. Stats: Dispel Type: Basic Dispel.
+---
+[TAGS: LINA, HARD_COUNTERS] | Hard counters include heroes with high magic resistance or builds like Pipe of Insight which reduce her magic burst. Instant silences (e.g., Skywrath Mage) or hexes prevent her from using Light Strike Array defensively. Heroes with high mobility or blinks (e.g., Anti-Mage, Queen of Pain) can dodge her delayed Light Strike Array stun. Since Fiery Soul is a passive, Break (e.g., Silver Edge, Hoodwink's Sharpshooter) disables her movement and attack speed bonuses.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SITUATIONAL_VS_MAGIC, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_CONTROL, COUNTER_ITEM] | Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, DEFENSIVE] | Nether Shawl SITUATIONAL_VS_MAGIC: Core pick against lineups that rely heavily on magic damage for burst. The magic resistance directly counters such damage sources. Stats: +20% Magic Resistance.
+---
+[TAGS: Ability, Passive, Resistance, Counter] | Spell Immunity: Grants immunity to most magical spells, making the unit resistant to magic damage and effects.
+---
+[TAGS: Ability, Defense] | 18s Spell Block: Grants extended protection against magical damage, ideal for prolonged engagements. Stats: Duration: 18 seconds
+---
+[TAGS: ITEM_DATA, ASCETIC'S_CAP, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SURVIVAL, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, VS_SLOW] | Ascetic's Cap, Cost: 0: Neutral item. Provides a passive effect that grants 40% Status resistance and 40% Slow Resistance for 3 seconds whenever a debuff would be applied to the owner. This makes the user temporarily more resilient to stuns, slows, and other negative effects. Stats: Status Resistance: 40%, Slow Resistance: 40%, Duration: 3s.
+---
+[TAGS: ITEM_DATA, WRAITH_BAND, FULL_ITEM, SITUATIONAL_VS_PHYSICAL, ARMOR, DEFENSIVE, SURVIVAL, LANING] | Wraith Band, Cost: 505: Offers minor but efficient defensive scaling against physical damage through +1.75 armor and +2 Strength (38 HP). This makes it a cost-effective early pickup for trading hits in lane and surviving ganks, particularly for squishy agility cores.
+---
+[TAGS: Ability, Survival, Heal, Disjoint] | Dig: Makes Meepo invulnerable and untargetable while restoring health, useful for escaping or surviving burst. Stats: Duration: 3s, HP Restore: 25%
+---
+[TAGS: ITEM_DATA, ABYSSAL_BLADE, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_CONTROL, BKB_PIERCE, DISABLE, LOCKDOWN, COUNTER_ITEM, LATE_GAME] | Abyssal Blade, Cost: 6250: Situationally built against heroes reliant on spell immunity (Black King Bar) or escape mechanisms that provide debuff immunity. The active 'Overwhelm' stun pierces these immunities, making it a key counter-item for locking down elusive or magic-immune cores who are otherwise difficult to control. Directly counters the defensive power of BKB in the late game.
+---
+[TAGS: Ability, Defensive, Status Resistance] | Status Resistance Bonus: Reduces the duration of negative status effects. Stats: Status Resistance: 10%
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, DEFENSIVE] | Vambrace SITUATIONAL_VS_MAGIC: Swapping to Strength grants +10% Magic Resistance, providing a significant defensive boost against magic-damage-heavy lineups or key spells. This effect stacks additively with other sources of magic resistance. It is an instant, on-demand way to increase survivability against burst magic damage without a cooldown cost. Stats: Bonus Magic Resistance: +10%.
+---
+[TAGS: Ability, Magic Resistance, Immunity] | Magic Resistance (100%): Grants complete immunity to magical damage, countering spell-reliant enemies. Stats: Magic Resistance: 100%
+---
+[TAGS: MEEPO, SITUATIONAL] | Against heroes with strong AoE disables like Magnus or Enigma, keep your clones spread out to avoid being caught together. Buy Black King Bar on the main Meepo to allow him to initiate safely. Consider Linken's Sphere for key single-target spells.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, MAGIC_AMP] | Parasma Recipe SITUATIONAL_VS_MAGIC: Building this recipe is part of a strategy to counter heroes with high magic resistance or to amplify your team's overall magical burst damage through the finished Parasma's debuff. Stats: Cost: 400 gold.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, SPELL_AMPLIFICATION, MANA] | Staff of Wizardry VS_MAGIC: The intelligence stat increases mana capacity and spell damage, making it a core purchase for heroes who need to sustain magic damage output against opponents. Stats: +10 Intelligence.
+---
+[TAGS: ITEM_DATA, ETERNAL_SHROUD, SITUATIONAL_VS_MAGIC, FULL_ITEM, VS_MAGIC, MAGIC_RESISTANCE, COUNTER_ITEM, DEFENSIVE] | Eternal Shroud, Cost: 3700: Situational counter against heavy magic damage lineups. Extremely effective against teams with 2-3 core magical nukers or sustained spell damage. The scaling resistance directly counters attempts to burst the user down with spells, making it a prime purchase when facing heroes like Zeus, Leshrac, or Queen of Pain. Less effective against teams dominated by physical damage.
+---
+[TAGS: LINA, BASE_STATS] | Lina is a ranged intelligence hero with base 30 Intelligence, 23 Agility, and 20 Strength. She has a base attack time of 1.6 seconds. Compared to average heroes, she has low starting health due to average strength but benefits from high starting intelligence for mana.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, CORE_ITEM] | Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, DEFENSIVE] | Unwavering Condition VS_MAGIC: Provides near-total immunity to magic damage, making it a direct counter to nuke-heavy lineups and intelligence cores. Stats: Magic Resistance: +95%.
+---
+[TAGS: abilities, defense, magic resistance] | Magic Resistance Bonuses: Provides increased survivability against magic damage. Stats: Resistance: 5% to 80%
+---
+[TAGS: Abaddon, Ability, Survival] | Borrowed Time: Transforms incoming damage into healing, enabling survival in critical situations. Stats: Duration: 4/5/6s, Health Threshold: 400, Cooldown: 90/85/80s
+---
+[TAGS: ITEM_DATA, RING_OF_PROTECTION, FULL_ITEM, SYNERGY_BUILD, COMPONENT, UTILITY, SUPPORT_ITEM, CARRY_ITEM] | Ring of Protection, Cost: 175: Synergizes with core items that benefit from armor stacking (e.g., Aquila, Vanguard builders) and heroes with low base armor. A cost-effective first purchase for supports seeking to survive early skirmishes or for agility carries building into Ring of Basilius.
+---
+[TAGS: ITEM_DATA, ELUSIVE, CORE_DESCRIPTION, NEUTRAL, EVASION, MOBILITY, SURVIVAL, DEFENSIVE, UTILITY] | Elusive, Tier Neutral: Neutral item providing +25 Movement Speed and +35 Evasion. A basic movement and defensive utility item found in the jungle. No active abilities. Stats: MS: +25, Evasion: +35.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: Ability, No Target, Survivability] | Unfettered: Temporarily increases resistance to spells and status effects, enhancing survivability. Stats: Duration: 4/5/6/7, Magic Resistance: 60%, Status Resistance: 60%.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, COUNTER_MAGIC] | Searing Signet VS_MAGIC: Counter-pick against magic-heavy lineups; any spell dealing over 55 damage triggers the burn, punishing low-magic-resistance heroes. However, it is countered by magic immunity and spell resistance. Stats: Damage Type: Magic, Damage Threshold: 55.
+---
+[TAGS: Dazzle, Heal, Survival] | Heal On Shallow Grave End: Provides 200 healing when Dazzle's Shallow Grave ends. Stats: Heal: 200
+---
+[TAGS: Dazzle, Cooldown, Survival] | Shallow Grave Cooldown: Reduces Dazzle's Shallow Grave cooldown by 4 seconds. Stats: Cooldown Reduction: 4s
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: ITEM_DATA, LINKENS_SPHERE, CORE_MECHANICS, FULL_ITEM, SAVE, DEFENSIVE, VS_CONTROL, UTILITY] | Linken's Sphere, Cost: 4800: A defensive item with Spellblock, a passive ability that automatically blocks most targeted spells once every 14 seconds. Its active, Transfer Spellblock, can remove the passive from the owner and grant it to an allied hero for 14 seconds, creating flexible defensive plays. This allows it to either self-protect a key carry or save a vulnerable ally from a critical disable. Stats: CD: 14s, Block Cooldown: 14s, Transfer Duration: 14s.
+---
+[TAGS: Roshan, Ability, Survivability, Magic Resistance] | Spell Block: Provides passive spell immunity, enhancing Roshan's survivability against magic damage. Stats: Cooldown: 15
+---
+[TAGS: LINA, SITUATIONAL, FROM_BEHIND] | Scenario: Playing from Behind. When your team is losing, focus on defensive positioning and wave clear with Dragon Slave (low 8s cooldown with talent) to stall pushes. Build utility/survival items like Eul's Scepter for self-dispel and setup, or Aether Lens for safer casting range. Use Light Strike Array defensively to stop initiations. Your Combustion can still deal significant damage in teamfights even if you are not the primary target.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, STAT_PROFILE, FULL_ITEM, HEALTH, DAMAGE, STRENGTH, SURVIVAL] | Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.
+---
+[TAGS: ITEM_DATA, RECIPE_BLACK_KING_BAR, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Black King Bar Recipe. Cost: 1450: Component required to assemble Black King Bar. Does not provide stats or abilities.
+---
+[TAGS: STRATEGY, Lina, ITEM_BUILD, SITUATIONAL] | Lina Situational: Buy Black King Bar against heavy stuns or silences. Consider Scythe of Vyse for extra disable or Shard for Flame Cloak against physical damage dealers.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: Ability, Defense] | 20s Spell Block: Offers maximum spell immunity, crucial for enduring heavy magical assaults. Stats: Duration: 20 seconds
+---
+[TAGS: Ability, Status Resistance, Resilience] | Defense Matrix Status Resistance: Increases resilience against disabling effects. Stats: Status Resistance: +{bonus_status_resistance}%
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Elusive HARD_COUNTERS: The evasion is countered by items and abilities providing True Strike (e.g., Monkey King Bar, Bloodthorn, certain hero spells), which completely negate its defensive benefit.
+---
+[TAGS: ITEM_DATA, MARTYRS_PLATE, SITUATIONAL_VS_MAGIC, NEUTRAL, VS_MAGIC, DEFENSIVE, MAGIC_RESISTANCE] | Cost: 0: Situational pick against magic-heavy enemy teams, where redirecting burst away from your key heroes can be game-winning. The innate magic resistance bonus further increases your survivability in these scenarios. Stats: Magic Resist: +25%, Damage Redirection: 25%.
+---
+[TAGS: Sustain, Survivability] | Special Bonus Lifesteal 100%: Provides extreme survivability through damage conversion. Stats: Lifesteal: 100%
+---
+[TAGS: Ability, Stat, Survivability] | Status Resistance: Enhances survivability by reducing the duration of debuffs. Stats: Status Resistance: 15%/20%/25%
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: BEASTMASTER, SITUATIONAL, VS_MAGIC_BURST] | Scenario: Enemy has Strong Spell Casters/Burst. Build a Black King Bar to ensure you can get your Primal Roar off without being interrupted by disables. Consider a Hood of Defiance into Pipe of Insight for magic resistance for you and your team. The +250 Health talent at level 20 provides effective HP against magic damage.
+---
+[TAGS: Ursa, Abilities, Survivability] | Ursa Enrage: Grants massive survivability and debuff resistance, making Ursa harder to kill. Stats: Damage Reduction: 80%, Status Resistance: 50%, Duration: 4/4.5/5
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, PASSIVE, UTILITY, SLOW_RESIST] | Unrelenting Eye CORE_MECHANICS: Provides bonus slow resistance that scales with enemy proximity, functioning as a counter-initiation tool against area slows and kiting. The passive ability reduces enemy control by making the wearer harder to pin down in teamfights. Stats: Cost: 0 gold, Increases slow resistance by 50%. This bonus is reduced by 10% for every enemy hero within the wearer's attack radius.
+---
+[TAGS: LINA, ABILITY_DATA, E, PASSIVE] | Ability: Fiery Soul (E) (Passive). Grants bonus attack and movement speed each time Lina hits an enemy with a spell. Each stack grants 8/16/24/32 attack speed and 1.0%/1.5%/2.0%/2.5% movement speed. Stacks up to 7 times. Each stack lasts 18 seconds, and duration refreshes with each new spell hit. Using items does not trigger this.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, VS_MAGIC_IMMUNITY] | Warhammer HARD_COUNTERS: Spell immunity (BKB) prevents the debuff application. Basic dispels can remove the armor reduction effect. Ineffective against magic-immune cores. Stats: Target: Enemy Hero/Basic, Cooldown: 20 seconds.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: Ability, Passive, Resistance] | Insurmountable: Grants Tiny resistance to slows and status effects based on Strength. Stats: Strength to Slow Resistance: 20%, Strength to Status Resistance: 10%.
+---
+[TAGS: STRATEGY, Lina, WEAKNESS] | Lina Weakness: Vulnerable to burst damage, silence, and Break mechanics that disable Fiery Soul. Heroes with gap-closing abilities or magic immunity can easily shut her down.
+---
+[TAGS: STRATEGY, Lina, TIMING] | Lina Power Spike: Lina peaks at Level 6 with Laguna Blade unlocked, and again at Level 12-15 with major talent upgrades. She also spikes with key items like Eul's Scepter and Aghanim's Scepter, enabling burst potential.
+---
+[TAGS: LINA, ABILITY_DATA, E, INNATE] | Ability: Combustion (E) (Innate). Every 175 damage Lina does to an enemy hero causes them to overheat, dealing 15/35/55/75 magic damage to their nearby allies in a 400 AoE. This effect can trigger multiple times from a single damage instance. Overheated illusions deal only 10/15/20/25 damage per proc. The debuff lasts 6 seconds.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, DISPELLABLE, NO_BKB_PIERCE] | Orb of Corrosion HARD_COUNTERS: The Corrosion effect is dispellable, meaning items like Manta Style or abilities with basic dispels can remove all debuffs (slow, armor reduction, heal reduction). Its effectiveness is limited against heroes who naturally build dispels or have innate magic resistance/status resistance. The effect does not pierce Spell Immunity. Stats: Dispellable: Yes, Does Not Pierce BKB.
+---
+[TAGS: ITEM_DATA, UNRELENTING_EYE, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, SLOW_RESISTANCE, STATUS_RESISTANCE, DEFENSIVE, SURVIVAL] | Unrelenting Eye, Tier 3 Neutral: Provides the Relentless passive, granting 50% slow resistance. This resistance decreases by 10% for each enemy hero within your attack range. A situational defensive tool that is most effective when you are isolated or separated from enemies. Stats: Max Slow Resistance: 50%, Reduction per Enemy Hero: 10%.
+---
+[TAGS: Ability, Survivability, Debuff] | Enrage Status Resistance: Enhances Ursa’s survivability by reducing the duration of debuffs during Enrage. Stats: Status Resistance: [Bonus Value]%
+---
+[TAGS: Lina, Passive, Scaling] | special_bonus_unique_lina_8: Spells deal bonus damage per Fiery Soul charge. Tactical purpose: Rewards spell combos with escalating damage potential.
+---
+[TAGS: Ability, Magic Immunity, Piercing] | Whirling Axes: Allows piercing magic immunity for uninterrupted damage.
+---
+[TAGS: STRATEGY, Lina, TEAMFIGHT] | Lina Teamfight: Stay in the backline, using Light Strike Array for control and Laguna Blade to burst priority targets. Focus on positioning to avoid getting focused down.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, MANA_DEPENDENT] | Mantle of Intelligence SITUATIONAL_VS_MAGIC: Intelligence boost aids mana-dependent heroes against magic-heavy lanes by allowing more frequent spell usage for counters or sustain. Stats: +3 Intelligence.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, VS_PHYSICAL] | Pupil's Gift SITUATIONAL_VS_[TYPE]: This stat boost is generally effective against all damage types (physical and magical) by increasing the hero's base health and mana. It provides a balanced defensive layer without specializing against any specific threat.
+---
+[TAGS: ITEM_DATA, MYSTICAL, CORE_DESCRIPTION, NEUTRAL, UPGRADE, MANA_REGEN, MANA, SUSTAIN, VS_MAGIC, MAGIC_RESISTANCE, CAST_RANGE, UTILITY] | Mystical, Tier ?: Enhancement item providing bonus mana regeneration (0.8 / 1.6 / 2.4 / 3.2) and bonus magic resistance (0% / 10% / 13% / 16%). The highest tier (Level 4) also grants +100 cast range. A mid-to-late game upgrade that scales mana sustain and magical survivability for caster-oriented heroes. Stats: Tier: ?, Mana Regen: 0.8-3.2, Magic Resist: 0-16%, Cast Range (T4): +100.
+---
+[TAGS: ITEM_DATA, PHOENIX_ASH, CORE_DESCRIPTION, NEUTRAL, SAVE, DEFENSIVE, ESCAPE, SURVIVAL, HEALING, COOLDOWN_RESET, PASSIVE] | Phoenix Ash. Tier unknown / Event/Neutral item: Grants a single-use passive that prevents lethal damage, instead healing the wearer to 50% health and resetting non-ultimate ability cooldowns. Consumed on activation. Provides a second chance in critical moments. Stats: Heal: 50% of max health.
+---
+[TAGS: Ability, Survivability, Passive] | Rawhide: Passive ability that scales Centaur's survivability. Gains 25 health every 120 seconds.
+
+=== GAME STATE ===
+Match Time: 22:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: pudge (Lvl 14) | HP: 150/2200 | Mana: 400/900 | Alive: true
+Stats: K/D/A 8/5/12 | Gold: 2100 | LastHits: 80
+Inventory: [item_tranquil_boots, item_magic_wand x15, item_hood_of_defiance, item_tpscroll x1, item_blink (CD), item_aether_lens]
+Abilities: [pudge_meat_hook(Lvl4)[Rdy] | pudge_rot(Lvl4)[Rdy] | pudge_flesh_heap(Lvl3)[NoMana/Silenced] | pudge_dismember(Lvl2)[CD:45s]]
+User Situation Notes: Вражеский пик: Zeus (мид), Skywrath Mage (саппорт), Necrophos (оффлейн). У противников очень сильный магический прокаст. Моя роль — мидер-танкист.
+
+=== USER QUESTION ===
+"Меня быстро убивают магией. Какой предмет купить, чтобы выжить?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Меня быстро убивают магией. Какой предмет купить, чтобы выжить?".**
+========================================
+
+[AI RESPONSE] (2.20s)
+Купи Black King Bar. Он предоставляет магическую иммунитет и защиту от контроля, что поможет тебе выжить против магов. Золота у тебя достаточно, чтобы его купить.

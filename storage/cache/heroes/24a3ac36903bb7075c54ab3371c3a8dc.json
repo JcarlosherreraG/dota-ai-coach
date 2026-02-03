@@ -1,0 +1,248 @@
+[
+  {
+    "display_text": "Drow Ranger is a Ranged agility hero with a base attack rate of 1.7. She has low base strength (16) and intelligence (15), but high starting agility (22). This gives her above-average starting armor and damage, but low health and mana pools. Her attack type and stat spread are typical for a physical damage carry who relies on positioning and kiting.",
+    "search_text": "Drow Ranger base stats ranged agility attack rate 1.7 strength 16 agility 22 intelligence 15 armor health mana",
+    "tags": [
+      "DROW_RANGER",
+      "BASE_STATS",
+      "AGILITY_HERO",
+      "RANGED"
+    ]
+  },
+  {
+    "display_text": "Facet 1 (High Ground) is the default. Facet 2 (Sidestep) allows Drow Ranger to move slowly and use items while channeling Multishot. Sidestep is a high-skill choice for players who need repositioning during Multishot, enabling aggressive channeling or defensive item usage. High Ground is better for static, high-ground defense where the terrain from Glacier provides safety and attack range.",
+    "search_text": "Drow Ranger Facets High Ground Sidestep Multishot channel move use items Glacier",
+    "tags": [
+      "DROW_RANGER",
+      "FACET_STRATEGY",
+      "FACET_HIGH_GROUND",
+      "FACET_SIDESTEP"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Frost Arrows (9 mana cost) to harass and secure last hits due to its bonus damage (10/15/20/25) and movement slow (-15/-25/-35/-45). Your high base agility gives good damage. Focus on farming and zoning the enemy with your range. Use Gust (70 mana, 19/17/15/13 cooldown) defensively to silence (3/4/5/6 seconds) and knock back enemies that get too close. Avoid putting points in Marksmanship early as it is disabled by nearby enemies.",
+    "search_text": "Drow Ranger laning phase Frost Arrows harass slow Gust silence knockback farm",
+    "tags": [
+      "DROW_RANGER",
+      "LANING_PHASE",
+      "HARASS",
+      "FARMING"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a minor spike with Marksmanship providing bonus damage (50/70/90) and armor ignore when no enemy hero is within 325 range. Level 12 with maxed Frost Arrows and Gust is strong for skirmishing. Level 18 is a major spike with the maxed ultimate. Level 20 talent for +50% Gust self movement speed is significant. Level 25 talent for +1 Multishot Wave is a massive teamfight power spike.",
+    "search_text": "Drow Ranger power spikes level 6 12 18 20 25 Marksmanship Frost Arrows Gust Multishot talent",
+    "tags": [
+      "DROW_RANGER",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_18",
+      "LEVEL_20",
+      "LEVEL_25"
+    ]
+  },
+  {
+    "display_text": "Drow Ranger is hard-countered by heroes with high mobility who can close the 325-range gap to disable Marksmanship (e.g., Phantom Assassin, Anti-Mage). Break effects (e.g., Silver Edge, Hoodwink's Bushwhack) disable Marksmanship and Precision Aura. Instant gap-close and lockdown (e.g., Spirit Breaker, Storm Spirit) prevent her from kiting. High physical burst damage can kill her before she can react.",
+    "search_text": "Drow Ranger counters break Marksmanship disabled gap close mobility lockdown Phantom Assassin Anti-Mage Silver Edge",
+    "tags": [
+      "DROW_RANGER",
+      "HARD_COUNTERS",
+      "BREAK",
+      "GAP_CLOSE",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Core items are Dragon Lance (increases attack range to stay safe), Hurricane Pike (active escape and more range), and BKB (prevents interruption of Multishot and lockdown). These items address her core weakness of being easily jumped and disabled.",
+    "search_text": "Drow Ranger core items Dragon Lance Hurricane Pike BKB Black King Bar",
+    "tags": [
+      "DROW_RANGER",
+      "CORE_BUILD",
+      "DRAGON_LANCE",
+      "HURRICANE_PIKE",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Drow Ranger's role is to stay at maximum attack range, using Frost Arrows to slow key targets. She should channel Multishot (24/21/18/15 cooldown) to deal 100%/120%/140%/160% damage in an area. Use Glacier to create favorable terrain and gain high ground advantage. She provides a significant agility aura (50% of her bonus) to nearby ranged allies, amplifying their physical damage.",
+    "search_text": "Drow Ranger teamfight role backline range Multishot channel area damage Glacier terrain Precision Aura agility buff",
+    "tags": [
+      "DROW_RANGER",
+      "TEAMFIGHT_ROLE",
+      "BACKLINE",
+      "PHYSICAL_DAMAGE",
+      "AURA"
+    ]
+  },
+  {
+    "display_text": "Frost Arrows is an active attack modifier that costs 9/10/11/12 mana per attack. It adds 10/15/20/25 bonus damage and slows the target's movement speed by 15%/25%/35%/45% for 1.5 seconds. The slow duration refreshes on successive attacks. The slow does not pierce magic immunity, but the base damage does.",
+    "search_text": "Frost Arrows Q ability mana cost 9 10 11 12 damage 10 15 20 25 slow movement speed 15 25 35 45 duration 1.5 seconds refresh",
+    "tags": [
+      "DROW_RANGER",
+      "ABILITY_DATA",
+      "FROST_ARROWS",
+      "SLOW",
+      "ATTACK_MODIFIER"
+    ]
+  },
+  {
+    "display_text": "Gust releases a 900-length, 250-width wave at 2000 speed, costing 70 mana with a 19/17/15/13 second cooldown. It silences enemies for 3/4/5/6 seconds and knocks them back up to 450 distance over 0.6/0.7/0.8/0.9 seconds. It also reveals invisible units. The knockback distance is relative to how close the enemy is to Drow Ranger.",
+    "search_text": "Gust W ability mana cost 70 cooldown 19 17 15 13 silence 3 4 5 6 seconds knockback 450 distance reveal invis",
+    "tags": [
+      "DROW_RANGER",
+      "ABILITY_DATA",
+      "GUST",
+      "SILENCE",
+      "KNOCKBACK",
+      "REVEAL"
+    ]
+  },
+  {
+    "display_text": "Multishot is a channeled ability costing no mana, with a 24/21/18/15 second cooldown. Drow channels for up to 1.75 seconds, releasing 3 waves of 4 arrows each. Each arrow deals 100%/120%/140%/160% of her attack damage, has 90 width, travels at 1300 speed, and has a range multiplier of 1.75. Arrows bypass damage block. Frost Arrows' effects are applied. Arrow base damage pierces magic immunity, but Frost Arrows' damage and slow do not.",
+    "search_text": "Multishot E ability channel 1.75 seconds waves 3 arrows 4 per wave damage 100 120 140 160 percent range multiplier 1.75 cooldown 24 21 18 15 bypass block",
+    "tags": [
+      "DROW_RANGER",
+      "ABILITY_DATA",
+      "MULTISHOT",
+      "CHANNELED",
+      "PIERCES_BKB_DAMAGE_ONLY"
+    ]
+  },
+  {
+    "display_text": "Glacier is a no-target ability that creates an impassable hill of ice beneath Drow Ranger, except she can pass through it. While on the hill, she and her allies gain 200 bonus attack range, cannot miss, and have flying vision. Drow also gains 1 bonus Multishot arrow per wave. The hill obscures vision and lasts 8 seconds. Casting Glacier does not interrupt Multishot.",
+    "search_text": "Glacier D ability shard attack range 200 bonus high ground no miss flying vision Multishot arrow 1 extra duration 8",
+    "tags": [
+      "DROW_RANGER",
+      "ABILITY_DATA",
+      "GLACIER",
+      "SHARD_UPGRADE",
+      "TERRAIN",
+      "ATTACK_RANGE"
+    ]
+  },
+  {
+    "display_text": "Precision Aura is a passive aura with a 1200 radius. It grants Drow Ranger 4/8/12/16 bonus agility plus 1 agility per level. Nearby ranged allies receive 50% of this total bonus agility. This significantly boosts the physical damage output of her team.",
+    "search_text": "Precision Aura passive aura 1200 radius agility bonus 4 8 12 16 plus 1 per level allies ranged 50 percent",
+    "tags": [
+      "DROW_RANGER",
+      "ABILITY_DATA",
+      "PRECISION_AURA",
+      "PASSIVE",
+      "AURA",
+      "AGILITY_BUFF"
+    ]
+  },
+  {
+    "display_text": "Marksmanship is a passive ability that gives Drow Ranger a 30%/35%/40% chance on attack to pierce the enemy's base armor, dealing 50/70/90 bonus damage. This proc has true strike. The ability is disabled if an enemy hero is within 325 range of Drow.",
+    "search_text": "Marksmanship ultimate R passive chance 30 35 40 bonus damage 50 70 90 pierce base armor true strike disabled range 325",
+    "tags": [
+      "DROW_RANGER",
+      "ABILITY_DATA",
+      "MARKSMANSHIP",
+      "PASSIVE",
+      "TRUE_STRIKE",
+      "ARMOR_PIERCE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing Against High Armor / Evasion. Build items like Monkey King Bar for true strike and armor pierce. Your Marksmanship already provides true strike and armor ignore on procs, but MKB ensures consistency. Consider a Daedalus for critical burst to overcome high armor through raw damage.",
+    "search_text": "Drow Ranger vs high armor evasion Monkey King Bar MKB Daedalus Marksmanship true strike",
+    "tags": [
+      "DROW_RANGER",
+      "SITUATIONAL",
+      "HIGH_ARMOR",
+      "EVASION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing From Behind / Being Dived. Focus on survivability and defense. Items like Hurricane Pike to create distance, BKB to avoid lockdown, and Satanic for lifesteal and survivability. Use Gust defensively to silence and knock back divers. Position extremely carefully, as your damage is crippled if enemies are within 325 range.",
+    "search_text": "Drow Ranger behind defense Hurricane Pike BKB Satanic Gust defensive positioning",
+    "tags": [
+      "DROW_RANGER",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Sieging High Ground. Use Glacier to create your own high ground for your team, providing safety, vision, and attack range. Channel Multishot to clear waves and chip at buildings from a safe distance. Your Precision Aura amplifies all your ranged creeps and allies.",
+    "search_text": "Drow Ranger sieging high ground Glacier terrain Multishot wave clear Precision Aura",
+    "tags": [
+      "DROW_RANGER",
+      "SITUATIONAL",
+      "SIEGING",
+      "HIGH_GROUND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy Team Has Multiple Blink Daggers / Initiators. Position with extreme caution. Hold Gust to cancel initiations (it reveals invisibility). Consider a Blink Dagger yourself for repositioning. Force Staff or Hurricane Pike are essential. A well-timed Gust can silence multiple enemies and ruin their engagement.",
+    "search_text": "Drow Ranger vs blink initiators Gust cancel reveals invis Blink Dagger Force Staff Hurricane Pike",
+    "tags": [
+      "DROW_RANGER",
+      "SITUATIONAL",
+      "INITIATION",
+      "BLINK"
+    ]
+  },
+  {
+    "display_text": "Scenario: You Have a Ranged-Damage Heavy Lineup. Your Precision Aura becomes a massive force multiplier. Prioritize items that keep you alive (BKB, Satanic) so your aura stays active. Consider an Aghanim's Scepter for the Glacier shard upgrade if you don't have it, to provide safe high ground for your entire team.",
+    "search_text": "Drow Ranger lineup ranged damage Precision Aura multiplier survival BKB Satanic Aghanim Scepter Glacier",
+    "tags": [
+      "DROW_RANGER",
+      "SITUATIONAL",
+      "RANGED_LINEUP",
+      "AURA_CARRY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy Has Break (Silver Edge, etc.). Your Marksmanship and Precision Aura are disabled. In this case, you must play as a pure right-click hero without your passives. Itemize for raw stats and active effects (Butterfly, Skadi, Satanic). Avoid fights until break is used or dispelled (with a Manta Style).",
+    "search_text": "Drow Ranger vs break Silver Edge Marksmanship Precision Aura disabled stats Butterfly Skadi Satanic Manta",
+    "tags": [
+      "DROW_RANGER",
+      "SITUATIONAL",
+      "BREAK",
+      "DISABLE_PASSIVES"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talent Choice. Left: -18% Frost Arrows Mana Cost. Right: +1 Multishot Arrow Per Wave. Choose the mana cost reduction if you are spamming Frost Arrows to kite and harass in a prolonged laning or skirmish phase. Choose the extra Multishot arrow for increased teamfight damage and wave clear potential.",
+    "search_text": "Drow Ranger talent level 10 left -18 Frost Arrows mana cost right +1 Multishot arrow per wave",
+    "tags": [
+      "DROW_RANGER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talent Choice. Left: +75 Attack Range. Right: -6s Multishot Cooldown. The attack range is generally superior, allowing you to stay safer and further disable Marksmanship. The cooldown reduction on Multishot is good if you are fighting constantly and can make use of the lower cooldown for farming and skirmishing.",
+    "search_text": "Drow Ranger talent level 15 left +75 attack range right -6 seconds Multishot cooldown",
+    "tags": [
+      "DROW_RANGER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talent Choice. Left: +25% Multishot Damage. Right: 50% Gust Self Movement Speed. The Multishot damage significantly increases your area damage and is the default choice for teamfight impact. The Gust movement speed is a situational pick if you are being chased and need the extra kiting power after using Gust.",
+    "search_text": "Drow Ranger talent level 20 left +25 percent Multishot damage right 50 percent Gust self movement speed",
+    "tags": [
+      "DROW_RANGER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talent Choice. Left: +10% Marksmanship Chance. Right: +1 Multishot Wave. The Marksmanship chance increases your single-target DPS and armor piercing frequency. The extra Multishot wave is a massive area damage increase, often the better choice for teamfights and high-ground defense.",
+    "search_text": "Drow Ranger talent level 25 left +10 percent Marksmanship chance right +1 Multishot wave",
+    "tags": [
+      "DROW_RANGER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

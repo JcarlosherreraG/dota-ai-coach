@@ -1,0 +1,162 @@
+[
+  {
+    "display_text": "Luna is an Agility ranged carry with average starting stats and a fast attack projectile. Her base agility of 24 is high, providing decent starting armor. With a base attack time of 1.7, her attack speed is standard. She has no innate escape, relying on her Night Vision and her Facet choice for survivability.",
+    "search_text": "Luna Agility Ranged Carry Hero Attack Type Range Stats Base Armor Attack Rate 1.7 Strength 21 Agility 24 Intelligence 23",
+    "tags": [
+      "LUNA",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Luna has three Facets. Lunar Orbit: Grants standard glaives for area damage. This is the default farming and fighting build, focusing on raw output. Moonshield: Lunar Orbit now provides damage reduction while active, trading some offensive power for significant survivability in fights. Moonstorm: Hitting enemies with Lucent Beams or Eclipse grants Luna bonus attack damage. This turns Luna into a heavy burst/spellcaster, incentivizing aggressive use of her spells to stack damage buffs.",
+    "search_text": "Facet Lunar Orbit Moonshield Moonstorm Lunar Orbit Glaives AoE Damage Moonshield Damage Reduction Shield Survivability Moonstorm Lucent Beam Eclipse Grant Bonus Attack Damage Burst Spell Caster",
+    "tags": [
+      "LUNA",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Luna's laning is defined by her high base damage from Lunar Blessing. Focus on securing last hits and denying with this passive advantage. Level 1 Lucent Beam is a strong harass tool with a ministun. Depending on Facet choice, strategy varies. With Lunar Orbit, use the glaives to harass and secure ranged creeps. With Moonshield, use it defensively to mitigate enemy harass. With Moonstorm, prioritize landing Lucent Beams to build your damage buff early. Keep vision high at night due to global Lunar Blessing and extra Night Vision.",
+    "search_text": "Laning Phase Early Game Last Hits Deny Lunar Blessing Bonus Damage Lucent Beam Ministun Harass Facet Lunar Orbit Glaive Harass Moonshield Damage Reduction Mitigate Moonstorm Lucent Beam Stack Damage Night Vision Global",
+    "tags": [
+      "LUNA",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Luna's power spikes are level dependent. Level 6 with Eclipse provides a huge kill threat, especially with a point in Lucent Beam. Level 12 with maxed Moon Glaives accelerates her farm dramatically. Level 18 with maxed Lucent Beam and talents significantly increases her burst damage. Level 20 Talent (+30 Lunar Blessing Damage) is a massive teamfight steroid. Level 25 Talent choice defines her late game: Eclipse Cooldown reduction for frequent fights or Lucent Beam Bounce for immense teamfight control. Core item timings like Manta Style (for illusions to benefit from Glaives) and Butterfly/Skadi define her mid-game dominance.",
+    "search_text": "Power Spike Level 6 Eclipse Kill Threat Level 12 Max Moon Glaives Farm Speed Level 18 Max Lucent Beam Burst Talent 20 Lunar Blessing Damage 30 Teamfight Talent 25 Eclipse Cooldown Lucent Beam Bounce Manta Style Butterfly Skadi",
+    "tags": [
+      "LUNA",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Luna is countered by heroes with high physical burst or lockdown that can bypass her team. Instant Hex (Lion, Shadow Shaman) prevents her from using any abilities or items. Break (Doom, Silver Edge) disables her Lunar Blessing and Moon Glaives passives, crippling her damage output. High armor and damage block (Knight's Vow, Tidehunter) significantly reduce the effectiveness of her bouncing Moon Glaives. Heroes who can quickly close the gap and manfight her (Ursa, Troll Warlord) exploit her lack of innate escape.",
+    "search_text": "Counter Hard Counter Break Doom Silver Edge Disable Lunar Blessing Moon Glaives Hex Lion Shadow Shaman Lockdown High Armor Damage Block Knight's Vow Tidehunter Gap Close Ursa Troll Warlord Manfight",
+    "tags": [
+      "LUNA",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Luna's core build is focused on amplifying her unique strengths. Power Treads are essential for attribute switching (Intelligence for spellcasting, Agility for damage). Manta Style is absolutely core; her illusions benefit fully from Moon Glaives and Lunar Blessing, massively increasing her farming speed and split-push threat. Butterfly provides her with the Agility, Attack Speed, and Evasion she needs to manfight other right-click carries in the late game.",
+    "search_text": "Core Build Items Power Treads Attribute Switch Manta Style Illusions Moon Glaives Lunar Blessing Farm Push Butterfly Agility Attack Speed Evasion Manfight Late Game",
+    "tags": [
+      "LUNA",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In a teamfight, Luna's role is to deal sustained AoE physical damage from the backline with her Moon Glaives. She should look to initiate with Eclipse on key targets, especially if she has the Moonstorm Facet to build attack damage. After her ultimate, she focuses on hitting the frontmost hero to let her Glaives bounce to the backline supports. With the Moonshield Facet, she can play more aggressively. Her Lucent Beam provides a reliable, low-cooldown ministun to interrupt channels or lock down fleeing enemies.",
+    "search_text": "Teamfight Role Area of Effect AoE Physical Damage Backline Moon Glaives Bounce Initiate Eclipse Burst Moonstorm Attack Damage Moonshield Aggressive Lucent Beam Ministun Interrupt Channel",
+    "tags": [
+      "LUNA",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Lucent Beam is a targeted nuke and stun. It deals 75/150/225/300 magic damage and stuns the target for 0.6 seconds. The cooldown is 9/8/7/6 seconds, and the mana cost is 90/100/110/120.",
+    "search_text": "Ability Q Lucent Beam Damage 75 150 225 300 Stun 0.6 Seconds Ministun Cooldown 9 8 7 6 Mana Cost 90 100 110 120 Nuke Targeted",
+    "tags": [
+      "LUNA",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Lunar Orbit (W) creates 4 rotating glaives around Luna for 5/6/7/8 seconds. Enemies colliding with a glaive take 28/32/36/40 damage plus a percentage of Luna's Attack Damage. The cooldown is 40/35/30/25 seconds with a mana cost of 65/70/75/80. The glaives have a 200 collision radius and orbit at a 225 radius from Luna.",
+    "search_text": "Ability W Lunar Orbit Rotating Glaives 4 Duration 5 6 7 8 Collision Damage 28 32 36 40 Percentage Attack Damage Cooldown 40 35 30 25 Mana Cost 65 70 75 80 Radius 200 225",
+    "tags": [
+      "LUNA",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Moon Glaives (E) is a passive ability. It causes Luna's attacks to bounce between enemy units. The number of bounces is 3/4/5/6. Each bounce has a 500 range and deals 50%/45%/40%/35% less damage than the previous bounce.",
+    "search_text": "Ability E Passive Moon Glaives Bounce 3 4 5 6 Bounce Range 500 Damage Reduction Per Bounce 50 45 40 35 Percent Illusions Carry Farm",
+    "tags": [
+      "LUNA",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Lunar Blessing (D) is an aura. It passively grants 1 bonus attack damage to all nearby allied heroes within a 1200 radius. Luna herself receives double this amount, gaining 2 bonus damage. At night, the aura becomes global for allied heroes, and Luna gains an additional 250 Night Vision.",
+    "search_text": "Ability D Passive Aura Lunar Blessing Bonus Attack Damage 1 Allied Heroes 1200 Radius Luna Self Bonus Damage 2 Double Night Global Aura Night Vision 250",
+    "tags": [
+      "LUNA",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Eclipse (R) is Luna's ultimate. It calls down 6/9/12 beams over 2.4/4.2/6.0 seconds (one beam every 0.6 seconds). Each beam deals damage equal to Luna's current level of Lucent Beam (75/150/225/300). Beams do not stun. A single target can be hit a maximum of 5 times. Eclipse also turns day into night for 10 seconds. Cooldown is 105 seconds at all levels. Mana cost is not specified in the provided data.",
+    "search_text": "Ultimate R Eclipse Beams 6 9 12 Duration 2.4 4.2 6.0 Beam Interval 0.6 Lucent Beam Damage Max Hits Per Target 5 Turns Day to Night 10 Seconds Cooldown 105",
+    "tags": [
+      "LUNA",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "When playing against a team with high armor or damage block (e.g., Tidehunter, Dragon Knight), prioritize items that reduce armor (Desolator, Assault Cuirass) or deal magical/pure damage. The Moonstorm Facet becomes more valuable as the bonus damage from your spells is not reduced by armor. Consider Scepter to increase Eclipse beam frequency.",
+    "search_text": "Scenario High Armor Damage Block Tidehunter Dragon Knight Desolator Assault Cuirass Armor Reduction Moonstorm Facet Bonus Damage Magical Pure Scepter Eclipse Frequency",
+    "tags": [
+      "LUNA",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, focus on farming safely with Moon Glaives. Use Eclipse defensively to deter tower dives. The Moonshield Facet provides crucial survivability. Build cost-effective stat items like Dragon Lance or Yasha to accelerate farm. Avoid manfights and prioritize split-pushing with Manta Style illusions to create space.",
+    "search_text": "Scenario Playing From Behind Defensive Farm Safe Moon Glaives Eclipse Deter Tower Dive Moonshield Facet Survivability Dragon Lance Yasha Stat Items Split Push Manta Style Illusions Space",
+    "tags": [
+      "LUNA",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "When your team lacks initiation or catch, max Lucent Beam early for the low-cooldown ministun. The Moonstorm Facet synergizes with this playstyle. Build items like Rod of Atos (for root into beam) or Blink Dagger to initiate with Eclipse. Your role shifts to a spellcasting disabler and burst damage dealer.",
+    "search_text": "Scenario Team Lack Initiation Catch Max Lucent Beam Ministun Moonstorm Facet Spell Caster Rod of Atos Root Blink Dagger Eclipse Initiate Disabler Burst Damage",
+    "tags": [
+      "LUNA",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "At level 10, the choice is between -5% Moon Glaives Damage Reduction and +0.5s Lucent Beam Ministun. The left talent (-5% damage reduction) is for a pure farming build, making your Glaives bounce for almost full damage, significantly accelerating farm speed. The right talent (+0.5s stun) is for a fighting build, turning Lucent Beam into a 1.1 second stun on a short cooldown, providing much better lockdown and kill potential in the early mid-game.",
+    "search_text": "Talent Level 10 Left -5% Moon Glaives Damage Reduction Farm Speed Right +0.5s Lucent Beam Ministun 1.1 Second Stun Lockdown Kill Potential Early Mid Game",
+    "tags": [
+      "LUNA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, the choice is between +1 Lunar Orbit Glaive and +80 Lucent Beam Damage. +1 Lunar Orbit Glaive adds another rotating glaive, increasing the damage output and coverage of the ability, which is strong for both farming and fighting, especially with the Moonshield Facet for damage reduction. +80 Lucent Beam Damage significantly boosts your single-target nuke and Eclipse damage, a powerful choice for burst builds, particularly with the Moonstorm Facet.",
+    "search_text": "Talent Level 15 Left +1 Lunar Orbit Glaive Damage Output Coverage Farming Fighting Moonshield Right +80 Lucent Beam Damage Single Target Nuke Eclipse Burst Moonstorm",
+    "tags": [
+      "LUNA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, the choice is between -40.0s Eclipse Cooldown and -2s Lucent Beam Cooldown. -40s Eclipse Cooldown (to 65s) allows you to use your ultimate in almost every fight and for pick-offs, a huge power spike for teamfight dominance. -2s Lucent Beam Cooldown (to 4/3/2/1s at max level) transforms the spell into a spammable 1-second stun/nuke, offering incredible control and sustained damage, especially potent with the Moonstorm Facet's damage stacking.",
+    "search_text": "Talent Level 20 Left -40s Eclipse Cooldown 65 Seconds Ultimate Frequent Fights Pickoffs Right -2s Lucent Beam Cooldown Spammable 1 Second Stun Nuke Control Sustained Damage Moonstorm Stack",
+    "tags": [
+      "LUNA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, the choice is between +30 Lunar Blessing Damage and Lucent Beam Hits An Additional Target. +30 Lunar Blessing Damage provides a massive 30 damage aura to allies (60 for Luna), a game-changing teamfight steroid that benefits all physical damage dealers on your team. Lucent Beam Hits An Additional Target adds a bounce mechanic within a specified range, effectively doubling its impact in fights and providing AoE lockdown, which is exceptionally powerful for control and against grouped enemies.",
+    "search_text": "Talent Level 25 Left +30 Lunar Blessing Damage Aura 30 Ally 60 Luna Teamfight Steroid Physical Damage Right Lucent Beam Hits An Additional Target Bounce AoE Area Lockdown Control Grouped Enemies",
+    "tags": [
+      "LUNA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

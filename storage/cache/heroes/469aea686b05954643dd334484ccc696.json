@@ -1,0 +1,183 @@
+[
+  {
+    "display_text": "Marci is a melee hero with 1.7 base attack time, 23 base Strength, 20 base Agility, and 19 base Intelligence. Her melee attack type means she must be in close range, but her solid base Strength provides good early survivability.",
+    "search_text": "Marci stats attack type melee base attack time 1.7 strength 23 agility 20 intelligence 19",
+    "tags": [
+      "MARCI",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Sidekick enhances Marci's ability to protect an ally by granting them shared lifesteal and damage. The effect is stronger if she is close to the ally, rewarding positioning. Facet 2: Bodyguard Facet also protects an ally, but focuses on counter-attacking enemies that attack the protected hero, requiring Marci to be in attack range. Facet 3: Buddy System shares a portion of health healed by Bodyguard between Marci and her partner. Facet 4: Pick-me-up allows Rebound to be alt-cast to bring the allied hero with Marci after her jump, increasing its utility. Facet 5: Fleeting Fury grants Marci a Fury combo immediately upon landing with Rebound, providing burst damage.",
+    "search_text": "Marci facets Sidekick Bodyguard Facet Buddy System Pick-me-up Fleeting Fury ally lifesteal damage counter-attack shared healing bring ally combo Rebound",
+    "tags": [
+      "MARCI",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In laning, use Marci's melee range to secure last hits near the creep wave. Dispose can be used to throw an enemy hero into your tower or a teammate for harassment and a 20-50% slow. Rebound at level 1 provides an escape or engage tool with a 450-range jump to an ally, damaging and stunning enemies where she lands (75 damage, 0.8-1.7s stun). Bodyguard passive grants 12-30 lifesteal and bonus damage, which is effective for trading. Use Rebound to close gaps and Dispose to control enemy positioning.",
+    "search_text": "Marci laning phase first 10 minutes Dispose throw enemy slow Rebound jump ally stun damage Bodyguard lifesteal bonus damage harass trading",
+    "tags": [
+      "MARCI",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6: Unleash is a major power spike, granting 15% movement speed and 5 rapid Fury attacks per combo with 700-1150 bonus attack speed, significantly boosting damage. Level 12: With maxed Dispose and Rebound, Marci has strong catch and initiation. Level 18: Maxed Unleash provides 1150 bonus attack speed. Level 20: Talent choice between +0.75s Rebound Stun Duration or +10% Unleash Movement Speed. Level 25: Talent choice between Unleash Duration Extended By 6s On Kill or +{s:bonus_bonus_damage}% Bodyguard Damage. Key item timings include Phase Boots for mobility and an early Blink Dagger for initiation.",
+    "search_text": "Marci power spikes level 6 Unleash fury attacks bonus attack speed 700 1150 movement speed 15% level 12 level 18 level 20 talent Rebound stun duration Unleash movement speed level 25 talent duration on kill Bodyguard damage",
+    "tags": [
+      "MARCI",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Break mechanics disable Marci's Bodyguard passive, removing her lifesteal, bonus damage, and counter-attack. Heavy slows and roots prevent her from closing distance for melee attacks and Dispose throws. Instant disables like hex or stun can interrupt Rebound's jump. Heroes with high burst damage can kill her before she can use Unleash combos. Mana burn effects can deplete her mana pool, limiting ability usage.",
+    "search_text": "Marci counters hard counters Break Bodyguard passive disable lifesteal damage counter-attack slows roots hex stun interrupt Rebound burst damage mana burn",
+    "tags": [
+      "MARCI",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build 1: Blink Dagger is essential for Marci to initiate fights with Dispose or Rebound, allowing her to jump into the enemy backline. Core Build 2: Black King Bar is critical to ensure she can channel Unleash without being disabled. Core Build 3: Assault Cuirass or Heaven's Halberd provide survivability and utility; Cuirass for armor and attack speed, Halberd for disarm and evasion.",
+    "search_text": "Marci core build Blink Dagger BKB Black King Bar Assault Cuirass Heaven's Halberd initiation survivability",
+    "tags": [
+      "MARCI",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Marci's role is to initiate and disrupt. Use Blink Dagger and Rebound to jump onto a key enemy hero, stunning them. Follow up with Dispose to throw another target into your team or away from the fight, damaging and slowing them. Activate Unleash to rapidly attack a stunned or slowed target, slowing their attack and movement speed by 60-100% and 30% respectively, and dealing AoE pulse damage. Use Bodyguard on a vulnerable core ally to protect them and counter-attack threats.",
+    "search_text": "Marci teamfight role initiator disrupt jump Rebound stun Dispose throw slow Unleash rapid attacks slow attack speed movement speed pulse damage Bodyguard protect ally counter-attack",
+    "tags": [
+      "MARCI",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Dispose. Marci grabs an allied or enemy target and throws it effortlessly behind her, damaging and slowing the unit if it's an enemy (60/150/240/330 damage, 20/30/40/50% slow for 3s). Any enemy units in the landing area (300 radius) will also be damaged and slowed. Air duration is 0.5s, air height is 150. Throw distance behind is 250, pull angle is 230, pull offset is 75. The ability does not pierce BKB unless specified.",
+    "search_text": "Marci Dispose Q throw enemy ally behind damage 60 150 240 330 slow 20% 30% 40% 50% 3 seconds landing radius 300",
+    "tags": [
+      "MARCI",
+      "ABILITY_DATA",
+      "DISPOSE"
+    ]
+  },
+  {
+    "display_text": "Ability: Rebound. Marci bounds to a targeted allied unit (450/550/650/750 cast range), choosing a direction and distance she will spring away from it (max jump distance same as cast range). Upon reaching the unit, she lunges to her final destination, damaging (75/150/225/300) and stunning enemies (0.8/1.1/1.4/1.7s) in a 300 radius where she lands. The ally receives 15/20/25/30% bonus movement speed for 4.0s. Cooldown is 24/20/16/12s. The ability can be disjointed. Does NOT pierce BKB unless specified.",
+    "search_text": "Marci Rebound W jump ally direction distance damage 75 150 225 300 stun 0.8 1.1 1.4 1.7 seconds radius 300 ally movement speed bonus 15% 20% 25% 30% 4 seconds cooldown 24 20 16 12 disjoint",
+    "tags": [
+      "MARCI",
+      "ABILITY_DATA",
+      "REBOUND"
+    ]
+  },
+  {
+    "display_text": "Ability: Bodyguard. Passively grants Marci lifesteal (12/18/24/30%) and bonus attack damage (12/18/24/30). Marci protects an allied hero for 6.0s, granting them 75 lifesteal and attack damage bonus. Whenever the ally attacks or is attacked by an enemy, Marci counter-attacks that target if they are within her attack range plus 125. Counter-attack has a 0.45s cooldown. Lifesteal effectiveness gets a 40% penalty against creeps. Does NOT pierce BKB unless specified.",
+    "search_text": "Marci Bodyguard E passive lifesteal 12% 18% 24% 30% bonus attack damage 12 18 24 30 protect ally 6 seconds lifesteal 75 damage bonus counter-attack range attack plus 125 cooldown 0.45s creep penalty 40%",
+    "tags": [
+      "MARCI",
+      "ABILITY_DATA",
+      "BODYGUARD"
+    ]
+  },
+  {
+    "display_text": "Ability: Special Delivery. Marci whistles to instantly summon her courier to her. Passively grants all allied couriers 3 bonus levels and 1 bonus health. The whistle has a cast point of 1.0 second.",
+    "search_text": "Marci Special Delivery D courier summon instant whistle passive bonus courier levels 3 bonus health 1 cast point 1.0 second",
+    "tags": [
+      "MARCI",
+      "ABILITY_DATA",
+      "SPECIAL_DELIVERY"
+    ]
+  },
+  {
+    "display_text": "Ability: Unleash. Marci taps a hidden power, gaining Fury charges that allow her to deliver a rapid sequence of 5 strikes per flurry that slow movement (30%) and attack speed (60/80/100%) of the target for 2.0s. The last strike in every Fury combo creates a damaging pulse (50/100/150 damage) around the target. Between Fury combos, Marci is unable to attack for 1.5s. She gains 15% movement speed when cast. Duration is 16s. Cooldown is 80/70/60s. Mana cost is 100/125/150. Once a Fury combo is started, each attack must be delivered within 1s or the combo expires. Removes attack speed limit. Does NOT pierce BKB unless specified.",
+    "search_text": "Marci Unleash R ultimate Fury charges 5 strikes per flurry slow movement 30% slow attack speed 60% 80% 100% 2 seconds pulse damage 50 100 150 cannot attack 1.5s between combos movement speed 15% duration 16s cooldown 80 70 60 mana cost 100 125 150 attack speed limit removed",
+    "tags": [
+      "MARCI",
+      "ABILITY_DATA",
+      "UNLEASH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor. Against heroes with high physical armor, Marci's physical damage from attacks and Dispose becomes less effective. Prioritize building items that provide magic damage amplification (e.g., Veil of Discord) or reduce armor (e.g., Assault Cuirass, Desolator). Unleash pulse damage is magical, so focusing on increasing its impact with magic amplification is beneficial.",
+    "search_text": "Marci situational high armor enemy physical damage less effective build magic damage Veil of Discord armor reduction Assault Cuirass Desolator Unleash pulse magical",
+    "tags": [
+      "MARCI",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When behind, Marci should focus on protecting her team's core with Bodyguard and using Rebound for escapes. Avoid initiating fights directly. Build cost-effective survival items like Bracer, Drum of Endurance, or Heaven's Halberd. Use Dispose defensively to throw diving enemies away from allies.",
+    "search_text": "Marci situational behind losing protect core Bodyguard Rebound escape avoid initiation survival items Bracer Drum of Endurance Heaven's Halberd defensive Dispose",
+    "tags": [
+      "MARCI",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Illusion Heroes. Heroes like Chaos Knight or Phantom Lancer can overwhelm Marci. Build area-of-effect items like Battle Fury or Mjollnir to clear illusions. Unleash can quickly target real heroes if you identify them, but its single-target focus is less effective against groups.",
+    "search_text": "Marci situational illusions Chaos Knight Phantom Lancer AoE Battle Fury Mjollnir clear Unleash single-target",
+    "tags": [
+      "MARCI",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Strong Initiator Partner. When paired with heroes like Axe or Magnus, Marci can follow up their initiation with Rebound into the enemy team, then use Dispose to disrupt positioning and Unleash for focused damage. Coordinating with such initiators maximizes her teamfight impact.",
+    "search_text": "Marci situational partner initiator Axe Magnus follow up Rebound Dispose disrupt Unleash damage coordination",
+    "tags": [
+      "MARCI",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need for Split Push. Marci is not a strong split pusher due to her lack of wave clear. If split push is required, build items like Maelstrom for faster farm and wave clear. Use Rebound to escape if caught out.",
+    "search_text": "Marci situational split push weak wave clear build Maelstrom farm escape Rebound",
+    "tags": [
+      "MARCI",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left talent is +1.5s Dispose Slow Duration, increasing the slow from 3s to 4.5s at all levels. Right talent is +50 Rebound Landing Radius, increasing the stun/damage area from 300 to 350. Choose Dispose slow for better chase and control; choose Rebound radius for easier multi-hero stuns.",
+    "search_text": "Marci talent level 10 left +1.5s Dispose Slow Duration right +50 Rebound Landing Radius control chase multi-hero stun",
+    "tags": [
+      "MARCI",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left talent is +100 Dispose Damage, adding 100 damage to each level of Dispose. Right talent is +10% Rebound Movement Speed Bonus, increasing the ally speed bonus from 15-30% to 25-40%. Choose Dispose damage for more burst; choose Rebound speed for better team mobility and initiation.",
+    "search_text": "Marci talent level 15 left +100 Dispose Damage right +10% Rebound Movement Speed Bonus burst mobility initiation",
+    "tags": [
+      "MARCI",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left talent is +0.75s Rebound Stun Duration, increasing stun from 0.8-1.7s to 1.55-2.45s. Right talent is +10% Unleash Movement Speed, increasing the bonus from 15% to 25%. Choose Rebound stun for longer lockdown on key targets; choose Unleash speed for better positioning and chase during your ultimate.",
+    "search_text": "Marci talent level 20 left +0.75s Rebound Stun Duration right +10% Unleash Movement Speed lockdown positioning chase ultimate",
+    "tags": [
+      "MARCI",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left talent is Unleash Duration Extended By 6s On Kill, potentially allowing Unleash to last much longer in teamfights with multiple kills. Right talent is +{s:bonus_bonus_damage}% Bodyguard Damage, enhancing the damage bonus provided to Marci and her protected ally. Choose Unleash extension for snowballing in fights; choose Bodyguard damage for stronger protection and physical damage output.",
+    "search_text": "Marci talent level 25 left Unleash Duration Extended By 6s On Kill right +Bodyguard Damage snowball protection physical damage",
+    "tags": [
+      "MARCI",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

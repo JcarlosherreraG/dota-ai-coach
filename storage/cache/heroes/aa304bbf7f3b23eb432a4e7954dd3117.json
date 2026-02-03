@@ -1,0 +1,230 @@
+[
+  {
+    "display_text": "Juggernaut is a Melee agility hero. Starting attributes are 20 Strength, 32 Agility, and 14 Intelligence. He has a base attack time of 1.4. His high base agility grants him high starting armor and good physical damage, but his movement speed is average. He relies on agility gain for scaling.",
+    "search_text": "Juggernaut base stats Melee Attack Type BAT 1.4 Strength 20 Agility 32 Intelligence 14 starting armor",
+    "tags": [
+      "Juggernaut",
+      "BASE_STATS",
+      "MELEE",
+      "AGILITY"
+    ]
+  },
+  {
+    "display_text": "The Bladestorm Facet allows Blade Fury to critically strike based on the level of Blade Dance. This significantly increases magical and physical damage output during Blade Fury, making it a powerful offensive choice for burst damage builds, especially with attack speed items. The +Agility Facet is not defined in this data.",
+    "search_text": "Juggernaut Facet Bladestorm Blade Fury crit critical strike Blade Dance facet choice",
+    "tags": [
+      "Juggernaut",
+      "FACET_STRATEGY",
+      "BLADESTORM_FACET"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Blade Fury level 1 for trading or securing the first wave. Max Blade Fury first for kill potential and wave clear. Utilize Blade Dance to win right-click trades. Healing Ward provides crucial lane sustain; use it behind you to recover from harassment. Juggernaut has strong kill potential at level 6 with Omnislash.",
+    "search_text": "Juggernaut laning guide Blade Fury level 1 Blade Dance trade Healing Ward sustain Omnislash level 6 kill",
+    "tags": [
+      "Juggernaut",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Power spikes: Level 6 with Omnislash for solo kills. Level 12 for maxed Blade Fury and Blade Dance. Level 18 for max Omnislash. Talent levels 10, 15, 20, and 25. Item timings: Battle Fury for farm acceleration, Manta Style for dispel and illusions, and Aghanim's Scepter/Shard for extra Swiftslash.",
+    "search_text": "Juggernaut power spike level 6 12 18 talents Battle Fury Manta Style Aghanim Scepter Shard timing",
+    "tags": [
+      "Juggernaut",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_18"
+    ]
+  },
+  {
+    "display_text": "Juggernaut is countered by instant disables that prevent him from using Blade Fury or Omnislash (e.g., Hex, Fiend's Grip). Ghost Scepter and Ethereal Blade negate his Omnislash damage. Heroes with high physical damage reduction or evasion (e.g., Solar Crest, Halberd) reduce his right-click impact. Break disables his Blade Dance passive.",
+    "search_text": "counter Juggernaut Hex instant disable Ghost Scepter Ethereal Blade Omnislash evasion Break Blade Dance passive",
+    "tags": [
+      "Juggernaut",
+      "HARD_COUNTERS",
+      "DISABLES",
+      "ETHEREAL",
+      "BREAK"
+    ]
+  },
+  {
+    "display_text": "Core Build: 1. Battle Fury accelerates farm and provides damage/mana regen. 2. Manta Style dispels silences, provides stats, and synergizes with his illusions during Omnislash. 3. Aghanim's Scepter/Shard for Swiftslash, providing a low-cooldown mini-Omnislash for pickoffs and extra damage in fights.",
+    "search_text": "Juggernaut core items essential Battle Fury Manta Style Aghanim Scepter Shard Swiftslash",
+    "tags": [
+      "Juggernaut",
+      "CORE_BUILD",
+      "BATTLE_FURY",
+      "MANTA_STYLE",
+      "AGHANIMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Juggernaut's role is to initiate with Blade Fury (magic immune) or be the follow-up damage dealer. Use Omnislash on key backline targets. Use Healing Ward to sustain your team during and after the engagement. With items like Skadi or Basher, he can also become a manfighter against enemy cores.",
+    "search_text": "Juggernaut teamfight role Blade Fury magic immune initiate Omnislash backline Healing Ward sustain",
+    "tags": [
+      "Juggernaut",
+      "TEAMFIGHT_ROLE",
+      "DAMAGE_DEALER",
+      "INITIATOR"
+    ]
+  },
+  {
+    "display_text": "Blade Fury: Juggernaut spins for 5 seconds, becoming debuff immune, gaining 80% magic resistance, and dealing 80/110/140/170 damage every 0.2 seconds to enemies within a 260 radius. The ability applies a strong dispel at the end. Does NOT pierce BKB. Cooldown: 36/30/24/18. You can use items and attack, but attacks only hit units unaffected by Blade Fury.",
+    "search_text": "Blade Fury Q spin magic immune 80% magic resist damage 80 110 140 170 per 0.2s radius 260 duration 5s cooldown 36 30 24 18 dispel strong dispel end debuff immune",
+    "tags": [
+      "Juggernaut",
+      "ABILITY_DATA",
+      "BLADE_FURY",
+      "MAGIC_IMMUNITY",
+      "DISPEL"
+    ]
+  },
+  {
+    "display_text": "Healing Ward: Summons a ward that heals all nearby allied units for 2%/3%/4%/5% of their max health per second. The ward lasts 18/20/22/24 seconds, moves at 325 speed, and has 1 hit to kill. It has a 400 radius aura. Cooldown: 60 seconds.",
+    "search_text": "Healing Ward W heal percent 2 3 4 5% max HP aura radius 400 duration 18 20 22 24 sec movespeed 325 cooldown 60",
+    "tags": [
+      "Juggernaut",
+      "ABILITY_DATA",
+      "HEALING_WARD",
+      "SUSTAIN",
+      "AURA"
+    ]
+  },
+  {
+    "display_text": "Blade Dance: Juggernaut's passive grants a 35% chance to critically strike for 130%/150%/170%/190% damage. The talent can grant lifesteal.",
+    "search_text": "Blade Dance E passive crit chance 35% damage multiplier 130 150 170 190% lifesteal talent",
+    "tags": [
+      "Juggernaut",
+      "ABILITY_DATA",
+      "BLADE_DANCE",
+      "CRITICAL_STRIKE",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Swiftslash: This is the Aghanim's Scepter/Shard upgrade. It performs a short Omnislash for 1 second.",
+    "search_text": "Swiftslash Aghanim Scepter Shard upgrade short Omnislash duration 1 second",
+    "tags": [
+      "Juggernaut",
+      "ABILITY_DATA",
+      "SWIFTSLASH",
+      "AGHANIMS",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Duelist: Juggernaut deals 12% more damage to targets facing him. This damage bonus always applies during Omnislash. The front angle is 55 degrees.",
+    "search_text": "Duelist facet facing damage increase 12% front angle 55 always active Omnislash",
+    "tags": [
+      "Juggernaut",
+      "ABILITY_DATA",
+      "DUELIST",
+      "DAMAGE_AMPLIFY"
+    ]
+  },
+  {
+    "display_text": "Omnislash: Juggernaut leaps 450 units towards a target, then slashes the target and nearby enemies within 425 radius for 3/3.25/3.5 seconds at 1.4x attack rate, gaining 40 bonus attack speed and 25/30/35 bonus damage per slash. He is invulnerable for the duration. Applies a basic dispel on cast. Cooldown: 60 seconds.",
+    "search_text": "Omnislash R ultimate leap range 450 radius 425 duration 3 3.25 3.5 sec attack rate 1.4x bonus attack speed 40 bonus damage 25 30 35 invulnerable dispel basic dispel cooldown 60",
+    "tags": [
+      "Juggernaut",
+      "ABILITY_DATA",
+      "OMNISLASH",
+      "ULTIMATE",
+      "INVULNERABLE",
+      "DISPEL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor/High Physical EHP. In this case, Blade Fury is your primary damage source. Prioritize magic damage items like Mjollnir or items that reduce armor (Desolator, Assault Cuirass). The Bladestorm Facet is even more valuable here.",
+    "search_text": "Juggernaut situational vs high armor physical HP Blade Fury magic damage Mjollnir Desolator Assault Cuirass Bladestorm Facet",
+    "tags": [
+      "Juggernaut",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR",
+      "MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on farming with Battle Fury and split-pushing with Healing Ward for sustain. Avoid fights until key items like Manta Style are completed. Use Omnislash defensively to kill diving heroes or to escape.",
+    "search_text": "Juggernaut playing from behind farm split push Battle Fury Healing Ward avoid fight Manta Style Omnislash escape",
+    "tags": [
+      "Juggernaut",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND",
+      "FARM"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Heavy Disables (Bane, Batrider). Itemize for survivability and self-dispel. Buy Manta Style to dispel silences, Linken's Sphere to block single-target disables, or Black King Bar to ensure you can cast Blade Fury or Omnislash.",
+    "search_text": "Juggernaut vs heavy disables Bane Batrider Manta Style dispel Linken Sphere BKB Blade Fury Omnislash",
+    "tags": [
+      "Juggernaut",
+      "SITUATIONAL",
+      "VS_DISABLES",
+      "DISPEL",
+      "SURVIVABILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to End Game Early. Skip Battle Fury. Build early fighting items like Diffusal Blade, Sange and Yasha, or Aghanim's Shard. Max Blade Fury and Healing Ward for teamfight presence. Group with your team and take objectives with Healing Ward.",
+    "search_text": "Juggernaut early game push end fast skip Battle Fury Diffusal Blade Sange Yasha Aghanim Shard group fight Healing Ward",
+    "tags": [
+      "Juggernaut",
+      "SITUATIONAL",
+      "EARLY_PUSH",
+      "FIGHTING_BUILD"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Illusion Heroes (Phantom Lancer, Chaos Knight). Build Battle Fury for cleave and consider Mjollnir for static charge procs. Your Omnislash will bounce between illusions, reducing its effectiveness on the real hero.",
+    "search_text": "Juggernaut vs illusions Phantom Lancer Chaos Knight Battle Fury cleave Mjollnir static charge Omnislash bounce",
+    "tags": [
+      "Juggernaut",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "CLEAVE"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left: -12s Healing Ward Cooldown. Right: +4% Duelist Damage. Choose the cooldown reduction if you rely heavily on Healing Ward for sustain in prolonged fights or sieges. Choose the Duelist damage for more right-click DPS, especially if you are focusing on physical damage items.",
+    "search_text": "Juggernaut talent level 10 left -12s Healing Ward Cooldown right +4% Duelist Damage sustain vs damage",
+    "tags": [
+      "Juggernaut",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left: +1% Healing Ward Heal. Right: +40 Movement Speed During Blade Fury. Choose the increased heal if your team needs more sustain in fights. Choose the movement speed during Blade Fury to chase enemies or escape while spinning, making you harder to kite.",
+    "search_text": "Juggernaut talent level 15 left +1% Healing Ward Heal percent right +40 MS Movement Speed Blade Fury chase escape",
+    "tags": [
+      "Juggernaut",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left: +1 Healing Ward Hits to Destroy. Right: +90 Blade Fury DPS. Choose the extra ward hit if the enemy team is actively targeting your Healing Ward. Choose the massive +90 DPS on Blade Fury for significantly increased magical burst damage, especially powerful with the Bladestorm Facet.",
+    "search_text": "Juggernaut talent level 20 left +1 Healing Ward hit destroy right +90 Blade Fury DPS damage per second burst",
+    "tags": [
+      "Juggernaut",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left: +1s Omnislash Duration. Right: +40% Blade Dance Lifesteal. Choose the extra Omnislash duration for more slashes and invulnerability time, crucial for killing tanky heroes. Choose the 40% lifesteal on crits to become an unkillable manfighter, pairing extremely well with high attack speed and damage items.",
+    "search_text": "Juggernaut talent level 25 left +1s Omnislash Duration right +40% Blade Dance Lifesteal crit sustain manfight",
+    "tags": [
+      "Juggernaut",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

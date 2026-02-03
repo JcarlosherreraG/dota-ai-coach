@@ -1,0 +1,12 @@
+[
+  {
+    "display_text": "Sample Picker, Cost: 0: This item appears to be a placeholder or custom game item, providing no purchasable stats or active abilities in the standard shop. It is associated with a penalty to Strength. Stats: Cooldown: 15s.",
+    "search_text": "sample picker, placeholder item, test item, custom game item, no cost item, non-purchasable, 0 gold item, sample item, Sample Picker",
+    "tags": [
+      "ITEM_DATA",
+      "SAMPLE_PICKER",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE"
+    ]
+  }
+]

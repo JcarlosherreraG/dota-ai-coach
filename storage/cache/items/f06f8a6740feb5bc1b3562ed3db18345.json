@@ -1,0 +1,82 @@
+[
+  {
+    "display_text": "Ethereal Blade, Cost: 5200: Active ability (Ether Blast) converts target unit to ethereal form, making them immune to physical damage, slowing them by 80%, and making them take 30% increased magic damage for 4 seconds. Allied targets are also made ethereal but not slowed. Deals magical damage to enemies equal to the sum of all your attributes plus 50. Shares cooldown with Ghost Scepter upgrades. Stats: CD: 22s, Mana Cost: 100, Duration: 4s, Slow: 80%, Magical Damage Bonus: 30%.",
+    "search_text": "ethereal blade, eth blade, ghost form, ether blast, save item, defensive item, magic damage amp, physical immunity, nuke item, agility carry, int hero, stat nuke, magic burst, ghost scepter upgrade, hybrid damage, high ground defense, disable item, setup item, E-blade",
+    "tags": [
+      "ITEM_DATA",
+      "ETHEREAL_BLADE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "GHOST_FORM",
+      "VS_PHYSICAL",
+      "MAGICAL_DAMAGE",
+      "SLOW",
+      "DEBUFF",
+      "SAVE",
+      "NUKE"
+    ]
+  },
+  {
+    "display_text": "Ethereal Blade, Cost: 5200: Provides +24 to all attributes (Strength, Agility, Intelligence). This balanced stat increase builds a solid HP, mana, attack speed, and armor base. Its damage scales with total hero attributes, making it strong for high-stat heroes or those building multiple stat items like Skadi and Heart.",
+    "search_text": "ethereal blade stats, stats item, all attributes, strength agility intelligence, stat scaling, attribute nuke, hybrid stats, E-blade stats, universal stats",
+    "tags": [
+      "ITEM_DATA",
+      "ETHEREAL_BLADE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLECT",
+      "ATTRIBUTES",
+      "HEALTH",
+      "MANA",
+      "ATTACK_SPEED",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Ethereal Blade, Cost: 5200: Primarily a defensive save item that makes a hero (ally or enemy) immune to physical attacks, used to protect key allies from physical damage bursts. The 80% slow and magic damage amplification make it a strong offensive setup item for magical nukes, especially combos with Veil of Discord or high magic damage heroes.",
+    "search_text": "team fight role, save ally, defensive save, physical immunity, magic damage setup, magic amp, slow setup, combo setup, offensive save, team utility, support item, E-blade role",
+    "tags": [
+      "ITEM_DATA",
+      "ETHEREAL_BLADE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "OFFENSIVE",
+      "SETUP",
+      "BUFF",
+      "DEBUFF"
+    ]
+  },
+  {
+    "display_text": "Ethereal Blade, Cost: 5200: Situational versus heavy physical damage cores or against heroes reliant on right-click attacks (Phantom Assassin, Faceless Void, Terrorblade). The physical immunity completely nullifies physical damage for 4 seconds. Conversely, avoid using it offensively if the enemy has strong magic resistance or high HP, as the 30% increased magic damage taken can be mitigated.",
+    "search_text": "vs physical damage, counter physical cores, physical immunity, anti carry, vs right click, physical defense, save vs physical, physical burst counter, E-blade vs physical",
+    "tags": [
+      "ITEM_DATA",
+      "ETHEREAL_BLADE",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "DEFENSIVE",
+      "ANTI_CARRY",
+      "COUNTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Ethereal Blade, Cost: 5200: Strong synergy with heroes who have high attribute gain (Morphling, Silencer, Medusa) or build multiple stat items, as the nuke damage scales with total attributes. Also combos well with magic damage amplifiers (Veil of Discord, Kaya) and heroes with high magical burst (Lina, Zeus, Skywrath Mage) to maximize the 30% magic vulnerability window.",
+    "search_text": "synergy, morphling, silencer, medusa, stat hero, attribute scaling, magic burst combo, Veil of Discord, kaya, Lina, Zeus, Skywrath Mage, combo item, nuke combo, hybrid build",
+    "tags": [
+      "ITEM_DATA",
+      "ETHEREAL_BLADE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "HYBRID_DAMAGE",
+      "SCALING",
+      "NUKE",
+      "COMBO"
+    ]
+  }
+]

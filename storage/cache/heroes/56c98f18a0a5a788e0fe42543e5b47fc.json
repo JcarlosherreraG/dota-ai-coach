@@ -1,0 +1,234 @@
+[
+  {
+    "display_text": "Silencer is a ranged intelligence hero with 18 starting Strength, 22 Agility, and 25 Intelligence. His base attack time is 1.6, making his attack speed average. This average agility growth and movement speed make him relatively fragile with low base armor; his survivability relies on positioning and silencing threats.",
+    "search_text": "Silencer stats intelligence ranged base armor attack speed 1.6 BAT",
+    "tags": [
+      "SILENCER",
+      "BASE_STATS",
+      "RANGED",
+      "INTELLIGENCE"
+    ]
+  },
+  {
+    "display_text": "Facet 1: Irrepressible makes Silencer immune to silence effects, crucial against heroes like DP, Skywrath, or Orchid carriers. This supports a durable core or offlane playstyle where you cannot be shut down. Facet 2: Reverberating Silence causes Global Silence to apply twice, extending total disable duration. This is best for a support role focused on fight control and maximizing disruption, especially against spell-heavy lineups. Facet 3: Synaptic Split upgrades Glaives of Wisdom to max level 5, allowing the glaives to bounce once to a random target within range. This significantly boosts farming speed and teamfight damage, making it ideal for a core, right-click Silencer build. Facet 4: Suffer In Silence causes Silencer to take less damage from and deal more damage to silenced targets. This enhances survivability and dueling power against enemies you or your team have silenced, fitting a mid-game fighter build.",
+    "search_text": "Silencer facets Irrepressible cannot be silenced Reverberating Silence Global Silence twice Synaptic Split Glaives of Wisdom bounce Suffer In Silence damage reduction damage increase silenced",
+    "tags": [
+      "SILENCER",
+      "FACET_STRATEGY",
+      "FACET_1",
+      "FACET_2",
+      "FACET_3",
+      "FACET_4"
+    ]
+  },
+  {
+    "display_text": "In lane, use Last Word (Q) to harass and punish enemies for last hitting or casting spells. Its 120/160/200/240 damage and 4-second silence at all levels provide strong trading. Combine with right-clicks enhanced by Glaives of Wisdom (W) to secure denies and harass due to its pure damage. Arcane Curse (E) is a strong slow and damage over time; use it when an enemy uses a spell to extend its duration. Position carefully behind the creep wave due to low base armor and health. Your goal is to secure last hits, stack Intelligence with Glaives, and pressure the enemy out of lane with silences.",
+    "search_text": "Silencer laning last word harass glaives of wisdom pure damage arcane curse slow deny intelligence steal",
+    "tags": [
+      "SILENCER",
+      "LANING_PHASE",
+      "HARASS",
+      "LAST_HITS"
+    ]
+  },
+  {
+    "display_text": "Level 6: Global Silence is a massive teamfight tool that can win early skirmishes. Level 12: With maxed Glaives of Wisdom and Last Word, your right-click damage and pick-off potential spike. Level 15 Talent: +25 Attack Speed significantly increases DPS. Level 18: Global Silence reaches 6-second duration. Level 20 Talent: -20s Global Silence Cooldown allows near-permanent uptime in fights. Level 25 Talent: 2 Arcane Curse charges enables immense area control. Item spikes: Power Treads and Hurricane Pike for survivability and damage; Scythe of Vyse for guaranteed lockdown; Aghanim's Scepter for double Global Silence.",
+    "search_text": "Silencer power spikes level 6 global silence level 12 glaives last word level 15 talent attack speed level 18 level 20 talent cooldown level 25 talent arcane curse charges",
+    "tags": [
+      "SILENCER",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_15",
+      "LEVEL_18",
+      "LEVEL_20",
+      "LEVEL_25"
+    ]
+  },
+  {
+    "display_text": "Heroes with Break (e.g., Shadow Demon, Hoodwink) disable Brain Drain's permanent Intelligence steal and can neuter your scaling. High-mobility heroes (Storm Spirit, Anti-Mage) can jump on you before you can cast Global Silence. Instant disables like Hex (Lion, Shadow Shaman) prevent you from using any abilities. Heroes with strong dispels (Slark, Legion Commander) can remove Arcane Curse and Last Word debuffs. Heroes who don't rely on spells (Ursa, Troll Warlord) are less affected by your silences.",
+    "search_text": "Silencer counters break disable brain drain intelligence steal mobility blink hex instant disable dispel arcane curse last word",
+    "tags": [
+      "SILENCER",
+      "HARD_COUNTERS",
+      "BREAK",
+      "DISABLE",
+      "DISPEL"
+    ]
+  },
+  {
+    "display_text": "Power Treads are essential for attribute switching, attack speed, and survivability. Hurricane Pike provides crucial mobility, attack range, and a defensive force staff active. Scythe of Vyse offers guaranteed lockdown, mana regeneration, and Intelligence, synergizing perfectly with Glaives of Wisdom.",
+    "search_text": "Silencer core build power treads hurricane pike force staff dragon lance scythe of vyse hex",
+    "tags": [
+      "SILENCER",
+      "CORE_BUILD",
+      "POWER_TREADS",
+      "HURRICANE_PIKE",
+      "SCYTHE_OF_VYSE"
+    ]
+  },
+  {
+    "display_text": "In teamfights, your primary role is to initiate or counter-initiate with Global Silence, disabling the entire enemy team's spellcasting for 4.5/5.25/6 seconds. Follow up with Arcane Curse on clumped enemies to apply a slow and damage over time. Use Last Word on key targets like initiators or mobile cores to silence them. Stay at the backlines and use Glaives of Wisdom to right-click high-priority targets, dealing pure damage scaled by your stolen Intelligence. Your job is to control the fight's tempo through silences and provide sustained magical and physical damage.",
+    "search_text": "Silencer teamfight role global silence initiate arcane curse slow last word pickoff glaives of wisdom right click pure damage backline",
+    "tags": [
+      "SILENCER",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "DISABLER",
+      "DAMAGE_DEALER"
+    ]
+  },
+  {
+    "display_text": "Arcane Curse (E) curses a 350 radius area, dealing 20/40/60/80 initial damage and 16/24/32/40 damage per second over 6 seconds, while slowing enemy movement speed by 16%/19%/22%/25%. If an affected enemy is silenced, they take 1.25x the slow and damage. Each time an affected enemy casts a spell, the curse's duration is increased. The duration is paused as long as the target is silenced. The penalty multiplier for silenced targets lasts 2 seconds. Does NOT pierce BKB. Affects creeps.",
+    "search_text": "Arcane Curse E AoE damage over time DOT slow 350 radius 20 40 60 80 16 24 32 40 DPS 6 second duration silenced multiplier 1.25 spell cast extend duration",
+    "tags": [
+      "SILENCER",
+      "ABILITY_DATA",
+      "ARCANE_CURSE",
+      "DAMAGE",
+      "SLOW",
+      "AREA_OF_EFFECT"
+    ]
+  },
+  {
+    "display_text": "Glaives of Wisdom (W) is a passive ability. Silencer's attacks deal bonus damage equal to 35%/50%/65%/80% of his Intelligence as pure damage. Each hit also steals 2/3/4/5 Intelligence from the target for 10/20/30/40 seconds. The stolen Intelligence debuff lingers for 3/4/5/6 seconds.",
+    "search_text": "Glaives of Wisdom W passive pure damage intelligence scaling 35% 50% 65% 80% int steal 2 3 4 5 duration 10 20 30 40",
+    "tags": [
+      "SILENCER",
+      "ABILITY_DATA",
+      "GLAIVES_OF_WISDOM",
+      "PURE_DAMAGE",
+      "INTELLIGENCE_STEAL",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Last Word (Q) enchants a single target, providing vision. It deals 120/160/200/240 damage and silences for 3/4/5/6 seconds if the target casts a spell or after the 4-second debuff duration expires. Deals extra damage based on the difference in Intelligence between Silencer and the target, multiplied by 1/1.5/2/2.5. Does NOT pierce BKB. Channeling abilities will trigger the effect once the channel finishes.",
+    "search_text": "Last Word Q single target silence 3 4 5 6 seconds damage 120 160 200 240 int difference multiplier 1 1.5 2 2.5 vision",
+    "tags": [
+      "SILENCER",
+      "ABILITY_DATA",
+      "LAST_WORD",
+      "SILENCE",
+      "NUKER",
+      "SCALING_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Brain Drain is an innate passive ability. Whenever Silencer is within 925 range of an enemy hero when it dies, or if he had debuffed that hero at the time of death, he permanently steals 1 Intelligence. Silencer does not need the killing blow.",
+    "search_text": "Brain Drain innate passive permanent intelligence steal 1 kill assist 925 range debuff",
+    "tags": [
+      "SILENCER",
+      "ABILITY_DATA",
+      "BRAIN_DRAIN",
+      "PASSIVE",
+      "SCALING"
+    ]
+  },
+  {
+    "display_text": "Global Silence (R) is an ultimate ability with a 120-second cooldown. It silences all enemy heroes and units on the map for 4.5/5.25/6 seconds. Does NOT pierce BKB, but the effect is applied to Debuff Immune units; gaining Debuff Immunity after cast will remove it. Works on invisible units. With Aghanim's Scepter, it also applies Arcane Curse to all affected enemies, but multiple Curses do not stack.",
+    "search_text": "Global Silence R ultimate map-wide silence 4.5 5.25 6 seconds cooldown 120 Aghanim's Scepter Arcane Curse invisible BKB",
+    "tags": [
+      "SILENCER",
+      "ABILITY_DATA",
+      "GLOBAL_SILENCE",
+      "ULTIMATE",
+      "SILENCE",
+      "GLOBAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High-Magic Burst Lineups. Prioritize leveling Last Word and Arcane Curse. Use Global Silence to interrupt combos. Build defensive items like Glimmer Cape or Force Staff to survive initial bursts. Your silences are extremely effective here.",
+    "search_text": "Silencer situational high magic burst lineup last word arcane curse global silence interrupt glimmer cape force staff",
+    "tags": [
+      "SILENCER",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing as a Core (Mid/Safe). Max Glaives of Wisdom first for farming and trading. Build stat items like Wraith Bands, Power Treads, and Dragon Lance. Focus on securing last hits to stack Intelligence and accelerate your farm. Use Global Silence to secure ganks or counter-ganks.",
+    "search_text": "Silencer situational core mid safe lane glaives of wisdom max farm wraith band power treads dragon lance last hits int steal",
+    "tags": [
+      "SILENCER",
+      "SITUATIONAL",
+      "CORE_ROLE",
+      "FARMING"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. You are fragile and your silences may not be enough. Build utility and save items like Force Staff, Glimmer Cape, and Rod of Atos. Use Global Silence defensively to disengage fights. Focus on stealing Intelligence with Glaives during any pick-offs to scale.",
+    "search_text": "Silencer situational behind losing game utility force staff glimmer cape rod of atos defensive global silence disengage int steal scaling",
+    "tags": [
+      "SILENCER",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion Heroes (e.g., Chaos Knight, Phantom Lancer). Arcane Curse is effective against illusion clusters. However, Glaives of Wisdom does not cleave. Consider building area damage items like Mjollnir or Gleipnir. Use Global Silence to disable the real hero's escape spells.",
+    "search_text": "Silencer situational illusion heroes arcane curse AoE Mjollnir Gleipnir global silence disable real hero",
+    "tags": [
+      "SILENCER",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "AREA_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: With Heavy Physical Damage Allies (e.g., Drow Ranger, Ursa). Your role shifts to enabling them. Use Global Silence to prevent enemies from using defensive spells like Ghost Scepter, Glimmer Cape, or escape abilities. Build items like Solar Crest or Vladimir's Offering to amplify your team's physical damage.",
+    "search_text": "Silencer situational physical damage allies global silence disable defensive spells solar crest vladimir's offering",
+    "tags": [
+      "SILENCER",
+      "SITUATIONAL",
+      "WITH_PHYSICAL_DAMAGE",
+      "ENABLER"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is +0.25 Arcane Curse Silenced Multiplier, increasing the damage and slow multiplier on silenced targets from 1.25x to 1.5x. This is strong if you are consistently landing silences with your team. Right choice is +25 Attack Speed, providing better right-click DPS and farming speed, essential for a core build. Choose the multiplier for more magic damage output, or Attack Speed for physical damage and farming.",
+    "search_text": "Silencer talent level 10 left +0.25 arcane curse silenced multiplier 1.5 right +25 attack speed DPS farm",
+    "tags": [
+      "SILENCER",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10",
+      "ARCANE_CURSE",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is -20s Global Silence Cooldown, reducing it from 120s to 100s, allowing much more frequent use in fights and pick-offs. Right choice is +2s/+1s Arcane Curse Base/Penalty Duration, increasing the base duration from 6s to 8s and the penalty duration from 2s to 3s. Choose the cooldown reduction for more fight control, or the duration increase for stronger area denial and slow.",
+    "search_text": "Silencer talent level 15 left -20s global silence cooldown 100s right +2s base +1s penalty arcane curse duration",
+    "tags": [
+      "SILENCER",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15",
+      "GLOBAL_SILENCE",
+      "ARCANE_CURSE"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is +40s Glaives of Wisdom Int Steal Duration, extending the temporary Intelligence steal from 40s to 80s at max level, making you much stronger in prolonged fights. Right choice is 250 AoE Last Word, turning the single-target spell into a small area-of-effect silence and nuke. Choose the duration for a sustained right-click build, or the AoE for teamfight control and hitting multiple heroes.",
+    "search_text": "Silencer talent level 20 left +40s glaives int steal duration 80s right 250 AoE last word area silence",
+    "tags": [
+      "SILENCER",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20",
+      "GLAIVES_OF_WISDOM",
+      "LAST_WORD"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is +25% Glaives of Wisdom Damage, increasing the Intelligence multiplier from 80% to 100%, a massive damage increase for a core Silencer. Right choice is 2 Arcane Curse charges, allowing you to cast the spell twice in quick succession for immense area control and damage over time. Choose the damage for single-target deletion, or the charges for controlling teamfights and pushing.",
+    "search_text": "Silencer talent level 25 left +25% glaives damage 100% int right 2 arcane curse charges double cast",
+    "tags": [
+      "SILENCER",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25",
+      "GLAIVES_OF_WISDOM",
+      "ARCANE_CURSE"
+    ]
+  }
+]

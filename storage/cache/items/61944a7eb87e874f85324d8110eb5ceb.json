@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Essence Ring, Tier 2: Neutral item that instantly increases your current and maximum health by 240 for 10 seconds upon activation. This burst of survivability provides a temporary health buffer for clutch moments in skirmishes or to survive burst damage. Its substantial mana cost requires careful mana management. Stats: CD: 25s, Mana: 160, Duration: 10s, Health Gain: 240.",
+    "search_text": "burst health item, instant heal item, health buffer, survival neutral, clutch item, tier 2 neutral, temporary HP, survivability active, essence ring, neutral sustain, defensive neutral, magic stick alternative, mana cost heal",
+    "tags": [
+      "ITEM_DATA",
+      "ESSENCE_RING",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_2",
+      "SURVIVAL",
+      "DEFENSIVE",
+      "HEALTH",
+      "ACTIVE",
+      "BURST_HEAL"
+    ]
+  }
+]

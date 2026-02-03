@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Serrated Shiv, Tier 3: Neutral item granting a 20% chance on attack to have True Strike and deal bonus physical damage equal to 8% of the target's current health (bonus capped at 200 against Roshan). Provides a scaling damage source against high-health targets and counters evasion heroes. Stats: Proc Chance: 20%, Bonus Damage: 8% Current HP, CD: 1s.",
+    "search_text": "serrated shiv, neutral item, true strike, true strike item, blind counter item, evasion counter, percent health damage, current health damage, bonus physical damage, tier 3 neutral, right-click proc, chance attack, on-hit effect, Shiv",
+    "tags": [
+      "ITEM_DATA",
+      "SERRATED_SHIV",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "TRUE_STRIKE",
+      "VS_EVASION",
+      "PHYSICAL_DAMAGE",
+      "ON_HIT",
+      "SCALING_DAMAGE",
+      "CARRY_ITEM"
+    ]
+  }
+]

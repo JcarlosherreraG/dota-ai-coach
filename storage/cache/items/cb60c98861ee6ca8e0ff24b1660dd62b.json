@@ -1,0 +1,52 @@
+[
+  {
+    "display_text": "Morbid Mask, Cost: 900: Provides a passive 18% Lifesteal effect. Heals the attacker for a percentage of the physical damage they deal with each attack. A core component for sustain-focused builds and a stepping stone to more powerful Lifesteal items. Stats: Lifesteal: 18%.",
+    "search_text": "lifesteal item, sustain item, hp sustain, lane sustain, physical lifesteal, heal on hit, hp regen from attack, damage lifesteal, carry sustain, early lifesteal, Morbid Mask",
+    "tags": [
+      "ITEM_DATA",
+      "MORBID_MASK",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SUSTAIN",
+      "REGEN",
+      "HEALTH",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Morbid Mask, Cost: 900: Provides only the Lifesteal passive with no additional attribute bonuses. A pure sustain item for heroes looking to stay healthy through trading or jungling.",
+    "search_text": "morbid mask stats, lifesteal stats, sustain stats, no stats item, pure lifesteal, component item, Morbid Mask",
+    "tags": [
+      "ITEM_DATA",
+      "MORBID_MASK",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Morbid Mask, Cost: 900: Enhances survivability in fights by converting physical attack damage into health. More effective on heroes with high base damage or attack speed to maximize the healing output.",
+    "search_text": "team fight sustain, fight healing, attack lifesteal, survivability in fight, physical survivability, Morbid Mask",
+    "tags": [
+      "ITEM_DATA",
+      "MORBID_MASK",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SUSTAIN",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Morbid Mask, Cost: 900: Synergizes with heroes who rely on physical damage output for farming or fighting, accelerating jungle clear and enabling more aggressive lane trading.",
+    "search_text": "farming sustain, jungle sustain, lifesteal farming, trading sustain, physical carry, sustain build, Morbid Mask",
+    "tags": [
+      "ITEM_DATA",
+      "MORBID_MASK",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "FARMING",
+      "SUSTAIN"
+    ]
+  }
+]

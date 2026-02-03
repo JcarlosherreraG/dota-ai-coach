@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Eye of the Vizier, Cost: 0, Tier 3: Neutral item providing +125/135 Cast Range, +1/1.5 Mana Regeneration, and a 15% Max Mana penalty. Enhances spellcaster positioning and mana sustain but reduces overall mana pool, demanding careful management. Ideal for heroes who rely on long-range initiation or frequent spell usage. Stats: Cast Range: +125 / +135, Mana Regen: +1 / +1.5, Mana Penalty: -15% Max Mana.",
+    "search_text": "cast range item, mana regen item, neutral item tier 3, spellcaster neutral, utility neutral, mana reduction item, support neutral, mana penalty, tier 3 neutral item, Eye of the Vizier",
+    "tags": [
+      "ITEM_DATA",
+      "EYE_OF_THE_VIZIER",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "UTILITY",
+      "MANA_REGEN",
+      "CASTER_ITEM"
+    ]
+  }
+]

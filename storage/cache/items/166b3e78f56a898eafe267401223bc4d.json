@@ -1,0 +1,73 @@
+[
+  {
+    "display_text": "Rod of Atos, Cost: 2250: Active ability Cripple roots a target enemy hero or basic unit for 2 seconds. Provides a catch and lockdown tool for setting up skillshots or securing kills on mobile targets. Essential for heroes needing to lock down single targets. Stats: CD: 18s, Mana: 100, Duration: 2s.",
+    "search_text": "root item, catch item, lockdown item, disable item, Atos, Rod of Atos, immobilize, control item, initiation tool, single target root, intelligence item, root duration, active root, slow root, lock down, disable, Cripple, set up kills, intelligence, health bonus, hp boost",
+    "tags": [
+      "ITEM_DATA",
+      "ROD_OF_ATOS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "ROOT",
+      "DISABLE",
+      "LOCKDOWN",
+      "INITIATION",
+      "CATCH",
+      "INTELLIGENCE",
+      "ACTIVE_ABILITY",
+      "TARGETED"
+    ]
+  },
+  {
+    "display_text": "Rod of Atos, Cost: 2250: Stat profile provides significant intelligence and health: +12 Intelligence and +275 Health. Builds from Staff of Wizardry and Vitality Booster, offering a well-rounded boost to both mana pool, spell damage, and survivability for intelligence heroes.",
+    "search_text": "Atos stats, Rod of Atos stats, intelligence item, hp item, health intelligence item, Staff of Wizardry, Vitality Booster, mana pool, health pool, stat boost, hybrid item, int hp item, attribute item",
+    "tags": [
+      "ITEM_DATA",
+      "ROD_OF_ATOS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "HEALTH",
+      "ATTRIBUTES",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Rod of Atos, Cost: 2250: Team fight role focuses on single-target lockdown, enabling allies to focus fire on a rooted enemy. The root prevents movement but not attacks or spells, making it strong against mobile, right-click heroes but less effective against stationary casters. Useful for stopping channeling spells.",
+    "search_text": "team fight root, lockdown team fight, catch in team fight, disable in fight, Atos team fight, Rod of Atos team role, root initiation, stop channeling, interrupt spells, focus fire, control in fight",
+    "tags": [
+      "ITEM_DATA",
+      "ROD_OF_ATOS",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DISABLE",
+      "LOCKDOWN",
+      "CATCH",
+      "INTERRUPT"
+    ]
+  },
+  {
+    "display_text": "Rod of Atos, Cost: 2250: Situational against high-mobility heroes like those with blinks or movement speed boosts, as the root completely stops them. Also effective versus heroes reliant on positioning and kiting. Less effective against spell-focused heroes who can still cast while rooted or those with innate dispels.",
+    "search_text": "counter mobility, vs blink heroes, vs fast heroes, counter kiting, anti-mobility item, root vs mobility, catch mobile heroes, stop chasing, Rod of Atos counter, situational item, vs escape",
+    "tags": [
+      "ITEM_DATA",
+      "ROD_OF_ATOS",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_MOBILITY",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Rod of Atos, Cost: 2250: Build synergy for intelligence heroes who benefit from the stats and need reliable setup for their abilities, such as Skywrath Mage (for Mystic Flare), Lina, or Zeus. The root guarantees follow-up on skillshots. Also a strong early-to-mid game item for initiators who lack a stun.",
+    "search_text": "Atos build, Rod of Atos hero synergy, intelligence hero item, setup item, skillshot setup, guarantee spells, root for combo, intelligence caster, Skywrath Mage, Lina, Zeus, initiator item, early game catch",
+    "tags": [
+      "ITEM_DATA",
+      "ROD_OF_ATOS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "SETUP",
+      "COMBO"
+    ]
+  }
+]

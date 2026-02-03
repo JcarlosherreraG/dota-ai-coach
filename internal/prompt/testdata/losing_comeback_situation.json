@@ -1,0 +1,48 @@
+{
+  "map": {
+    "name": "dota",
+    "matchid": "100000003",
+    "game_time": 1800,
+    "clock_time": 1800,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "daytime": true
+  },
+  "player": {
+    "team_name": "Radiant",
+    "name": "StruggleCarry",
+    "gold": 1200,
+    "kills": 2,
+    "deaths": 8,
+    "assists": 3,
+    "last_hits": 95,
+    "gpm": 320,
+    "xpm": 380
+  },
+  "hero": {
+    "name": "npc_dota_hero_spectre",
+    "level": 14,
+    "health": 1100,
+    "max_health": 1500,
+    "mana": 400,
+    "max_mana": 500,
+    "alive": true,
+    "stunned": false,
+    "silenced": false
+  },
+  "items": {
+    "slot0": { "name": "item_power_treads", "can_cast": false },
+    "slot1": { "name": "item_blade_mail", "can_cast": true },
+    "slot2": { "name": "item_magic_wand", "charges": 5, "can_cast": true },
+    "slot3": { "name": "item_wraith_band", "can_cast": false },
+    "slot4": { "name": "item_empty" },
+    "slot5": { "name": "item_empty" }
+  },
+  "abilities": {
+    "ability0": { "name": "spectre_spectral_dagger", "level": 4, "can_cast": true, "cooldown": 0 },
+    "ability1": { "name": "spectre_desolate", "level": 2, "can_cast": false },
+    "ability2": { "name": "spectre_dispersion", "level": 4, "can_cast": false },
+    "ability3": { "name": "spectre_haunt", "level": 2, "can_cast": true, "cooldown": 0, "ultimate": true }
+  },
+  "user_context": "Мы сильно проигрываем. Враги (PA, Storm Spirit, Pudge, Witch Doctor, Treant) уже сломали две линии раксов. У PA уже Deso + BKB + Basher. Мне не дают фармить, везде варды.",
+  "user_question": "What is the most important tactical advice for next 30 seconds?"
+}

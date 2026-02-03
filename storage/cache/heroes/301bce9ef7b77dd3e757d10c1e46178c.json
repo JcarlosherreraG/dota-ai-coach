@@ -1,0 +1,183 @@
+[
+  {
+    "display_text": "Lina is a ranged intelligence hero with base 30 Intelligence, 23 Agility, and 20 Strength. She has a base attack time of 1.6 seconds. Compared to average heroes, she has low starting health due to average strength but benefits from high starting intelligence for mana.",
+    "search_text": "Lina ranged int hero stats attack time 1.6 strength 20 agility 23 intelligence 30 base armor movespeed health mana",
+    "tags": [
+      "LINA",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Lina has two Facets. 'Thermal Runaway' makes casting Laguna Blade grant her stacks of Fiery Soul. This Facet is for a burst magic or hybrid playstyle, rewarding successful ultimate casts with a significant power spike in attack and movement speed. 'Slow Burn' makes Lina's spells deal extra damage over time. This Facet facilitates a sustained damage, magic damage over time (DoT) playstyle, adding consistent pressure with each spellcast, especially effective against tanky heroes or in prolonged fights.",
+    "search_text": "Lina Facets Thermal Runaway Laguna Blade Fiery Soul stacks burst magic hybrid Slow Burn spells extra damage over time DoT sustained damage",
+    "tags": [
+      "LINA",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase (first 10 minutes), use Dragon Slave (85/165/245/325 damage, 1075 range) to secure last hits and harass from a safe distance. Light Strike Array (110/160/210/260 damage, 1.2/1.6/2.0/2.4s stun) provides kill threat when paired with a setup or follow-up. Focus on spellcasting to build Fiery Soul stacks for bonus movement (1.0/1.5/2.0/2.5%) and attack speed (8/16/24/32) per stack, lasting 18 seconds, to enhance last-hitting and trading.",
+    "search_text": "Lina laning phase early game Dragon Slave last hit harass Light Strike Array stun kill Fiery Soul stacks move speed attack speed 18s duration",
+    "tags": [
+      "LINA",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power spikes: Level 6 with Laguna Blade (500 damage) for solo kill potential. Level 12 with maxed Fiery Soul and Combustion for sustained magic DPS. Level 18 with Laguna Blade at level 3 (1000 damage). Talent level 10 for either +25 Damage or -3s Dragon Slave cooldown. Talent level 20 for either +10/1% Fiery Soul Per Stack or +60% Combustion Overheat Damage. Aghanim's Scepter timing enables Flame Cloak (35% magic resistance, 35% spell amp). Level 25 with talent for +150% Crit On Targets Affected By Spells.",
+    "search_text": "Lina power spikes level 6 Laguna Blade 500 damage level 12 Combustion Fiery Soul max level 18 ultimate 1000 damage talents 10 15 20 25 Aghanim Scepter Flame Cloak",
+    "tags": [
+      "LINA",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard counters include heroes with high magic resistance or builds like Pipe of Insight which reduce her magic burst. Instant silences (e.g., Skywrath Mage) or hexes prevent her from using Light Strike Array defensively. Heroes with high mobility or blinks (e.g., Anti-Mage, Queen of Pain) can dodge her delayed Light Strike Array stun. Since Fiery Soul is a passive, Break (e.g., Silver Edge, Hoodwink's Sharpshooter) disables her movement and attack speed bonuses.",
+    "search_text": "Lina counters magic resistance Pipe silence hex instant stun dodge mobility Anti-Mage Queen of Pain Break Silver Edge passive Fiery Soul",
+    "tags": [
+      "LINA",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core essential items are Aghanim's Scepter for Flame Cloak (grants 35% magic resistance, 35% spell damage amplification, unobstructed movement, and max Fiery Soul stacks on activation) and Boots of Travel for global mobility to leverage her spellcasting and Fiery Soul move speed. For a right-click build, Mjollnir and Daedalus are essential to maximize attack speed and critical damage, especially with her talents.",
+    "search_text": "Lina core build Aghanim Scepter Flame Cloak magic resist spell amp Fiery Soul stacks Boots Travel Mjollnir Daedalus right click attack speed crit",
+    "tags": [
+      "LINA",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Lina's role is to be a backline spell damage dealer and initiator. Use Light Strike Array (0.5s delay, up to 2.4s stun) to catch key targets. Follow up with Dragon Slave for area damage. Use Laguna Blade (500/750/1000 damage, Does NOT pierce BKB) to instantly delete a low-health core. Activate Flame Cloak for magic resistance and spell amp during fights. Her passive Combustion deals 15/35/55/75 damage in a 400 AoE every 175 damage she deals to a hero, providing significant magic damage over time in clustered fights.",
+    "search_text": "Lina teamfight role backline nuker initiator Light Strike Array stun Dragon Slave AoE Laguna Blade burst kill Flame Cloak Combustion magic damage over time DoT",
+    "tags": [
+      "LINA",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Dragon Slave (Q). Lina channels the breath of a dragon, sending out a wave of fire that scorches every enemy in its path. It deals 85/165/245/325 magic damage. The wave travels 1075 distance at a speed of 1200. Its width starts at 275 and ends at 200. Cooldown is 11/10/9/8 seconds. It can hit units up to 1225 units away and does not trigger spell block or spell reflect.",
+    "search_text": "Lina Dragon Slave Q nuke wave fire damage 85 165 245 325 range 1075 speed 1200 width 275 200 cooldown 11 10 9 8 spell block reflect",
+    "tags": [
+      "LINA",
+      "ABILITY_DATA",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "Ability: Light Strike Array (W). Summons a column of flames that damages and stuns enemies. It deals 110/160/210/260 magic damage in a 250 area of effect. There is a 0.5 second delay before the damage and stun apply. The stun duration is 1.2/1.6/2.0/2.4 seconds. Destroys trees in its area.",
+    "search_text": "Lina Light Strike Array W column flame stun damage 110 160 210 260 AoE 250 delay 0.5s stun duration 1.2 1.6 2.0 2.4 tree destroy",
+    "tags": [
+      "LINA",
+      "ABILITY_DATA",
+      "W"
+    ]
+  },
+  {
+    "display_text": "Ability: Fiery Soul (E) (Passive). Grants bonus attack and movement speed each time Lina hits an enemy with a spell. Each stack grants 8/16/24/32 attack speed and 1.0%/1.5%/2.0%/2.5% movement speed. Stacks up to 7 times. Each stack lasts 18 seconds, and duration refreshes with each new spell hit. Using items does not trigger this.",
+    "search_text": "Lina Fiery Soul E passive attack speed 8 16 24 32 per stack move speed 1.0 1.5 2 2.5 percent stacks 7 duration 18s refresh spell hit no items",
+    "tags": [
+      "LINA",
+      "ABILITY_DATA",
+      "E",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Flame Cloak (E) (Scepter Upgrade). Grants Lina unobstructed movement and increases her spell damage by 35% and magic resistance by 35%. Grants maximum Fiery Soul stacks (7) on activation. Lasts 7 seconds. Does NOT pierce BKB.",
+    "search_text": "Lina Flame Cloak E Aghanim Scepter upgrade unobstructed movement pathing spell damage amp 35% magic resist 35% max Fiery Soul stacks 7 duration 7s BKB",
+    "tags": [
+      "LINA",
+      "ABILITY_DATA",
+      "E",
+      "AGHANIMS"
+    ]
+  },
+  {
+    "display_text": "Ability: Combustion (E) (Innate). Every 175 damage Lina does to an enemy hero causes them to overheat, dealing 15/35/55/75 magic damage to their nearby allies in a 400 AoE. This effect can trigger multiple times from a single damage instance. Overheated illusions deal only 10/15/20/25 damage per proc. The debuff lasts 6 seconds.",
+    "search_text": "Lina Combustion E innate passive overheating damage 15 35 55 75 AoE 400 radius trigger every 175 hero damage illusions 10 15 20 25 duration 6s",
+    "tags": [
+      "LINA",
+      "ABILITY_DATA",
+      "E",
+      "INNATE"
+    ]
+  },
+  {
+    "display_text": "Ability: Laguna Blade (R). Fires a bolt of lightning at a single enemy, dealing 500/750/1000 magic damage. There is a 0.25 second delay before damage applies. Cooldown is 70/60/50 seconds. Does NOT pierce BKB.",
+    "search_text": "Lina Laguna Blade R ultimate single target nuke burst damage 500 750 1000 delay 0.25s cooldown 70 60 50 BKB",
+    "tags": [
+      "LINA",
+      "ABILITY_DATA",
+      "R",
+      "ULTIMATE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor or Magic Resistant Cores. Against heroes like Dragon Knight or Huskar, prioritize the 'Slow Burn' Facet for damage over time, and itemize for magic penetration with items like Kaya \u0026 Sange, Octarine Core, or Veil of Discord. Laguna Blade's burst will be less effective, so consistent Combustion procs and Fiery Soul right-clicks become more important.",
+    "search_text": "Lina situation vs high armor magic resist Dragon Knight Huskar Slow Burn Facet DoT item build magic penetration Kaya Sange Octarine Veil Combustion right click",
+    "tags": [
+      "LINA",
+      "SITUATIONAL",
+      "VS_TANKY"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When your team is losing, focus on defensive positioning and wave clear with Dragon Slave (low 8s cooldown with talent) to stall pushes. Build utility/survival items like Eul's Scepter for self-dispel and setup, or Aether Lens for safer casting range. Use Light Strike Array defensively to stop initiations. Your Combustion can still deal significant damage in teamfights even if you are not the primary target.",
+    "search_text": "Lina situation playing from behind losing defensive wave clear Dragon Slave Euls Scepter dispel Aether Lens range Light Strike Array initiation stop Combustion teamfight",
+    "tags": [
+      "LINA",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Snowballing with Early Advantage. If you secure early kills, rush Aghanim's Scepter for Flame Cloak's power spike (spell amp, magic resist, max stacks). Then build Boots of Travel and aggressive items like Bloodthorn (for silence and crit) or Shiva's Guard (for armor and slow). Use your movement speed from Fiery Soul to aggressively rotate and pick off heroes with your combo.",
+    "search_text": "Lina situation snowballing early lead Aghanim Scepter Flame Cloak spell amp magic resist Boots Travel Bloodthorn Shiva Guard rotation pickoff Fiery Soul move speed",
+    "tags": [
+      "LINA",
+      "SITUATIONAL",
+      "SNOWBALL"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Choice between +25 Damage (left) and -3s Dragon Slave Cooldown (right). Pick +25 Damage if you are focusing on right-click damage, especially with an early Maelstrom or if last-hitting under pressure. Pick -3s Dragon Slave Cooldown if you are playing a more spell-oriented, farming, or harass-heavy role, allowing for more frequent wave clear and poke.",
+    "search_text": "Lina talent level 10 left +25 damage right click right -3 seconds Dragon Slave cooldown spell farming harass",
+    "tags": [
+      "LINA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Choice between 5% Fiery Soul Magic Resist Per Stack (left) and +150 Light Strike Array Damage (right). Pick 5% Magic Resist per stack for survivability against magic-heavy lineups; at 7 stacks, this gives 35% bonus magic resistance. Pick +150 Light Strike Array Damage for increased burst and wave clear, making your initiation combo significantly more deadly.",
+    "search_text": "Lina talent level 15 left 5 percent Fiery Soul magic resistance per stack survival right +150 Light Strike Array damage burst nuke wave clear",
+    "tags": [
+      "LINA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Choice between -20s Laguna Blade Cooldown (left) and +10/1% Fiery Soul Per Stack (right). Pick -20s Laguna Blade Cooldown to have your ultimate available for nearly every fight (30/40/50s cooldown), ideal for a burst magic build. Pick +10/1% Fiery Soul Per Stack for a hybrid or right-click build, granting +70 attack speed and +7% move speed at max stacks, significantly boosting your DPS and mobility.",
+    "search_text": "Lina talent level 20 left -20 seconds Laguna Blade cooldown burst uptime right +10 attack speed 1 percent move speed per stack Fiery Soul hybrid right click DPS",
+    "tags": [
+      "LINA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Choice between +60% Combustion Overheat Damage (left) and +150% Crit On Targets Affected By Spells (right). Pick +60% Combustion Overheat Damage to amplify your magic damage over time in teamfights, especially effective with the 'Slow Burn' Facet and against grouped enemies. Pick +150% Crit On Targets Affected By Spells for a massive right-click power spike; after using any spell (lasting 4 seconds), your attacks can crit for 250% total damage, synergizing perfectly with high attack speed from Fiery Soul.",
+    "search_text": "Lina talent level 25 left +60 percent Combustion Overheat damage magic DoT AoE right +150 percent crit multiplier on targets hit by spells attack right click crit 250 percent 4 seconds",
+    "tags": [
+      "LINA",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

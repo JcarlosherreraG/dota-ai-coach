@@ -1,0 +1,179 @@
+[
+  {
+    "display_text": "Io is a Ranged intelligence hero with a very fast base attack time (1.7). Starting stats are 19 Strength, 14 Agility, and 21 Intelligence, giving him decent early health pool and mana for spellcasting. Compared to average, his 275 attack range is low for a ranged hero, requiring careful positioning in lane.",
+    "search_text": "Io Wisp base stats ranged 275 attack range 1.7 bat strength agility intelligence 19 14 21",
+    "tags": [
+      "Io",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Io's Facet choice defines his supportive role. The Kritzkrieg Facet (Overcharge grants attack speed and spell amp) significantly amplifies the damage output of a tethered carry or core hero, making it ideal for enabling a hyper-carry. The Medigun Facet (Overcharge grants armor and magic resistance) provides survivability for Io and his tether target, better suited for protecting a core against high-burst lineups or when your team needs frontline durability.",
+    "search_text": "Io Facet Overcharge Kritzkrieg attack speed spell amplification Medigun armor magic resistance choice support",
+    "tags": [
+      "Io",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Io's Tether provides strong lane sustain. Use Tether to pull yourself to your lane partner and share regen from consumables like Tango and Healing Salve, which are consumed twice as fast due to Wellspring. Spirits level 1 can be used to secure ranged creeps with 12 creep damage and harass enemies, but be mindful of mana. Prioritize levels in Tether and Overcharge to keep your core healthy and mobile. Use Spirits defensively to zone enemies away.",
+    "search_text": "Io laning early game Tether sustain Wellspring consumables faster Spirits harass mana",
+    "tags": [
+      "Io",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Io's power spikes are tied to his ultimate. Level 6 Relocate enables global ganks and saves. Level 12 with maxed Tether (60/80/100/120% heal/amp transfer) and Overcharge provides strong sustain in fights. Level 18 with max Relocate (70s cooldown) offers high uptime. The level 20 talent (-30s Relocate Cooldown) makes it a 40/50/60s cooldown, enabling near-constant global presence. Level 25 talent (Attack Tethered Ally's Target) transforms Io into a significant damage amplifier.",
+    "search_text": "Io power spike level 6 Relocate gank save level 12 Tether Overcharge level 20 talent cooldown reduction 25 talent attack target",
+    "tags": [
+      "Io",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Io is hard-countered by heroes with instant, long-range disables or silences (e.g., Skywrath Mage, Silencer) that can prevent Relocate channeling. Break effects (e.g., from Silver Edge, Hoodwink) disable the bonuses from Overcharge. High burst damage can kill Io or his tethered core before Overcharge healing can react. Anti-regeneration effects (e.g., Spirit Vessel, Ice Blast) severely reduce the effectiveness of Tether's healing transfer.",
+    "search_text": "Io counter silence break Silver Edge burst damage anti-heal Spirit Vessel prevents Relocate Overcharge",
+    "tags": [
+      "Io",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items for Io are Mekansm (upgraded to Guardian Greaves) for teamfight sustain and mana, and Holy Locket to amplify all healing (including Tether transfer and Overcharge HP regen). Aghanim's Scepter is situationally core, as it provides a second Tether, doubling Io's supportive capabilities.",
+    "search_text": "Io core build Mekansm Guardian Greaves Holy Locket Aghanim's Scepter second Tether healing",
+    "tags": [
+      "Io",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Io's role is to tether to the primary damage dealer or initiator. Use Overcharge to grant them attack speed/spell amp or armor/magic resistance based on your Facet. Position Spirits around the fight to deal area damage (30/50/70/90 hero damage per spirit) and control space. Use Relocate to bring your tethered ally into the fight from an unexpected angle or to save a critical ally by relocating them to safety.",
+    "search_text": "Io teamfight role Tether Overcharge support Spirits damage area control Relocate save initiate",
+    "tags": [
+      "Io",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Tether latches Io to an ally. It provides both units with 6/8/10/12 bonus movement speed. When Io restores health or mana, the tethered ally gains 60/80/100/120% of that amount. The tether breaks if the ally moves beyond 700 range, or if Io manually breaks it. Enemies that touch the tether are slowed by 15/30/45/60% for 0.2 seconds. If cast on a unit beyond 700 range, Io will latch on and pull himself closer at 1000 speed. Io's movement speed will match the tethered ally's.",
+    "search_text": "Io Tether latch movement speed 6 8 10 12 heal transfer 60 80 100 120 mana transfer slow 15 30 45 60 0.2s break range 700 pull speed 1000",
+    "tags": [
+      "Io",
+      "ABILITY_DATA",
+      "TETHER"
+    ]
+  },
+  {
+    "display_text": "Spirits summons 5 spirits that orbit Io at a set distance for 15 seconds. They deal 12/18/24/30 damage per second to creeps on contact but do not explode. If a spirit collides with an enemy hero (within 110 radius), it explodes, dealing 30/50/70/90 damage to all enemies in a 360 radius. Io can use sub-abilities Spirits In and Spirits Out to control the orbital distance. Spirits have a 250 movement rate around Io. The ability has a 15 second cooldown and costs 90/100/110/120 mana.",
+    "search_text": "Io Spirits 5 orbiting damage creep 12 18 24 30 hero explode 30 50 70 90 radius 360 duration 15s cooldown 15 mana 90 100 110 120 control distance in out",
+    "tags": [
+      "Io",
+      "ABILITY_DATA",
+      "SPIRITS"
+    ]
+  },
+  {
+    "display_text": "Overcharge grants Io bonus health regeneration equal to 0.5%/0.6%/0.7%/0.8% of his max health per second for 8 seconds. If Io is tethered to an ally, that ally also gains this regeneration. The Facet chosen modifies Overcharge: Kritzkrieg grants bonus attack speed and spell amplification, while Medigun grants bonus armor and magic resistance.",
+    "search_text": "Io Overcharge health regen 0.5 0.6 0.7 0.8 percent max HP duration 8s Tether ally share Facet Kritzkrieg attack speed spell amp Medigun armor magic resist",
+    "tags": [
+      "Io",
+      "ABILITY_DATA",
+      "OVERCHARGE"
+    ]
+  },
+  {
+    "display_text": "Relocate channels for 3.5/3.25/3.0 seconds, then teleports Io and his tethered ally (if any) to a target location anywhere on the map. Enemies see the target location during the channel. After 12 seconds, both units are returned to their original spots. The cooldown is 90/80/70 seconds. Double-clicking the ability targets your fountain. Only heroes, creep-heroes, and illusions can be relocated.",
+    "search_text": "Io Relocate ultimate global teleport channel 3.5 3.25 3.0s delay return 12s cooldown 90 80 70 Tether ally bring double click fountain",
+    "tags": [
+      "Io",
+      "ABILITY_DATA",
+      "RELOCATE"
+    ]
+  },
+  {
+    "display_text": "Wellspring is Io's innate ability. It causes Io to consume Healing Salve, Tango, Clarity, Bottle, Urn of Shadows, Spirit Vessel, Mana Draught, and Pollywog Charm twice as fast, while still restoring the full amount. This synergizes with Tether, allowing Io to rapidly transfer that healing or mana to a tethered ally.",
+    "search_text": "Io Wellspring passive innate consume consumables 2x faster Healing Salve Tango Clarity Bottle Urn Spirit Vessel Mana Draught Pollywog Charm Tether synergy",
+    "tags": [
+      "Io",
+      "ABILITY_DATA",
+      "WELLSPRING"
+    ]
+  },
+  {
+    "display_text": "When your team is ahead and has a strong physical or magic damage core, pick the Kritzkrieg Facet. Use Relocate aggressively to dive towers with your overcharged, tethered carry, using the bonus attack speed and spell amp to secure kills and break high ground. Itemize for survivability (like Heart of Tarrasque) to stay alive while overcharging.",
+    "search_text": "Io scenario ahead aggressive Kritzkrieg Facet Relocate dive tower overcharge attack speed spell amp kill high ground",
+    "tags": [
+      "Io",
+      "SITUATIONAL",
+      "AHEAD"
+    ]
+  },
+  {
+    "display_text": "When playing from behind or against high burst damage (e.g., Lina, Lion), pick the Medigun Facet. Focus on defensive itemization like Glimmer Cape or Force Staff. Use Relocate exclusively for saving your core from ganks or to split-push safely. Prioritize survival and healing items like Mekansm and Holy Locket to sustain through enemy pushes.",
+    "search_text": "Io scenario behind defensive Medigun Facet Relocate save core burst damage Glimmer Cape Force Staff Mekansm Holy Locket",
+    "tags": [
+      "Io",
+      "SITUATIONAL",
+      "BEHIND"
+    ]
+  },
+  {
+    "display_text": "Against heroes with instant silences or disables (Doom, Skywrath Mage), you must itemize to survive the initial lockdown. A Linken's Sphere is critical to block the first disabling spell aimed at you during a Relocate channel. Position carefully in fights, using Spirits for vision and zoning before committing with Tether.",
+    "search_text": "Io scenario vs silence disable Doom Skywrath Linken's Sphere block Relocate channel Spirits vision zoning",
+    "tags": [
+      "Io",
+      "SITUATIONAL",
+      "VS_DISABLES"
+    ]
+  },
+  {
+    "display_text": "When paired with a mobile, high-damage carry like Slark or Ursa, use Tether to match their movement speed and Overcharge to amplify their damage. Your Relocate allows them to join fights instantly after farming. Coordinate dives; you can Tether to them as they jump in, then use Spirits to cover their escape path.",
+    "search_text": "Io scenario paired mobile carry Slark Ursa Tether movement speed Overcharge damage amp Relocate join fight coordinate dive Spirits escape",
+    "tags": [
+      "Io",
+      "SITUATIONAL",
+      "WITH_MOBILE_CARRY"
+    ]
+  },
+  {
+    "display_text": "At level 10, Io chooses between +1.5s Overcharge Duration and +7 Strength. The Overcharge duration talent extends your and your tethered ally's buff window, providing longer sustain and Facet bonuses in fights, which is generally superior. The +7 Strength talent provides raw HP (133) and is a defensive option if you are dying too quickly.",
+    "search_text": "Io talent level 10 left +1.5s Overcharge Duration right +7 Strength HP sustain vs survival",
+    "tags": [
+      "Io",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At level 15, Io chooses between +5% Tether Movement Speed and +50% Spirits Damage. The movement speed talent (increasing Tether's bonus from 12 to 17) is excellent for chase, escape, and overall positioning for you and your ally. The Spirits damage talent (increasing hero damage from 90 to 135 per spirit) is a significant nuke increase, valuable if your team lacks magical burst.",
+    "search_text": "Io talent level 15 left +5% Tether Movement Speed right +50% Spirits Damage mobility chase vs nuke burst",
+    "tags": [
+      "Io",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At level 20, Io chooses between +0.2% Overcharge Max HP Regen Bonus and -30s Relocate Cooldown. The Relocate cooldown reduction is almost always the pick, transforming the ultimate's cooldown to 40/50/60s, enabling constant global map pressure, saves, and initiations. The Overcharge regen talent provides more healing but is less impactful than the massive utility spike of a lower cooldown Relocate.",
+    "search_text": "Io talent level 20 left +0.2% Overcharge HP Regen right -30s Relocate Cooldown global pressure save initiation vs healing",
+    "tags": [
+      "Io",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At level 25, Io's only talent is Attack Tethered Ally's Target, which causes Io to automatically attack the same target as his tethered ally for 75% of his damage. This talent dramatically increases Io's damage output in late-game fights, effectively adding a second source of right-click damage focused on the primary target. There is no alternative choice.",
+    "search_text": "Io talent level 25 Attack Tethered Ally's Target 75% damage auto attack late game dps",
+    "tags": [
+      "Io",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

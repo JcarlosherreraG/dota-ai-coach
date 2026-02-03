@@ -1,0 +1,243 @@
+[
+  {
+    "display_text": "Sand King is a Melee hero with a Base Attack Time of 1.7, which is average for STR heroes. He has good starting Strength of 23 for HP pool. His Agility of 19 provides a reasonable armor base. His Intelligence of 17 is low, requiring mana management. As a Melee hero with a standard attack range, he relies on closing distance.",
+    "search_text": "Sand King Melee Attack Range 1.7 BAT 23 strength 19 agility 17 intelligence",
+    "tags": [
+      "SAND_KING",
+      "BASE_STATS",
+      "ATTACK_TYPE",
+      "MELEE",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Sandshroud: Increases Sand Storm radius and grants permanent invisibility while inside the storm. This facet is better for safer, sustained damage and escape. Dust Devil: Sand Storm now follows Sand King as he moves. This facet is ideal for aggressive, mobile play, allowing you to chase or reposition while dealing damage. Sandblast: Applying Sand Storm blinds enemies you attack from within it, reducing their attack accuracy. This is strong against physical damage cores. Pinpoint: Creates a Caustic Finale explosion around every hero hit by Stinger's inner radius (125). This significantly amplifies burst damage in teamfights.",
+    "search_text": "Sand King Facets Sandshroud Dust Devil Sandblast Pinpoint Sand Storm radius invisibility follows blind Caustic Finale explosion burst",
+    "tags": [
+      "SAND_KING",
+      "FACET_STRATEGY",
+      "SANDSHROUD",
+      "DUST_DEVIL",
+      "SANDBLAST",
+      "PINPOINT"
+    ]
+  },
+  {
+    "display_text": "In lane, focus on using Caustic Finale to secure last hits and harass the enemy by denying your own creeps. At level 2 or 3, you can look for kill attempts with Burrowstrike (525 range) followed by attacks. Sand King is relatively weak to constant harassment due to being melee. Prioritize regen and stats. Use Sand Storm (475 radius at level 1) to dodge projectiles or secure ranged creeps safely.",
+    "search_text": "Sand King laning phase Caustic Finale last hit harass deny Burrowstrike kill Sand Storm dodge projectile regen stats",
+    "tags": [
+      "SAND_KING",
+      "LANING_PHASE",
+      "LAST_HIT",
+      "HARASS"
+    ]
+  },
+  {
+    "display_text": "Level 6: Epicenter is a massive power spike for ganking and teamfights. Requires 2-second channel. Level 12: Maxed Burrowstrike and Sand Storm, significantly improving mobility and damage. Level 15 Talent (e.g., +25 Sand Storm DPS) increases farm and fight damage. Level 18: Max level Epicenter. Level 20 Talent (e.g., +200 Burrowstrike Cast Range) greatly enhances initiation range. Level 25 Talent (e.g., 50% Sand Storm Slow) is a massive teamfight debuff. Key item spikes: Blink Dagger for initiation, Aghanim's Scepter for extra Epicenter explosions, Shiva's Guard for armor and slow.",
+    "search_text": "Sand King power spike level 6 Epicenter gank teamfight level 12 Burrowstrike Sand Storm max level 15 talent 20 talent 25 talent Blink Dagger Aghanim's Scepter Shiva's Guard",
+    "tags": [
+      "SAND_KING",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "EPICENTER",
+      "ITEM_TIMING"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: Silences and instant disables (Lion Hex, Shadow Shaman Shackles) prevent Sand King from casting Sand Storm or Burrowstrike to escape. Break mechanics (Silver Edge, Hoodwink Sharpshooter) disable Caustic Finale. Heroes with True Sight (Slardar, Zeus) can reveal him in Sand Storm. High mobility heroes can easily escape his Epicenter area. Burrowstrike does NOT pierce BKB.",
+    "search_text": "Sand King counters silence instant disable Lion Hex Shadow Shaman Shackles Break Silver Edge Caustic Finale True Sight Slardar Zeus Sand Storm reveal mobility escape Epicenter Burrowstrike does not pierce BKB",
+    "tags": [
+      "SAND_KING",
+      "HARD_COUNTERS",
+      "SILENCE",
+      "BREAK",
+      "TRUE_SIGHT",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "Core Build: 1. Blink Dagger is absolutely essential for initiating with Burrowstrike into Epicenter. 2. Aghanim's Scepter creates explosions during Epicenter pulses, adding significant area damage. 3. Shiva's Guard provides armor, intelligence, and an active slow that synergizes with his teamfight role and amplates Caustic Finale damage by keeping enemies grouped.",
+    "search_text": "Sand King core items Blink Dagger initiation Aghanim's Scepter Epicenter explosions Shiva's Guard armor intelligence slow",
+    "tags": [
+      "SAND_KING",
+      "CORE_BUILD",
+      "BLINK_DAGGER",
+      "AGHANIMS_SCEPTER",
+      "SHIVAS_GUARD"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Sand King is an Area of Effect initiator and disabler. His job is to Blink in, channel Epicenter (if possible), then use Burrowstrike to stun key targets and reposition. He should stay alive in the fight using Sand Storm for damage and evasion. He applies consistent AoE slows (from Stinger and Sand Storm with talent) and sets up Caustic Finale chain reactions on dying enemies.",
+    "search_text": "Sand King teamfight role AoE initiator disabler Blink Epicenter channel Burrowstrike stun Sand Storm damage evasion slow Caustic Finale chain reaction",
+    "tags": [
+      "SAND_KING",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "AOE",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Burrowstrike. Sand King burrows into the ground and tunnels forward 525/600/675/750 units, damaging and stunning enemy units above him as he resurfaces. Applies Caustic Finale to heroes hit. Cooldown is 14/13/12/11 seconds. Takes 0.52 seconds to burrow and the burrow lasts 1.2/1.4/1.6/1.8 seconds. Tunnel width is 150. Alt-cast allows immediate cast in a direction. Does NOT pierce BKB. Does not trigger spell block.",
+    "search_text": "Burrowstrike Q stun damage tunnel 525 600 675 750 range 14 13 12 11 cooldown Caustic Finale apply 0.52 burrow time 1.2 1.4 1.6 1.8 duration 150 width alt-cast does not pierce BKB",
+    "tags": [
+      "SAND_KING",
+      "ABILITY_DATA",
+      "BURROWSTRIKE",
+      "STUN",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Ability: Sand Storm. Sand King creates a sandstorm that deals 30/50/70/90 damage per second (tick rate 0.2s) in a 475/550/625/700 radius. Grants Sand King Invisibility after a 0.7 second fade delay while inside it. The effect ends if he leaves the area. Lasts 16/20/24/28 seconds. Can be used to dodge projectiles. Attacking or casting breaks invisibility for 0.7 seconds.",
+    "search_text": "Sand Storm W damage per second 30 50 70 90 0.2 tick 475 550 625 700 radius invisibility 0.7 fade delay 16 20 24 28 duration dodge projectile",
+    "tags": [
+      "SAND_KING",
+      "ABILITY_DATA",
+      "SAND_STORM",
+      "INVISIBILITY",
+      "AOE_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Ability: Stinger. Sand King strikes an area with a 230/250/270/290 radius, performing an attack on all enemies hit. Deals base extra damage of 50/75/100/125. Enemies within an inner radius of 125 take 40% extra damage. Applies Caustic Finale and a slow of 10/12/14/16% for 4/5/6/7 seconds.",
+    "search_text": "Stinger E area attack 230 250 270 290 radius 50 75 100 125 bonus damage 125 inner radius 40% more damage Caustic Finale slow 10 12 14 16% 4 5 6 7 seconds",
+    "tags": [
+      "SAND_KING",
+      "ABILITY_DATA",
+      "STINGER",
+      "AOE",
+      "SLOW",
+      "CAUSTIC_FINALE"
+    ]
+  },
+  {
+    "display_text": "Ability: Caustic Finale. Sand King's attacks inject a venom that lasts 4.5/5/5.5/6 seconds. When an affected enemy unit dies, it explodes dealing base damage of 20/40/60/80 plus 3/7/11/15% of the target's max health as damage in a 400 radius.",
+    "search_text": "Caustic Finale passive attack debuff 4.5 5 5.5 6 duration explosion on death 20 40 60 80 base damage 3 7 11 15% max health damage 400 radius",
+    "tags": [
+      "SAND_KING",
+      "ABILITY_DATA",
+      "CAUSTIC_FINALE",
+      "PASSIVE",
+      "AOE_DAMAGE",
+      "MAX_HEALTH_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Ability: Epicenter. After a 2.0 second channel, Sand King sends pulses, dealing 60/70/80 damage per pulse and applying a 30/40/50% movement speed slow and 50/55/60 attack speed slow. The base radius is 500 and increases by 13 per pulse. There are 12/16/20 pulses over the duration. Cooldown is 120/110/100 seconds. The slow lingers for 3 seconds.",
+    "search_text": "Epicenter R ultimate channel 2.0 seconds 60 70 80 damage per pulse 30 40 50% move slow 50 55 60 attack slow 500 base radius 13 increase per pulse 12 16 20 pulses 120 110 100 cooldown 3 second linger",
+    "tags": [
+      "SAND_KING",
+      "ABILITY_DATA",
+      "EPICENTER",
+      "ULTIMATE",
+      "AOE",
+      "SLOW",
+      "CHANNEL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind as Sand King. Focus on defensive itemization like Force Staff or Lotus Orb instead of aggressive Blink Dagger. Use Sand Storm to farm jungle camps safely. Look for counter-initiation with Burrowstrike to save allies instead of engaging. Avoid channeling Epicenter in plain sight; use it from fog or after enemy disables are used.",
+    "search_text": "Sand King playing from behind defensive Force Staff Lotus Orb farm jungle Sand Storm counter-initiation Burrowstrike save allies Epicenter fog",
+    "tags": [
+      "SAND_KING",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Magic Burst Teams. Build items like Pipe of Insight and Hood of Defiance. Use Burrowstrike defensively to dodge spells. Your role shifts to follow-up initiator after the enemy uses their nukes. The Sandblast facet (Blind on attack from Sand Storm) is less valuable here.",
+    "search_text": "Sand King vs magic burst Pipe of Insight Hood of Defiance Burrowstrike dodge spells follow-up initiator Sandblast blind less valuable",
+    "tags": [
+      "SAND_KING",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST",
+      "PIPE",
+      "HOOD"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to break High Ground. Use Caustic Finale on enemy creep waves to push from a distance. Sand Storm can clear waves safely. Use Epicenter to zone defenders away from the tower. The Dust Devil facet (moving Sand Storm) is excellent for sieging while dealing chip damage.",
+    "search_text": "Sand King high ground siege Caustic Finale creep waves Sand Storm clear waves Epicenter zone defenders Dust Devil facet moving storm sieging",
+    "tags": [
+      "SAND_KING",
+      "SITUATIONAL",
+      "HIGH_GROUND",
+      "SIEGE",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy team has multiple BKB carriers. Burrowstrike does NOT pierce BKB, so you must initiate before they activate BKB or focus on non-BKB targets. Epicenter slow does not pierce BKB. Your value comes from controlling supports and applying Caustic Finale explosions from non-BKB kills. Shiva's Guard active slow is crucial.",
+    "search_text": "Sand King vs BKB carriers Burrowstrike does not pierce BKB Epicenter slow does not pierce BKB control supports Caustic Finale explosions Shiva's Guard slow",
+    "tags": [
+      "SAND_KING",
+      "SITUATIONAL",
+      "VS_BKB",
+      "CONTROL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your team lacks physical damage. Prioritize the Pinpoint facet to amplify your physical burst with Stinger and Caustic Finale explosions. Itemize for armor reduction (Assault Cuirass) and attack damage. Your right-clicks and Stinger become a significant damage source.",
+    "search_text": "Sand King lacking physical damage Pinpoint facet Stinger Caustic Finale explosions Assault Cuirass armor reduction attack damage",
+    "tags": [
+      "SAND_KING",
+      "SITUATIONAL",
+      "PHYSICAL_DAMAGE",
+      "PINPOINT_FACET",
+      "ASSAULT_CUIRASS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has strong illusions or summons (Phantom Lancer, Nature's Prophet). Caustic Finale is extremely effective as explosions chain from dying units. Sand Storm deals consistent AoE damage to clear them. The Sandshroud facet (larger radius) can be valuable to cover more area.",
+    "search_text": "Sand King vs illusions summons Phantom Lancer Nature's Prophet Caustic Finale chain explosions Sand Storm AoE clear Sandshroud larger radius",
+    "tags": [
+      "SAND_KING",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "SUMMONS",
+      "AOE_CLEAR"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left choice is +12% Stinger Slow (increasing from 10/12/14/16% to 22/24/26/28%). Right choice is +100 Caustic Finale Radius (increasing from 400 to 500). Choose the slow if your team needs more control and you are fighting early. Choose the radius if you need safer farm/wave clear or are against melee-heavy lineups for bigger explosions.",
+    "search_text": "Sand King talent level 10 left +12% Stinger Slow 22 24 26 28% right +100 Caustic Finale Radius 500 control farm wave clear melee explosions",
+    "tags": [
+      "SAND_KING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left choice is +25 Sand Storm Damage Per Second (increasing from 30/50/70/90 to 55/75/95/115). Right choice is +200 Burrowstrike Cast Range (increasing from 525/600/675/750 to 725/800/875/950). Choose the damage if you are farming or fighting in sustained engagements. Choose the cast range for significantly safer and longer-range initiation or escapes.",
+    "search_text": "Sand King talent level 15 left +25 Sand Storm DPS 55 75 95 115 right +200 Burrowstrike Cast Range 725 800 875 950 farming initiation escape",
+    "tags": [
+      "SAND_KING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left choice is -3s Burrowstrike Cooldown (reducing from 14/13/12/11 to 11/10/9/8). Right choice is +75/7 Base/Incremental Radius of Epicenter (increasing base from 500 to 575 and pulse growth from 13 to 20 per pulse). Choose the cooldown reduction for more frequent stuns and mobility. Choose the radius increase for dramatically larger Epicenter area, essential against mobile or spread-out enemies.",
+    "search_text": "Sand King talent level 20 left -3s Burrowstrike Cooldown 11 10 9 8 right +75 base +7 incremental Epicenter Radius 575 base 20 per pulse more stuns larger AoE",
+    "tags": [
+      "SAND_KING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left choice is +8 Epicenter Pulses (increasing from 12/16/20 to 20/24/28). Right choice is 50% Sand Storm Slow (applies a 50% movement speed slow to enemies in Sand Storm). Choose the pulses for maximum raw damage output if you can get a full channel off. Choose the Sand Storm slow for incredible area control and chase potential, effectively making Sand Storm a massive slow field.",
+    "search_text": "Sand King talent level 25 left +8 Epicenter Pulses 20 24 28 pulses right 50% Sand Storm Slow area control chase damage output",
+    "tags": [
+      "SAND_KING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

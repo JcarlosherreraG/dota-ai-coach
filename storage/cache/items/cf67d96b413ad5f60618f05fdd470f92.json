@@ -1,0 +1,53 @@
+[
+  {
+    "display_text": "Daedalus, Cost: 5100: Epic damage item that provides a 30% chance for attacks to deal 225% damage on a critical strike. This passive significantly amplifies physical damage output, making it a core scaling item for right-click heroes. Stats: CD: N/A, Damage Bonus: +88.",
+    "search_text": "critical strike item, damage item, dps item, right-click item, carry item, Daedalus, Daed, crit chance, crit multiplier, chance to crit, damage scaling, epic item, physical damage, proc chance, attack modifier, passive damage",
+    "tags": [
+      "ITEM_DATA",
+      "DAEDALUS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "PHYSICAL_DAMAGE",
+      "DAMAGE",
+      "CRITICAL_STRIKE",
+      "CARRY_ITEM",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Daedalus, Cost: 5100: Grants +88 base damage. This substantial flat damage increase, combined with its high-cost recipe components, makes it a luxury scaling item for cores. No other attribute bonuses. Stats: Damage: +88.",
+    "search_text": "Daedalus stats, damage stats, +88 damage, daedalus damage bonus, stat profile, daedalus attributes, high damage item, Daedalus",
+    "tags": [
+      "ITEM_DATA",
+      "DAEDALUS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Daedalus, Cost: 5100: Primary role is to dramatically increase team fight damage output through critical strikes. The RNG-based damage spikes can quickly delete enemy heroes or secure kills. Note: Critical Strike does not work against buildings. Stats: Crit Chance: 30%, Crit Damage: 225%.",
+    "search_text": "Daedalus team fight, team fight damage, burst damage, delete hero, kill secure, right-click team fight, RNG damage, critical strike passive, Daedalus",
+    "tags": [
+      "ITEM_DATA",
+      "DAEDALUS",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "PHYSICAL_DAMAGE",
+      "BURST_DAMAGE",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "Daedalus, Cost: 5100: Exceptional synergy with heroes who have high base attack speed or can guarantee multiple attacks, as the 30% proc chance scales with attack frequency. Also powerful when combined with other damage items for multiplicative scaling. Stats: Cost: 5100.",
+    "search_text": "Daedalus synergy, Daedalus build, high attack speed heroes, attack speed synergy, proc synergy, damage stacking, luxury item timing, Daedalus",
+    "tags": [
+      "ITEM_DATA",
+      "DAEDALUS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "ATTACK_SPEED"
+    ]
+  }
+]

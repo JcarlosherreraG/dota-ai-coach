@@ -1,0 +1,194 @@
+[
+  {
+    "display_text": "Ringmaster is a ranged intelligence hero with slow attack speed (1.7 BAT), 21 base strength, 13 base agility, and 25 base intelligence. This stat spread indicates a low armor, high mana pool caster who is fairly durable early due to good base strength. His slow attack rate makes right-click damage unreliable.",
+    "search_text": "Ringmaster stats intelligence strength agility BAT attack type ranged",
+    "tags": [
+      "Ringmaster",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Ringmaster has two facets. 'Carny Classics' grants Souvenirs: Funhouse Mirror, Strongman Tonic, and Whoopee Cushion. 'Sideshow Secrets' grants Souvenirs: Crystal Ball, Unicycle, and Weighted Pie. This facet determines which of three unique, powerful Souvenir items Ringmaster has access to. The choice depends on which set of Souvenir abilities better suits your team's strategy or counters the enemy lineup.",
+    "search_text": "Ringmaster facets Carny Classics Sideshow Secrets Funhouse Mirror Strongman Tonic Whoopee Cushion Crystal Ball Unicycle Weighted Pie",
+    "tags": [
+      "Ringmaster",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Laning Phase: Prioritize Impalement Arts for harass and last-hitting. Its 50/75/100/125 impact damage and percentage-based bleed is strong against enemy offlaners. Use Escape Act defensively to save yourself or your support from ganks, granting magic resistance and slow immunity. Hold Tame the Beasts for counter-engages or to secure kills with its fear effect.",
+    "search_text": "Ringmaster laning guide early game 0-10 minutes last hit harass Impalement Arts Escape Act Tame the Beasts",
+    "tags": [
+      "Ringmaster",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 (unlocks Spotlight, a strong area denial and illusion counter). Level 12 (maxed Impalement Arts and Escape Act for strong survivability and damage). Level 20 talent (often the +75/+300 Tame the Beasts damage is a huge spike). Level 25 talent (either choice is extremely powerful). Item timings with core magic amplification items like Veil of Discord or Kaya \u0026 Sange.",
+    "search_text": "Ringmaster power spikes levels 6 12 18 20 25 talent timings",
+    "tags": [
+      "Ringmaster",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: High magic resistance heroes (e.g., Anti-Mage, Huskar) reduce his spell damage. Silences or instant disables (e.g., Skywrath Mage, Doom) prevent Escape Act and Spotlight. Break (e.g., Silver Edge, Viper) may disable Souvenir passive effects. Spell immunity (BKB) makes enemies immune to all his spells (none have pierce_immunity: 1).",
+    "search_text": "Ringmaster counters BKB spell immunity silence break disable magic resistance",
+    "tags": [
+      "Ringmaster",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core Build: Eul's Scepter of Divinity for set-up, dispel, and mana regen. Kaya \u0026 Sange for spell amp, status resistance, and stats. Black King Bar is often required to reliably channel Tame the Beasts and cast Spotlight in fights without being interrupted.",
+    "search_text": "Ringmaster core items Eul's Scepter Kaya and Sange Kaya Sange BKB",
+    "tags": [
+      "Ringmaster",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "Teamfight Role: Backline area controller and initiator. Use Wheel of Wonder to start fights, dealing 50/75/100 DPS and slowing by -50%. Position Spotlight to counter enemy illusions and apply miss chance. Use Escape Act to save a key ally. Channel Tame the Beasts for maximum fear and damage on crucial targets. Does NOT pierce BKB.",
+    "search_text": "Ringmaster teamfight initiator controller area denial support save damage spotlight wheel",
+    "tags": [
+      "Ringmaster",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Tame the Beasts. Ringmaster channels for up to 1.0 second, then cracks his whip in an area. The area starts at 450 width and shrinks to 200 width. Damage scales from 50/75/100/125 (minimum) up to 180/280/380/480 (maximum) based on channel time. Fear duration scales from 0.1/0.2/0.3/0.4 seconds (minimum) to 0.6/0.8/1.0/1.2 seconds (maximum). The crack effect lasts 0.2 seconds. Does NOT pierce BKB (has_debuff_immunity: 0).",
+    "search_text": "Ringmaster Q Tame the Beasts whip channel damage 50 75 100 125 180 280 380 480 fear duration 0.1 0.2 0.3 0.4 0.6 0.8 1.0 1.2 radius 450 200",
+    "tags": [
+      "Ringmaster",
+      "ABILITY_DATA",
+      "Q",
+      "Tame the Beasts"
+    ]
+  },
+  {
+    "display_text": "Ability: Escape Act. Ringmaster packs himself or an ally within 600 range into a box for 2.0/2.4/2.8/3.2 seconds. The boxed unit becomes untargetable, phased, and gains 50/60/70/80% bonus magic resistance, 0/8/16/24 bonus movement speed, and 100% slow resistance. The unit is also muted, silenced, and disarmed. The effect breaks if the box moves more than 500 units away from its creation point.",
+    "search_text": "Ringmaster W Escape Act box untargetable magic resist 50 60 70 80 move speed 8 16 24 slow immunity save disjoint cooldown 38 32 26 20",
+    "tags": [
+      "Ringmaster",
+      "ABILITY_DATA",
+      "W",
+      "Escape Act"
+    ]
+  },
+  {
+    "display_text": "Ability: Impalement Arts. Ringmaster throws a dagger. It deals 50/75/100/125 impact damage to the first enemy hit, applies a 100% slow for 0.8 seconds, and causes the target to bleed. Bleeding heroes take 3.5%/4.0%/4.5%/5.0% of their max health per second for 4 seconds. Bleeding creeps take 100 flat damage per second for 4 seconds. The dagger travels at 1350 speed and has a width of 130.",
+    "search_text": "Ringmaster E Impalement Arts dagger throw bleed 3.5% 4% 4.5% 5% max health creep 100 DPS damage 50 75 100 125 slow 100% 0.8s",
+    "tags": [
+      "Ringmaster",
+      "ABILITY_DATA",
+      "E",
+      "Impalement Arts"
+    ]
+  },
+  {
+    "display_text": "Ability: Souvenir Slot. A passive ability that allows Ringmaster to collect Souvenirs from kills and assists. Souvenirs are powerful, unique items determined by your chosen facet.",
+    "search_text": "Ringmaster passive souvenir slot kill assist facet item",
+    "tags": [
+      "Ringmaster",
+      "ABILITY_DATA",
+      "Souvenir Slot"
+    ]
+  },
+  {
+    "display_text": "Ability: Spotlight. Ultimate ability. Ringmaster shines 3 spotlights that sweep over a 450 radius area at a speed of 0.785. Enemies in the light have a 30% chance to miss attacks and are revealed. Illusions hit by the beam lose 30% of their max health per second. Effects linger for 0.3 seconds after leaving the light. Duration is 8 seconds.",
+    "search_text": "Ringmaster R ultimate Spotlight miss chance 30% reveal invisible illusions 30% max health per second sweep radius 450 duration 8",
+    "tags": [
+      "Ringmaster",
+      "ABILITY_DATA",
+      "ULT",
+      "Spotlight"
+    ]
+  },
+  {
+    "display_text": "Ability: Wheel of Wonder. Ultimate ability. Ringmaster rolls a wheel to a target location up to 1400 units away (minimum 700), knocking enemies aside. At the destination, it creates a 275 radius aura that deals 50/75/100 DPS and slows by -50%. Enemy heroes facing the wheel for 0.5 seconds are mesmerized and drawn to it. The first mesmerized hero triggers a 4-second timer before the wheel explodes for 300/450/600 damage in a 500 radius. The wheel stuns for 2.5/2.75/3.0 seconds.",
+    "search_text": "Ringmaster R ultimate Wheel of Wonder roll knockback DPS 50 75 100 slow 50% mesmerize face 0.5s explode damage 300 450 600 stun 2.5 2.75 3.0",
+    "tags": [
+      "Ringmaster",
+      "ABILITY_DATA",
+      "ULT",
+      "Wheel of Wonder"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on defensive and utility play. Use Escape Act to save core heroes. Place Spotlight defensively to protect high ground, countering enemy illusion pushes and reducing their right-click damage with miss chance. Use Wheel of Wonder for counter-initiation inside your base. Build items like Glimmer Cape or Force Staff to augment your saving capabilities.",
+    "search_text": "Ringmaster scenario playing from behind defense save high ground counter initiate",
+    "tags": [
+      "Ringmaster",
+      "SITUATIONAL",
+      "From Behind"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor / Spell Immunity. Against high armor or BKB-heavy lineups, Ringmaster's physical damage and non-BKB-piercing spells are less effective. Prioritize building items that provide utility and control that works through BKB, like Nullifier (post-BKB) or Shiva's Guard (aura). Focus on using Spotlight's utility (reveal, miss chance) and save allies with Escape Act. Your percentage-based Impalement Arts bleed still works through BKB.",
+    "search_text": "Ringmaster scenario high armor BKB spell immunity utility control percentage damage",
+    "tags": [
+      "Ringmaster",
+      "SITUATIONAL",
+      "Vs High Armor",
+      "Vs BKB"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Wombo-Combo Team. When paired with heroes like Enigma, Magnus, or Faceless Void, your AOE spells become devastating. Coordinate so you can channel Tame the Beasts for maximum duration during their big ultimates. Position Wheel of Wonder and Spotlight directly on top of the enemy team after they are disabled to maximize damage and control.",
+    "search_text": "Ringmaster scenario wombo combo teamfight Enigma Magnus Faceless Void AOE setup",
+    "tags": [
+      "Ringmaster",
+      "SITUATIONAL",
+      "With Wombo Combo"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Illusion Heroes (Phantom Lancer, Chaos Knight). This is Ringmaster's specialty. Level Spotlight early. In fights, position Spotlight to cover as much of the fight as possible; its 30% max health per second damage to illusions will instantly clear them. Combine with Wheel of Wonder's mesmerize to control the real hero.",
+    "search_text": "Ringmaster scenario counter illusions Phantom Lancer Chaos Knight Spotlight 30% health per second",
+    "tags": [
+      "Ringmaster",
+      "SITUATIONAL",
+      "Vs Illusions"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is +75 Tame the Beasts radius (increases reliability and area coverage). Right choice is +85 Impalement Arts impact damage (increases burst and last-hit potential). Choose the radius if you need better teamfight control, choose the damage for stronger laning and pick-off potential.",
+    "search_text": "Ringmaster talent level 10 Tame the Beasts radius 75 Impalement Arts damage 85",
+    "tags": [
+      "Ringmaster",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is Impalement Arts Penetrates One Target (allows the dagger to hit two enemies in a line). Right choice is Debuff Immunity While Channeling Tame the Beasts (also grants 50% magic resistance). Choose penetration if you need more wave clear and multi-hero damage. Choose debuff immunity if you are being interrupted or focused when channeling your Q.",
+    "search_text": "Ringmaster talent level 15 Impalement Arts penetrates one target Tame the Beasts debuff immunity 50% magic resistance",
+    "tags": [
+      "Ringmaster",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is +1s Impalement Arts bleed and slow duration (extends slow to 1.8s and bleed to 5s). Right choice is +75/+300 Tame the Beasts Min/Max damage (makes damage 125/175/225/275 min and 255/380/505/630 max). Choose the duration for more consistent control and damage over time. Choose the raw damage for a massive spike in your channeled nuke's potential.",
+    "search_text": "Ringmaster talent level 20 Impalement Arts duration 1s bleed slow Tame the Beasts damage 75 300 min max",
+    "tags": [
+      "Ringmaster",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is +100 Wheel Radius and Range (increases explosion radius to 600 and cast range to 1500). Right choice is Escape Act Grants Strong Dispel and Flying. Choose the Wheel upgrade for massive, game-winning AOE control and damage. Choose the Escape Act upgrade to make it an unparalleled save tool that can purge stuns and ignore terrain.",
+    "search_text": "Ringmaster talent level 25 Wheel of Wonder radius 100 range 100 Escape Act strong dispel flying",
+    "tags": [
+      "Ringmaster",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "display_text": "Cost: 5200: Scythe of Vyse (Sheepstick). Single-target hex ability that turns an enemy hero or basic unit into a harmless critter for 2.8 seconds. The hexed target is silenced, muted, disarmed, has a base movement speed of 140, and any illusions are instantly destroyed. A powerful hard disable used for initiation or shutting down key threats. Stats: CD: 20s, Mana Cost: 250, Duration: 2.8s.",
+    "search_text": "hex item, hard disable, single target disable, initiation disable, catch item, lockdown item, sheepstick, scythe, silence item, mute item, disarm item, kill illusion item, illusion destroy, hex duration, disable counter, instant hex, Scythe of Vyse",
+    "tags": [
+      "ITEM_DATA",
+      "SCYTHE_OF_VYSE",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "HEX",
+      "DISABLE",
+      "LOCKDOWN",
+      "INITIATION",
+      "CATCH",
+      "SILENCE",
+      "MUTE",
+      "DISARM",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Cost: 5200: Provides +30 Intelligence and +8.5 Mana Regeneration. A significant intelligence boost for spellcasters, increasing mana pool and spell damage, while the mana regeneration supports ability spam. This stat profile makes it a core stat item for intelligence heroes seeking control.",
+    "search_text": "scythe stats, intelligence item, mana regen item, sheepstick stats, intellect boost, spellcaster item, intelligence carry, mana sustain, Scythe of Vyse",
+    "tags": [
+      "ITEM_DATA",
+      "SCYTHE_OF_VYSE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "INTELLIGENCE",
+      "MANA_REGEN",
+      "DAMAGE",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Cost: 5200: A premier hard control and initiation item in team fights. The instant cast, point-and-click hex provides guaranteed catch on a key target, preventing them from casting spells, using items, or attacking for nearly 3 seconds. Its relatively short cooldown makes it usable in multiple engagements.",
+    "search_text": "team fight disable, team fight control, catch tool, lock down carry, disable initiator, pickoff item, gank item, reliable disable, Scythe of Vyse",
+    "tags": [
+      "ITEM_DATA",
+      "SCYTHE_OF_VYSE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DISABLE",
+      "LOCKDOWN",
+      "INITIATION",
+      "CATCH",
+      "CONTROL"
+    ]
+  },
+  {
+    "display_text": "Cost: 5200: Situational against elusive heroes reliant on mobility and active items to survive. The hex disables their escape mechanisms, and the mute prevents them from using defensive items like BKB or Ghost Scepter. It also instantly destroys illusions, making it effective against heroes who rely on them.",
+    "search_text": "counter mobility, counter escape, counter bkb, counter ghost scepter, counter illusion, counter manta, counter phantom lancer, counter mobility heroes, disable escape, mute items, Scythe of Vyse",
+    "tags": [
+      "ITEM_DATA",
+      "SCYTHE_OF_VYSE",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_CONTROL",
+      "VS_MOBILITY",
+      "VS_ILLUSIONS",
+      "DISABLE",
+      "CATCH"
+    ]
+  },
+  {
+    "display_text": "Cost: 5200: Core synergy for intelligence heroes or any hero needing reliable single-target lockdown to enable kills. Especially potent on heroes with high mobility who can get into hex range (Blink Dagger carriers) or on supports looking for a game-changing disable. The stats support sustained spellcasting.",
+    "search_text": "hex core item, intelligence initiator, sheepstick carrier, blink dagger combo, support disable item, disable support, intelligence control, Scythe of Vyse",
+    "tags": [
+      "ITEM_DATA",
+      "SCYTHE_OF_VYSE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "DISABLE",
+      "INTELLIGENCE",
+      "INITIATION",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

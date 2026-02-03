@@ -1,0 +1,255 @@
+FILE: 4.json
+QUESTION: Клинкз душит орчидом. Какой предмет мне нужен, чтобы сбрасывать сало?
+GENERATION TIME: 1.90s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, ETHEREAL_BLADE, TEAMFIGHT_ROLE, FULL_ITEM, SAVE, DEFENSIVE, OFFENSIVE, SETUP, BUFF, DEBUFF] | Ethereal Blade, Cost: 5200: Primarily a defensive save item that makes a hero (ally or enemy) immune to physical attacks, used to protect key allies from physical damage bursts. The 80% slow and magic damage amplification make it a strong offensive setup item for magical nukes, especially combos with Veil of Discord or high magic damage heroes.
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, SYNERGY_BUILD, SUPPORT_ITEM, VS_MANA_BURN, UTILITY] | Arcane Boots, Cost: 1400: Ideal for support heroes who need mobility and want to empower their team. Excellent in lineups with high mana-cost abilities or long-duration spell spammers. Counters strategies reliant on mana burn by quickly replenishing pools. The active does not work on Meepo clones.
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, CORE_MECHANICS, SUPPORT_ITEM, AURA, MANA_REGEN, UTILITY, TEAM_BUFF] | Arcane Boots, Cost: 1400: Active ability Replenish restores 150 mana to all allies within a large 1200 radius. Also grants a passive aura providing +1 mana regeneration to nearby allies. A core mana-battery for spell-heavy teams. Stats: CD: 55s, Cost: 1400, Radius: 1200, Mana Restore: 150.
+---
+[TAGS: Ability, Utility, Disruption, Slow] | Purge: Dispels positive buffs from enemies and slows their movement speed, ideal for countering buff-heavy heroes. Stats: Duration: 4s, Cast Range: 600, Cast Time: 0.3s
+---
+[TAGS: Silencer, Ability, Crowd Control] | AoE Last Word: Expands Silencer's silencing ability to affect multiple enemies in an area. Stats: Radius: (value)
+---
+[TAGS: Ability, AOE, Silence] | The Calling: Summons revenants that silence and damage enemies in an area. Stats: Damage: 45/90/135/180, Duration: 5/6/7/8s, Silence Duration: 1.5/2/2.5/3s, Num Revenants: 4
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, RECIPE, UPGRADE] | Swift Blink Recipe CORE_MECHANICS: This is a combine recipe that allows upgrading Blink Dagger into Swift Blink. The recipe itself provides no stats or mechanics. Stats: Cost: 1750 gold.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, COMPONENT] | Shadow Amulet CORE_BUILD / SYNERGIES: Builds into Shadow Blade and Silver Edge. Primarily purchased for the upgrade path, not for standalone value. No direct stat bonuses outside its active ability. Stats: Cost: 900 gold.
+---
+[TAGS: MEDUSA, SITUATIONAL, MANA_BURN, ANTI_MAGE, NYX, HEX, HP_BUFFER, LINKENS] | Scenario: Enemy has Mana Burn (Anti-Mage, Nyx). Mana Burn is a direct counter to Mana Shield. Itemize for instant lockdown (Scythe of Vyse) to kill them quickly. Build raw HP items like Eye of Skadi and Heart of Tarrasque to have a health buffer when your mana is drained. Consider Linken's Sphere to block key mana burn spells.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, TIMING] | Ethereal Blade Recipe TEAMFIGHT_ROLE: Purchasing this recipe completes the Ethereal Blade, enabling its active and passive effects for upcoming teamfights. It signifies a timing where the carrier gains a significant new tool for magic burst or defensive utility. Stats: Cost: 900 gold.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, MIDGAME, CORE_BUILD] | Arcane Boots Recipe LANING_PHASE: This is a late lane or early mid-game purchase that signals the intent to complete the full Arcane Boots. Its cost is relatively low, aiming for a completion timing shortly after the initial basic boots, assuming the other components (Energy Booster, Boots of Speed) are acquired. Stats: Cost: 475 gold.
+---
+[TAGS: LESHRAC, SITUATIONAL, PUSH] | Scenario: Need to Push Towers Early. Use the Chronoptic Nourishment facet for mana sustain from attacks on the tower. Max Diabolic Edict first. Use it on cooldown with creep waves to take towers quickly. Build early mana items (Soul Ring, Arcane Boots) to support this. Group with your team to secure objectives.
+---
+[TAGS: Silencer, Ability, Debuff] | Arcane Curse Undispellable: Makes Arcane Curse immune to dispels, ensuring consistent damage and slow application.
+---
+[TAGS: ITEM_DATA, GHOST_SCEPTER, SYNERGY_BUILD, FULL_ITEM, DEFENSIVE, SUPPORT_ITEM, INTELLIGENCE_HERO, SURVIVAL] | Ghost Scepter, Cost: 1500: Core defensive synergy for heroes with escape abilities (e.g., Force Staff) or who are naturally fragile and targeted by physical damage. Often built by Intelligence supports and cores (e.g., Skywrath Mage, Zeus) to survive ganks and man-fights against physical carries.
+---
+[TAGS: Necrophos, ABILITY_DATA, GHOST_SHROUD, W] | Ability: Ghost Shroud (W). Necrophos becomes ethereal for 3/3.5/4/4.5 seconds, unable to attack or be attacked by physical attacks. While active, he emits a 700 radius aura that slows enemy movement speed by 16%/19%/22%/25%. He takes 20% increased magic damage, but his healing and health regeneration received are amplified by 55%/60%/65%/70%. Cooldown is 28/24/20/16 seconds.
+---
+[TAGS: Invoker, ABILITY_DATA, GHOST_WALK, ESCAPE] | Ghost Walk: Makes Invoker invisible for 60 seconds, providing 2/4/6/8/10/12/14/16/18/20 HP regen and mana regen per second. Creates an aura in a 450 radius that slows enemies by 20/25/30/35/40/45/50/55/60/65% and slows Invoker by 20/15/10/5/0/5/10/15/20/25%. Slow does NOT affect spell immune enemies. Does NOT pierce BKB. Cooldown: 32 seconds.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, OFFENSIVE, SLOW, ACTIVE_EFFECT] | Phylactery CORE_MECHANICS: Enhances the next single-target spell you cast on an enemy, adding a separate 150 bonus damage instance and applying a 30% slow for 3 seconds. The effect triggers automatically on the next applicable spell cast after the cooldown refreshes. Stats: Cost: 2600 gold, +7 All Attributes, +6.5 Health Regeneration, +2.5 Mana Regeneration, Empower Spell Bonus Damage: 150, Slow: 30%, Slow Duration: 3s, Cooldown: 9s.
+---
+[TAGS: Ability, Cooldown, Utility] | Unleash Pulse Refreshes Rebound: Unleash Pulse resets the cooldown of Rebound, enabling rapid repositioning and continuous engagement.
+---
+[TAGS: Shadow Fiend, FACET_STRATEGY] | Shadow Fiend has two Facets. 'Lasting Presence' enhances his late-game scaling: each hero kill near him increases Presence of the Dark Lord's armor reduction by -1 and permanently increases Necromastery's maximum soul capacity by 1 until he dies. Choose this for a hard carry build focused on right-click damage. 'Shadowmire' adds a 3-second slow to Shadowraze (25% movement slow at all levels), improving his early-game kill threat and lane control. Choose this for a burst magic damage or ganking playstyle.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, MANA_SUSTAIN] | Arcane Boots Recipe CORE_BUILD / SYNERGIES: This is the final component required to build the full Arcane Boots item. It synergizes with a build order that prioritizes mana sustain for spellcasting heroes and their team. The typical build path is Boots of Speed and Energy Booster, followed by this recipe.
+---
+[TAGS: TIMBERSAW, CORE_BUILD, ARCANE_BOOTS, BLINK_DAGGER, AGHANIMS_SCEPTER] | Arcane Boots (or a Mana-focused alternative like Bloodstone) are essential to fuel ability spam, especially Chakram. Blink Dagger is core for instant initiation and repositioning with Timber Chain combos. Aghanim's Scepter provides a second Chakram with the Second Chakram facet, doubling area control and damage, or significantly boosts damage with the Shredder facet.
+---
+[TAGS: ITEM_DATA, NULLIFIER, CORE_MECHANICS, FULL_ITEM, DISPEL, CLEANSE, DEBUFF, SLOW, CATCH, UTILITY] | Nullifier, Cost: 4375: Continuously dispels a single target enemy, applying a debuff for 4 seconds that re-applies dispels every 0.5 seconds and slows them by 10%. Its projectile can be cast on invulnerable units, making it a powerful catch and purge tool against buff-reliant heroes. Stats: CD: 10s, Slow: 10%, Debuff Duration: 4s.
+---
+[TAGS: Ability, Untargetable, Healing] | Ghost Shroud: Necrophos becomes untargetable and amplifies healing while slowing enemies. Stats: Duration: 3/3.5/4/4.5, Restoration Amplification: 45%/55%/65%/75%, Movement Slow: 16%/19%/22%/25%, Slow Radius: 700, Increased Magic Damage: -20%, Cast Time: 0, Cooldown: 28/24/20/16
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, STAT_PROFILE, FULL_ITEM, UTILITY] | Blink Dagger, Cost: 2250: Provides no attribute bonuses or stats. Pure utility item whose value comes entirely from its powerful, low-cooldown active mobility spell.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Swift Blink Recipe CORE_BUILD / SYNERGIES: Core build path component. Used to combine Blink Dagger into Swift Blink. No other build-from synergies.
+---
+[TAGS: ITEM_DATA, ETHEREAL_BLADE, CORE_MECHANICS, FULL_ITEM, DEFENSIVE, GHOST_FORM, VS_PHYSICAL, MAGICAL_DAMAGE, SLOW, DEBUFF, SAVE, NUKE] | Ethereal Blade, Cost: 5200: Active ability (Ether Blast) converts target unit to ethereal form, making them immune to physical damage, slowing them by 80%, and making them take 30% increased magic damage for 4 seconds. Allied targets are also made ethereal but not slowed. Deals magical damage to enemies equal to the sum of all your attributes plus 50. Shares cooldown with Ghost Scepter upgrades. Stats: CD: 22s, Mana Cost: 100, Duration: 4s, Slow: 80%, Magical Damage Bonus: 30%.
+---
+[TAGS: DAZZLE, ABILITY_DATA, NOTHL_PROJECTION] | Ability: Nothl Projection (Shard Ability). Dazzle becomes an invulnerable, spell-casting spirit tethered to his body for 5-12 seconds. He can cast spells, attack, and use items in this form. While active, his basic abilities are empowered: Poison Touch hexes enemies for 1.4/1.6/1.8s, Shallow Grave heals the target for 225/300/375 HP upon expiration, and Shadow Wave cooldown is reduced by 30%/40%/50%. If the spirit goes beyond 1600 units from the body, a leash pulls it back with increasing strength. The spirit moves at 1200 speed initially and returns to the body in 0.75s when the spell ends. Cannot attack buildings.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, LATE_GAME, UPGRADE] | Overwhelming Blink LANING_PHASE: Late-game upgrade (6800 gold), built from Blink Dagger and Reaver. Early components provide mobility and strength; aim for completion after core items (e.g., post-Blink, ~20-30m). Enhances survivability and initiation potential in mid-late transitions. Stats: Cost: 6800 gold, Components: Blink Dagger and Reaver.
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, STAT_PROFILE, MOBILITY, MANA_REGEN, UPGRADE, SUPPORT_ITEM] | Arcane Boots, Cost: 1400: Provides +45 movement speed and +0.25 base mana regeneration. Built from Boots and Ring of Basilius, transitioning early mana sustain into a team-wide mana restoration tool.
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, TEAMFIGHT_ROLE, UTILITY, AURA, BUFF, SUPPORT_ITEM] | Arcane Boots, Cost: 1400: Strong teamfight utility item for sustaining allies' mana pools. The aura passively helps during sieges and stand-offs, while the active can enable key follow-up spells after an engagement. Its value scales with the number of spellcasting allies.
+---
+[TAGS: Ability, Cooldown, Crowd Control] | Hex Cooldown Reduction: Decreases the cooldown of Hex, allowing for more frequent use in battles. Stats: Cooldown Reduction: bonus_AbilityCooldowns
+---
+[TAGS: ITEM_DATA, PRINCES_KNIFE, CORE_DESCRIPTION, NEUTRAL, TIER_3, DISABLE, HEX, INITIATION, CATCH, LOCKDOWN, MOBILITY, PROJECTILE_SPEED] | Prince's Knife, Cost: 0: Tier 3 neutral item granting +60% Attack Projectile Speed and +140 Movement Speed. Its unique passive, Hex Strike, applies a 1.5-second Hex to the target of your next basic attack after a 10-second cooldown, turning them into a frog, which is a strong, instant-disable. This makes it a potent tool for initiating fights, catching mobile heroes, or setting up kills, despite providing no raw stats. Stats: CD: 10s, Duration: 1.5s, MS: +140, Projectile Speed: +60%.
+---
+[TAGS: Ability, Crowd Control, Area of Effect] | AoE Hex: Expands the area of effect for Hex, increasing its utility in team fights. Stats: Radius: bonus_radius
+---
+[TAGS: ITEM_DATA, GHOST_SCEPTER, SITUATIONAL_VS_PHYSICAL, FULL_ITEM, VS_PHYSICAL, SITUATIONAL, COUNTER_ITEM] | Ghost Scepter, Cost: 1500: Situational against heavy physical burst damage compositions. Excellent counter to enemy right-click carries who rely on high physical DPS to secure kills. Be cautious against mixed damage teams or heroes with high magical burst, as the +30% magic vulnerability can be fatal.
+---
+[TAGS: SPECTRE, SITUATIONAL, FROM_BEHIND] | Scenario: Playing from Behind. If you die in lane or your team is losing, skip Radiance. Build cheaper fighting items like Diffusal Blade and Blade Mail. Use Haunt to assist in fights anywhere on the map for easy kills and assist gold. Focus on farming jungle with Dispersion tankiness. Consider the Twist the Knife facet for easier pick-offs with Haunt + Reality + Dagger.
+---
+[TAGS: ITEM_DATA, ENHANCEMENT_EVOLVED, CORE_DESCRIPTION, NEUTRAL, STAT_BOOST, ATTRIBUTES, STRENGTH, AGILITY, INTELLIGENCE, UTILITY] | Enhancement Evolved, Tier N/A: Grants +40 to the primary attribute of the holder's hero. For Universal Heroes, it grants +24 to each of Strength, Agility, and Intelligence instead. Does not have an active ability or consume a slot. Stats: Attribute Bonus: +40 Primary or +24 All for Universal.
+---
+[TAGS: ITEM_DATA, MANACLES_OF_POWER, CORE_DESCRIPTION, NEUTRAL, TIER_3, LOCKDOWN, DISABLE, ROOT, CATCH, INITIATION, SCALING, STRENGTH] | Cost: 0 (Non-purchasable): Manacles of Power is a neutral item Tier 3. Its active ability tethers an enemy hero for up to 4 seconds, rooting them if they move beyond 300 units and granting the user bonus Strength. The bonus increases with each hero kill while active, enabling high risk/reward initiations. Stats: CD: 20s, Duration: 4s, Root Range: 300, Base Strength: +30.
+---
+[TAGS: ITEM_DATA, EAGLESONG, CORE_DESCRIPTION, SECRET_SHOP, SECRET_SHOP, ATTRIBUTE, AGILITY, STAT_BOOSTER, UPGRADE_COMPONENT] | Eaglesong, Cost: 2800: Grants +25 Agility, providing significant increases to attack speed, armor, and movement speed for Agility heroes. A core attribute booster for carries seeking pure stat efficiency and physical damage scaling. Stats: +25 Agility.
+---
+[TAGS: ITEM_DATA, SUPER_BLINK, STAT_PROFILE, FULL_ITEM, UTILITY] | Super Blink, Cost: N/A: Provides no attributes, stats, or bonus damage. Its value is purely derived from its powerful, repositioning active ability.
+---
+[TAGS: ITEM_DATA, ETHEREAL_BLADE_RECIPE, CORE_DESCRIPTION, RECIPE, COMPONENT, UPGRADE] | Ethereal Blade Recipe, Cost: 900: Component required to assemble Ethereal Blade. Does not provide stats or abilities. Stats: Cost: 900.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, RECIPE] | Ethereal Blade Recipe CORE_MECHANICS: This is a component used to complete the Ethereal Blade item. It provides no direct stats or effects itself. Its primary tactical role is as a gold and inventory slot commitment toward the final item. Stats: Cost: 900 gold.
+---
+[TAGS: ITEM_DATA, PUPIL'S_GIFT, CORE_DESCRIPTION, NEUTRAL, STATS, ATTRIBUTES, STRENGTH, AGILITY, UNIVERSAL_HERO] | Pupil's Gift, Cost: 0: Tier Neutral Item: Passively increases both Strength and Agility attributes by +15 each. Grants +10 to all attributes for Universal Heroes. Provides raw, permanent stats without an active ability.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, STRENGTH_SCALING] | Overwhelming Blink CORE_BUILD: Builds from Blink Dagger (mobility) and Reaver (strength/health). Synergizes with strength heroes for higher damage scaling from strength percentage. Upgrades from standard Blink for added control and survivability. Stats: Components: Blink Dagger and Reaver, Bonus Strength: +25.
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, SITUATIONAL_VS_CONTROL, FULL_ITEM, ESCAPE, SURVIVAL, DEFENSIVE, POSITIONING] | Blink Dagger, Cost: 2250: Provides critical mobility to escape dangerous situations by blinking over terrain or to allies. The 3-second cooldown after taking hero damage requires careful positioning and timing, making it a high-skill defensive item as well.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, COMPONENT] | Ethereal Blade Recipe CORE_BUILD: This recipe is the final component required to assemble the Ethereal Blade from its other parts. It builds into the completed Ethereal Blade. Stats: Cost: 900 gold.
+---
+[TAGS: DAZZLE, FACET_STRATEGY] | Facet choice defines Dazzle's playstyle. Nothl Boon (Facet 1) empowers all his basic abilities globally: Poison Touch hexes enemies (1.4/1.6/1.8s), Shallow Grave heals on expiration (225/300/375 HP), and Shadow Wave cooldown is reduced by 30%/40%/50%. This makes him a much more aggressive, high-uptime healer and disabler from a safe distance. Poison Bloom (Facet 2) makes Poison Touch spread on attack to nearby enemies and strengthens Weave's armor reduction on enemies. This turns him into a core-focused right-click amplifier who excels at shredding armor for physical damage teams.
+---
+[TAGS: ITEM_DATA, GHOST_SCEPTER, TEAMFIGHT_ROLE, FULL_ITEM, DEFENSIVE, SAVE, VS_PHYSICAL, SURVIVAL, SUPPORT_ITEM] | Ghost Scepter, Cost: 1500: Defensive team fight role to nullify enemy physical damage dealers (e.g., Phantom Assassin, Sven) for a short duration. Enables supports and intelligence heroes to survive targeted initiations and physical burst combos, buying time for allies to respond.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, STAT_BOOST, ATTRIBUTES] | Pupil's Gift CORE_MECHANICS: Grants raw non-primary attribute points to a hero, bolstering their secondary stats. This significantly boosts health, mana, and base damage for intelligence and agility heroes, or strength and agility for intelligence heroes. For Universal heroes, it provides two-thirds of the listed value to all three attributes. Stats: Cost: 0 gold, +15 to Secondary Attributes.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, DISABLE, HEX, VS_MOBILE] | Prince's Knife CORE_MECHANICS: The next basic attack after its 10-second cooldown ends hexes the struck enemy into a frog for 1.5 seconds. Provides significant movement and attack projectile speed for kiting and chasing. Stats: Cost: 0 gold, Duration: 1.5 seconds, Cooldown: 10 seconds, Bonus Move Speed: +140, Bonus Attack Projectile Speed: +60%.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, DISABLE, HEX, INITIATION] | Prince's Knife TEAMFIGHT_ROLE: The on-demand hex can instantly disable a key target, disrupting channeled spells or preventing a core hero from acting. The high mobility aids in initiating or repositioning to land the crucial disable. Stats: Hex Duration: 1.5 seconds, Cooldown: 10 seconds, Bonus Move Speed: +140.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, STAT_BOOST, INTELLIGENCE] | Mantle of Intelligence CORE_MECHANICS: Provides +3 Intelligence, increasing mana pool and mana regeneration for enhanced spell casting in early engagements. This stat boost supports mana-dependent abilities for harassment and last hitting. Stats: Cost: 140 gold, +3 Intelligence.
+---
+[TAGS: ITEM_DATA, SHADOW_BLADE, FULL_ITEM, CORE_MECHANICS, INVISIBILITY, MOBILITY, PHASE, INITIATION, PHYSICAL_DAMAGE, DAMAGE_BOOST] | Shadow Blade, Cost: 3250: Provides invisibility for 17 seconds, breaks upon attacking or casting. While invisible, you gain 20% bonus movement speed and can move through other units. Attacking out of invisibility deals an extra 175 physical damage on that attack. Stats: CD: 25s, Mana: 75, Duration: 17s, Fade Time: 0.3s.
+---
+[TAGS: STRATEGY, Shadow Demon, ITEM_BUILD, CORE] | Shadow Demon Core Build: Aghanim's Scepter (for Demonic Purge upgrade) and Glimmer Cape (for survivability and save potential).
+---
+[TAGS: ITEM_DATA, ETHEREAL_BLADE, SITUATIONAL_VS_PHYSICAL, FULL_ITEM, VS_PHYSICAL, DEFENSIVE, ANTI_CARRY, COUNTER_ITEM] | Ethereal Blade, Cost: 5200: Situational versus heavy physical damage cores or against heroes reliant on right-click attacks (Phantom Assassin, Faceless Void, Terrorblade). The physical immunity completely nullifies physical damage for 4 seconds. Conversely, avoid using it offensively if the enemy has strong magic resistance or high HP, as the 30% increased magic damage taken can be mitigated.
+---
+[TAGS: SILENCER, FACET_STRATEGY, FACET_1, FACET_2, FACET_3, FACET_4] | Facet 1: Irrepressible makes Silencer immune to silence effects, crucial against heroes like DP, Skywrath, or Orchid carriers. This supports a durable core or offlane playstyle where you cannot be shut down. Facet 2: Reverberating Silence causes Global Silence to apply twice, extending total disable duration. This is best for a support role focused on fight control and maximizing disruption, especially against spell-heavy lineups. Facet 3: Synaptic Split upgrades Glaives of Wisdom to max level 5, allowing the glaives to bounce once to a random target within range. This significantly boosts farming speed and teamfight damage, making it ideal for a core, right-click Silencer build. Facet 4: Suffer In Silence causes Silencer to take less damage from and deal more damage to silenced targets. This enhances survivability and dueling power against enemies you or your team have silenced, fitting a mid-game fighter build.
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, SYNERGY_BUILD, FULL_ITEM, INITIATOR_ITEM, SUPPORT_ITEM, CARRY_ITEM] | Blink Dagger, Cost: 2250: Essential first or second major item for initiators like Axe, Earthshaker, or Magnus to enable their AoE ultimates. Also a key positioning tool for supports and carries who need to avoid being kited or to secure kills. Timing is critical, as its power spike is immediate upon purchase.
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, TEAMFIGHT_ROLE, FULL_ITEM, INITIATION, CATCH, POSITIONING] | Blink Dagger, Cost: 2250: Core initiation tool enabling heroes to instantly close large distances to start fights, land critical abilities, or catch key targets. Essential for heroes with high-impact, short-range spells who lack innate mobility.
+---
+[TAGS: ITEM_DATA, SHADOW_BLADE, FULL_ITEM, TEAMFIGHT_ROLE, INITIATION, CATCH, MOBILITY, ESCAPE, SURVIVAL] | Shadow Blade, Cost: 3250: Primarily an initiation and pick-off tool, allowing you to reposition unseen and launch surprise attacks with amplified damage. The ability to move through units while invisible aids in escaping or setting up favorable engagements. The item also serves as a defensive escape mechanism.
+---
+[TAGS: ITEM_DATA, ETHEREAL_BLADE, STAT_PROFILE, FULL_ITEM, STRENGTH, AGILITY, INTELLECT, ATTRIBUTES, HEALTH, MANA, ATTACK_SPEED, DAMAGE] | Ethereal Blade, Cost: 5200: Provides +24 to all attributes (Strength, Agility, Intelligence). This balanced stat increase builds a solid HP, mana, attack speed, and armor base. Its damage scales with total hero attributes, making it strong for high-stat heroes or those building multiple stat items like Skadi and Heart.
+---
+[TAGS: ITEM_DATA, GHOST_SCEPTER, STAT_PROFILE, FULL_ITEM, ALL_ATTRIBUTES, STATS] | Ghost Scepter, Cost: 1500: Provides +5 to all attributes (Strength, Agility, Intelligence). The primary value is the active ability; the stats offer minor survivability and utility.
+---
+[TAGS: ITEM_DATA, BLINK_DAGGER, CORE_MECHANICS, FULL_ITEM, MOBILITY, POSITIONING, INITIATION, CATCH, ESCAPE, UTILITY] | Blink Dagger, Cost: 2250: Instantly teleports your hero up to 1200 units to a targeted point. Cannot be used for 3 seconds after taking damage from an enemy hero or Roshan. Essential initiation and repositioning tool for gap-closing and escape. Stats: CD: 15s, Range: 1200, Damage Disable: 3s.
+---
+[TAGS: ITEM_DATA, SHADOW_BLADE, FULL_ITEM, SYNERGY_BUILD, CARRY_ITEM, INITIATION, PHYSICAL_DAMAGE, DAMAGE_BOOST] | Shadow Blade, Cost: 3250: Synergizes with heroes who benefit from a surprise attack to initiate a combo or who need the movement speed to chase. The physical burst damage is effective against fragile, high-priority targets. It is a classic item for right-click carries who also value positioning and escape.
+---
+[TAGS: ITEM_DATA, BOOK_OF_SHADOWS, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, SAVE, DEFENSIVE, DISPEL, ESCAPE, NIGHT_VISION, SILENCE, MUTE, DISARM, SELF_DISABLE] | Book of Shadows, Cost: 0: Tier 3 Neutral item. Grants Night Vision (400). Its active, Shadows, targets an enemy, ally, or self, making them untargetable to enemies for 4 seconds, but also silences, mutes, and disarms them. Applies a Basic Dispel on cast. Stats: CD: 8s, Duration: 4s, Night Vision: 400.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Arcane Boots Recipe TEAMFIGHT_ROLE: This recipe purchase itself has no teamfight impact. It contributes to the completed item's teamfight role, which is to restore mana to the user and nearby allies, enabling more frequent spell usage in engagements. The timing of its purchase influences when this mana sustain becomes available to the team.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, UPGRADE_PATH, HIGH_COST] | Guardian Greaves Recipe CORE_BUILD: Builds into Guardian Greaves. Requires Mekansm (2300 gold) and Arcane Boots (1300 gold) to be combined with this 1125 gold recipe. The total investment is a significant gold commitment for a support. Stats: Recipe Cost: 1125 gold.
+---
+[TAGS: SILENCER, ABILITY_DATA, LAST_WORD, SILENCE, NUKER, SCALING_DAMAGE] | Last Word (Q) enchants a single target, providing vision. It deals 120/160/200/240 damage and silences for 3/4/5/6 seconds if the target casts a spell or after the 4-second debuff duration expires. Deals extra damage based on the difference in Intelligence between Silencer and the target, multiplied by 1/1.5/2/2.5. Does NOT pierce BKB. Channeling abilities will trigger the effect once the channel finishes.
+---
+[TAGS: Ability, Utility] | Spectral Blade Curse Cooldown: Reduces curse cooldown, allowing more frequent usage in battles. Stats: Cooldown Reduction: N/A
+---
+[TAGS: ITEM_DATA, FULL_ITEM, VS_CONTROL, DISPEL, SAVE] | A powerful counter to single-target disables and debuffs due to its basic dispel effect on cast. Effective against heroes reliant on silences, roots, or other dispellable effects to lock down targets, as it can instantly remove them from an ally.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, SURVIVABILITY, UTILITY, DISABLE_SELF] | Outworld Staff CORE_MECHANICS: Active ability 'Self-Exile' makes the caster invulnerable and disabled for 0.7 seconds. Upon return, they take 5% of their max health as non-lethal damage. This ability mutes Blink Dagger and similar items on damage. It provides a short, guaranteed self-stasis. Stats: Cost: 0 gold, Mana Cost: 65, Cooldown: 30 seconds, Invulnerability Duration: 0.7 seconds, Self Damage on Return: 5% of maximum health.
+---
+[TAGS: ITEM_DATA, SHADOW_BLADE, FULL_ITEM, STAT_PROFILE, DAMAGE, ATTACK_SPEED, PHYSICAL_DAMAGE, CARRY_ITEM] | Shadow Blade, Cost: 3250: Provides +25 Damage and +35 Attack Speed. These stat bonuses contribute to physical damage output and attack tempo, complementing the burst potential from the invisibility attack.
+---
+[TAGS: Ability, Damage, Hex] | Rain of Vermin: Deals area damage and has a chance to hex enemies. Stats: Duration: 7, Interval: 0.5, Radius: 650, Hex Chance: 12%, Hex Duration: 1, Damage: 125
+---
+[TAGS: Ability, Healing] | Ghost Shroud Self Restoration Amplification: Enhances Necrophos' self-healing during Ghost Shroud, increasing survivability. Stats: Restoration Amplification: [value not specified]%
+---
+[TAGS: MORPHLING, ABILITY_DATA, ACCUMULATION] | Innate Ability: Accumulation. Morphling receives 50% of his stat growth bonuses every half level instead of all at once at level up. Talent Tree bonuses that give All Attributes provide an additional +3 to his primary attribute (Agility with Ebb Facet).
+---
+[TAGS: AXE, ABILITY_DATA, CULLING_BLADE, ULTIMATE, PURE_DAMAGE, EXECUTE] | Culling Blade (R) is an ultimate ability that deals 275/375/475 pure damage to a single enemy. If this damage kills an enemy hero, the cooldown is reset, and all nearby allied units gain 20/25/30 bonus movement speed and 10/15/20 bonus armor for 6 seconds. The ability has a 900 travel speed for its AoE buff. It pierces spell immunity (BKB).
+---
+[TAGS: ITEM_DATA, LANING_PHASE, MIDGAME, LATEGAME] | Ethereal Blade Recipe LANING_PHASE: As a recipe, this item is purchased in the mid to late game, typically after acquiring its other components. It represents the final 900 gold investment to unlock the full Ethereal Blade abilities, not an early lane purchase. Stats: Cost: 900 gold.
+---
+[TAGS: Ability, Crowd Control, Utility] | Hex: Disables an enemy hero by transforming them into a harmless unit, ideal for shutting down high-threat targets. Stats: Duration: 2/2.4/2.8/3.2, Cooldown: 24/20/16/12, Mana Cost: 110/140/170/200
+---
+[TAGS: Ability, Crowd Control, Silencer] | Global Silence Undispellable: Makes Global Silence undispellable, ensuring full disable duration against all enemies. Stats: Effect: Undispellable
+---
+[TAGS: ITEM_DATA, GHOST_SCEPTER, CORE_MECHANICS, FULL_ITEM, VS_PHYSICAL, GHOST_FORM, DEFENSIVE, SURVIVAL, DISPELLABLE, UTILITY] | Ghost Scepter, Cost: 1500: Grants Ghost Form for 4 seconds, making you immune to physical damage but unable to attack and increasing magic damage taken by 30%. A defensive tool to survive against heavy physical burst from enemy cores. The form is dispellable and ends early if you become Debuff Immune. Stats: CD: 22s, Duration: 4s, Magic Vulnerability: +30%.
+
+=== GAME STATE ===
+Match Time: 20:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: storm_spirit (Lvl 12) | HP: 1100/1100 | Mana: 1400/1400 | Alive: true
+Stats: K/D/A 4/2/3 | Gold: 2800 | LastHits: 100
+Inventory: [item_power_treads (CD), item_kaya (CD), item_bottle (CD), item_null_talisman (CD)]
+Abilities: [storm_spirit_static_remnant(Lvl4)[NoMana/Silenced] | storm_spirit_electric_vortex(Lvl1)[NoMana/Silenced] | storm_spirit_overload(Lvl4)[NoMana/Silenced] | storm_spirit_ball_lightning(Lvl2)[NoMana/Silenced]]
+User Situation Notes: У врагов Clinkz собрал Orchid Malevolence. Как только я влетаю, он кидает на меня сайленс, и я не могу улететь на ульте. Я просто кусок мяса.
+
+=== USER QUESTION ===
+"Клинкз душит орчидом. Какой предмет мне нужен, чтобы сбрасывать сало?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Клинкз душит орчидом. Какой предмет мне нужен, чтобы сбрасывать сало?".**
+========================================
+
+[AI RESPONSE] (3.27s)
+Тебе нужен **Glimmer Cape**. Он предоставляет базовый диспел, который снимает эффекты Орчид Мелвокенс, включая сайленс. Это позволит тебе использовать свои способности и ульту без проблем. Альтернативный вариант — **Lotus Orb**, но он дороже и не такой эффективный для твоего героя.

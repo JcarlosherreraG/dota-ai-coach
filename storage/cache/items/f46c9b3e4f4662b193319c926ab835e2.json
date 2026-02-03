@@ -1,0 +1,68 @@
+[
+  {
+    "display_text": "Wind Lace, Cost: 225: Provides +15 Movement Speed passively. This component item accelerates positioning and map mobility, useful for heroes needing to chase, escape, or rotate. Bonuses from multiple Wind Laces do not stack. Stats: MS Bonus: +15.",
+    "search_text": "movement speed item, cheap move speed, early mobility, positioning component, movement speed boost, chase item, escape item, rotate item, acceleration, Wind Lace",
+    "tags": [
+      "ITEM_DATA",
+      "WIND_LACE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MOBILITY",
+      "POSITIONING",
+      "UTILITY",
+      "COMPONENT"
+    ]
+  },
+  {
+    "display_text": "Wind Lace, Cost: 225: Provides no attributes or stat bonuses other than movement speed. A cost-effective component for early game mobility, often built into more advanced items like Drums of Endurance, Eul's Scepter, or Spirit Vessel.",
+    "search_text": "wind lace stats, movement speed only, no stats, component stats, upgrade component, cheap upgrade, Wind Lace",
+    "tags": [
+      "ITEM_DATA",
+      "WIND_LACE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "UPGRADE",
+      "COMPONENT"
+    ]
+  },
+  {
+    "display_text": "Wind Lace, Cost: 225: Enhances chase and escape capabilities during the laning phase. Crucial for supports needing to position for spells, melee cores chasing down enemies, or any hero struggling with slow base movement speed. Provides a timing advantage for early rotations and ganks.",
+    "search_text": "chase item, escape item, laning mobility, support item, positioning tool, early game move speed, rotate speed, gank mobility, Wind Lace",
+    "tags": [
+      "ITEM_DATA",
+      "WIND_LACE",
+      "EARLY_GAME_USAGE",
+      "FULL_ITEM",
+      "MOBILITY",
+      "ESCAPE",
+      "CHASE",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Wind Lace, Cost: 225: Situational against heroes with slows or for heroes who need to maintain a distance advantage (e.g., ranged carries kiting melee heroes). Counteracts movement speed penalties from various sources and enhances general map presence. Stats: MS Bonus: +15.",
+    "search_text": "slow counter item, kite item, movement slow counter, positioning advantage, distance control, map presence, move speed advantage, Wind Lace",
+    "tags": [
+      "ITEM_DATA",
+      "WIND_LACE",
+      "SITUATIONAL_USAGE",
+      "FULL_ITEM",
+      "MOBILITY",
+      "VS_SLOWS",
+      "POSITIONING"
+    ]
+  },
+  {
+    "display_text": "Wind Lace, Cost: 225: Synergizes with heroes who rely on speed for their abilities (e.g., Pudge Rot, Bloodseeker Thirst), heroes building into Drum of Endurance, or any build path valuing early tempo and map control. A common early purchase for roaming heroes and position 4 supports.",
+    "search_text": "wind lace synergy, early tempo item, roaming item, support item, tempo control, map control item, speed synergy, movement build, Wind Lace",
+    "tags": [
+      "ITEM_DATA",
+      "WIND_LACE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UTILITY",
+      "SUPPORT_ITEM",
+      "TEMPO"
+    ]
+  }
+]

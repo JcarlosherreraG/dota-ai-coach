@@ -1,0 +1,45 @@
+[
+  {
+    "display_text": "Observer and Sentry Wards Dispenser, Cost: 50: Holds both Observer and Sentry wards in one item slot. Double-click to switch between ward types before planting. Can share individual wards with allies by holding Control. Consumable. Stats: No Cooldown, No Mana Cost.",
+    "search_text": "ward dispenser, hold two wards, observer sentry combo, combine wards, share wards, control share, double-click switch, ward slot efficiency, vision item, detection item, sentry wards, observer wards, place wards, support item, utility item, Ward Dispenser",
+    "tags": [
+      "ITEM_DATA",
+      "WARD_DISPENSER",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "VISION",
+      "DETECTION",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Observer and Sentry Wards Dispenser, Cost: 50: Core vision tool for supports. Observer Wards provide map control and vision for 6 minutes. Sentry Wards provide True Sight to deward enemy vision or detect invisible heroes. Essential for controlling key objectives. Stats: Observer Cost: 75, Sentry Cost: 100, Observer Duration: 6 min, Sentry Duration: 8 min.",
+    "search_text": "vision control item, dewarding item, map control, support vision, true sight item, detect invisible, objective control, ward wars, observer wards, sentry wards, warding, support core, vision game, Ward Dispenser",
+    "tags": [
+      "ITEM_DATA",
+      "WARD_DISPENSER",
+      "EARLY_GAME_USAGE",
+      "CONSUMABLE",
+      "VISION",
+      "DETECTION",
+      "TRUE_SIGHT",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Observer and Sentry Wards Dispenser, Cost: 50: Purchase for efficient slot usage when you need both vision and detection. Use Sentry Wards to counter invisibility-based heroes or to deward common enemy Observer spots. Share wards with allies to free up inventory slots. Prioritize placing Observers for high-ground vision and Sentries for objective control. Stats: Observer Vision: 1600, Sentry True Sight Range: 1050, Observer Cast Range: 500, Sentry Cast Range: 500.",
+    "search_text": "vision detection, efficient slot, deward enemy, counter invis, true sight, map control, high-ground vision, objective vision, share ward, support efficiency, ward placement, vision game, counter warding, Ward Dispenser",
+    "tags": [
+      "ITEM_DATA",
+      "WARD_DISPENSER",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "VS_INVIS",
+      "VISION",
+      "DETECTION",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

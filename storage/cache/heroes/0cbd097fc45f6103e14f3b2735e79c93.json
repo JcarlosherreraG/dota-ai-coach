@@ -1,0 +1,201 @@
+[
+  {
+    "display_text": "Naga Siren is a Melee Agility hero with base 21 Strength, 22 Agility, and 19 Intelligence. Her base Attack Time is 1.7 seconds. As a melee hero with average starting attributes, she is reliant on items and abilities to secure farm and survive.",
+    "search_text": "Naga Siren melee agility base stats attack rate 1.7 strength agility intelligence",
+    "tags": [
+      "NAGA_SIREN",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Naga Siren has two Facets. 'Rip Tide' is a passive that triggers every 6 attacks from Naga or her illusions, damaging enemies around them and reducing their Armor. 'Deluge' is an active ability that creates a splash around herself and her illusions, damaging enemies and capping their maximum movement speed. Rip Tide is the classic, scaling choice for a farming/pushing illusion carry. Deluge offers a control and slow option, useful for applying teamfight utility or for kiting enemies.",
+    "search_text": "Naga Siren facets Rip Tide passive armor reduction Deluge active splash slow move speed cap",
+    "tags": [
+      "NAGA_SIREN",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Ensnare (500-575 cast range, 21-12 second cooldown) to secure kills with your support. Use Mirror Image (40-25 second cooldown) to dispel debuffs, dodge spells with its 0.5-second invulnerability, and farm/push the wave. Prioritize stats and regen items to sustain using illusions to farm jungle camps.",
+    "search_text": "Naga Siren laning phase Ensnare cast range Mirror Image dodge farm jungle",
+    "tags": [
+      "NAGA_SIREN",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6 with Song of the Siren provides a powerful disengage, setup, or healing tool for your team (7-second duration, 160-second cooldown). Level 12-15 with Manta Style and Diffusal Blade is a major power spike for split-pushing and pick-offs. Level 20 with the -50% Mirror Image Illusion Damage Taken talent makes illusions incredibly tanky. Level 25 with the +1 Mirror Image Illusion talent or +25 Agility significantly boosts pushing and fighting power.",
+    "search_text": "Naga Siren power spikes level 6 Song 12 15 manta diffusal 20 talent 25 talent",
+    "tags": [
+      "NAGA_SIREN",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Heroes with strong wave clear (e.g., Earthshaker, Legion Commander) decimate Naga's illusions. Break effects (e.g., Silver Edge, Doom) disable her Rip Tide passive or Deluge active. Instant disables (e.g., Hex) prevent her from using Song of the Siren to escape.",
+    "search_text": "Naga Siren counters illusion clear Earthshaker Legion Commander Break Silver Edge Doom Hex disable",
+    "tags": [
+      "NAGA_SIREN",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Manta Style is core for creating additional illusions that benefit from her abilities. Diffusal Blade provides mana burn and slow, synergizing with illusions and Ensnare. Heart of Tarrasque makes her illusions extremely durable for high-ground siege.",
+    "search_text": "Naga Siren core build Manta Style Diffusal Blade Heart of Tarrasque illusions mana burn",
+    "tags": [
+      "NAGA_SIREN",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Naga Siren's role is to split the enemy with illusions, drain mana with Diffusal Blade, and reduce armor with Rip Tide. Use Song of the Siren (7-second duration) to reset unfavorable fights, heal allies (1-3% HP per second), or set up Ensnare combos on key targets. Reel In can pull Ensnared enemies towards you for focus fire.",
+    "search_text": "Naga Siren teamfight role illusions split push Rip Tide armor reduce Song reset heal Reel In pull",
+    "tags": [
+      "NAGA_SIREN",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Mirror Image has a 40/35/30/25 second cooldown. It creates 3 illusions that last 26 seconds. The illusions take 250% incoming damage and deal 75/70/65/60% reduced outgoing damage (25/30/35/40% of Naga's damage). Casting grants 0.5 seconds of invulnerability and acts as a Basic Dispel.",
+    "search_text": "Mirror Image Q illusion create 3 illusions 26 second duration 250% damage taken 25 30 35 40% damage dealt invulnerability 0.5s dispel",
+    "tags": [
+      "NAGA_SIREN",
+      "ABILITY_DATA",
+      "Q",
+      "ILLUSION",
+      "DISPEL"
+    ]
+  },
+  {
+    "display_text": "Ensnare has a 21/18/15/12 second cooldown and 500/525/550/575 cast range. It interrupts and traps the target for 2.75/3.5/4.25/5.0 seconds, preventing movement or blinking. The net travels at 1500 speed and has a fake ensnare distance of 900. Does NOT pierce BKB (can_target_magic_immune: 0). It can target units already affected by Song of the Siren.",
+    "search_text": "Ensnare W net trap root 2.75 3.5 4.25 5.0 second duration 1500 speed 900 range interrupt Does NOT pierce BKB",
+    "tags": [
+      "NAGA_SIREN",
+      "ABILITY_DATA",
+      "W",
+      "ROOT",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Reel In is a channeled ability. It pulls all units affected by Naga's Ensnare within a 1600 radius towards her at a strength of 200. Channeling ends when the Ensnared unit is 100 distance away, with a minimum pull distance of 100.",
+    "search_text": "Reel In E channel pull Ensnare units 1600 radius 200 strength min distance 100",
+    "tags": [
+      "NAGA_SIREN",
+      "ABILITY_DATA",
+      "E",
+      "CHANNEL",
+      "PULL"
+    ]
+  },
+  {
+    "display_text": "Eelskin is a passive ability. Naga Siren gains 8% evasion per other Naga Siren within a 900 radius. This includes her own Mirror Image illusions.",
+    "search_text": "Eelskin passive evasion 8% per Naga Siren illusion 900 radius",
+    "tags": [
+      "NAGA_SIREN",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "EVASION"
+    ]
+  },
+  {
+    "display_text": "Song of the Siren has a 160/130/100 second cooldown and a 7-second duration. It affects a 900/1150/1400 radius, putting all enemies in range into a magical stasis where they cannot act or be attacked. Allies in range heal 1/2/3% of their max health per second. Using the ability again ends it early. Units affected are invulnerable.",
+    "search_text": "Song of the Siren R ultimate sleep stasis 7 second duration 160 130 100 cooldown heal 1 2 3% HP per second radius 900 1150 1400 invulnerable",
+    "tags": [
+      "NAGA_SIREN",
+      "ABILITY_DATA",
+      "R",
+      "ULTIMATE",
+      "DISABLE",
+      "HEAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Physical Damage/Armor. The Rip Tide Facet is essential for its armor reduction. Prioritize armor reduction items like Assault Cuirass. Use illusions to apply the Rip Tide debuff to multiple enemies in fights.",
+    "search_text": "Naga Siren vs high armor physical damage Rip Tide facet armor reduction Assault Cuirass",
+    "tags": [
+      "NAGA_SIREN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on split-pushing with illusions using the Deluge Facet to slow and escape. Build survivability items like Heart of Tarrasque. Use Song of the Siren defensively to disengage from ganks or to save key allies.",
+    "search_text": "Naga Siren behind split push Deluge facet slow escape Heart Song disengage",
+    "tags": [
+      "NAGA_SIREN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Strong Illusion Clear (e.g., Earthshaker). Avoid clumping illusions. Consider the Deluge Facet for its active utility since illusions may die quickly. Build a BKB to ensure you can cast Song of the Siren. Send illusions to scout rather than fight directly.",
+    "search_text": "Naga Siren vs illusion clear Earthshaker avoid clump Deluge facet BKB Song scout",
+    "tags": [
+      "NAGA_SIREN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Lock Down a Mobile Core. Combine Ensnare (5-second duration at max level) with Reel In to pull the target into your team. The Deluge Facet can also help cap their movement speed. Items like Diffusal Blade and Skadi further slow the target.",
+    "search_text": "Naga Siren lock down mobile core Ensnare Reel In Deluge slow Diffusal Skadi",
+    "tags": [
+      "NAGA_SIREN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Sieging High Ground. Use the Rip Tide Facet to reduce tower and barracks armor with illusions. The -50% Mirror Image Illusion Damage Taken talent at level 20 is crucial. Keep Song of the Siren ready to reset if the defense initiation goes poorly.",
+    "search_text": "Naga Siren siege high ground Rip Tide armor reduce talent level 20 illusion tank Song reset",
+    "tags": [
+      "NAGA_SIREN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Protecting a Key Ally. Use Song of the Siren to provide 3% max health per second healing in a large area (1400 radius at level 3). Position yourself to cover your ally with the aura. Use Reel In to pull Ensnared divers away from them.",
+    "search_text": "Naga Siren protect ally Song heal 3% HP radius 1400 Reel In pull divers",
+    "tags": [
+      "NAGA_SIREN",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is +100 Reel In Pull Speed, making the channeled pull faster and harder to escape. Right choice is +30% Rip Tide Damage, increasing the damage output of your passive or active splash. Choose +100 Reel In Pull Speed if you are focusing on pick-offs with Ensnare. Choose +30% Rip Tide Damage if you are focusing on farming speed and AoE damage in fights.",
+    "search_text": "Naga Siren talent level 10 +100 Reel In Pull Speed +30% Rip Tide Damage pickoff farm damage",
+    "tags": [
+      "NAGA_SIREN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is +10% Mirror Image Damage, increasing illusion damage output. Right choice is -50% Mirror Image Illusion Damage Taken, making illusions much more durable. Choose +10% Mirror Image Damage for faster farming and building damage. Choose -50% Mirror Image Illusion Damage Taken against heroes with strong AoE damage or when you need illusions to survive in fights longer.",
+    "search_text": "Naga Siren talent level 15 +10% Mirror Image Damage -50% Mirror Image Illusion Damage Taken illusion durability",
+    "tags": [
+      "NAGA_SIREN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is -20s Song of the Siren Cooldown, reducing the cooldown from 100 to 80 seconds at max level. Right choice is +1 Mirror Image Illusion, creating 4 total illusions instead of 3. Choose -20s Song Cooldown if you need the defensive/offensive reset more frequently. Choose +1 Mirror Image Illusion for a massive increase in split-pushing, farming, and teamfight presence.",
+    "search_text": "Naga Siren talent level 20 -20s Song of the Siren Cooldown +1 Mirror Image Illusion reset push",
+    "tags": [
+      "NAGA_SIREN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is -10s Mirror Image Cooldown, reducing the cooldown to as low as 15 seconds. Right choice is +25 Agility, providing significant damage, armor, and attack speed. Choose -10s Mirror Image Cooldown for maximum illusion uptime, scouting, and pushing. Choose +25 Agility for a direct increase to Naga's own right-click damage and survivability, which also benefits her illusions.",
+    "search_text": "Naga Siren talent level 25 -10s Mirror Image Cooldown +25 Agility uptime damage",
+    "tags": [
+      "NAGA_SIREN",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

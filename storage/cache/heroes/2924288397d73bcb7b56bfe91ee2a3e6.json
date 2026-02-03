@@ -1,0 +1,216 @@
+[
+  {
+    "display_text": "Chaos Knight is a Melee Strength hero with 1.70 base attack time. He has 24 base Strength, 18 base Agility, and 18 base Intelligence. Melee range, no inherent high armor, and a standard turn rate. His starting stats are average, but his high base Strength growth (from talents and stats) and illusion synergy are his core strengths.",
+    "search_text": "Chaos Knight stats melee base attack time 1.70 strength 24 agility 18 intelligence 18",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "BASE_STATS",
+      "MELEE",
+      "STRENGTH_HERO"
+    ]
+  },
+  {
+    "display_text": "The Facet 'Cloven Chaos' is the primary offensive choice. It makes Chaos Bolt hit two additional targets, significantly improving his teamfight initiation and AoE control from level 2. The Facet 'Irrationality' adds a random powerful debuff (Break, Disarm, or Silence) to Reality Rift for 33.33% of its base duration (2 seconds), making it situationally strong against heroes reliant on passives or spells. The Facet 'Strong Illusions' is not detailed in the provided data. The Facet 'Fundamental Forging' is an economic/neutral item advantage Facet. Choose Cloven Chaos for reliable AoE damage and control. Choose Irrationality against specific single targets like Phantom Assassin or Bristleback to apply Break with Reality Rift.",
+    "search_text": "Chaos Knight facets Cloven Chaos Chaos Bolt splits hits three targets. Irrationality Reality Rift applies random debuff Break Disarm Silence. Fundamental Forging craft higher tier neutral items.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "FACET_STRATEGY",
+      "CLOVEN_CHAOS",
+      "IRRATIONALITY",
+      "FUNDAMENTAL_FORGING"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Chaos Knight relies on last hitting with his decent base damage and using Chaos Bolt (Q) to secure kills or harass. The stun duration is random between 1.25/1.5/1.75/2 and 1.75/2.25/2.75/3.25 seconds. Use it to set up kills with your lane partner. Reality Rift (W) at level 1 or 2 is crucial for pulling enemies out of position, with a 600/650/700/750 cast range and 300/350/400/450 pull distance. It also applies a 4/5/6/7 armor reduction for 6 seconds. Max Chaos Strike (E) second for sustain and damage; it provides 24/36/48/60% lifesteal and a 33.33% chance for a critical strike between 120% and 140/180/220/260% damage. Lifesteal from creeps is reduced by 100%.",
+    "search_text": "Chaos Knight laning Chaos Bolt random stun min max duration. Reality Rift pull armor reduction. Chaos Strike lifesteal crit chance. Early game kill threat.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "LANING_PHASE",
+      "HARASS",
+      "KILL_SETUP"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 with Phantasm (R) is massive, providing 1 strong illusion. Item timings like Armlet and Echo Sabre increase your solo kill potential. Level 12 with level 2 Phantasm (2 illusions) is another major spike. Level 18 with level 3 Phantasm (3 illusions) and maxed Chaos Strike makes you a late-game monster. Talent spikes at level 10 (improved sustain or initiation range), 15 (frequent stuns), 20 (stronger stuns or armor reduction pierces BKB), and 25 (higher crit chance or tankier illusions) are critical.",
+    "search_text": "Chaos Knight power spikes level 6 Phantasm level 12 level 18. Talents 10 15 20 25. Armlet Echo Sabre timing.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_18",
+      "TALENTS"
+    ]
+  },
+  {
+    "display_text": "Chaos Knight is hard countered by heroes with AoE wave clear and illusion clear like Leshrac, Earthshaker, and Sand King. Heroes with Break (Silver Edge, Hoodwink) disable his Chaos Strike passive (lifesteal and crit). Instant disables like Hex prevent him from casting Phantasm or using Reality Rift to escape. High armor and damage block reduce the effectiveness of his physical damage output.",
+    "search_text": "Chaos Knight counters AoE damage Earthshaker Sand King Leshrac. Break Silver Edge disables Chaos Strike. Hex instant disable.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "HARD_COUNTERS",
+      "BREAK",
+      "AOE",
+      "ILLUSION_CLEAR"
+    ]
+  },
+  {
+    "display_text": "The core build for Chaos Knight is Armlet of Mordiggian for strength, damage, and sustain synergy with Chaos Strike. Echo Sabre provides mana regeneration, a double hit for Chaos Strike procs, and a slow. Heart of Tarrasque is essential lategame to make your illusions incredibly tanky, as they take 350% damage. Boots of Travel are also core for global map presence with illusions.",
+    "search_text": "Chaos Knight core items Armlet Echo Sabre Heart of Tarrasque Boots of Travel. Essential build.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "CORE_BUILD",
+      "ARMLET",
+      "ECHO_SABRE",
+      "HEART"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Chaos Knight's role is to initiate on a key target with Reality Rift (pulling them in and reducing armor), follow up with a Chaos Bolt stun, and then summon Phantasm illusions. He then uses his high physical DPS and lifesteal to manfight. His illusions should be micro-managed to focus the same target or split to attack supports. He is a frontlining carry that creates chaos and forces the enemy to deal with multiple high-damage targets.",
+    "search_text": "Chaos Knight teamfight role initiator frontliner focus target Reality Rift Chaos Bolt Phantasm illusions physical DPS lifesteal.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "FRONTLINE",
+      "ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Chaos Bolt (Q). Throws a bolt that stuns for a random duration between 1.25/1.5/1.75/2 (min) and 1.75/2.25/2.75/3.25 (max) seconds and deals random damage between 90/120/150/180 (min) and 155/240/325/410 (max). The bolt travels at 700 speed. It has a 600 cast range and a 13/12/11/10 second cooldown. The stun and damage are inversely related (long stun = low damage, short stun = high damage). Nearby illusions mimic the cast animation.",
+    "search_text": "Chaos Bolt Q stun random duration min max damage min max speed 700 range 600 cooldown 13 12 11 10. Inverse relationship.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "ABILITY_DATA",
+      "CHAOS_BOLT",
+      "STUN",
+      "RANDOM"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Reality Rift (W). Teleports Chaos Knight, his illusions, and the target unit to a point along the line between them. Pulls the target 300/350/400/450 units. Reduces the target's armor by 4/5/6/7 for 6 seconds. Cast range is 600/650/700/750. Chaos Knight and his illusions are issued an attack order on the target. Does NOT pierce BKB (pierces_immunity: 0).",
+    "search_text": "Reality Rift W pull distance 300 350 400 450 armor reduction 4 5 6 7 duration 6 seconds cast range 600 650 700 750. Does NOT pierce BKB.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "ABILITY_DATA",
+      "REALITY_RIFT",
+      "PULL",
+      "ARMOR_REDUCTION",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Chaos Strike (E). Passive. Attacks have a 33.33% chance to critical strike for 120% to 140/180/220/260% damage and lifesteal for 24/36/48/60% of the damage dealt. Lifesteal from creeps is reduced by 100% (creep_multiplier: 1.0, meaning normal lifesteal, but note tooltip says reduced).",
+    "search_text": "Chaos Strike E passive crit chance 33.33 percent damage 120 to 140 180 220 260 lifesteal 24 36 48 60 creep lifesteal reduced.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "ABILITY_DATA",
+      "CHAOS_STRIKE",
+      "PASSIVE",
+      "CRIT",
+      "LIFESTEAL"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Phantasm (R). Ultimate. Summons 1/2/3 phantasmal illusions that last 30 seconds. Illusions deal 100% damage and take 350% damage. Casting removes most negative buffs (Basic Dispel) and makes Chaos Knight invulnerable for 0.5 seconds. The passive Reins of Chaos gives a 50% chance to summon 1 extra illusion when Phantasm is cast.",
+    "search_text": "Phantasm R ultimate illusions 1 2 3 duration 30 deal 100 damage take 350 damage. Basic Dispel invulnerable 0.5 seconds. Reins of Chaos 50 chance extra illusion.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "ABILITY_DATA",
+      "PHANTASM",
+      "ULTIMATE",
+      "ILLUSIONS",
+      "DISPEL"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Playing from behind. When behind, focus on farming safely with your illusions in the jungle. Use Reality Rift defensively to pull chasing enemies away or into your team. Build survivability items like Armlet and Heart of Tarrasque earlier. Avoid fights until you have key items like Echo Sabre and level 2 Phantasm. Use Boots of Travel to split push with illusions and create space.",
+    "search_text": "Chaos Knight behind farming jungle illusions safe. Reality Rift defensive pull. Build Armlet Heart split push Boots of Travel.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "FARMING",
+      "SPLIT_PUSH"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Against high armor or damage block heroes (e.g., Terrorblade, Dragon Knight). Armor reduction from Reality Rift is crucial. Consider building items like Assault Cuirass for team armor reduction and Desolator for additional armor corruption. Your physical damage output is mitigated, so focus on locking them down with Chaos Bolt and overwhelming them with illusions.",
+    "search_text": "Chaos Knight vs high armor damage block Terrorblade Dragon Knight. Reality Rift armor reduction. Assault Cuirass Desolator.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR",
+      "ARMOR_REDUCTION"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: When your team lacks initiation. With the Cloven Chaos Facet, you can initiate from longer range with a multi-target stun. Build a Blink Dagger to instantly close the gap after a long-range Chaos Bolt. Follow up with Reality Rift to pull key targets into your team. Your role shifts to a primary initiator.",
+    "search_text": "Chaos Knight team lacks initiation Cloven Chaos multi stun. Build Blink Dagger initiator. Combo Chaos Bolt Reality Rift.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "SITUATIONAL",
+      "INITIATOR",
+      "BLINK_DAGGER",
+      "CLOVEN_CHAOS"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Dealing with illusion clear (e.g., Earthshaker, Leshrac). Do not group all your illusions together. Spread them out in fights to minimize AoE damage. Consider buying a Black King Bar to allow you to get your spells off before being stunned. Build a Satanic for survivability and to lifesteal through the burst damage. Your illusions are fragile, so use them to scout or split push rather than clump in fights.",
+    "search_text": "Chaos Knight vs illusion clear Earthshaker Leshrac AoE. Spread illusions don't group. BKB Satanic survivability split push.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "SITUATIONAL",
+      "VS_AOE",
+      "ILLUSION_MICRO",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 10: Left Talent: +30% Chaos Strike Lifesteal. Right Talent: +225 Reality Rift Pull Distance. Choose the +30% Lifesteal if you need more sustain in lane or during prolonged fights, synergizing with Armlet. Choose the +225 Pull Distance if you need better initiation or catch, making Reality Rift effectively a 675/725/775/825-1075 pull at max level.",
+    "search_text": "Chaos Knight talent level 10 left +30% Chaos Strike Lifesteal right +225 Reality Rift Pull Distance. Sustain vs initiation.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10",
+      "LIFESTEAL",
+      "PULL_DISTANCE"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 15: Left Talent: -3s Chaos Bolt Cooldown. Right Talent: +10 Strength. Choose the -3s Cooldown if you are fighting frequently and need more frequent disables (cooldown becomes 10/9/8/7). Choose the +10 Strength for raw HP, damage, and survivability, which also benefits your illusions.",
+    "search_text": "Chaos Knight talent level 15 left -3s Chaos Bolt Cooldown right +10 Strength. More stuns vs tankiness damage.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15",
+      "COOLDOWN_REDUCTION",
+      "STRENGTH"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 20: Left Talent: +0.6 Min/Max Chaos Bolt Duration. Right Talent: Reality Rift Pierces Spell Immunity. Choose the +0.6 Chaos Bolt Duration for a more reliable and longer stun (min 1.85/2.1/2.35/2.6, max 2.35/2.85/3.35/3.85). Choose Reality Rift Pierces Spell Immunity to be able to pull and reduce the armor of BKB'd targets, a crucial talent against magic immune carries.",
+    "search_text": "Chaos Knight talent level 20 left +0.6 Min Max Chaos Bolt Duration right Reality Rift Pierces Spell Immunity. Longer stun vs BKB pierce.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20",
+      "STUN_DURATION",
+      "PIERCES_BKB"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 25: Left Talent: +10% Chaos Strike Chance. Right Talent: -125% Phantasm Damage Taken. Choose the +10% Chaos Strike Chance to increase your DPS and lifesteal frequency (chance becomes 43.33%). Choose the -125% Phantasm Damage Taken to make your illusions incredibly tanky, reducing their damage taken from 350% to 225%. This is often the better choice as it makes your illusions much harder to clear.",
+    "search_text": "Chaos Knight talent level 25 left +10% Chaos Strike Chance right -125% Phantasm Damage Taken. More crits vs tankier illusions damage taken 225%.",
+    "tags": [
+      "CHAOS_KNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25",
+      "CRIT_CHANCE",
+      "ILLUSION_TANK"
+    ]
+  }
+]

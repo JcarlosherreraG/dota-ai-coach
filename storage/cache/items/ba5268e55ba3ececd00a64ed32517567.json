@@ -1,0 +1,42 @@
+[
+  {
+    "display_text": "Void Stone, Cost: 700: Purchasable component item that provides +1.75 Mana Regeneration, an essential source of mana sustain for spellcasters and heroes with high mana consumption. It serves as a common building block for more advanced mana-focused items. Stats: Bonus Mana Regen: +1.75.",
+    "search_text": "mana regen item, mana sustain, mana regeneration, component item, utility component, mana item, early mana, Void Stone, mana regen component, sustain item",
+    "tags": [
+      "ITEM_DATA",
+      "VOID_STONE",
+      "STAT_PROFILE",
+      "COMPONENT",
+      "MANA_REGEN",
+      "SUSTAIN",
+      "MANA",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Void Stone, Cost: 700: Its primary value lies in providing persistent mana regeneration to maintain spellcasting without requiring trips back to base. This is crucial for heroes who need to farm or fight constantly in the early to mid-game. Stats: Bonus Mana Regen: +1.75.",
+    "search_text": "mana sustain, mana regen item, spell spam, farming mana, mana management, spellcaster item, Void Stone",
+    "tags": [
+      "ITEM_DATA",
+      "VOID_STONE",
+      "CORE_MECHANICS",
+      "COMPONENT",
+      "MANA_REGEN",
+      "SUSTAIN",
+      "FARMING"
+    ]
+  },
+  {
+    "display_text": "Void Stone, Cost: 700: Core building block for items requiring high mana upkeep, such as Orchid Malevolence, Scythe of Vyse, or Aether Lens. Often purchased first by supports or cores looking to solve early mana problems before completing their main items. Stats: Bonus Mana Regen: +1.75.",
+    "search_text": "orchid component, scythe of vyse component, aether lens component, mana regen component, Void Stone, item build, early mana item, support item",
+    "tags": [
+      "ITEM_DATA",
+      "VOID_STONE",
+      "SYNERGY_BUILD",
+      "COMPONENT",
+      "MANA_REGEN",
+      "UPGRADE",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

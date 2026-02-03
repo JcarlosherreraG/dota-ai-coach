@@ -1,0 +1,166 @@
+[
+  {
+    "display_text": "Dazzle is a ranged Intelligence support hero with below-average base attack rate (1.7 BAT) and decent starting stats (19/20/25). This makes him a fragile laner who relies on his spells for impact.",
+    "search_text": "Dazzle stats ranged intelligence support hero attack type base attack time BAT 1.7 strength agility intelligence starting armor health mana movement speed",
+    "tags": [
+      "DAZZLE",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet choice defines Dazzle's playstyle. Nothl Boon (Facet 1) empowers all his basic abilities globally: Poison Touch hexes enemies (1.4/1.6/1.8s), Shallow Grave heals on expiration (225/300/375 HP), and Shadow Wave cooldown is reduced by 30%/40%/50%. This makes him a much more aggressive, high-uptime healer and disabler from a safe distance. Poison Bloom (Facet 2) makes Poison Touch spread on attack to nearby enemies and strengthens Weave's armor reduction on enemies. This turns him into a core-focused right-click amplifier who excels at shredding armor for physical damage teams.",
+    "search_text": "Dazzle facet Nothl Boon Poison Bloom choice Poison Touch hex Shallow Grave heal Shadow Wave cooldown reduction spread on attack Weave armor reduction core support physical damage team",
+    "tags": [
+      "DAZZLE",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Dazzle's primary tool is Poison Touch (Q). It deals 16/28/40/52 damage per second over 3.5/5/6.5/8 seconds and applies a 13%/16%/19%/22% slow that increases by an additional 2/2.5/3/3.5% each time Dazzle attacks the target, refreshing the full duration. Max this first. Use it aggressively to secure denies and harass. Shadow Wave (W) can be used at level 1 or 2 to heal your carry and deal 85/105/125/145 damage to nearby enemies if they are clustered. Your low armor and HP make positioning crucial.",
+    "search_text": "Dazzle laning phase first 10 minutes Poison Touch Q damage over time slow stacking refresh Shadow Wave W heal harass damage enemy cluster positioning low armor",
+    "tags": [
+      "DAZZLE",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Dazzle's power spikes are level-dependent. Level 6 (Weave) is a major teamfight and objective-taking tool. Level 12 gives access to his Shard ability (Nothl Projection), radically changing his playstyle and safety. Level 18 is his maximum Weave armor swing. Talent levels 10, 15, 20, and 25 each offer significant, build-defining choices. Core items like Arcane Boots (into Guardian Greaves) and Solar Crest are essential spikes. Aghanim's Scepter is a huge spike, making Shadow Wave heal for 100% of its damage value.",
+    "search_text": "Dazzle power spikes level 6 Weave level 12 Aghanim's Shard Nothl Projection level 18 talents level 10 15 20 25 item timing Arcane Boots Guardian Greaves Solar Crest Aghanim's Scepter",
+    "tags": [
+      "DAZZLE",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Dazzle is hard countered by heroes with Break (e.g., Hoodwink, Shadow Demon) which disables his Weave passive. Instant hex or silence prevents him from casting Shallow Grave. Pure damage and health removal spells (like Necrophos Heartstopper Aura) can kill through Shallow Grave. Axe's Culling Blade instantly kills a hero under Shallow Grave effect. Anti-heal effects (like Spirit Vessel) reduce the impact of his heals.",
+    "search_text": "Dazzle hard counters Break Weave passive disabled hex silence prevent Shallow Grave pure damage health removal Necrophos Axe Culling Blade kills through Shallow Grave anti-heal Spirit Vessel",
+    "tags": [
+      "DAZZLE",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Dazzle's core build almost always includes Arcane Boots, often upgraded to Guardian Greaves for the dispel and team aura. Solar Crest is a perfect item, synergizing with his armor-focused kit (Weave) and providing buff/debuff. Force Staff or Glimmer Cape are essential for saving allies (complementing Shallow Grave) and personal positioning.",
+    "search_text": "Dazzle core build essential items Arcane Boots Guardian Greaves dispel team mana Solar Crest armor buff debuff Force Staff Glimmer Cape save Shallow Grave positioning",
+    "tags": [
+      "DAZZLE",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Dazzle's primary role is to save his core heroes with Shallow Grave and amplify healing with it. He should cast Weave at the fight's start to swing armor values over 8 seconds. Use Poison Touch to slow and damage key targets. Use Shadow Wave to heal clumped allies and damage nearby enemies. With Aghanim's Shard (Nothl Projection), he can safely initiate or save from a distance. Position at the edge, focusing on keeping allies alive and stacking armor reductions.",
+    "search_text": "Dazzle teamfight role 5v5 save Shallow Grave core hero Weave armor swing Poison Touch slow Shadow Wave heal damage Aghanim's Shard Nothl Projection safe distance positioning",
+    "tags": [
+      "DAZZLE",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Poison Touch (Q). Releases a cone of poison that strikes multiple enemy units (2/4/6/8 targets). Deals 16/28/40/52 damage per second over 3.5/5/6.5/8 seconds and slows targets by 13%/16%/19%/22%. Each time Dazzle attacks a poisoned target, the debuff duration is fully refreshed and the slow is increased by an additional 2%/2.5%/3%/3.5%. The projectile has a speed of 1300, starts with a 200 radius, and ends with a 300 radius at 600/700/800/900 distance. The damage is not reduced by damage block.",
+    "search_text": "Poison Touch Q Dazzle ability cone multiple targets 2 4 6 8 damage over time DPS 16 28 40 52 slow 13 16 19 22 duration 3.5 5 6.5 8 attack refresh slow increase 2 2.5 3 3.5 projectile speed 1300 radius 200 300 distance 600 700 800 900 damage block not reduced",
+    "tags": [
+      "DAZZLE",
+      "ABILITY_DATA",
+      "POISON_TOUCH"
+    ]
+  },
+  {
+    "display_text": "Ability: Shallow Grave (W). Prevents an ally from dying for 4/4.5/5.0/5.5 seconds, regardless of incoming damage. While active, healing on that ally is amplified by 3/5/7/9% for every 10% HP they are missing. Has a cooldown of 30/26/22/18 seconds. The visual effect height is 190/240/300/350. Note: HP cannot drop below 1, but Axe's Culling Blade will still kill the target. This ability does NOT pierce Spell Immunity (BKB).",
+    "search_text": "Shallow Grave W Dazzle ability save prevent death duration 4 4.5 5.0 5.5 cooldown 30 26 22 18 heal amplification 3 5 7 9 per 10 missing HP Axe Culling Blade kills through does not pierce BKB Spell Immunity",
+    "tags": [
+      "DAZZLE",
+      "ABILITY_DATA",
+      "SHALLOW_GRAVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Shadow Wave (E). Sends out a healing wave that bounces between 3/4/5/6 allied units (prioritizing heroes) within 475 radius, healing each for 85/105/125/145 HP. Dazzle is always healed. When the wave heals an ally, it deals 85/105/125/145 damage in a 185 radius around that ally to enemy units. Enemies near multiple healed allies take damage multiple times. Cast range is 800. With Aghanim's Scepter, the heal is increased to 100% of the damage value and the cooldown is increased by 2 seconds.",
+    "search_text": "Shadow Wave E Dazzle ability heal bounce 3 4 5 6 allies heroes radius 475 heal amount 85 105 125 145 damage 85 105 125 145 radius 185 around ally multiple instances cast range 800 Aghanim's Scepter heal 100 damage cooldown increase 2",
+    "tags": [
+      "DAZZLE",
+      "ABILITY_DATA",
+      "SHADOW_WAVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Weave (R, Ultimate). A passive ability. Whenever Dazzle's abilities (Poison Touch, Shallow Grave, Shadow Wave) affect an ally or enemy, they gain a Weave stack. Each stack increases an ally's armor by 0.5/0.75/1.0/1.25 and reduces an enemy's armor by the same amount. Stacks last 8 seconds and multiple instances stack. This affects both allies and enemies. The armor change per stack is constant at all levels of the ultimate.",
+    "search_text": "Weave R Ultimate Dazzle ability passive armor increase ally armor reduction enemy stack 0.5 0.75 1.0 1.25 duration 8 seconds multiple stacks triggered by Poison Touch Shallow Grave Shadow Wave",
+    "tags": [
+      "DAZZLE",
+      "ABILITY_DATA",
+      "WEAVE"
+    ]
+  },
+  {
+    "display_text": "Ability: Nothl Projection (Shard Ability). Dazzle becomes an invulnerable, spell-casting spirit tethered to his body for 5-12 seconds. He can cast spells, attack, and use items in this form. While active, his basic abilities are empowered: Poison Touch hexes enemies for 1.4/1.6/1.8s, Shallow Grave heals the target for 225/300/375 HP upon expiration, and Shadow Wave cooldown is reduced by 30%/40%/50%. If the spirit goes beyond 1600 units from the body, a leash pulls it back with increasing strength. The spirit moves at 1200 speed initially and returns to the body in 0.75s when the spell ends. Cannot attack buildings.",
+    "search_text": "Nothl Projection Shard Ability Dazzle invulnerable spirit tether body duration 5 12 seconds cast spells attack use items empowered Poison Touch hex 1.4 1.6 1.8 Shallow Grave heal expiration 225 300 375 Shadow Wave cooldown reduction 30 40 50 leash 1600 pull cannot attack buildings",
+    "tags": [
+      "DAZZLE",
+      "ABILITY_DATA",
+      "NOTHL_PROJECTION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Armor / High Physical Damage Teams. Dazzle's Weave is extremely powerful here, significantly reducing enemy armor over time. Pair with the Poison Bloom facet to amplify the armor reduction further. Build items like Solar Crest and Assault Cuirass. Your role shifts to enabling your physical cores. Shallow Grave is critical to keep them alive in man-fights.",
+    "search_text": "Dazzle vs high armor physical damage team Weave armor reduction Poison Bloom facet Solar Crest Assault Cuirass enable cores Shallow Grave save",
+    "tags": [
+      "DAZZLE",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Your priority is defensive itemization and saving your highest-net-worth ally. Guardian Greaves, Glimmer Cape, and Force Staff are essential. Use Nothl Projection (Shard) to safely cast Shallow Grave and heal from a distance. Avoid aggressive positioning. Max Shallow Grave cooldown reduction talent can be valuable. Use Weave defensively on your team as you retreat from lost fights.",
+    "search_text": "Dazzle playing from behind defensive items Guardian Greaves Glimmer Cape Force Staff save core Nothl Projection safe casting Shallow Grave heal max cooldown talent defensive Weave",
+    "tags": [
+      "DAZZLE",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Heavy Magic Damage Lineup. Dazzle's utility is still high but his armor reduction is less impactful. Focus on the Nothl Boon facet to maximize healing and disable uptime (hex from Poison Touch). Items like Lotus Orb and Pipe of Insight become more relevant. Your job is to keep magic damage dealers alive long enough to cast their spells multiple times.",
+    "search_text": "Dazzle with magic damage lineup Nothl Boon facet hex Poison Touch healing disable uptime Lotus Orb Pipe of Insight keep spellcasters alive",
+    "tags": [
+      "DAZZLE",
+      "SITUATIONAL",
+      "WITH_MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents. Left: +200 Attack Range when attacking an enemy affected by Poison Touch. This synergizes with the Poison Touch refresh mechanic and the Poison Bloom facet, allowing safer stacking of the slow. Right: +1.75 Mana Regeneration. Provides sustain for constant spellcasting, especially Shallow Grave and Shadow Wave. Choose Attack Range for a more aggressive, right-click oriented build (often with Poison Bloom). Choose Mana Regen if you are struggling for mana or playing a pure backline save role.",
+    "search_text": "Dazzle talent level 10 left +200 Poison Touch Attack Range right +1.75 Mana Regen aggressive right click sustain spellcasting Shallow Grave Shadow Wave Poison Bloom facet",
+    "tags": [
+      "DAZZLE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents. Left: +45 Shadow Wave Heal/Damage. Increases the heal and damage per bounce from 125/145/165/185 to 170/190/210/230 (based on level). A significant boost to Dazzle's burst healing and damage output in fights. Right: -3s Shallow Grave Cooldown. Reduces the cooldown from 30/26/22/18 to 27/23/19/15. Choose the heal/damage if your team groups up and you need more offensive/defive burst. Choose the cooldown reduction if you are against burst damage and need Shallow Grave available more frequently.",
+    "search_text": "Dazzle talent level 15 left +45 Shadow Wave Heal Damage right -3s Shallow Grave Cooldown burst healing damage output teamfight group up cooldown reduction burst damage save",
+    "tags": [
+      "DAZZLE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents. Left: +75 Poison Touch DPS. Increases the damage per second from 16/28/40/52 to 91/103/115/127. A massive damage increase that makes Poison Touch a serious threat, especially with its long duration and refresh mechanic. Right: +40% Poison Touch Slow. Increases the base slow from 13%/16%/19%/22% to 18.2%/22.4%/26.6%/30.8%, and the attack-increase slow from 2%/2.5%/3%/3.5% to 2.8%/3.5%/4.2%/4.9%. Choose DPS for killing power and wave clear. Choose Slow for unparalleled chase and control, especially against mobile heroes.",
+    "search_text": "Dazzle talent level 20 left +75 Poison Touch DPS damage per second right +40% Poison Touch Slow control chase kill power wave clear mobile heroes",
+    "tags": [
+      "DAZZLE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents. Left: +1 Weave Armor Reduction/Increase. Increases the armor swing per stack from 0.5/0.75/1.0/1.25 to 1.5/1.75/2.0/2.25. An enormous late-game talent that makes Weave devastating against physical damage teams and incredibly strong for protecting allies. Right: Nothl Projection Leash Stops Pull. This talent likely removes or severely weakens the leash pull mechanic when the spirit goes beyond 1600 units, granting near-global range for his empowered spells. Choose +1 Weave for teamfight dominance in physical damage games. Choose the Leash talent for unparalleled safety, global save potential, and initiation with hex.",
+    "search_text": "Dazzle talent level 25 left +1 Weave Armor Reduction Increase right Nothl Projection Leash Stops Pull no leash global range empowered spells hex save initiation teamfight physical damage",
+    "tags": [
+      "DAZZLE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

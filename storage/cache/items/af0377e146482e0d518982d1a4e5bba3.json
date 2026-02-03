@@ -1,0 +1,15 @@
+[
+  {
+    "display_text": "River Vial: Slime. Cost: 0: Special event item that permanently changes the river color to Slime Green for 15 minutes when used. Provides no stats and does not affect gameplay. Stats: Cost: 0, Paint Duration: 900s.",
+    "search_text": "river paint, river vial, cosmetic item, event item, river color, slime green, visual change, river painter, non-purchasable, River Vial: Slime, river painter 3, river vial slime",
+    "tags": [
+      "ITEM_DATA",
+      "RIVER_VIAL_SLIME",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "EVENT",
+      "COSMETIC",
+      "VISUAL"
+    ]
+  }
+]

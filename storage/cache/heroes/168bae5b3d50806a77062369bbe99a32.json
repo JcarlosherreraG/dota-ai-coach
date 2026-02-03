@@ -1,0 +1,220 @@
+[
+  {
+    "display_text": "Broodmother is a Melee hero with a base attack rate of 1.7 seconds. She has balanced starting attributes of 18 Strength, 18 Agility, and 18 Intelligence, making her a versatile but not exceptional laner in terms of raw stats. Her melee nature requires careful positioning in lane.",
+    "search_text": "Broodmother Melee stats attack rate 1.7 base strength 18 agility 18 intelligence 18",
+    "tags": [
+      "BROODMOTHER",
+      "BASE_STATS",
+      "MELEE",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Necrotic Webs: Reduces health restoration of enemies on webs. This facet is a powerful counter-pick against heroes reliant on healing, regeneration, or lifesteal, such as Huskar, Alchemist, or heroes with Heart of Tarrasque. It turns the web area into a zone of denial. Feeding Frenzy: Insatiable Hunger also applies to nearby Spiderlings. This facet amplifies Broodmother's core identity as a swarm pusher. It dramatically increases the physical damage output of the spider army during teamfights and tower pushes, making it the default choice for maximizing map pressure and objective taking.",
+    "search_text": "Broodmother Facets Necrotic Webs reduces enemy healing regeneration on webs counter pick. Feeding Frenzy Insatiable Hunger buffs nearby Spiderlings swarm push damage army",
+    "tags": [
+      "BROODMOTHER",
+      "FACET_STRATEGY",
+      "NECROTIC_WEBS",
+      "FEEDING_FRENZY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Broodmother's goal is to secure the enemy safe lane T1 tower. Use Spin Web (W) to create a network for free movement, high turn rate, and up to 46 bonus movement speed. This allows you to harass and last-hit with impunity. Max Incapacitating Bite (E) first to apply a 2-second slow and miss chance on each attack, making trades heavily favorable. Use Spawn Spiderlings (R) on the enemy hero or a creep to generate your army. Use Spider's Milk (passive) to sustain yourself and your spiderlings by last-hitting. Dominate the lane, then push the tower once you have a few levels and spiderlings.",
+    "search_text": "Broodmother laning early game first 10 minutes push tower Spin Web free pathing Incapacitating Bite slow miss chance Spawn Spiderlings army sustain Spider's Milk",
+    "tags": [
+      "BROODMOTHER",
+      "LANING_PHASE",
+      "PUSH",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Level 6: Unlocking Spinner's Snare (ultimate) provides strong area control and pick-off potential within your web network. Level 12: With maxed Incapacitating Bite and Spawn Spiderlings, your solo kill potential and push speed peak. Key item timings like Orchid Malevolence or Diffusal Blade around this time are massive spikes. Level 18: Max level Spawn Spiderlings with level 2 ultimate. Level 20: Talent choice (e.g., +20% Incapacitating Bite Slow/Miss Chance) significantly increases lockdown. Level 25: The -0.2s BAT during Insatiable Hunger talent is a transformative DPS spike, especially with Feeding Frenzy facet.",
+    "search_text": "Broodmother power spikes level 6 Spinner's Snare level 12 max skills item timing Orchid Diffusal level 18 level 20 talent level 25 talent BAT reduction",
+    "tags": [
+      "BROODMOTHER",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_25"
+    ]
+  },
+  {
+    "display_text": "Hard Counters: 1. Area-of-Effect (AoE) Clear: Heroes like Legion Commander (Overwhelming Odds), Earthshaker (Echo Slam), or Kunkka (Tidebringer) can instantly wipe your spiderling army. 2. Break: Heroes like Shadow Demon (Demonic Purge) or items like Silver Edge disable your Incapacitating Bite and Spider's Milk passives, crippling your damage and sustain. 3. Instant Disables and Hex: Heroes with reliable, long-duration disables like Lion, Shadow Shaman, or an instant Hex from Scythe of Vyse can lock you down before you can use your web mobility.",
+    "search_text": "Broodmother counters hard counters AoE clear Legion Commander Earthshaker Kunkka spiderlings Break Shadow Demon Silver Edge passives disable instant hex Lion Shadow Shaman Scythe of Vyse",
+    "tags": [
+      "BROODMOTHER",
+      "HARD_COUNTERS",
+      "AOE",
+      "BREAK",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Core Build: 1. Soul Ring is absolutely essential for unlimited mana to spam Spin Web and Spawn Spiderlings. 2. Orb of Corrosion synergizes perfectly with Incapacitating Bite, applying further slow and armor reduction for you and your spiderlings. 3. Diffusal Blade is a core damage item; the mana burn is applied by all spiderlings, and the active purge helps secure kills. Alternatively, Orchid Malevolence provides mana, damage, and a crucial silence for pick-offs.",
+    "search_text": "Broodmother core items essential Soul Ring mana Orb of Corrosion slow armor reduction Diffusal Blade mana burn spiderlings Orchid Malevolence silence",
+    "tags": [
+      "BROODMOTHER",
+      "CORE_BUILD",
+      "SOUL_RING",
+      "ORB_OF_CORROSION",
+      "DIFFUSAL_BLADE"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Broodmother's role is to be a disruptive backline diver and area controller. Use your web network to flank or initiate from unexpected angles. Your primary target is the enemy support or core carry. Use Spinner's Snare to cut off escape routes or trap multiple enemies. Activate Insatiable Hunger to burst down a key target with high physical damage and lifesteal for sustain. Your spiderlings should be micro-managed to focus fire on the same target or to body block enemies. Your goal is to create chaos, split focus, and eliminate squishy heroes quickly.",
+    "search_text": "Broodmother teamfight role 5v5 backline diver disrupt area control Spinner's Snare trap Insatiable Hunger burst lifesteal spiderlings focus fire micro",
+    "tags": [
+      "BROODMOTHER",
+      "TEAMFIGHT_ROLE",
+      "DIVER",
+      "CONTROLLER"
+    ]
+  },
+  {
+    "display_text": "Spin Web (W): Broodmother spins a large web that grants her and her Spiderlings a passive movement speed increase of 10/22/34/46 and a 0.2 bonus turn rate while in its 1200 radius, as well as free pathing. It has 3/5/7/9 maximum charges with a 27-second charge restore time. Webs never expire and can be cast from anywhere as long as the new web touches an existing one. When the maximum limit is exceeded, the oldest web disappears.",
+    "search_text": "Spin Web W ability free pathing movement speed bonus 10 22 34 46 turn rate 0.2 radius 1200 charges 3 5 7 9 restore time 27 seconds spiderlings",
+    "tags": [
+      "BROODMOTHER",
+      "ABILITY_DATA",
+      "SPIN_WEB",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Incapacitating Bite (E): Broodmother's attacks apply a venom that slows the target's movement speed by 15/20/25/30% and gives them a 30/40/50/60% chance to miss attacks for 2.0 seconds. Her attacks also deal an additional 3/6/9/12 damage to the affected target. The miss chance stacks with evasion.",
+    "search_text": "Incapacitating Bite E passive attack effect slow 15 20 25 30 percent miss chance 30 40 50 60 duration 2.0 seconds bonus damage 3 6 9 12 stacks evasion",
+    "tags": [
+      "BROODMOTHER",
+      "ABILITY_DATA",
+      "INCAPACITATING_BITE",
+      "SLOW",
+      "MISS_CHANCE"
+    ]
+  },
+  {
+    "display_text": "Insatiable Hunger (Q): Broodmother gains 40/50/60/70 bonus attack damage and 40/60/80/100% lifesteal for 8/10/12/14 seconds. With the Feeding Frenzy facet, this buff also applies to nearby Spiderlings. Does NOT pierce BKB.",
+    "search_text": "Insatiable Hunger Q active buff bonus damage 40 50 60 70 lifesteal 40 60 80 100 percent duration 8 10 12 14 seconds Feeding Frenzy spiderlings not pierce BKB",
+    "tags": [
+      "BROODMOTHER",
+      "ABILITY_DATA",
+      "INSATIABLE_HUNGER",
+      "BUFF",
+      "LIFESTEAL"
+    ]
+  },
+  {
+    "display_text": "Spawn Spiderlings (R): Broodmother injects an enemy, dealing 220/320/420 damage and slowing them for 4 seconds. If the target is killed within 20 seconds, 4/5/6 Spiderlings hatch. Spiderlings have 300 HP, last 40 seconds, deal bonus damage, and have 25/35/45 movement speed. Units killed by Spiderlings give birth to additional Spiderlings.",
+    "search_text": "Spawn Spiderlings R nuke damage 220 320 420 slow 4 seconds spawn 4 5 6 spiderlings on kill timer 20 seconds spiderling HP 300 duration 40 seconds movement speed 25 35 45 spawn more on kill",
+    "tags": [
+      "BROODMOTHER",
+      "ABILITY_DATA",
+      "SPAWN_SPIDERLINGS",
+      "SUMMON",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Spinner's Snare (Ultimate): Broodmother creates up to 5 invisible web lines touching any existing web. Enemy Heroes that cross a line are rooted for 3.0 seconds, revealed, and take 100 damage per second. The line is destroyed after being initially triggered, but multiple heroes can trip on it until then. The team is alerted via minimap when triggered.",
+    "search_text": "Spinner's Snare ultimate trap web lines 5 invisible root 3.0 seconds damage per second 100 reveal alert minimap",
+    "tags": [
+      "BROODMOTHER",
+      "ABILITY_DATA",
+      "SPINNERS_SNARE",
+      "TRAP",
+      "ROOT"
+    ]
+  },
+  {
+    "display_text": "Spider's Milk (Passive): Whenever Broodmother kills a unit, she and all units under her control in a 600 radius receive a buff that heals them for a percentage of the victim's max health every 0.5 seconds for 3 seconds. Healing from creep kills is reduced by 40%. The heal amount is 2% per tick for hero kills.",
+    "search_text": "Spider's Milk passive sustain heal on kill radius 600 buff duration 3 seconds tick rate 0.5 creep heal penalty 40 percent hero heal 2 percent per tick",
+    "tags": [
+      "BROODMOTHER",
+      "ABILITY_DATA",
+      "SPIDERS_MILK",
+      "SUSTAIN",
+      "HEAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs. High Armor / Damage Block. Heroes like Tidehunter, Timbersaw, or anyone with Crimson Guard can significantly reduce your physical spiderling damage. Solution: Build items that reduce armor, like Desolator or Assault Cuirass. Consider skipping heavy spiderling focus and building for Broodmother's own right-click with items like Monkey King Bar and Daedalus.",
+    "search_text": "Broodmother situational vs high armor Tidehunter Timbersaw Crimson Guard physical damage block build Desolator Assault Cuirass armor reduction MKB Daedalus right click",
+    "tags": [
+      "BROODMOTHER",
+      "SITUATIONAL",
+      "HIGH_ARMOR",
+      "ITEMIZATION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. If the enemy has strong counters and you've died a few times, your spiderlings will be underleveled and die instantly. Solution: Stop investing in Spawn Spiderlings. Max Spin Web and Incapacitating Bite for survivability and utility. Build survivability items like Black King Bar, Linken's Sphere, or Sange and Yasha. Play as a split-pusher using webs to escape, avoiding 5v5 fights.",
+    "search_text": "Broodmother situational behind losing counters spiderlings die skip Spawn Spiderlings max web and bite build BKB Linkens Sange Yasha split push avoid fights",
+    "tags": [
+      "BROODMOTHER",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "SPLIT_PUSH"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has Gem of True Sight or Sentry Wards. Your web mobility and Spinner's Snare traps are neutralized. Solution: Do not fight in areas without vision control. Carry your own Dust of Appearance or Sentry Wards to de-ward. Consider buying a Smoke of Deceit to move through enemy vision. Itemize for direct combat (BKB, Satanic) rather than pick-offs.",
+    "search_text": "Broodmother situational counter warding Gem of True Sight Sentry Wards web traps seen carry dust sentry deward Smoke of Deceit build BKB Satanic",
+    "tags": [
+      "BROODMOTHER",
+      "SITUATIONAL",
+      "COUNTER_WARDING",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Break High Regeneration. Against heroes like Alchemist, Huskar, or Morphling with high regen, the Necrotic Webs facet is crucial. It severely reduces their healing from all sources while they are on your webs, making them much easier to kill. Combine this with items like Skadi or Spirit Vessel for maximum healing reduction.",
+    "search_text": "Broodmother situational vs high regeneration Alchemist Huskar Morphling Necrotic Webs facet reduces healing build Skadi Spirit Vessel",
+    "tags": [
+      "BROODMOTHER",
+      "SITUATIONAL",
+      "HEALING_REDUCTION",
+      "NECROTIC_WEBS"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: +80 Spawn Spiderlings Damage vs. +20% Insatiable Hunger Lifesteal. Choose +80 Damage if you are focusing on farming and pushing with your spider army, as it increases your clear speed and burst damage on heroes. Choose +20% Lifesteal if you are facing a lane or matchup where you need more sustain in man-fights, or if you are building Broodmother as a more traditional right-click carry.",
+    "search_text": "Broodmother talent level 10 left +80 Spawn Spiderlings Damage right +20% Insatiable Hunger Lifesteal push farm vs sustain manfight",
+    "tags": [
+      "BROODMOTHER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: +8 Incapacitating Bite Attack Bonus vs. +150 Spiderlings Health. Choose +8 Attack Bonus if you are the primary damage source and focusing on killing heroes, as it significantly increases your right-click damage per hit. Choose +150 Spiderling Health if the enemy has widespread but weak AoE damage (e.g., Radiance, Shard effects) that your spiderlings are barely dying to; the extra health lets them survive and continue dealing damage.",
+    "search_text": "Broodmother talent level 15 left +8 Incapacitating Bite Attack Bonus damage right +150 Spiderlings Health survivability vs AoE",
+    "tags": [
+      "BROODMOTHER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: -6s Spin Web Charge Restore Time vs. +20% Incapacitating Bite Slow/Miss Chance. Choose -6s Charge Restore if you need extreme map mobility, are split-pushing aggressively across multiple lanes, or are constantly re-positioning in fights. Choose +20% Slow/Miss Chance for maximum single-target lockdown, making it nearly impossible for a core hero to man-fight you or escape. This is often the higher impact teamfight talent.",
+    "search_text": "Broodmother talent level 20 left -6s Spin Web Charge Restore Time mobility right +20% Incapacitating Bite Slow Miss Chance lockdown",
+    "tags": [
+      "BROODMOTHER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: -0.2s BAT during Insatiable Hunger vs. +2 Spinner's Snare Charges. The -0.2s BAT (Base Attack Time) reduction is one of the most powerful DPS talents in the game. It transforms Broodmother into an ultra-fast attacking monster during Insatiable Hunger, especially with the Feeding Frenzy facet buffing spiderlings. This is almost always the correct choice. The +2 Snare Charges can be situationally useful for extreme area denial and control in choke-point heavy maps or against very mobile lineups, but the DPS increase from the BAT reduction is typically game-winning.",
+    "search_text": "Broodmother talent level 25 left -0.2s BAT during Insatiable Hunger DPS attack speed right +2 Spinner's Snare Charges area control",
+    "tags": [
+      "BROODMOTHER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

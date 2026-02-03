@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Gloves of Travel, Cost: 0: Tier 5 neutral item providing +20 attack speed and +20% teleport cooldown reduction. Enables faster re-engagement across the map and benefits heroes reliant on mobility and rapid repositioning. Stats: Attack Speed: +20, Teleport Cooldown Reduction: +20%.",
+    "search_text": "gloves of travel, tier 5 neutral, neutral item, attack speed neutral, teleport cooldown, teleport reduction, map mobility, repositioning, global presence, late game neutral, travel item, attack speed, cooldown reduction, Neutral Item",
+    "tags": [
+      "ITEM_DATA",
+      "GLOVES_OF_TRAVEL",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_5",
+      "ATTACK_SPEED",
+      "MOBILITY",
+      "UTILITY",
+      "MAP_PRESENCE"
+    ]
+  }
+]

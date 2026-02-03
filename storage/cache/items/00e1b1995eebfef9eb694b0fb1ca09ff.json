@@ -1,0 +1,16 @@
+[
+  {
+    "display_text": "Venom Gland. Cost: 0, Tier N/A: Non-purchasable item providing a strong DoT and debuff amplification. Actively applies 25 damage per second and +25% spell damage amplification debuff for 6 seconds. Ideal for ganking and burst magic combos as it amplifies all subsequent spell damage on the target. Stats: Debuff Duration: 6s, Damage per Second: 25, Debuff Amplification: +25%.",
+    "search_text": "neutral item, dot item, debuff amp item, damage over time, spell amplification, damage amplification, venom gland, magic damage amp, debuff damage, gank item, tier item",
+    "tags": [
+      "ITEM_DATA",
+      "VENOM_GLAND",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "DEBUFF",
+      "MAGICAL_DAMAGE",
+      "DAMAGE_AMPLIFICATION",
+      "VS_MAGIC"
+    ]
+  }
+]

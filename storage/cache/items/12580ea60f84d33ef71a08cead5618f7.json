@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Satchel. Cost: 0: Non-purchasable item that grants +5 to all attributes and +15 XP when used. Consumed on use. Provides a temporary stat boost and experience gain. Stats: All Attributes: +5, XP Gain: +15.",
+    "search_text": "satchel, event item, free item, experience boost, xp gain, attribute bonus, all stats, +5 stats, +15 xp, xp item, consumable item, temporary boost, Satchel",
+    "tags": [
+      "ITEM_DATA",
+      "SATCHEL",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "EVENT_ITEM",
+      "CONSUMABLE",
+      "ATTRIBUTES",
+      "EXPERIENCE",
+      "UTILITY"
+    ]
+  }
+]

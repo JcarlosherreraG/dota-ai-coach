@@ -1,0 +1,184 @@
+[
+  {
+    "display_text": "Nature's Prophet is a ranged Intelligence core with low base armor (14 Agility, 1 armor). He has low base health (19 Strength) but good Intelligence (22) for mana. His attack rate of 1.5 is average. His primary contribution is not through right-click stats but through his unique global abilities and summons.",
+    "search_text": "Nature Prophet Furion stats attack type ranged int intelligence base 19 strength 14 agility 22 attack rate 1.5 low armor",
+    "tags": [
+      "NATURES_PROPHET",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Nature's Prophet has three Facets. Soothing Saplings (ID 105) makes Sprout heal allies near the created trees, supporting teamfight sustain. Ironwood Treant (ID 106) creates a single, powerful Reinforced Treant from Nature's Call, focused on pushing and fighting. Nature's Profit (ID 325) generates gold from hero kills nearby, accelerating his economy as a semicarry. Choose Soothing Saplings for team-oriented setups, Ironwood Treant for aggressive split-pushing, and Nature's Profit for a greedier core role.",
+    "search_text": "Furion Facets Soothing Saplings ID 105 heal Sprout trees Ironwood Treant ID 106 single reinforced treant stronger Nature's Profit ID 325 gold money tree kills",
+    "tags": [
+      "NATURES_PROPHET",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, Nature's Prophet uses Sprout (70/130/190/250 damage) to harass and secure range creep last hits. His low base damage and armor make him vulnerable to aggression. Use Treants from Nature's Call to harass, block camps, and secure farm. Prioritize Teleportation for escapes or to join early fights. Focus on acquiring core items like Power Treads and Orchid Malevolence to enable ganks and secure solo kills with Sprout's isolation.",
+    "search_text": "Nature Prophet laning early game Sprout damage 70 130 190 250 harass last hit Treants Nature's Call block harass farm Teleportation escape join fight",
+    "tags": [
+      "NATURES_PROPHET",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power Spike 1: Level 6 with Wrath of Nature (90 damage). Use it to snipe fleeing enemies globally and accelerate farm. Power Spike 2: Level 12 and Orchid Malevolence timing for solo kill potential. Power Spike 3: Level 15 talent (+25 Wrath of Nature Base Damage) and Gleipnir for teamfight control. Power Spike 4: Level 20 talent (+170 Sprout Damage) turns Sprout into a major nuke. Power Spike 5: Level 25 talent (x3x Treant HP/Damage) with Refresher Orb for overwhelming push and teamfight.",
+    "search_text": "Nature Prophet power spikes level 6 Wrath of Nature 90 damage global farm level 12 orchid kill level 15 talent 25 wrath damage level 20 talent 170 sprout damage level 25 talent 3x treant hp damage",
+    "tags": [
+      "NATURES_PROPHET",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Nature's Prophet is hard countered by heroes who can quickly destroy trees (Batrider, Timbersaw, Beastmaster) to negate Sprout, Curse of the Oldgrowth, and Spirit of the Forest. Instant disables (Lion Hex, Shadow Shaman Shackles) prevent Teleportation escapes. High burst damage (Lina, Skywrath Mage) can kill him before he can react. Break effects (Silver Edge, Doom) disable his passive Spirit of the Forest and Curse of the Oldgrowth, crippling his damage output.",
+    "search_text": "counter Nature Prophet Furion destroy trees Batrider Timbersaw Beastmaster Sprout Curse Oldgrowth Spirit Forest instant disable Lion Shadow Shaman Hex Shackles stop Teleportation burst Lina Skywrath Break Silver Edge Doom disable passive",
+    "tags": [
+      "NATURES_PROPHET",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "The core build for Nature's Prophet revolves around mana, lockdown, and split-push. Orchid Malevolence (or Bloodthorn) is essential for solo kill potential and silencing key targets. Gleipnir provides crucial AoE root and farming speed. Refresher Orb is a late-game staple to double Wrath of Nature, Treants, and other actives for massive teamfight and push impact.",
+    "search_text": "core build Nature Prophet Furion Orchid Malevolence Bloodthorn silence kill Gleipnir root farm teamfight Refresher Orb double Wrath of Nature treants push",
+    "tags": [
+      "NATURES_PROPHET",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Nature's Prophet's role is to initiate with a global Wrath of Nature to reveal and damage all enemy heroes. He then Teleports to the edge of the fight or a flank. Use Sprout to trap key enemy cores or supports. Summon Treants to provide vision and body block. Use Curse of the Oldgrowth to slow and reveal fleeing enemies. His job is to create chaos, pick off supports, and provide vision, not to stand and manfight.",
+    "search_text": "teamfight role Nature Prophet Furion initiate Wrath of Nature global damage reveal Teleport flank Sprout trap core support Treants vision body block Curse of the Oldgrowth slow reveal pickoff",
+    "tags": [
+      "NATURES_PROPHET",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Sprout. Sprouts a ring of trees around a unit, damaging and trapping it in place and providing vision in a 250 radius. Deals 70/130/190/250 damage in a 275 radius. Lasts for 2.5/3/3.5/4 seconds. The trees provide 250 vision range. Can be cast on the ground. Trees interact normally with tree-destroying abilities. This spell does not pierce BKB.",
+    "search_text": "Sprout Q trap trees damage 70 130 190 250 radius 275 duration 2.5 3 3.5 4 vision 250 ground target",
+    "tags": [
+      "NATURES_PROPHET",
+      "ABILITY_DATA",
+      "SPROUT"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Teleportation. Teleports to any point on the map. Gains a barrier after arriving to its destination. Cooldown is 65/50/35/20 seconds. Barrier absorbs 70/130/190/250 damage and lasts 15 seconds. Mana and cooldown are consumed only upon successful completion of the cast. A visible effect is created at the target location when casting begins.",
+    "search_text": "Teleportation W global TP teleport barrier 70 130 190 250 cooldown 65 50 35 20 barrier duration 15 channel",
+    "tags": [
+      "NATURES_PROPHET",
+      "ABILITY_DATA",
+      "TELEPORTATION"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Nature's Call. Converts an area of trees into Treants under the command of Nature's Prophet. Cooldown is 45/40/35/30 seconds. Creates 2/3/4/5 Treants per cast, depending on trees in the area. Treants have 550 health, 16/24/32/40 damage, and 305/310/315/320 movement speed. They last 50 seconds. Their gold bounty is 18-24 and XP bounty is 30. They provide 500 day/night vision.",
+    "search_text": "Nature's Call E Treants summons convert trees cooldown 45 40 35 30 max treants 2 3 4 5 health 550 damage 16 24 32 40 movespeed 305 310 315 320 duration 50 vision 500",
+    "tags": [
+      "NATURES_PROPHET",
+      "ABILITY_DATA",
+      "NATURES_CALL"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Curse of the Oldgrowth. Applies a curse on all enemy heroes within 900 range, displaying them in fog, slowing them, and dealing damage over time based on the number of trees within 250 radius. Treants count as trees for this purpose. The slow per tree is 7% and damage per tree is 15. Lasts 7 seconds. Does NOT pierce BKB.",
+    "search_text": "Curse of the Oldgrowth R passive curse reveal fog slow 7% per tree damage 15 per tree duration 7 radius 900 tree radius 250 treants count",
+    "tags": [
+      "NATURES_PROPHET",
+      "ABILITY_DATA",
+      "CURSE_OF_THE_OLDGROWTH"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Spirit of the Forest. Nature's Prophet gains 2% bonus damage for each tree within 300/400/500/600 and a multiplier of that same bonus for each treant within 1200 distance of him. The multiplier for treants is 1 at all levels. Does NOT pierce BKB.",
+    "search_text": "Spirit of the Forest passive damage bonus 2% per tree radius 300 400 500 600 multiplier per treant 1 radius treant 1200",
+    "tags": [
+      "NATURES_PROPHET",
+      "ABILITY_DATA",
+      "SPIRIT_OF_THE_FOREST"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Wrath of Nature. Damaging energy bounces around the map, striking enemies that are in vision starting with those closest to the cast point. Each enemy hit beyond the first adds damage, up to the maximum after 16 are hit. Deals 90/130/170 base damage. Each jump adds 10% damage. Cooldown is 85 seconds. Maximum of 16 targets. Does NOT pierce BKB.",
+    "search_text": "Wrath of Nature ult global bounce damage 90 130 170 add 10% per jump max targets 16 cooldown 85 vision required",
+    "tags": [
+      "NATURES_PROPHET",
+      "ABILITY_DATA",
+      "WRATH_OF_NATURE"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Playing Against High-Armor/Tanky Cores. Nature's Prophet struggles against high-armor heroes like Dragon Knight or Timbersaw. In this scenario, prioritize building items that provide percentage-based damage or ignore armor. Gleipnir for control and teamfight, then Scythe of Vyse for lockdown. Use Wrath of Nature to clear enemy supports and waves, avoiding the tanky core. Focus on split-pushing with Teleportation to create map pressure and force reactions.",
+    "search_text": "situational high armor tank Dragon Knight Timbersaw counter item Gleipnir Scythe of Vyse Hex split push Teleportation pressure Wrath of Nature kill supports",
+    "tags": [
+      "NATURES_PROPHET",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Playing From Behind. When your team is losing, Nature's Prophet should avoid 5v5 engagements. Use Wrath of Nature on cooldown to secure creep wave gold and chip enemy health. Constantly split-push dangerous lanes with Teleportation, Treants, and Sprout for escape. Build utility items like Force Staff or Scythe of Vyse to help your team catch enemies. Your goal is to create space and farm until you hit key item timings (e.g., Gleipnir, Refresher).",
+    "search_text": "situational playing from behind losing split push farm Wrath of Nature wave gold Teleportation escape Treants push utility Force Staff Hex Scythe of Vyse space",
+    "tags": [
+      "NATURES_PROPHET",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Enemy Has Multiple Tree-Destroyers (Batrider, Timbersaw). Your Sprout, Curse of the Oldgrowth, and Spirit of the Forest are heavily countered. Adapt by skipping value points in Sprout beyond level 1. Max Nature's Call and Teleportation for map mobility and split push. Consider the Ironwood Treant Facet for a stronger, single Treant that is less reliant on mass trees. Itemize for right-click damage (Maelstrom, Desolator) instead of tree-reliant spells.",
+    "search_text": "situational counter tree destroy Batrider Timbersaw skip Sprout max Nature's Call Teleportation Ironwood Treant Facet item Maelstrom Desolator right click",
+    "tags": [
+      "NATURES_PROPHET",
+      "SITUATIONAL",
+      "VS_TREE_DESTROYERS"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Need Early Roshan/Pickoff Potential. Nature's Prophet can contribute to early Roshan attempts with constant global pressure. Use Wrath of Nature to scout the Roshan pit and damage enemies. Teleport in to provide Treants as additional damage sources and body blockers. Build early Orchid Malevolence to silence and kill the enemy carry or key support during the attempt. Sprout can trap enemies inside the pit.",
+    "search_text": "situational early Roshan pickoff Wrath of Nature scout damage Teleportation Treants body block damage Orchid Malevolence silence kill Sprout trap pit",
+    "tags": [
+      "NATURES_PROPHET",
+      "SITUATIONAL",
+      "EARLY_ROSHAN"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 10. Left Talent: -10s Nature's Call Cooldown. Right Talent: +25 Wrath of Nature Base Damage. Choose -10s Nature's Call Cooldown if you are focused on split-pushing and map control, allowing you to spawn Treants more frequently. Choose +25 Wrath of Nature Base Damage if you are using your ultimate aggressively to secure kills and farm, providing a more reliable damage boost.",
+    "search_text": "talent level 10 left -10s Nature's Call cooldown push right +25 Wrath of Nature base damage kill farm",
+    "tags": [
+      "NATURES_PROPHET",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 15. Left Talent: +50 Treant Movement Speed. Right Talent: +8 Treants Attack Damage. Choose +50 Treant Movement Speed if you need your Treants to be more effective scouts, chasers, or to escape from enemies. Choose +8 Treants Attack Damage if your primary focus is on pushing towers and barracks faster, as the flat damage increase significantly speeds up structure demolition.",
+    "search_text": "talent level 15 left +50 Treant movement speed scout chase escape right +8 Treants attack damage push towers barracks",
+    "tags": [
+      "NATURES_PROPHET",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 20. Left Talent: -15s Wrath of Nature Cooldown. Right Talent: +170 Sprout Damage. Choose -15s Wrath of Nature Cooldown (70s cooldown) for increased global map presence, farm acceleration, and teamfight frequency. Choose +170 Sprout Damage to turn Sprout into a major 420-damage nuke, significantly increasing your burst potential and wave clear when combined with the base damage.",
+    "search_text": "talent level 20 left -15s Wrath of Nature cooldown 70s global farm fight right +170 Sprout damage nuke 420 burst wave clear",
+    "tags": [
+      "NATURES_PROPHET",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 25. Left Talent: Removed Teleportation Cooldown. Right Talent: x3x Treant HP/Damage. Choose Removed Teleportation Cooldown for unparalleled global map presence, allowing you to be anywhere instantly at no cooldown cost, perfect for split-pushing and base defense. Choose x3x Treant HP/Damage to create an overwhelming army of super-treants (1650 HP, 120 damage at level 4 Nature's Call) that can wipe out buildings and teams, especially powerful with Refresher Orb.",
+    "search_text": "talent level 25 left removed Teleportation cooldown global map split push defense right x3 treant hp damage 1650 hp 120 damage army push Refresher",
+    "tags": [
+      "NATURES_PROPHET",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

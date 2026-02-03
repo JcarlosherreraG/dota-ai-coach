@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Imp Claw, Cost: 0: Tier 4 Neutral item. Its Critical Strike passive empowers your next attack, guaranteeing a critical hit dealing 130% damage. Useful for securing kills with burst damage, especially on high-base-damage heroes or those looking to add guaranteed physical burst to their next hit. The effect has a short cooldown, allowing for frequent usage in skirmishes. Stats: CD: 5s, Crit Multiplier: 130%.",
+    "search_text": "imp claw, tier 4 neutral, critical strike, guaranteed crit, next attack crit, burst damage, physical burst, damage amp, neutral damage, offensive neutral, burst neutral, Imp Claw",
+    "tags": [
+      "ITEM_DATA",
+      "IMP_CLAW",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_4",
+      "CRITICAL_STRIKE",
+      "PHYSICAL_DAMAGE",
+      "DAMAGE",
+      "OFFENSIVE",
+      "BURST_DAMAGE"
+    ]
+  }
+]

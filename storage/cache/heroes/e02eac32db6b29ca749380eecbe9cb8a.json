@@ -1,0 +1,212 @@
+[
+  {
+    "display_text": "Dragon Knight is a Melee hero with 21 base Strength, 14 Agility, and 18 Intelligence. He has a 1.6 base attack time.",
+    "search_text": "Dragon Knight DK stats melee base attack time BAT 1.6",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Fire Dragon Facet: Dragon Knight's attacks deal 20/30/40/50 bonus Magic Damage. All his abilities have increased Area of Effect that gets stronger during Elder Dragon Form. This Facet emphasizes magical burst damage.",
+    "search_text": "Dragon Knight Facet Fire Dragon E ability AoE magic damage Elder Dragon Form increase bonus",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "FACET_STRATEGY",
+      "FIRE_DRAGON"
+    ]
+  },
+  {
+    "display_text": "Corrosive Dragon Facet: Dragon Knight's attacks reduce enemy armor. All his abilities deal Physical damage. This Facet synergizes with right-click builds and counters high-armor heroes.",
+    "search_text": "Dragon Knight Facet Corrosive Dragon armor reduction attack physical damage Breathe Fire Fireball",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "FACET_STRATEGY",
+      "CORROSIVE_DRAGON"
+    ]
+  },
+  {
+    "display_text": "Frost Dragon Facet: Dragon Knight's attacks slow enemy movement and attack speed and reduce their healing received. This Facet enhances chase, kiting, and countering sustain heroes.",
+    "search_text": "Dragon Knight Facet Frost Dragon slow attack speed movement healing reduction Elder Dragon Form",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "FACET_STRATEGY",
+      "FROST_DRAGON"
+    ]
+  },
+  {
+    "display_text": "In lane, prioritize Dragon Blood and Breathe Fire. His high base HP regen from Dragon Blood (2 + 0.5 per level) and armor (2 + 0.5 per level) gives him excellent survivability. Use Breathe Fire (80/160/240/320 damage) to secure last hits and harass from 750 range. Dragon Tail (1.8/2.0/2.2/2.4s stun) enables kill attempts with a support.",
+    "search_text": "Dragon Knight laning phase early game skill build Dragon Blood Breathe Fire damage Dragon Tail stun HP regen armor",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Key Power Spikes: Level 6 with Elder Dragon Form for siege, pushing, and teamfight presence. Level 12 for Dragon Blood multiplier and maxed abilities. Level 20 for +60% Breathe Fire Damage/Cast Range talent. Level 25 for +12 Dragon Blood HP Regen/Armor or enhanced Wyrm's Wrath talent. Item timings: Soul Ring or Echo Sabre for mana sustain and early fighting, Blink Dagger for initiation, Assault Cuirass or Silver Edge for damage.",
+    "search_text": "Dragon Knight power spike level 6 Elder Dragon Form level 12 20 talent 60% Breathe Fire range damage 25 talent Dragon Blood regen armor",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Dragon Knight is hard countered by Break (e.g., Silver Edge, Hoodwink Bushwhack), which disables his Dragon Blood HP regen and armor, making him far less tanky. Heroes with high mobility (e.g., Anti-Mage, Queen of Pain) can kite him outside his Elder Dragon Form. Heavy magic burst before he gets magic resistance items can overwhelm him.",
+    "search_text": "counter Dragon Knight Break disable Dragon Blood Silver Edge Hoodwink Bushwhack kiting mobility magic burst",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items: Soul Ring solves his early mana issues. Blink Dagger is essential for initiation with Dragon Tail. Assault Cuirass provides armor, attack speed, and an aura that synergizes with his role as a frontliner.",
+    "search_text": "Dragon Knight core build Soul Ring mana Blink Dagger initiation Dragon Tail Assault Cuirass AC armor attack speed aura",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Dragon Knight's role is to frontline, initiate, and absorb damage. Use Blink Dagger to stun a key target with Dragon Tail. Activate Elder Dragon Form to deal area damage, apply debuffs (based on Facet), and tank tower hits. Use Breathe Fire to reduce enemy right-click damage.",
+    "search_text": "Dragon Knight teamfight role frontliner initiator tank Elder Dragon Form area damage debuff Breathe Fire attack damage reduction",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Breathe Fire deals 80/160/240/320 damage in a cone with 150 start radius, 250 end radius, and 750 range. It travels at 1050 speed. Cooldown is 14/13/12/11 seconds. It reduces enemy attack damage by 30% for 11 seconds. Hits units up to 900 away.",
+    "search_text": "Dragon Knight Breathe Fire Q ability damage 80 160 240 320 cone AoE range 750 cooldown 14 13 12 11 attack damage reduction -30%",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "ABILITY_DATA",
+      "BREATHE_FIRE"
+    ]
+  },
+  {
+    "display_text": "Dragon Tail is a melee range single-target stun dealing 60/90/120/150 damage for 1.8/2.0/2.2/2.4 seconds. In Elder Dragon Form, the cast range increases to 450.",
+    "search_text": "Dragon Knight Dragon Tail W ability stun 1.8 2.0 2.2 2.4 seconds melee range damage 60 90 120 150 Elder Dragon Form range 450",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "ABILITY_DATA",
+      "DRAGON_TAIL"
+    ]
+  },
+  {
+    "display_text": "Wyrm's Wrath is a passive ability that enhances Dragon Knight's attacks. The specific effect depends on the chosen Facet: Fire Dragon adds Magic Damage, Corrosive Dragon adds Armor Reduction, Frost Dragon adds Slow and Healing Reduction. These effects are stronger during Elder Dragon Form.",
+    "search_text": "Dragon Knight Wyrm's Wrath E passive ability Fire Dragon magic damage Corrosive Dragon armor reduction Frost Dragon slow healing reduction Elder Dragon Form stronger",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "ABILITY_DATA",
+      "WYRMS_WRATH"
+    ]
+  },
+  {
+    "display_text": "Fireball ignites an area for 8 seconds, dealing 75 damage per half-second (150 DPS). It has a 600 cast range in melee form and 1400 cast range in Elder Dragon Form. The burn has a 275 radius and lingers on enemies for 2 seconds after they leave the area.",
+    "search_text": "Dragon Knight Fireball ability Elder Dragon Form damage 75 per 0.5 second 150 DPS duration 8s range melee 600 dragon 1400 radius 275 linger",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "ABILITY_DATA",
+      "FIREBALL"
+    ]
+  },
+  {
+    "display_text": "Elder Dragon Form transforms Dragon Knight for 60 seconds, granting +20/50/80/110 Attack Damage, +350 Attack Range, and +20 Movement Speed. His attacks splash 30/40/50/60% of his damage in a 275 radius. The health regeneration and armor from Dragon Blood are multiplied by 1.5. It increases the effects of Wyrm's Wrath and the range of Dragon Tail to 450. Cooldown: 115 seconds.",
+    "search_text": "Dragon Knight Elder Dragon Form ultimate R ability transform 60s attack damage +20 +50 +80 +110 range 350 splash AoE 30% 40% 50% 60% radius 275 move speed 20 Dragon Blood multiplier 1.5",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "ABILITY_DATA",
+      "ELDER_DRAGON_FORM"
+    ]
+  },
+  {
+    "display_text": "Dragon Blood passive provides 2 base armor and 2 base health regeneration, plus an additional 0.5 per level for each. During Elder Dragon Form, these total values are multiplied by 1.5.",
+    "search_text": "Dragon Knight Dragon Blood passive ability armor regen health regeneration base 2 level 0.5 per level Elder Dragon Form multiplier 1.5",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "ABILITY_DATA",
+      "DRAGON_BLOOD"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Armor Teams. Pick the Corrosive Dragon Facet as it changes all ability damage to Physical and adds armor reduction on attacks, bypassing high base armor. Build items like Desolator and Assault Cuirass to further amplify armor reduction.",
+    "search_text": "Dragon Knight situation high armor team Corrosive Dragon Facet physical damage armor reduction Desolator Assault Cuirass",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on split-pushing with Elder Dragon Form to clear waves and threaten towers. Use the Frost Dragon Facet to help disengage from ganks. Itemize for survivability (BKB, Heart of Tarrasque) and utility (Blink Dagger for catch-up initiations).",
+    "search_text": "Dragon Knight situation behind split push Elder Dragon Form Frost Dragon slow disengage BKB Heart Blink Dagger",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Sieging High Ground. Use Elder Dragon Form's long attack range (350 bonus) and splash damage to hit defenders and buildings from a safe distance. The Fire Dragon Facet can provide additional magic burst to wear down defenders. Have a support carry a Helm of the Dominator creep to provide vision and tank tower shots.",
+    "search_text": "Dragon Knight situation siege high ground Elder Dragon Form attack range 350 splash damage Fire Dragon magic burst vision",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "SITUATIONAL",
+      "SIEGING"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Heavy Magic Damage. Prioritize magic resistance items like Hood of Defiance/Pipe of Insight or a Black King Bar. The +12 Dragon Blood HP Regen/Armor talent at level 25 significantly increases your effective HP against magic damage if you survive the initial burst.",
+    "search_text": "Dragon Knight situation magic damage BKB Hood Pipe magic resistance talent 25 Dragon Blood HP regen armor",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "SITUATIONAL",
+      "VS_MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need Solo Kill Threat. Build Blink Dagger and Shadow Blade/Silver Edge. With Dragon Tail's long stun duration (increased by talent) and the burst from Breathe Fire (amplified by talent), you can solo kill many supports and carries.",
+    "search_text": "Dragon Knight situation solo kill Blink Dagger Shadow Blade Silver Edge Dragon Tail stun Breathe Fire damage talent",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "SITUATIONAL",
+      "SOLO_KILL"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: +15 Damage vs -2s Breathe Fire Cooldown. Choose +15 Damage if you are focusing on right-clicking and farming. Choose -2s Breathe Fire Cooldown if you are spamming the spell for wave clear, harass, and teamfight damage reduction.",
+    "search_text": "Dragon Knight talent level 10 +15 damage right click farm -2s Breathe Fire cooldown wave clear harass",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: +0.4s Dragon Tail Stun vs +300 Health. Choose +0.4s Dragon Tail Stun if your team needs longer lockdown for kills or you have a Blink Dagger for initiation. Choose +300 Health for general survivability, especially if you are the main frontline tank.",
+    "search_text": "Dragon Knight talent level 15 +0.4s Dragon Tail stun duration lockdown +300 health HP survivability tank",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: +150 Elder Dragon Form Attack Range vs +60% Breathe Fire Damage/Cast Range. Choose +150 Attack Range for safer sieging and manfighting in dragon form. Choose +60% Breathe Fire Damage/Cast Range for massive AoE nuke and damage reduction from a much safer distance.",
+    "search_text": "Dragon Knight talent level 20 +150 Elder Dragon Form attack range siege +60% Breathe Fire damage cast range AoE nuke",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: +12 Dragon Blood HP Regen/Armor vs +Wyrm's Wrath effect during Elder Dragon Form (specific value depends on Facet). Choose +12 Dragon Blood for extreme tankiness, making you nearly unkillable. Choose the Wyrm's Wrath effect talent to massively amplify your chosen Facet's debuff (more magic damage, armor reduction, or slow/heal reduction).",
+    "search_text": "Dragon Knight talent level 25 +12 Dragon Blood HP regen armor tank Wyrm's Wrath effect Fire Corrosive Frost Facet",
+    "tags": [
+      "DRAGON_KNIGHT",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

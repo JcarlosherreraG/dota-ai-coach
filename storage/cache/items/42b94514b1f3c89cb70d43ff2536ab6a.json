@@ -1,0 +1,90 @@
+[
+  {
+    "display_text": "Dagon 2, Cost: 3950: Casts a targeted nuke dealing 500 magical damage to an enemy unit and instantly killing illusions. Heals the caster for 75% of the damage dealt. Upgradable to higher levels. Stats: CD: 27s, Mana: 140, Damage: 500.",
+    "search_text": "targeted nuke, magic burst damage, int item, burst item, single target damage, illusion killer, dagon, Dagon 2, Dagon Level 2, burst heal, spell lifesteal, caster item, int core, int carry, magic amp, kill secure",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON_2",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "UPGRADE",
+      "TARGETED_DAMAGE",
+      "MAGICAL_DAMAGE",
+      "VS_ILLUSIONS",
+      "SPELL_LIFESTEAL",
+      "HEAL",
+      "ACTIVE"
+    ]
+  },
+  {
+    "display_text": "Dagon 2, Cost: 3950: Provides balanced attribute bonuses of +9 to all stats (Strength, Agility, Intelligence), offering survivability and mana pool for its active ability. The 16% spell lifesteal amplifies sustained magic damage output. Stats: Str/Agi/Int: +9 each, Spell Lifesteal: 16%.",
+    "search_text": "all stats item, attribute item, spell lifesteal, dagon stats, int item stats, mana pool, spell lifesteal item, Dagon 2 stats, balanced stats",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON_2",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "AGILITY",
+      "INTELLIGENCE",
+      "ATTRIBUTES",
+      "SPELL_LIFESTEAL",
+      "SUSTAIN",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Dagon 2, Cost: 3950: Serves as a high burst damage tool for picking off low-health enemies or securing kills. The health return makes it a sustain tool for int-based cores in prolonged skirmishes. The ability to instantly destroy illusions makes it a situational counter to illusion-heavy heroes. Stats: Illusion Instant Kill.",
+    "search_text": "team fight burst, pickoff tool, kill secure, caster sustain, illusion counter, magic burst, single target, burst sustain, Dagon 2 role",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON_2",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "BURST_DAMAGE",
+      "PICKOFF",
+      "KILL_SECURE",
+      "VS_ILLUSIONS",
+      "SPELL_SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Dagon 2, Cost: 3950: Counters illusion-based heroes by instantly killing their illusions. The magical burst damage is effective against targets with low magic resistance. It's a situational upgrade for heroes who build Dagon for burst, requiring careful positioning to land the single-target nuke. Stats: Illusion Instant Kill.",
+    "search_text": "vs illusions, illusion counter, anti illusion, burst vs low magic resist, magic burst item, counter pick, illusion killer, Dagon 2 counter, situational item",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON_2",
+      "SITUATIONAL_VS_ILLUSIONS",
+      "FULL_ITEM",
+      "VS_ILLUSIONS",
+      "VS_SUMMONS",
+      "MAGICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Dagon 2, Cost: 3950: Synergizes with heroes who build high Intelligence for increased mana pool and damage, and those who can amplify magic damage. The heal effect scales with magic damage amplification items. Works well with heroes needing a reliable nuke to finish combos. Stats: Damage: 500.",
+    "search_text": "dagon build, int hero synergy, magic amp synergy, caster synergy, spell lifesteal synergy, burst combo, magic damage amplifier, int core item, Dagon 2 synergy",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON_2",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "MAGIC_DAMAGE",
+      "COMBO",
+      "BURST"
+    ]
+  },
+  {
+    "display_text": "Dagon 2, Cost: 3950: Not a farming item; its primary use is hero combat and kill securing. The high cost relative to its damage output makes its timing critical. Consider upgrading to higher levels for more damage against tankier targets as the game progresses.",
+    "search_text": "dagon timing, cost efficiency, upgrade path, Dagon Level 3, Dagon Level 4, Dagon Level 5, not farming, combat item, upgrade item",
+    "tags": [
+      "ITEM_DATA",
+      "DAGON_2",
+      "FULL_ITEM",
+      "UPGRADE",
+      "TIMING",
+      "COST_EFFICIENCY"
+    ]
+  }
+]

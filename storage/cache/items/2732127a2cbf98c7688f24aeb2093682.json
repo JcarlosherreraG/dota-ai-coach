@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Seeds of Serenity, Tier 5: Deploys a verdant area for 8 seconds that provides health regeneration to all allies inside. The base healing is 6 HP/sec plus 25% of the caster's health regeneration at the time of casting. Acts as a powerful, team-oriented healing zone. Stats: Cooldown: 35s, Duration: 8s, Radius: 400.",
+    "search_text": "neutral item, tier 5 neutral, team heal, aoe heal, area heal, healing zone, ally heal, health regen, hp regeneration, aura heal, team support, sustain neutral, push sustain, teamfight sustain, Seeds of Serenity, Verdurous Dale",
+    "tags": [
+      "ITEM_DATA",
+      "SEEDS_OF_SERENITY",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_5",
+      "HEALING",
+      "AURA",
+      "SUSTAIN",
+      "TEAM_BUFF",
+      "SUPPORT_ITEM",
+      "AOE"
+    ]
+  }
+]

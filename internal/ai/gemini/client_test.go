@@ -1,6 +1,7 @@
 package gemini
 
 import (
+	"context"
 	"errors"
 	aierrors "github.com/BrightGir/game-ai-helper/internal/ai/errors"
 	"net/http"
@@ -43,10 +44,10 @@ func TestClient_Ask(t *testing.T) {
 		}))
 		defer server.Close()
 
-		client := NewClient(apiKey, model, "s")
+		client := NewClient(apiKey, model, 30)
 		client.baseUrl = server.URL + "/"
 
-		got, err := client.Ask("hello")
+		got, err := client.Ask(context.Background(), "system", "hello")
 
 		if err != nil {
 			t.Fatalf("Unexpected error: %v", err)
@@ -63,10 +64,10 @@ func TestClient_Ask(t *testing.T) {
 		}))
 		defer server.Close()
 
-		client := NewClient("k", "m", "s")
+		client := NewClient("k", "m", 30)
 		client.baseUrl = server.URL + "/"
 
-		_, err := client.Ask("hi")
+		_, err := client.Ask(context.Background(), "system", "hi")
 
 		if err == nil {
 			t.Fatal("Expected error, got nil")
@@ -90,10 +91,10 @@ func TestClient_Ask(t *testing.T) {
 		}))
 		defer server.Close()
 
-		client := NewClient("k", "m", "s")
+		client := NewClient("k", "m", 30)
 		client.baseUrl = server.URL + "/"
 
-		_, err := client.Ask("prompt")
+		_, err := client.Ask(context.Background(), "system", "prompt")
 		if err == nil {
 			t.Fatal("Expected error on empty candidates, got nil")
 		}

@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Fortitude Ring, Cost: 0, Tier not specified: Neutral item that provides a defensive active ability, instantly healing 250 health and granting 50% damage reduction for 3 seconds on a 30-second cooldown. Its 100 mana cost makes it suitable for heroes with mana to spare, offering a burst of survivability in clutch moments. Stats: CD: 30s, Mana: 100, Heal: 250 HP, Damage Reduction: 50%, Duration: 3s.",
+    "search_text": "neutral item, defensive active, heal item, damage reduction, burst survivability, clutch save, neutral utility, hp regen item, fortitude ring, tank item, mana cost item, survival neutral",
+    "tags": [
+      "ITEM_DATA",
+      "FORTITUDE_RING",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "DEFENSIVE",
+      "SAVE",
+      "HEALTH",
+      "REGEN",
+      "SURVIVAL"
+    ]
+  }
+]

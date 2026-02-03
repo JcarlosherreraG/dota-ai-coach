@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Point Booster, Cost: 1200: Provides a flat increase to both Health and Mana pools, boosting overall survivability and spellcasting capacity. It is a foundational component for many late-game items that require substantial health and mana reserves. No active abilities. Stats: Health: +175, Mana: +175.",
+    "search_text": "point booster, hp mana item, component item, tank item, health boost item, mana boost item, support item, utility component, heart component, aghanim component, octarine component, health item, mana item, survivability item, Point Booster",
+    "tags": [
+      "ITEM_DATA",
+      "POINT_BOOSTER",
+      "FULL_ITEM",
+      "UPGRADE",
+      "HEALTH",
+      "MANA",
+      "TANK",
+      "SURVIVAL",
+      "SUSTAIN",
+      "COMPONENT"
+    ]
+  }
+]

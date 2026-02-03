@@ -1,0 +1,31 @@
+[
+  {
+    "display_text": "Cheese, Cost: 1000: Consumable item that instantly restores 2500 health and 1500 mana on use. A powerful emergency heal/mana resource with a single charge, ideal for crucial late-game survivability after securing a Roshan kill. Stats: CD: 40s, Heal: 2500 HP, Mana Restore: 1500.",
+    "search_text": "cheese, consumable heal, mana restore, instant heal, emergency heal, roshan drop, aegis cheese, late game sustain, burst heal, full heal, instant recovery, health restore, mana restore, consumable, Cheese",
+    "tags": [
+      "ITEM_DATA",
+      "CHEESE",
+      "CORE_MECHANICS",
+      "CONSUMABLE",
+      "HEALTH",
+      "MANA",
+      "SURVIVAL",
+      "SUSTAIN",
+      "INSTANT_CAST",
+      "LATE_GAME"
+    ]
+  },
+  {
+    "display_text": "Cheese, Cost: 1000: Provides a massive burst of HP and mana, making it the most powerful consumable in the game for surviving a losing fight or enabling another spell cast. Its single use demands careful timing, as it's not a source of sustained regen. Stats: Heal: 2500 HP, Mana Restore: 1500.",
+    "search_text": "cheese usage, burst sustain, fight survival, emergency sustain, high mana restore, instant cast heal, no target heal, aegis reward, Roshan drop, Cheese",
+    "tags": [
+      "ITEM_DATA",
+      "CHEESE",
+      "SITUATIONAL_USAGE",
+      "CONSUMABLE",
+      "EMERGENCY_HEAL",
+      "MANA_BURST",
+      "LATE_GAME"
+    ]
+  }
+]

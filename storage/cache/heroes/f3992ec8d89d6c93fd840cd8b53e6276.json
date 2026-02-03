@@ -1,0 +1,207 @@
+[
+  {
+    "display_text": "Oracle is a Ranged intelligence hero with a base attack time of 1.7, which is very slow. He starts with 26 intelligence, 20 strength, and 15 agility. His slow attack speed and decent but not exceptional starting intelligence suggest his primary role is not as a right-click carry.",
+    "search_text": "Oracle stats attack ranged intelligence 1.7 base attack time slow attack speed",
+    "tags": [
+      "ORACLE",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Oracle has two Facets. Facet of Damage (oracle_facet_dmg) enhances his offensive capabilities, making his skills deal more damage or apply stronger offensive debuffs. Facet of Healing (oracle_facet_heal) amplifies his supportive role, increasing the potency of his healing spells and possibly reducing cooldowns on them. Choose Damage to play a more core, nuking role, especially if your team lacks magic burst. Choose Healing to be a dedicated, high-output save support.",
+    "search_text": "Oracle facets oracle_facet_dmg damage nuker oracle_facet_heal healing support",
+    "tags": [
+      "ORACLE",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, Oracle uses Purifying Flames to harass enemy heroes, dealing 90/180/270/360 magic damage. Follow up with Fortune's End to root them and prevent retaliation, or use Fate's Edict to disarm them and prevent counter-harass. Use Purifying Flames on your lane partner to heal them for 150/250/350/450 total health over 10 seconds, but be mindful of its 2.5-second cooldown. His poor attack speed means last-hitting is difficult; focus on spell usage.",
+    "search_text": "Oracle laning phase Purifying Flames harass damage heal Fortune's End root Fate's Edict disarm support",
+    "tags": [
+      "ORACLE",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6 is a major spike with False Promise, enabling aggressive dives and saves. Level 12 with a maxed Purifying Flames provides significant nuke/heal power and the first meaningful talent choice. Level 18 with maxed skills and the level 15 talent greatly increases his utility. Level 20 talent significantly boosts Purifying Flames' damage or reduces its cooldown. Level 25 talents offer game-changing upgrades: Fortune's End constantly dispelling or extended False Promise duration. Key item spikes are Aether Lens for cast range, Eul's Scepter for setup/defense, and Aghanim's Scepter for Rain of Destiny.",
+    "search_text": "Oracle power spikes level 6 False Promise level 12 Purifying Flames level 18 talents level 20 level 25 Aghanim's Scepter Rain of Destiny",
+    "tags": [
+      "ORACLE",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Oracle is hard countered by heroes with instant silences (Silencer, Skywrath Mage) or hexes (Lion, Shadow Shaman), which prevent him from casting False Promise or dispelling himself. Heroes with Break (Silver Edge, Doom with Aghs) can disable his passive Rain of Destiny (from Aghs Scepter). High magic burst that can kill through False Promise (Lina, Lion) is dangerous. Lotus Orb or strong dispels on enemies can negate his Fate's Edict disarm and Fortune's End root.",
+    "search_text": "Oracle counters hard counters silence hex instant disable break Rain of Destiny magic burst Lina Lion",
+    "tags": [
+      "ORACLE",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Two absolutely essential items for Oracle are Aether Lens and Eul's Scepter of Divinity. Aether Lens increases the cast range of all his spells, crucial for safely executing his combo and landing False Promise. Eul's Scepter provides mana regeneration, movement speed, and a powerful active that can set up his channeled Fortune's End, dispel silences/debuffs from himself, or temporarily save an ally or disable an enemy.",
+    "search_text": "Oracle core build essential items Aether Lens cast range Eul's Scepter mana move speed cyclone setup dispel",
+    "tags": [
+      "ORACLE",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Oracle's primary job is to save a key ally with False Promise, making them immune to damage and amplifying healing for 7/8.5/10 seconds. He must position safely to do this. He disrupts enemies by disarming important right-click cores with Fate's Edict and rooting groups with Fortune's End. He provides sustained AoE healing and damage with Rain of Destiny (if he has Aghanim's Scepter) and can burst heal/damage single targets with Purifying Flames. He constantly dispels debuffs from allies and buffs from enemies.",
+    "search_text": "Oracle teamfight role save False Promise disarm Fate's Edict root Fortune's End heal Rain of Destiny dispel support",
+    "tags": [
+      "ORACLE",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Fortune's End: Channel for up to 2.5 seconds, then release a bolt that travels at 1200 speed. Upon hitting a target unit, it affects a 350 radius area. It deals 100/160/220/280 magic damage and roots enemies. The root duration scales from 0.75s to 2.75s based on channel time. It constantly dispels buffs from enemies and debuffs from allies in the area. It affects invulnerable units. Does NOT pierce BKB. This is a basic dispel.",
+    "search_text": "Fortune's End Q channel 2.5s bolt speed 1200 radius 350 damage 100 160 220 280 root 0.75 2.75 dispel buff debuff basic dispel invulnerable",
+    "tags": [
+      "ORACLE",
+      "ABILITY_DATA",
+      "ROOT",
+      "DISPEL",
+      "CHANNEL"
+    ]
+  },
+  {
+    "display_text": "Fate's Edict: Target a unit, ally or enemy, for 3.5/4.0/4.5/5.0 seconds. The target is disarmed and gains 100% magic damage resistance. This makes allies immune to magic damage but also prevents them from attacking. It makes enemies immune to magic damage but disarms them. Does NOT pierce BKB.",
+    "search_text": "Fate's Edict W disarm magic immunity 100% magic resistance duration 3.5 4.0 4.5 5.0 ally enemy",
+    "tags": [
+      "ORACLE",
+      "ABILITY_DATA",
+      "DISARM",
+      "MAGIC_IMMUNITY"
+    ]
+  },
+  {
+    "display_text": "Purifying Flames: Target an ally or enemy. Deals 90/180/270/360 magic damage instantly. After the damage, the target heals for 150/250/350/450 health over 10 seconds (15/25/35/45 heal per second). The heal exceeds the initial damage. Can be cast repeatedly on allies to stack healing over time. The damage portion cannot kill an ally. Cooldown is 2.5 seconds. Does NOT pierce BKB.",
+    "search_text": "Purifying Flames E damage 90 180 270 360 heal 150 250 350 450 over 10 seconds 15 25 35 45 per second stackable non-lethal to allies cooldown 2.5",
+    "tags": [
+      "ORACLE",
+      "ABILITY_DATA",
+      "HEAL",
+      "DAMAGE",
+      "NON_LETHAL"
+    ]
+  },
+  {
+    "display_text": "Rain of Destiny: Requires Aghanim's Scepter. Creates a 650 radius rain cloud for 10 seconds. Enemies inside take 30 magic damage per second and have reduced Heal Amplification. Allies inside heal per second and have increased incoming Heal Amplification. Tick rate is 1.0 per second. Does NOT pierce BKB.",
+    "search_text": "Rain of Destiny Aghanim's Scepter Shard radius 650 duration 10 seconds damage 30 per second heal amp reduce increase allies heal",
+    "tags": [
+      "ORACLE",
+      "ABILITY_DATA",
+      "AOE",
+      "HEAL_AMPLIFY",
+      "DAMAGE_OVER_TIME"
+    ]
+  },
+  {
+    "display_text": "Prognosticate: Passively announces to allies where the next power rune will spawn (top or bottom river).",
+    "search_text": "Prognosticate passive rune spawn prediction power rune top bottom announce",
+    "tags": [
+      "ORACLE",
+      "ABILITY_DATA",
+      "PASSIVE",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "False Promise: Targets an ally, applying a strong dispel on cast. For 7/8.5/10 seconds, all damage taken and healing received by the target is delayed until the end of the duration. Any healing delayed by False Promise is amplified by 100%. The target is hidden but not invulnerable during this time. Cooldown is 110/85/60. Does NOT pierce BKB. The delayed damage/healing accounts for resistance changes when it is applied.",
+    "search_text": "False Promise R ultimate strong dispel duration 7 8.5 10 delay damage healing heal amp 100% amplify hidden cooldown 110 85 60",
+    "tags": [
+      "ORACLE",
+      "ABILITY_DATA",
+      "ULTIMATE",
+      "SAVE",
+      "HEAL_AMPLIFY",
+      "DISPEL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your team is ahead and needs to push high ground. Oracle can use Fate's Edict to disarm the enemy carry on the ramp, use Fortune's End to root multiple defenders, and keep the diving initiator alive with False Promise and Purifying Flames spam. Rain of Destiny provides sustained healing and damage in the choke point.",
+    "search_text": "Oracle scenario ahead pushing high ground Fate's Edict disarm carry Fortune's End root False Promise save push siege",
+    "tags": [
+      "ORACLE",
+      "SITUATIONAL",
+      "PUSH",
+      "HIGH_GROUND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your team is behind and needs to defend. Position Oracle at the back. Use False Promise to save your core if they get initiated on. Use Fortune's End to root the enemy frontline pushing into your base. Fate's Edict can disarm a key right-clicker. Rain of Destiny can heal your team and damage enemies during long sieges.",
+    "search_text": "Oracle scenario behind defend base False Promise save core Fortune's End root Fate's Edict disarm Rain of Destiny siege",
+    "tags": [
+      "ORACLE",
+      "SITUATIONAL",
+      "DEFENSE",
+      "HIGH_GROUND_DEFENSE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against heavy magic damage teams (Zeus, Lina), Fate's Edict becomes an incredible defensive tool. You can cast it on an ally being targeted to grant them 100% magic resistance for up to 5 seconds, effectively negating all magic burst. Be careful, as it also disarms them.",
+    "search_text": "Oracle scenario vs magic damage Zeus Lina Fate's Edict magic immunity 100% resistance disarm ally defensive",
+    "tags": [
+      "ORACLE",
+      "SITUATIONAL",
+      "VS_MAGIC_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Scenario: The enemy has strong dispellable buffs (Guardian Angel, Bloodlust, Press the Attack). Oracle's Fortune's End becomes a key counter-play tool. A well-timed, fully-channeled Fortune's End can root multiple heroes and strip these powerful buffs from them, turning a teamfight.",
+    "search_text": "Oracle scenario dispel buffs Guardian Angel Bloodlust Press the Attack Fortune's End channel dispel root counter",
+    "tags": [
+      "ORACLE",
+      "SITUATIONAL",
+      "DISPEL_BUFFS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Your team lacks lockdown. Build a Eul's Scepter. You can cyclone an enemy, then channel Fortune's End for the full 2.5 seconds during the cyclone. When they land, they will be rooted for the maximum 2.75 seconds, providing reliable single-target lockdown.",
+    "search_text": "Oracle scenario lockdown Eul's Scepter cyclone Fortune's End channel 2.5 root 2.75 setup combo",
+    "tags": [
+      "ORACLE",
+      "SITUATIONAL",
+      "LOCKDOWN",
+      "ITEMIZATION"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice gives +0.5s Fortune's End Duration, increasing the maximum root from 2.75s to 3.25s, significantly improving crowd control. Right choice gives +8 Armor during False Promise, making the saved ally more durable against physical damage when the delayed damage hits. Pick the root duration if your team needs more control. Pick the armor if the enemy has heavy physical damage and your False Promise target keeps dying at the end of the duration.",
+    "search_text": "Oracle talent level 10 left +0.5s Fortune's End Duration root control right +8 Armor False Promise physical defense",
+    "tags": [
+      "ORACLE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice makes Fortune's End Heal/Damage for 80 Per Effect Dispelled. This adds substantial burst healing or damage when dispelling multiple buffs/debuffs. Right choice gives +25% Purifying Flames Enemy Damage, increasing its instant damage from 360 to 450. Pick the dispel damage/heal if you are frequently hitting multi-hero Fortune's Ends or need to counter many buffs/debuffs. Pick the Purifying Flames damage if you are playing a core, magic damage-focused Oracle.",
+    "search_text": "Oracle talent level 15 left Fortune's End Heals Damages 80 Per Effect Dispelled burst right +25% Purifying Flames Enemy Damage nuke",
+    "tags": [
+      "ORACLE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice reduces False Promise cooldown by 20 seconds, lowering it from 60 to 40 seconds at max level, allowing much more frequent saves. Right choice reduces Purifying Flames cooldown by 1 second, from 2.5s to 1.5s, drastically increasing your healing and damage per second. Pick the False Promise cooldown if teamfights are frequent and you need your ultimate for every engagement. Pick the Purifying Flames cooldown if you need maximum sustained healing output or magic DPS.",
+    "search_text": "Oracle talent level 20 left -20s False Promise Cooldown 40s save right -1s Purifying Flames Cooldown 1.5s heal dps",
+    "tags": [
+      "ORACLE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left talent makes Fortune's End constantly Dispels, meaning it purges every 0.1 seconds during its effect instead of just once. This is an incredibly powerful counter to heroes who rely on strong, refreshable buffs or debuffs (e.g., Slardar Corrosive Haze, Ursa Overpower). Right talent gives +1.5s False Promise Duration, extending it from 10s to 11.5s. Pick constant dispel to completely shut down certain enemy heroes. Pick extra duration for more reliable saves and larger healing amplification window.",
+    "search_text": "Oracle talent level 25 left Fortune's End constantly Dispels purge right +1.5s False Promise Duration 11.5 seconds",
+    "tags": [
+      "ORACLE",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25"
+    ]
+  }
+]

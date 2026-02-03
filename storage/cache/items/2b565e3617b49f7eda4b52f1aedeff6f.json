@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Spark of Courage, Tier Neutral: A neutral item that grants Courage passive: provides 10 bonus damage while the hero is above 50% health and 5 bonus armor while below. This creates a dynamic defensive-offensive scaling effect that rewards maintaining a health advantage. Stats: Damage: 10, Armor: 5.",
+    "search_text": "neutral item, spark of courage, courage passive, damage item, armor item, conditional buff, defensive item, offensive item, passive effect, neutral tier, neutral drop, tier neutral item, dynamic stats, conditional damage, conditional armor, health threshold, Spark of Courage",
+    "tags": [
+      "ITEM_DATA",
+      "SPARK_OF_COURAGE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "PASSIVE_EFFECT",
+      "DEFENSIVE",
+      "OFFENSIVE",
+      "DAMAGE",
+      "ARMOR",
+      "CONDITIONAL_BUFF"
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "display_text": "Cost: 0: Vambrace. This attribute-focused item provides +10 to your hero's primary attribute (Strength, Agility, or Intelligence) and +4 to all others. Its unique effect scales with your main attribute, offering additional defensive or offensive power: Strength grants +10% Magic Resistance, Agility grants +15 Attack Speed, and Intelligence grants +8% Spell Amplification. Stats: Primary Stat: +10, All Stats: +4, CD: N/A.",
+    "search_text": "vambrace, attribute item, main attribute, primary stat, stat booster, magic resistance item, spell amp item, attack speed item, hybrid stats, strength bonus, agility bonus, intelligence bonus, situational bonus, cost effective stats, core item, early game item, Vambrace",
+    "tags": [
+      "ITEM_DATA",
+      "VAMBRACE",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "UTILITY",
+      "STAT_BOOST",
+      "ATTRIBUTES",
+      "VS_MAGIC",
+      "MAGIC_RESISTANCE",
+      "SPELL_AMP",
+      "ATTACK_SPEED"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Vambrace provides a balanced mix of all attributes with a focus on your hero's primary type. It grants +10 to your main attribute and +4 to all others. This provides a solid foundation of health, mana, armor, and damage for a low investment. Stats: Main Stat: +10, Other Stats: +4.",
+    "search_text": "vambrace stats, main attribute stats, all stats item, primary attribute, hybrid attributes, cost effective stats, stat item, vambrace attributes, stats item, +10 main stat, Vambrace",
+    "tags": [
+      "ITEM_DATA",
+      "VAMBRACE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "ATTRIBUTES",
+      "HEALTH",
+      "MANA",
+      "DAMAGE",
+      "ARMOR"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Vambrace enhances a hero's core identity in team fights. Its conditional bonuses are triggered by your primary attribute: Strength heroes gain enhanced magic durability, Agility heroes attack faster, and Intelligence heroes deal more spell damage. This allows heroes to lean harder into their natural strengths, scaling their main contribution in fights.",
+    "search_text": "vambrace team fight, role scaling, attribute scaling, strength vambrace, agility vambrace, intelligence vambrace, team fight item, enhance role, carry item, initiator item, caster item, Vambrace",
+    "tags": [
+      "ITEM_DATA",
+      "VAMBRACE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "UTILITY",
+      "STRENGTH_HERO",
+      "AGILITY_HERO",
+      "INTELLIGENCE_HERO"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Vambrace offers situational defense based on your primary attribute. Strength Vambrace (+10% Magic Resistance) provides defense against magic-heavy lineups. Intelligence Vambrace (+8% Spell Amp) enhances magical nuking power, ideal against low magic resistance targets. Agility Vambrace (+15 Attack Speed) boosts physical damage output, effective against low-armor heroes.",
+    "search_text": "vambrace situational, magic resistance item, spell amp item, attack speed item, counter magic damage, counter physical damage, spell damage boost, damage boost item, anti-magic, physical damage item, situational purchase, Vambrace",
+    "tags": [
+      "ITEM_DATA",
+      "VAMBRACE",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_MAGIC",
+      "SITUATIONAL_VS_PHYSICAL",
+      "MAGIC_RESISTANCE",
+      "SPELL_AMP",
+      "ATTACK_SPEED",
+      "VS_MAGIC",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Cost: 0: Vambrace synergizes with heroes who benefit most from their primary stat. Strength initiators and tanks value the magic resistance. Agility carries scale well with the attack speed for faster farming and DPS. Intelligence casters appreciate the spell amp for higher burst damage. It's a flexible item that tailors its bonus to the buyer.",
+    "search_text": "vambrace synergy, strength hero item, agility hero item, intelligence hero item, initiator item, carry item, caster item, hero synergy, build synergy, core hero item, flexible item, Vambrace",
+    "tags": [
+      "ITEM_DATA",
+      "VAMBRACE",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "STRENGTH_HERO",
+      "AGILITY_HERO",
+      "INTELLIGENCE_HERO",
+      "CARRY_ITEM",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

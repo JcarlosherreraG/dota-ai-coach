@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Ancient Guardian, Tier 3: Neutral item providing +50 Damage and the Ancient Power passive. Grants 50 extra bonus damage when within 2000 range of an ancient. Significantly amplifies physical damage output for heroes fighting near team ancients or while defending/pushing the enemy ancient. Stats: Radius: 2000, Damage: +50 total (50 base, 50 conditional).",
+    "search_text": "neutral item, tier 3, damage neutral, ancient power, bonus damage near ancient, physical damage boost, dps neutral, carry neutral, area dependent damage, Ancient Guardian, ancient synergy",
+    "tags": [
+      "ITEM_DATA",
+      "ANCIENT_GUARDIAN",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "DAMAGE",
+      "PHYSICAL_DAMAGE",
+      "AREA_DEPENDENT",
+      "CARRY_ITEM",
+      "PASSIVE"
+    ]
+  }
+]

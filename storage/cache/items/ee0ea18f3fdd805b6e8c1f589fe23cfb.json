@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Quarterstaff, Cost: 875: Basic component item that increases attack speed and physical damage, enhancing a hero's right-click potential. Provides no active abilities, making it a core piece for building into more advanced DPS items like Butterfly or Sange and Yasha. Stats: Damage: +10, Attack Speed: +10.",
+    "search_text": "attack speed component, damage component, basic item, right click item, DPS component, physical damage item, Quarterstaff, Qstaff, stat item, component for butterfly, component for sange and yasha, carry component, aggro component, item component",
+    "tags": [
+      "ITEM_DATA",
+      "QUARTERSTAFF",
+      "STAT_PROFILE",
+      "COMPONENT",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "PHYSICAL_DAMAGE",
+      "CARRY_ITEM",
+      "UPGRADE"
+    ]
+  }
+]

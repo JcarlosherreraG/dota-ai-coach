@@ -1,0 +1,255 @@
+[
+  {
+    "display_text": "Lifestealer is a Melee hero with a base attack rate of 1.7. He has high starting strength of 23, providing good health pool, while agility and intelligence are average at 15 each. This makes him durable in early lanes.",
+    "search_text": "Lifestealer stats melee attack rate 1.7 strength 23 agility 15 intelligence 15 base attributes",
+    "tags": [
+      "Lifestealer",
+      "BASE_STATS",
+      "STATS",
+      "MELEE"
+    ]
+  },
+  {
+    "display_text": "Lifestealer has facet choices: for Rage, choose between standard Rage (debuff immunity and magic resist) or Unfettered (dispel and cast while stunned). For enhancements, choose between Fleshfeast (increased Feast HP per hero kill and Open Wounds cooldown refresh on kill) or Gorestorm (Infest deals damage over time based on host health and can target Ancients). Standard Rage is reliable for magic immunity, while Unfettered offers defensive dispel. Fleshfeast improves sustain and kill potential, while Gorestorm adds area damage and jungle control.",
+    "search_text": "Lifestealer facets rage unfettered fleshfeast gorestorm choice strategy debuff immunity dispel heal damage infest ancient",
+    "tags": [
+      "Lifestealer",
+      "FACET_STRATEGY",
+      "FACETS",
+      "RAGE",
+      "UNFETTERED",
+      "FLESHFEAST",
+      "GORESTORM"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Feast to sustain by attacking creeps, healing for 2.0% to 2.75% of their max health. Ghoul Frenzy provides up to 90 attack speed and 8 movement speed at level 4, aiding last hits and trades. Open Wounds can be used at level 1 for slow and heal, but max Feast first for sustain. Rage at level 1 gives 3 seconds of debuff immunity and 80 magic resist, useful to avoid ganks or spells. Focus on farming and harassing with right-clicks.",
+    "search_text": "Lifestealer laning phase feast heal 2.0% 2.25% 2.5% 2.75% max health ghoul frenzy attack speed 30 50 70 90 move speed 2 4 6 8 open wounds slow rage debuff immunity magic resist 80 duration 3 4 5 6",
+    "tags": [
+      "Lifestealer",
+      "LANING_PHASE",
+      "EARLY_GAME",
+      "FARM",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Key power spikes: Level 6 with Infest, allowing escape, heal, and burst damage of 150. Level 12 with maxed Feast for 2.75% max health damage and heal. Level 18 with level 3 Infest for 400 damage and 1200 bonus health. Talent levels: 10 for stats or move speed, 15 for attack speed or slow, 20 for infest bonuses or lifesteal, 25 for feast or rage enhancements. Item timings like Armlet or Desolator around 15-20 minutes amplify his damage.",
+    "search_text": "Lifestealer power spikes level 6 infest 150 damage level 12 feast 2.75% level 18 infest 400 damage 1200 health talents 10 15 20 25 items armlet desolator",
+    "tags": [
+      "Lifestealer",
+      "POWER_SPIKES",
+      "LEVELS",
+      "TALENTS",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "Break disables Feast's passive, preventing new max HP gains and reducing sustain. Instant disables like hex can prevent Rage activation. High burst magic damage before Rage can kill Lifestealer. Heroes with percentage-based damage or pure damage bypass his durability. Since Open Wounds slows over time, dispels can remove it.",
+    "search_text": "Lifestealer counters break feast disable hex burst magic damage pure damage dispel open wounds",
+    "tags": [
+      "Lifestealer",
+      "HARD_COUNTERS",
+      "COUNTERS",
+      "BREAK",
+      "DISABLE",
+      "BURST"
+    ]
+  },
+  {
+    "display_text": "Essential items: Armlet of Mordiggian for strength, damage, and attack speed synergy with Feast. Desolator for armor reduction and damage amplification. Assault Cuirass for attack speed, armor, and aura. These items enhance Lifestealer's physical damage and survivability.",
+    "search_text": "Lifestealer core build armlet desolator assault cuirass essential items damage attack speed armor",
+    "tags": [
+      "Lifestealer",
+      "CORE_BUILD",
+      "ITEMS",
+      "ARMLET",
+      "DESOLATOR",
+      "ASSAULT_CUIRASS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Lifestealer acts as a frontline carry. Use Rage to become debuff immune and magic resistant, then target key heroes with Open Wounds to slow them and allow allies to heal from damage. His high attack speed from Ghoul Frenzy and percentage damage from Feast let him melt tanks. Infest can be used to initiate, escape, or heal, and Consume for area damage.",
+    "search_text": "Lifestealer teamfight role frontline carry rage debuff immunity open wounds slow heal feast percentage damage infest consume area damage",
+    "tags": [
+      "Lifestealer",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT",
+      "CARRY",
+      "FRONTLINE"
+    ]
+  },
+  {
+    "display_text": "Rage makes Lifestealer Debuff Immune for 3.0/4.0/5.0/6.0 seconds and increases magic resistance by 80. It does not provide bonus armor or status resist. It is dispellable by Basic Dispel.",
+    "search_text": "Rage ability debuff immunity magic resist 80 duration 3 4 5 6 seconds self dispel basic dispel",
+    "tags": [
+      "Lifestealer",
+      "ABILITY_DATA",
+      "RAGE",
+      "DEBUFF_IMMUNITY",
+      "MAGIC_RESIST"
+    ]
+  },
+  {
+    "display_text": "Open Wounds slows an enemy over 8 steps: -50%/-50%/-40%/-30%/-20%/-10%/-10%/-10% over 7 seconds, with a tooltip slow of 35%/40%/45%/50%. Allies heal for 20%/30%/40%/50% of damage dealt to the affected unit. The slow spreads to units within 700 radius. Does not reset cooldown on kill.",
+    "search_text": "Open Wounds ability slow 50% 40% 30% 20% 10% steps heal 20% 30% 40% 50% damage dealt duration 7 spread radius 700",
+    "tags": [
+      "Lifestealer",
+      "ABILITY_DATA",
+      "OPEN_WOUNDS",
+      "SLOW",
+      "HEAL",
+      "LIFESTEAL"
+    ]
+  },
+  {
+    "display_text": "Ghoul Frenzy passively grants 30/50/70/90 attack speed and 2/4/6/8 movement speed.",
+    "search_text": "Ghoul Frenzy passive attack speed 30 50 70 90 move speed 2 4 6 8",
+    "tags": [
+      "Lifestealer",
+      "ABILITY_DATA",
+      "GHOUL_FRENZY",
+      "PASSIVE",
+      "ATTACK_SPEED",
+      "MOVEMENT_SPEED"
+    ]
+  },
+  {
+    "display_text": "Feast causes attacks to deal 2.0%/2.25%/2.5%/2.75% of the target's max health as damage and heal Lifestealer for the same percentage. He can deny allied creeps at 75% health. On killing a creep, gains 1 permanent max HP; on killing a hero, gains 10 permanent max HP. Break disables gaining new stacks.",
+    "search_text": "Feast passive damage heal 2.0% 2.25% 2.5% 2.75% max health deny creep 75% health permanent max HP gain 1 creep 10 hero break disables",
+    "tags": [
+      "Lifestealer",
+      "ABILITY_DATA",
+      "FEAST",
+      "PASSIVE",
+      "LIFESTEAL",
+      "MAX_HEALTH_DAMAGE",
+      "HP_GAIN"
+    ]
+  },
+  {
+    "display_text": "Infest has a cast range of 150. Lifestealer infests a unit, healing 3/4/5% of his max HP per second. When consuming, deals 150/275/400 damage in a 700 radius. Grants 400/800/1200 bonus health and 15/20/25 bonus movement speed while infested. Can control creeps, draining 1.5%/0.75%/0% of their max HP per second. Cooldown 80/65/50 seconds. Does not target Ancients by default.",
+    "search_text": "Infest ultimate infest consume damage 150 275 400 radius 700 heal 3% 4% 5% max HP per second bonus health 400 800 1200 move speed 15 20 25 creep control HP drain 1.5% 0.75% cooldown 80 65 50",
+    "tags": [
+      "Lifestealer",
+      "ABILITY_DATA",
+      "INFEST",
+      "ULTIMATE",
+      "HEAL",
+      "DAMAGE",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Consume is the sub-ability of Infest that causes Lifestealer to explode from the infested unit, dealing damage based on Infest level.",
+    "search_text": "Consume sub-ability infest explode damage",
+    "tags": [
+      "Lifestealer",
+      "ABILITY_DATA",
+      "CONSUME",
+      "SUB_ABILITY",
+      "INFEST"
+    ]
+  },
+  {
+    "display_text": "Against high magic damage teams, use Rage to become debuff immune and gain 80 magic resistance. Time Rage to avoid key spells. Consider the Unfettered facet for dispel if caught by disables.",
+    "search_text": "Lifestealer vs magic damage rage debuff immunity magic resist 80 unfettered dispel",
+    "tags": [
+      "Lifestealer",
+      "SITUATIONAL",
+      "VS_MAGIC_DAMAGE",
+      "RAGE"
+    ]
+  },
+  {
+    "display_text": "When behind, use Infest to hide in creeps or allies to avoid ganks and heal. Focus on farming with Feast sustain. Build survivability items like Black King Bar or Heaven's Halberd.",
+    "search_text": "Lifestealer from behind infest hide heal farm feast sustain items BKB halberd",
+    "tags": [
+      "Lifestealer",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "INFEST",
+      "FARM"
+    ]
+  },
+  {
+    "display_text": "Feast deals damage based on max health, bypassing armor. Against high armor heroes, Lifestealer's damage remains effective. Build attack speed to maximize Feast procs.",
+    "search_text": "Lifestealer vs high armor feast max health damage bypass armor attack speed",
+    "tags": [
+      "Lifestealer",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR",
+      "FEAST"
+    ]
+  },
+  {
+    "display_text": "Use Open Wounds on the enemy carry to slow them and allow your team to focus fire. Follow up with Rage to immune disables and attack with Ghoul Frenzy.",
+    "search_text": "Lifestealer teamfight initiation open wounds slow rage immune attack",
+    "tags": [
+      "Lifestealer",
+      "SITUATIONAL",
+      "TEAMFIGHT_INITIATION",
+      "OPEN_WOUNDS",
+      "RAGE"
+    ]
+  },
+  {
+    "display_text": "Break disables Feast, so against heroes like Doom or Silver Edge, avoid engaging without Rage. Build status resistance or items like Satanic for sustain.",
+    "search_text": "Lifestealer vs break feast disabled rage status resistance satanic",
+    "tags": [
+      "Lifestealer",
+      "SITUATIONAL",
+      "VS_BREAK",
+      "FEAST",
+      "RAGE"
+    ]
+  },
+  {
+    "display_text": "At level 10, choose between +4 All Attributes or +3% Ghoul Frenzy Movement Speed. +4 All Attributes provides overall stats for health, damage, and mana, while +3% Ghoul Frenzy Movement Speed enhances mobility, which is useful for chasing or escaping.",
+    "search_text": "Lifestealer talent level 10 +4 all stats vs +3% ghoul frenzy move speed attributes mobility",
+    "tags": [
+      "Lifestealer",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_10",
+      "ATTRIBUTES",
+      "MOVEMENT_SPEED"
+    ]
+  },
+  {
+    "display_text": "At level 15, choose between +50 Ghoul Frenzy Attack Speed or +15% Open Wounds Slow. +50 attack speed significantly increases damage output with Feast, while +15% slow on Open Wounds improves crowd control and makes it harder for enemies to escape.",
+    "search_text": "Lifestealer talent level 15 +50 ghoul frenzy attack speed vs +15% open wounds slow damage crowd control",
+    "tags": [
+      "Lifestealer",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_15",
+      "ATTACK_SPEED",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "At level 20, choose between +15% Infest Target Movespeed/Health or +25% Open Wounds Lifesteal. +15% Infest bonuses improve survivability and mobility while infested, useful for initiation or escape. +25% Open Wounds Lifesteal enhances sustain for allies, making teamfights more durable.",
+    "search_text": "Lifestealer talent level 20 +15% infest move speed health vs +25% open wounds lifesteal sustain teamfight",
+    "tags": [
+      "Lifestealer",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_20",
+      "INFEST",
+      "LIFESTEAL"
+    ]
+  },
+  {
+    "display_text": "At level 25, choose between +1.0% Feast Heal and Damage or +1.0s Rage Duration. +1.0% Feast increases both damage and heal per attack, scaling with enemy max health. +1.0s Rage Duration extends debuff immunity and magic resistance, providing more time in fights.",
+    "search_text": "Lifestealer talent level 25 +1.0% feast heal damage vs +1.0s rage duration sustain immunity",
+    "tags": [
+      "Lifestealer",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "LEVEL_25",
+      "FEAST",
+      "RAGE"
+    ]
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "display_text": "Lich is a Ranged Intelligence hero with a Base Attack Time of 1.7, starting with 20 Strength, 17 Agility, and 28 Intelligence. This gives him high starting Intelligence for good mana pool and damage, but below-average Strength and Agility result in low health and armor. His primary stat gain focuses on spellcasting.",
+    "search_text": "Lich stats ranged intelligence attack rate 1.7 BAT 20 strength 17 agility 28 int base armor low",
+    "tags": [
+      "Lich",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Facet: Frostbound - Chain Frost lingers on its last target if it fails to bounce and can bounce again if new targets become available. This is excellent for catching isolated heroes or controlling small skirmishes where kills create new targets. Facet: Growing Cold - When an enemy is killed by Chain Frost or while under the effect of Frost Shield, the duration of these abilities is extended. This rewards aggressive, snowballing play and teamfight cleanup. Facet: Evil Eye - Sinister Gaze applies a lingering effect that causes the target to take extra magic damage from Lich and amplifies incoming movement slows. This enhances Lich's solo kill threat and synergy with other slows on your team.",
+    "search_text": "Lich facets Frostbound Chain Frost lingers bounce again Growing Cold kill extends duration Frost Shield Evil Eye Sinister Gaze extra magic damage amplify slow",
+    "tags": [
+      "Lich",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Lich dominates the lane with Frost Blast (Q), dealing 40/80/120/160 damage to a single target and 80/120/160/200 area damage, while applying a 4-second 25% movement slow and 30/40/50/60 attack speed slow. Use it to secure ranged creeps and harass. Frost Shield (W) reduces damage from attacks against the target by 45/50/55/60% and pulses 18/32/46/60 damage every 1.0 second to nearby enemies for 4/5/6/7 seconds, also slowing them. Use it on your core or yourself to trade. Your passive, Death Charge, restores 2.5% of your max mana per creep death and 25% per hero death within 1500 range, allowing you to spam spells without traditional mana regen.",
+    "search_text": "Lich laning Frost Blast Q damage slow Frost Shield W damage reduction pulse slow Death Charge passive mana restore creep hero kill",
+    "tags": [
+      "Lich",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6: Massive spike with Chain Frost, dealing 250/400/550 base damage that increases by 15/20/25 per bounce, up to 10 bounces. Level 12: Maxed Frost Shield and Frost Blast for strong teamfight presence and sustain. Level 18: Maxed Chain Frost with level 3. Level 20 Talent: Choice between Chain Frost on Death or +4s Frost Shield Duration significantly boosts teamfight impact. Level 25: +100 Chain Frost Incremental Damage talent makes the ultimate devastating. Key item spikes: Aghanim's Shard (Ice Spire), Aghanim's Scepter (bounces increase), Glimmer Cape or Force Staff for survival.",
+    "search_text": "Lich power spikes level 6 Chain Frost ult level 12 max skills level 20 talent level 25 talent Aghanim Shard Scepter",
+    "tags": [
+      "Lich",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Lich is hard countered by spell immunity (Black King Bar), which blocks all his damage and slows. Instant silences or hexes prevent him from casting Frost Shield or Chain Frost. High magic resistance heroes reduce the impact of his burst. Heroes with summons or illusions can absorb Chain Frost bounces. Break mechanics can disable his Death Charge passive, though it is not a typical break target.",
+    "search_text": "Lich counters BKB spell immunity magic resistance silence hex illusions summons break passive Death Charge",
+    "tags": [
+      "Lich",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items for Lich are Aghanim's Shard (unlocks Ice Spire) and Aghanim's Scepter. The Shard provides a deployable slow field and extra Chain Frost target. Scepter increases Chain Frost bounce range and damage. A defensive item like Glimmer Cape or Force Staff is also essential for positioning and survival.",
+    "search_text": "Lich core build Aghanim Shard Ice Spire Aghanim Scepter Chain Frost Glimmer Cape Force Staff",
+    "tags": [
+      "Lich",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Lich's role is backline control and burst damage. Use Frost Shield on your frontline initiator or a carry being focused. Cast Chain Frost into clustered enemies or on a key target with limited escape. Use Frost Blast to slow and damage key targets. Use Sinister Gaze to channel and drain mana from a dangerous enemy or to set up for allies. Place Ice Spire to zone and slow areas.",
+    "search_text": "Lich teamfight role backline control burst damage Frost Shield Chain Frost Frost Blast Sinister Gaze Ice Spire",
+    "tags": [
+      "Lich",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Frost Blast (Q) blasts a target enemy, dealing 40/80/120/160 damage to them and 80/120/160/200 area damage in a 200 radius. Slows movement speed by 25% and attack speed by 30/40/50/60 for 4.0 seconds. The primary target takes both damages. Cooldown is 7.0 seconds. Does NOT pierce BKB (based on typical mechanics, not explicitly stated in data).",
+    "search_text": "Frost Blast Q damage 40 80 120 160 aoe 80 120 160 200 slow 25% movement 30 40 50 60 attack speed 4 seconds cooldown 7",
+    "tags": [
+      "Lich",
+      "ABILITY_DATA",
+      "Nuke",
+      "Slow"
+    ]
+  },
+  {
+    "display_text": "Frost Shield (W) applies a shield to a target, reducing damage from attacks against it by 45/50/55/60% for 4/5/6/7 seconds. Every 1.0 second, it pulses 18/32/46/60 damage to nearby enemies in a 600 radius and slows their movement by 20/25/30/35% for 0.5 seconds. Can be cast on buildings. Does NOT pierce BKB (spell-immune enemies are not affected by damage or slow).",
+    "search_text": "Frost Shield W damage reduction 45 50 55 60% duration 4 5 6 7 pulse damage 18 32 46 60 slow 20 25 30 35% radius 600 cooldown building",
+    "tags": [
+      "Lich",
+      "ABILITY_DATA",
+      "Buff",
+      "Damage",
+      "Slow",
+      "Building Target"
+    ]
+  },
+  {
+    "display_text": "Sinister Gaze (E) is a channeled ability for 1.10/1.4/1.7/2.0 seconds. It hypnotizes an enemy, causing them to move towards a point between Lich and the target and drains 20 mana per second. Costs 25 mana. Does NOT pierce BKB (based on typical mechanics, not explicitly stated).",
+    "search_text": "Sinister Gaze E channel 1.1 1.4 1.7 2.0 seconds mana drain 20 per second cost 25 mana disable",
+    "tags": [
+      "Lich",
+      "ABILITY_DATA",
+      "Channel",
+      "Disable",
+      "Mana Drain"
+    ]
+  },
+  {
+    "display_text": "Ice Spire (Shard) creates a structure at a target location that slows enemy movement by 25% in a 550 radius for 15 seconds. It can be attacked 4 times by heroes or 8 times by creeps. When destroyed, it creates a Frost Blast around it. Chain Frost can be cast on and bounce to the Spire. Frost Shield cast on the Spire heals it for 1 hero attack per tick.",
+    "search_text": "Ice Spire Shard structure slow 25% radius 550 duration 15 hero hits 4 creep hits 8 destroy Frost Blast Chain Frost target Frost Shield heal",
+    "tags": [
+      "Lich",
+      "ABILITY_DATA",
+      "Shard",
+      "Structure",
+      "Slow",
+      "Synergy"
+    ]
+  },
+  {
+    "display_text": "Death Charge (Passive) means Lich cannot gain passive mana regeneration. Any non-hero unit dying within 1500 range restores 2.5% of his max mana. A hero dying within range restores 25% of his max mana. Instant mana restoration from items and abilities works normally.",
+    "search_text": "Death Charge passive no mana regen creep death 2.5% max mana hero death 25% max mana radius 1500",
+    "tags": [
+      "Lich",
+      "ABILITY_DATA",
+      "Passive",
+      "Mana Restore"
+    ]
+  },
+  {
+    "display_text": "Chain Frost (R) releases an orb that bounces between nearby enemy units up to 10 times. Each bounce deals 250/400/550 base damage, plus an additional 15/20/25 damage per subsequent bounce. Slows movement and attack speed by 65% for 2.5 seconds. Bounce range is 550. Initial projectile speed is 1050, then 850. Cannot be disjointed. Does NOT pierce BKB (based on typical mechanics, not explicitly stated).",
+    "search_text": "Chain Frost R ultimate damage 250 400 550 incremental 15 20 25 per bounce bounces 10 slow 65% movement attack speed 2.5 seconds bounce range 550 projectile speed 1050 850 undispellable",
+    "tags": [
+      "Lich",
+      "ABILITY_DATA",
+      "Ultimate",
+      "Bouncing",
+      "Slow",
+      "Nuke"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Magic Resistance/Anti-Mage. Lich's magic damage is heavily reduced. Prioritize Ice Spire for consistent slow zone and Chain Frost target. Build utility items like Shiva's Guard for armor and attack speed slow, and consider Scythe of Vyse for reliable disable. Focus Frost Shield on physical damage allies.",
+    "search_text": "Lich vs high magic resistance anti mage build utility Shiva Guard Hex Ice Spire slow focus Frost Shield physical",
+    "tags": [
+      "Lich",
+      "SITUATIONAL",
+      "Vs High Magic Resistance"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When your team is losing, use Frost Shield defensively on your highest net worth core to protect them. Use Ice Spire to control choke points and delay pushes. Save Chain Frost to defend high ground, aiming for the largest enemy cluster. Itemize for saves like Glimmer Cape or Force Staff.",
+    "search_text": "Lich from behind losing defensive Frost Shield Ice Spire choke point high ground defense Chain Frost save items Glimmer Force",
+    "tags": [
+      "Lich",
+      "SITUATIONAL",
+      "From Behind"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Illusion Heroes. Chain Frost can be wasted on illusions. Use Ice Spire to provide a reliable bounce target. Prioritize Frost Blast and Frost Shield's pulse damage to help clear illusions. Consider Aghanim's Scepter to increase bounce range and damage, making it more likely to hit the real hero.",
+    "search_text": "Lich vs illusions Phantom Lancer Chaos Knight Chain Frost bounce Ice Spire target Frost Blast clear Aghanim Scepter",
+    "tags": [
+      "Lich",
+      "SITUATIONAL",
+      "Vs Illusions"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Physical Damage Team. Your Frost Shield provides 45-60% damage reduction from attacks, making your right-click cores incredibly tanky. Use it on your initiator or carry during fights. The Evil Eye facet amplifies the slows from your allies' items like Skadi or bashes, increasing control.",
+    "search_text": "Lich with physical damage team Frost Shield damage reduction carry tank Evil Eye facet amplify slows Skadi bash",
+    "tags": [
+      "Lich",
+      "SITUATIONAL",
+      "With Physical Damage"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need Solo Kill Threat. With the Evil Eye facet, Sinister Gaze makes the target take extra magic damage from Lich and amplifies slows. Max Sinister Gaze early and combo with Frost Blast and right-clicks. Build items like Veil of Discord or Kaya to increase your magic burst potential.",
+    "search_text": "Lich solo kill Evil Eye facet Sinister Gaze extra magic damage amplify slow combo Frost Blast build Veil Kaya",
+    "tags": [
+      "Lich",
+      "SITUATIONAL",
+      "Solo Kill"
+    ]
+  },
+  {
+    "display_text": "Scenario: Objective Defense/Push. Frost Shield can be cast on buildings, reducing incoming attack damage by 45-60% for 4-7 seconds. Use it on towers or barracks during sieges. Ice Spire can be placed to slow enemy pushes or provide vision and a Chain Frost bounce point during defense.",
+    "search_text": "Lich objective defense push Frost Shield building tower damage reduction Ice Spire slow vision Chain Frost bounce",
+    "tags": [
+      "Lich",
+      "SITUATIONAL",
+      "Objective Defense"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left choice is +10% Frost Shield Damage Reduction (increasing reduction to 55/60/65/70%). Right choice is +125 Frost Blast Radius and Area Damage. Choose +10% Frost Shield Damage Reduction if your team needs more survivability for cores in fights. Choose +125 Frost Blast Radius/Damage if you need more reliable AoE damage and slow in teamfights or wave clear.",
+    "search_text": "Lich talent level 10 left +10% Frost Shield damage reduction right +125 Frost Blast radius area damage",
+    "tags": [
+      "Lich",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left choice is +0.3s Sinister Gaze Duration (increasing channel to 1.4/1.7/2.0/2.3s). Right choice is -3.5s Frost Blast Cooldown (reducing cooldown to 3.5s). Choose +0.3s Sinister Gaze Duration for more disable and mana drain, especially with the Evil Eye facet. Choose -3.5s Frost Blast Cooldown for significantly higher spamability, damage, and slow uptime.",
+    "search_text": "Lich talent level 15 left +0.3s Sinister Gaze duration right -3.5s Frost Blast cooldown",
+    "tags": [
+      "Lich",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left choice is Chain Frost on Death (caster releases a Chain Frost upon dying). Right choice is +4s Frost Shield Duration (increasing duration to 8/9/10/11s). Choose Chain Frost on Death if you are being focused and want post-death teamfight contribution. Choose +4s Frost Shield Duration for dramatically stronger sustained damage reduction and pulse damage in prolonged engagements.",
+    "search_text": "Lich talent level 20 left Chain Frost on Death right +4s Frost Shield duration",
+    "tags": [
+      "Lich",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left choice is Frost Shield Provides +50 HP Regen (adds flat health regeneration to the shield). Right choice is +100 Chain Frost Incremental Damage (increases per-bounce damage bonus from 15/20/25 to 115/120/125). Choose +50 HP Regen on Frost Shield for incredible survivability on a single ally, making them nearly unkillable. Choose +100 Chain Frost Incremental Damage to turn your ultimate into a fight-winning nuke, especially against clustered enemies.",
+    "search_text": "Lich talent level 25 left Frost Shield +50 HP Regen right +100 Chain Frost incremental damage",
+    "tags": [
+      "Lich",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

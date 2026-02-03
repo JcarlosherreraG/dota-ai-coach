@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Riftshadow Prism, Tier 5: Neutral item creating a full health illusion at the cost of 10% of your current HP. The illusion deals 50% outgoing damage and takes 240% incoming damage, lasting 20 seconds. Used to create decoys, tank damage, or push lanes. Stats: CD: 30s, Duration: 20s, Health Cost: 10% Current HP.",
+    "search_text": "tier 5 neutral, neutral item, create illusion, illusion item, sacrifice health, health cost illusion, tank damage illusion, decoy illusion, push with illusion, high tier neutral, Riftshadow Prism",
+    "tags": [
+      "ITEM_DATA",
+      "RIFTSHADOW_PRISM",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_5",
+      "ILLUSION",
+      "SUMMON",
+      "UTILITY",
+      "PUSHER_ITEM",
+      "DECOY"
+    ]
+  }
+]

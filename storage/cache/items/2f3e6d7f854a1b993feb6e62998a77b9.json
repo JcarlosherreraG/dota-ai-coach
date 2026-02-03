@@ -1,0 +1,54 @@
+[
+  {
+    "display_text": "Orb of Blight, Cost: 300: Applies Lesser Corruption on attack, reducing the target's armor by -2 for 3 seconds. A cost-effective early game component that amplifies physical damage output from you and your allies against the target. Dispellable by enemies. Stats: Armor Reduction: -2, Duration: 3.0s.",
+    "search_text": "armor reduction item, early game damage, attack debuff, minus armor, early harassment, physical amp, corruption, blight, Orb of Blight, armor shred, cheap damage, attack modifier, orb effect, physical damage, debuff",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_BLIGHT",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DEBUFF",
+      "PHYSICAL_DAMAGE",
+      "UPGRADE",
+      "DISPELLABLE"
+    ]
+  },
+  {
+    "display_text": "Orb of Blight, Cost: 300: Provides no direct attribute bonuses or base damage. Its value is purely in the Lesser Corruption passive effect to weaken enemy defenses. Stats: Damage: +0, Attributes: +0.",
+    "search_text": "no stats item, pure debuff, orb stats, component stats, Orb of Blight",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_BLIGHT",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "UTILITY",
+      "COMPONENT"
+    ]
+  },
+  {
+    "display_text": "Orb of Blight, Cost: 300: Provides a sustained armor reduction effect in skirmishes, making enemies more vulnerable to physical attacks from your entire team. The -2 armor effect helps secure kills on durable targets and enhances early physical damage composition. Its effect is not an aura but is applied individually on hit.",
+    "search_text": "team fight armor reduction, skirmish debuff, physical vulnerability, early team fight, kill secure, Orb of Blight",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_BLIGHT",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "PHYSICAL_DAMAGE",
+      "DEBUFF",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Orb of Blight, Cost: 300: Core synergy for high attack speed heroes or those who can apply the debuff to multiple targets quickly. Excellent for aggressive laning carries or supports who frequently trade attacks. Upgrades into Desolator or Stygian Desolator, making it an efficient early pickup for that build path. Does not stack with its upgrades.",
+    "search_text": "attack speed synergy, early game core, desolator component, physical carry item, harassment item, Orb of Blight, early pickup",
+    "tags": [
+      "ITEM_DATA",
+      "ORB_OF_BLIGHT",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "UPGRADE",
+      "CARRY_ITEM",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

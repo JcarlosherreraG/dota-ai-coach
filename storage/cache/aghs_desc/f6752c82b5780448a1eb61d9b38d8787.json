@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Magnus Aghanim's Scepter: Horn Toss — This upgrade counters positioning-heavy strategies by forcibly relocating enemies to the rear, creating chaos in team fights and enabling follow-up stuns and damage. It transforms Magnus into a disruptor who can split enemy formations.",
+    "search_text": "Magnus Aghanim Scepter Horn Toss anti-positioning disruptor team fight reposition",
+    "tags": [
+      "AGHS_STRATEGY",
+      "npc_dota_hero_magnataur",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Magnus Aghanim's Shard: Enhances Skewer — Counters map mobility and farming efficiency by punishing enemies for positioning near trees or cliffs. This upgrade turns Magnus into a formidable chaser and area controller, restricting enemy movement.",
+    "search_text": "Magnus Aghanim Shard Skewer anti-mobility chaser tree cliff damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "npc_dota_hero_magnataur",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

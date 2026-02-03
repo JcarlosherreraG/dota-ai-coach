@@ -1,0 +1,158 @@
+[
+  {
+    "display_text": "Wraith King is a melee strength hero with 22 base strength, 16 base agility, and 16 base intelligence. His attack rate is 1.7 seconds per attack. As a melee hero, he has no range stat, relying on getting into melee combat. His starting attributes are standard for a melee strength carry, focusing on survivability and physical damage.",
+    "search_text": "Wraith King stats melee strength base armor attack speed move speed turn rate",
+    "tags": [
+      "WRAITH_KING",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Wraith King must choose between two facets. 'Bone Guard' allows Wraith King to summon skeletons to fight for him, enhancing his map control, lane push, and providing bodies in fights. 'Spectral Blade' makes Wraith King's attacks curse enemies, dealing additional damage after a delay, which synergizes with his Mortal Strike for burst and provides a damage-over-time component for harassing durable heroes. Choose Bone Guard for a pushing or farming-centric playstyle. Choose Spectral Blade for a more aggressive, single-target-focused damage build, especially effective against heroes who rely on instant healing or escape.",
+    "search_text": "Wraith King facet Bone Guard Spectral Blade skeletons summon attack curse damage over time push lane",
+    "tags": [
+      "WRAITH_KING",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Wraith King relies on his high base strength (22) for durability. Start with a point in Wraithfire Blast for a reliable 1.0 second stun and harass potential. Use Mortal Strike's bonus damage on cooldown for last hitting and trading. Vampiric Spirit provides sustain but is less impactful at level 1, consider taking a value point early. Focus on securing last hits with his 1.7 base attack time. Wraith King is vulnerable to heavy harass and kiting due to being melee.",
+    "search_text": "Wraith King laning early game skill build last hit stun harass sustain",
+    "tags": [
+      "WRAITH_KING",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Wraith King's key power spikes are: Level 6 with Reincarnation, making him extremely hard to kill and a threat for tower dives. Level 12 with a maxed Vampiric Spirit for 40% lifesteal and increased wraith duration. Level 18 with maxed Reincarnation (120s cooldown). Talent levels (10, 15, 20, 25) each provide significant boosts. Item timings like Armlet, Radiance, or Blink Dagger define his mid-game fighting or farming potential. Aghanim's Shard upgrade is also a major timing.",
+    "search_text": "Wraith King power spike level 6 reincarnation level 12 vampiric spirit talents items",
+    "tags": [
+      "WRAITH_KING",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Wraith King is hard countered by mechanics that nullify his passives. Break (from Silver Edge, Viper's Nethertoxin) disables Vampiric Spirit's lifesteal and Reincarnation, making him killable. High mana burn (Anti-Mage, Diffusal Blade, Nyx Assassin) can drain the 225 mana cost of Reincarnation, preventing his revival. Instant disables that can lock him down after he revives (Hex, Berserker's Call) prevent him from retaliating or escaping. Pure or high magic damage can bypass his natural strength/HP pool before he gets tank items.",
+    "search_text": "Wraith King counters break mana burn silver edge diffusal blade hex disable reincarnation",
+    "tags": [
+      "WRAITH_KING",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Wraith King's core build is non-negotiable. Armlet of Mordiggian is essential for the massive strength, damage, and attack speed boost, synergizing perfectly with his lifesteal and Reincarnation toggling. Blink Dagger is crucial to initiate with Wraithfire Blast and to reposition after Reincarnation. Aghanim's Shard is a core upgrade that summons skeletons on hero kills, drastically increasing his pushing power and teamfight presence after a kill. Radiance is a common alternative for a farming build, but Blink and Armlet are more consistent for fighting.",
+    "search_text": "Wraith King core items armlet blink dagger aghanims shard radiance build",
+    "tags": [
+      "WRAITH_KING",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In a 5v5 teamfight, Wraith King's primary role is as a Frontline Initiator and Disabler. He should use Blink Dagger to jump on a key enemy backline hero and stun them with Wraithfire Blast. His presence forces the enemy team to focus him down, knowing they must kill him twice. After dying and reviving with Reincarnation, he must re-engage, using the 4-second 75% slow on enemies to allow his team to clean up. He provides sustained physical damage with Mortal Strike crits and healing for his team with Vampiric Spirit aura.",
+    "search_text": "Wraith King teamfight initiator frontline tank stun reincarnation slow aura",
+    "tags": [
+      "WRAITH_KING",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Wraithfire Blast (Q) sears an enemy unit with spectral fire. It deals 80 / 100 / 120 / 140 damage and stuns the target for 1.0 / 1.2 / 1.4 / 1.6 seconds. After the stun, the target takes 20 / 40 / 60 / 80 damage per second and is slowed by 20% for 2.0 seconds. The projectile moves at a speed of 1200. The stun is a reliable, targeted disable.",
+    "search_text": "Wraith King ability Q Wraithfire Blast stun damage over time slow duration 1.6 80 140",
+    "tags": [
+      "WRAITH_KING",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Mortal Strike (W) is a passive ability. It provides Wraith King with a critical strike that deals 160% / 200% / 240% / 280% damage on an attack. This critical strike has a cooldown of 6.0 / 5.5 / 5.0 / 4.5 seconds. It is his primary source of burst physical damage for last hitting and fighting.",
+    "search_text": "Wraith King ability W Mortal Strike passive crit critical strike damage 280% cooldown 4.5",
+    "tags": [
+      "WRAITH_KING",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Vampiric Spirit (E) grants Wraith King and nearby allies 10% / 20% / 30% / 40% Lifesteal from attacks. When Wraith King is slain, he turns into a free-path Wraith for 3.5 / 4.0 / 4.5 / 5.0 seconds, delaying his death. As a Wraith, he gains bonus attack speed (30 / 45 / 60 / 75 with Aghanim's Scepter) and bonus movement speed (10% / 15% / 20% / 25% with Aghanim's Scepter). He cannot use Reincarnation after being a Wraith. Break disables the lifesteal component.",
+    "search_text": "Wraith King ability E Vampiric Spirit lifesteal 40% wraith death delay aghanims scepter attack speed move speed break",
+    "tags": [
+      "WRAITH_KING",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Reincarnation (R) is Wraith King's ultimate. When killed, he regroups and resurrects after 3.0 seconds if he has 225 mana. Upon death, enemy units within a 600 radius are slowed by 75% in both attack speed and movement speed for 4.0 seconds. The ability has a cooldown of 180 / 150 / 120 seconds. It can be self-cast to kill Wraith King instantly. Wraith King will not revive if he lacks the 225 mana.",
+    "search_text": "Wraith King ultimate R Reincarnation revive resurrection slow 75% 600 radius cooldown 120 mana cost 225 self cast",
+    "tags": [
+      "WRAITH_KING",
+      "ABILITY_DATA"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind. Wraith King should prioritize survival items like Armlet and BKB to ensure he can survive and get his Reincarnation off. Avoid expensive farming items like Radiance. Use Wraithfire Blast defensively to kite or protect allies. Consider the 'Bone Guard' facet to create space by pushing out lanes with skeletons safely. Focus on fighting around your Reincarnation cooldown with your team.",
+    "search_text": "Wraith King scenario behind losing farm armlet bkb defense skeletons push",
+    "tags": [
+      "WRAITH_KING",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus high physical damage and armor. Wraith King thrives here due to Vampiric Spirit lifesteal. Build items like Assault Cuirass and Heart of Tarrasque to become extremely durable. The 'Spectral Blade' facet's delayed damage can help chip through high armor. Ensure you have enough mana (via items like Echo Sabre or Soul Ring) to always cast Reincarnation. Your role is to absorb damage and out-sustain the enemy carry.",
+    "search_text": "Wraith King scenario high armor physical damage assault cuirass heart sustain mana",
+    "tags": [
+      "WRAITH_KING",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has strong mana burn (Anti-Mage, Invoker). This is a critical weakness. Itemize for mana pool and protection. An early Soul Ring can help guarantee Reincarnation mana. Consider a Bloodstone for mana and spell lifesteal on your stun. Linken's Sphere or Lotus Orb can block key mana-burning abilities. Play very cautiously when your mana is below 225. Communicate with your team to focus the mana-burning hero first.",
+    "search_text": "Wraith King counters mana burn anti-mage diffusal blade soul ring bloodstone linkens lotus orb",
+    "tags": [
+      "WRAITH_KING",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to split-push and apply map pressure. Select the 'Bone Guard' facet. Build items that enhance summons or provide global presence like Assault Cuirass aura or Boots of Travel. Aghanim's Shard is mandatory. After winning a fight, use your summoned skeletons to take objectives quickly. Your Reincarnation makes you a risky target to gank while split-pushing.",
+    "search_text": "Wraith King split push map pressure bone guard skeletons aghanims shard objectives",
+    "tags": [
+      "WRAITH_KING",
+      "SITUATIONAL"
+    ]
+  },
+  {
+    "display_text": "At Level 10, Wraith King chooses between +10% Vampiric Spirit Lifesteal and +1s Wraithfire Blast Stun Duration. The +10% Lifesteal (bringing it to 50% at max level) is the default choice for a carry build, significantly increasing his survivability and farming speed. The +1s Stun Duration (making it 2.6s at max level) is a strong utility option if your team lacks lockdown and you are playing a more supportive or initiator role, or if you are facing heroes with high magic resistance where damage is less relevant.",
+    "search_text": "Wraith King talent level 10 +10% vampiric spirit lifesteal +1s wraithfire blast stun duration lockdown carry utility",
+    "tags": [
+      "WRAITH_KING",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At Level 15, Wraith King chooses between +350 Health and +50 Attack Speed. The +350 Health provides raw survivability, making him harder to burst down before or after Reincarnation, and is generally the safer, more reliable choice. The +50 Attack Speed dramatically increases his damage output, synergizing with Mortal Strike crits and lifesteal. Choose Attack Speed if you are ahead and have damage items, or Health if you are behind and need to survive enemy burst.",
+    "search_text": "Wraith King talent level 15 +350 health +50 attack speed survivability damage output",
+    "tags": [
+      "WRAITH_KING",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At Level 20, Wraith King chooses between -2s Mortal Strike Cooldown and +15 Strength. The -2s Mortal Strike Cooldown reduces the cooldown of his critical strike to as low as 2.5 seconds, providing a massive increase to his sustained physical DPS. This is the premier damage talent. The +15 Strength provides 285 health, 15 damage, and some health regeneration. This is a tank talent. Almost always take the -2s Cooldown unless you are the sole frontliner and are dying instantly in fights.",
+    "search_text": "Wraith King talent level 20 -2s mortal strike cooldown +15 strength DPS damage tank health",
+    "tags": [
+      "WRAITH_KING",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At Level 25, Wraith King chooses between +1s Reincarnation Casts Wraithfire Blast and Reincarnation Casts Wraithfire Blast. The left talent, '+1s Reincarnation Casts Wraithfire Blast,' is the standard description for the functionality: When Reincarnation triggers, instead of slowing enemies, it casts the current level of Wraithfire Blast on all enemy heroes within 900 range. This provides a powerful AOE stun and damage upon revival, which can completely turn a teamfight. The right talent choice is incorrectly listed as the same; typically, the other choice is a different powerful upgrade. Assuming the standard options, the AOE stun is overwhelmingly powerful and the near-universal choice.",
+    "search_text": "Wraith King talent level 25 reincarnation casts wraithfire blast AOE stun 900 range revive",
+    "tags": [
+      "WRAITH_KING",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

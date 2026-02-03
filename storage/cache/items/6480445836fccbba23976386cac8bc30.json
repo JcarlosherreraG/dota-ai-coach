@@ -1,0 +1,76 @@
+[
+  {
+    "display_text": "Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.",
+    "search_text": "spell immunity item, magic immunity, BKB, immune to spells, magic immune, disable immunity, Black King Bar, magic resistance, survival item, defensive item, buy time, fight immunity, core item, carry item, teamfight item, bkb effect, magic damage block, vs control, vs magic",
+    "tags": [
+      "ITEM_DATA",
+      "BLACK_KING_BAR",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "BKB_EFFECT",
+      "SPELL_IMMUNITY",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "VS_MAGIC",
+      "VS_CONTROL",
+      "MAGIC_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "Black King Bar, Cost: 4050: Provides a significant boost to raw survivability with +10 Strength and +24 damage. The damage makes it a viable offensive-defensive purchase for right-clicking cores. Stats: +10 Strength, +24 Damage.",
+    "search_text": "BKB stats, Black King Bar stats, strength item, damage item, bkb damage, carry survivability, health pool, health boost, offensive defense, strength damage, Black King Bar",
+    "tags": [
+      "ITEM_DATA",
+      "BLACK_KING_BAR",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "DAMAGE",
+      "STRENGTH",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Black King Bar, Cost: 4050: The quintessential defensive teamfight item, allowing a hero to ignore enemy control and magic burst, enabling them to deal damage or cast spells unimpeded. Its duration is a key resource to manage in engagements. A core pick-up on heroes vulnerable to being kited or disabled.",
+    "search_text": "BKB teamfight, defensive teamfight, magic immunity teamfight, fight survivability, ignore disables, enable core, magic burst counter, fight through spells, teamfight role, core defensive, Black King Bar",
+    "tags": [
+      "ITEM_DATA",
+      "BLACK_KING_BAR",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "VS_MAGIC",
+      "VS_CONTROL",
+      "CORE_ITEM"
+    ]
+  },
+  {
+    "display_text": "Black King Bar, Cost: 4050: Situational counter against heavy magic damage and disables. Essential when facing lineups with multiple stuns, silences, slows, or high magic burst. Use the immunity duration strategically to counter key enemy ultimates and spells. Stats: CD: 95s.",
+    "search_text": "BKB counter magic, BKB vs disables, BKB vs stuns, BKB vs magic damage, magic damage counter, stun counter, disable counter, silence counter, slow counter, magic burst counter, BKB usage, spell immunity timing, Black King Bar",
+    "tags": [
+      "ITEM_DATA",
+      "BLACK_KING_BAR",
+      "SITUATIONAL_VS_MAGIC",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_MAGIC",
+      "VS_CONTROL",
+      "COUNTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.",
+    "search_text": "BKB core, BKB carry item, carry BKB, initiator BKB, melee BKB, damage dealer BKB, BKB timing, mid game item, BKB synergy, Black King Bar",
+    "tags": [
+      "ITEM_DATA",
+      "BLACK_KING_BAR",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "INITIATOR_ITEM",
+      "MELEE_ITEM",
+      "TIMING_ITEM"
+    ]
+  }
+]

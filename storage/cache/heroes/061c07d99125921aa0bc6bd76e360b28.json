@@ -1,0 +1,212 @@
+[
+  {
+    "display_text": "Pudge is a melee strength hero with a below-average base attack time of 1.7. He has high starting strength at 25, but very low starting agility and armor (11 agility). This makes him a high HP, low physical armor tank from level 1, relying on his Flesh Heap passive for further durability.",
+    "search_text": "Pudge stats melee strength hero attack rate 1.7 base strength 25 agility 11 intelligence 16 low armor high health pool",
+    "tags": [
+      "PUDGE",
+      "BASE_STATS",
+      "STATS",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Pudge has three Facets. Fresh Meat enhances his Dismember ultimate, making it increase his Strength when damaging heroes, scaling his damage and health. Flayer's Hook changes his Meat Hook to deal bonus damage based on pull distance (while reducing base damage), favoring max-range picks. Rotten Core gives him bonus attack damage per second while Rot is active, enabling a more right-click oriented build with items like Blade Mail or Skadi.",
+    "search_text": "Pudge facets Fresh Meat Dismember strength gain Flayer's Hook distance-based damage Rotten Core Rot attack damage bonus",
+    "tags": [
+      "PUDGE",
+      "FACET_STRATEGY",
+      "FACET",
+      "BUILD"
+    ]
+  },
+  {
+    "display_text": "In lane, Pudge struggles due to low armor and base damage. The primary goal is to secure last hits with Meat Hook (level 1 has 1300 range) on creeps or to threaten pulls on the enemy hero. Avoid trading hits. Use Rot conservatively for securing kills or zoning, as it damages you for 30/60/90/120 DPS. A point in Meat Shield at level 2 or 3 is crucial to mitigate harass. Focus on pulling creeps and stacking for recovery if lane is lost.",
+    "search_text": "Pudge laning phase weak laner last hit with Hook Meat Hook 1300 range Rot self-damage Meat Shield block damage early game",
+    "tags": [
+      "PUDGE",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Pudge's power spikes are: Level 6 with Dismember for a reliable kill setup. Level 7 with maxed Meat Hook (360 damage, 12s cooldown). Level 15 talent (+8% Spell Lifesteal) combined with Rot and Dismember for sustain. Level 20 talent (-4s Meat Hook Cooldown) for frequent picks. Level 25 talent (x1.5x Flesh Heap and Meat Shield bonuses) makes him incredibly tanky. Key item spikes are Blink Dagger for initiation, Aghanim's Shard for a 2.75s channeled Dismember, and Heart of Tarrasque for unkillable status.",
+    "search_text": "Pudge power spikes level 6 Dismember level 7 max Hook level 15 spell lifesteal talent level 20 Hook cooldown talent level 25 tank talent Blink Dagger Aghanim's Shard",
+    "tags": [
+      "PUDGE",
+      "POWER_SPIKES",
+      "TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Pudge is hard countered by heroes with natural mobility (Queen of Pain, Anti-Mage) that can escape his combo. Instant silences (Skywrath Mage, Death Prophet) prevent him from using Dismember or Rot. High magic burst damage (Lina, Zeus) can kill him before he can react with Meat Shield. Heroes with Break (Shadow Demon, Viper) disable his Flesh Heap passive strength gain. Heroes that punish predictable positioning (Clockwerk, Batrider) can catch him during Hook animations.",
+    "search_text": "counters Pudge mobility escape silences magic burst Break Flesh Heap Clockwerk Batrider",
+    "tags": [
+      "PUDGE",
+      "HARD_COUNTERS",
+      "COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Pudge's core build consists of Blink Dagger for reliable initiation after landing a Hook. Aghanim's Shard is essential, upgrading Dismember to a 2.75s channel with 30/25/20s cooldown, providing immense lockdown. Force Staff or Hood of Defiance are situational early cores for mobility or magic resistance. Later, Heart of Tarrasque capitalizes on his strength stacking, and Shiva's Guard provides armor he desperately lacks.",
+    "search_text": "Pudge core items Blink Dagger Aghanim's Shard Dismember channel Force Staff Hood of Defiance Heart Tarrasque Shiva's Guard",
+    "tags": [
+      "PUDGE",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Pudge's role is to initiate with a long-range Meat Hook on a key target, immediately Dismembering them with Shard. He should activate Rot and Meat Shield to become a durable, disruptive frontliner, soaking damage and slowing enemies. His job is to create chaos, separate enemies with Hooks, and provide long-duration single-target lockdown. He should position to body-block for his carries and use Hooks to save allies by pulling enemies away.",
+    "search_text": "Pudge teamfight role initiator Hook pick Dismember lockdown frontliner tank Rot slow Meat Shield damage block save allies",
+    "tags": [
+      "PUDGE",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Meat Hook (Q). Launches a hook 1300 units, snagging the first unit hit. Deals 150/220/290/360 magic damage to enemies and pulls them to Pudge. Kills non-ancient creeps instantly. Cooldown: 18/16/14/12 seconds. Hook speed is 1600. Provides 500 radius vision for 4 seconds at the target point. Dragging a unit stuns Pudge for 65% of the pull duration. Can hook and pull allies and runes. Does NOT pierce BKB (no immunity-piercing attribute found).",
+    "search_text": "Meat Hook Q ability cast range 1300 damage 150 220 290 360 cooldown 18 16 14 12 hook speed 1600 vision 500 radius 4 seconds pull stun self 65% can hook allies runes",
+    "tags": [
+      "PUDGE",
+      "ABILITY_DATA",
+      "MEAT_HOOK",
+      "Q"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Rot (W). Toggle ability. Deals 30/60/90/120 magic damage per second to Pudge and all enemies within 250 radius. Also slows enemies by 14%/20%/26%/32%. Damage ticks every 0.2 seconds. Does NOT pierce BKB (no immunity-piercing attribute found). Can be cast while channeling Dismember. Self-damage is non-lethal.",
+    "search_text": "Rot W ability toggle AoE damage 30 60 90 120 DPS radius 250 slow 14 20 26 32 self damage tick 0.2 seconds",
+    "tags": [
+      "PUDGE",
+      "ABILITY_DATA",
+      "ROT",
+      "W"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Meat Shield (E). Passively provides 8/14/20/26 damage block against all damage types from any source. Lasts 4/5/6/7 seconds after taking damage from a hero. Has no cooldown or mana cost.",
+    "search_text": "Meat Shield E passive damage block 8 14 20 26 all damage types duration 4 5 6 7 seconds hero damage trigger",
+    "tags": [
+      "PUDGE",
+      "ABILITY_DATA",
+      "MEAT_SHIELD",
+      "E"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Flesh Heap (Innate Passive). Pudge permanently gains 1.1/1.4/1.7/2.0 bonus Strength every time an enemy Hero dies within 450 range of him, regardless of who killed it. This passive is always active.",
+    "search_text": "Flesh Heap innate passive strength gain 1.1 1.4 1.7 2.0 per hero kill aura range 450 permanent stack",
+    "tags": [
+      "PUDGE",
+      "ABILITY_DATA",
+      "FLESH_HEAP",
+      "PASSIVE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Dismember (R). Channeled for up to 2.75 seconds. Targets an enemy unit, dealing 80/100/120 magic damage plus 30%/60%/90% of Pudge's Strength as damage per second. Heals Pudge for the total damage dealt. Disables the target and pulls them closer at 75 units per second, up to a minimum of 125 range. Cooldown: 30/25/20 seconds. Aghanim's Shard improves this ability. Does NOT pierce BKB (no immunity-piercing attribute found).",
+    "search_text": "Dismember R ultimate channel 2.75 seconds damage 80 100 120 plus 0.3 0.6 0.9 strength per second heal pull 75 units per second cooldown 30 25 20 Shard",
+    "tags": [
+      "PUDGE",
+      "ABILITY_DATA",
+      "DISEMBER",
+      "R",
+      "ULTIMATE"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Playing from Behind. When losing, Pudge should avoid risky Hooks. Focus on defensive positioning near your carries, using Meat Hook to save them by pulling attacking enemies away. Stack ancient camps and use Hook to farm them safely. Prioritize cheap survivability items like Magic Wand, Bracer, and Hood of Defiance. Your value shifts from initiator to protector.",
+    "search_text": "Pudge behind losing game defensive Hook save allies farm stacks ancients cheap items survivability protector",
+    "tags": [
+      "PUDGE",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Versus High Magic Burst. Against heroes like Zeus or Lina, Pudge must itemize for magic resistance immediately. Hood of Defiance into Pipe of Insight is critical. Use Meat Shield proactively when expecting burst. Consider a Lotus Orb to dispel silences that prevent Rot/Dismember. Position cautiously, as you are a high-HP magic damage sponge.",
+    "search_text": "Pudge vs magic burst Zeus Lina item Hood Defiance Pipe Insight magic resistance Meat Shield block Lotus Orb dispel silences",
+    "tags": [
+      "PUDGE",
+      "SITUATIONAL",
+      "VS_MAGIC"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: With a Global Team. When allied with Zeus, Spectre, or Nature's Prophet, Pudge's role is to provide vision and setup with Meat Hook. Land a Hook, immediately Dismember, and let your global allies jump in. Aghanim's Shard is even more valuable for the long lockdown. Itemize for aura items like Vladimir's Offering or Shiva's Guard to support the team that teleports to you.",
+    "search_text": "Pudge global team Zeus Spectre Nature's Prophet setup Hook Dismember lockdown Shard aura items Vladmir Shiva's",
+    "tags": [
+      "PUDGE",
+      "SITUATIONAL",
+      "WITH_GLOBAL"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: Versus Illusion Heroes. Against Phantom Lancer or Chaos Knight, Pudge struggles to find the real hero. Itemize for area control with Shiva's Guard and Blade Mail. Use Rot to reveal and damage all illusions in range. Your Meat Hook can still be used to save allies by hooking illusion heroes away. Consider Gleipnir to root groups of illusions.",
+    "search_text": "Pudge vs illusions PL Chaos Knight Shiva's Guard Blade Mail Rot reveal AoE damage Hook save allies Gleipnir root",
+    "tags": [
+      "PUDGE",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: As a Position 3 (Offlane). In the offlane, Pudge should focus on disrupting the enemy carry's farm. Use Meat Hook to pull creeps from under their tower or to harass. Build utility items like Pipe of Insight, Crimson Guard, or Guardian Greaves to enable your team. Your job is to create space by being a threatening presence, not necessarily getting kills.",
+    "search_text": "Pudge offlane pos3 disrupt farm Hook creeps harass utility items Pipe Crimson Guard Greaves space creator",
+    "tags": [
+      "PUDGE",
+      "SITUATIONAL",
+      "OFFLANE"
+    ]
+  },
+  {
+    "display_text": "SCENARIO: With Aghanim's Shard. After acquiring Shard, Pudge's playstyle changes significantly. He now has a reliable, long-duration (2.75s) single-target disable on a 20s cooldown at max level. Use Dismember as your primary initiation tool on visible targets, saving Meat Hook for catching fleeing enemies or saving allies. This allows you to skip Blink Dagger in some games and build more tank items.",
+    "search_text": "Pudge with Aghanim Shard Dismember 2.75 second channel 20s cooldown primary initiation save Hook for chase or save skip Blink tank",
+    "tags": [
+      "PUDGE",
+      "SITUATIONAL",
+      "WITH_SHARD"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 10: The choice is between +5 Armor or +10% Rot Slow. +5 Armor significantly improves Pudge's terrible physical survivability in the early-mid game, making him harder to kill for right-clickers. +10% Rot Slow increases the slow from 32% to 42% at max level, improving chase and zone control. Choose Armor if you are taking lots of physical damage; choose Slow if your team lacks lockdown and you need to stick to targets.",
+    "search_text": "Pudge talent level 10 left +5 Armor right +10% Rot Slow physical survivability vs chase lockdown",
+    "tags": [
+      "PUDGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 15: The choice is between +8% Spell Lifesteal or +150 Meat Hook Damage. Spell Lifesteal applies to all of Pudge's magic damage (Rot, Dismember, Hook), providing massive sustain during fights and while farming with Rot. +150 Meat Hook Damage increases its burst from 360 to 510, making it more lethal for picking off supports. Choose Spell Lifesteal for survivability and frontline staying power; choose Hook Damage for instant kill potential on low-HP heroes.",
+    "search_text": "Pudge talent level 15 left +8% Spell Lifesteal right +150 Meat Hook Damage sustain vs burst damage pickoff",
+    "tags": [
+      "PUDGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 20: The choice is between +0.75s Dismember Duration or -4s Meat Hook Cooldown. +0.75s Dismember Duration extends the channel from 2.75s to 3.5s with Shard, an immense increase in lockdown for killing key targets. -4s Meat Hook Cooldown reduces it from 12s to 8s at max level, allowing for much more frequent initiation and save attempts. Choose Dismember Duration if you need to guarantee a kill on a BKB carry; choose Hook Cooldown for higher tempo and pick potential.",
+    "search_text": "Pudge talent level 20 left +0.75s Dismember Duration right -4s Meat Hook Cooldown lockdown vs initiation frequency",
+    "tags": [
+      "PUDGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "TALENT LEVEL 25: The choice is between x1.5x Dismember Damage/Heal or x1.5x Flesh Heap and Meat Shield bonuses. x1.5x Dismember Damage/Heal turns Pudge into a potent single-target nuke and self-heal, especially powerful with the Fresh Meat Facet. x1.5x Flesh Heap and Meat Shield bonuses makes him exponentially tankier, multiplying his strength-based HP and damage block. Choose Dismaster damage for burst and sustain; choose tank bonuses to become an unkillable frontline wall.",
+    "search_text": "Pudge talent level 25 left 1.5x Dismember Damage Heal right 1.5x Flesh Heap Meat Shield bonuses burst vs tankiness",
+    "tags": [
+      "PUDGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

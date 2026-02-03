@@ -1,0 +1,274 @@
+FILE: mana_issues.json
+QUESTION: Что мне собрать, чтобы решить проблему с маной?
+GENERATION TIME: 1.88s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, CORE_MECHANICS, DISPELLABLE, UTILITY, ILLUSIONS, ESCAPE, DISPEL, VS_CONTROL] | Cost: 4650: Creates 2 illusions of your hero that last 18 seconds. Melee illusions deal 33% damage, ranged illusions deal 28% damage, and all illusions take 300% damage. Provides a 0.1 second invulnerability window on cast, and can be used as a basic dispel to remove certain debuffs. Stats: CD: 34s, Mana Cost: 125.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, FARMING_UTILITY, FARMING, SPLIT_PUSH, SAFE_FARM, ILLUSIONS] | Cost: 4650: Provides farming utility by using illusions to push out dangerous lanes safely or accelerate jungle clearing while your hero is elsewhere. The illusions last 18 seconds, allowing them to clear waves or camps. This split-push pressure creates space and forces enemies to reveal themselves. Stats: Illusion Duration: 18s.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, SUSTAIN] | Yasha and Kaya SITUATIONAL_VS_MAGIC: The item itself is not a direct counter to magic damage, but the mana regeneration amplification and intelligence boost help sustain through magic-heavy harassment and fights. It allows the carrier to cast more spells in return or use defensive items more frequently. It is a sustain and scaling choice against magic-based lineups. Stats: +50% Mana Regen Amplification, +16 Intelligence.
+---
+[TAGS: EARTHSHAKER, BASE_STATS, STATS] | Earthshaker is a Melee Strength hero with 22 base Strength, 12 base Agility, and 18 base Intelligence. His base attack time is 1.7 seconds, which is average for a melee caster. His low base Agility and average starting armor make him relatively fragile in the early laning stage before he can secure levels and items.
+---
+[TAGS: ITEM_DATA, SPELL_PRISM, CORE_DESCRIPTION, NEUTRAL, COOLDOWN_REDUCTION, MANA_REGEN, UTILITY, SUSTAIN, SUPPORT_ITEM, ALL_STATS] | Spell Prism, Cost: 0 / Tier Neutral: Neutral item providing +12% Cooldown Reduction, +5 to all attributes, and +2 mana regeneration. Significantly increases spellcasting uptime and general survivability. Primarily beneficial for ability-dependent heroes and supports. Stats: Cooldown Reduction: +12%, All Attributes: +5, Mana Regen: +2.
+---
+[TAGS: SILENCER, ABILITY_DATA, LAST_WORD, SILENCE, NUKER, SCALING_DAMAGE] | Last Word (Q) enchants a single target, providing vision. It deals 120/160/200/240 damage and silences for 3/4/5/6 seconds if the target casts a spell or after the 4-second debuff duration expires. Deals extra damage based on the difference in Intelligence between Silencer and the target, multiplied by 1/1.5/2/2.5. Does NOT pierce BKB. Channeling abilities will trigger the effect once the channel finishes.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, STAT_PROFILE, AGILITY, ATTACK_SPEED, MOVEMENT_SPEED, CARRY_ITEM, UPGRADE] | Cost: 4650: Provides +10 Strength, +26 Agility, +10 Intelligence, +15 Attack Speed, and +10% Movement Speed. Primarily an Agility item offering significant bonus to Attack Speed and Movement Speed. The Yasha-based movement speed bonus does not stack with other Yasha items. Stats: Attributes: +10 Str, +26 Agi, +10 Int.
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, CORE_MECHANICS, SUPPORT_ITEM, AURA, MANA_REGEN, UTILITY, TEAM_BUFF] | Arcane Boots, Cost: 1400: Active ability Replenish restores 150 mana to all allies within a large 1200 radius. Also grants a passive aura providing +1 mana regeneration to nearby allies. A core mana-battery for spell-heavy teams. Stats: CD: 55s, Cost: 1400, Radius: 1200, Mana Restore: 150.
+---
+[TAGS: ITEM_DATA, VOID_STONE, STAT_PROFILE, COMPONENT, MANA_REGEN, SUSTAIN, MANA, UTILITY] | Void Stone, Cost: 700: Purchasable component item that provides +1.75 Mana Regeneration, an essential source of mana sustain for spellcasters and heroes with high mana consumption. It serves as a common building block for more advanced mana-focused items. Stats: Bonus Mana Regen: +1.75.
+---
+[TAGS: ITEM_DATA, WIZARD_GLASS, CORE_DESCRIPTION, NEUTRAL, DEBUFF_AMPLIFICATION, COOLDOWN_REDUCTION, MAGICAL_DAMAGE, AOE_DAMAGE, INSTANT_CAST, UTILITY] | Wizard's Glass, Cost: 0: Neutral item that casts 2 Arcane Bolts upon activation, dealing 125 damage each in a 700 radius. Each bolt reduces target cooldowns by 8 seconds and increases received spell damage by 10%. Instant cast, no target required. Stats: CD: 15s, Damage: 125 per bolt, Radius: 700, Charges: 2.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, TEAMFIGHT_ROLE, UTILITY, DEFENSIVE, DISRUPTION, SURVIVAL, VS_CONTROL] | Cost: 4650: Teamfight role is disruption and creating confusion. Illusions can tank spells, block projectiles, and draw focus away from your real hero. The instant dispel and invulnerability window can be used to dodge stuns, silences, and roots, turning an enemy initiation attempt into a counter-play opportunity. Stats: Illusion Count: 2, Duration: 18s.
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, TEAMFIGHT_ROLE, UTILITY, AURA, BUFF, SUPPORT_ITEM] | Arcane Boots, Cost: 1400: Strong teamfight utility item for sustaining allies' mana pools. The aura passively helps during sieges and stand-offs, while the active can enable key follow-up spells after an engagement. Its value scales with the number of spellcasting allies.
+---
+[TAGS: LESHRAC, SITUATIONAL, PUSH] | Scenario: Need to Push Towers Early. Use the Chronoptic Nourishment facet for mana sustain from attacks on the tower. Max Diabolic Edict first. Use it on cooldown with creep waves to take towers quickly. Build early mana items (Soul Ring, Arcane Boots) to support this. Group with your team to secure objectives.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1.25: Boosts mana regeneration for consistent spellcasting. Stats: Mana Regen: 1.25
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 2.5: Significantly boosts mana regeneration for high-intensity spellcasting. Stats: Mana Regen: 2.5
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MANA_DEPLETION, SUSTAIN] | Void Stone SITUATIONAL_VS_MANA_DEPLETION: Counters situations where mana is quickly depleted, such as against spell-spamming opponents or in prolonged skirmishes, by providing consistent regen to sustain pressure. Stats: Mana Regeneration: +1.75.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, RECIPE] | Eul's Scepter LANING_PHASE: As a recipe, it is purchased later in the build order, typically after its components (Staff of Wizardry, Void Stone, Sage's Mask). Its timing is defined by the total cost of the full item, not the recipe itself. It contributes to an early-to-mid game power spike for heroes who rely on the completed Scepter's utility.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, SPELL_AMPLIFICATION, MANA] | Staff of Wizardry VS_MAGIC: The intelligence stat increases mana capacity and spell damage, making it a core purchase for heroes who need to sustain magic damage output against opponents. Stats: +10 Intelligence.
+---
+[TAGS: ITEM_DATA, DISPERSER, TEAMFIGHT_ROLE, FULL_ITEM, UTILITY, CONTROL, SAVE, DEFENSIVE, DEBUFF] | Disperser, Cost: 6100: Team fight role focuses on powerful single-target control through mana burn and dispel-enabled chase or save. The active can be used offensively to slow and burn a key enemy's mana or defensively to cleanse and speed up an ally. The self-dispel always provides the beneficial effect.
+---
+[TAGS: ANTI-MAGE, SITUATIONAL] | When playing from behind, focus on split-pushing with Blink and Manta illusions. Avoid fights. Use Blink to escape ganks. Farm the enemy jungle if your own is unsafe. Your goal is to reach critical items (Manta, Basher) to become relevant.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, MANA_SUSTAIN] | Arcane Boots Recipe CORE_BUILD / SYNERGIES: This is the final component required to build the full Arcane Boots item. It synergizes with a build order that prioritizes mana sustain for spellcasting heroes and their team. The typical build path is Boots of Speed and Energy Booster, followed by this recipe.
+---
+[TAGS: EARTHSHAKER, ABILITY_DATA, ENCHANT_TOTEM, NUKER] | Enchant Totem (W). Empowers Earthshaker's next attack. Grants 100 bonus attack range and causes the attack to deal 100/200/300/400% of Earthshaker's base damage plus damage from primary attribute as bonus damage. Cooldown is 5.0 seconds at all levels. With Aghanim's Scepter, this ability becomes a leap.
+---
+[TAGS: ITEM_DATA, EULS_SCEPTER_OF_DIVINITY, SYNERGY_BUILD, FULL_ITEM, MOBILITY, MANA_REGEN, UTILITY, SUPPORT_ITEM, CORE_ITEM] | Eul's Scepter of Divinity, Cost: 2600: Key synergy for heroes with delayed or skillshot-based abilities (e.g., Lina, Leshrac) to guarantee their landing. The movement speed and mana sustain benefit mobile, spell-heavy heroes. Often built by supports for utility and by core heroes needing defensive options. Stats: CD: 23s.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, COOLDOWN_REDUCTION, SUSTAIN, LATEGAME] | Spell Prism CORE_MECHANICS: This is a high-tier utility item that reduces all spell and item cooldown times by 12%. Its passive Cooldown Reduction ability enhances a hero's spellcasting frequency and item usage in sustained fights and skirmishes. Stats: Cost: 0 gold (is a neutral item), +12% Cooldown Reduction, +5 All Attributes, +2 Mana Regeneration.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Arcane Boots Recipe TEAMFIGHT_ROLE: This recipe purchase itself has no teamfight impact. It contributes to the completed item's teamfight role, which is to restore mana to the user and nearby allies, enabling more frequent spell usage in engagements. The timing of its purchase influences when this mana sustain becomes available to the team.
+---
+[TAGS: ITEM_DATA, BOOK_OF_SHADOWS, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, SAVE, DEFENSIVE, DISPEL, ESCAPE, NIGHT_VISION, SILENCE, MUTE, DISARM, SELF_DISABLE] | Book of Shadows, Cost: 0: Tier 3 Neutral item. Grants Night Vision (400). Its active, Shadows, targets an enemy, ally, or self, making them untargetable to enemies for 4 seconds, but also silences, mutes, and disarms them. Applies a Basic Dispel on cast. Stats: CD: 8s, Duration: 4s, Night Vision: 400.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, SITUATIONAL_VS_CONTROL, VS_CONTROL, DISPEL, CLEANSE, ESCAPE, DEFENSIVE] | Cost: 4650: Situational against control abilities and silences. The basic dispel effect can immediately remove debuffs like silences, slows, and roots, allowing you to escape or continue fighting. The short invulnerability on activation can be used to avoid follow-up damage or disables. Essential for carries who need to purge enemy control to maintain DPS. Stats: Dispels: Basic.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, WEAK_TO_AOE, ILLUSION_VULNERABLE] | Manta Style HARD_COUNTERS: Countered by abilities and items that quickly clear illusions or apply area-of-effect damage, such as Battle Fury, Maelstrom, and Shiva's Guard. The dispel is ineffective against hard disables like stuns (unless dodged) and most ultimate abilities. Illusions die quickly to magical burst damage. Stats: Illusions take 300% damage, Duration: 18 seconds.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 2: Increases mana regeneration for better spell availability. Stats: Mana Regen: 2
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 3: Dramatically improves mana regeneration for constant spell usage. Stats: Mana Regen: 3
+---
+[TAGS: Ability, Support, Utility] | Mana Drain: A channeling spell that drains mana and slows enemies, while also providing utility to allies. Stats: Mana Drain: 20/40/60/120 per second, Slow: 15%/20%/25%/30%, Cooldown: 15/12/9/6
+---
+[TAGS: STRATEGY, Earthshaker, WEAKNESS] | Earthshaker Weakness: Vulnerable to Silences and disables that prevent casting spells. Break can disable his passive Aftershock.
+---
+[TAGS: SLARDAR, TALENT_LEVEL_DATA, TALENT, TALENT_25] | Talent Level 25: Choice between -3s Slithereen Crush Cooldown and Corrosive Haze Undispellable. The Crush Cooldown talent reduces it from 7s to 4s, allowing near-constant AoE stuns and slows. The Haze Undispellable talent makes the debuff impossible to remove by any means, ensuring the armor reduction and True Sight persist for the full 18 seconds. Choose Crush Cooldown for extreme crowd control and teamfight presence. Choose Haze Undispellable against heroes with strong dispels (e.g., Abaddon, Legion Commander) or Linken's Sphere carriers.
+---
+[TAGS: Silencer, Ability, Crowd Control] | AoE Last Word: Expands Silencer's silencing ability to affect multiple enemies in an area. Stats: Radius: (value)
+---
+[TAGS: ITEM_DATA, MANTA_STYLE, FULL_ITEM, SYNERGY_BUILD, CARRY_ITEM, AGILITY, UPGRADE, ILLUSIONS] | Cost: 4650: Core synergy with heroes who have abilities enhanced by their illusions, such as Chaos Knight or Terrorblade. High-Agility heroes benefit greatly from the Attack Speed and Movement Speed to kite and deal damage. The illusions can apply attack modifiers like Diffusal Blade's mana burn or Skadi's slow. Builds from Yasha, making it a natural progression for Agility cores.
+---
+[TAGS: ITEM_DATA, MANTA_STYLE_RECIPE, CORE_DESCRIPTION, RECIPE, COMPONENT] | Manta Style Recipe. Cost: 1550: Component required to assemble Manta Style. Does not provide stats or abilities.
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, SYNERGY_BUILD, SUPPORT_ITEM, VS_MANA_BURN, UTILITY] | Arcane Boots, Cost: 1400: Ideal for support heroes who need mobility and want to empower their team. Excellent in lineups with high mana-cost abilities or long-duration spell spammers. Counters strategies reliant on mana burn by quickly replenishing pools. The active does not work on Meepo clones.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, UPGRADE_PATH, HIGH_COST] | Guardian Greaves Recipe CORE_BUILD: Builds into Guardian Greaves. Requires Mekansm (2300 gold) and Arcane Boots (1300 gold) to be combined with this 1125 gold recipe. The total investment is a significant gold commitment for a support. Stats: Recipe Cost: 1125 gold.
+---
+[TAGS: Ability, Resource, Scaling] | Mana Bonus: Provides scaling mana pool increases for spellcasters. Stats: Mana: 200/225/250/275/300/350/400/500/600/700
+---
+[TAGS: Ability, Buff, Damage] | Enchant Totem: Boosts Earthshaker’s next attack, increasing damage and attack range. Stats: Bonus Damage: 100%/200%/300%/400%, Duration: 14s, Bonus Attack Range: 100.
+---
+[TAGS: SILENCER, ABILITY_DATA, GLOBAL_SILENCE, ULTIMATE, SILENCE, GLOBAL] | Global Silence (R) is an ultimate ability with a 120-second cooldown. It silences all enemy heroes and units on the map for 4.5/5.25/6 seconds. Does NOT pierce BKB, but the effect is applied to Debuff Immune units; gaining Debuff Immunity after cast will remove it. Works on invisible units. With Aghanim's Scepter, it also applies Arcane Curse to all affected enemies, but multiple Curses do not stack.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, MIDGAME, CORE_BUILD] | Arcane Boots Recipe LANING_PHASE: This is a late lane or early mid-game purchase that signals the intent to complete the full Arcane Boots. Its cost is relatively low, aiming for a completion timing shortly after the initial basic boots, assuming the other components (Energy Booster, Boots of Speed) are acquired. Stats: Cost: 475 gold.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, MANA, SPELL_AMPLIFICATION, STAT_ITEM] | Staff of Wizardry TEAMFIGHT_ROLE: Indirectly contributes by providing the mana resource needed for repeated spellcasting and a slight increase to magic damage output. Typically a stepping stone to more impactful active items. Stats: +10 Intelligence.
+---
+[TAGS: Ability, Disruption, Cooldown] | Destroy Ice Path: Tactical tool for disrupting enemy formations. Stats: Cooldown: 1
+---
+[TAGS: ITEM_DATA, ARCANE_BOOTS, FULL_ITEM, STAT_PROFILE, MOBILITY, MANA_REGEN, UPGRADE, SUPPORT_ITEM] | Arcane Boots, Cost: 1400: Provides +45 movement speed and +0.25 base mana regeneration. Built from Boots and Ring of Basilius, transitioning early mana sustain into a team-wide mana restoration tool.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1.75: Improves mana regeneration for extended combat scenarios. Stats: Mana Regen: 1.75
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 14: Substantially increases mana regeneration for high spell frequency. Stats: Mana Regen: 14
+---
+[TAGS: Ability, Passive, Mana] | Mana Magnifier: Enhances mana pool for sustained spellcasting. Stats: Aura Radius: 900, Bonus Mana Percentage: 15%
+---
+[TAGS: STRATEGY, Earth Spirit, WEAKNESS] | Earth Spirit Weakness: Vulnerable to Silence (disables all abilities) and Break (removes Stone Remnant passives).
+---
+[TAGS: STRATEGY, Earthshaker, ITEM_BUILD, SITUATIONAL] | Earthshaker Situational: Buy Euls Scepter or Lotus Orb vs silences and disables. Consider Force Staff or Ghost Scepter against heavy physical damage.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, SAVE, DEFENSIVE, REPOSITIONING, DISPEL, CC_IMMUNITY] | Wind Waker FULL_ITEM Cost: 6800: Provides a powerful Cyclone ability on a 19-second cooldown for 175 mana. This unit-targeted ability lifts a target (ally, enemy, or self) into a cyclone, making them invulnerable for 2.5 seconds—a duration unaffected by status resistance. It applies a basic dispel on cast and deals 50 magic damage to enemy units when they land. When cast on yourself, you can move the cyclone. Stats: Total Cost 6800g, CD 19s, Mana 175, Cyclone Duration 2.5s, Land Damage 50 magical.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, DEBUFF_AMPLIFICATION] | Wizard Glass SITUATIONAL_VS_MAGIC: A core utility for magic-heavy teams, as the 10% debuff amplification aura effectively increases all magical damage and debuff durations from allies against clustered enemies within 700 range. Stats: Debuff Amplification: 10%, Radius: 700.
+---
+[TAGS: ITEM_DATA, CLARITY, SITUATIONAL_USAGE, CONSUMABLE, UTILITY, ALLY_BUFF, SITUATIONAL_USAGE] | Clarity, Cost: 60: Use from a safe, hidden position to avoid having the buff cancelled by enemy attacks. Ideal for sustaining during a siege where you are not under direct attack, or after winning a fight to recover mana for the next objective. Can be shared with allies to help them sustain.
+---
+[TAGS: ITEM_DATA, NULLIFIER, CORE_MECHANICS, FULL_ITEM, DISPEL, CLEANSE, DEBUFF, SLOW, CATCH, UTILITY] | Nullifier, Cost: 4375: Continuously dispels a single target enemy, applying a debuff for 4 seconds that re-applies dispels every 0.5 seconds and slows them by 10%. Its projectile can be cast on invulnerable units, making it a powerful catch and purge tool against buff-reliant heroes. Stats: CD: 10s, Slow: 10%, Debuff Duration: 4s.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_DEBUFFS, DISPELLABLE, COUNTER_DISABLE] | Manta Style SITUATIONAL_VS_DEBUFFS: Essential against heroes who rely on single-target, non-ultimate disables and debuffs. Counters silences (like Global Silence), roots (like Rod of Atos), and slows, allowing you to re-engage or escape. The invulnerability frame can dodge incoming stun projectiles. Stats: Active provides Basic Dispel.
+---
+[TAGS: ITEM_DATA, EULS_SCEPTER_OF_DIVINITY, TEAMFIGHT_ROLE, FULL_ITEM, SAVE, CATCH, DISABLE, DEFENSIVE, INITIATION, UTILITY] | Eul's Scepter of Divinity, Cost: 2600: Primary defensive and catch tool. Can be used defensively to dodge abilities or save yourself from imminent damage. Offensively, it provides a guaranteed disable to set up skillshots or chain stuns, and dispels certain buffs from enemies. Stats: CD: 23s.
+---
+[TAGS: Storm Spirit, SITUATIONAL, SILENCE, ROOT, DISPEL] | Scenario: Vs Multiple Silences or Roots. Silences are Storm's biggest counter as they disable Ball Lightning. Itemize for Lotus Orb to reflect silences, or Eul's Scepter to self-dispel. A well-timed BKB is critical before engaging. The status resistance from Kaya & Sange helps reduce silence duration.
+---
+[TAGS: ITEM_DATA, STAFF_OF_WIZARDRY, FULL_ITEM, STAT_PROFILE, COMPONENT, INTELLIGENCE, MANA, MANA_POOL] | Staff of Wizardry, Cost: 1000: Permanent component item providing +10 Intelligence. A foundational piece for building larger intelligence-based items like Scythe of Vyse or Aghanim's Scepter. Provides raw mana pool increase and minor mana regen boost. Stats: Intelligence: +10.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, INTELLIGENCE, MANA, COMPONENT] | Staff of Wizardry CORE_MECHANICS: Provides +10 Intelligence, increasing mana pool and spell damage. A fundamental component item for many intelligence-based upgrades. Stats: Cost: 1000 gold, +10 Intelligence.
+---
+[TAGS: ITEM_DATA, CORE_MECHANICS, ACTIVE, COOLDOWN_RESET] | Refresher Orb CORE_MECHANICS: Resets cooldowns of all items and abilities for the user. This provides a tactical reset for powerful ultimates and active items. The ability consumes 400 mana and has a cooldown that increases with level. Shares a cooldown with Refresher Shard. Stats: Cost: 5000 gold, Health Regeneration: +12, Mana Regeneration: +6.0, Damage: +0, Active Mana Cost: 400, Cooldown: 180s / 190s / 200s / 210s.
+---
+[TAGS: ITEM_DATA, DISPERSER, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_BUFFS, DISPEL, CLEANSE] | Disperser, Cost: 6100: Strong situational item against heroes reliant on mana or who are vulnerable to dispels. Counters heroes with key buffs to purge (e.g., Guardian Angel, Bloodlust) and heroes with low mana pools vulnerable to the burn. The self-dispel can also counter enemy roots and slows.
+---
+[TAGS: Ability, Passive, Mana] | Special Reserve: Prevents mana from dropping below a set minimum. Stats: Minimum Mana: 75
+---
+[TAGS: STRATEGY, Earthshaker, LANING] | Earthshaker Laning: Play aggressively with Fissure for zoning and harassing. Use Enchant Totem for last hits and occasional damage bursts. Focus on setting up kills with well-placed Fissures.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, COMPONENT, INTELLIGENCE_ITEMS] | Staff of Wizardry CORE_BUILD: A basic component with no build requirements, used in the recipe for numerous intelligence-focused items. Stats: Cost: 1000 gold, Component quality.
+---
+[TAGS: Ability, Cooldown Reduction, Utility] | Cooldown Reduction Bonuses: Improves spell efficiency by reducing ability cooldowns. Stats: Reduction: 6%/8%/14%/15%/20%/25%/30%/40%/50%/65%
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1.5: Enhances mana regeneration for prolonged engagements. Stats: Mana Regen: 1.5
+---
+[TAGS: ITEM_DATA, EULS_SCEPTER_OF_DIVINITY, SITUATIONAL_VS_CONTROL, FULL_ITEM, VS_MAGIC, VS_PHYSICAL, DISPEL, SAVE, INTERRUPT, UTILITY] | Eul's Scepter of Divinity, Cost: 2600: Situational against heroes reliant on powerful single-target abilities or buffs that can be dispelled. The cyclone prevents channeled spells and can interrupt dangerous abilities. Defensively, it provides a key window of invulnerability against burst physical or magic damage.
+---
+[TAGS: ITEM_DATA, FORCE_STAFF, FULL_ITEM, STAT_PROFILE, INTELLIGENCE, HEALTH, SUSTAIN, SUPPORT_ITEM] | Cost: 2200: Provides +10 Intelligence and +175 Health. These stats offer moderate mana pool expansion and some survivability. The component build requires a Staff of Wizardry and a Fluffy Hat, making it a good early-to-mid game item for intelligence-based supports who need positioning utility.
+---
+[TAGS: Rubick, Ability, Cooldown] | Fade Bolt Cooldown: Improves Rubick's spellcasting frequency. Stats: Fade Bolt Cooldown reduced in seconds
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, RECIPE] | Eul's Scepter TEAMFIGHT_ROLE: The final completed item's role (cyclone, dispel, setup) is unlocked only after the recipe purchase. The recipe itself has no teamfight impact. Acquisition timing is critical to gaining access to the Scepter's defensive and offensive utility for the next engagement.
+---
+[TAGS: ITEM_DATA, LANING_PHASE, EARLY_GAME, MANA, SPELL_AMPLIFICATION] | Staff of Wizardry LANING_PHASE: Moderate cost (1000 gold) allows for early purchase (~5-10 minutes) to boost mana for spell-reliant heroes, aiding in harassment and securing last hits with spells. Stats: Cost: 1000 gold.
+---
+[TAGS: ITEM_DATA, MYSTIC_STAFF, FULL_ITEM, STAT_PROFILE, INTELLIGENCE, MANA, UPGRADE, COMPONENT, SCALING, CORE_ITEM] | Cost: 2800: Mystic Staff provides a significant Intelligence boost for intelligence-based heroes, increasing their mana pool and spell damage. It's a key component for building high-tier intelligence items like Scythe of Vyse, Shiva's Guard, and Eye of Skadi. This item excels in late-game scaling for casters and spellcasters who rely on mana and spell amplification.
+---
+[TAGS: Ability, Cooldown] | Torrent Cooldown: Reduces cooldown for more frequent use in area denial. Stats: Cooldown reduction in seconds.
+---
+[TAGS: Ability, Cooldown, Global] | Special Bonus Unique Wisp 6: Reduces Relocate's cooldown, enabling more frequent global map presence.
+---
+[TAGS: ITEM_DATA, ETERNAL_SHROUD, SITUATIONAL_USAGE, FULL_ITEM, MANA_RESTORE, MANA, SUSTAIN, COUNTER_ITEM] | Eternal Shroud, Cost: 3700: Situational counter against mana burn and silence. The mana restoration from Shroud can offset mana drain effects from heroes like Anti-Mage, Pugna, or Invoker. The item provides raw stats without requiring active spellcasting, making it viable even when silenced, unlike items like Eul's Scepter or Lotus Orb. It sustains your ability to use spells through mana restoration, countering attempts to keep you spell-locked.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MAGIC, SUSTAIN] | Tiara of Selemene SITUATIONAL_VS_MAGIC: Counters lanes or drafts focused on mana burn (e.g., Anti-Mage, Diffusal Blade) by providing a high regeneration rate to offset the drain. It also sustains heroes against spam-heavy magic lineups that force frequent dispels or defensive spell usage. Stats: Bonus Mana Regeneration: +6.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, TEAMFIGHT, UTILITY, DEFENSIVE, SAVE, DISRUPTION] | Serves as a multi-purpose defensive and utility tool in teamfights. The cyclone can save a key ally by removing debuffs and granting them brief invulnerability, disrupt an enemy channeling or initiation, or provide self-safety. Its ability to dispel is crucial for removing silences and roots from teammates.
+---
+[TAGS: Ability, Spectre, Cooldown Reduction] | Haunt Cooldown: Reduces ability downtime for increased map pressure. Stats: Cooldown Reduction: [No specific value]
+---
+[TAGS: Ability, Passive, Mana Regen] | Galvanized: Scales mana regeneration over time based on kills and deaths, enhancing sustainability. Stats: Perma MP per Kill: 0.1, MP per Kill: 0.2, Charges per Ult: 3, Radius: 1200, Charges per Death: 2
+---
+[TAGS: Earth Spirit, Ability, Survivability] | Earth Spirit Magnetizes himself: Allows Earth Spirit to self-cast Magnetize, increasing his survivability and teamfight impact.
+---
+[TAGS: STRATEGY, Earthshaker, ITEM_BUILD, CORE] | Earthshaker Core Build: Blink Dagger and Aghanim's Scepter are essential for initiating and enhancing Echo Slam.
+---
+[TAGS: ITEM_DATA, ENHANCEMENT_ALERT, CORE_DESCRIPTION, NEUTRAL, TIER_1, ATTACK_SPEED, ATTACK_RANGE, VISION, NIGHT_VISION, UTILITY] | Enhancement Alert, Tier 1 / Non-purchasable: Neutral item providing a permanent buff to the player who equips it. Grants bonus attack speed and attack range bonus at higher tiers, as well as increasing night vision. Essential for heroes who rely on attacking from the shadows. Stats: Attack Speed: +10 / +17 / +24 / +31, Attack Range (Melee & Ranged): +0 / +0 / +0 / +100, Night Vision: +0 / +150 / +225 / +300.
+---
+[TAGS: Ability, Mana Regen] | Special Bonus Mana Regen 1: Enhances mana regeneration for better spell uptime. Stats: Mana Regen: 1
+---
+[TAGS: ITEM_DATA, TIARA_OF_SELEMENE, STAT_PROFILE, COMPONENT, UPGRADE, MANA_REGEN, SUSTAIN, MANA, UTILITY] | Cost: 1700: Tiara of Selemene. A component item that provides a large bonus to mana regeneration. Does not grant any other stats or active abilities, focusing purely on sustain for mana-intensive heroes.
+---
+[TAGS: TIMBERSAW, CORE_BUILD, ARCANE_BOOTS, BLINK_DAGGER, AGHANIMS_SCEPTER] | Arcane Boots (or a Mana-focused alternative like Bloodstone) are essential to fuel ability spam, especially Chakram. Blink Dagger is core for instant initiation and repositioning with Timber Chain combos. Aghanim's Scepter provides a second Chakram with the Second Chakram facet, doubling area control and damage, or significantly boosts damage with the Shredder facet.
+---
+[TAGS: ITEM_DATA, VOID_STONE, CORE_MECHANICS, COMPONENT, MANA_REGEN, SUSTAIN, FARMING] | Void Stone, Cost: 700: Its primary value lies in providing persistent mana regeneration to maintain spellcasting without requiring trips back to base. This is crucial for heroes who need to farm or fight constantly in the early to mid-game. Stats: Bonus Mana Regen: +1.75.
+---
+[TAGS: STRATEGY, Earth Spirit, FACETS] | Earth Spirit Facet Strategy: Resonance (Green) is preferred for core builds due to AD bonus with Magnetize remnants, while Stepping Stone (Gray) benefits supports with lower cooldown remnants and Rolling Boulder synergy.
+---
+[TAGS: ITEM_DATA, EULS_SCEPTER_OF_DIVINITY, CORE_MECHANICS, FULL_ITEM, DISABLE, SAVE, DISPEL, REPOSITION, VS_MAGIC, VS_PHYSICAL] | Eul's Scepter of Divinity, Cost: 2600: Self-targetable tool that sweeps a unit into a cyclone, making it invulnerable for 2.5 seconds. Can be used on enemy units or yourself, dealing 50 magical damage to enemies upon landing. Primarily used to disable an enemy or to dodge projectiles and spells. Has a basic dispel interaction. Stats: CD: 23s, Mana Cost: 175, Duration: 2.5s.
+---
+[TAGS: ITEM_DATA, EULS_SCEPTER_OF_DIVINITY, STAT_PROFILE, FULL_ITEM, MANA_REGEN, MANA, MOBILITY, INTELLIGENCE, SUPPORT_ITEM, UTILITY] | Eul's Scepter of Divinity, Cost: 2600: Provides modest Intelligence boost and mana regeneration for spellcasters, alongside movement speed. Stats: +10 Intelligence, +2.5 Mana Regeneration, +20 Movement Speed.
+---
+[TAGS: Ability, Cooldown, Area Control] | Ice Shards Cooldown: Reduces the cooldown of Ice Shards for increased area control and harassment. Stats: Cooldown Reduction: {bonus_AbilityCooldown}s
+
+=== GAME STATE ===
+Match Time: 15:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: earthshaker (Lvl 10) | HP: 1200/1200 | Mana: 80/600 | Alive: true
+Stats: K/D/A 2/1/5 | Gold: 1500 | LastHits: 60
+Inventory: [item_tpscroll x1, item_arcane_boots (CD), item_blink, item_bracer (CD), item_magic_wand x3, item_clarity x1]
+Abilities: [earthshaker_fissure(Lvl4)[NoMana/Silenced] | earthshaker_enchant_totem(Lvl2)[NoMana/Silenced] | earthshaker_aftershock(Lvl2)[NoMana/Silenced] | earthshaker_echo_slam(Lvl1)[NoMana/Silenced]]
+User Situation Notes: Играю на 4-ке Earthshaker. Постоянно не хватает маны на комбо. Враги группируются, но я не могу нормально зайти — после Blink + Ульт у меня нет маны на Fissure.
+
+=== USER QUESTION ===
+"Что мне собрать, чтобы решить проблему с маной?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "Что мне собрать, чтобы решить проблему с маной?".**
+========================================
+
+[AI RESPONSE] (2.41s)
+Используй Arcane Boots, как только они будут доступны, чтобы восстановить ману союзникам, включая себя. Эта вещь обеспечит постоянный приток маны, что поможет тебе осуществлять свои комбо с Earthshaker. Альтернативно, можно рассмотреть покупку Eul's Scepter для дополнительного восстановления маны и возможности самоохраны.

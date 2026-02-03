@@ -1,0 +1,62 @@
+[
+  {
+    "display_text": "Heart of Tarrasque, Cost: 5100: Provides massive health regeneration scaling with missing health. The Behemoth's Blood passive regenerates health equal to 1.5% of your missing HP every second, making you incredibly durable and hard to kill in prolonged engagements. Stats: +40 Strength, +1% Max HP Regen.",
+    "search_text": "tank item, hp regen item, health regeneration, high hp, durability item, survivability, tanky, strength item, Heart, Tarrasque, Heart of Tarrasque, health sustain, missing health regen, hp scaling, carry survival, initiator survivability, HoT",
+    "tags": [
+      "ITEM_DATA",
+      "HEART_OF_TARRASQUE",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "SURVIVAL",
+      "REGEN",
+      "HEALTH",
+      "STRENGTH",
+      "TANK",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Heart of Tarrasque, Cost: 5100: Adds a substantial 40 Strength and increases base health regeneration. These stats directly translate to a huge boost in maximum health, health pool, and health regeneration rate. Stats: +40 Strength, +1% Max HP Regen.",
+    "search_text": "heart stats, tarrasque stats, health stats, strength stats, hp item, hp stats, Heart of Tarrasque stats, health regen stats, tank stats, durability stats",
+    "tags": [
+      "ITEM_DATA",
+      "HEART_OF_TARRASQUE",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "HEALTH",
+      "REGEN",
+      "STRENGTH",
+      "DURABILITY"
+    ]
+  },
+  {
+    "display_text": "Cost: 5100: Functions as a supreme defensive tanking item in team fights, allowing the wielder to absorb immense amounts of damage and recover quickly after disengaging. Its scaling regeneration makes sustained pushes and sieges more resilient for high-health initiators and strength carries. This enables high-ground defense and post-fight recovery.",
+    "search_text": "team fight tank, survivability item, team fight regen, push sustain, siege item, defense item, high ground defense, post-fight recovery, absorb damage, initiator survivability, soak damage, Heart of Tarrasque",
+    "tags": [
+      "ITEM_DATA",
+      "HEART_OF_TARRASQUE",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "REGEN",
+      "PUSH"
+    ]
+  },
+  {
+    "display_text": "Cost: 5100: Highly effective against sustained physical and magical damage output that lacks burst potential. Its regeneration outpaces damage over time, making it strong against heroes that rely on attrition damage rather than instant kills. The raw health makes it more vulnerable to percent-based damage like Culling Blade. Synergy_BUILD: Core item for strength heroes, initiators, and tanks (e.g., Centaur, Axe, Bristleback) who need to survive multiple spell rotations and remain in fights.",
+    "search_text": "situational vs damage over time, counter dot, vs sustain damage, vs attrition, vs physical damage, vs magic damage, strength hero item, tank core item, initiator item, Heart of Tarrasque, hp regen tank",
+    "tags": [
+      "ITEM_DATA",
+      "HEART_OF_TARRASQUE",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_PHYSICAL",
+      "SITUATIONAL_VS_MAGIC",
+      "SYNERGY_BUILD",
+      "TANK",
+      "INITIATOR",
+      "STRENGTH",
+      "VS_DAMAGE_OVER_TIME"
+    ]
+  }
+]

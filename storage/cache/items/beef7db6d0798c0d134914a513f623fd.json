@@ -1,0 +1,58 @@
+[
+  {
+    "display_text": "Ring of Basilius, Cost: 425: Provides a constant aura that grants 1 mana regeneration to all nearby allied units within a 1200 radius. Also grants a small personal mana regeneration bonus. An efficient early game aura for lane sustain and team push. Stats: Radius: 1200, Mana Regen Aura: 1.0, Personal Mana Regen: +0.25.",
+    "search_text": "aura mana regen, mana regeneration aura, early game aura, team mana regen, basilius aura, laning sustain aura, push aura, aura item, mana regen item, support item, Ring of Basilius, RoB, Basi",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_BASILIUS",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "AURA",
+      "MANA_REGEN",
+      "SUSTAIN",
+      "TEAM_BUFF",
+      "UTILITY",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Ring of Basilius, Cost: 425: Primary stat attributes: +0.25 mana regeneration. The item's main value comes from its team-wide Basilius Aura. Provides no direct damage, attack speed, or health bonuses.",
+    "search_text": "ring of basilius stats, basilius stats, aura stats, mana regen stats, support stats, Ring of Basilius",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_BASILIUS",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "MANA_REGEN",
+      "SUPPORT_ITEM"
+    ]
+  },
+  {
+    "display_text": "Ring of Basilius, Cost: 425: Provides a team-wide mana regeneration buff that is most effective when allies are grouped for pushes or early team fights. The constant aura allows spellcasters to sustain their mana pools during extended engagements or sieges. Enhances pushing power by keeping allied creeps and heroes fueled.",
+    "search_text": "team fight mana regen, push aura, mana for pushes, team buff aura, early team fight sustain, group mana regen, team push item, Ring of Basilius",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_BASILIUS",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "AURA",
+      "TEAM_BUFF",
+      "PUSH",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Ring of Basilius, Cost: 425: Synergizes well with heroes who have high mana costs or low natural regeneration, and with teams that want to group early and pressure towers. Often built as a first item on supports or cores who benefit from early mana sustain and plan to fight with their team. A cost-efficient precursor to Vladmir's Offering.",
+    "search_text": "early game mana sustain, basilius support, mana hungry heroes, vladmir's offering build up, early pressure item, laning phase item, mana efficiency, Ring of Basilius",
+    "tags": [
+      "ITEM_DATA",
+      "RING_OF_BASILIUS",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "AURA",
+      "MANA_REGEN",
+      "SUSTAIN",
+      "SUPPORT_ITEM"
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "display_text": "Morphling is a ranged agility hero with 550 base attack range, 1.5 base attack time, and average movement speed (285). He has high starting agility (24) and poor starting intelligence (19). His primary attribute is Agility, which provides armor and attack speed.",
+    "search_text": "Morphling stats ranged agility 550 attack range 1.5 BAT 285 movespeed armor strength 23 agility 24 intelligence 19",
+    "tags": [
+      "MORPHLING",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Morphling has two Facets: 'Ebb' (Agility Primary) and a Strength-focused Facet (unnamed in data). 'Ebb' makes Waveform also attack enemies in its path. Choose 'Ebb' for a carry/agility damage-dealing playstyle, maximizing Waveform's farming and damage. The Strength Facet is for a tankier, initiator/utility build focused on Adaptive Strike stuns and survivability.",
+    "search_text": "Morphling Facets Ebb Agility Primary Waveform attacks path Strength tank utility build",
+    "tags": [
+      "MORPHLING",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In lane, use Agility Shift to gain last-hit damage and armor. Use Waveform (1250 speed, 200 width) at level 1 or 2 for secure ranged last hits and light harassment. Manage mana carefully due to low intelligence. Against physical harass, shift to Strength. Against magical harass, consider more agility for health regen. Use Adaptive Strike (range 700-1000, scaling damage/stun) situationally after level 2-3.",
+    "search_text": "Morphling laning last hit agility shift armor mana management Waveform 1250 speed 200 width harass adaptive strike 700-1000 range",
+    "tags": [
+      "MORPHLING",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Power spikes: Level 4 (max Attribute Shift for fast stats). Level 6 (Morph, 24s duration with Scepter) for replicate ganks or teamfight initiation. Level 12 (Level 2 Morph) for longer uptime. Level 18 (Level 3 Morph). Level 20 talent choice (+15 Agility vs +35 Strength) dictates carry or tank spike. Level 25 talents (+35 Strength vs -40% Waveform Cooldown). Item spikes: Manta Style, Ethereal Blade, Eye of Skadi, Scythe of Vyse, Aghanim's Scepter for stats and utility.",
+    "search_text": "Morphling power spike level 4 attribute shift level 6 Morph 24 seconds level 12 level 18 level 20 talent 25 talent Manta Ethereal Blade Skadi Scythe Aghanim's Scepter",
+    "tags": [
+      "MORPHLING",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Hard counters include heroes with Break (e.g., Silver Edge, Hoodwink) which disables Attribute Shift, preventing Morphling from adjusting his stats. Instant disables and silences (e.g., Skywrath Mage, Death Prophet) prevent Waveform escape and Morph. High burst damage (e.g., Lina, Lion) can kill him during Morph animation or before he can shift to Strength. Percentage-based damage (e.g., Necrophos Reaper's Scythe) punishes high HP from Strength shift.",
+    "search_text": "Morphling counters Break Silver Edge Hoodwink disables Attribute Shift silence Waveform escape burst damage Lina Lion percentage damage Necrophos",
+    "tags": [
+      "MORPHLING",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core build is stat-focused. 1) Dragon Lance/Hurricane Pike for safe attack range and stats. 2) Manta Style (agility, illusions, dispel). 3) Eye of Skadi (all stats, tankiness, and slow). Essential for both agility and strength builds to amplify Attribute Shift scaling.",
+    "search_text": "Morphling core items Dragon Lance Hurricane Pike Manta Style agility illusions dispel Eye of Skadi stats slow",
+    "tags": [
+      "MORPHLING",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Morphling's role is flexible. As agility carry, use Waveform to position, then right-click with high agility. Use Replicate to create confusion or escape. As strength initiator, use Waveform to engage, then Adaptive Strike for a long stun (up to 2.4s). Morph into key enemy heroes to steal crucial abilities (e.g., Black Hole, Ravage). He is a high-survivability split-pusher and backline threat.",
+    "search_text": "Morphling teamfight role agility carry right click Waveform position replicate escape strength initiator adaptive strike stun 2.4s Morph steal abilities split push",
+    "tags": [
+      "MORPHLING",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Ability: Waveform (Q). Morphling surges forward 700/800/900/1000 units, damaging enemies in a 200 width path. Deals damage based on his agility plus a base. He is invulnerable during the dash. Cooldown: 21/18/15/12 seconds. Travel speed: 1250. Does NOT pierce BKB (process_procs: 0).",
+    "search_text": "Waveform Q dash 700 800 900 1000 range 200 width invulnerable cooldown 21 18 15 12 speed 1250 agility damage",
+    "tags": [
+      "MORPHLING",
+      "ABILITY_DATA",
+      "WAVEFORM"
+    ]
+  },
+  {
+    "display_text": "Ability: Adaptive Strike (W). Launches a projectile (1150 speed) that deals 25/50/75/100 base damage plus scaling damage based on Morphling's agility (0.5x to 2.5x multiplier). If agility is 50% higher than strength, uses max multiplier. It also knocks back and stuns the target for 0.5s to 2.4s based on Morphling's strength. If strength is 50% higher than agility, uses max 2.4s stun and 350 knockback distance. Cooldown: 17/14/11/8 seconds. Minimum knockback: 50.",
+    "search_text": "Adaptive Strike W projectile 1150 speed damage 25 50 75 100 agility multiplier 0.5 2.5 stun 0.5 2.4 seconds knockback 50 350 cooldown 17 14 11 8",
+    "tags": [
+      "MORPHLING",
+      "ABILITY_DATA",
+      "ADAPTIVE_STRIKE"
+    ]
+  },
+  {
+    "display_text": "Ability: Attribute Shift (Agility Gain) (E). Toggle ability. Morphling converts 1 Strength point into 1 Agility point every 0.25/0.12/0.08/0.06 seconds (rate of 4/8/12/16 points per second tooltip). Costs 10 mana per point shifted. Can be cast while stunned (castable_while_stunned: 1). Does not convert stats from items.",
+    "search_text": "Attribute Shift Agility Gain E toggle convert Strength to Agility rate 4 8 12 16 per second mana cost 10 can cast while stunned no item stats",
+    "tags": [
+      "MORPHLING",
+      "ABILITY_DATA",
+      "ATTRIBUTE_SHIFT"
+    ]
+  },
+  {
+    "display_text": "Ability: Attribute Shift (Strength Gain) (R). Toggle ability. Morphling converts 1 Agility point into 1 Strength point every 0.25/0.12/0.08/0.06 seconds (rate of 4/8/12/16 points per second tooltip). Costs 10 mana per point shifted. Can be cast while stunned (castable_while_stunned: 1). Does not convert stats from items.",
+    "search_text": "Attribute Shift Strength Gain R toggle convert Agility to Strength rate 4 8 12 16 per second mana cost 10 can cast while stunned no item stats",
+    "tags": [
+      "MORPHLING",
+      "ABILITY_DATA",
+      "ATTRIBUTE_SHIFT"
+    ]
+  },
+  {
+    "display_text": "Ability: Morph (Ultimate) (R). Target an enemy hero to gain their basic abilities for 24 seconds. Can be toggled between Morphling's form and the replicated enemy's form for the duration. With Aghanim's Scepter, duration increases and stats are stolen. Does not copy Shard/Scepter abilities unless Morphling owns the item. Does not trigger spell reflect.",
+    "search_text": "Morph Ultimate R copy enemy hero abilities 24 seconds duration toggle form Aghanim's Scepter steal stats no shard scepter copy unless owned no spell reflect",
+    "tags": [
+      "MORPHLING",
+      "ABILITY_DATA",
+      "MORPH"
+    ]
+  },
+  {
+    "display_text": "Innate Ability: Accumulation. Morphling receives 50% of his stat growth bonuses every half level instead of all at once at level up. Talent Tree bonuses that give All Attributes provide an additional +3 to his primary attribute (Agility with Ebb Facet).",
+    "search_text": "Accumulation innate stat growth 50 percent half level talents all attributes bonus +3 primary attribute",
+    "tags": [
+      "MORPHLING",
+      "ABILITY_DATA",
+      "ACCUMULATION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Shift heavily into Strength for survivability. Build utility items like Scythe of Vyse for control. Use Replicate to farm dangerously with an illusion. Avoid fights, focus on split-pushing with Waveform escape. Max Attribute Shift first to adapt quickly.",
+    "search_text": "Morphling behind losing shift Strength tank utility Scythe of Vyse replicate illusion farm split push Waveform escape max attribute shift",
+    "tags": [
+      "MORPHLING",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Magic Burst. Shift to Strength before engagement to increase HP pool. Consider buying a Linken's Sphere or Black King Bar to survive initial spells. Use Waveform invulnerability to dodge key projectiles. Morph into a tanky enemy hero for extra survivability.",
+    "search_text": "Morphling vs magic burst nuke shift Strength HP Linken's Sphere BKB Waveform dodge invulnerable Morph tanky hero",
+    "tags": [
+      "MORPHLING",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Illusion/Single-Target Heroes. Build Mjollnir and/or Manta Style. Use Agility Shift for high attack speed to clear illusions. Your own Manta illusions benefit from high stats. Use Adaptive Strike (agility build) for high damage against the real hero.",
+    "search_text": "Morphling vs illusions Phantom Lancer Chaos Knight Mjollnir Manta Style agility shift attack speed clear illusions adaptive strike damage",
+    "tags": [
+      "MORPHLING",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Initiate. Use Strength Facet. Build Blink Dagger. Shift to high Strength for a long 2.4s Adaptive Strike stun. Blink in, stun key target, then use Waveform to reposition or deal damage. Morph into an initiator enemy hero (e.g., Tidehunter) for a second round of initiation.",
+    "search_text": "Morphling initiator Strength Facet Blink Dagger high Strength adaptive strike 2.4s stun Waveform reposition Morph copy Tidehunter",
+    "tags": [
+      "MORPHLING",
+      "SITUATIONAL",
+      "INITIATOR"
+    ]
+  },
+  {
+    "display_text": "Scenario: Late Game Carry. Use Ebb Facet. Max Agility Shift. Core items: Eye of Skadi, Satanic, Butterfly, Divine Rapier. Use Replicate on a mobile hero for global mobility and escape. Stay at high agility, using Waveform for positioning and invulnerability frames in fights.",
+    "search_text": "Morphling late game carry Ebb Facet agility shift Eye of Skadi Satanic Butterfly Divine Rapier replicate mobility escape high agility Waveform positioning",
+    "tags": [
+      "MORPHLING",
+      "SITUATIONAL",
+      "LATE_GAME_CARRY"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Left choice is +15% Magic Resistance. Right choice is +12s Morph Duration. Pick Magic Resistance if facing heavy magic damage lineup. Pick longer Morph duration if you are using Morph aggressively to copy key spells often, or need the replicate for extended split-pushing.",
+    "search_text": "Morphling talent level 10 left +15% magic resistance right +12 seconds Morph duration magic damage lineup aggressive copy spells split push",
+    "tags": [
+      "MORPHLING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Left choice is +250 Waveform Range (making it 1250 max range). Right choice is +75 Attack Range (making it 625). Pick Waveform range for better initiation, escape, and farming speed. Pick Attack Range for safer right-click damage in fights, especially as an agility carry.",
+    "search_text": "Morphling talent level 15 left +250 Waveform range 1250 right +75 attack range 625 initiation escape farming right click damage",
+    "tags": [
+      "MORPHLING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Left choice is -3s Adaptive Strike Cooldown (down to 5s at max level). Right choice is +15 Agility. Pick the cooldown reduction if you are playing a utility/strength build focused on spamming the stun. Pick the agility for pure right-click damage and armor if you are the primary carry.",
+    "search_text": "Morphling talent level 20 left -3s Adaptive Strike cooldown 5s right +15 Agility utility stun spam strength build carry damage armor",
+    "tags": [
+      "MORPHLING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Left choice is -40% Waveform Cooldown (down to 7.2s at max level). Right choice is +35 Strength. Pick Waveform cooldown for insane mobility, farming, and damage output, making you nearly unkillable with invulnerability frames. Pick Strength for massive HP pool (over 600 HP) making you extremely tanky and amplifying your Strength-based Adaptive Strike stun duration.",
+    "search_text": "Morphling talent level 25 left -40% Waveform cooldown 7.2s right +35 Strength 600 HP mobility farm invulnerability tanky stun duration",
+    "tags": [
+      "MORPHLING",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

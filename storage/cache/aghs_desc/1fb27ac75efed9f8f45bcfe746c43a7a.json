@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Abyssal Underlord Aghanim's Scepter: Summons a Pit of Malice around each of the portals and reduces cooldown. This upgrade enhances area denial and counters mobility, forcing enemies to avoid or suffer disables when using portals, making it a strong tool for controlling map movement.",
+    "search_text": "Abyssal Underlord Aghanim Scepter area denial anti-mobility map control portal disable",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Abyssal Underlord",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Abyssal Underlord Aghanim's Shard: Firestorm can be allied targeted, following the hero around with increased wave count and faster tick rate. This upgrade transforms Firestorm into a versatile zoning and sustain tool, countering enemy focus fire and enabling Abyssal Underlord to support allies directly in fights.",
+    "search_text": "Abyssal Underlord Aghanim Shard allied target sustain zoning focus fire support",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Abyssal Underlord",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

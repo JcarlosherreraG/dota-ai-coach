@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Enhancement Thick, Cost: 0: Neutral item providing +240 Health, +3 Mana Regeneration, and +7 Armor. A significant durability upgrade for any hero, offering well-rounded survivability through health pool and armor. Stats: Health: +240, Armor: +7, Mana Regen: +3.",
+    "search_text": "neutral item, thick, health item, armor item, survivability neutral, tier neutral, durability item, stats item, neutral upgrade, health armor neutral, Enhancement Thick",
+    "tags": [
+      "ITEM_DATA",
+      "ENHANCEMENT_THICK",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "HEALTH",
+      "ARMOR",
+      "MANA_REGEN",
+      "SURVIVAL",
+      "DURABILITY",
+      "UTILITY"
+    ]
+  }
+]

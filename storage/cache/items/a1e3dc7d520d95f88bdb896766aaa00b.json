@@ -1,0 +1,53 @@
+[
+  {
+    "display_text": "Javelin, Cost: 900: Provides a 25% chance on attack to pierce evasion and deal 60 bonus magical damage. This ability makes it an effective early counter against heroes or items that rely on evasion (e.g., Windrun, Butterfly components). It builds into higher-tier physical damage items like Monkey King Bar and provides a crucial offensive advantage. Stats: Pierce Chance: 25%, Bonus Magic Damage: 60.",
+    "search_text": "javelin, pierce evasion, bonus magic damage, true strike component, evasion counter, magical damage on hit, chance on attack, early evasion counter, Monkey King Bar component, damage item, attack modifier, counter butterfly, Javelin",
+    "tags": [
+      "ITEM_DATA",
+      "JAVELIN",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "VS_EVASION",
+      "TRUE_STRIKE",
+      "MAGICAL_DAMAGE",
+      "PROC",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Javelin, Cost: 900: Offers no primary attribute bonuses (Strength, Agility, Intelligence) or direct attack damage increase. Its value lies entirely in its passive Pierce ability, making it a situational offensive component rather than a stat item.",
+    "search_text": "javelin stats, no stats item, pure utility component, passive damage, component item, build up, no attributes, Javelin",
+    "tags": [
+      "ITEM_DATA",
+      "JAVELIN",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "COMPONENT",
+      "NO_STATS"
+    ]
+  },
+  {
+    "display_text": "Javelin, Cost: 900: Functions as a counter-item against evasion-heavy targets. Its passive proc can turn engagements against heroes with built-in evasion or early Talismans of Evasion. While its chance-based, the bonus magical damage adds consistent pressure throughout the mid-game.",
+    "search_text": "javelin counter, vs evasion, against butterfly, counter windranger, vs phantom assassin, vs evasion heroes, mid game counter, chance based damage, magical pressure, Javelin",
+    "tags": [
+      "ITEM_DATA",
+      "JAVELIN",
+      "SITUATIONAL_VS_EVASION",
+      "FULL_ITEM",
+      "VS_EVASION",
+      "COUNTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Javelin, Cost: 900: Best built on right-clicking heroes who benefit from Monkey King Bar later and need early game anti-evasion. Effective on heroes who lack reliable true strike and rely on frequent attacks to proc its bonus damage, such as ranged agility carries.",
+    "search_text": "javelin build, who buys javelin, javelin carry, for MKB, right click item, early game damage, agility carry, attack speed hero, monkey king bar build, Javelin",
+    "tags": [
+      "ITEM_DATA",
+      "JAVELIN",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "DAMAGE"
+    ]
+  }
+]

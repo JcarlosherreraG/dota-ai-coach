@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Ancient Apparition Aghanim's Scepter: Removes cooldown and reduces manacost of Chilling Touch by 40%. This upgrade transforms Ancient Apparition into a sustained magical damage powerhouse, countering high-health regeneration and tanky lineups by enabling constant magical damage pressure in fights.",
+    "search_text": "Ancient Apparition Aghanim Scepter Chilling Touch no cooldown manacost reduction anti-regen sustained damage",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ancient Apparition",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Ancient Apparition Aghanim's Shard: Freezes enemies hit with Ice Blast for 50% of Cold Feet's duration. This upgrade counters mobile heroes by adding a strong soft-disable effect to Ice Blast, forcing enemies to reposition or risk being frozen mid-fight.",
+    "search_text": "Ancient Apparition Aghanim Shard Ice Blast Cold Feet freeze anti-mobility soft-disable",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Ancient Apparition",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

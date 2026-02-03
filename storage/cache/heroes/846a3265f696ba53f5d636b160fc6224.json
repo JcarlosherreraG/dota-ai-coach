@@ -1,0 +1,206 @@
+[
+  {
+    "display_text": "Skywrath Mage is a Ranged intelligence hero with a base attack time of 1.7 seconds. He has a very low Strength gain (base 21) and Agility gain (base 13), making him exceptionally fragile with low health, armor, and physical damage output. His starting Intelligence of 25 is high, emphasizing his role as a spellcaster. Compared to average heroes, his base stats highlight his extreme glass cannon nature, reliant on spells and positioning.",
+    "search_text": "Skywrath Mage stats ranged intelligence attack rate 1.7 base strength 21 base agility 13 base intelligence 25 fragile low armor low health",
+    "tags": [
+      "Skywrath Mage",
+      "BASE_STATS",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Skywrath Mage has two facets. Shield of the Scion grants him a magic damage barrier when he deals damage to heroes, making him more resilient against retaliatory magic nukes after initiating. Staff of the Scion reduces his Cooldowns when he deals spell damage to enemy heroes, allowing for faster ability cycling and more frequent combos. Choose Shield for survivability in burst-heavy games. Choose Staff for maximum spell uptime and sustained damage output.",
+    "search_text": "Skywrath Mage facets Shield of the Scion magic damage barrier on hero damage Staff of the Scion reduce cooldowns on spell damage facet choice",
+    "tags": [
+      "Skywrath Mage",
+      "FACET_STRATEGY",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Skywrath Mage dominates with his high base intelligence and low cooldown Arcane Bolt (Q). Use Arcane Bolt to harass the enemy laner, as it deals damage based on your intelligence and cannot be disjointed. Secure last hits with his attack animation and Arcane Bolt if needed. At level 2, Concussive Shot (W) provides additional burst and a slow. His fragility means you must position carefully behind creeps or your lane partner. Secure runes with Concussive Shot if needed. Primary goal is to win the lane through attrition and set up kills with your slow and high magic damage.",
+    "search_text": "Skywrath Mage laning phase harass Arcane Bolt last hits Concussive Shot slow fragile positioning",
+    "tags": [
+      "Skywrath Mage",
+      "LANING_PHASE",
+      "LANING"
+    ]
+  },
+  {
+    "display_text": "Skywrath Mage's power spikes are tied to his ultimate and talent levels. Level 6 is a massive spike with Mystic Flare (R), allowing solo kills on low-health or silenced targets. Level 12 with maxed Arcane Bolt and Ancient Seal significantly increases burst. Level 15 talent (+20% Concussive Shot Slow) improves control. Level 20 talent (+10% Ancient Seal Increased Magic Damage) dramatically amplifies combo damage. Level 25 talent (+400 Mystic Flare Damage) is a huge finishing power boost. Essential item spikes are Rod of Atos (for setup) and Aghanim's Scepter (for teamfight area control).",
+    "search_text": "Skywrath Mage power spikes level 6 Mystic Flare level 12 talents 15 20 25 Atos Aghanim Scepter",
+    "tags": [
+      "Skywrath Mage",
+      "POWER_SPIKES",
+      "SPIKES"
+    ]
+  },
+  {
+    "display_text": "Skywrath Mage is hard-countered by heroes and items that counter fragile, spell-reliant heroes. Anti-Mage and Nyx Assassin can reflect or absorb his primary damage (Arcane Bolt). Heroes with high magic resistance (Huskar, Visage) or status resistance (Spirit Breaker) reduce his effectiveness. Instant silences, hexes, or blinks (Storm Spirit, Puck) can jump on him before he can cast. Items like BKB (which blocks all his spells except the non-damaging components), Pipe of Insight, and Glimmer Cape massively reduce his damage output. His low health pool makes him vulnerable to any physical burst.",
+    "search_text": "Skywrath Mage counters Anti-Mage Nyx Assassin magic resistance BKB Pipe Glimmer Cape silence hex burst fragile",
+    "tags": [
+      "Skywrath Mage",
+      "HARD_COUNTERS",
+      "COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Skywrath Mage's core build consists of mana and setup items. Rod of Atos is absolutely essential to root enemies in place for his slow-moving Arcane Bolts and to guarantee the full duration of Mystic Flare. Aghanim's Scepter is a core extension, increasing Mystic Flare's radius and making it a massive area denial and teamfight tool. Boots of Travel are often prioritized for mobility and map presence to use his global or long-range abilities.",
+    "search_text": "Skywrath Mage core items Rod of Atos root Aghanim Scepter Mystic Flare radius Boots of Travel mobility",
+    "tags": [
+      "Skywrath Mage",
+      "CORE_BUILD",
+      "ITEMS"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Skywrath Mage's role is backline artillery and single-target deletion. He initiates or follows up by silencing a key enemy spellcaster or carry with Ancient Seal (E), amplifying all magic damage on them. He then unleashes his full combo: Mystic Flare (R) on the silenced target, followed by spamming Arcane Bolt (Q) and Concussive Shot (W). He must stay at maximum range due to his extreme fragility. His goal is to eliminate one hero instantly at the fight's start, creating a numbers advantage.",
+    "search_text": "Skywrath Mage teamfight role backline artillery single target deletion Ancient Seal silence Mystic Flare combo fragile positioning",
+    "tags": [
+      "Skywrath Mage",
+      "TEAMFIGHT_ROLE",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Arcane Bolt (Q) is Skywrath Mage's primary nuke. It launches a slow-moving (500 speed) bolt that deals 60/90/120/150 base damage plus 1.5x his Intelligence as damage. It has a 875 cast range, cannot be disjointed, and provides 325 vision around the projectile. Upon impact, it reveals the target area for 3.34 seconds. An extra search radius of 500 is listed but not explicitly described in notes. The data shows a 'pierce_spell_immunity' attribute but no value; based on standard mechanics, it does NOT pierce BKB.",
+    "search_text": "Skywrath Mage Arcane Bolt Q nuke slow 500 speed damage 60 90 120 150 int multiplier 1.5 range 875 cannot be disjointed vision 325 reveal 3.34s",
+    "tags": [
+      "Skywrath Mage",
+      "ABILITY_DATA",
+      "Q",
+      "Nuke",
+      "Pure Damage"
+    ]
+  },
+  {
+    "display_text": "Concussive Shot (W) is a global targeted ability. It launches a shot (800 speed) that hits the closest hero within 1600 range of the target point. Upon impact, it deals 120/180/240/300 damage and applies a 40% movement slow in a 250 radius for 4 seconds. It provides 300 vision around the projectile and reveals the impact area for 3.34 seconds. If no enemy heroes are in range, it targets the nearest creep. Damages creeps around the impact area.",
+    "search_text": "Skywrath Mage Concussive Shot W global damage 120 180 240 300 slow 40% radius 250 duration 4s vision 300 search 1600 creep target",
+    "tags": [
+      "Skywrath Mage",
+      "ABILITY_DATA",
+      "W",
+      "Slow",
+      "Global"
+    ]
+  },
+  {
+    "display_text": "Ancient Seal (E) is a single-target silence. It seals an enemy for 3.0/4.0/5.0/6.0 seconds, silencing them and reducing their magic damage resistance by 20/25/30/35%. It has a 14-second cooldown. The magic resistance reduction does not affect creeps. The ability does not inherently pierce spell immunity.",
+    "search_text": "Skywrath Mage Ancient Seal E silence duration 3 4 5 6 seconds magic resist reduction 20 25 30 35% cooldown 14",
+    "tags": [
+      "Skywrath Mage",
+      "ABILITY_DATA",
+      "E",
+      "Silence",
+      "Magic Amp"
+    ]
+  },
+  {
+    "display_text": "Ruin and Restoration is Skywrath Mage's innate ability, granting him Spell Lifesteal. He has 25/30/35/40% Spell Lifesteal from all magical damage he deals. This provides significant sustain during fights and when farming with his spells.",
+    "search_text": "Skywrath Mage innate Ruin Restoration Spell Lifesteal 25 30 35 40% sustain",
+    "tags": [
+      "Skywrath Mage",
+      "ABILITY_DATA",
+      "Innate",
+      "Spell Lifesteal",
+      "Sustain"
+    ]
+  },
+  {
+    "display_text": "Mystic Flare (R) is Skywrath Mage's ultimate. It conjures a 170-radius mystical field for 2.0 seconds, dealing 800/1200/1600 damage distributed evenly among all enemy Heroes in the area every 0.1 seconds. It does not affect creep-heroes like Spirit Bear. Spell immune enemies do not count toward the damage distribution. If no enemy heroes are present, it will damage enemy creeps. Illusions are instantly destroyed by it. The data shows no pierce_spell_immunity attribute, so it does NOT pierce BKB.",
+    "search_text": "Skywrath Mage Mystic Flare R ultimate damage 800 1200 1600 radius 170 duration 2.0s distributed among heroes destroys illusions no creep-heroes",
+    "tags": [
+      "Skywrath Mage",
+      "ABILITY_DATA",
+      "R",
+      "Ultimate",
+      "Burst",
+      "Area"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against high magic resistance or Pipe of Insight carriers. In this situation, Skywrath Mage's damage output is severely gimped. Prioritize items that reduce magic resistance, like Veil of Discord or a late-game Shiva's Guard. Coordinate with teammates who have natural magic resistance reduction (Shadow Demon, Pugna). Use Ancient Seal on the key target to amplify damage before using your combo. Consider itemizing for utility like Force Staff, Glimmer Cape, or Scythe of Vyse to support your team instead of pure damage.",
+    "search_text": "Skywrath Mage vs high magic resistance Pipe Veil Shiva Guard Ancient Seal amp utility items",
+    "tags": [
+      "Skywrath Mage",
+      "SITUATIONAL",
+      "High Magic Resist"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from behind as Skywrath Mage. When underfarmed and under-leveled, you are extremely vulnerable and your damage falls off. Focus on staying alive and providing utility. Use Concussive Shot to safely scout and slow enemies. Use Ancient Seal to silence key initiators in fights. Build cheap survivability items like Force Staff, Glimmer Cape, or a Bracer. Stick with your team and use Mystic Flare to zone enemies or secure kills on supports, avoiding the front line entirely.",
+    "search_text": "Skywrath Mage playing from behind utility scout Concussive Shot silence Ancient Seal survivability Force Staff Glimmer Cape",
+    "tags": [
+      "Skywrath Mage",
+      "SITUATIONAL",
+      "From Behind"
+    ]
+  },
+  {
+    "display_text": "Scenario: Enemy has multiple gap-closers and blinks (e.g., Anti-Mage, Storm Spirit, Spirit Breaker). Your positioning is paramount. Hold your Ancient Seal for when they jump on you or a core teammate. Consider early items like Eul's Scepter to self-dispel or delay, or a Ghost Scepter to evade physical damage. Force Staff is essential for re-positioning. Place defensive vision and never show on the map alone. In fights, stay far back and wait for the enemy to commit their mobility spells before moving in.",
+    "search_text": "Skywrath Mage vs gap closers blinks Anti-Mage Storm positioning Eul Ghost Scepter Force Staff defensive vision",
+    "tags": [
+      "Skywrath Mage",
+      "SITUATIONAL",
+      "Vs Mobile Heroes"
+    ]
+  },
+  {
+    "display_text": "Scenario: You are snowballing with a significant lead. Capitalize on your power spike to aggressively control the map. Rush Aghanim's Scepter after Atos to dominate teamfights with a huge Mystic Flare. Build items that amplify your pick-off potential, like Dagon or Ethereal Blade. Purchase a Bloodstone for sustain and cooldown reduction to spam spells endlessly. Use your mobility from Travels and vision from Concussive Shot to hunt heroes and secure Roshan.",
+    "search_text": "Skywrath Mage snowballing lead Aghanim Scepter Dagon Ethereal Blade Bloodstone pickoff map control",
+    "tags": [
+      "Skywrath Mage",
+      "SITUATIONAL",
+      "Snowballing"
+    ]
+  },
+  {
+    "display_text": "Scenario: Late game against tanky Strength heroes with high HP and BKB. Your pure damage from Arcane Bolt remains relevant, but Mystic Flare is less effective. Itemize for control and survivability. Scythe of Vyse is critical to hex BKB'd targets. Consider Octarine Core for cooldown reduction and spell lifelin. Shard can be valuable. Focus on kiting and chipping down enemies with Arcane Bolts, using your silence and hex to control fights rather than trying to burst through high health pools.",
+    "search_text": "Skywrath Mage late game vs tanky BKB strength heroes Scythe Vyse Octarine Core kiting Arcane Bolt control",
+    "tags": [
+      "Skywrath Mage",
+      "SITUATIONAL",
+      "Late Game"
+    ]
+  },
+  {
+    "display_text": "At Level 10, Skywrath Mage chooses between +1.5 Mana Regen or +125 Arcane Bolt Cast Range. The Mana Regen talent solves his mana sustainability issues, allowing him to spam spells more freely without constant clarities or a Bottle. The Cast Range talent increases his safety and harassment potential, letting him fire Arcane Bolts from 1000 range. Choose Mana Regen if you are struggling with mana or building active items. Choose Cast Range if you are winning your lane and want to press the advantage with safer poke.",
+    "search_text": "Skywrath Mage talent level 10 left 1.5 Mana Regen right 125 Arcane Bolt Cast Range sustain vs safety",
+    "tags": [
+      "Skywrath Mage",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At Level 15, Skywrath Mage chooses between -6s Ancient Seal Cooldown or +20% Concussive Shot Slow. The Ancient Seal cooldown reduction (from 14s to 8s) allows for much more frequent silencing and magic amplification, crucial for sustained fights and pick-offs. The Concussive Shot slow increase (from 40% to 60%) provides significantly stronger control and makes it harder for enemies to escape your combo or chase. Choose the cooldown reduction for more control against spell-reliant heroes. Choose the slow for better kiting and chase against mobile heroes.",
+    "search_text": "Skywrath Mage talent level 15 left -6s Ancient Seal Cooldown right +20% Concussive Shot Slow 60% control vs chase",
+    "tags": [
+      "Skywrath Mage",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At Level 20, Skywrath Mage chooses between Global Concussive Shot or +10% Ancient Seal Increased Magic Damage. Global Concussive Shot allows him to scout and apply a slow anywhere on the map, greatly enhancing his vision and global presence. The Ancient Seal magic damage increase boosts the resistance reduction from 35% to 45%, dramatically amplifying his own and his team's magical burst against a single target. Choose Global Concussive Shot for split-push, vision, and pick-off potential. Choose the magic amp for maximum single-target deletion in teamfights.",
+    "search_text": "Skywrath Mage talent level 20 left Global Concussive Shot right +10% Ancient Seal magic damage 45% amp vision vs burst",
+    "tags": [
+      "Skywrath Mage",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At Level 25, Skywrath Mage chooses between +1.5x Arcane Bolt Int Multiplier or +400 Mystic Flare Damage. The Arcane Bolt multiplier increases its damage scaling from 1.5x Intelligence to 3.0x Intelligence, making his primary spammable nuke hit exponentially harder, especially with high Int items. The Mystic Flare damage increase raises it from 1600 to 2000 total damage, making his ultimate an even more devastating finishing tool. Choose the Arcane Bolt talent for sustained damage and poke. Choose the Mystic Flare talent for ensuring instant kills and overwhelming burst in teamfights.",
+    "search_text": "Skywrath Mage talent level 25 left +1.5x Arcane Bolt Int Multiplier 3.0x right +400 Mystic Flare Damage 2000 total sustained vs burst",
+    "tags": [
+      "Skywrath Mage",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "display_text": "Vindicator's Axe, Tier 3: Neutral item providing +35 Attack Speed and +30 Damage. Its Vengeance passive grants an additional +30 Damage if the equipped hero is Silenced and +20 Armor if the equipped hero is Stunned, making it powerful for heroes under hard control. Also provides +20% Slow Resistance. Stats: Attack Speed: +35, Damage: +30, Armor: +20, Slow Resist: +20%.",
+    "search_text": "neutral item, tier 3 neutral, attack speed neutral, damage neutral, armor neutral, silence counter item, stun counter item, counter control, conditional stats, passive buff, situational neutral, Vindicator's Axe",
+    "tags": [
+      "ITEM_DATA",
+      "VINDICATORS_AXE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_3",
+      "ATTACK_SPEED",
+      "DAMAGE",
+      "ARMOR",
+      "SITUATIONAL_BUFF",
+      "VS_CONTROL",
+      "STATUS_RESISTANCE"
+    ]
+  }
+]

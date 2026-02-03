@@ -1,0 +1,78 @@
+[
+  {
+    "display_text": "Parasma, Cost: 5975: Core intelligence carry item. Your next basic attack applies a 4-second poison dealing 0.75x Intelligence damage per second and slowing by 25%. All attacks reduce the target's Magic Resistance by 20% for 4 seconds. Excellent for magic damage carries to amplify their hybrid damage. Stats: CD: 4s (poison), Int Multiplier: 0.75, Slow: 25% (4s), Magic Resist Reduction: 20%.",
+    "search_text": "intelligence damage item, magic right-click, on-hit magic damage, intelligence scaling, slow on hit, magic resistance shred, intelligence carry item, hybrid damage, poison on attack, mage carry, Parasma, hybrid right-click, magic resistance reduction, slows attacks, int scaling attack",
+    "tags": [
+      "ITEM_DATA",
+      "PARASMA",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "DAMAGE",
+      "INTELLIGENCE_SCALING",
+      "DEBUFF",
+      "SLOW",
+      "MAGICAL_DAMAGE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Parasma, Cost: 5975: Stats: +40 Intelligence, +40 Attack Speed, +7 Armor, +1.5 Mana Regen, +300 Projectile Speed. This profile makes you a durable magic damage dealer with fast attacks, strong mana sustain, and better armor for survivability. The projectile speed boost makes last-hitting and harassing from range more consistent.",
+    "search_text": "parasma stats, +intelligence item, +attack speed item, intelligence carry stats, armor and int, mana regen item, projectile speed, item stats, Parasma stats, intelligence attack speed, armor intelligence, stats breakdown",
+    "tags": [
+      "ITEM_DATA",
+      "PARASMA",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "INTELLIGENCE",
+      "ATTACK_SPEED",
+      "ARMOR",
+      "MANA_REGEN",
+      "PROJECTILE_SPEED",
+      "DAMAGE",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Parasma, Cost: 5975: Enhances a magic damage dealer's right-clicks in team fights. The slow and magic resistance reduction turn your basic attacks into powerful utility tools, enabling you and your team's magic damage to hit harder. It functions as a single-target lockdown and damage amplifier.",
+    "search_text": "parasma team fight, team fight item magic damage, magic amp right-click, team fight utility, single-target debuff, magic damage synergy, slow enemy, reduce magic resist, amplify magic damage, hybrid utility, Parasma team fight, slow lock",
+    "tags": [
+      "ITEM_DATA",
+      "PARASMA",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "MAGIC_AMPLIFICATION",
+      "SLOW",
+      "DEBUFF",
+      "UTILITY",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Parasma, Cost: 5975: Situational versus high-armor, low-magic-resistance heroes. The magic resistance reduction bypasses high armor, making it a good counter pick against agility carries who rely on armor for defense but have lower magic resistance. The slow also helps kite melee cores.",
+    "search_text": "parasma vs armor, magic damage vs armor, counter high armor, vs agility carries, kite melee, vs low magic resist, armor counter item, magic resist shred, high armor counter, magic penetration, Parasma situational, counter agility",
+    "tags": [
+      "ITEM_DATA",
+      "PARASMA",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "VS_PHYSICAL",
+      "MAGIC_AMPLIFICATION",
+      "KITING",
+      "COUNTER_ITEM"
+    ]
+  },
+  {
+    "display_text": "Parasma, Cost: 5975: High synergy for intelligence heroes who benefit from both right-click damage and magic amplification, such as those with inherent spell damage or on-attack effects. Excellent for spellcasting carries or universal heroes building intelligence to convert their attack damage.",
+    "search_text": "intelligence hero item, right-click mage, spell caster carry, universal hero item, int to damage, on-hit int hero, magic carry build, hybrid hero item, int scaling hero, Parasma synergy, magic right-click hero, universal hero int",
+    "tags": [
+      "ITEM_DATA",
+      "PARASMA",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "INTELLIGENCE_SCALING",
+      "HYBRID_DAMAGE",
+      "CARRY_ITEM",
+      "UNIVERSAL_HERO"
+    ]
+  }
+]

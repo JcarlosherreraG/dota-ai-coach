@@ -1,0 +1,77 @@
+[
+  {
+    "display_text": "Cost: 6800: Overwhelming Blink. A powerful upgraded Blink Dagger for Strength heroes that teleports up to 1200 units and deals damage and a slow in a large area around the arrival point. Cannot be used for 3 seconds after taking damage from enemy heroes or Roshan. This creates a strong initiation and repositioning tool with a built-in initiation debuff. Stats: CD: 15s, Teleport Range: 1200, Damage Disable Cooldown: 3s.",
+    "search_text": "overwhelming blink, blink upgrade, strength blink, teleport damage, AoE slow blink, initiation blink, AoE initiation, reposition damage, strength initiator item, mobility nuke, gap closer damage, fight opener slow, area slow, blink debuff, area damage blink, Overwhelming Blink",
+    "tags": [
+      "ITEM_DATA",
+      "OVERWHELMING_BLINK",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "MOBILITY",
+      "POSITIONING",
+      "INITIATION",
+      "AOE_DAMAGE",
+      "DEBUFF",
+      "SLOW",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "Cost: 6800: Overwhelming Blink. Provides +25 Strength, scaling its instant and damage-over-time components. No other attributes or stats are granted. The item's power comes from its active ability and the substantial raw Strength bonus. Stats: Bonus Strength: +25.",
+    "search_text": "overwhelming blink stats, strength blink stats, blink damage stats, Overwhelming Blink stats, strength bonus blink, Overwhelming Blink",
+    "tags": [
+      "ITEM_DATA",
+      "OVERWHELMING_BLINK",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "STRENGTH",
+      "DAMAGE",
+      "UPGRADE"
+    ]
+  },
+  {
+    "display_text": "",
+    "search_text": "initiation item, team fight opener, AoE slow initiation, crowd control blink, strength initiator, fight control, AoE debuff, team fight control, area control, reposition control, Overwhelming Blink",
+    "tags": [
+      "ITEM_DATA",
+      "OVERWHELMING_BLINK",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "INITIATION",
+      "CATCH",
+      "AOE_DAMAGE",
+      "SLOW",
+      "DEBUFF",
+      "CROWD_CONTROL"
+    ]
+  },
+  {
+    "display_text": "Cost: 6800: Overwhelming Blink. Counters mobility and kiting by applying a significant area slow, making it difficult for enemies to escape or re-position after the initiation. The immediate and damage-over-time output punishes heroes who cluster together. Stats: Instant Damage: 100 + 50% Strength, DoT Damage: 100% Strength over 6s.",
+    "search_text": "counter mobility, slow counter, kiting counter, AoE damage counter, strength scaling damage, damage over time, crowd control item, magic damage nuke, Overwhelming Blink",
+    "tags": [
+      "ITEM_DATA",
+      "OVERWHELMING_BLINK",
+      "SITUATIONAL_VS_MOBILITY",
+      "FULL_ITEM",
+      "DEBUFF",
+      "SLOW",
+      "AOE_DAMAGE",
+      "MAGICAL_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Cost: 6800: Overwhelming Blink. Core item for Strength-based initiators and durable cores who can survive in the middle of fights after blinking in (e.g., Centaur Warrunner, Tidehunter, Pudge). The damage scales with Strength, making it a powerful late-game damage and utility spike for heroes who stack Strength. Its high cost makes it a late-game luxury upgrade.",
+    "search_text": "strength hero item, strength initiator, luxury upgrade, late game blink, strength scaling, tank initiator item, high cost upgrade, Overwhelming Blink",
+    "tags": [
+      "ITEM_DATA",
+      "OVERWHELMING_BLINK",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "INITIATOR_ITEM",
+      "LATE_GAME",
+      "SCALING",
+      "STRENGTH"
+    ]
+  }
+]

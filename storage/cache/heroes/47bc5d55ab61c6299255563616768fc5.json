@@ -1,0 +1,273 @@
+[
+  {
+    "display_text": "Centaur Warrunner is a Melee Strength hero. He attacks every 1.7 seconds. His starting stats are 27 Strength, 15 Agility, and 15 Intelligence. This gives him very high starting health and base damage, but low starting armor due to his low Agility. His movement speed is standard. As a melee hero, he is vulnerable to kiting and benefits significantly from mobility items to initiate.",
+    "search_text": "Centaur Warrunner Melee Strength hero stats 1.7 attack rate 27 base strength 15 agility intelligence low armor",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "BASE_STATS",
+      "MELEE",
+      "STRENGTH",
+      "STATS"
+    ]
+  },
+  {
+    "display_text": "Counter-Strike increases Double Edge's damage when Centaur is damaged by enemies, promoting a reactive, tanky playstyle. Horsepower provides a stronger Hitch a Ride by granting Stampede benefits. Choose Counter-Strike if you intend to be the primary damage sponge and initiator. Choose Horsepower if your team needs an enhanced rescue/initiation tool to protect or reposition a core ally frequently.",
+    "search_text": "Centaur Facet Counter-Strike Double Edge damage taken Horsepower Work Horse Hitch a Ride Stampede ally save rescue",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "FACET_STRATEGY",
+      "COUNTER_STRIKE",
+      "HORSEPOWER",
+      "FACET"
+    ]
+  },
+  {
+    "display_text": "Centaur is a dominant lane bully. Use Hoof Stomp at level 1 or 2 to secure last hits, harass, and set up kills. Follow up with Double Edge for massive burst, but be mindful of its self-damage. Use your high base strength to trade hits favorably. Focus on securing a fast Blink Dagger or Hood of Defensetiming. A Magic Stick/Wand is crucial due to frequent spellcasting from enemies.",
+    "search_text": "Centaur laning phase bully Hoof Stomp Double Edge self damage harass trade hits Blink Dagger Hood of Defensemagic stick",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "LANING_PHASE",
+      "BULLY",
+      "LAST_HIT",
+      "LANE"
+    ]
+  },
+  {
+    "display_text": "Power spikes at Level 6 with Stampede for global map presence and saves. Level 12 is a major spike with maxed Hoof Stomp (2.2 second stun) and Double Edge. Level 18 provides maxed Retaliate, making you extremely durable. Item spikes are Blink Dagger for initiation, Heart of Tarrasque for unkillable tanking, and Aghanim's Shard for Hitch a Ride. Talent spikes at 15 (Strength or Retaliate Damage), 20 (Stampede Cooldown or Stun Duration), and 25 (Retaliate Aura or Double Edge Damage).",
+    "search_text": "Centaur power spike level 6 Stampede 12 max Hoof Stomp Double Edge 18 Retaliate Blink Dagger Heart Shard talents 15 20 25",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "BLINK",
+      "TALENTS"
+    ]
+  },
+  {
+    "display_text": "Centaur is hard countered by Break (e.g., Shadow Demon, Viper) which disables his Retaliate passive, making him much less tanky. High physical burst damage (e.g., TA, Drow) can kill him before he can retaliate. Kiting heroes with slows and disables (e.g., Drow, Venomancer) prevent him from getting in range for Hoof Stomp and Double Edge. Pure damage and HP removal bypass his high armor and damage block.",
+    "search_text": "Centaur counter Break Retaliate Shadow Demon Viper physical burst Drow Ranger kiting slows disables pure damage",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "HARD_COUNTERS",
+      "BREAK",
+      "PHYSICAL_BURST",
+      "KITING",
+      "COUNTER"
+    ]
+  },
+  {
+    "display_text": "The absolute core items for Centaur are Blink Dagger and Heart of Tarrasque. Blink Dagger is non-negotiable for instant initiation with Hoof Stomp. Heart of Tarrasque capitalizes on his high Strength, making him incredibly tanky and allowing him to spam Double Edge without fear. A Hood of Defenses or Pipe of Insight is often essential against heavy magic damage lineups.",
+    "search_text": "Centaur core build Blink Dagger Heart of Tarrasque initiation tank Hood Pipe magic resistance",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "CORE_BUILD",
+      "BLINK",
+      "HEART",
+      "TANK"
+    ]
+  },
+  {
+    "display_text": "Centaur's teamfight role is the primary initiator and damage sponge. Your job is to Blink in, use Hoof Stomp to stun multiple enemies, then use Double Edge on a key target. Activate Stampede at the start of the fight to give your team mobility and damage. Soak as much damage as possible with your Retaliate passive. Use Hitch a Ride to save a vulnerable core or bring them into the fight.",
+    "search_text": "Centaur teamfight initiator tank Blink Hoof Stomp stun Double Edge Stampede Retaliate Hitch a Ride save",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "TANK",
+      "FRONTLINE"
+    ]
+  },
+  {
+    "display_text": "Hoof Stomp: After a 0.5 second windup, Centaur stomps the ground, stunning enemies in a 325 radius for 1.6/1.8/2.0/2.2 seconds and dealing 70/140/210/280 magic damage. During the windup, he is disarmed but can move. This ability does NOT pierce BKB.",
+    "search_text": "Hoof Stomp Q stomp stun 0.5 windup 325 radius 1.6 1.8 2.0 2.2 second stun 70 140 210 280 magic damage disarm",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "ABILITY_DATA",
+      "HOOF_STOMP",
+      "STUN",
+      "AOE",
+      "DISARM"
+    ]
+  },
+  {
+    "display_text": "Double Edge: Centaur strikes a target at melee range, dealing magic damage to himself and all enemies in a 220 radius around the target. The damage to enemies is 120/180/240/300 plus 60/90/120/150 bonus damage based on Centaur's strength. Centaur cannot die from this self-damage. This ability does NOT pierce BKB.",
+    "search_text": "Double Edge W nuke self damage 120 180 240 300 damage 220 radius strength damage 60 90 120 150 cannot die",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "ABILITY_DATA",
+      "DOUBLE_EDGE",
+      "NUKE",
+      "SELF_DAMAGE",
+      "MAGIC_DAMAGE",
+      "STRENGTH_SCALING"
+    ]
+  },
+  {
+    "display_text": "Retaliate (Passive): Centaur counters every instance of damage he takes, returning 15/25/35/45 fixed damage plus 16%/24%/32%/40% of his current Strength as damage to the attacker. The damage is returned when the attack hits. This ability deals half damage to towers. This ability does NOT pierce BKB.",
+    "search_text": "Retaliate E passive return damage 15 25 35 45 plus 16 24 32 40 percent Strength damage half damage towers",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "ABILITY_DATA",
+      "RETALIATE",
+      "PASSIVE",
+      "RETURN_DAMAGE",
+      "STRENGTH_SCALING",
+      "DAMAGE_BLOCK"
+    ]
+  },
+  {
+    "display_text": "Work Horse: Centaur hitches a cart behind him. While active, Centaur gains the benefits of his ultimate, Stampede, for 6 seconds. During this time, he can cast Hitch a Ride on a target ally. This ability does NOT pierce BKB.",
+    "search_text": "Work Horse D Hitch a Ride Stampede 6 seconds ally ride cart Hitch a Ride",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "ABILITY_DATA",
+      "WORK_HORSE",
+      "HITCH_A_RIDE",
+      "STAMPEDE",
+      "ALLY_BUFF",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Hitch a Ride: Centaur tosses an allied hero into a cart hitched behind him. The ally is invulnerable and can still cast spells and attack normally, but cannot move independently or be targeted. Lasts 8 seconds. Increases the attack range of melee heroes by 200. This ability does NOT pierce BKB.",
+    "search_text": "Hitch a Ride F ally invulnerable 8 seconds can cast attack cannot be targeted melee attack range +200 save",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "ABILITY_DATA",
+      "HITCH_A_RIDE",
+      "ALLY_SAVE",
+      "INVULNERABILITY",
+      "BUFF",
+      "DISABLE"
+    ]
+  },
+  {
+    "display_text": "Stampede (Ultimate): Centaur leads all allies into a charge, granting them phased movement and max movement speed for 3.5/4/4.5 seconds. Enemies trampled are slowed by 100% for 3 seconds and take damage equal to 2/2.5/3 times Centaur's Strength. Each enemy can be damaged once. Cooldown is 100/95/90 seconds. This ability does NOT pierce BKB.",
+    "search_text": "Stampede R ultimate global speed phased movement 3.5 4 4.5 seconds 100 slow 3 seconds damage 2 2.5 3x Strength 100 95 90 cooldown",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "ABILITY_DATA",
+      "STAMPEDE",
+      "ULTIMATE",
+      "GLOBAL",
+      "SPEED",
+      "SLOW",
+      "STRENGTH_DAMAGE",
+      "PHASED"
+    ]
+  },
+  {
+    "display_text": "When playing against high physical damage cores (e.g., Sven, Drow), prioritize armor items like Assault Cuirass or Shiva's Guard over pure HP. Your Retaliate return damage becomes less effective if you die before attackers take many hits.",
+    "search_text": "Centaur vs physical damage armor Assault Cuirass Shiva Guard Retaliate ineffective if dead fast",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "SITUATIONAL",
+      "VS_PHYSICAL",
+      "ITEMIZATION",
+      "ARMOR"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, your role shifts to a save/protector. Use Stampede defensively to help your team escape. Build utility items like Pipe of Insight, Crimson Guard, or Lotus Orb to bolster your team instead of greedy items like Heart.",
+    "search_text": "Centaur from behind save protector defensive Stampede escape Pipe Crimson Guard Lotus Orb utility",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "UTILITY",
+      "SAVE"
+    ]
+  },
+  {
+    "display_text": "Against high magic burst (e.g., Zeus, Lina), an early Hood of Defenses into Pipe of Insight is mandatory. Consider a Black King Bar to ensure you can get your Hoof Stomp off without being bursted or disabled.",
+    "search_text": "Centaur vs magic burst Hood Pipe BKB Hoof Stomp channel survive",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "SITUATIONAL",
+      "VS_MAGIC",
+      "MAGIC_RESIST",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "With Aghanim's Shard, your Hitch a Ride becomes a powerful initiation and save tool. Use it to bring a hard-hitting melee core like Troll Warlord or Ursa directly onto an enemy backline, or to save a support from a gap-closing assassin.",
+    "search_text": "Centaur Shard Hitch a Ride initiation save melee core Troll Ursa backline save support",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "SITUATIONAL",
+      "WITH_SHARD",
+      "INITIATION",
+      "ALLY_CARRY"
+    ]
+  },
+  {
+    "display_text": "In the late game against illusion heroes (e.g., Phantom Lancer, Chaos Knight), your Retaliate and Double Edge are ineffective. Build area-of-effect damage and control like Shiva's Guard, Mjollnir, or Gleipnir to help clear illusions.",
+    "search_text": "Centaur vs illusions PL CK Retaliate Double Edge bad AOE Shiva Mjollnir Gleipnir clear",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "AOE",
+      "CLEAR"
+    ]
+  },
+  {
+    "display_text": "When your team lacks initiation, you must be the primary Blink initiator. Coordinate with your team to follow up on your Hoof Stomp. If your team has another initiator (e.g., Magnus, Enigma), you can play as a follow-up counter-initiator, using Stampede and Double Edge to disrupt the enemy follow-up.",
+    "search_text": "Centaur primary initiation Blink follow up counter-initiation Stampede Double Edge disrupt",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "SITUATIONAL",
+      "TEAM_COMP",
+      "INITIATION",
+      "COUNTER_INITIATE"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: +4 Health Regen vs +15 Movement Speed. Choose Health Regen if you are facing heavy harass and want to stay in lane/jungle without returning to base. Choose Movement Speed if you need to be more mobile for initiations or rotations before getting Blink Dagger.",
+    "search_text": "Centaur talent 10 +4 Health Regen +15 Movement Speed laning sustain harass mobility rotations Blink",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10",
+      "HEALTH_REGEN",
+      "MOVEMENT_SPEED"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: +10 Strength vs +45 Retaliate Damage. Choose +10 Strength for more overall tankiness, higher Double Edge damage, and more Stampede damage. Choose +45 Retaliate Damage if the enemy team has many fast-attacking heroes (e.g., Windranger, Troll) where the flat return damage will be highly effective.",
+    "search_text": "Centaur talent 15 +10 Strength +45 Retaliate Damage tank Double Edge Stampede damage vs fast attackers Windranger Troll",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15",
+      "STRENGTH",
+      "RETALIATE_DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: -25s Stampede Cooldown vs +0.8s Hoof Stomp Duration. Choose -25s Stampede Cooldown for more frequent teamfight presence, saves, and map mobility. Choose +0.8s Hoof Stomp Duration if you need more reliable lockdown on key targets, especially if you have a Blink Dagger and are the primary initiator.",
+    "search_text": "Centaur talent 20 -25 Stampede cooldown +0.8 Hoof Stomp duration frequent ultimate saves mobility longer stun lockdown initiation",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20",
+      "STAMPEDE_CD",
+      "HOOF_STOMP_DURATION"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Gains Retaliate Aura vs +30% Double Edge Strength Damage. Choose Retaliate Aura to make your entire team significantly tankier against physical damage, especially versus illusion and summon heroes. Choose +30% Double Edge Strength Damage if you need to burst down key targets quickly and are already very tanky, turning Double Edge into an enormous nuke.",
+    "search_text": "Centaur talent 25 Retaliate Aura +30% Double Edge Strength Damage team tank vs illusions physical burst huge nuke",
+    "tags": [
+      "CENTAUR_WARRUNNER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25",
+      "RETALIATE_AURA",
+      "DOUBLE_EDGE_DAMAGE"
+    ]
+  }
+]

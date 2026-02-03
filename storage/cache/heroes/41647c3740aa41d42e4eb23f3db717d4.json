@@ -1,0 +1,272 @@
+[
+  {
+    "display_text": "Pangolier is a Melee hero with a base attack time of 1.7 seconds, indicating a slower than average attack speed. His starting attributes are 19 Strength, 18 Agility, and 16 Intelligence, providing balanced but unexceptional base stats. His attack range and armor are not specified in this data block.",
+    "search_text": "Pangolier stats Melee attack type 1.7 attack rate 19 strength 18 agility 16 intelligence",
+    "tags": [
+      "PANGOLIER",
+      "BASE_STATS",
+      "ATTACK_TYPE",
+      "ATTRIBUTES"
+    ]
+  },
+  {
+    "display_text": "Pangolier has two functional Facets. The Double Jump Facet allows Shield Crash to be cast twice in quick succession, dealing more damage and granting a larger barrier per hero hit. This is excellent for high-mobility plays, burst damage, and survivability in chaotic fights. The Thunderbolt Facet increases Rolling Thunder's forward move speed and turn rate, but decreases its overall duration. This is better for initiating and controlling teamfights where you need to zip through enemies quickly and change direction. The third Facet, Dangerous Liaisons, has no gameplay effect.",
+    "search_text": "Pangolier Facets Double Jump Shield Crash two jumps extra damage barrier Thunderbolt Rolling Thunder faster move turn speed shorter duration",
+    "tags": [
+      "PANGOLIER",
+      "FACET_STRATEGY",
+      "DOUBLE_JUMP",
+      "THUNDERBOLT"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, use Swashbuckle (20/17/14/11 sec CD) to harass from 850 range, dealing 35/65/95/125 damage per slash and applying on-hit effects. The dash also serves as an escape. Lucky Shot provides a 17% chance on any damage you deal to apply a 40/80/120/160 attack speed slow and 3/5/7/9 armor reduction for 3.5/4/4.5/5 seconds, making your trades potent. Shield Crash (15/12/9/6 sec CD) can be used defensively to dodge spells or secure last hits while gaining a barrier of 60/120/180/240 per hero hit.",
+    "search_text": "Pangolier laning Swashbuckle harass dash escape Lucky Shot slow armor reduction Shield Crash barrier dodge last hit",
+    "tags": [
+      "PANGOLIER",
+      "LANING_PHASE",
+      "HARASS",
+      "SURVIVABILITY"
+    ]
+  },
+  {
+    "display_text": "Pangolier's first major power spike is at level 6 with Rolling Thunder, enabling ganks and teamfight initiation. Level 12 (Rolling Thunder level 2) and 18 (level 3) significantly increase the ultimate's duration and stun. Talent levels 10, 15, 20, and 25 provide substantial customization. Key item spikes include Diffusal Blade (for Swashbuckle mana burn), Maelstrom/Mjollnir (for Swashbuckle chain lightning), and Aghanim's Scepter (which empowers Shield Crash).",
+    "search_text": "Pangolier power spikes level 6 Rolling Thunder level 12 18 talents 10 15 20 25 items Diffusal Maelstrom Mjollnir Aghanim Scepter",
+    "tags": [
+      "PANGOLIER",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "TALENTS",
+      "ITEM_TIMINGS"
+    ]
+  },
+  {
+    "display_text": "Pangolier is hard countered by heroes with Break (e.g., Silver Edge, Doom) which disables his Lucky Shot passive. Instant, reliable disables like Hex or Abyssal Blade can stop him during Swashbuckle or Rolling Thunder. Heavy magic damage burst can bypass his physical barrier from Shield Crash. Heroes with high mobility can evade his Rolling Thunder path.",
+    "search_text": "Pangolier counters Break Lucky Shot disabled instant hex stun stop Swashbuckle Rolling Thunder magic burst damage",
+    "tags": [
+      "PANGOLIER",
+      "HARD_COUNTERS",
+      "BREAK",
+      "DISABLES",
+      "BURST"
+    ]
+  },
+  {
+    "display_text": "Core items for Pangolier are Diffusal Blade and Maelstrom. Diffusal Blade's mana burn and slow are applied by each slash of Swashbuckle, massively amplifying its damage and utility. Maelstrom (and later Mjollnir) causes chain lightning procs on each Swashbuckle slash, providing immense wave clear and magical damage in fights. These items synergize perfectly with his kit.",
+    "search_text": "Pangolier core build Diffusal Blade Maelstrom Mjollnir Swashbuckle procs onhit effects mana burn chain lightning",
+    "tags": [
+      "PANGOLIER",
+      "CORE_BUILD",
+      "DIFFUSAL_BLADE",
+      "MAELSTROM",
+      "SYNERGY"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Pangolier's primary role is as a mobile initiator and disruptor. Use Rolling Thunder to roll through the enemy team, knocking back and stunning multiple targets. Follow up with Swashbuckle to inflict heavy damage and apply Lucky Shot debuffs. Use Shield Crash to gain a large barrier and deal AoE damage. He excels at creating chaos, breaking formations, and focusing down key backline heroes with his mobility and damage.",
+    "search_text": "Pangolier teamfight role initiator disruptor Rolling Thunder stun knockback Swashbuckle damage Lucky Shot debuff Shield Crash barrier",
+    "tags": [
+      "PANGOLIER",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "DISRUPTOR",
+      "MOBILE"
+    ]
+  },
+  {
+    "display_text": "Swashbuckle: Pangolier dashes 850 units in a line, then slashes 3 times in the targeted direction. Each slash deals 35/65/95/125 damage to enemies in a 155 radius and slows them by 100% for 0.4 seconds. The dash itself travels 575/650/725/800 units at 2000 speed. The ability has a 20/17/14/11 second cooldown. Swashbuckle applies on-hit effects (like Diffusal Blade or Maelstrom) and can proc Lucky Shot. Does NOT pierce BKB.",
+    "search_text": "Swashbuckle Q dash slash damage 35 65 95 125 slow 100% 0.4s onhit effects Lucky Shot cooldown 20 17 14 11",
+    "tags": [
+      "PANGOLIER",
+      "ABILITY_DATA",
+      "SWASHBUCKLE",
+      "NUKES",
+      "MOBILITY",
+      "SLOW"
+    ]
+  },
+  {
+    "display_text": "Shield Crash: Pangolier jumps in a short arc and slams down, dealing 50/100/150/200 damage in a 500 radius. For each hero hit, he gains a barrier that absorbs 60/120/180/240 damage from all sources, lasting 6 seconds. The cooldown is 15/12/9/6 seconds. If used during Rolling Thunder, he maintains forward momentum and can jump over terrain. With Aghanim's Scepter, the barrier strength is increased and the damage dealt to enemies is increased by 75%.",
+    "search_text": "Shield Crash W jump slam damage 50 100 150 200 barrier 60 120 180 240 per hero cooldown 15 12 9 6 Aghanim Scepter",
+    "tags": [
+      "PANGOLIER",
+      "ABILITY_DATA",
+      "SHIELD_CRASH",
+      "BARRIER",
+      "DAMAGE",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Lucky Shot: Passive. Any damage dealt by Pangolier's attacks or abilities has a 17% chance to reduce the target's armor by 3/5/7/9 and slow their attack speed by 40/80/120/160 for 3.5/4/4.5/5 seconds.",
+    "search_text": "Lucky Shot passive E 17% chance armor reduction 3 5 7 9 attack slow 40 80 120 160 duration 3.5 4 4.5 5",
+    "tags": [
+      "PANGOLIER",
+      "ABILITY_DATA",
+      "LUCKY_SHOT",
+      "PASSIVE",
+      "ARMOR_REDUCTION",
+      "ATTACK_SLOW"
+    ]
+  },
+  {
+    "display_text": "Roll Up: Pangolier curls into a ball, becoming debuff immune and gaining 80% magic resistance for 2.25 seconds. He can turn but not move. If attacked, he will roll away from the attacker, dealing Rolling Thunder damage and stun to enemies in his path. Can be cast during Rolling Thunder to stop temporarily. Has a 0.5 second cast time. Does NOT pierce BKB (he gains immunity, but the effect itself is not a piercing disable).",
+    "search_text": "Roll Up curl ball debuff immune 80% magic resistance 2.25s if attacked roll away Rolling Thunder damage stun",
+    "tags": [
+      "PANGOLIER",
+      "ABILITY_DATA",
+      "ROLL_UP",
+      "IMMUNITY",
+      "MAGIC_RESISTANCE",
+      "COUNTER_ATTACK"
+    ]
+  },
+  {
+    "display_text": "Rolling Thunder: Ultimate. Pangolier curls into a ball, becoming debuff immune and gaining 80% magic resistance. He rolls forward at 550 speed for 10/11/12 seconds, with a turn rate of 120 (increased to 165 after ramping up). Enemies he collides with are knocked back and take 100% of his attack damage plus a bonus, and are stunned for 0.8/1.0/1.2 seconds upon landing. Colliding with terrain causes a bounce. Cooldown is 90/85/80 seconds. Dispels Pangolier on cast with a Basic Dispel. Does NOT pierce BKB (he is immune, but the stun does not affect BKB'd units).",
+    "search_text": "Rolling Thunder ultimate R roll debuff immune 80% magic resistance 10 11 12 sec duration 550 speed knockback stun 0.8 1.0 1.2 sec cooldown 90 85 80 basic dispel",
+    "tags": [
+      "PANGOLIER",
+      "ABILITY_DATA",
+      "ROLLING_THUNDER",
+      "ULTIMATE",
+      "INITIATION",
+      "IMMUNITY",
+      "STUN"
+    ]
+  },
+  {
+    "display_text": "Stop Rolling: A sub-ability that ends Rolling Thunder early.",
+    "search_text": "Stop Rolling end cancel Rolling Thunder",
+    "tags": [
+      "PANGOLIER",
+      "ABILITY_DATA",
+      "STOP_ROLLING",
+      "SUB_ABILITY"
+    ]
+  },
+  {
+    "display_text": "End Roll Up: A sub-ability that ends Roll Up early.",
+    "search_text": "End Roll Up cancel Roll Up",
+    "tags": [
+      "PANGOLIER",
+      "ABILITY_DATA",
+      "END_ROLL_UP",
+      "SUB_ABILITY"
+    ]
+  },
+  {
+    "display_text": "Fortune Favors the Bold: Passive. Enemies within 1200 range of Pangolier have a 40% reduced chance for their random item and ability effects (like critical strikes or bashes) to affect him.",
+    "search_text": "Fortune Favors the Bold passive aura 1200 range 40% reduced chance enemy random effects items abilities",
+    "tags": [
+      "PANGOLIER",
+      "ABILITY_DATA",
+      "FORTUNE_FAVORS_THE_BOLD",
+      "PASSIVE",
+      "AURA",
+      "EVASION"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against High Armor or High Attack Speed Cores. Lucky Shot's armor reduction (up to 9) and attack speed slow (up to 160) are extremely effective. Prioritize landing Swashbuckle and attacks to proc the debuff. Items like Desolator can further amplify the physical damage your team deals to these targets.",
+    "search_text": "Pangolier vs high armor attack speed cores Lucky Shot armor reduction attack slow Swashbuckle procs Desolator",
+    "tags": [
+      "PANGOLIER",
+      "SITUATIONAL",
+      "HIGH_ARMOR",
+      "COUNTER"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing From Behind. Use Swashbuckle to safely clear waves from a distance. Avoid risky initiations with Rolling Thunder; use it primarily as an escape tool. Build survivability items like BKB or Linken's Sphere. Focus on farming with Swashbuckle and Maelstrom until you hit key item timings.",
+    "search_text": "Pangolier playing from behind farm Swashbuckle wave clear Rolling Thunder escape build BKB Linken survivability",
+    "tags": [
+      "PANGOLIER",
+      "SITUATIONAL",
+      "FROM_BEHIND",
+      "FARM",
+      "ESCAPE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Against Heavy Magic Damage Burst. Your natural defenses are strong. Shield Crash grants a barrier per hero hit, and both Roll Up and Rolling Thunder provide 80% magic resistance. Time Roll Up to absorb key spells. Consider a Pipe of Insight for your team or a Hood of Defiance early.",
+    "search_text": "Pangolier vs magic damage burst Shield Crash barrier Roll Up Rolling Thunder 80% magic resistance Pipe of Insight",
+    "tags": [
+      "PANGOLIER",
+      "SITUATIONAL",
+      "MAGIC_DAMAGE",
+      "SURVIVABILITY"
+    ]
+  },
+  {
+    "display_text": "Scenario: When Your Team Lacks Initiation. You are the primary initiator. Use Rolling Thunder to start fights, aiming to hit multiple heroes. The Thunderbolt Facet can help you reach the backline faster. Follow up with Shield Crash on the clustered enemies to gain a massive barrier. Ensure your team is ready to follow up on your engagement.",
+    "search_text": "Pangolier main initiator team Rolling Thunder start fight Thunderbolt Facet backline Shield Crash barrier",
+    "tags": [
+      "PANGOLIER",
+      "SITUATIONAL",
+      "INITIATION",
+      "TEAMFIGHT"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion or Summon Heroes. Swashbuckle with a Maelstrom/Mjollnir is exceptionally powerful, as each slash can proc chain lightning, clearing illusions quickly. Lucky Shot can also proc on each illusion hit, applying its debuffs widely. Rolling Thunder can plow through groups of units.",
+    "search_text": "Pangolier vs illusions summons Swashbuckle Maelstrom Mjollnir chain lightning Lucky Shot procs Rolling Thunder",
+    "tags": [
+      "PANGOLIER",
+      "SITUATIONAL",
+      "ILLUSIONS",
+      "SUMMONS",
+      "CLEAVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Need to Split Push. Swashbuckle clears creep waves rapidly. Rolling Thunder allows you to escape from most gank attempts by rolling through trees and over cliffs. Carry a Teleport Scroll to join fights after pushing. The Double Jump Facet can help you traverse terrain to escape.",
+    "search_text": "Pangolier split push Swashbuckle wave clear Rolling Thunder escape trees cliffs Teleport Double Jump",
+    "tags": [
+      "PANGOLIER",
+      "SITUATIONAL",
+      "SPLIT_PUSH",
+      "ESCAPE",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "Talent Level 10: Choose between +3 Lucky Shot Armor Reduction (left) or +200 Swashbuckle Slash Range (right). The armor reduction increases Lucky Shot's total reduction to 12 at max level, significantly boosting physical damage from you and your team against debuffed targets. The Swashbuckle range increase (from 850 to 1050 total dash range) allows for safer harassment, wave clear, and initiations. Pick the armor reduction against tanky, high-armor heroes. Pick the range for a safer, more mobile playstyle.",
+    "search_text": "Pangolier level 10 talent Lucky Shot armor reduction +3 Swashbuckle slash range +200 left right",
+    "tags": [
+      "PANGOLIER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Talent Level 15: Choose between -2s Swashbuckle Cooldown (left) or +125 Shield Crash Barrier (right). Reducing Swashbuckle's cooldown increases your damage output, wave clear, and mobility frequency. Increasing the Shield Crash barrier by 125 per hero hit dramatically improves your survivability in teamfights, especially when you hit multiple heroes. Pick the cooldown reduction if you need more spam and damage. Pick the barrier if you are being focused or are the primary initiator.",
+    "search_text": "Pangolier level 15 talent Swashbuckle cooldown -2s Shield Crash barrier +125 left right",
+    "tags": [
+      "PANGOLIER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Talent Level 20: Choose between +2s Rolling Thunder Duration (left) or -1.5s Shield Crash Cooldown (right). Increasing Rolling Thunder's duration by 2 seconds allows for more distance covered, more potential stuns, and longer immunity. Reducing Shield Crash's cooldown to as low as 4.5 seconds (with level 4 and talent) makes you incredibly tanky and mobile. Pick the duration if fights are protracted and you need longer crowd control. Pick the cooldown reduction for higher barrier uptime and more frequent jumps.",
+    "search_text": "Pangolier level 20 talent Rolling Thunder duration +2s Shield Crash cooldown -1.5s left right",
+    "tags": [
+      "PANGOLIER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Talent Level 25: Choose between +20% Attack Damage as Swashbuckle Damage (left) or -15s Rolling Thunder Cooldown (right). Adding 20% of your attack damage to each Swashbuckle slash massively increases its physical damage, especially with high-damage items. Reducing Rolling Thunder's cooldown by 15 seconds (to as low as 65 seconds) allows you to use your ultimate in almost every engagement. Pick the Swashbuckle damage to become a primary damage dealer and burst heroes. Pick the cooldown reduction if your team relies on your initiation and crowd control on a very frequent basis.",
+    "search_text": "Pangolier level 25 talent Swashbuckle damage +20% attack damage Rolling Thunder cooldown -15s left right",
+    "tags": [
+      "PANGOLIER",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

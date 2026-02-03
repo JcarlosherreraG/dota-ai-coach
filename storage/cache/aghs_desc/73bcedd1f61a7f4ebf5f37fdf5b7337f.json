@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Zeus Aghanim's Scepter: Nimbus — Creates a global presence threat that counters passive play and high-ground defense. The storm cloud automatically punishes grouped enemies or those hiding in fog, forcing repositioning and disrupting channeling abilities.",
+    "search_text": "Zeus Aghanim Scepter Nimbus global presence anti-high-ground fog disruption channeling counter",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Zeus",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Zeus Aghanim's Shard: Lightning Hands — Counters evasion and physical damage mitigation by converting Zeus' attacks into magical burst. This transforms Zeus into a hybrid right-clicker against low-magic-resistance targets while maintaining his spellcasting role.",
+    "search_text": "Zeus Aghanim Shard Lightning Hands anti-evasion physical mitigation hybrid right-click magical burst",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Zeus",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

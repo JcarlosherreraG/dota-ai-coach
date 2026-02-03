@@ -1,0 +1,279 @@
+FILE: auto_midgame_teamfight.json
+QUESTION: What is the most important tactical advice for next 30 seconds?
+GENERATION TIME: 1.91s
+========================================
+You are a helpful Dota 2 coach. Your goal is to give accurate, immediately usable advice based on the provided Knowledge Base (KB) first. Use general Dota 2 knowledge ONLY when KB has no relevant information, and mention it naturally.
+
+**Tone and Language:**
+*   Write in a natural, conversational way—like helping a teammate.
+*   Always respond in the **SAME LANGUAGE** as the user's question.
+
+---
+
+### SOLUTION HIERARCHY (MUST FOLLOW)
+
+You are **FORBIDDEN** from recommending any purchase until you have analyzed and ruled out solutions using:
+
+1.  **Existing [Rdy] ability or item.** (Highest Priority)
+2.  **Item or ability soon coming off CD.** (Next Priority)
+3.  **Creative or partial use of existing resources.**
+
+---
+
+### MANDATORY INTERNAL ANALYSIS (Thinking Only)
+
+**CRITICAL:** All steps below are for your **INTERNAL THINKING ONLY**. Do **NOT** include them in the final answer.
+
+**Step 1: Resource Check (Principle 0)**
+BEFORE doing ANYTHING else, you MUST write in your thinking:
+*   `INVENTORY CHECK: [full list of ALL items from game state with their status, e.g.: item_arcane_boots (CD), item_mekansm (Rdy)]`
+*   `ABILITIES CHECK: [all abilities with their status, e.g.: shallow_grave [CD 12s], shadow_wave [Rdy]]`
+
+**Step 2: Problem Definition (Principle 1)**
+Clearly define in thinking:
+*   **The Query:** What exactly is the user asking? (e.g., buy item, use ability, positioning, timing).
+*   **Required Mechanic:** What core game mechanic is needed? (e.g., save → dispel/reflect/save; farm → wave clear; escape → mobility).
+*   **Context:** Hero | Enemy threats | Urgency (immediate fight / farming / laning / late game).
+
+**Step 3: Solution Generation & Priority Check (Principle 2)**
+1.  Search KB for ALL entries matching the required mechanic/query type.
+2.  Evaluate if existing items/abilities (Step 1) can solve the problem (even partially).
+3.  Determine the best course of action based on the Solution Hierarchy (Use ready > Wait CD > Purchase).
+
+**Step 3.5: Hero-Item Compatibility Check**
+- Does recommended item fit hero's damage type?
+- Does recommended item fit hero's role (carry/support)?
+- Is this item commonly built on this hero?
+
+**Step 4: Final Verification (MUST write this literally in thinking)**
+`FINAL VERIFICATION:
+- Question type: [save/kill/farm/escape/etc.]
+- Checked every inventory item? YES/NO
+- Checked every [Rdy] ability? YES/NO
+- Best existing solution? [name or 'none']
+- Recommended solution matches question type? YES/NO`
+
+---
+
+### FINAL ANSWER REQUIREMENTS (For the User)
+
+**CRITICAL RULES:** Your final answer must be a short, natural conversation.
+
+**Structure (2-4 sentences max):**
+1.  Main Recommendation: Exact item/ability name and action.
+2.  Brief Explanation: Why it works (matching the mechanic).
+3.  Alternative (Optional): Relevant second choice.
+
+**Specificity & Actionability (Principle 4):**
+*   Recommendations must be immediately executable: "Use X on Y NOW" or "Wait 3s for Z CD."
+*   No vague phrases ("play better", "use items", "group up").
+
+**Forbidden Content:**
+*   ❌ **NEVER** write `INVENTORY CHECK:` or `ABILITIES CHECK:` in the answer.
+*   ❌ **NEVER** include numbered analysis steps (1., 2., 3., etc.).
+*   ❌ **NEVER** include `FINAL VERIFICATION` or any internal thinking text.
+
+**Example of a good short answer:**
+"Buy Manta Style to dispel the silence. It removes Orchid's debuff so you can use your ult and escape. Alternative: Lotus Orb also works but costs more."
+
+---
+
+=== KNOWLEDGE BASE ===
+[TAGS: ITEM_DATA, FORCE_STAFF, FULL_ITEM, TEAMFIGHT_ROLE, SAVE, DEFENSIVE, UTILITY, SUPPORT_ITEM, SURVIVAL] | Cost: 2200: Core defensive utility item that excels at saving allies or repositioning yourself out of danger. Its ability to instantly move a unit without interrupting their actions makes it invaluable for saving stunned or rooted allies or creating distance from enemy initiators. It serves as a reactive defensive tool more than an offensive one.
+---
+[TAGS: ITEM_DATA, MAGIC_WAND, FULL_ITEM, CORE_MECHANICS, SAVE, DEFENSIVE, SURVIVAL, SUSTAIN, UTILITY, BURST_HEAL, BURST_MANA, COUNTER_SPAM] | Cost: 460: Magic Wand provides instant burst healing and mana restoration based on stored charges. Gains a charge (max 20) whenever a visible enemy within 1200 range uses an ability. The active restores 15 health and mana per charge, making it a crucial reactive sustain and survival tool against spell-spamming enemies. Stats: CD: 15s, Max Charges: 20, Restore per Charge: 15 HP/MP.
+---
+[TAGS: ITEM_DATA, SUPER_BLINK, SITUATIONAL_VS_CONTROL, FULL_ITEM, POSITIONING, MOBILITY, ESCAPE] | Super Blink, Cost: N/A: Situational versus heroes that rely on positioning or have long-range disables. The ability to instantly close a specific, predictable distance makes it strong for landing targeted abilities or escaping slow-moving projectiles, but does not help against instant, point-blank control.
+---
+[TAGS: ITEM_DATA, OVERWHELMING_BLINK, CORE_MECHANICS, FULL_ITEM, MOBILITY, POSITIONING, INITIATION, AOE_DAMAGE, DEBUFF, SLOW, UPGRADE] | Cost: 6800: Overwhelming Blink. A powerful upgraded Blink Dagger for Strength heroes that teleports up to 1200 units and deals damage and a slow in a large area around the arrival point. Cannot be used for 3 seconds after taking damage from enemy heroes or Roshan. This creates a strong initiation and repositioning tool with a built-in initiation debuff. Stats: CD: 15s, Teleport Range: 1200, Damage Disable Cooldown: 3s.
+---
+[TAGS: Tidehunter, SITUATIONAL, FROM_BEHIND] | Scenario: Playing From Behind. When behind, your role shifts. Use Ravage defensively to counter-initiate or protect your cores instead of aggressively blinking in. Farm safely with Anchor Smash to clear waves. Build cheaper utility items like Blink Dagger, Force Staff, or Drums of Endurance to remain relevant in fights without expensive items.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, TEAM_COORDINATION, COUNTER_PUSH] | Forebearer's Fortune SITUATIONAL_VS_SETUP: Highly valuable in games where your team can reliably initiate or force predictable 5v5 engagements. Provides a scaling benefit that rewards coordinated team play over chaotic skirmishes. Countered by split-push or pick-off strategies that prevent full-team activation. Stats: Linger Duration: 5.0 seconds (timing window).
+---
+[TAGS: MUERTA, SITUATIONAL, SPLIT_PUSHING] | SITUATION: Split Pushing. With the Ofrenda facet, you can place your respawn point near a dangerous lane, allowing you to aggressively split push. Use Dead Shot to clear waves quickly from a safe distance. Have an escape item (Blink, Force) ready. If you die, you respawn at the Ofrenda, making it very punishing for the enemy to commit on you.
+---
+[TAGS: TECHIES, SITUATIONAL, VS_PUSH] | Scenario: High-Tempo Pushing Lineups. Against heroes like Lycan, Chen, or Death Prophet that want to group and push early, your mine setup time is limited. Max Sticky Bomb first for reliable wave clear and teamfight damage. Use Blast Off! aggressively to stop channeled spells or break up the push. The +200 Blast Off! Damage talent at level 15 becomes very valuable. Place Minefield Sign directly on the creep wave or under your tower to amplify your mine damage during the defense.
+---
+[TAGS: ITEM_DATA, SANGE_AND_YASHA, SITUATIONAL_VS_CONTROL, FULL_ITEM, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, SURVIVABILITY, DEFENSIVE] | Cost: 4200: Excellent against teams with multiple disables and slows. The status resistance reduces stun and silence durations, while the slow resistance reduces the impact of movement impairing effects. The health regen amplification synergizes with other sources of regen and lifesteal. Stats: Status Resistance: +15%, Slow Resistance: +25%, Health Regen Amp: +20%.
+---
+[TAGS: ITEM_DATA, ARCANE_BLINK, FULL_ITEM, SYNERGY_BUILD, UPGRADE, INITIATOR_ITEM, LATE_GAME_ITEM, SPELLCASTER_ITEM] | Arcane Blink, Cost: 6800: Ideal for high-mana, high-impact spellcasters and initiators who need to land combos after a long-range blink (e.g., Magnus, Enigma, Tidehunter). The mana restore ensures ability follow-through, and the Intelligence scales with spell damage. A luxury upgrade for Blink Dagger users.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Force Staff Recipe TEAMFIGHT_ROLE: As a recipe, it has no direct role in teamfights. Its purpose is to enable the Force Staff, which provides repositioning and escape utility for team engagements. Stats: Cost: 950 gold.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS] | Force Staff Recipe HARD_COUNTERS: The recipe item itself has no counters. The completed Force Staff can be countered by instant silences or hexes that prevent its activation. Stats: Cost: 950 gold.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, DEFENSIVE, FRONTLINE] | Witless Shako TEAMFIGHT_ROLE: Enhances a hero's ability to frontline and survive focused damage in prolonged engagements. The HP boost is crucial for heroes who are naturally mana-independent or rely on health-based sustainability. Stats: Max Health Increase: +1350.
+---
+[TAGS: Ability, Invoker, Spellcasting, Versatility] | Invoke: Allows Invoker to combine elemental orbs to cast unique spells, with cooldown reduction based on orb levels. Stats: Max Spells: 2, Cooldown Reduction per Orb: 0.3
+---
+[TAGS: ANTI-MAGE, SITUATIONAL] | When playing from behind, focus on split-pushing with Blink and Manta illusions. Avoid fights. Use Blink to escape ganks. Farm the enemy jungle if your own is unsafe. Your goal is to reach critical items (Manta, Basher) to become relevant.
+---
+[TAGS: ITEM_DATA, HARD_COUNTERS, COUNTERED_BY_BKB] | Searing Signet HARD_COUNTERS: The burn is completely negated by spell immunity (BKB) and is less effective against heroes with high magic resistance or healing/regen. The effect will not trigger if you are more than 2000 range away from the target. Stats: Max Range: 2000, Creep Penalty: 50%.
+---
+[TAGS: Ursa, Abilities, Survivability] | Ursa Enrage: Grants massive survivability and debuff resistance, making Ursa harder to kill. Stats: Damage Reduction: 80%, Status Resistance: 50%, Duration: 4/4.5/5
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, UTILITY] | Ring of Regen TEAMFIGHT_ROLE: Primarily a utility component; its role in fights is indirect. It provides sustain to build into other items like Headdress or Hood of Defiance, which offer teamfight benefits. The regeneration helps sustain between engagements. Stats: Health Regeneration: +1.25.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, INITIATION, CATCH, LOCKDOWN, INTERRUPT] | Warhammer (FULL_ITEM) (Cost: 0): Functions as a targeted disable and burst damage tool. The stun interrupts channeling spells and provides a window for follow-up attacks or abilities. It's effective for focusing key targets or securing kills on mobile enemies.
+---
+[TAGS: STRATEGY, Tidehunter, FACETS] | Tidehunter Facet Strategy: Kraken Swell enhances Kraken Shell with Damage Block when enemies die under Anchor Smash, making it ideal for frontline tanking. Krill Eater scales Tidehunter's size and bonuses per level, suited for late-game durability.
+---
+[TAGS: ITEM_DATA, FORCE_STAFF, FULL_ITEM, STAT_PROFILE, INTELLIGENCE, HEALTH, SUSTAIN, SUPPORT_ITEM] | Cost: 2200: Provides +10 Intelligence and +175 Health. These stats offer moderate mana pool expansion and some survivability. The component build requires a Staff of Wizardry and a Fluffy Hat, making it a good early-to-mid game item for intelligence-based supports who need positioning utility.
+---
+[TAGS: ITEM_DATA, FULL_ITEM, TEAM_BUFF, TEAMFIGHT, PUSH] | A teamfight-enabling utility item. The active ability should be used at the start of a major engagement or objective push to maximize the value of the +15 all stats buff across your team. The large 450 AoE makes it effective for grouped teamfights and high-ground sieges. The bonus cast range allows the user to safely apply the buff from the edge of a fight.
+---
+[TAGS: ITEM_DATA, PSYCHIC_HEADBAND, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, DISPLACEMENT, CROWD_CONTROL, DISABLE, SAVE, INITIATION, POSITIONING] | Psychic Headband, Tier 3: Neutral item with Psychic Push ability that forcibly moves a target unit 400 distance away from you over 0.3 seconds. Single-target repositioning tool usable on both heroes and basic units. Does not trigger spell block or spell reflect. Stats: CD: 15s, Range: 0 (instant cast on target), Push Distance: 400, Push Duration: 0.3s.
+---
+[TAGS: ITEM_DATA, ARCANE_BLINK, FULL_ITEM, SITUATIONAL_USAGE, UPGRADE, LATE_GAME_ITEM, EXPENSIVE] | Arcane Blink, Cost: 6800: Primarily a situational luxury upgrade for Blink Dagger carriers who also benefit from Intelligence. Consider against lineups that apply frequent hero damage, as the 3-second damage lockout is a key weakness. The item's high cost delays other core items.
+---
+[TAGS: Tidehunter, TALENT_LEVEL_DATA, TALENT, TALENT_10] | Talent Level 10: Left talent offers +10% Anchor Smash Damage Reduction, increasing the debuff from -40% to -50% at max level. Right talent offers +20% Gush Slow, increasing the slow from 40% to 60%. Choose the left talent if you are facing heavy right-click physical damage carries. Choose the right talent if your team needs more catch and lockdown on slippery targets.
+---
+[TAGS: STRATEGY, Tidehunter, ITEM_BUILD, CORE] | Tidehunter Core Build: Blink Dagger for initiation and Pipe of Insight for magic resistance.
+---
+[TAGS: STRATEGY, Muerta, ITEM_BUILD, CORE] | Muerta Core Build: Maelstrom is essential for farming and teamfight damage, while Black King Bar is crucial for survivability in fights.
+---
+[TAGS: Ability, Damage, Critical Strike] | Critical Strike (140%): Increases critical strike chance by 50%. Tactical purpose: High-frequency crits with moderate damage multiplier for sustained damage output.
+---
+[TAGS: ITEM_DATA, GLEIPNIR, FULL_ITEM, SYNERGY_BUILD, UPGRADE, INTELLIGENCE_HERO, UTILITY, INITIATION] | Gleipnir, Cost: 4550: Synergizes with heroes possessing other AOE disables or damage to chain crowd control. Core on intelligence heroes who want utility and tankiness. Good follow-up to Blink Dagger for instant AOE initiation. Upgrades from Rod of Atos and Point Booster.
+---
+[TAGS: ITEM_DATA, OVERWHELMING_BLINK, STAT_PROFILE, FULL_ITEM, STRENGTH, DAMAGE, UPGRADE] | Cost: 6800: Overwhelming Blink. Provides +25 Strength, scaling its instant and damage-over-time components. No other attributes or stats are granted. The item's power comes from its active ability and the substantial raw Strength bonus. Stats: Bonus Strength: +25.
+---
+[TAGS: ITEM_DATA, UNRELENTING_EYE, CORE_DESCRIPTION, NEUTRAL, TIER_3, UTILITY, SLOW_RESISTANCE, STATUS_RESISTANCE, DEFENSIVE, SURVIVAL] | Unrelenting Eye, Tier 3 Neutral: Provides the Relentless passive, granting 50% slow resistance. This resistance decreases by 10% for each enemy hero within your attack range. A situational defensive tool that is most effective when you are isolated or separated from enemies. Stats: Max Slow Resistance: 50%, Reduction per Enemy Hero: 10%.
+---
+[TAGS: Ability, Summon, Damage] | Will-O-Wisp: Summons a wisp that mesmerizes enemies, dealing area damage. Stats: Radius: 725, Damage: 85, Hit Count: 7, Cast Range: 800
+---
+[TAGS: Invoker, Crowd Control, Teamfight] | Tornado: Disruptive teamfight tool that displaces enemies and deals magic damage, with duration and distance scaling based on Quas and Wex. Stats: Lift Duration: 1.2-3s, Travel Distance: 1500-4200, Base Damage: 50, Added Damage: 45-450
+---
+[TAGS: ITEM_DATA, SUPER_BLINK, CORE_MECHANICS, FULL_ITEM, MOBILITY, POSITIONING, ESCAPE, INITIATION] | Super Blink, Cost: N/A: Instantly teleports your hero up to 1200 units in the targeted direction, but will not blink further than 960 units from your original cast point. This clamps the maximum travel distance, preventing you from overshooting your intended landing zone. A core mobility tool for precise repositioning. Stats: CD: 15s, Max Range: 1200, Clamp Range: 960.
+---
+[TAGS: STRATEGY, Tidehunter, WEAKNESS] | Tidehunter Weakness: Vulnerable to Break (disabling Kraken Shell) and high burst damage before Kraken Shell activates.
+---
+[TAGS: ITEM_DATA, FORCE_STAFF, FULL_ITEM, SYNERGY_BUILD, SUPPORT_ITEM, UTILITY, DEFENSIVE, SURVIVAL] | Cost: 2200: High-synergy item for heroes who lack mobility or have channeled abilities that require distance (Crystal Maiden, Witch Doctor). Also works well with heroes who can force enemies into positions for follow-up stuns or terrain abilities. A core defensive item for position 4/5 supports who need to keep their cores alive.
+---
+[TAGS: ITEM_DATA, FORCE_STAFF, FULL_ITEM, SITUATIONAL_VS_CONTROL, VS_CONTROL, ESCAPE, SURVIVAL, DEFENSIVE, REACTIVE] | Cost: 2200: Situational vs aggressive initiators and catch-heavy lineups. Force Staff counters enemy gap-close and allows allies to escape from danger zones. It is a reactive purchase against heroes who rely on getting on top of your team and locking them down, providing a crucial escape tool that can't be interrupted by most disables.
+---
+[TAGS: Ability, Defensive, Status Resistance] | Status Resistance Bonus: Reduces the duration of negative status effects. Stats: Status Resistance: 10%
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, UTILITY] | Smoke of Deceit CORE_BUILD: A consumable with no components. Key synergy is with heroes that have long-range initiation or require close positioning for spells. The movement speed boost helps close gaps quickly. Effective usage relies on team coordination. Stats: Cost: 50 gold.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_PUSH, DEFENSIVE] | Pocket Tower SITUATIONAL_VS_PUSH: Functions as a counter-push and anti-siege tool. It can be placed behind your own structures to add an extra defensive tower during high-ground defenses or dropped to halt an enemy creep wave's advance, buying precious time. Stats: Point Target behavior.
+---
+[TAGS: ITEM_DATA, BRACER, SYNERGY_BUILD, FULL_ITEM, UPGRADE, COMPONENT, UTILITY] | Bracer, Cost: 505: Core recipe component for powerful items like Drum of Endurance and Rod of Atos. Purchasing Bracers early in the laning stage builds into mid-game power spikes. Timing matters as its flat stat efficiency is best during the first 15 minutes. Stats: Cost: 505.
+---
+[TAGS: STRATEGY, Morphling, ITEM_BUILD, CORE] | Morphling Core Build: Ethereal Blade (burst combo) and Satanic (sustain). Echo Sabre/Dragon Lance for mid-game.
+---
+[TAGS: ITEM_DATA, OUTWORLD_STAFF, CORE_DESCRIPTION, NEUTRAL, INVULNERABILITY, SURVIVAL, DEFENSIVE, UTILITY, REPOSITIONING] | Outworld Staff, Cost: 0: A legendary neutral item providing no stats. Its active ability, Self-Exile, makes the caster invulnerable and untargetable for 0.7 seconds. Upon returning, the caster takes 5% of their max health as damage, which is non-lethal but disables Blink Dagger. Stats: CD: 30s, Mana: 65, Duration: 0.7s, Return Damage: 5% Max HP.
+---
+[TAGS: ITEM_DATA, OVERWHELMING_BLINK, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, LATE_GAME, SCALING, STRENGTH] | Cost: 6800: Overwhelming Blink. Core item for Strength-based initiators and durable cores who can survive in the middle of fights after blinking in (e.g., Centaur Warrunner, Tidehunter, Pudge). The damage scales with Strength, making it a powerful late-game damage and utility spike for heroes who stack Strength. Its high cost makes it a late-game luxury upgrade.
+---
+[TAGS: ITEM_DATA, BOOTS_OF_BEARING, SYNERGY_BUILD, FULL_ITEM, AURA, BUFF, UPGRADE] | Boots of Bearing, Cost: 4225: Synergizes with heroes who benefit from attack speed and want to build Drums of Slaughter, such as aura-based initiators (e.g., Undying) or core heroes who are already building for team fights. It's a natural upgrade for heroes who bought Tranquil Boots and need a late-game aura. Builds from Tranquil Boots, Drums of Slaughter, and Ring of Tarrasque.
+---
+[TAGS: SAND_KING, SITUATIONAL, VS_BKB, CONTROL] | Scenario: Enemy team has multiple BKB carriers. Burrowstrike does NOT pierce BKB, so you must initiate before they activate BKB or focus on non-BKB targets. Epicenter slow does not pierce BKB. Your value comes from controlling supports and applying Caustic Finale explosions from non-BKB kills. Shiva's Guard active slow is crucial.
+---
+[TAGS: PUGNA, SITUATIONAL, VS_BKB] | Scenario: Enemy has multiple BKB carriers. Without Aghanim's Scepter, your damage and control are heavily mitigated. Rush Aghanim's Scepter to allow Life Drain to pierce BKB. Your role shifts to focusing on the BKB'd target with Life Drain while using Decrepify and Nether Blast on other targets. Consider items like Scythe of Vyse to control other enemies.
+---
+[TAGS: ZEUS, SITUATIONAL, VS_BKB] | Scenario: Enemy cores have Black King Bar. Your spells do NOT pierce BKB. You must focus on controlling and killing supports before BKB duration, or using Nimbus to hit enemies outside of BKB. Itemize for utility like Octarine Core for lower cooldowns on Nimbus and ults, or Refresher Orb for double Thundergod's Wrath burst when BKB is down.
+---
+[TAGS: JAKIRO, ABILITY_DATA, MACROPYRE, ULTIMATE, AREA_DAMAGE, NUKER] | Macropyre is Jakiro's ultimate. He exhales a line of fire 1400 units long and 500 units wide that lasts 10 seconds. It deals 100/150/200 magic damage per second to enemies in the area. Enemies continue to burn for 1 second after leaving the area. Cooldown is not specified in the raw data. Does NOT pierce BKB.
+---
+[TAGS: Ability, Control] | God's Rebuke Slow Duration Increase: Prolongs the slow effect of God's Rebuke, providing better control over enemy movement. Stats: Slow Duration: {bonus_knockback_slow_duration}s
+---
+[TAGS: ITEM_DATA, HEADDDRESS, SYNERGY_BUILD, FULL_ITEM, AURA, SUPPORT_ITEM, UTILITY, UPGRADE_COMPONENT] | Headdress, Cost: 425: Synergy build: Cost-effective early game aura for heroes looking to upgrade into Mekansm or build for pushes. Ideal for supports or initiators who stay near their team. Provides value before Mekansm is assembled.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, HERO_SPECIFIC] | Aghanim's Blessing - Roshan SITUATIONAL_VS_BKB: The upgrade's effectiveness vs BKB depends on the specific hero's upgraded ability; some upgrades may grant BKB-piercing effects, others may not. It must be analyzed per hero. Stats: No inherent BKB interaction.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_MOBILE] | Force Staff Recipe SITUATIONAL_VS_[TYPE]: The recipe itself does not counter any hero type. The completed Force Staff it creates is effective against heroes with powerful single-target disables or slows, allowing allies to break free. Stats: Cost: 950 gold.
+---
+[TAGS: MEEPO, TEAMFIGHT_ROLE] | In teamfights, Meepo's role is to burst down key targets using multiple clones. Use Earthbind to root enemies, then Poof all clones onto the target for massive damage. Use Dig to dispel and become invulnerable to avoid focus fire. In MegaMeepo form, he flings clones for damage and slow while gaining stats from his other Meepos.
+---
+[TAGS: ITEM_DATA, TEAMFIGHT_ROLE, POWER_SPIKE, UTILITY] | Tome of Aghanim TEAMFIGHT_ROLE: Used before a major fight to grant a crucial Scepter-upgraded ability to an ally. Enables surprise power spikes and can be the deciding factor in taking objectives like Roshan or high ground. Stats: Duration: 3 minutes.
+---
+[TAGS: MEDUSA, SITUATIONAL, DEFENSE, HIGH_GROUND, STALL, LATE_GAME] | Scenario: Playing from Behind / Defending High Ground. Medusa excels at defending with Split Shot clearing waves and Stone Gaze zoning the choke. Prioritize survivability items like Skadi and Butterfly. Use Mystic Snake to farm safely. Your Mana Shield makes you very hard to dive under tower. Drag the game out to reach your late-game potential.
+---
+[TAGS: Ability, Passives, Survivability] | Quas/Wex/Exort Active Bonuses: Enhances Invoker's versatility and survivability with amplified passive effects.
+---
+[TAGS: ITEM_DATA, OGRE_SEAL_TOTEM, CORE_DESCRIPTION, NEUTRAL, NON_PURCHASABLE, MOBILITY, INITIATION, AOE_DAMAGE, MAGICAL_DAMAGE, SLOW, CATCH] | Ogre Seal Totem, Tier N / Non-Purchasable: Activate to flop forward up to 400 units twice, dealing 250 magical damage and applying a 100% slow to enemies in a 275 radius for 1.5 seconds on each impact. Provides mobile initiation and chase with two burst damage and control instances. Stats: CD: 40s, Mana Cost: 25, Bounces: 2, Leap Speed: 800, Radius: 275, Slow Duration: 1.5s.
+---
+[TAGS: ITEM_DATA, ARCANE_BLINK, FULL_ITEM, TEAMFIGHT_ROLE, INITIATION, MOBILITY, SURVIVAL] | Arcane Blink, Cost: 6800: A high-impact initiation and repositioning tool that also heals and restores mana, allowing casters to commit to a fight after blinking. The sustain helps mitigate poke damage that would disable the item. Its long range enables deep dives and decisive team fight starts.
+---
+[TAGS: Tidehunter, LANING_PHASE, LANE] | In the laning phase, prioritize Gush (Q) for its 100/160/220/280 magical damage and 40% slow, creating kill threat with a lane partner. His high base Strength (27) provides good HP for trading. Use Anchor Smash on the enemy hero and creeps to reduce their damage by -25/-30/-35/-40 for 6 seconds, securing last hits while harassing. Kraken Shell passively blocks 15/35/55/75 physical damage from heroes, mitigating harassment. As a melee hero, focus on pulling, denying, and using Anchor Smash to secure the ranged creep.
+---
+[TAGS: Tidehunter, Ability] | Blubber effect triggers Anchor Smash: Enhances Tidehunter's survivability by linking Blubber damage reduction with Anchor Smash's area-of-effect attack. Stats: None
+---
+[TAGS: Ability, Point Target, Crowd Control] | Tendrils of the Deep: Sends a cone of tentacles to damage and stun enemies, effective for crowd control. Stats: Damage: 120-180, Stun Duration: 1.2s, Range: 300, Speed: 725.
+---
+[TAGS: ITEM_DATA, ROD_OF_ATOS, SYNERGY_BUILD, FULL_ITEM, INTELLIGENCE, SETUP, COMBO] | Rod of Atos, Cost: 2250: Build synergy for intelligence heroes who benefit from the stats and need reliable setup for their abilities, such as Skywrath Mage (for Mystic Flare), Lina, or Zeus. The root guarantees follow-up on skillshots. Also a strong early-to-mid game item for initiators who lack a stun.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES, NEUTRAL_ITEM] | Pupil's Gift CORE_BUILD: This item has no build path, components, or direct upgrades. It is a Tier 1 neutral item that can be acquired by killing neutral creeps. Synergies: Works well on any hero that benefits from raw attributes, but is especially efficient for Universal heroes who gain a portion of the bonus to all attributes.
+---
+[TAGS: RIKI, ABILITY_DATA, BLINK, NUKER] | Blink Strike (W). Teleports behind a target unit within 600/700/800/900 range, momentarily slowing them by 50% and attacking them for 15/30/45/60 bonus damage if it is an enemy. Cooldown is 13/10/7/4 seconds. Can be used on allies for mobility, but no damage or slow is applied.
+---
+[TAGS: Tidehunter, HARD_COUNTERS, COUNTER] | Hard counters include Break (from items like Silver Edge or abilities like Demonic Purge) which disables the gaining of new Kraken Swell stacks. However, Break does not remove bonuses from existing Kraken Swell stacks. Heroes with instant disables like Hex can prevent him from using Ravage or Blink Dagger. High magical burst damage can bypass his physical damage block from Kraken Shell.
+---
+[TAGS: ITEM_DATA, SITUATIONAL, VS_BKB, COOLDOWN_RESET] | Refresher Shard SITUATIONAL_VS_BKB: Allows a hero to bypass enemy Black King Bars by resetting cooldowns on BKB-piercing disables or damage spells, enabling a follow-up cast after the enemy BKB duration expires. Crucial for heroes whose primary spells pierce spell immunity to lock down or burst key targets twice. Stats: Resets all cooldowns.
+---
+[TAGS: STRATEGY, Invoker, WEAKNESS] | Invoker Weakness: Vulnerable to silence and break mechanics which disable his spellcasting. Heroes with gap-closing abilities counter him heavily.
+---
+[TAGS: Ability, Invoker, Invisibility, Slow] | Ghost Walk: Grants invisibility and slows nearby enemies based on Quas level while providing health and mana regeneration. Stats: Enemy Slow (Quas): -20%/-25%/-30%/-35%/-40%/-45%/-50%/-55%/-60%/-65%, Health Regeneration (Quas): 2/4/6/8/10/12/14/16/18/20, Mana Regeneration (Wex): 2/4/6/8/10/12/14/16/18/20
+---
+[TAGS: ITEM_DATA, CORE_BUILD, UPGRADE, LATE_GAME] | Super Blink CORE_BUILD: This is an upgrade for the Overwhelming Blink, Swiftshadow Blink, and Arcane Blink items. It is the final upgrade for mobility-focused late-game builds on initiators or cores that need to guarantee their positioning.
+---
+[TAGS: Ability, Tidehunter, Damage] | Anchor Smash: Tidehunter swings his anchor to deal bonus damage and reduce enemy attack damage in an area. Stats: Bonus Damage: 50/100/150/200, Damage Reduction: 25%/30%/35%/40%, Duration: 6, Radius: 375, Cast Time: 0.4
+---
+[TAGS: ITEM_DATA, LANING_PHASE, MID_GAME] | Force Staff Recipe LANING_PHASE: This is not a laning item; it is purchased from the secret shop later in the game to combine components for the full Force Staff. Its cost represents a final gold investment needed before the active ability is available. Stats: Cost: 950 gold.
+---
+[TAGS: Ability, Passive, Resistance] | Insurmountable: Grants Tiny resistance to slows and status effects based on Strength. Stats: Strength to Slow Resistance: 20%, Strength to Status Resistance: 10%.
+---
+[TAGS: STRATEGY, Meepo, ITEM_BUILD, CORE] | Meepo Core Build: Blink Dagger for initiation and mobility, Ethereal Blade for burst damage and survivability.
+---
+[TAGS: ITEM_DATA, OCTARINE_CORE, TEAMFIGHT_ROLE, FULL_ITEM, COOLDOWN_REDUCTION, UTILITY, BUFF, CASTER_ITEM] | Octarine Core, Cost: 4900: Amplifies team fight presence and utility by allowing spellcasters to use their key abilities more frequently, increasing total damage output, healing, or crowd control over an engagement. Crucial for heroes reliant on ultimate or high-impact cooldowns. Stats: CDR: 25%.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, SYNERGY_BUILD, FULL_ITEM, CARRY_ITEM, INITIATOR_ITEM, MELEE_ITEM, TIMING_ITEM] | Black King Bar, Cost: 4050: Core synergy for right-clicking carries and melee initiators who need to get close and deal damage without being locked down. Often built after core damage or farming items to transition into mid-game team fights. The timing of purchase is critical for maintaining map pressure.
+---
+[TAGS: RUBICK, SITUATIONAL, VS_BKB] | Scenario: Against a team with multiple BKB carriers. Your primary spells (Fade Bolt, Telekinesis) do not pierce spell immunity. Your role shifts to disabling non-BKB targets, using Telekinesis to reposition or save allies, and stealing spells that work through BKB (e.g., Rearm, Berserker's Blood). Prioritize survival items like Force Staff and Glimmer Cape.
+---
+[TAGS: ITEM_DATA, BLACK_KING_BAR, CORE_MECHANICS, FULL_ITEM, BKB_EFFECT, SPELL_IMMUNITY, DEFENSIVE, SURVIVAL, VS_MAGIC, VS_CONTROL, MAGIC_RESISTANCE] | Black King Bar, Cost: 4050: Grants spell immunity, blocking most enemy spells, disables, and dealing magic damage for a limited duration. Also provides 60% magic resistance and immunity to pure and reflected damage. This is a core defensive commitment for carries and initiators to operate safely in fights. Stats: CD: 95s, Mana: 50, Duration: 9/8/7/6s, Magic Resist: 60%.
+---
+[TAGS: ITEM_DATA, ASCETIC'S_CAP, CORE_DESCRIPTION, NEUTRAL, DEFENSIVE, SURVIVAL, STATUS_RESISTANCE, SLOW_RESISTANCE, VS_CONTROL, VS_SLOW] | Ascetic's Cap, Cost: 0: Neutral item. Provides a passive effect that grants 40% Status resistance and 40% Slow Resistance for 3 seconds whenever a debuff would be applied to the owner. This makes the user temporarily more resilient to stuns, slows, and other negative effects. Stats: Status Resistance: 40%, Slow Resistance: 40%, Duration: 3s.
+---
+[TAGS: ITEM_DATA, DAGON, TEAMFIGHT_ROLE, FULL_ITEM, BURST_DAMAGE, SINGLE_TARGET, EXECUTE, SURVIVAL, SUSTAIN, PICK_OFF] | Dagon (Level 5), Cost: 7400: Serves as a long-range execution tool in team fights, allowing heroes to eliminate low-health targets from safety. The self-heal from the active provides in-fight sustain, while its ability to instantly remove illusions makes it effective against specific hero compositions.
+---
+[TAGS: Invoker, BASE_STATS] | Invoker is a Ranged intelligence hero with 1.7 base attack time. He has average starting stats: 19 Strength, 14 Agility, and 20 Intelligence. His attack range is standard for ranged heroes, and his primary attribute gain per level varies based on which elemental orbs (Quas, Wex, Exort) are skilled.
+---
+[TAGS: Ability, Invoker, Slow, Area Control] | Ice Wall: Creates a wall of ice that slows and damages enemies based on Quas and Exort levels. Stats: Wall Duration (Quas): 3/4/5/6/7/8/9/10/11/12, Movement Slow (Quas): -20%/-40%/-60%/-80%/-100%/-120%/-140%/-160%/-180%/-200%, Damage per Second (Exort): 30/36/42/48/54/60/66/72/78/84
+---
+[TAGS: STRATEGY, Tidehunter, ITEM_BUILD, SITUATIONAL] | Tidehunter Situational: Buy Lotus Orb vs silences or disables, Guardian Greaves vs heavy spell lineups.
+---
+[TAGS: Ability, Duration, Area Control] | March of the Machines Duration: Extends area control and damage over time. Stats: Duration: +{bonus_duration}s
+---
+[TAGS: ORACLE, SITUATIONAL, PUSH, HIGH_GROUND] | Scenario: Your team is ahead and needs to push high ground. Oracle can use Fate's Edict to disarm the enemy carry on the ramp, use Fortune's End to root multiple defenders, and keep the diving initiator alive with False Promise and Purifying Flames spam. Rain of Destiny provides sustained healing and damage in the choke point.
+---
+[TAGS: ITEM_DATA, SUPER_BLINK, SYNERGY_BUILD, FULL_ITEM, INITIATOR_ITEM, COMBO_ITEM, UTILITY] | Super Blink, Cost: N/A: Synergizes strongly with heroes who have powerful, short-range AoE ultimates or point-target disables that require precise positioning (e.g., Axe, Earthshaker, Kunkka). The clamped range allows them to guarantee they land exactly where needed to maximize their spell impact.
+---
+[TAGS: ITEM_DATA, CORE_BUILD, SYNERGIES] | Force Staff Recipe CORE_BUILD / SYNERGIES: This is the final component required to build Force Staff. It must be purchased alongside the other components to complete the item. Synergies involve saving or repositioning allies with low mobility. Stats: Cost: 950 gold.
+---
+[TAGS: Ability, Stat, Survivability] | Status Resistance: Enhances survivability by reducing the duration of debuffs. Stats: Status Resistance: 15%/20%/25%
+---
+[TAGS: ITEM_DATA, ROD_OF_ATOS, TEAMFIGHT_ROLE, FULL_ITEM, DISABLE, LOCKDOWN, CATCH, INTERRUPT] | Rod of Atos, Cost: 2250: Team fight role focuses on single-target lockdown, enabling allies to focus fire on a rooted enemy. The root prevents movement but not attacks or spells, making it strong against mobile, right-click heroes but less effective against stationary casters. Useful for stopping channeling spells.
+---
+[TAGS: ANTI-MAGE, ABILITY_DATA] | Counterspell is a passive/active ability. Passively grants 16%/24%/32%/40% Magic Resistance. When activated, it creates a shell for 1.2 seconds that reflects targeted spells back at the caster. Break disables the passive magic resistance. The reflected spell amp is 0. Does NOT pierce BKB.
+
+=== GAME STATE ===
+Match Time: 20:00 | State: DOTA_GAMERULES_STATE_GAME_IN_PROGRESS
+Hero: invoker (Lvl 16) | HP: 1400/1400 | Mana: 1200/1800 | Alive: true
+Stats: K/D/A 6/2/5 | Gold: 2800 | LastHits: 140
+Inventory: [item_travel_boots, item_hand_of_midas (CD), item_aghanims_scepter (CD), item_blink, item_force_staff, item_magic_wand x8]
+Abilities: [invoker_wex(Lvl5)[Rdy] | invoker_exort(Lvl5)[Rdy] | invoker_invoke(Lvl4)[ULTIMATE-READY] | invoker_quas(Lvl5)[Rdy]]
+User Situation Notes: Играю Quas-Wex Invoker. Союзники собрались пушить мид, вражеская команда (Tidehunter, Luna, Puck, Shadow Shaman, Bounty Hunter) защищает хайграунд. У Tide BKB и ульт готовы.
+
+=== USER QUESTION ===
+"What is the most important tactical advice for next 30 seconds?"
+
+---
+
+Analyze step-by-step following the exact order above. **Provide your answer now. Respond in SAME LANGUAGE as "What is the most important tactical advice for next 30 seconds?".**
+========================================
+
+[AI RESPONSE] (3.56s)
+The most important advice for the next 30 seconds is to use your **Force Staff** to reposition or save allies if they get caught by Puck's or Shadow Shaman's disables. Your **Blink** and **Force Staff** can also be used to initiate by forcing the enemy into bad positions, especially Tidehunter. Use **Invoke** to cast **Tornado** to disrupt their positioning and create chaos, making it easier for your team to push through.

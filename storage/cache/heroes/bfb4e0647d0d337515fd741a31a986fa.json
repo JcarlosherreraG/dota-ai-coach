@@ -1,0 +1,188 @@
+[
+  {
+    "display_text": "Alchemist is a Melee Strength hero with 23 base Strength, 22 base Agility, and 25 base Intelligence. His base Attack Time of 1.7 seconds is standard for melee heroes. He has a standard turn rate and movement speed.",
+    "search_text": "Alchemist stats base melee strength agility intelligence attack time",
+    "tags": [
+      "ALCHEMIST",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Seed Money: Alchemist starts with more gold. This Facet accelerates early item timings like Soul Ring or Phase Boots, favoring an aggressive, high-tempo playstyle where you look to dominate the lane with an early gold advantage. Mixologist: Unstable Concoction and Berserk Potion recharge faster when in Chemical Rage. This Facet enhances Alchemist's teamfight contribution by allowing more frequent stuns and dispels/saves on allies, supporting a more utility-focused or tempo-fighting build. Dividends: Alchemist gains bonus GPM for each Aghanim's Scepter he has granted to allies. This Facet is for a dedicated support Alchemist who focuses on farming and gifting Scepters to his team, sacrificing his own combat power for team-wide power spikes.",
+    "search_text": "Alchemist facets Seed Money Mixologist Dividends starting gold faster cooldowns GPM Aghanim Scepter gift",
+    "tags": [
+      "ALCHEMIST",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "Focus on last hits to maximize Greevil's Greed gold bonus. Use Acid Spray (level 1) to secure ranged creeps, harass the enemy, and reduce their armor for easier denies. Skill build priority is typically maxing Acid Spray first for farming and lane control, followed by Greevil's Greed. Use Unstable Concoction cautiously for kills or to deter enemy aggression, but be mindful of the self-damage risk after 5.5 seconds. Mana management is key; Soul Ring is a common early purchase.",
+    "search_text": "Alchemist laning last hit Greevil's Greed Acid Spray farm harass armor reduction Unstable Concoction kill deny Soul Ring",
+    "tags": [
+      "ALCHEMIST",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Level 6 (Chemical Rage): Major farming and sustain power spike. Allows you to farm jungle camps efficiently and stay in lane indefinitely. Level 12 (Maxed Acid Spray and Greevil's Greed): Peak farming speed. Radiance or first core item timing (e.g., Armlet, Blink Dagger) should be achieved around now. Level 18 (Maxed Chemical Rage): Significant increase in attack speed (1.0 BAT) and regen (120 HP/sec). Becomes a formidable manfighter. Level 20 Talent: Choice between +2.5 Damage per Greevil's Greed stack (more late-game scaling) or -0.1s Chemical Rage Base Attack Time (faster attacks). Level 25 Talent: Choice between +400 Unstable Concoction Max Damage (burst) or +50 Chemical Rage Regeneration (sustain). Aghanim's Scepter/Shard timings also define power spikes.",
+    "search_text": "Alchemist power spikes level 6 Chemical Rage farm level 12 Radiance level 18 BAT attack speed regen level 20 talent level 25 talent Aghanim Scepter",
+    "tags": [
+      "ALCHEMIST",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Break effects (e.g., from Silver Edge, Doom) disable Greevil's Greed and Corrosive Weaponry, crippling his damage and slow. Instant disables (Hex, Orchid Malevolence) prevent him from using Berserk Potion (dispels) or throwing Unstable Concoction. High physical burst damage can kill him before Chemical Rage regeneration matters. Heroes with mana burn (Anti-Mage, Invoker) can drain his small mana pool, limiting his ability usage. Kiting heroes who can stay out of his melee range while slowed by Corrosive Weaponry are effective.",
+    "search_text": "Alchemist counters break Silver Edge Doom Greevil's Greed Corrosive Weaponry disable hex orchid physical burst mana burn Anti-Mage kiting",
+    "tags": [
+      "ALCHEMIST",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Soul Ring is essential for sustaining Acid Spray and Unstable Concoction spam in lane due to his low mana pool. Radiance accelerates farm and provides miss chance for survivability; it is the core farming item for a greedy Alchemist. Black King Bar is mandatory in most games to prevent being disabled during Chemical Rage, allowing him to deal continuous right-click damage.",
+    "search_text": "Alchemist core items Soul Ring mana Radiance farm Black King Bar BKB spell immunity Chemical Rage",
+    "tags": [
+      "ALCHEMIST",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Alchemist's role is to initiate or counter-initiate with Unstable Concoction (a long-duration AoE stun). Pop Chemical Rage and Black King Bar early to become a durable, high-DPS frontliner. Use Acid Spray on the fight's focal point to reduce enemy armor for your team's physical damage. Use Berserk Potion on a key ally (carry or initiator) to dispel debuffs and grant them attack speed and movement speed. His goal is to absorb damage and spells while outputting significant right-click damage and controlling the area with his slows and stuns.",
+    "search_text": "Alchemist teamfight initiator Unstable Concoction stun Chemical Rage BKB frontliner DPS Acid Spray armor reduction Berserk Potion dispel buff ally",
+    "tags": [
+      "ALCHEMIST",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Acid Spray: Sprays high-pressure acid across a target area for 15 seconds. Enemy units in the area take 25/30/35/40 damage per second and have their armor reduced by 3/4/5/6. Radius is 350/400/450/500. Does NOT pierce BKB. Allies can be granted armor by a talent.",
+    "search_text": "Alchemist Acid Spray Q damage per second armor reduction radius 350 400 450 500 duration 15",
+    "tags": [
+      "ALCHEMIST",
+      "ABILITY_DATA",
+      "ACID_SPRAY"
+    ]
+  },
+  {
+    "display_text": "Unstable Concoction: Alchemist brews a potion for up to 5 seconds. When thrown, it stuns and damages enemies in a 250 radius. Minimum stun is 0.25 seconds for 0 damage. Maximum stun after 5 seconds is 1.7/2.2/2.7/3.2 seconds for 150/220/290/360 damage. Alchemist moves 4/8/12/16% faster while brewing. If not thrown after 5.5 seconds, it explodes on Alchemist, dealing max damage and stunning him (self-deny possible). Once thrown, the projectile cannot be disjointed.",
+    "search_text": "Alchemist Unstable Concoction W brew charge stun damage 150 220 290 360 radius 250 move speed bonus self damage deny",
+    "tags": [
+      "ALCHEMIST",
+      "ABILITY_DATA",
+      "UNSTABLE_CONCOCTION"
+    ]
+  },
+  {
+    "display_text": "Corrosive Weaponry (Passive): Alchemist's attacks apply a stacking debuff that reduces enemy base attack damage by 2/2.5/3/3.5 per stack and slows them by 2/2.5/3/3.5% per stack. Attacks apply 2 stacks. Debuff lasts 4 seconds. Max stacks are 7/10/13/16. Unstable Concoction applies 1 stack per second of brew time.",
+    "search_text": "Alchemist Corrosive Weaponry passive E attack damage reduction slow per stack max stacks 7 10 13 16 duration 4",
+    "tags": [
+      "ALCHEMIST",
+      "ABILITY_DATA",
+      "CORROSIVE_WEAPONRY"
+    ]
+  },
+  {
+    "display_text": "Berserk Potion: Alchemist throws a potion at an ally, applying a basic dispel and granting them 50 attack speed, 30 movement speed, and 40 HP regen for 15 seconds. Projectile speed is 900. Does NOT pierce BKB. Cooldown reduction from the Mixologist Facet applies.",
+    "search_text": "Alchemist Berserk Potion R basic dispel attack speed 50 move speed 30 HP regen 40 duration 15",
+    "tags": [
+      "ALCHEMIST",
+      "ABILITY_DATA",
+      "BERSERK_POTION"
+    ]
+  },
+  {
+    "display_text": "Greevil's Greed (Passive): Alchemist earns 2 base bonus gold and 2 extra bonus gold per kill. Killing another unit within 40 seconds adds another instance of Extra Bonus Gold. Extra Bonus Gold caps at 18 per stack. Also causes bounty runes to yield double gold. Grants +25 damage if Alchemist has Aghanim's Scepter.",
+    "search_text": "Alchemist Greevil's Greed passive gold bonus 2 2 stack cap 18 bounty rune double Aghanim Scepter damage 25",
+    "tags": [
+      "ALCHEMIST",
+      "ABILITY_DATA",
+      "GREEVILS_GREED"
+    ]
+  },
+  {
+    "display_text": "Chemical Rage (Ultimate): Alchemist transforms, gaining 20/30/40 movement speed, 60/90/120 HP regen per second, and reducing his base attack time to 1.2/1.1/1.0 for 30 seconds. Provides a basic dispel on cast. Transformation time is 0.35 seconds, which can dodge projectiles.",
+    "search_text": "Alchemist Chemical Rage ultimate transformation move speed 20 30 40 HP regen 60 90 120 BAT 1.2 1.1 1.0 duration 30 dispel dodge",
+    "tags": [
+      "ALCHEMIST",
+      "ABILITY_DATA",
+      "CHEMICAL_RAGE"
+    ]
+  },
+  {
+    "display_text": "When playing against high physical armor teams, Alchemist's value increases because Acid Spray reduces armor by up to 6, significantly amplifying physical damage from him and his allies. Prioritize maxing Acid Spray and consider an early Assault Cuirass to further reduce enemy armor.",
+    "search_text": "Alchemist scenario vs high armor Acid Spray armor reduction Assault Cuirass physical damage",
+    "tags": [
+      "ALCHEMIST",
+      "SITUATIONAL",
+      "VS_HIGH_ARMOR"
+    ]
+  },
+  {
+    "display_text": "When playing from behind, Alchemist should avoid risky fights and focus on farming with Acid Spray and Chemical Rage. Split-push with Radiance illusions (Manta Style) or use Berserk Potion to save allies. Consider utility items like Shiva's Guard or Heaven's Halberd instead of pure damage. The Dividends Facet can be valuable to gift Scepters to your carries.",
+    "search_text": "Alchemist scenario behind farming split push Radiance Manta Style Berserk Potion save utility items Shiva Guard Halberd Dividends facet",
+    "tags": [
+      "ALCHEMIST",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "When facing multiple spellcasters or heavy disables, itemization is key. After core items like Soul Ring and Radiance, rush Black King Bar. Follow up with a Satanic to sustain through magic damage during BKB duration. The Mixologist Facet is strong here for more frequent Berserk Potion dispels.",
+    "search_text": "Alchemist scenario vs spellcasters disables BKB Black King Bar Satanic sustain Mixologist facet Berserk Potion dispel",
+    "tags": [
+      "ALCHEMIST",
+      "SITUATIONAL",
+      "VS_HEAVY_MAGIC"
+    ]
+  },
+  {
+    "display_text": "For a support Alchemist build, take the Dividends Facet. Skill build prioritizes Acid Spray and Berserk Potion. Itemize for mana and survivability (Arcane Boots, Glimmer Cape, Force Staff). Your goal is to farm an Aghanim's Scepter quickly and gift it to your core heroes, while providing teamfight utility with stuns and dispels.",
+    "search_text": "Alchemist scenario support Dividends facet Acid Spray Berserk Potion Aghanim Scepter gift utility items Arcane Boots Glimmer Cape Force Staff",
+    "tags": [
+      "ALCHEMIST",
+      "SITUATIONAL",
+      "SUPPORT_BUILD"
+    ]
+  },
+  {
+    "display_text": "At Level 10, choose between +1 Acid Spray Armor Reduction or +125 Unstable Concoction Radius. The Acid Spray talent increases armor reduction from 3/4/5/6 to 4/5/6/7, significantly boosting physical damage amplification for your team, ideal if you have other physical cores. The Unstable Concoction Radius talent increases the blast radius from 250 to 375, making it much easier to land multi-hero stuns, valuable for teamfight control.",
+    "search_text": "Alchemist level 10 talent left Acid Spray armor reduction 1 right Unstable Concoction radius 125 physical damage teamfight stun",
+    "tags": [
+      "ALCHEMIST",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "At Level 15, choose between Acid Spray grants armor to allies or +2.5 Damage per Greevil's Greed stack. The Acid Spray armor talent provides survivability to your team when fighting in the acid puddle, synergizing with a frontlining playstyle. The Greevil's Greed damage talent adds substantial right-click damage (up to +40/50/60/70 damage at max stacks), scaling your late-game carry potential significantly.",
+    "search_text": "Alchemist level 15 talent left Acid Spray armor allies right Greevil's Greed damage per stack 2.5 team survivability carry scaling",
+    "tags": [
+      "ALCHEMIST",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "At Level 20, choose between +2.5 Damage per Greevil's Greed stack or -0.1s Chemical Rage Base Attack Time. The Greevil's Greed damage talent is the same as the Level 15 right talent, offering more raw damage scaling. The Chemical Rage BAT talent reduces your base attack time from 1.0 to 0.9 at level 3 ultimate, providing a ~11% increase in attack speed, which is a massive DPS boost and synergizes with attack modifiers like Skadi or Basher.",
+    "search_text": "Alchemist level 20 talent left Greevil's Greed damage 2.5 right Chemical Rage BAT attack time 0.1 DPS attack speed",
+    "tags": [
+      "ALCHEMIST",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "At Level 25, choose between +400 Unstable Concoction Max Damage or +50 Chemical Rage Regeneration. The Unstable Concoction damage talent increases the max damage from 360 to 760, turning it into a massive nuke and stun, ideal for burst or when you need reliable initiation damage. The Chemical Rage regeneration talent increases HP regen from 120 to 170 per second, making you nearly unkillable to physical damage without anti-heal, ideal for prolonged manfights.",
+    "search_text": "Alchemist level 25 talent left Unstable Concoction damage 400 burst right Chemical Rage regeneration 50 sustain tank",
+    "tags": [
+      "ALCHEMIST",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

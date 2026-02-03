@@ -1,0 +1,18 @@
+[
+  {
+    "display_text": "Aegis of the Immortal. Tier Unique / Non-Purchasable: Brings your hero back to life with full health and mana at the location of death after a 5-second delay. The reincarnation effect must be activated within 5 minutes of receiving the Aegis; if the timer expires, it heals you for 5 seconds (dispelled by damage). A powerful game-ending objective that denies enemy teams a key kill. Stats: Reincarnation Delay: 5s, Buff Duration: 300s (5 minutes).",
+    "search_text": "aegis, aegis of the immortal, roshan drop, buyback item, resurrection item, survive death, reincarnation, second life, comeback mechanic, deny kill, objective, roshan item, immortal shield, comeback, death prevention, aegis mechanic, Aegis of the Immortal",
+    "tags": [
+      "ITEM_DATA",
+      "AEGIS_OF_THE_IMMORTAL",
+      "CORE_DESCRIPTION",
+      "NON_PURCHASABLE",
+      "SAVE",
+      "DEFENSIVE",
+      "SURVIVAL",
+      "RESURRECTION",
+      "OBJECTIVE",
+      "DISPELLABLE"
+    ]
+  }
+]

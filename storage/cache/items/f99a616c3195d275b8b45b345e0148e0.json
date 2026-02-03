@@ -1,0 +1,71 @@
+[
+  {
+    "display_text": "Cornucopia, Cost: 1200: Provides early game regeneration and a modest damage boost for heroes looking to sustain in lane or jungle. The +5 health regeneration and +2 mana regeneration help offset early harass and ability spam, while the +7 damage improves last-hitting potential. A cost-efficient hybrid sustain item. Stats: Cost: 1200.",
+    "search_text": "early sustain item, regen item, health regen item, mana regen item, lane sustain, hybrid regen, damage sustain item, cost efficient regen, jungling sustain, Cornucopia",
+    "tags": [
+      "ITEM_DATA",
+      "CORNCOPIA",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "REGEN",
+      "SUSTAIN",
+      "HEALTH",
+      "MANA",
+      "DAMAGE",
+      "LANING"
+    ]
+  },
+  {
+    "display_text": "Cornucopia, Cost: 1200: Delivers a balanced stat profile combining health and mana regeneration with attack damage. This combination supports a variety of heroes needing to stay active on the map while also improving their right-click power. Stats: Health Regen: +5, Mana Regen: +2, Damage: +7.",
+    "search_text": "cornucopia stats, health regen, mana regen, damage stats, stat item, hybrid stats, Cornucopia",
+    "tags": [
+      "ITEM_DATA",
+      "CORNCOPIA",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "REGEN",
+      "HEALTH",
+      "MANA",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "Cornucopia, Cost: 1200: Primarily a laning and jungling sustain tool rather than a team fight item. The regeneration allows heroes to stay on the map longer, farming and applying pressure, while the damage aids in securing last hits and clearing camps. Its role diminishes in late-game engagements.",
+    "search_text": "laning item, jungling item, farming sustain, map presence, early game item, sustain farming, Cornucopia",
+    "tags": [
+      "ITEM_DATA",
+      "CORNCOPIA",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "LANING",
+      "FARMING",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Cornucopia, Cost: 1200: Strong synergy for heroes with high base damage or attack speed who benefit from the sustain to maintain a constant farming tempo, such as ranged carries or certain offlaners. It's also a solid pickup on heroes who rely on frequent spell casting but have mana constraints.",
+    "search_text": "carry sustain, mana hungry heroes, farming heroes, ranged core, offlaner sustain, spell spam sustain, Cornucopia",
+    "tags": [
+      "ITEM_DATA",
+      "CORNCOPIA",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "FARMING",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "Cornucopia, Cost: 1200: Accelerates farming by providing the regeneration needed to jungle or lane without having to return to base frequently. The added damage also marginally improves creep clear speed, making it an early investment for heroes aiming to accelerate their net worth.",
+    "search_text": "farming item, jungle sustain, lane farm, net worth acceleration, early farm item, Cornucopia",
+    "tags": [
+      "ITEM_DATA",
+      "CORNCOPIA",
+      "FARMING_UTILITY",
+      "FULL_ITEM",
+      "FARMING",
+      "SUSTAIN",
+      "REGEN"
+    ]
+  }
+]

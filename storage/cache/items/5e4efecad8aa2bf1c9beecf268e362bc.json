@@ -1,0 +1,76 @@
+[
+  {
+    "display_text": "Armlet of Mordiggian, Cost: 2500: Provides substantial raw bonuses while toggled: +35 damage, +25 strength, and +4 armor. The main trade-off is a constant 45 health drain per second while active. Crucially, the toggle drain and the strength loss when deactivating cannot kill you. The toggle does not interrupt channeling spells.",
+    "search_text": "toggle active item, strength toggling, health drain item, damage toggle, burst damage item, temporary stats, armlet toggle, strength carry item, hp drain active, armlet toggling, Armlet of Mordiggian, armlet",
+    "tags": [
+      "ITEM_DATA",
+      "ARMLET_OF_MORDIGGIAN",
+      "FULL_ITEM",
+      "CORE_MECHANICS",
+      "STRENGTH",
+      "DAMAGE",
+      "ARMOR",
+      "TOGGLE",
+      "BURST_DAMAGE",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Armlet of Mordiggian, Cost: 2500: Provides solid base stats: +15 damage, +25 attack speed, +6 armor, and +5 health regeneration. These base stats make it a decent mid-game fighting item even before factoring in the powerful toggle active.",
+    "search_text": "armlet stats, armor item, health regen item, attack speed item, damage stat item, strength item stats, mid-game fighting stats, Armlet of Mordiggian, armlet",
+    "tags": [
+      "ITEM_DATA",
+      "ARMLET_OF_MORDIGGIAN",
+      "FULL_ITEM",
+      "STAT_PROFILE",
+      "DAMAGE",
+      "ATTACK_SPEED",
+      "ARMOR",
+      "REGEN",
+      "HEALTH",
+      "STRENGTH_ITEM"
+    ]
+  },
+  {
+    "display_text": "Armlet of Mordiggian, Cost: 2500: A high-risk, high-reward team fight item for strength cores. The massive temporary strength and damage boost allows for explosive plays, surprising dueling potential, and can be the difference in a close fight. Its health management is a core skill requirement.",
+    "search_text": "team fight strength item, dueling item, strength carry fighting, burst damage team fight, high-risk high-reward, fight sustain item, Armlet of Mordiggian, armlet",
+    "tags": [
+      "ITEM_DATA",
+      "ARMLET_OF_MORDIGGIAN",
+      "FULL_ITEM",
+      "TEAMFIGHT_ROLE",
+      "CARRY_ITEM",
+      "STRENGTH_ITEM",
+      "BURST_DAMAGE",
+      "SURVIVAL"
+    ]
+  },
+  {
+    "display_text": "Armlet of Mordiggian, Cost: 2500: Excellent synergy for strength-based heroes with high natural health regeneration, healing abilities, or lifesteal, as these mitigate the health drain. It is also strong on heroes who naturally build into tanky items, making the +4 armor toggle more impactful. Timing is crucial, as it provides a massive mid-game power spike.",
+    "search_text": "armlet hero synergy, strength hero item, lifesteal synergy, regen hero item, tanky hero item, mid-game power spike, strength core item, Armlet of Mordiggian, armlet",
+    "tags": [
+      "ITEM_DATA",
+      "ARMLET_OF_MORDIGGIAN",
+      "FULL_ITEM",
+      "SYNERGY_BUILD",
+      "STRENGTH_HERO",
+      "TANK_ITEM",
+      "MID_GAME",
+      "CARRY_ITEM"
+    ]
+  },
+  {
+    "display_text": "Armlet of Mordiggian, Cost: 2500: A situational counter to burst physical damage. The toggle's +4 armor, combined with the base +6, provides a significant defensive spike against right-clickers and can make you deceptively tanky in a fight. The health drain makes it weaker against sustained magic damage.",
+    "search_text": "armlet armor counter, physical damage defense, anti-physical item, physical burst counter, armor toggle, physical survivability, Armlet of Mordiggian, armlet",
+    "tags": [
+      "ITEM_DATA",
+      "ARMLET_OF_MORDIGGIAN",
+      "FULL_ITEM",
+      "SITUATIONAL_VS_PHYSICAL",
+      "ARMOR",
+      "VS_PHYSICAL",
+      "DEFENSIVE",
+      "SURVIVAL"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "display_text": "Shredder Aghanim's Scepter: Activates Reactive Armor for max stacks and a damage barrier, scaling with nearby enemy heroes. This upgrade counters sustained damage and burst damage, allowing Shredder to frontline effectively by mitigating incoming damage and punishing enemies who group up. It transforms Shredder into a tanky initiator who thrives in chaotic teamfights.",
+    "search_text": "Shredder Aghanim Scepter Reactive Armor anti-damage tanky initiator sustain burst mitigation",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Shredder",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  },
+  {
+    "display_text": "Shredder Aghanim's Shard: Adds Flamethrower, dealing damage over time and slowing enemies, even affecting buildings. This upgrade counters high-mobility heroes and enhances Shredder's siege potential, allowing him to pressure towers and control choke points effectively. It shifts Shredder's role towards a sustained damage dealer and pusher.",
+    "search_text": "Shredder Aghanim Shard Flamethrower anti-mobility siege push sustained damage slow",
+    "tags": [
+      "AGHS_STRATEGY",
+      "Shredder",
+      "COUNTER_MECHANIC",
+      "AGHANIM"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "display_text": "Fae Grenade, Tier 4: Neutral item that throws a shadow brand at an enemy unit up to 900 range. Deals 40 damage per second and provides vision of the debuffed unit for 7 seconds. Excellent for tracking enemy movement, securing kills on fleeing low-health targets, or scouting. Stats: CD: 20s, Mana: 25, DPS: 40, Duration: 7s, Range: 900.",
+    "search_text": "vision item, damage over time, track enemy, scouting neutral, tier 4 neutral, true sight, reveal, track low health, secure kill, area vision, apply debuff, DPS item, Fae Grenade, dot",
+    "tags": [
+      "ITEM_DATA",
+      "FAE_GRENADE",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "TIER_4",
+      "VISION",
+      "DEBUFF",
+      "DAMAGE_OVER_TIME",
+      "MAGICAL_DAMAGE",
+      "SINGLE_TARGET",
+      "TRACKING",
+      "SCOUTING"
+    ]
+  }
+]

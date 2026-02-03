@@ -1,0 +1,235 @@
+[
+  {
+    "display_text": "Dawnbreaker is a Melee Strength hero with base 25 Strength, 14 Agility, and 20 Intelligence. She has a slow 1.7 base attack rate. As a melee hero, her lane presence relies on her high starting Strength and attack damage, but she is vulnerable to slows and kiting due to her lack of inherent gap-close before level 2.",
+    "search_text": "Dawnbreaker Melee Strength Base Stats Attack Rate 1.7 Str 25 Agi 14 Int 20 Starting Armor Attack Damage",
+    "tags": [
+      "DAWNBREAKER",
+      "BASE_STATS",
+      "MELEE",
+      "STRENGTH"
+    ]
+  },
+  {
+    "display_text": "Facet 1 (Solar Charged): Whenever Dawnbreaker hits a target with a powered up Luminosity, she decreases the cooldowns of all of her abilities. This facet encourages a brawling, spell-spamming playstyle, rewarding you for staying in prolonged fights and maximizing Luminosity hits. Facet 2 (Gleaming Hammer): Celestial Hammer heals allies and damages enemies when on the ground. This facet provides area control and sustain, making Celestial Hammer a zoning and healing tool, beneficial for holding ground and supporting allies in teamfights or sieges. Facet 3 (Starsurge): Dawnbreaker and nearby allies gain bonus attack speed at the end of Starbreaker for each swipe that hit enemy heroes. This turns Starbreaker into a teamfight steroid, favoring a core, right-click oriented build where you want to follow up your initiation with physical damage. Facet 4 (Trailblazer): Walking along Celestial Hammer's fire trail gives bonus movespeed. This facet enhances mobility and positioning, allowing for better chases, escapes, or repositioning during fights, and synergizes with the hammer recall mechanic.",
+    "search_text": "Dawnbreaker Facets Solar Charged Luminosity decreases ability cooldowns Gleaming Hammer Celestial Hammer heals allies damages enemies on ground Starsurge Starbreaker grants attack speed per hero hit Trailblazer Celestial Hammer fire trail gives movespeed",
+    "tags": [
+      "DAWNBREAKER",
+      "FACET_STRATEGY",
+      "FACET_SOLAR_CHARGED",
+      "FACET_GLEAMING_HAMMER",
+      "FACET_STARSURGE",
+      "FACET_TRAILBLAZER"
+    ]
+  },
+  {
+    "display_text": "In the laning phase (first 10 minutes), prioritize Celestial Hammer (Q) for harass and last hitting from a distance, as it deals 50/80/110/140 damage with a 700/900/1100/1300 range. At level 2, take Luminosity (W) to sustain through trades; its powered-up attack heals you for 35/40/45/50% of attack damage dealt. Use Starbreaker (E) cautiously for trading, as its 17s cooldown is high and it roots you briefly. Your high base Strength gives you good HP for trading. Focus on securing last hits and using Celestial Hammer to pull the wave or harass the enemy core.",
+    "search_text": "Dawnbreaker Laning Phase Early Game Skill Build Celestial Hammer Q harass last hit 50 80 110 140 damage Luminosity W sustain heal 35 40 45 50% attack damage Starbreaker E trade 17 cooldown",
+    "tags": [
+      "DAWNBREAKER",
+      "LANING_PHASE",
+      "EARLY_GAME"
+    ]
+  },
+  {
+    "display_text": "Power Spikes: Level 6 with Solar Guardian provides global presence, 30/50/70 damage and 45/70/95 heal per pulse, and a 130/160/190 damage stun on arrival. This enables saves and counter-initiation. Level 12 with maxed Celestial Hammer and Luminosity gives strong wave clear, sustain, and pick-off potential. Level 15 Talent (+40% Luminosity Critical Strike Damage) significantly increases burst heal and damage. Level 18 with level 3 Solar Guardian (190 landing damage, 1.8s stun) is a major teamfight threat. Level 20 Talent (-1 Luminosity Attacks Required) makes you heal and crit every 2 attacks, drastically increasing survivability and damage. Level 25 Talent choices offer either massive AoE (+150 Solar Guardian Radius) or spammable initiation (-4s Starbreaker Cooldown).",
+    "search_text": "Dawnbreaker Power Spikes Level 6 Solar Guardian Ult global save Level 12 max Q W Level 15 Talent +40% Luminosity crit damage Level 18 Ult level 3 Level 20 Talent -1 Luminosity attacks Level 25 Talent",
+    "tags": [
+      "DAWNBREAKER",
+      "POWER_SPIKES",
+      "LEVEL_6",
+      "LEVEL_12",
+      "LEVEL_15",
+      "LEVEL_18",
+      "LEVEL_20",
+      "LEVEL_25"
+    ]
+  },
+  {
+    "display_text": "Dawnbreaker is hard countered by Break effects (e.g., Silver Edge, Doom). Break disables Luminosity, preventing her from gaining stacks and critically striking for heals, removing her core sustain. Heroes with instant disables (Lion Hex, Shadow Shaman Shackles) can stop her during Starbreaker's channel or prevent Solar Guardian channel. High mobility heroes can easily kite her Starbreaker and avoid Celestial Hammer. Heavy magic burst can kill her before she can trigger Luminosity heals. She struggles against illusions and summons that can body block her hammer recall path.",
+    "search_text": "Dawnbreaker Counters Hard Counter Break disables Luminosity Silver Edge Doom Instant disable stops Starbreaker Solar Guardian Kiting mobility High magic burst Illusions body block hammer",
+    "tags": [
+      "DAWNBREAKER",
+      "HARD_COUNTERS",
+      "BREAK",
+      "DISABLE",
+      "KITE"
+    ]
+  },
+  {
+    "display_text": "Core Build: Phase Boots are essential for addressing her mobility issues, granting speed and armor. Echo Sabre is a core damage item that synergizes perfectly with Luminosity, providing stats, mana regen, and a double hit that quickly charges the passive. Blink Dagger is critical for reliable initiation, allowing you to Blink-Starbreaker or Blink-Solar Guardian for unexpected engagements. BKB is almost always required to ensure you can complete your Starbreaker combo and cast Solar Guardian uninterrupted in teamfights.",
+    "search_text": "Dawnbreaker Core Build Items Phase Boots Echo Sabre Luminosity synergy double hit Blink Dagger initiation Starbreaker Solar Guardian Black King Bar BKB spell immunity",
+    "tags": [
+      "DAWNBREAKER",
+      "CORE_BUILD",
+      "ITEMS",
+      "PHASE_BOOTS",
+      "ECHO_SABRE",
+      "BLINK_DAGGER",
+      "BKB"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Dawnbreaker's role is to initiate or counter-initiate. Use Blink Dagger into Starbreaker to stun and damage key targets. Follow up with Celestial Hammer to slow enemies and create a zoning fire trail. Your primary job is to be in the middle of the fight, triggering Luminosity heals to sustain your entire team. Save Solar Guardian to save a critical ally being focused or to turn a fight by arriving with a large AoE stun. Protect your backline by bodyblocking and using your disruptive abilities on divers.",
+    "search_text": "Dawnbreaker Teamfight Role 5v5 Initiate Counter-initiate Blink Starbreaker Stun Celestial Hammer slow zone Luminosity heal team sustain Solar Guardian save ally global stun",
+    "tags": [
+      "DAWNBREAKER",
+      "TEAMFIGHT_ROLE",
+      "INITIATOR",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Starbreaker. Dawnbreaker whirls her hammer around 3 times, damaging enemies with her attack plus bonus damage (25/40/55/70 per hit). On the final strike, she smashes her hammer down, stunning (0.6/0.8/1.0/1.2s) and damaging enemies in front of her. She travels at 215 movement speed for the duration and is briefly stunned for 0.2s after. The first two strikes slow enemy movement speed by 100% for 0.12s. Cooldown: 17/15/13/11. Does NOT pierce BKB. Cannot be used while Celestial Hammer is out.",
+    "search_text": "Starbreaker E Dawnbreaker Whirl hammer 3 attacks 25 40 55 70 bonus damage Final strike smash stun 0.6 0.8 1.0 1.2 seconds 215 movement speed self stun 0.2s 100% slow 0.12s first two hits Cooldown 17 15 13 11",
+    "tags": [
+      "DAWNBREAKER",
+      "ABILITY_DATA",
+      "STARBREAKER",
+      "STUN",
+      "SLOW",
+      "DAMAGE"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Celestial Hammer. Dawnbreaker hurls her weapon, damaging (50/80/110/140) enemies along its path (200 radius). The hammer pauses for 2 seconds at the destination (700/900/1100/1300 range) before returning, leaving a trail of fire that slows enemies by 24/28/32/36%. She can recall the hammer at any time, pulling her towards it. The hammer damages on both the throw and return. The trail's slow debuff lasts 2.5/3/3.5/4 seconds. Does NOT pierce BKB.",
+    "search_text": "Celestial Hammer Q Dawnbreaker Throw hammer 50 80 110 140 damage 200 radius 700 900 1100 1300 range Fire trail slow 24 28 32 36% 2.5 3 3.5 4 second debuff Return damage Recall Converge pull",
+    "tags": [
+      "DAWNBREAKER",
+      "ABILITY_DATA",
+      "CELESTIAL_HAMMER",
+      "SLOW",
+      "DAMAGE",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Luminosity. Passive. After 3 attacks, Dawnbreaker powers up, charging her next attack with a critical hit that deals +125/150/175/200 bonus damage. This critical hit heals all allied heroes within 650 units for 35/40/45/50% of the attack damage dealt. Creeps and neutrals provide only 40 healing. Allies are healed for 50% of the amount. Break disables the passive. The heal is increased by Lifesteal Amplification.",
+    "search_text": "Luminosity W Passive Dawnbreaker Every 3 attacks critical strike +125 150 175 200 bonus damage Heal allies 650 radius 35 40 45 50% attack damage Heal allies 50% amount Creep heal 40 Lifesteal Amplification Break disables",
+    "tags": [
+      "DAWNBREAKER",
+      "ABILITY_DATA",
+      "LUMINOSITY",
+      "PASSIVE",
+      "HEAL",
+      "CRITICAL_STRIKE",
+      "SUSTAIN"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Converge. Dawnbreaker recalls her hammer, pulling her and the hammer together so they meet in the middle. This is the active component of Celestial Hammer.",
+    "search_text": "Converge F Dawnbreaker Recall hammer pull movement reposition Celestial Hammer sub-ability",
+    "tags": [
+      "DAWNBREAKER",
+      "ABILITY_DATA",
+      "CONVERGE",
+      "MOBILITY"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Break of Dawn. Passive. Whenever the sun comes out, Dawnbreaker gains bonus base damage and vision that decreases throughout the course of the day. Gains up to 25% bonus base damage and 20% bonus vision at dawn, decreasing to minimum at dusk.",
+    "search_text": "Break of Dawn Passive Daytime bonus Dawnbreaker gains base damage up to 25% bonus vision up to 20% decreases with time of day",
+    "tags": [
+      "DAWNBREAKER",
+      "ABILITY_DATA",
+      "BREAK_OF_DAWN",
+      "PASSIVE",
+      "DAMAGE",
+      "VISION"
+    ]
+  },
+  {
+    "display_text": "ABILITY: Solar Guardian. Channeled. Dawnbreaker creates a pulsing effect at a location within 350 units of an allied hero anywhere on the map, damaging enemies (30/50/70) and healing allies (45/70/95) every 0.5 seconds. After channeling for 1.7 seconds, she flies to the target over 0.8 seconds, dealing 130/160/190 damage and stunning enemies for 1.4/1.6/1.8 seconds upon landing in a 500 radius. Cooldown: 120/105/90. Does NOT pierce BKB. Cannot be cast without the Hammer.",
+    "search_text": "Solar Guardian R Ult Channeled Dawnbreaker Global teleport to ally 350 unit range Pulse damage 30 50 70 heal 45 70 95 every 0.5s Flight 0.8s Land damage 130 160 190 stun 1.4 1.6 1.8s 500 radius Cooldown 120 105 90",
+    "tags": [
+      "DAWNBREAKER",
+      "ABILITY_DATA",
+      "SOLAR_GUARDIAN",
+      "ULTIMATE",
+      "GLOBAL",
+      "HEAL",
+      "DAMAGE",
+      "STUN",
+      "CHANNELED"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. When behind, focus on utility. Max Celestial Hammer for safe wave clear from distance. Use Solar Guardian defensively to save your strongest ally who is farming. Build cheaper survivability items like Magic Wand, Bracer, and Phase Boots. Avoid committing Starbreaker aggressively unless it guarantees a kill on a fed enemy. Your value comes from the global save and sustain for your team's real cores.",
+    "search_text": "Dawnbreaker Situational Behind Losing Game Defensive play Max Celestial Hammer wave clear Solar Guardian save ally Utility items Phase Bracer Magic Wand Avoid aggressive Starbreaker",
+    "tags": [
+      "DAWNBREAKER",
+      "SITUATIONAL",
+      "PLAYING_FROM_BEHIND",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs High Magic Burst Lineups. Prioritize early Magic Resistance and HP. An early Hood of Defiance or Pipe of Insight is crucial. Your goal is to survive the initial burst to get a Luminosity heal off. Use Solar Guardian reactively after enemy spells are used, not to initiate. Consider a BKB earlier than usual. Facet choice may lean towards Gleaming Hammer for the extra sustain on the ground.",
+    "search_text": "Dawnbreaker Situational vs Magic Burst High Magic Damage Build Hood Pipe Magic Resist HP Survive burst Luminosity heal Solar Guardian reactive save Early BKB Gleaming Hammer facet",
+    "tags": [
+      "DAWNBREAKER",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST",
+      "MAGIC_RESISTANCE"
+    ]
+  },
+  {
+    "display_text": "Scenario: Sieging High Ground. Use Celestial Hammer to throw through the enemy base, creating a fire trail on the high ground to slow defenders and zone them. Stand in the trail with the Trailblazer facet for bonus movespeed to dodge spells. Your Luminosity heals can sustain the siege on your creep wave and allies. Hold Solar Guardian to save a key ally if they get initiated on during the push.",
+    "search_text": "Dawnbreaker Situational Siege High Ground Push Celestial Hammer fire trail zone slow high ground Trailblazer movespeed Luminosity heal sustain creep wave Solar Guardian save",
+    "tags": [
+      "DAWNBREAKER",
+      "SITUATIONAL",
+      "SIEGING",
+      "HIGH_GROUND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Vs Illusion Heroes (Phantom Lancer, Chaos Knight). These heroes are problematic as they can body block your hammer recall and drain your Luminosity attacks. Build early Battle Fury or Cleave items to handle the illusions. Maelstrom/Mjollnir is also effective. Focus your Starbreaker and Celestial Hammer on the real hero when identified. Solar Guardian's large AoE damage and stun can help clear illusions on landing.",
+    "search_text": "Dawnbreaker Situational vs Illusions Phantom Lancer Chaos Knight Body block hammer recall Luminosity stacks wasted Build Battle Fury Cleave Maelstrom Mjollnir Starbreaker target real hero",
+    "tags": [
+      "DAWNBREAKER",
+      "SITUATIONAL",
+      "VS_ILLUSIONS",
+      "CLEAVE"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left: +15% Break of Dawn Max Damage. Right: +15% Celestial Hammer Slow. Choose +15% Celestial Hammer Slow for more reliable chase, lockdown, and teamfight control, as the slow increase from 24/28/32/36% is significant. Choose +15% Break of Dawn Max Damage only if you are playing a pure right-click core and are confident you can manfight during the day; the damage boost is situational and less reliable.",
+    "search_text": "Talent Level 10 Dawnbreaker Left +15% Break of Dawn Max Damage Right +15% Celestial Hammer Slow 24 28 32 36% increased slow choice control lockdown",
+    "tags": [
+      "DAWNBREAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT_10",
+      "TALENT"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left: +40% Luminosity Critical Strike Damage. Right: -15s Solar Guardian Cooldown. The +40% Luminosity Critical Strike Damage is almost always superior. It increases your burst heal and damage substantially, making you much tankier and more threatening in fights. The -15s Solar Guardian Cooldown is niche, only valuable if the game revolves around constant global saves and you are playing purely as a support.",
+    "search_text": "Talent Level 15 Dawnbreaker Left +40% Luminosity Critical Strike Damage bonus 125 150 175 200 Right -15s Solar Guardian Cooldown 120 105 90 choice heal damage vs global uptime",
+    "tags": [
+      "DAWNBREAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT_15",
+      "TALENT"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left: +150 Solar Guardian Radius. Right: -1 Luminosity Attacks Required. The -1 Luminosity Attacks Required talent is a massive power spike, changing the requirement from 3 attacks to 2. This dramatically increases your healing output and damage frequency, making you incredibly durable. The +150 Solar Guardian Radius (increasing from 500 to 650) is strong for teamfight control, but is generally outclassed by the transformative effect of the Luminosity talent.",
+    "search_text": "Talent Level 20 Dawnbreaker Left +150 Solar Guardian Radius 500 to 650 Right -1 Luminosity Attacks Required 3 to 2 choice huge heal sustain vs larger AoE stun heal",
+    "tags": [
+      "DAWNBREAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT_20",
+      "TALENT"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left: -4s Starbreaker Cooldown. Right: +80% Celestial Hammer Cast Range/Speed. Choose -4s Starbreaker Cooldown to become a relentless initiator and disabler, reducing its cooldown to as low as 7 seconds. This is ideal for core Dawnbreaker. Choose +80% Celestial Hammer Cast Range/Speed for unparalleled range and zoning; the range becomes 1260/1620/1980/2340, allowing you to scout, initiate, or escape from extreme distances, better for a utility or save-oriented playstyle.",
+    "search_text": "Talent Level 25 Dawnbreaker Left -4s Starbreaker Cooldown 7 seconds low cd Right +80% Celestial Hammer Cast Range Speed 1260 1620 1980 2340 range choice spam initiation vs extreme range utility",
+    "tags": [
+      "DAWNBREAKER",
+      "TALENT_LEVEL_DATA",
+      "TALENT_25",
+      "TALENT"
+    ]
+  }
+]

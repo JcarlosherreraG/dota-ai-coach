@@ -1,0 +1,69 @@
+[
+  {
+    "display_text": "Linken's Sphere, Cost: 4800: A defensive item with Spellblock, a passive ability that automatically blocks most targeted spells once every 14 seconds. Its active, Transfer Spellblock, can remove the passive from the owner and grant it to an allied hero for 14 seconds, creating flexible defensive plays. This allows it to either self-protect a key carry or save a vulnerable ally from a critical disable. Stats: CD: 14s, Block Cooldown: 14s, Transfer Duration: 14s.",
+    "search_text": "spellblock item, save item, targeted spell block, defensive item, block spells, disable counter, protection item, spell shield, transfer spellblock, protect ally, counter single target, anti disable, magic defense, Linkens, Linken's Sphere",
+    "tags": [
+      "ITEM_DATA",
+      "LINKENS_SPHERE",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "VS_CONTROL",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Linken's Sphere, Cost: 4800: Provides a balanced stat profile useful for most heroes. It offers +16 to all attributes, boosting health, mana, damage, and armor. Additionally, it provides +6.5 health regeneration and +4.25 mana regeneration, enhancing overall lane and map sustain. Stats: All Attributes: +16, HP Regen: +6.5, MP Regen: +4.25.",
+    "search_text": "Linkens stats, attributes item, all stats item, universal stats, health regen item, mana regen item, stat booster, tanky stats, Linken's Sphere",
+    "tags": [
+      "ITEM_DATA",
+      "LINKENS_SPHERE",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "HEALTH",
+      "MANA",
+      "REGEN",
+      "MANA_REGEN",
+      "UTILITY"
+    ]
+  },
+  {
+    "display_text": "Linken's Sphere, Cost: 4800: Acts primarily as a defensive save and disable counter in team fights. Its passive Spellblock can negate a key initiating spell like a stun or hex, protecting the wearer and preventing a crucial pick-off. The active ability to transfer the block to an ally enables supports to save their core from a distance, turning a potential enemy initiation into a failed engagement. Stats: CD: 14s.",
+    "search_text": "team fight save, protect carry, anti initiation, counter initiation, disable immunity, save ally, defensive team fight, spell block save, team utility, Linken's Sphere",
+    "tags": [
+      "ITEM_DATA",
+      "LINKENS_SPHERE",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "SAVE",
+      "DEFENSIVE",
+      "VS_CONTROL"
+    ]
+  },
+  {
+    "display_text": "Linken's Sphere, Cost: 4800: A situational item against teams with key single-target disables or nukes (e.g., Doom, Laguna Blade, Fiend's Grip). It is less effective against teams with abundant area-of-effect spells or multiple low-cooldown targeted abilities that can pop the block easily. Prioritize this on mobile, high-priority cores who are the primary target for enemy disables. Stats: Block Cooldown: 14s.",
+    "search_text": "situational vs disables, vs single target spells, counter doom, counter hex, vs lockdown, disable counter item, situational defense, vs nukes, Linken's Sphere",
+    "tags": [
+      "ITEM_DATA",
+      "LINKENS_SPHERE",
+      "SITUATIONAL_VS_CONTROL",
+      "FULL_ITEM",
+      "VS_CONTROL",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Linken's Sphere, Cost: 4800: Synergizes well with heroes who have high mobility or built-in survivability, as it protects them from the one spell that could lock them down and allow them to die. It's a common build-up item for heroes like Weaver, Morphling, and Storm Spirit, who are slippery but vulnerable to specific instant disables. The stats also benefit mana-intensive heroes.",
+    "search_text": "synergy linkens, hero build, weaver item, morphling item, storm spirit item, slippery hero item, mobile core item, mana hungry hero, Linken's Sphere",
+    "tags": [
+      "ITEM_DATA",
+      "LINKENS_SPHERE",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "MOBILITY",
+      "MANA",
+      "CARRY_ITEM"
+    ]
+  }
+]

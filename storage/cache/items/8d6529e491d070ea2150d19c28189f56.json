@@ -1,0 +1,74 @@
+[
+  {
+    "display_text": "Butterfly, Cost: 5450: Provides agility, attack speed, damage, and evasion to become a powerful physical carry item. Grants 35% Evasion (stacks diminishingly) and +20% attack speed, making heroes extremely difficult to hit and boosting DPS significantly. A signature late-game luxury item for Agility heroes. Stats: Evasion: 35%, Attack Speed: +20%",
+    "search_text": "evasion item, agi carry item, agility item, physical damage item, attack speed item, agility stat item, butterfly, late game item, luxury item, dps item, Butterfly, evasion boost, miss chance, dodge item, carry damage",
+    "tags": [
+      "ITEM_DATA",
+      "BUTTERFLY",
+      "CORE_MECHANICS",
+      "FULL_ITEM",
+      "EVASION",
+      "AGILITY",
+      "ATTACK_SPEED",
+      "DAMAGE",
+      "VS_PHYSICAL",
+      "CARRY_ITEM",
+      "LATE_GAME"
+    ]
+  },
+  {
+    "display_text": "Butterfly, Cost: 5450: Stats: +35 Agility, +20% Attack Speed, +25 Damage, +35% Evasion. The combination provides a massive boost to Agility-dependent heroes, significantly increasing their right-click damage output, armor, and attack speed.",
+    "search_text": "butterfly stats, agility stats, dps stats, agility damage, attack speed stats, butterfly cost, Butterfly",
+    "tags": [
+      "ITEM_DATA",
+      "BUTTERFLY",
+      "STAT_PROFILE",
+      "FULL_ITEM",
+      "AGILITY",
+      "ATTACK_SPEED",
+      "DAMAGE",
+      "EVASION"
+    ]
+  },
+  {
+    "display_text": "Butterfly, Cost: 5450: Transforms Agility heroes into hard-to-kill physical damage dealers in team fights. The significant Evasion forces enemies to build counter-items like Monkey King Bar, and the high Agility provides armor alongside damage, increasing survivability and DPS.",
+    "search_text": "team fight agility, carry survivability, dodge in fight, physical carry item, team fight butterfly, evasion tank, Butterfly",
+    "tags": [
+      "ITEM_DATA",
+      "BUTTERFLY",
+      "TEAMFIGHT_ROLE",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "EVASION",
+      "SURVIVAL",
+      "VS_PHYSICAL"
+    ]
+  },
+  {
+    "display_text": "Butterfly, Cost: 5450: Situational versus Physical Damage: The 35% Evasion makes the hero extremely resilient against enemy physical damage sources, forcing them to either buy accuracy items or focus magical damage. Very effective against lineups lacking built-in True Strike.",
+    "search_text": "butterfly vs physical, evasion vs right click, physical defense butterfly, dodge attacks, vs carries, physical carry counter, Butterfly",
+    "tags": [
+      "ITEM_DATA",
+      "BUTTERFLY",
+      "SITUATIONAL_VS_PHYSICAL",
+      "FULL_ITEM",
+      "EVASION",
+      "VS_PHYSICAL",
+      "DEFENSIVE"
+    ]
+  },
+  {
+    "display_text": "Butterfly, Cost: 5450: Synergy Build: Core luxury item for Agility heroes scaling with right-click damage and attack speed, such as Phantom Assassin, Templar Assassin, or Terrorblade. Its value multiplies on heroes who already have high base damage or critical strike abilities.",
+    "search_text": "butterfly synergy, agi hero item, luxury agi item, best for agility, butterfly build, butterfly carry, Butterfly",
+    "tags": [
+      "ITEM_DATA",
+      "BUTTERFLY",
+      "SYNERGY_BUILD",
+      "FULL_ITEM",
+      "CARRY_ITEM",
+      "AGILITY",
+      "ATTACK_SPEED",
+      "LATE_GAME"
+    ]
+  }
+]

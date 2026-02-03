@@ -1,0 +1,215 @@
+[
+  {
+    "display_text": "Visage is a Ranged hero with an Attack Rate of 1.7, giving him a standard attack speed. His base stats are balanced with 22 Strength, 11 Agility, and 22 Intelligence, offering decent starting health and mana but very low base armor due to his low Agility. He is a moderately tanky intelligence hero in the laning phase.",
+    "search_text": "Visage stats attack type ranged attack rate 1.7 base strength 22 base agility 11 base intelligence 22 starting health mana armor",
+    "tags": [
+      "VISAGE",
+      "BASE_STATS"
+    ]
+  },
+  {
+    "display_text": "Visage has three Facets. Sepulchre: Grave Chill also affects units around the target. Visage can also recall his familiars. This facilitates a more teamfight-oriented playstyle, allowing for area-of-effect slow and recall for micro safety. Faithful Followers: Familiars automatically move with Visage and attack his targets. This facilitates a low-micro, lane-focused playstyle, freeing the player to concentrate on Visage's own actions. Death Toll: Soul Assumption kills give bonus gold. Visage can also recall his familiars. This facilitates a greedier, snowballing playstyle, accelerating item timings through kill gold while retaining the safety of familiar recall.",
+    "search_text": "Visage facets sepulchre grave chill aoe recall faithful followers auto attack death toll soul assumption bonus gold recall",
+    "tags": [
+      "VISAGE",
+      "FACET_STRATEGY"
+    ]
+  },
+  {
+    "display_text": "In the laning phase, Visage uses his high base damage and Grave Chill to dominate trades. Use Grave Chill (cooldown 17-11) to drain 25-70 attack speed and 12-30 movement speed from an enemy, gaining it for yourself for 5 seconds. Soul Assumption is a powerful nuke but requires charges; it deals 20 base damage plus 70 per charge, with a max of 6 charges at level 4. Play aggressively when you have charges. Gravekeeper's Cloak provides 8-20% damage reduction per layer, with 4 layers. Avoid frequent small hits to maintain your damage block.",
+    "search_text": "Visage laning phase grave chill attack speed slow movement speed slow soul assumption nuke charges gravekeepers cloak damage reduction layers",
+    "tags": [
+      "VISAGE",
+      "LANING_PHASE"
+    ]
+  },
+  {
+    "display_text": "Visage's power spikes are at Level 6 (Summon Familiars), Level 12 (Maxed Soul Assumption and Gravekeeper's Cloak), Level 18 (Level 3 Familiars with 75 damage each), Level 20 (+25 Soul Assumption Damage Per Charge talent), and Level 25 (+1 Familiar talent). Key item timings are Solar Crest or Medallion for armor reduction sync with familiars, Aghanim's Scepter for Silent as the Grave, and Heart of Tarrasque for survivability.",
+    "search_text": "Visage power spikes level 6 summon familiars level 12 soul assumption max level 18 familiar damage 75 level 20 talent damage per charge level 25 talent extra familiar",
+    "tags": [
+      "VISAGE",
+      "POWER_SPIKES"
+    ]
+  },
+  {
+    "display_text": "Visage is hard countered by heroes with Break (e.g., Shadow Demon, Doom) which disables the gaining of new Gravekeeper's Cloak and Lurker stacks, though existing stacks remain. Instant disables like Hex prevent Stone Form activation. High burst physical damage heroes can quickly kill Familiars (100 gold bounty each). Area-of-effect damage and control can stun multiple Familiars during Stone Form cast.",
+    "search_text": "Visage counters break disables gravekeepers cloak lurker hex prevents stone form familiars die fast bounty 100 gold aoe stun",
+    "tags": [
+      "VISAGE",
+      "HARD_COUNTERS"
+    ]
+  },
+  {
+    "display_text": "Core items for Visage are Solar Crest/Medallion of Courage: The armor reduction synergizes perfectly with Familiar attacks. Aghanim's Scepter: Grants Silent as the Grave, providing invisibility, flying movement, and a 20 damage bonus on breaking invis for 4 seconds, essential for initiation and escape. Heart of Tarrasque: Provides the massive health pool needed for Visage and his Familiars to survive in fights.",
+    "search_text": "Visage core build solar crest medallion armor reduction aghanims scepter silent grave invisibility flying heart tarrasque health survival",
+    "tags": [
+      "VISAGE",
+      "CORE_BUILD"
+    ]
+  },
+  {
+    "display_text": "In teamfights, Visage's role is to deal sustained physical damage with his Familiars while providing control. Use Grave Chill on a key target to slow them and boost your and your Familiars' attack speed. Position Familiars to focus fire a single hero. Use Soul Assumption as a burst nuke when fully charged. Use Stone Form to stun (0.8-1.2s) and damage (60-140) key areas or to save Familiars by making them invulnerable and healing them (150-200 HP regen).",
+    "search_text": "Visage teamfight role physical damage familiars control grave chill slow soul assumption nuke stone form stun save familiars heal",
+    "tags": [
+      "VISAGE",
+      "TEAMFIGHT_ROLE"
+    ]
+  },
+  {
+    "display_text": "Grave Chill: Visage drains the movement and attack speed of the targeted unit, gaining it for itself and nearby familiars. Cooldown: 17/15/13/11. Attack Speed Bonus Gained: 25/40/55/70. Movement Speed Bonus Gained: 12/18/24/30. Chill Duration: 5 seconds. Radius for Familiar Buff: 900. The buffs can be removed separately by dispels. The speed gained is independent of the speed lost on the target.",
+    "search_text": "Visage ability grave chill Q slow movement speed attack speed steal drain cooldown 17 15 13 11 duration 5 radius 900 familiars buff",
+    "tags": [
+      "VISAGE",
+      "ABILITY_DATA",
+      "GRAVE_CHILL"
+    ]
+  },
+  {
+    "display_text": "Soul Assumption: Visage gathers charges each time nearby heroes take more than 100 damage. When released, it deals 20 base damage plus 70 damage per charge, up to a limit of 3/4/5/6 charges. Stack Duration: 6.0 seconds. Damage only counts for damage greater than 2.0 and less than 3000.0 from a player or Roshan. Soul Assumption itself and self-damage are not counted. Does NOT pierce BKB.",
+    "search_text": "Visage ability soul assumption W nuke burst damage charges 3 4 5 6 base damage 20 per charge 70 stack duration 6 seconds bkb piercing no",
+    "tags": [
+      "VISAGE",
+      "ABILITY_DATA",
+      "SOUL_ASSUMPTION"
+    ]
+  },
+  {
+    "display_text": "Gravekeeper's Cloak: Visage generates a barrier with 4 layers that protects him from damage. Each layer provides 8/12/16/20% damage reduction. Minimum Damage to remove a layer: 40. If he receives damage greater than 40 from a player, one layer is removed. Layers recover after 7/6/5/4 seconds. Familiars within 900 range receive the current damage reduction. Break disables gaining new stacks but existing stacks remain.",
+    "search_text": "Visage ability gravekeepers cloak E passive damage reduction 8 12 16 20 per layer 4 layers minimum damage 40 recovery time 7 6 5 4 radius 900 familiars break disables",
+    "tags": [
+      "VISAGE",
+      "ABILITY_DATA",
+      "GRAVEKEEPERS_CLOAK"
+    ]
+  },
+  {
+    "display_text": "Stone Form (Familiar): After a 0.55 second delay, the Familiar turns to stone, stunning enemies in a 375 radius for 0.8/1.0/1.2 seconds and dealing 60/100/140 magic damage. The Familiar becomes invulnerable and regenerates 150/175/200 HP per second for 6.0 seconds, after which it automatically revives. Can be alt-cast to move to a location first. The stun can be removed by strong dispels.",
+    "search_text": "Visage ability stone form familiar R stun aoe damage 60 100 140 delay 0.55 duration 0.8 1.0 1.2 radius 375 invulnerable heal 150 175 200 hp regen 6 seconds alt cast",
+    "tags": [
+      "VISAGE",
+      "ABILITY_DATA",
+      "STONE_FORM"
+    ]
+  },
+  {
+    "display_text": "Silent as the Grave (Aghanim's Scepter Upgrade): Turns Visage and familiars invisible for 30 seconds, granting 20 bonus movement speed and flying movement. Invisibility ends when attacking or casting. When leaving invisibility, Visage and familiars deal 20 bonus damage for 4 seconds.",
+    "search_text": "Visage ability silent grave aghanims scepter upgrade invisibility flying movement speed 20 bonus damage 20 duration 4 seconds 30 second duration",
+    "tags": [
+      "VISAGE",
+      "ABILITY_DATA",
+      "SILENT_AS_THE_GRAVE"
+    ]
+  },
+  {
+    "display_text": "Summon Familiars: Conjures 2 Familiars. Familiar Attack Damage: 25/50/75. Familiar HP: 500/600/700. Familiar Armor: 2/3/4. Familiar Base Movement Speed: 430. Familiar Attack Range: 180. Familiar Bounty: 100 gold each. Familiars possess the Stone Form ability. Casting this ability replaces existing Familiars.",
+    "search_text": "Visage ultimate summon familiars R summon 2 units attack damage 25 50 75 hp 500 600 700 armor 2 3 4 move speed 430 range 180 bounty 100 gold stone form",
+    "tags": [
+      "VISAGE",
+      "ABILITY_DATA",
+      "SUMMON_FAMILIARS"
+    ]
+  },
+  {
+    "display_text": "Lurker: Visage's ability cooldown durations are accelerated as long as he's not taking damage. Grants a stack every 2.0s, up to 8 stacks. Each stack grants 2.0% cooldown acceleration. Stacks fade after 2s upon taking any damage. Break disables gaining new stacks but existing stacks remain. Affects spells already on cooldown.",
+    "search_text": "Visage passive lurker cooldown reduction acceleration stacks 8 max stack gain time 2.0 seconds each stack 2 percent fade time 2 seconds break disables",
+    "tags": [
+      "VISAGE",
+      "ABILITY_DATA",
+      "LURKER"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus High Magic Burst. Prioritize maxing Gravekeeper's Cloak to gain 20% damage reduction per layer. Build a Pipe of Insight. Use Stone Form defensively to make Familiars invulnerable and heal them through the burst. Position carefully to avoid having your Cloak layers stripped quickly by chip damage.",
+    "search_text": "Visage situation high magic burst pipe of insight gravekeepers cloak damage reduction stone form heal invulnerable familiars positioning",
+    "tags": [
+      "VISAGE",
+      "SITUATIONAL",
+      "VS_MAGIC_BURST"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Illusion or Summon Heroes. Your Familiars' 75 damage at level 18 and your own attacks are single-target. Consider a Shiva's Guard for the armor and active slow. Use Grave Chill on the real hero. Soul Assumption charges quickly but choose your target carefully amidst the chaos.",
+    "search_text": "Visage situation illusions summons shivas guard armor slow grave chill identify real hero soul assumption target",
+    "tags": [
+      "VISAGE",
+      "SITUATIONAL",
+      "VS_ILLUSIONS"
+    ]
+  },
+  {
+    "display_text": "Scenario: Playing from Behind. Focus on split-pushing with Familiars, using their 75 damage to take towers. Use the Death Toll facet for comeback gold from Soul Assumption kills. Build survivability items like Heart or defensive items like Lotus Orb. Avoid 5v5 fights until you have key items.",
+    "search_text": "Visage situation behind split push familiars take towers death toll facet gold soul assumption kills heart lotus orb survival",
+    "tags": [
+      "VISAGE",
+      "SITUATIONAL",
+      "FROM_BEHIND"
+    ]
+  },
+  {
+    "display_text": "Scenario: Sieging High Ground. Use Familiars to hit the tower from 180 range. Keep Visage back to preserve Gravekeeper's Cloak layers. Have Stone Form ready to stun enemies who initiate or to save Familiars from dive. Use Silent as the Grave to scout or reposition.",
+    "search_text": "Visage situation high ground siege familiars range 180 hit tower gravekeepers cloak preservation stone form stun save silent grave scout",
+    "tags": [
+      "VISAGE",
+      "SITUATIONAL",
+      "SIEGING"
+    ]
+  },
+  {
+    "display_text": "Scenario: Versus Heroes with Break. Your Gravekeeper's Cloak and Lurker cannot gain new stacks under Break. Play extremely cautiously, as your survivability and cooldown acceleration are crippled. Prioritize items that provide raw stats like Heart or Skadi over utility. Stick close to allies for protection.",
+    "search_text": "Visage situation break disables gravekeepers cloak lurker stacks survivability gone play safe heart skadi stats stick with team",
+    "tags": [
+      "VISAGE",
+      "SITUATIONAL",
+      "VS_BREAK"
+    ]
+  },
+  {
+    "display_text": "Scenario: With a Wombo-Combo Setup Team. Your role is follow-up damage. After your initiator lands a big stun, use Grave Chill on a key target, send in Familiars, and use a fully charged Soul Assumption. Use Stone Form to chain-stun the disabled enemies. The Sepulchre facet is excellent here for the AOE slow.",
+    "search_text": "Visage situation wombo combo setup follow up damage grave chill familiars soul assumption charged stone form chain stun sepulchre facet aoe slow",
+    "tags": [
+      "VISAGE",
+      "SITUATIONAL",
+      "WITH_SETUP"
+    ]
+  },
+  {
+    "display_text": "Level 10 Talents: Left: +4 Lurker Max Stacks. Increases maximum cooldown acceleration stacks from 8 to 12, providing up to 24% cooldown reduction when untouched. Right: +6 Visage and Familiars Attack Damage. Provides a flat damage increase for all physical attacks. Choose +4 Lurker Max Stacks if you can avoid damage and spam spells like Grave Chill and Soul Assumption more. Choose +6 Attack Damage if you are focusing on right-click and Familiar damage in the mid-game.",
+    "search_text": "Visage talent level 10 left 4 lurker max stacks cooldown reduction right 6 visage familiars attack damage physical dps choice",
+    "tags": [
+      "VISAGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_10"
+    ]
+  },
+  {
+    "display_text": "Level 15 Talents: Left: +2s Grave Chill Duration. Extends the slow and attack speed buff/debuff duration from 5s to 7s. Right: +6 Visage and Familiars Attack Damage. Another source of flat physical damage increase. Choose +2s Grave Chill Duration for superior chase and lockdown, especially with the Sepulchre facet. Choose +6 Attack Damage if you need to burst heroes down quickly with physical damage.",
+    "search_text": "Visage talent level 15 left 2s grave chill duration slow right 6 visage familiars attack damage physical burst choice",
+    "tags": [
+      "VISAGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_15"
+    ]
+  },
+  {
+    "display_text": "Level 20 Talents: Left: Soul Assumption Hits =3 Targets. A second Soul Assumption is launched towards a random enemy unit within cast range, prioritizing Heroes. Right: +25 Soul Assumption Damage Per Charge. Increases damage per charge from 70 to 95. Choose the multi-hit talent for teamfight AOE damage and against illusion heroes. Choose the +damage per charge talent for single-target burst to delete a key hero.",
+    "search_text": "Visage talent level 20 left soul assumption hits 3 targets aoe multi hit right 25 soul assumption damage per charge burst single target choice",
+    "tags": [
+      "VISAGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_20"
+    ]
+  },
+  {
+    "display_text": "Level 25 Talents: Left: +1 Armor Corruption to Visage and Familiars. Familiars reduce enemy armor by 1 per hit. This effect can stack among multiple sources. Right: +1 Familiar. Summons a third Familiar. Choose Armor Corruption against high-armor targets to amplify physical damage from your entire team. Choose +1 Familiar for maximum physical DPS, tower push, and extra Stone Form stun control.",
+    "search_text": "Visage talent level 25 left 1 armor corruption per hit familiars reduce armor right 1 familiar third unit extra dps stun push choice",
+    "tags": [
+      "VISAGE",
+      "TALENT_LEVEL_DATA",
+      "TALENT",
+      "TALENT_25"
+    ]
+  }
+]

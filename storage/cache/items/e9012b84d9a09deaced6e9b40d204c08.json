@@ -1,0 +1,17 @@
+[
+  {
+    "display_text": "Craggy Coat, Cost: 0: Tier Unknown. Grants you an extra 6 bonus armor at the cost of -20 movement speed. Lasts 6 seconds. No stats are provided when the active is not used. Stats: CD: 12s, Duration: 6s, Bonus Armor: +6, Move Speed Slow: -20.",
+    "search_text": "active armor, defensive active, temporary armor, armor buff, movement speed cost, active ability, trade off, durability active, self buff, Craggy Coat",
+    "tags": [
+      "ITEM_DATA",
+      "CRAggy_COAT",
+      "CORE_DESCRIPTION",
+      "NEUTRAL",
+      "ARMOR",
+      "DEFENSIVE",
+      "ACTIVE",
+      "UTILITY",
+      "SURVIVAL"
+    ]
+  }
+]
