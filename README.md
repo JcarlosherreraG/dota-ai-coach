@@ -389,21 +389,21 @@ These tools are for developers who want to rebuild or modify the knowledge base.
 go run ./cmd/rag/base-knowledge-loader
 ```
 
-Loads base knowledge (heroes, items, abilities) from JSON files and creates text chunks using LLM.
+Loads base knowledge (heroes, items, abilities) from JSON files (dotaconstants, Stratz API) and creates text chunks using LLM.
 
 #### Vectorization
 ```bash
 go run ./cmd/rag/knowledge-vectorizer
 ```
 
-Converts text knowledge to BERT vectors and stores them in Chroma DB.
+Converts text knowledge to BERT vectors and stores them in assets/rag/knowledge.json
 
 #### Prompt Debugging
 ```bash
 go run ./cmd/rag/prompt-debug
 ```
 
-Outputs generated prompts for debugging purposes.
+Generation of final prompts based on data in internal/prompt/testdata
 
 ## License
 
