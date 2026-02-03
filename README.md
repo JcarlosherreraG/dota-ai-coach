@@ -16,7 +16,7 @@ An intelligent AI assistant for Dota 2 that analyzes game situations in real-tim
 
 ## Requirements
 
-- **Go** 1.21.0+
+- **Go** 1.24.0+
 - **Windows** (uses WinAPI)
 - **Dota 2**
 - **API key** from Gemini or OpenRouter
