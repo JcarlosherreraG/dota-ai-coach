@@ -311,7 +311,7 @@ GameHelper/
 │   │   └── prompt.go                  # Prompt queue and timer management
 │   └── rag/                           # RAG system tools
 │       ├── base-knowledge-loader/     # Loads JSON knowledge bases and create chunks with LLM
-│       ├── knowledge-vectorizer/      # Converts text to vectors and saves to Chroma
+│       ├── knowledge-vectorizer/      # Converts text to vectors and saves to assets/rag/knowledge.json
 │       └── prompt-debug/              # Debug tool for running prompt scenarios
 ├── internal/
 │   ├── ai/                            # AI provider integration
@@ -352,10 +352,7 @@ GameHelper/
 │       ├── input.go                   # Input handling
 │       └── keyboard.go                # Hotkey handling
 ├── assets/                            # Embedded data and templates
-│   ├── data/                          # Knowledge base in JSON
-│   │   ├── heroes.json                # Hero descriptions with abilities
-│   │   ├── items.json                 # Item descriptions
-│   │   └── aghs_desc.json             # Aghanim's upgrades
+│   ├── data/                          # Knowledge base in JSON         
 │   ├── prompts/                       # Text templates for prompts
 │   │   ├── base-coach-system-prompt.txt
 │   │   ├── bd-queries-generator.txt
@@ -364,7 +361,7 @@ GameHelper/
 │   ├── rag/
 │   │   └── knowledge.json             # Combined knowledge base
 │   └── embed.go                       # go:embed directives
-├── storage/                           # Cache and models (git ignored)
+├── storage/                           # Batches cache and models 
 │   └── cache/                         # LLM response cache
 │       ├── aghs_desc/
 │       ├── heroes/
