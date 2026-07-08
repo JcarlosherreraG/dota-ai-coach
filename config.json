@@ -1,10 +1,10 @@
 {
   "local_gsi_port": 6000,
-  "provider": "openrouter",
-  "model": "openai/gpt-4o-mini",
+  "provider": "gemini",
+  "model": "gemini-3.1-pro",
   "request_interval_seconds": 60,
   "silence_duration_seconds": 60,
-  "hotkey_turn_overlay": 120, 
+  "hotkey_turn_overlay": 120,
   "hotkey_focus_overlay": 121,
   "minSimilarity": 0.7
 }
